@@ -1,0 +1,5 @@
+Am 12.12.2010 16:57, schrieb Aldo Lasser:
+
+Wenn dein Programm einen Zufallsgenerator enthält, wird's schon schwieriger.
+
+Tim

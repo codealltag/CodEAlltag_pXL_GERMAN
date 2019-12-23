@@ -1,0 +1,9 @@
+Nils Imroth wrote:
+
+
+Jetzt geben sie nur noch die Zahl an und gegen stillschweigend davon 
+aus, daß der Tacho des Benutzers in km/h und nicht in Pc/ka geeicht 
+ist. 
+
+
+vG

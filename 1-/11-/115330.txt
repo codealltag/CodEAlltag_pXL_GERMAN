@@ -1,0 +1,7 @@
+Am 25.03.2011 11:32, schrieb Joël Angerschmied:
+
+Außer bei Erfrischungen. Dort bezeichnet "Cursor" in technischen Dokumenten
+ganz offiziell den Mauszeiger. Das, was alle anderen "Cursor" nennen,
+heißt bei Erfrischungen "Caret".
+
+Hansruedi

@@ -1,0 +1,11 @@
+Hier meint Elmar keine "Anwendung". Eine Linux-Distribution ist eine
+Zusammenstellung von Betriebssystem nebst Anwendungen (zum Zwecke der
+Weiterverteilung an den Anwender, auf welchem Wege auch immer). In der
+Tat gibt es davon vielleicht nicht gleich Hunderte, aber doch -zig
+verschiedene, auch wenn nur wenige einen höheren Bekanntheitsgrad
+haben.
+
+-- 
+Bernhard Reißlöhner       IRC: Oberste-Hetbleck     prtiih@vhpfru.nxp-jijuz.sk 
+URL: http://xxbd.ccemjy.mht-suoum.em/~jhhazbm/ywfv/
+"Der Kopf muss das dritte Bein sein."  ---  Bernd Kirschenlohr

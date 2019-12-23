@@ -1,0 +1,7 @@
+Am 06.12.2010 09:55, schrieb Raphael Clases:
+
+Brauche ich keine MFD-Lizenz, um WINE zu benutzen?
+
+Für ein Windows auf der VBox brauch ich sicher eine.
+
+Willibald

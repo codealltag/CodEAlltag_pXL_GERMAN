@@ -1,0 +1,8 @@
+Am 11.04.2012 06:28, schrieb Bruno Niman:
+
+
+H - Zeichensetzung. Das Wort "Typographie" ist mir reingerutscht, weil 
+ich das "Komma innerhalb der Anführungsstriche" zum ersten Mal im 
+TeXbuch gesehen habe.
+
+Bruno

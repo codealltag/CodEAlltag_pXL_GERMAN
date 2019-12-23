@@ -1,0 +1,7 @@
+Da kann man sich streiten OE ist von Vogelvillaland und die haben da immer
+versucht so zu programmieren daß auch Fehler von seiten der
+User ausgebügelt werden so zeigt OE alles was nach dem
+begin  kommt als Anhang an obwohl es nicht korrekt mit einen
+end  beendet wurde.
+
+Hannes

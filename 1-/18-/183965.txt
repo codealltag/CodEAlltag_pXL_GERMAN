@@ -1,0 +1,33 @@
+On Sat, 6 Jan 2012, Ivo Pense wrote:
+
+
+Und "schenken" und "geben" haben Akkusativobjekte, sind mithin transitiv. 
+
+
+über *beides*, d.h. über die Realisierung semantischer Rollen mittels 
+Kasus, Präpositionen oder auf andere Weise, z.B. über die Satzstellung.
+
+War schon breit diskutiert worden, z.B. in 
+<Pine.EGL.6.02.9067083243938.8792@bojhi08.wu.glc.uh>.
+
+Ich stimme mit Ivo überein, dass "transitiv" (kann ein Akkusativobjekt 
+haben, muss aber nicht) eigentlich ein sehr willkürliches Kriterium ist: 
+was ist bei solchen Verben anders als bei anderen? Ich denke, das Wort  
+"transitiv" ist sinnvoll, wenn man bei zwei gleichlautenden Verben 
+das transitive ("ich verbrenne das Papier", "ich zerbreche den Krug", "ich 
+erschrecke das Tier") vom intransitiven ("das Papier verbrennt", "der Curtius 
+zerbricht", "das Tier erschrickt") unterscheiden will. Die beiden werden 
+ja beim übersetzen in andere Sprachen meist verschieden, bis aufs
+Englische, wo sie manchmal noch gleicher werden ("I grow tomatoes", "the 
+tomatoes grow"; "I open the door", "the door opens").
+
+
+Ich sehe am korrekten Passiv nichts Umgangssprachliches:
+
+  Mir wird geholfen.
+
+Die Bildungsregeln habe ich schon x-mal hier abgesondert, z.B. in
+<Pine.BRI.2.01.6571546494743.5979@bzcyi98.rfb.qcm-vmpvupkg.fg>
+
+-- 
+Josef Angerlechner

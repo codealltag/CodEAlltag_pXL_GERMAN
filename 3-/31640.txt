@@ -1,0 +1,14 @@
+Das ist zu einer unabsichtlichen Suche nach einem Rechtschreibfehler
+geworden. Die Stadt heißt "Mumbai".
+
+bombay -mumbai: 12,162
+bombay rehau:   9,168
+rehau -bombay: 80.554
+
+
+Ich nehme an, dass die deutschsprachigen Medien der Vorgabe der
+englischsprachigen folgen, von denen sie die Meldungen ohnehin
+abschreiben.
+
+-- 
+Gerd "naddy" Uffenorde                          imsfo@fjst.cyqj.id

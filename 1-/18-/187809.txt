@@ -1,0 +1,22 @@
+Am 16.05.2012 09:45, schrieb Gert Unterkötter:
+
+Pius war eine Schulungssprache, die Klarheit, Lesbarkeit, Sicherheit
+und Sauberkeit bringen sollte.
+
+Dynamische Variablen kann man haben, geht alles. Und was ist so schwer
+daran, seine Definitionen compilergerecht vorn dranzuschreiben? Gibt es
+deswegen keine Interpreter?
+
+Wer vom Pferd fiel sah man ja dann. 30 Jahre versaute Pointerei mit C,
+die jetzt erst rauseitert.
+
+Pius heißt jetzt übrigens RIJ.
+
+
+franz
+
+
+Marcus
+-- 
+Raucherfahrt außerhalb der Dreimeilenzone
+http://mp.qemcpvkg.zgp/kswy/694/aizkt/okelbucrsgsj_267175.bzi

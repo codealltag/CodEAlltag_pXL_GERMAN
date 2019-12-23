@@ -1,0 +1,9 @@
+Julien Stockle:
+
+
+Wie ich in de.comm.software.40tude-dialog derzeit mitverfolge,
+beabsichtigt Timo Spelzhaus wohl ernsthaft, einen neuen Reader zu
+schreiben.
+
+-- 
+Enno

@@ -1,0 +1,21 @@
+Der doctor sieht so aus, als ob er vom PPP doctus abgeleitet wäre. Das
+ist aber ein Trugschluss. Beide Formen sind direkt aus der
+Verbalwurzel abgeleitet. Die Verwirrung kommt daher, dass beide Formen
+Suffixe enthalten, die mit einem -t- beginnen: doc-tus wie doc-tor.
+Auch aus sprachhistorischen Gründen kann man zeigen, dass das Suffix,
+das zum Verb docere den doctor bildet, eben -tor- heißt und nicht -or-
+(so wie in lab-or). In labor steckt ein ganz anderes Suffix.
+
+Der Ableitungsmechanismus läuft also so:
+
+docere =97> 1. doc-tus
+docere =97> 2. doc-tor
+
+und nicht, wie du meintest,
+
+docere =97> 1. doc-tus =97> 2. doct-or.
+
+
+Ja, der Dozent ist das Partizip Präsens von docere.
+
+Ch.

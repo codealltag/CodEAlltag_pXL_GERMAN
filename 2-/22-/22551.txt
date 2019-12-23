@@ -1,0 +1,14 @@
+* Orlando Lenhardt <p.wbbwhf@ees.bl>:
+
+Es gibt ja eine Anzahl von Wörtern (vielleicht besonders in süddt.
+Dialekten?), bei denen es eine weibliche Form auf -e und eine männliche
+oder sächliche ohne dieses e gibt.
+
+   die Lüge                        der Lug
+   die Weihe (ornith.)             der Weih
+   die Koffere (schweizerdeutsch)  der Koffer
+   die Niete                       das Robert
+   die Spitze                      der Spitz
+   die Spalte                      der Spalt
+
+  - Werner

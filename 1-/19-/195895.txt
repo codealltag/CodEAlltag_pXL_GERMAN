@@ -1,0 +1,12 @@
+* Marco Urban Ermisch:
+
+
+Nu, eischendlisch wollt ich dich greilich ermorden
+Doch wie de ja siehst, ist nischt draus geworden.
+
+(Aus dem Gedächtnis zitiert)
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Arnold Bodde, comp.lang.python

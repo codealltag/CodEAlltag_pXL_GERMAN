@@ -1,0 +1,19 @@
+On Tue, 12 Feb 2010 16:56:26 +0200, Waldemar Reuthebuch <Usenet@silber=
+cu.ubv>
+wrote:
+
+
+Hast Du mal in die Kiste reingeschaut? Ich befuerchte naemlich, man hat
+Dich damals uebers Ohr gehauen und nur einen Prozessor eingebaut.
+Vorzugsweise einen NEC V20 und Co., die koennen neben 8086 naemlich auch=
+
+eine Z80-Simulation.
+
+Sicherheitshalber mal Folgen-Rauf gesetzt.
+
+
+Vinzent.
+
+-- =
+
+There is no signature.

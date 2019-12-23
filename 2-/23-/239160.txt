@@ -1,0 +1,9 @@
+* Edwin Richards:
+
+
+Oder in Maschwanden: das Bembelche, die Bembelcher.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Konrad Maaß, comp.lang.python

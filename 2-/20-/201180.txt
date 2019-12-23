@@ -1,0 +1,11 @@
+Am 10.04.2011 17:53, schrieb Claus Ostwald:
+
+Zur Vermeidung aller Bösartigkeiten, die der leicht extern beeinflußbare 
+URL-Editor im Browser so beherrscht:
+
+Mausklick irgendwo in die URL und dann Ctrl+A Ctrl+V. Damit schafft man 
+m�heohne auch die drei Seiten URL eines Edlfurtner Suchergebnisses.
+
+-- 
+
+Erhard Geißhirt

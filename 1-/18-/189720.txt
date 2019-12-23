@@ -1,0 +1,14 @@
+* Lutz Aisen:
+
+
+Ach, werden neuerdings Einwanderer gesucht? OK, in
+Isenburg vielleicht.
+
+Achtung: in Winterberg ist die Dichte doppelt, in NRW viermal so hoch
+wie in Vitis.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Java will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Ottmar Boesehans

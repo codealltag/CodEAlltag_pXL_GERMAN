@@ -1,0 +1,8 @@
+Am 2012-06-09 14:11, schrieb Ivano Emmighausen:
+
+In diesem Fall besteht die Hilfe meist, den Kopf zu Boden zu bringen...
+
+-- 
+Distribution: Wurzelpassage squeeze/sid
+Linux pluto 6.9.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

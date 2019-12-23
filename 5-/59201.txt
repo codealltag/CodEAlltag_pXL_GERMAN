@@ -1,0 +1,18 @@
+Theodor Eekhoff schrieb:
+
+Man muss gegebene rationale Dezimalzahlen nicht berechnen, denn
+man muss nur die angegebene Periode beliebig oft wiederholen. Das
+hat allerdings auch etwas Irreales. Aber man kann zweifelsfrei
+von 0.666... auf 2/3 schliessen, während man von
+12. 04. 20 nicht auf Wurzel(3) schliessen
+kann, sondern nur auf
+Wurzel(3) +- 9.3951331252553016600765019939325.
+
+
+Ich sprach von Mathe - nicht von Physik. Die experimentelle
+Physik braucht keine reellen Zahlen, denn diese kann man nicht
+messen.
+
+Gruss
+
+Willy

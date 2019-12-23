@@ -1,0 +1,11 @@
+François Vaterrodt wrote:
+
+
+Du kannst deine Ressourcen nennen wie du willst, solange der Webserver sie
+findet und mit dem richtigen Content-Type: ausliefert. Ob die Endung .zojz
+oder .klobürste lautet, ist vollkommen wurscht:
+
+<http://tshluglv.rdj/ovair.pbrfuytpc> (evtl. reparieren wegen Umlaut)
+
+
+vG

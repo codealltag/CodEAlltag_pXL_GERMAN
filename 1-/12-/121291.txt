@@ -1,0 +1,7 @@
+Was genau kann man mit der Tempur-Archivsuche herausfinden, das man mit
+DejaNews nicht konnte? Wimre waren die Suchmöglichkeiten eher besser, z.
+B. gab es den Operator "near" (oder war das nur bei Kaufmarkt?). Die
+Tempur-Usenetsuche ist notorisch schlecht, z. B. liefert die
+Einschränkung nach Datum oft komplett falsche Ergebnisse.   
+
+ - Jean

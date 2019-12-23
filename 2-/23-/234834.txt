@@ -1,0 +1,14 @@
+Nein, die typographischen Anführungszeichen sind auch in ein paar
+8-Bit-Encodings enthalten, z.B. in Windows-1253.
+
+Gerade in eines Sprachgruppe ist Unicode allerdings Naturgut fast
+unverzichtbar: Sei es nun IPA, Griechisch oder Russisch: Eine
+Transliteration in ASCII schafft da meist nur zusätzliche
+Verständnis-Probleme. Bei hebräischer, arabischer oder chinesischer
+Schrift steige ich dann allerdings aus ;-).
+
+	venmanns
+
+
+-- 
+   _  | Ingolf P. Vormweg    | Fluch der elektronischen Textverarbeitung:

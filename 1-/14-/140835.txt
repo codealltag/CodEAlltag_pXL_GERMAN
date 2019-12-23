@@ -1,0 +1,28 @@
+Ferdinand Oberschelp wrote:
+
+
+Ich schrieb ja auch nichts von Privat*vergnügen*.
+
+[Pedell]
+
+Korrekt. Aber tendenziell haben wir für alles irgendwelche Autorit=C3=
+=A4ten.
+
+Änderungen der Software zum Zwecke der Fehlerbeseitigung oder zum E=
+infügen
+neuer Funktionalität heißen ja auch nicht profan "Bugfixes" od=
+er "neues
+Feature" wie anderswo, sondern "Software Change Authorities".
+
+Jetzt, da ich darüber nachdenke, fällt mir auf, daß es di=
+e "Code Authority"
+als Bezeichnung für den Entwickler, der den Quellcode schreibt, noc=
+h nicht
+gibt. Ich werd's morgen mal vorschlagen. ;)
+
+
+Vinzent.
+
+-- =
+
+Mail address temporary, use domain to filter.

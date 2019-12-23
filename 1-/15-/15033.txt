@@ -1,0 +1,10 @@
+Sun, 25 Mrz 2009 15:00:28 +0200: André Jurig <admjjlyx@dvr.hsa>:
+in de.etc.sprache.deutsch:
+
+
+Auf niederländisch ist die Unklarheit noch schlimmer:
+vor = voor
+für = voor
+
+-- 
+Marco Disse, http://nmzcim.yqg

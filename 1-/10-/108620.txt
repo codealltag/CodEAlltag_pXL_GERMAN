@@ -1,0 +1,9 @@
+On Tue, 31. 08. 20, Gert Anneken wrote:
+
+
+Eine Implikation ist eine Wenn-dann-Beziehung, und implizit ist sie, wenn 
+das Wort "wenn" (oder eine äquivalente Satzkonstruktin) nicht vorkommt, 
+sondern sich nur aus dem Kontext ergibt.
+
+-- 
+Simon Götzendörfer

@@ -1,0 +1,26 @@
+Heutzutage? Wo hast Du die letzten 30 Jahre gelebt??
+Hinter der Dornröschenhecke?
+
+
+Nein, vergossene Ersatzteile sind Standard.
+Nicht einsehbare Komponenten mit Schnittstellen in der
+Programmierung sind Standard. (Das hat nichts damit zu tun, ob
+der Code der Komponenten veröffentlicht ist, sondern mit der
+Programmarchitektur)
+Das ist industrielle Bewirtschaftung komplexer Systeme.
+Ob in der Komponente das Elektron links- oder rechtsrum kreist,
+ist völlig schnurz, wichtig ist die Anschlußfähigkeit an den
+Schnittstellen. 
+
+
+Eben.
+
+Und wie jemand anderer so schön anmerkte, unterscheidet sich das
+nicht groß von unserer eigenen Körperwahrnehmung, bei der wir
+auch nicht wissen, an welchem Punkt nun gerade der
+Zitronens�ureverstoffwechslungszyklus angekommen ist.
+Es ist nämlich auch völlig unwichtig.
+
+Weshalb "ein Wort für das absichtliche Erzeugen einer Black Box"
+ungefähr so dringend gebraucht wird wie ein Wort für "nicht
+durstig".

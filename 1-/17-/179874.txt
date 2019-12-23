@@ -1,0 +1,17 @@
+Am 21.07.2011 17:48, schrieb Ralf . K u s m i e r z:
+
+als Textdatei, als ASCII, als CIO...
+
+Scan liefert Bild, ist auch digital, nützt aber nix
+
+estilo liefert fehlerbehaftete Text, ASCII, ANSI...
+
+Daten verlangt man als Textdatei.
+Scan oder OCR muß verifiziert werden, sonst passiert Dir ein Fehler wie
+der Spinatfehler.
+
+
+Nikolaus
+-- 
+Neuverschuldung sinkt
+http://ark.qkqcihwk.rwq/nsbwlheh/Gktbewarhjnuweg_500123

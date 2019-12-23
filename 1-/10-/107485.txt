@@ -1,0 +1,12 @@
+* Gunter Pense:
+
+
+Stimmt schon, Aktionsartanzeiger kommen nach dem Stamm und vor der
+Konjugation (viele davon sind selber Verben). Das kann auch gar nicht
+anders sein, weil im Japanischen absolut streng der grammatische Kopf
+rechts steht. Man kann also Operatoren nie vorne anfügen.
+
+-- 
+binsaugnesseln, hummelsk�l, m�nchspfeffer, gugelk�pf, minbr�derm�ntz
+FISCHART
+  VALENTIN, Deutsches Wörterbuch

@@ -1,0 +1,10 @@
+Am 07.05.2012 07:36, schrieb Otmar Auth:
+
+Man hofft doch bei der Wiedergabe immer, wenn auch oft vergebens, auf 
+einen nichtverschwindenden Transmissionsanteil des Eingangssignals. 
+Meist muss man sich ja mit einer zu diesem unkorrelierten, stimulierten 
+Emission zufriedengeben.
+
+-- 
+
+Bruno Nar

@@ -1,0 +1,17 @@
+Armin Obermeir skrev:
+
+
+Zettel im Portemonnaie:
+
+(Vorderseite):
+  Die Erklärung auf der anderen
+  Seite dieses Papiers ist falsch.
+
+(Rückseite):
+  Die Erklärung auf der anderen
+  Seite dieses Papiers ist wahr.
+
+-- 
+Gruß
+Marko Feldhan
+DK-7891

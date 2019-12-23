@@ -1,0 +1,14 @@
+Am Tue, 2 Mrz 2010 15:55:43 +0200 schrieb Giovanni Jurak:
+
+
+Jo eh.
+Aber wie schon Maurice schreib: Arial Unicode wär ganz gut. Ist sicher "im
+Netz" zu bekommen.
+charset=utf-8 ist die Codierung, den font dazu musst du dann auch noch
+einstellen.
+im 40tude im Schreibfenster im Reiter Optionen, zum Anzeigen kannst du in
+den "allgemeinen Einstellungen" Zeichensätze->"geeigneten Zeichensatz
+wählen aus" das utf-8 nach ganz oben sortieren.
+
+hth a bisserl
+Cédric

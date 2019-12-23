@@ -1,0 +1,20 @@
+Ich hatte schlicht die konkrete Anwendung im Kopf, die ich gebaut
+habe; wie man XML-Datenbanken schichtet, weiß ich nicht, aber ich
+nehme schon an, daß sie auch mindestens in "Speicherbereich"
+(Backend) und "Benutzeroberfläche" (Frontend) aufgeteilt sind.
+Wo man die Abfragen ansiedelt, wird wohl von Fall zu Fall
+verschieden sein, aber sicher hinter den Masken, die die Benutzer
+zu sehen bekommen.
+Ich stelle mich halt an Benutzerstelle (vor das Frontend)und sage
+deswegen "dahinter", Du stellst Dich vielleicht eher an
+Datenbankadministratorenstelle (vor das Backend) und sagst
+"davor".
+So völlig überzeugt davon, daß wir etwas verschiedenes meinen,
+oder ein anderes Bild von Datenbank im Kopf haben, bin ich nicht,
+ich denke, es handelt sich lediglich um verschiedene Sichten.
+
+
+Aha, also als "Namen je nach Land, in dem man lebt" könnte man
+das vielleicht als Allgemeinfall beschreiben. Ja, das gibt es
+sicher recht oft, solche Umbenennungen kommen jedesmal vor, wenn
+jemand in ein anderssprachiges Land zieht.

@@ -1,0 +1,9 @@
+* Othmar Pense:
+
+
+Das trifft es auch nicht ganz, das Rooten ist eher das
+Freischalten des Root-Zugangs. Man rootet ja nicht einfach so,
+oder etwa sich, sondern immer das Gerät.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

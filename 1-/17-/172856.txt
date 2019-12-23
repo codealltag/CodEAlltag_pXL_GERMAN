@@ -1,0 +1,17 @@
+Am 02.12.2010 19:58, schrieb mock:
+
+Ich sage zwar lieber File als Datei, aber "Archive" sage ich im 
+deutschen nicht.
+
+Nebenbei sehe ich es so, dass sowohl beim deutschen "Archiv" als auch 
+beim englischen "archive" die Aufbewahrung im Vordergrund steht. (Man 
+denke zum Beispiel an das "tar"-Format von M&M, wo gar nix komprimiert 
+wird).
+
+Wenn die Kompression im Vordergrund steht, sind Archiv und damit 
+verwandte Wörter (archive, archivieren) meiner Meinung nach unangebracht.
+
+"Archivieren" im Computerzusammenhang beinhaltet für mich nicht 
+zwangsläufig die Kompression.
+
+Pietro

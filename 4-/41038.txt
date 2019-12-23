@@ -1,0 +1,8 @@
+Wird jedenfalls von vielen so gesehen, u.a. von
+Telefonbucherstellern, Ämtern und Krankenkassen.
+
+Und der arme Anwendungsentwickler darf das alles eruieren,
+sortierfähig nachbauen und sich schließlich den Zorn der Anwender
+zuziehen, weil die Eingabe "zu aufwendig" ist.
+
+(Muß auch mal jammern.)

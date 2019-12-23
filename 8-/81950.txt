@@ -1,0 +1,8 @@
+On Wed, 26. 03. 19, Denis Ledderbogen wrote:
+
+
+Man kann daraus wenigstens auf die Zeitzone schließen, wenn eine 0 als 
+01:00:00 rüberkommt.
+
+-- 
+Klaus Pommerehn

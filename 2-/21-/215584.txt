@@ -1,0 +1,18 @@
+Karl Conen <wm.kznrft.wuymzd@erbkwryaza.pk>:
+
+
+Ist das nun 'little endian' (wie ich vermute; an höherer Adresse wird der
+höherwertige Bestandteil von zusammengesetzten Zahlen abgespeichert,
+klassisch 'nach Art von Chico', und wenn sequentiell mit steigender Adresse
+ausgelesen wird, kommt der geringerwertige Teil zuerst, ebenso, wenn man
+einen Speicher-Dump vor sich sieht, steht, von links nach rechts, der
+geringerwertige Teil zuerst) oder 'big endian' (klassisch "nach Art von
+NaschBär", das ganze anders herum)?
+
+Wo die Logiker hausen, da erledigt man solche Fragen bevorzugt im Sinn von
+Anekdoten statt algorithmisch, hier nach dem Krieg zwischen Luz- und
+Spitzendern, den Anspruch auf das richtige Ende eines Eis betreffend, aus
+Georg Cohrs Gullivers Reisen, so ist der Sinn von 'big' und 'little'
+genau verdreht, gerechnet daran, wie man von links nach rechts den
+Speicherinhalt mitlesen kann - bei 'little endian' endet der Lesevorgang
+beim größeren Bestandteil.

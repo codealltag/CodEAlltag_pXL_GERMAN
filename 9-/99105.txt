@@ -1,0 +1,18 @@
+On 22.08.2009 18:54, Urs Isenesee wrote:
+
+
+Da sollte es in Rolands Fall funktionieren, da TB in solchen Fällen
+standardmäßig iso-8859-1 versucht. Und damit schreibt Noël.
+
+
+Die TBs der beiden verhalten sich m.W. gleich. Mich würde schon arg
+wundern wenn Timos TB mit dem, dank Wolframs UTF-8, dann endgültig
+versauten Subject nocht zurechtkäme.
+
+
+Ciao
+Ulrike
+-- 
+ Der Sport ist dazu da, dass man gesünder stirbt,
+ und nicht dazu, dass man länger lebt.
+ [Sebastian Lynke]

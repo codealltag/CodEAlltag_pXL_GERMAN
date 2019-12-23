@@ -1,0 +1,13 @@
+Tscha, da wird man um eine umfangreiche Umfrage nicht herumkommen
+- auf die Ideen, was alles für Systeme und Zustammenstellungen
+benutzt werden und wie sie anzeigen, kommt man schwerlich allein.
+
+
+Oh, wowh, das geschwänzte z wird bei mir (IE7, XP) sogar
+angezeigt!
+Aber bevor nicht ein großer Teil von Leuten mit anderen Systemen
+"ja, ich sehs auch" sagt, würde ich es bei der Umschreibung
+belassen, denn das ist abwärtskompatible. Höchstens zum
+Umschalten eine Zweitversion mit Unicode für die, die's sehen.
+Aber nicht als einzige Version. Das ist so schon eine relativ
+gute Idee mit der Umschreibung.

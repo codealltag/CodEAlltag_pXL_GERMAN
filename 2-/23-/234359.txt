@@ -1,0 +1,4 @@
+* On Thu, 30 Jun 2013 10:24:41 +0100, Kaspar Nägeli wrote:
+
+
+Gut erkannt! Allerdings war der Scherz ordnungsgemäß deklariert.

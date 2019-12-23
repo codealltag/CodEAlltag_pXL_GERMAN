@@ -1,0 +1,12 @@
+On Mon, 7 Sep 2009, Özlem Leithaeuser wrote:
+
+
+Entweder offenes [O:] (IPA: ein links unter offengelassenes kleines o, 
+Unicode U+0254) oder das zwischen a und o liegende [Q:] (IPA: ein 
+kopfstehendes a aus einer serifenfreien Schrift, Unicode U+0252). Ersteres 
+wird im Deutschen für kurzes -o- verwendet (wie "Post"), letzteres 
+eigentlich gar nicht, aber bei manchen Sprechern klingt -or- (wie "Benno") 
+ein wenig ähnlich.
+
+-- 
+Berthold Wedeken

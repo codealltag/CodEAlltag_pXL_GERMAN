@@ -1,0 +1,15 @@
+* mock:
+
+
+Ich kenne nur "Luft pumpen", "Luft aufpumpen" finde ich falsch.
+Beim Wasser ist "nachfüllen" besser, aber "auffüllen" würde mir
+nicht weiter auffallen.
+
+Letztlich halte ich das für Bequemlichkeit, gemeint ist ja
+dieselbe Handlung, und die Semantik der Kasus ist nicht sehr
+streng.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

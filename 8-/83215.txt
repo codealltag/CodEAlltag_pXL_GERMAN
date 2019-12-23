@@ -1,0 +1,34 @@
+On Mon, 18. 08. 19, vlenin66 wrote:
+
+
+Die normale Wortstellung ist eindeutig eine, bei der "trägt" an zweiter Stelle 
+steht, eine beliebige Phrase davor steht und im übrigen die Reihenfolge
+"August -- heute -- einen Pullover" eingehalten wird, also:
+
+  August trägt heute einen Pullover.
+  Heute trägt August einen Pullover.
+  Einen Pullover trägt Georg heute. (?!)
+
+Dabei steht meistens das Bekannte vor dem Verb und die neue Information weiter
+hinten. Wenn klar ist, dass es um *August* oder um seine *heutige* Kleidung
+geht, kommen die beiden ersten Sätze heraus. Da *ein* Pullover nicht schon
+bekannt sein kann, klingt der dritte Satz eigenartig.
+
+Im Satz
+
+  August trägt einen Pullover heute.
+
+wird von der normalen Reihenfolge stark abgewichen. Das ist nur möglich, wenn
+*heute* die einzige neue und wichtige Information im Satz ist: Wäre der
+Pullover schon Thema (also "der Pullover" oder "sein Pullover", aber nicht
+"ein Pullover"), könnte man ein Beispiel konstruieren:
+
+  August hat sich fest vorgenommen, nur an *einem* Tag in dieser Woche seinen
+  Pullover zu tragen, und zwar übermorgen. Weil es aber sehr kalt geworden
+  ist, trägt er seinen Pullover heute.
+
+Dass man das so sehr konstruieren muss, zeigt, dass die Reihenfolge in 99% der
+Fälle nicht vorkommen kann.
+
+-- 
+Udo Teichtweier

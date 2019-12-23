@@ -1,0 +1,5 @@
+Warum sollte im Satz
+"Der Compiler verhindert, daß der Konstante ein neuer Wert zugewiesen
+werden kann."
+der Kasus von Konstante "unmarkiert" sein? Die Markierung des Dativs
+erfolgt hier durch den Artikel.

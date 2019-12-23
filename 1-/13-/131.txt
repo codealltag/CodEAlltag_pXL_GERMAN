@@ -1,0 +1,7 @@
+Nun, ein "Stammbaum" kann es nicht werden, weil es Zyklen (eine
+Schrift kann aus mehreren entstanden sein) gibt. Vielmehr ist es daher
+ein Netz.
+
+Vielleicht sollte man auch doch zuerst alle Schriftsysteme mit
+einbeziehen und erst im Nachhinein (evtl. ergeben sich bei der
+Untersuchung nähere Aspekte) diese herausstreichen.

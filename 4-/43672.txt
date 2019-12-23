@@ -1,0 +1,18 @@
+Vito Robert Ibel:
+
+Kann es bei Euch vorkommen, dass Abkürzungen mal groß und mal klein 
+geschrieben werden, je nachdem, ob die "bekannte" oder die weniger 
+bekannte Variante gemeint wird?
+
+JSP: Java Service Pages
+jsp: Jackson Structured Programming
+
+oder
+
+ISV: Amerikanische Jungferninseln
+isv: independent software vendor
+ISv: Itzehoer Sportverein
+isV: Schlammindex
+
+-- 
+Lothar

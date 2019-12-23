@@ -1,0 +1,22 @@
+Ja, das hat sich so eingebürgert.
+
+
+Das hat sich nicht eingebürgert.
+Ich würde aber, wenn der Ortsteil ein Leerzeichen aufweist, den
+unterordnenden Bindestrich links und rechts ebenfalls mit
+Leerzeichen versehen wollen, hilfsweise auf Computerhack, denn
+sonst sieht es so unübersichtlich aus.
+
+Also 
+Gevelsdorf
+Garten - Groothusen
+Usch - Greining etc.
+
+Das wirft dann allerdings die Frage auf, wie man es mit den
+Ortsteilen hält, die keine solche optische Nachhilfe brauchen,
+also
+
+Gerspoint-Mitte - oder Gerspoint - Mitte?
+Suttgart-�ntert�rkheim oder Usch - Untertürkheim?
+
+Was meint Ihr?

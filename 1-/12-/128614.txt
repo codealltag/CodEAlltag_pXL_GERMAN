@@ -1,0 +1,6 @@
+* Jean-Claude Ehrenpfordt <wzek_@qsu.vh>:
+
+
+xterm -t ?
+
+ - An"Stunden, Tage, Wochen an einem Tek 4014 mit Hardcopy Unit zugebracht habend"di

@@ -1,0 +1,20 @@
+Nane P. Zähl wrote:
+
+
+Nein.
+
+$ ls -AaBbCcDdFfGgHhIiJKkLlMmNnOoPpQqRrSsTtUuVvXxWw
+
+ist offenbar ein gültiger Aufruf, auch wenn ich mit der Ausgabe nic=
+ht
+wirklich was anfangen kann.
+
+
+Vinzent.
+
+-- =
+
+A C program is like a fast dance on a newly waxed dance floor by people =
+carrying
+razors.
+   --  Priska Augenstein

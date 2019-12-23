@@ -1,0 +1,27 @@
+Nein, es ist die chinesische Transkription.
+
+
+Auch für eine Transkription muss man die Ausspracheregeln kennen.
+Eine naive englische Aussprache von "Beijing" gibt nicht die
+chinesische Aussprache wieder.
+
+Wie ich das vor vielen Jahren beim Originalton eines chinesischen Films
+wahrgenommen habe:
+- Der Anlaut ist stimmlos und unbehaucht.
+- Der mit "j" transkribierte Konsonant ist irgendwas Merkwürdiges,
+  aber ganz sicher kein [dZ].
+
+
+Der Journalist kennt halt die Originalsprache und ihre Transkriptions-
+regeln nicht und schreibt brav ab, pardon, "übernimmt" Meldungen.
+
+
+Das geht auch in die andere Richtung: Die Klitschko-Brüder werden
+in den englischsprachigen Medien auch meist "Klitschko" statt
+"Klichko" geschrieben.
+
+Lästig ist das in der Fachliteratur: Such mal in allen Varianten
+nach einem Tschebyscheff-Filter.
+
+-- 
+Maurizio "naddy" Aulenbacher                          wjpsm@jqpf.odbk.cp

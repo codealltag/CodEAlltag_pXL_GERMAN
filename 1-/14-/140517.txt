@@ -1,0 +1,6 @@
+Johann Körs zitierte:
+
+
+Das könnte allerdings auch schlicht an der kreativen Nutzung
+des Unicode-Horizontalstrichrepertoires und mangelhafter
+Konvertierung durch das Redaktionssystem liegen.

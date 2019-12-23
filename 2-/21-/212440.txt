@@ -1,0 +1,18 @@
+Am 15.01.2012 09:48, schrieb Oswald Eichberger:
+
+   Gemeint ist natürlich das Lese-Ereignis, das ohne Zweifel einen
+zeitlichen Ablauf hat. Ein gedruckter Buchstabe auf einem Trägermaterial
+ist kein Ereignis; richtig beobachtet.
+
+   Es gibt eine Turing-ähnliche Maschine (das Gehirn), ein Programm (der 
+verschriftliche Text) und einen Prozess (der spezifische Lesevorgang).
+
+   Der Prozess ist das Ereignis, das gemeint war. Er fängt zu einem
+bestimmten Zeitpunkt an und endet zu einem bestimmten Zeitpunkt.
+Weitere Parameter des Prozesses sind die Person, die liest,
+(genauerer: das Gehirn der Person, die liest) und der dritte und
+letzte Parameter ist der spezielle Text, der gelesen wird.
+
+
+Gruss
+Stefan

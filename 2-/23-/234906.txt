@@ -1,0 +1,13 @@
+Gerade hier sollte es ontopic sein, korrekte Anführungszeichen,
+Gedankenstriche und Apostrophe zu verwenden – unabhängig davon, ob man
+Fonts mit fester Laufweite benutzt. Es sieht einfach schöner aus, wenn
+man „typographische“ Anführungszeichen nutzt, die — wie so manch anderes
+– nur per Unicode darstellbar sind, wenn man Hilfsdarstellungen aus der
+TeX-Welt mal außen vor lässt …
+
+Wir haben 2013, die Technik ist also seit Jahren da. Nur Nutzer uralter,
+nicht mehr gepflegter Programme und/oder Gateways (z.B. von und zu den
+Tiernetzen) wären außen vor.
+
+Wie sieht’s in dieser Gruppe aus? Hat einer ein altes Schätzchen, das
+mit Unicode nichts anzufangen weiß?

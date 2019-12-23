@@ -1,0 +1,8 @@
+Am 09.06.2012 10:42, schrieb Kai Valerian Dickhof:
+
+Dann scheint das Nicht-Abtrennen des Gedankenstrichs nicht der einzige 
+in der englischsprachigen Typographie vorkommende Stil zu sein. Das 
+TeX-Buch empfiehlt ihn, und ich habe ihn auch in vielen englischen 
+Texten gesehen.
+
+Harry

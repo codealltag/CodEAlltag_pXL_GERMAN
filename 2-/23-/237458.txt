@@ -1,0 +1,9 @@
+* Ubbo Pense:
+
+
+Danke für den interessanten Hinweis, ich verstehe allerdings
+nicht, wieso das ein extra Anwendungsfall sein soll, das ist doch
+nur ein Newsserver.
+
+-- 
+Tritthart, DOS to DOS

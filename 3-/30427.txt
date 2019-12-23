@@ -1,0 +1,8 @@
+"Ups" und "Hi" sind unnötige Anglizismen, wobei zweiterer schon fest
+eingebürgert ist, ersterer in meinem Erfahrungsrahmen noch nicht. "Naja
+nun" ist eine ausweichende Leerformel.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

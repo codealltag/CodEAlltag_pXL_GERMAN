@@ -1,0 +1,12 @@
+Ludger Nemetschek wrote:
+
+
+Der charset-Parameter gibt die Zeichen_codierung_ an, _nicht_ den 
+Zeichensatz.  Man sollte sich durch die historisch begründete
+Bezeichnung "charset" nicht in die Irre führen lassen.
+
+-- 
+Uhry
+
+Endorphin: @PointedEars2
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

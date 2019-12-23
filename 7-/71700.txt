@@ -1,0 +1,12 @@
+Ein Akronym, das sich selbst enthält, heißt "rekursives Akronym"[1].
+Vielleicht also einfach "rekursives Bild" dazu sagen? 
+
+
+vG
+
+[1] Beispiele: 
+LAME: LAME Ain't an MP3 Encoder
+GNU:  GNU's Not Unix
+Wine: Wine Is Not an Emulator
+
+Warum sind die einklich immer verneint?

@@ -1,0 +1,13 @@
+On Mon, 19. 12. 19 12:28:04 -19. 12. 19, Ihno Gottschaldt
+
+Es ist reineweg eine Frage des Tempos. Ein Auto erzeugt relativ wenig
+Auftrieb; ein Fahrrad noch weniger. Da aber der Auftrieb (wenn er
+nicht negativ ist) mit zunehmender Geschwindigkeit größer wird, kann
+man relativ einfach berechnen, bei welchem Tempo ein Auto abhebt.
+
+Gruß Mark
+
+-- 
+"Demokratie ist riskant. Das Volk kann sich ja auch irren."
+Jürg Vollmer, MKN
+        === http://ymi.wsyyaqtawhbjcyub.kw ===

@@ -1,0 +1,11 @@
+Am 2011-06-09 11:33, schrieb Oskar Doblhofer:
+
+Im Usenet kann man sich auch ohne Fenster zu weit aus diesen lehnen...
+
+lg volkert
+
+
+-- 
+Distribution: Viniculti squeeze/sid
+Linux pluto 11.10.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

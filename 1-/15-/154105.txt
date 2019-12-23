@@ -1,0 +1,15 @@
+On 27.03.2010 14:42, Lukas Bierögel wrote:
+
+
+Ivo plagt ein kleiner, gleichwohl sehr alter Käfer in Gnant.
+Stellt man dort ein, dass der Originaltext zitiert werden und die eigene
+Antwort unter dem Zitierten stehen soll, so fügt TB zwei Leerzeilen zu
+Beginn ein.
+
+
+Ciao
+Ellen
+-- 
+ Things they do look awful cold
+ I hope I die before I get old
+ [The Who: My Generation]

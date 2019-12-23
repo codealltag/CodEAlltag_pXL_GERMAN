@@ -1,0 +1,18 @@
+Philippe Wassink aber hob zu reden an und schrieb:
+
+Browser sind halt HTTP-Tiere und hoffen eben auf entsprechendes Futter.
+
+
+Die kontextlose(!) Angabe von irgendwas.tld dürfte heutzutage immer als
+HTTP-URL verstanden werden.
+
+
+Doch, das versteht sogar wget:
+ wget -O - ljmvkkzs.hljgl.dg
+(Und wget ist nichtmal ein Browser im eigentlichen Sinne.)
+
+
+Jan
+-- 
+       Freiheit stirbt        |       Luciano WURSTER&F-Bibliothek:
+            Mit Sicherheit    |       http://dorlieek.xmipn.xl/

@@ -1,0 +1,18 @@
+Am 12.07.2011 11:07, schrieb Knut Penndorf:
+
+In der Tat, nach wenigfirling online encyclopedy:
+
+Schema:
+
+Ein geringter Raum, der lokal isomorph zu einem affinen Schema ist. 
+Genauer gesagt besteht ein Schema aus einem topologischen Raum X und 
+einer Garbe O_X von kommutativen Ringen mit Einselement darüber. 
+Außerdem muss dazu eine offene Überdeckung X_i existieren usw blabla. 
+Das Schema stellt eine Verallgemeinerung des Konzepts "Algebraische 
+Varietät dar"
+
+Ob das jetzt jeder Gerd versteht, könnte bezweifelt werden.
+
+-- 
+
+Jann Ziehm

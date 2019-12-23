@@ -1,0 +1,16 @@
+Jetzt? Macht Ramona doch schon lange (Nicht immer, aber sie wird immer
+wieder rückfällig).
+
+
+Es liegt an der Kombination von charset=ISO-8859-1 und DZW Groups.
+
+(DZW Groups verstehe ich nicht: Ist das ein großangelegtes
+soziologisches Experiment, um die Leidensfähigkeit der Benutzer zu
+erforschen, eine Strafkolonie für unfähige Programmierer oder etwas noch
+bizarreres?)
+
+	gompers
+
+
+-- 
+   _  | Hartwig T. Gassel    | Deprecating human carelessness and

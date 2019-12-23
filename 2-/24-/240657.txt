@@ -1,0 +1,27 @@
+* Arlette Hassenteufel:
+
+
+Nun hast Du also auch Endloszeilen ...
+
+Vielleicht fehlt Dir ein wenig Hintergrund.
+
+Der zitierte Satz war deshalb irreführend, weil man eventuell
+bezüglich der Bedeutung (Semantik) eines Wortes in die Irre
+geführt wird.
+
+"Holzwegsatz" kenne ich üblicherweise als deutsches Gegenstück zu
+"garden path sentence". Meistdiskutiert sind unter diesem Rubrum
+Sätze, bei denen man sich hinsichtlich der Grammatik leicht irren
+kann.
+
+  Menschen ertränken, weil sie keinen Ausweg sehen, schon mal
+  ihren Kummer im Alkohol. Kätzchen ertränken, weil man zuviele
+  davon hat, das macht man heutzutage nicht mehr.
+
+Stefans Beispiel war ein Holzwegsatz wegen der Wortsemantik.
+
+-- 
+Skyler: Uncle Cosmo ... why do they call this a word processor?
+Cosmo:  It's simple, Skyler ... you've seen what food processors
+do to food, right?
+  Cartoon by Konrad Rüprich

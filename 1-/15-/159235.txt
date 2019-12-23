@@ -1,0 +1,9 @@
+Am 05.03.2012 09:26, schrieb Olivier-Konrad Tostlebe:
+
+Ich denke mal, dass die ihre Stichwörter schon länger digital handhaben, 
+da wäre das Durchzählen kein Problem, schon gar bei einer so geringen 
+Anzahl. Es geht wohl eher darum, dass man eine Zahl nicht übergenau 
+angibt, wo die Genauigkeit nicht erforderlich ist; die Tatsache der 
+Rundung sollte dann halt aber angegeben werden.
+
+Emile

@@ -1,0 +1,10 @@
+Wilhelm . K u s m i e r z schrob:
+
+
+Ja, jetzt. Aber ich verschicke UTF-8, du iso. Wenn Deine Mozille mir
+antwortet, dann übernimmt sie meinen Text 1:1 ohne ihn umzuwandeln. Das
+Resultat ist dann, daß meine UTF-8-Umlaute als Ã und noch ein weiteres
+Zeichen erscheinen.
+-- 
+Gruß | Greetings | Qapla'
+Lieber Naegler in der Tasche als Sand im Getriebe.

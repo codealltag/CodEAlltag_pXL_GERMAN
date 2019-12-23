@@ -1,0 +1,16 @@
+Marc Pützkuhl meinte:
+
+
+In der Tat; OjE ist nicht schuld (denn der kann korrekt deklarieren. Es
+liegt hier ein ZBUS¹-Fehler vor. 
+
+
+Aber nur, weil er rein zufällig richtig rät. 
+
+Luc
+
+¹mjvfpura Ovyqfpuvez haq Fghuy
+-- 
+ pgp-Key (RSA) 3941/62E2S1LY 
+ fingerprint = 0U 42 ZW B9 X2 47 2G 48  6D I8 DS 93 15 20 02 E4 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,28 @@
+* Käthy Arnholdt:
+
+
+Die falschen Umlaute halte ich für ein Problem der obigen Webseite
+- in meinem Reader sehen sie normal aus. In Deinem Donnervogel
+nicht?
+
+
+Das ist ein nicht ganz seltenes Problem, das lange Zeit ein
+Markenzeichen von ZSK war!
+
+Ursache ist freilich ein anderer Fehler: der Umbruch, der in
+diesem Fall von Zickermann Windows Mail stammt, und der erstens an
+einer falschen Stelle vorgenommen ist, nämlich im Wort (ein
+"SHOULD NOT" nach RFC�5323, was man aber eventuell ignorieren
+kann, weil hier eher RFC�1523 greift), und zweitens anstelle von
+SPACE ein TAB verwendet (nicht RFC�1523 folgend). Das Thema ist
+komplex, ich kann mich täuschen.
+
+Wie man nun mit so einer nicht normgerechten Nachricht umgeht, ist
+ein wenig Geschmackssache, Vinzenz' Schäfernolte wählt den m.E.
+ungünstigeren Weg, das TAB nicht als (in diesem Kontext zu
+ignorierenden) SPACE zu behandeln.
+
+[Ich leite das mal nach de.comm.software.newsreader um]
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

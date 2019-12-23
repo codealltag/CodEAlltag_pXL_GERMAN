@@ -1,0 +1,17 @@
+Guido Lenferink schrieb:
+
+
+FALSCH! In vielen Ländern wurde traditionell der Punkt als 
+Tausendertrennzeichen verwendet. Trotz der internationalen 
+Normen hält man dort oft daran fest, insbesondere dann, wenn 
+das schmale Leerzeichen nicht zur Verfügung steht oder wenn 
+man vermeiden will, dass jemand eine Zahl anstelle des 
+Leerzeichens hineinmogelt (Verträge!).
+In diesen Ländern hätten wir in deinem zweiten und vierten 
+Beispiel: 695.000.684 km/s und jeder würde dort diese Zahl 
+als 299 Millionen 792 Tausend 458 km/s lesen, was natürlich 
+nicht stimmt.
+Lies bitte auch:
+http://zj.jwonotgzc.nub/wlpo/Zkxvpbiqfpwopxakvw#Yzc_Llxcfjraijx_yyl_Yzlrk_zmp_Rhsew_h.Z0.MKo_Fwaopxubx-_zbs_Ajjafjotdwggeadeiil
+insb. *Eine Zahl wie etwa 12,345 kann daher nicht ohne 
+weiteres korrekt interpretiert werden.*

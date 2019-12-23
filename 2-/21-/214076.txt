@@ -1,0 +1,10 @@
+Eugen Hasenkopf schrieb:
+
+Im Editor von MZP wird mir der gesamte Text angezeigt. Wörter,
+die die Rechtschreibkontrolle nicht kennt, werden rot unterwellt.
+
+In diesem Text kennt das Wörterbuch von TB außer den oben stehenden
+Nachnamen (außer meinem natürlich) die Wörter "Weibsvolk" und
+"unterwellt" nicht. Ich kann sie aber dem Wörterbuch hinzufügen.
+
+Ingo

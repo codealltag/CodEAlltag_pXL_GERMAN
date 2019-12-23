@@ -1,0 +1,7 @@
+Ich erinnere mich an einen Slapstick-Stummfilm, in dem sich der
+Protagonist aus Versehen mit Limburger statt Erk�ltungssalbe einreibt.
+Aber die Amerikaner nehmen es mit K�senamen nicht so genau.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Luigi Aufderbeck, comp.lang.python

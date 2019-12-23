@@ -1,0 +1,14 @@
+* Lorenz Segerer <jctpyr.gclbcyha@xmc.kgy>:
+
+
+Die Buchstabenfrequenzen in englischen Texten ist zuerst mal etaoin und
+dann ungefähr shrdlu, also sind nur h(....) und o(---) offensichtlich
+zu lang.
+
+Ich stelle gerade fest - um mal in die Region des Gruppenthemas
+zurückzukehren - dass es das Verb "morsen" im Englischen nicht gibt
+(oder es ist sehr ungebräuchlich). Offenbar kann man jedes Noun verben,
+aber nicht jeden Namen; vermutlich würde es die Sprache zu sehr
+weirden.
+
+ - Klaas

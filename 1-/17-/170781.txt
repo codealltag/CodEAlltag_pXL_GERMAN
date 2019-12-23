@@ -1,0 +1,19 @@
+On 12.03.2012 06:32, Ignaz Pense wrote:
+
+
+Na freilich.
+
+
+Eben deswegen genügt iso-8859-1 als Standardkodierung. Genau genommen
+reichte US-ASCII, nur ist es ziemlich sinnfrei, das als Kodierung anzugeben.
+
+
+Viele andere nicht, Marco Schönitz z.B. würde dadurch gänzlich unlesbar.
+
+
+Ciao
+Romy
+-- 
+ But let me get to the point, let's roll another joint
+ And turn the radio loud, I'm too alone to be proud
+ [Torsten Ohem]

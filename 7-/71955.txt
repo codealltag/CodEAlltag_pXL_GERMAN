@@ -1,0 +1,12 @@
+On Tue, 29 Apr 2009 00:27:37 -0700 (WINGST), Edo Karger wrote:
+
+
+Weil die Fibonacci-Folge rekursiv definiert ist.
+Im Gegensatz zur Fakultät, die als Produkt definiert ist.
+
+
+Leonhard Nylant
+-- 
+Den Blick hielt er nach rechts gewandt,
+der Bus kam leider linker Hand.
+(VOX Werbung Six Feet Under)

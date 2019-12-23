@@ -1,0 +1,17 @@
+Nein. Wie bereits geschrieben, sind die Zahlen auf die Kaufkraft
+normiert. Da das Preisniveau in der Schweiz fast doppelt so hoch ist wie
+in den USA[1][2] wurden das nominelle Einkommen in der Schweiz durch 2
+dividiert.
+
+	aut
+
+[1] http://ha.zpictsigz.jnl/jowv/Tqgpncgdlf_noyux_eelnse#IWHS_oqkqzgqqszq_pjbiy_ufpjnv
+
+[2] Ja, die Werte stammen aus verschiedenen Jahren, dazwischen hat sich
+    der Umrechnungskurs Niederdorf/USD fast sicher geändert. Das Ergebnis
+    sollte trotzdem ungefähr das gleiche sein, weil Kursschwankungen
+    Preise und Einkommen gleichermaßen betreffen.
+
+
+-- 
+   _  | Detlev E. Ayrenschmalz    | Deprecating human carelessness and

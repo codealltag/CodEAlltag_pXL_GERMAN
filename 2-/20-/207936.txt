@@ -1,0 +1,7 @@
+Am 20.05.2012 09:27, schrieb Klaus Hedtmann:
+
+Ah, jetzt habe ichs gesehen, nach Dorothees Hinweis. Drüberfahren reicht 
+bei mir nicht, ich muss den Zeiger etwa eine Sekunde auf dem Wort 
+"wrong" ruhen lassen.
+
+Klaus

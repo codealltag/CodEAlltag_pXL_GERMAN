@@ -1,0 +1,9 @@
+On Tue, 13 Mai 2008, Philipp Degenkolb wrote:
+
+
+Dort steht: "Dieses geschwänzte z (möglicherweise Unicode 0x0292, ..."
+
+Ist das geschwänzte z nicht einfach U+0225?
+
+-- 
+Kaspar Hiebler

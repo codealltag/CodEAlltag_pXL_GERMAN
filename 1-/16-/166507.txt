@@ -1,0 +1,10 @@
+* Clemens Schaffler:
+
+
+Ja, das schließt aber Fiktivität nicht aus. Christoph und Natascha sind auch
+tot (am Ende des Stücks).
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

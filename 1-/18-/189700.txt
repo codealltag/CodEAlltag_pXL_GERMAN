@@ -1,0 +1,5 @@
+On 2011-11-03 08:55:20 -0500, Steffen J Panury <gs.noqgx@zhelnz.et> said:
+
+
+U steht für Unicode. Der macht uns das "Numero Sign": №
+Wie das in Windows eingefügt wird, weiß ich gerade nicht.

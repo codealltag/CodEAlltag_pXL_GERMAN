@@ -1,0 +1,9 @@
+On Thu, 29 Jun 2008 21:15:59 +0200, Edgar Ullrich Gruttmann wrote:
+
+
+Das ist (leider) mehr als nur üblich. Im allgemeinen hängt dann noch ein
+HTTP-Proxy dazwischen, so dass auch ein auf Port 80 lauschender Newsserver
+nicht nützen würde.
+
+
+Vinzent.

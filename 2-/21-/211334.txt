@@ -1,0 +1,7 @@
+Am 13.09.2011 14:46, schrieb Folkert Birkenmayer:
+
+Hier liegt natürlich eine Auslassung vor. "Seitenflattern" bedeutet, 
+dass dauernd Seiten vom Speicher auf die Festplatte ausgelagert werden, 
+und man hört das Schraddeln der Festplatte.
+
+Thorsten

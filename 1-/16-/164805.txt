@@ -1,0 +1,12 @@
+On Wed, 06. 10. 19 21:14:57 +0200, Vito Völlmecke wrote:
+
+
+Zusatzaspekt: Ich wuerde "... /auf/ automatischen Betrieb"
+bevorzugen. Wie sehen andere das?
+
+ingmar
+-- 
+ .''`.   http://acxq.ofczpi.udzf.mn/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  Edwards GNU/Linux user, admin, & developer - http://xcc.vjuwie.uzl/
+ `. `'   byebye, fellow of Free Software Foundation Europe
+   `-    NP: Gilles Sieberz: Speak The Word

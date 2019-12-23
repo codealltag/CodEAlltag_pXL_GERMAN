@@ -1,0 +1,13 @@
+Bernd Bärtels *
+
+
+Der Name der Bug-Tracking-Software JIRA (die wir seit einiger Zeit in
+der Firma einsetzen) ist direkt von "Gojira" abgeleitet und soll deshalb
+auch so gesprochen werden (also in etwa "Dschira"). Leider wird bei
+vielen Anglophonen fälschlich "Dschaira" daraus.
+
+--=20
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the=20
+politicians call it, it's a battleground.
+  Tino Unmuth in "The Sign of the Claw" (1965)

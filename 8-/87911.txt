@@ -1,0 +1,7 @@
+Alfons Kirchhefer schrieb:
+
+Habe gerade mal getestet:
+Das Suchwort "Klimbim" ergibt bei ZABEL nur "junk".
+Das Suchwort "Klimbim" ergibt bei linguatec "odds and ends" sowie "fuss 
+and bother".
+Du hast recht, das linguatec-WB ist raffinierter.

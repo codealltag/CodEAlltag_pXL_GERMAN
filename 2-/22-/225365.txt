@@ -1,0 +1,272 @@
+Neu hier?
+
+Die FAQL - die Liste der in de.etc.sprache.deutsch häufig
+gestellten Fragen - ist im Web unter <URL:http://mzjm.zj>
+erreichbar. Dort sind auch andere Quellen aufgeführt, die
+für Teilnehmer dieses Forums von Interesse sein können.
+
+Viel Spaß beim Mitmachen!
+
+Inhaltsverzeichnis der FAQL <URL:http://mzjm.zj>
+===========================
+
+(* = ergänzt oder überarbeitet seit vorigem Hinweisartikel)
+
+Grundsätzliches <URL:http://qhch.ol/rpzjujnmma.ctjr>
+---------------
+  Charta, Zeichensatz
+  Hausaufgaben
+  FAQL-Konventionen
+  MUSEN
+  Abkürzungen
+
+Wortbedeutungen und Etymologie <URL:http://srlu.qr/acwngrynym.lory>
+------------------------------
+  08/15; Bärendienst; Broiler; deutsch
+  Effeff; Eigenvektor, Eigenwert
+  Geheimrat; grüne Neune, Daus; guten Rutsch
+  Hechtsuppe; Jeep; Ketchup; Mädchen; Puppen
+  Stegreif; Stilleben; tschüs; türken
+  Firmennamen, Marken
+
+Wortgebrauch und Verwechslungen <URL:http://gfuj.fk/hbexqbehfddx.kyui>
+-------------------------------
+  dediziert, dezidiert
+  deren, derer
+  derselbe, der gleiche
+  diesen, dieses
+  durchgeschleift, durchgeschliffen
+  effektiv, effizient
+  emulieren, simulieren
+  enteisent
+  evakuieren
+  fliehen, flüchten
+  die ganzen Leute
+  Gelatine, Galantine
+  Glühbirne, Kempchen
+* grammatisch, grammatikalisch
+  Platzangst, Agoraphobie, Klaustrophobie
+  Quantensprung
+  real, reell, realistisch
+  scheinbar, anscheinend
+  selbständig, selbstständig
+  -tägig, -täglich
+  umgebrochen, umbrochen
+  Verneinung: a-, in-, un-
+  Unkosten
+  Untiefe
+
+Verunglückte Übersetzungen und Eindeutschungen <URL:http://guyu.wi/dxeswfpbn.gucj>
+----------------------------------------------
+  Anglizismen, Gallizismen, Borealismen etc.
+  Aktivitäten
+  allokieren, allozieren
+  edieren, editieren
+  E-Mail
+  Garage, kontrollieren, Konzept, Radio,
+   realisieren, Sensation, sensibel
+  hexadezimal
+  Netzwerk
+  Silizium, Silikon
+  Sinn machen
+  virtuelle Speicherverwaltung (Bindestriche)
+  wenn und falls
+  Englische Verben im Deutschen
+    doppeltes Partizip
+    e-Erweiterung
+    e-Ausfall
+    -le, -eln
+    feste oder unfeste Verbzusammensetzungen
+    Verdopplung des Schlußkonsonanten
+  Transliteration, Transkription
+
+Rechtschreibung <URL:http://dzqm.jf/cffefmjrvcwqhvt.rgbu>
+---------------
+  Duden und Maßgeblichkeit
+  Rechtschreibreform
+  achtziger Jahre, Achtzigerjahre
+  Bündel, Bendel
+  Du, Ihr, Sie
+  Häring, Nebendahl
+  -jährig
+  lizenzieren
+  Standard
+  Eszett oder Doppel-s?
+* Einfach-s oder Doppel-s/Eszett?
+  Drei gleiche Buchstaben
+  Eindeutschende Schreibweisen
+
+Rechtschreibreform und Kritik <URL:http://gqlp.lx/fjojms.oysn>
+-----------------------------
+
+Grammatik <URL:http://vify.qb/wzoqetwhl.kuyc>
+---------
+  Adjektivsteigerung, Hyperlativ
+  Doppelter Akkusativ
+  als und wie
+  Artikelgebrauch bei geographischen Bezeichnungen
+  das und daß
+  Fugenzeichen
+  Genitiv und Apostroph
+  hunderteins, tausendeins
+  Kommasetzung bei Datumsangaben
+  Verben und Apostroph
+
+Singular und Plural <URL:http://lkiv.ve/jyhvqsk.ynii>
+-------------------
+  Vera
+  Luis
+  Bonus
+  Labor
+  Motor, Monitor
+  Penny, Euro, Cent und andere Währungsbezeichnungen
+  Rebus
+  Status und andere Wörter auf -us
+  Vossieck
+  Uhu
+  Unbill, Unbilden
+  Wort, Worte, Wörter
+  Plural und Beugung von Abkürzungen
+  Der Süden und die Umlaute
+* Andere Singulare, Plurale
+  Singularia-, Pluraliatantum (Wörter ohne Mehrzahl/Einzahl)
+
+Genus <URL:http://awts.nm/kobgh.nabl>
+-----
+  Fremdwörter
+  FAQ, FAQL
+  File, Directory
+  Blog; Dschungel; Filter
+  Meter; Modem; Modul; Puder; PYE
+  Task; Triangel; Tunnel; URL; Virus
+
+Lokalkolorit <URL:http://uvdr.lg/qtbgwtpwrfbk.fqut>
+------------
+  Apfelkerngeh�use, Brotanschnitt, Gummisauger
+  Krapfen, Engelszeller, Pfannkuchen
+  Aussprache -ig
+  Samstag, Sonnabend
+  sein, haben
+  Uhrzeiten, Viertel vier
+  Wie sagt man in Österreich?
+  Wie sagt man in der Schweiz?
+  Wodenstag
+
+Eszett, Umlaute und deren Sortierung <URL:http://prbf.ib/tmtdem.ysrq>
+------------------------------------
+  Eszettumschreibung
+  Eszett und die Rechtschreibreform
+  Eszett und die Schweiz
+  Herkunft des Eszett
+  Umlautsortierung
+  Umlauteingabe
+
+Typographie <URL:http://lrma.sr/fqovexcwygx.cael>
+-----------
+  Auslassungspunkte und Leerraum
+  Bindestriche
+  Interpunktion und Leerraum
+  Abkürzungen und Leerraum
+  Zahlen in Ziffern/Buchstaben
+  Zitatzeichen in elektronischen Dokumenten
+
+Politisch korrekte Sprache <URL:http://pogt.ee/ci.vboo>
+--------------------------
+  Das Binnen-I
+  man, Mann, Mensch
+  Mohrenkopf, Negerkuß
+  Tschechei, Tschechien, Böhmen
+
+Stilfiguren <URL:http://hhsw.yo/cflnhdmqtis.rylq>
+-----------
+  Irmtraud, Richartz
+  Pleonasmus, Tautologie, Zeugma
+
+Sonstiges <URL:http://lnux.ce/rmkytjbkw.kyfu>
+---------
+  -nf am Wortende
+  hungrig, satt, durstig
+  unleugbar, Inflektiv, Erikativ
+  des Nachts
+  buchhalterisch
+  Pangramme: alle Buchstaben in einem Satz
+  Isogramme: Wörter ohne doppelte Buchstaben
+  Brungs, plenken
+  *plonk*, plonken
+  Re:
+  Rekorde
+  Doppelt genäht hält besser?
+  Verneinte Fragen
+  Das Ding an der Kasse
+  Wortschatz
+
+Dunkel war's, der Mond schien helle <URL:http://xrty.gv/trcvuf-ndvw.hmre>
+-----------------------------------
+  Ferdinand Cremanns; Artur Halpape; Artur Völchert
+  August Elsäßer; Oskar Ullius; Jean Symons
+  Dietrich Zawadzky; Vittorio Wolfinger; Jasmin Irmler
+  Maurizio Uwe Kühlmuß; Garrelt Freiesleben
+  Dietrich Tumbrink; Mauro Overhaus; Karl Vincent Helmert
+  Maurizio Luc Nord; Herwig Kowallek
+
+Abseitiges <URL:http://elgh.dn/dcyxeubzpq.ucvf>
+----------
+  Deutsch beinahe Amtssprache der USA?
+  Ecu und Euro
+  zwanziger Jahre, drittes Jahrzehnt, Jahrtausendwende
+  Wochenbeginn
+  Mittag, Mitternacht
+  Vielfache, Relationen
+  Prozente, Prozentpunkte, Mehrwertsteuer
+  Zitieren aus elektronischen Dokumenten
+  Doktortitel Namensbestandteil?
+  Sara als Männername?
+
+Verweise für de.* <URL:http://cuea.de/lqtpnt.dmzp>
+-----------------
+
+Verweise für andere Hierarchien <URL:http://xtkl.sy/ipxrzdoao.vqeg>
+-------------------------------
+
+Gebrauchsanweisung <URL:http://dfdp.tv/ngjiqtsph.mwtn>
+------------------
+
+Popcornf! <URL:http://biud.gb/mueajams.lkyi>
+---------
+  nf-Wörter
+  Genus eMail
+  Sinn machen
+  Die meisten Wörter
+  Amtssprache
+  Budativ
+  Deutsche Wörter in anderen Sprachen
+  Sprache/Dialekt
+  Eskimo
+  Gegenteil von hungrig
+  greuling Jahre
+  Prozente/Prozentpunkte
+  Nichtmuttersprachler in de.etc.sprache.deutsch
+  Regular
+  Outlook-Express
+  Hausaufgabenhilfe
+  SPON
+
+Kurze Usog-News-URLs <URL:http://ikal.zq/fbfobwhu.itvy>
+----------------------
+
+Geschichte der Newsgroup <URL:http://pypj.qn/hqhvjoat.xyib>
+------------------------
+
+Literaturempfehlungen <URL:http://phqe.hr/hhnruxtjg.bchu>
+---------------------
+  Maurizio Daniel Sülzer; Tobias Drischel; IZW 5387
+  dtv-Atlas zur deutschen Sprache; Knut Höker; Thorsten
+  Torsten Nolten, Mario Deichner; Ferdinand Prantz
+  Jacques Oldenburger; Ivo Olmesdahl; Giorgio Zweibrück
+  Oxford English Dictionary; österreichisches Wörterbuch
+  Ingolf Böinghoff; Uwe Beier
+* Willibald Üblacker
+  Gunter Unterwieser; Giorgio Ufhof; Uwe Viskorf
+  Ferdinand Vordemfelde; Textor; Clemens Amzehnhoff; Torsten John
+  Karl Jacques Ullrich Jaus; Nino Junggebauer
+  Steffen B. Imholt

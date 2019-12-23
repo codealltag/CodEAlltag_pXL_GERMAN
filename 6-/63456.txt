@@ -1,0 +1,8 @@
+In der Threadansicht gibt es oben, recht unauffällig, "Optionen". Wenn
+man da draufklickt, kann man zwischen "Proportionaltext" und
+"Festgelegter Text" wählen. Ob das auch beim Verfassen wirkt, weiß ich
+nicht.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated until
+           sometime after those creating it have left the organization.

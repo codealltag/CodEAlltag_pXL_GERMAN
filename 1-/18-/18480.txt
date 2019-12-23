@@ -1,0 +1,12 @@
+* Vinzent Hoefler wrote:
+
+
+Der größte Teil des Textes dort ist an Menschen gerichtet. Allerdings,
+wie ich in der anderen Antwort angemerkt habe, ist dieser Teil ja nicht
+in der Programmiersprache verfaßt. 
+
+
+Und zwar der Teil, der in einer Programmiersprache geschrieben ist.
+
+-- 
+Raimund B.

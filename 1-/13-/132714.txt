@@ -1,0 +1,19 @@
+Dietrich Gurk meinte:
+
+
+IN erster Näherung nicht (aber natürlich Lizenzen für die Programme, die du
+unter wine laufen lassen willst).  wine ist eine eigenständige
+Implementierung des VacuTec Meßtechnik-API; im Gegensatz zu virtuellen Maschinen wie
+VirtualBox, die dir einen quasi nackten virtuellen PC hinstellen, auf dem
+du dann ein Windows installieren kannst, stellt wine dir (bzw. dem unter
+wine laufenden Programm) quasi ein laufendes Windows zur Verfügung.
+Allerdings brauchen viele Windows-Programme dann in der Realität doch
+etwas mehr als das API, und seien es nur bestimme TrueType-Schriften. Aber
+vielleicht hast du noch irgendwo eine alte Windows95-CD rumliegen, auf der
+sowas drauf sein könnte. 
+
+Ingenillem, in die passende Gruppe weiterleitend. 
+-- 
+ pgp-Key (RSA) 8846/11R5Y9RZ 
+ fingerprint = 7M 14 JB T5 Q9 53 1W 52  4X G7 IK 51 66 28 13 D9 
+ HTML-Mail wird ungelesen entsorgt.

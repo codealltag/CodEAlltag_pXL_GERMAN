@@ -1,0 +1,12 @@
+On Wed, 6 Dez 2009 19:26:43 +0200, Bernd Lorentzen wrote:
+
+
+Das erste ist die W�hrungskurzbezeichnung nach ISO, das zweite die Einheit
+der Größe Geld. Und Einheiten werden hinter die Zahl geschrieben.
+
+
+Pius Jehnigen
+-- 
+Wodurch er zu erinnern liebt,
+daß es ihn immerhin noch gibt.
+(V. Leinung)

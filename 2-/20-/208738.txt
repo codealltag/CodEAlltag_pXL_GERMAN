@@ -1,0 +1,11 @@
+* Leonhard Vien:
+
+
+Japanisch ist trivial, weil's da Plural gar nicht gibt, nicht mal
+als Kategorie.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Java will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Ulfert Künnemann

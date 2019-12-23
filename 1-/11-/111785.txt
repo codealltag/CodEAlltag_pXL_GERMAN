@@ -1,0 +1,17 @@
+On Wed, 2 Jun 2010, Eric Tilemann wrote:
+
+
+Weil der unbestimmte Artikel im Plural immer wegfällt. Im Plural kann man 
+deswegen nicht mehr unterscheiden, ob im Singular ein unbestimmter Artikel 
+gestanden hätte oder gar keiner.
+
+
+Sehe ich so wie Josette. Im Satz "Josette ist Lehrerin" ist allerdings 
+"Lehrerin" ein Abstraktum (sie gehört zu den Objekten, die mit mit dem 
+Wort "Lehrerin" bezeichnet werden), während im Satz "Gunhild ist eine 
+Lehrerin" das Wort "Lehrerin" kein Abstraktum ist ("es gibt Lehrerinnen; 
+und Josette ist eine davon). Die definition von "Abstraktum" darf hier 
+also nicht zu eng sein.
+
+-- 
+Ivan Lembcke

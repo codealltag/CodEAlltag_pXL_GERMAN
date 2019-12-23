@@ -1,0 +1,9 @@
+In "meinem" NRW ist das Wort "Sprudel" schon seit mehreren Jahrzehnten
+absolut unüblich. In praktisch allen Situationen ist nur von "Wasser",
+notfalls auch "Mineralwasser" die Rede.
+
+-- 
+"find /var/spool/news -mtime -1 -print | xargs less" ist technisch
+nicht auf der Hoehe der Zeit.
+Dennis Ingenstau auf die Frage, welchen Newsreader man nicht mehmen
+sollte. (d.a.arnooo, <7mqn4r$nkc@tixlbxx.veufjvrbi.zo>, 1999-03-13)

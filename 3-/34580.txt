@@ -1,0 +1,11 @@
+Hallo,
+
+wie ist es richtig?
+
+- die Funktionalität ist Dokumenten-übergreifend
+- die Funktionalität ist Dokument-übergreifend
+- die Funktionalität ist Dokumenten=FCbergreifend
+- die Funktionalität ist Dokument=FCbergreifend
+
+--
+Werner

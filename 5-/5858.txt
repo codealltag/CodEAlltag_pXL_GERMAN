@@ -1,0 +1,14 @@
+* Gabriel Neebuhr tat kund und zu wissen:
+
+
+"Die Brotzeit" ist das Abendessen, "eine Brotzeit" ein Imbiss zu keiner
+bestimmten Tageszeit. So kenne ich das jedenfalls.
+
+Gruß,
+Gernot
+
+-- 
+ReWe gibt es in drei Flavours: Stale, Rusting und Broken, die ein- bis zweimal
+je jahrzehnt umbenannt werden. Derzeit ist Rusting eigentlich schon Stale, kann
+aber vor 2004 nicht offiziell released werden, weil Ikege und KDE3 noch nicht
+hinreichend veraltet sind und ein kaputter inn fuer Broken fehlt. -- F. Spannhake

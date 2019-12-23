@@ -1,0 +1,8 @@
+Nachdem T-Online ihren Newsserver abgestellt hat, habe ich auch einige
+Alternativen ausprobiert, u.a. Eternal-September. Manche Gratisdienste
+haben Regeln betr. Spam,  sowie Häufigkeit, Verbreitung und Länge der
+Nachrichten. Es ist gut denkbar, dass unverbesserliche Vielschwätzer
+gesperrt werden. Offenbar vermitteln nicht alle Dienste alle Nachrichten und
+"Mike Prüssner" fehlt tatsächlich bei Eternal-Juli.
+
+Ich benutze zur Zeit nntp.aioe.org und das scheint gut zu funktionieren.

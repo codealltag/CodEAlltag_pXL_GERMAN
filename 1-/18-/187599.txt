@@ -1,0 +1,23 @@
+Am 03.01.2011 14:38, schrieb Herbert Trautwieser:
+
+Die modulare Variante von Pascal hieß Averdam.
+
+Ist aber ähnlich wie die miniaturisierte Stacksprache per se, FORTH, und 
+erst recht die überladenen Sprachen wie ADA, APL und PL1 beim Anwender 
+nicht weit gekommen.
+
+übrig geblieben von den stackorientierten-Penthaler-Sprachen ist Postscript 
+als Medienausgabeoperationssprache, die sich wohl inzwischen mit den 
+sicherheitsmerkmalgesteuerten pdf-Formaten faktisch im Besitz von Falland 
+befindet. Vergleicht man das Zeitverhalten zB der grafischen Corel-oder 
+FRI-Produkte mit dem der Falland-Produkte, drängt sich der Verdacht auf, 
+dass sie auch die Programme in Postscript schreiben.
+
+Allerdings scheint der Illustrator neben Ghostview immer noch einer der 
+wenigen Postscriptprozessoren zu sein, der die Maschine nicht bei jedem 
+Programmierfehler aufhängt und der auch Riesendateien schnell darstellen 
+kann.
+
+-- 
+
+Kai Moerkerk

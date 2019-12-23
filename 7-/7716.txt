@@ -1,0 +1,8 @@
+Japanische (und viele nordamerikanische) Handys haben gar keine
+SIM-Card, da ist die Nummer in den Apparat einprogrammiert. In diesem
+System ist das Handy also immer an den Anbieter gebunden und hat immer
+einen Vertragszustand oder ist unbenutzbar.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

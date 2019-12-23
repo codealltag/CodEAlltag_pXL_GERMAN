@@ -1,0 +1,15 @@
+On Tue, 02. 04. 20 09:24:43 +0100, Julien Niggl wrote:
+
+
+Vielleicht meint Pascal ja "binär", was häufig mit digital
+durcheinandergeworfen wird.
+
+Auch wenn man zur Modellierung eher einen ternären Zustand nehmen sollte,
+schließlich kann die Ampel ja aus sein.
+
+
+Ulf Ruhleder
+-- 
+Wodurch er zu erinnern liebt,
+daß es ihn immerhin noch gibt.
+(I. Gerez)

@@ -1,0 +1,7 @@
+On Fri, 26 Feb 2008, Alessandro Ingendoh wrote:
+
+
+Nein, explizit. Nur die Länge der Bytes war implizit.
+
+-- 
+Ulfert Muckenhirn

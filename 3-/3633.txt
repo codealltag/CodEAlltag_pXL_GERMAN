@@ -1,0 +1,10 @@
+* Bertel Stefan Klostereit wrote:
+
+
+ISO-8859-1 enthält nichts dergleichen. Dein Newsreader weiß das
+anscheinend und hat daher utf-8 gesendet.
+
+-- 
+Johann P.
+45n31, 12o24
+Temperature: -13.6°C (5:00 PM EST Monday 21. 12. 19)

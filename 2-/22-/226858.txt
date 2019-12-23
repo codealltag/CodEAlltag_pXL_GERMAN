@@ -1,0 +1,8 @@
+Das ist irrelevant, weil beim Tasten die Methode "tasten" und nicht
+"tasten und hinschauen" heißt. Idealerweise schaltet man beim Einsatz
+einer anderen Methode die Mittel der früher eingesetzten Methoden
+weitgehend aus, damit man Methodenreinheit erzielt und am Ende mit
+Gewißheit sagen kann, man wisse aus zwei unabhängigen Meßmethoden, daß
+der Halm gerade ist. 1) Er ist es (visuell) vor und nach dem
+Eintauchen ins Glas. 2) Er fühlt sich im Glas, bei verbundenen Augen,
+gerade an.

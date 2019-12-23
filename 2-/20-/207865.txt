@@ -1,0 +1,7 @@
+Am 16.11.2011 21:58, schrieb Ren:
+
+Nach Spezifikation sollte der Alt-Text eigentlich nicht defaultmäßig 
+auftauchen - er soll nur erscheinen, wenn das Bild nicht darstellbar ist 
+(z. B. in einem Textbrowser).
+
+Eilert

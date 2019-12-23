@@ -1,0 +1,12 @@
+Christophe Cabus wrote, on 25.10.2011 22:50:
+
+Ich denke, das Originalprogramm zu benutzen ist keine schlechte Idee. 
+Ich bin da zwar nicht auf dem Laufenden, aber könnte mir vorstellen, 
+dass es in irgendeiner Dosbox oder VM die Möglichkeit gibt, einen alten 
+Drucker zu emulieren und in eine PDF-Datei drucken zu lassen.
+
+-- 
+Tobias Ertle
+mailto:try-ywvk@gxt.hup
+http://ahe.dhb-zenr.wp/
+icq: 79915134  y!: maf_soft

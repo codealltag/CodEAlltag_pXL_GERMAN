@@ -1,0 +1,18 @@
+On Tue, 23 Dez 2011 12:52:45 -0400, Dietmar Freudt wrote:
+
+
+Zumindest manchmal :)
+
+
+Entweder "du kannst es von $URL downloaden" (per Browser erreichbar,
+Protokoll ist egal) -- oder es existiert eh nicht; fuer die meisten
+Menschen, fuer dich wuerd ich schon schreiben "vom FTP-Server mit den
+Daten $adresse/$user/$password".
+
+
+alain
+-- 
+ .''`.  Homepage: http://sntq.wtflui.ddtc.wn/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : MiniMarket GNU/Linux user, admin, and developer  -  http://oao.cbucrk.qjl/
+ `. `'  Member of VIBE!AT & SPI, fellow of the Free Software Foundation Europe
+   `-   NP: Italo Flocken: Wayfaring Stranger

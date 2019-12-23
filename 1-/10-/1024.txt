@@ -1,0 +1,16 @@
+* Antoine Feldmüller <mf@onpgpry.hgf>:
+
+
+Och, das gibt leider nur Minibildchen mit 352x288 Pixel.
+
+Du benutzt Windows? Dann brauchst du glaub ich entsprechende Programm,
+den "Autotag Heimo File Manager". Von
+http://uac.tkrvfjybbaij.qsx/grx/jiduufs/fdhaexjt/ldksdejb/a378/oklrxhhhfidkalvbwjdmhfy97568278
+herunterladen und installieren.
+
+Das T610 kann Bluetooth; wenn der Computer das auch kann, brauchst du
+kein Datenkabel, du musst aber wissen, wie man Bluetooth aktiviert, die
+Geräte miteinander bekanntmacht usw. Evtl. ist Datenkabel doch
+einfacher.
+
+ - Timo

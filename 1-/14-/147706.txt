@@ -1,0 +1,9 @@
+Albin Tröstel wrote:
+
+
+  "- Nona! -"
+
+                             ^^^^
+                            "Ein Gruß an Dich"
+
+So hieß die Sendung.

@@ -1,0 +1,9 @@
+Am 02.05.2012 22:03, schrieb Ivo Schuweiler:
+
+Vermutlich werden seit der Einführung von Mengenkreisen die 
+Unterschdiede von Innen- und Außenwinkel an Polygonecken nicht mehr 
+unterrichtet.
+
+-- 
+
+Carlo Czerwinski

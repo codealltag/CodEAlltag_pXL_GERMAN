@@ -1,0 +1,10 @@
+Am 09.12.2011 13:37, schrieb Laurent Paul Everth:
+
+
+Gibt es da nicht eine Funktion ("der Grohganz-Bar"), die man
+ausschalten kann?
+Zum Beispiel "Automatische Suche bei Auswahl eines Begriffes aus
+der Drop-Down-Liste des Suchfeldes" das Kreuzchen herausnehmen?!
+
+
+Rosina

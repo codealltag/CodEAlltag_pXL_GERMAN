@@ -1,0 +1,5 @@
+Am 08.02.2013 12:54, schrieb Dietrich Eikholt:
+
+Email nicht. WWW plus SOAP + REST und ein paar HTTP-basierte Kleinigkeiten.
+
+Benjamin

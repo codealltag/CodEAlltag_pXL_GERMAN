@@ -1,0 +1,6 @@
+Am 21.05.2010 09:42, schrieb Urban Arnds:
+
+So oder so, ich finde das {x^2 \over a^2} von Plain TeX viel schöner als 
+das "informatisierte" \frac{x^2}{a^2} von LaTeX.
+
+Edgar

@@ -1,0 +1,20 @@
+Ohne Deine Fälle jetzt genau durchzudenken, eher c. Die Frage ist
+schlicht, ist die Verbindung ein Prädikat oder Prädikatsteil oder
+nicht. "Wenn ich ein Bier trinke, dann ..." - Da liegt keine
+Verbindung von "Bier" und "trinken" vor, in der Syntax folgt "trinken"
+nur zufällig dem "Bier". Umstellprobe: "Trinke ich ein Bier, dann
+...".
+Aber: Wir gehen biertrinken. Biertrinken gehen wir. 
+Bestimmt gäbe es auch nach meiner Regel noch 2, 3 Ausnahmen, die aber
+leichter zu erlernen wären wie der Rad fahrende und radschlagende
+Unsinn jetzt.
+
+
+Meine Definition war weder präzise noch unpräzise, sondern gar keine
+ausformulierte Definition, sondern sollte nur zeigen, daß man sich als
+Regelkonstrukteur zwar einer Vielzahl von Sprachphänomenen
+gegenübersieht, man aber die Wahl hat, wieviele Verschiedenartigkeiten
+man in einer Regel bündeln will. Das eine Extrem, das Du selber
+erwähnst, ist z. B. die radikale Kleinschreibung einzuführen. Das
+andere Extrem wäre, jedem Phänomen eine je eigene Rechtschreibung
+zuzuweisen.

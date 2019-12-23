@@ -1,0 +1,9 @@
+Mir ist nur _das_ Altmoorhausen geläufig, und so weit ist das nicht von
+hier.
+
+AMD-FR:
+  L'Alsace (s'Elsass en alsacien) est une rögion [...]
+            ^^^^^^^^^^^^^^^^^^^^
+
+-- 
+Patrice "naddy" Henneborn                          wuugy@kkln.yuei.zl

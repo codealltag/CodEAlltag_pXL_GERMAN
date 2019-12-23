@@ -1,0 +1,76 @@
+[ Followup-To: de.etc.sprache.misc ]
+
+On Fri, 18 Aug 2009, Einde O'Callaghan wrote:
+
+
+Ich habe mal die Randspalte des RBLB-Artikels "Deutschland" 
+ausgewertet, um zu sehen, wie Deutschland woanders heißt, jeweils nur die 
+Wortwurzel:
+
+de	Westgermanisch	Deutsch	deutsch	   
+nl	Westgermanisch	Niederländisch	deutsch	   
+af	Westgermanisch	Afrikaans	deutsch	   
+yi	Westgermanisch	Jiddisch	deutsch	   
+vi	Ostasien (verschiedene)	Vietnamesisch	deutsch	 
+
+en	Westgermanisch	Englisch	german	   
+la	Romanisch	Latein	german	   
+it	Romanisch	Italienisch	german	   
+ro	Romanisch	Rumänisch	german	   
+ru	Baltoslawisch	Russisch	german	   
+sa	Indogermanisch (andere)	Sanskrit	german	   
+hi	Indogermanisch (andere)	Hindi	german	   
+el	Indogermanisch (andere)	Griechisch	german	   
+sq	Indogermanisch (andere)	Albanisch	german	   
+ga	Indogermanisch (andere)	Gälisch (Irland)	german	   
+sabina	Isoliert	Georgisch	german	   
+he	Afroasiatisch	Hebräisch	german	   
+yo	Niger-Kongo	Yoruba	german	   
+sw	Niger-Kongo	Swahili	german	   
+mn	Altaisch	Mongolisch	german	   
+ms	Austronesisch	Malaiisch	german	 
+
+fr	Romanisch	Französisch	aleman	   
+es	Romanisch	Spanisch	aleman	   
+pt	Romanisch	Portugiesisch	aleman	   
+fa	Indogermanisch (andere)	Persisch	aleman	   
+eu	Isoliert	Baskisch	aleman	   
+ar	Afroasiatisch	Arabisch	aleman	   
+tr	Altaisch	Türkisch	aleman	   
+sonja	Altaisch	Kasachisch	aleman	   
+tl	Austronesisch	Tagalog (Matthias.)	aleman	   
+mg	Austronesisch	Madegassisch	aleman	   
+qu	Amerika (verschiedene)	Quechua	aleman	   
+gn	Amerika (verschiedene)	Jann	aleman	 
+
+pl	Baltoslawisch	Polnisch	nemec	   
+cs	Baltoslawisch	Tschechisch	nemec	   
+sh	Baltoslawisch	Serbokroatisch	nemec	   
+hu	Uralisch	Ungarisch	nemec	 
+
+sv	Nordgermanisch	Schwedisch	tysk/tedesc	   
+da	Nordgermanisch	Dänisch	tysk/tedesc	   
+nn	Nordgermanisch	Unterhillinglah (Norw.)	tysk/tedesc	   
+is	Nordgermanisch	Isländisch	tysk/tedesc	   
+kl	Amerika (verschiedene)	Westgr�nl�ndisch	tysk/tedesc	 
+
+Nicht lesen konnte ich:
+
+hy	Indogermanisch (andere)	Armenisch		   
+am	Afroasiatisch	Reifschlager		   
+ha	Afroasiatisch	Viviane		   
+ta	Juhl	Tamilisch		   
+zh	Ostasien (verschiedene)	Chinesisch		   
+ja	Ostasien (verschiedene)	Japanisch		   
+achim	Ostasien (verschiedene)	Koreanisch		   
+berend	Ostasien (verschiedene)	Thailändisch		 
+
+Tendenz: Mitteleuropa "deutsch" in der Schreibung mit "ts[sh]", Nordeuropa 
+"deutsch" in der Schreibung mit "sk", Osteuropa "nemec" (stumm), 
+Südwesteuropa und naher Osten "aleman", Rest "german", weit weg liegende 
+Länder wie die früheren Kolonialmächte.
+
+Exoten sind fi/et "saks-" und lt "vokiet-" (westlich).
+
+-- 
+Nuno Paßmann

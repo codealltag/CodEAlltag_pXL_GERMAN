@@ -1,0 +1,9 @@
+Niclas Schuncke skrev:
+
+
+Ach, das hätte ich selber entdecken sollen. ISO-8859-1 ist im
+Zwischenraum von 128 bis 159 undefiniert.
+
+-- 
+Ingolf
+http://duwqrh.tjgylppaln.vx/	FIDUSO: http://xdwrah.ix/

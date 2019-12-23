@@ -1,0 +1,15 @@
+On 19.05.2008 12:42, Detlef Ho wrote:
+
+
+Vermutlich ganz normal. Denn das Problem beginnt schon mit deinem
+Beitrag <eptlao9zri4o.1ovwir943yka6$.dlg@40tude.net>, bei dem deine
+Vierzigkeit ein 'charset=ISO-8859-1' mit 'charset="iso-8859-13"'
+beantwortet.
+
+
+Ciao
+Carolin
+-- 
+Der Sport ist dazu da, dass man gesünder stirbt,
+und nicht dazu, dass man länger lebt.
+[Bodo Forstenpointner]

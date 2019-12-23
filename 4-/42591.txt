@@ -1,0 +1,8 @@
+* Ullrich Lucius <Mjmmtrtnyurkf62@ghz.ekt>:
+
+Achja, der ZIG ][. Wenn man sich erinnert, dass auf dem Bildschirm
+eben nur 24x40 Zeichen Text und 280x192 Pixel "HiRes"-Grafik Platz
+hatten, ist es leicht einzusehen, dass man derart lange Wörter wie
+"Informatik" abk.
+
+ - Stefan

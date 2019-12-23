@@ -1,0 +1,6 @@
+Am 14.06.2012 11:16, schrieb Oliver I. Aulbach:
+
+Meinst du sowas wie ein chroot-jail, wie es z.B. bei FTP-Servern benutzt 
+wird?
+
+Ingolf

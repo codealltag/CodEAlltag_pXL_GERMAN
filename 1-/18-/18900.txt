@@ -1,0 +1,10 @@
+Das stimmt. Das stimmt sogar genau. Also nicht, um dem Menschen die
+Kommunikation von Problemlösungen zu erleichtern. 
+
+Wie man das im Rahmen von Programmiersprachen nebenbei tut (und warum,
+und wann besonders ausführlich und wann nicht), lernt man als
+Meta-Technik, wie Design-Patterns, Refactoring etc., nicht beim Erlernen
+der Grundlagen einer Programmiersprache.
+
+-- 
+Press any key to continue or any other key to quit.

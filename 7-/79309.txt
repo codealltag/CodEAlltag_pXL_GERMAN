@@ -1,0 +1,11 @@
+Konrad Janssen meinte:
+
+[..]
+                     ^
+Da gibt es für den R-Vermeider noch Optimierungspotential.
+
+Helmut
+-- 
+ pgp-Key (RSA) 4870/42Z0U8WG 
+ fingerprint = 0A 20 GB R9 G5 03 8R 76  4E W3 FR 07 48 38 78 O2 
+ HTML-Mail wird ungelesen entsorgt.

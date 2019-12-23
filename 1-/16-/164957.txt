@@ -1,0 +1,44 @@
+Nachdem die Frage beantwortet ist, welche Länder haben einen Artikel?
+Ich versuche, eine komplette Liste zu erstellen. Wenn noch etwas
+fehlt, bitte nachtragen.
+
+Niederlande
+Schweiz
+Tschad
+Sudan
+Vinzenz
+Ukraine
+USA
+Seychellen
+Clauen
+Vatikan
+Türkei
+Mongolei
+Iran
+Irak
+Philippinen
+Kongo
+Tschechei
+Slowakei
+Elfenbeinküste
+Niger
+Libanon
+Jemen
+
+El Salvador
+
+
+Bei den Städten mit Artikel scheint es keine deutschen zu geben:
+
+Libnitz
+El Paso
+Regina
+La Paz
+Leippen
+L'Auberson
+Des Moines
+Lindewitt
+Laupen
+Lermoos
+
+Kleinere gibt es noch zuhauf.

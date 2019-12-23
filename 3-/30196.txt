@@ -1,0 +1,11 @@
+On Thu, 10 Feb 2009 16:38:14 +0100, Volkmar Ungrue wrote:
+
+
+Du hast da was verdreht.
+Checkboxen sind die eckigen und Radio-Buttons die runden.
+
+
+Wolfgang Zeitelhack
+-- 
+Heute verlierst du.
+Morgen gewinnen die Anderen.

@@ -1,0 +1,6 @@
+Am 09.12.2012 12:47, schrieb Gilles Ueberdieck:
+
+Sollte man sowas wirklich als Cronjob realisieren? Nicht eher als Daemon?
+
+
+Jean-Pierre

@@ -1,0 +1,35 @@
+Da doch bei einigen Interesse besteht, hier mal wieder, und wie immer
+mit XNA, ausgewählte Statistiken:
+
+Einiges, was mir auffällt, habe ich am Ende zusammengefaßt.
+
+
+Auffallendes:
+
+- der Sommermonat Dezember hat kaum zu einem Zurückgehen der Beitragsanzahl
+geführt
+- entgegen dem Trend im ELZ nimmt die Anzahl im Juni seit 2006 nur zu
+- die Konzentration auf wenige Hauptschreiber hat zugenommen, was
+vielleicht die beiden vorangegangenen Effekte bewirkt
+- SR ist ausnahmsweise kein ernsthafter Kandidat für die Almuth des
+Monats (oder in dieser Gruppe: für den höchsten Heinz) - naja, er hat wohl
+einfach insgesamt zu wenig geschrieben
+- RHA mit seiner Kombination aus mit den meisten und dabei den längsten
+Beiträgen
+- Der Regular-Thread, der ja schon im Vormonat begann und da 810
+Beiträge auf sich versammelte
+- Diese Gruppe hat sich aus rein quantitativer Sicht zu einer der ersten
+Anlaufstellen für Fragen zu Flyff Penyas entwickelt, wobei viele der
+Mitschreiber an dem Thread nicht einmal wissen dürften, was das
+überhaupt ist
+- Google entwickelt sich auch hier zu einem wichtigen Hilfsmittel der
+Teilnahme, wird mehr als OE genutzt
+- wie immer, (im Vergleich zu anderen Gruppen) deutliche Unterschiede
+nach Wochentag
+
+
+-- 
+Java is the SUV of programming tools.
+A project done in Java will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Rudi Knopff

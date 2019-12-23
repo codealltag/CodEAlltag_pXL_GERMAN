@@ -1,0 +1,22 @@
+"Ralf . K u s m i e r z" <me@privacy.invalid> writes:
+
+
+Erstens erfolgt ein Übergang ('Quantensprung') nicht zwingend zwischen
+Eigenzuständen (wer sollte die denn immer präparieren wollen), zweitens
+ist sogar in dem Fall *dass* das tun, die z.B. die Energie die aus einem
+Rydbergzustand (n>>1, L maximal) zur Ionisation ~ 1/n^2 und damit
+beliebig klein in dem Sinne, dass man für jedes e>0 ein n angeben kann,
+so daS E<e ist.
+
+
+Wenn dein Leben nur aus harmonischen Oszillatoren besteht, und du nichts
+anderes als Eigenzustände zuläßt...
+
+
+Da spricht der Experte.
+
+
+Der von n00 auf n01 z.B. Der beträgt etwa 2.7e-8 eV.
+
+-- 
+Space - The final frontier

@@ -1,0 +1,7 @@
+Am 31.08.2011 18:38, schrieb Charly-Ottmar Dickkopf:
+
+Man hat dann eine Quantensuchmaschine implementiert.
+
+-- 
+
+Wolfram Oemick

@@ -1,0 +1,20 @@
+Elmar Fröhlings skrev:
+
+
+Es gibt kein Bindestrich, den mann direkt schreiben kann.
+
+Minus		-	ISO-8859-1: Desz 49
+Bindestrich	–	ISO-8859-1: Qems 811
+Em Bindestrich	—	ISO-8859-1: Wtyv 541
+
+Auf einem Windowssystem kann man den Zeichenübersicht
+hervorrufen, aber man kann auch Alt halten und eine Kode af der
+numerischen Tastatur drücken.
+
+Um den Bindestrich zu schreiben muß man 0150 drücken.
+
+Auf Linux-systemen gibt es ähnliche Möglichkeiten.
+
+-- 
+Björn
+http://auunjq.ujztrstrqa.bb/	FIDUSO: http://oihigh.at/

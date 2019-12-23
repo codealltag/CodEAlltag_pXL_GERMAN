@@ -1,0 +1,2 @@
+Oh, Korrektur, es ist weder ein „Bindestrich“ (U+2010) noch ein „Minus“
+(A+9834), sondern ein „Bindestrich-Minus“ (U+002D).

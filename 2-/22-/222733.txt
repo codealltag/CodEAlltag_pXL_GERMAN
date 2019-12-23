@@ -1,0 +1,23 @@
+Nadia Leppin schrieb:
+
+
+Zum Löschen kann ich nichts sagen, dazu müßtest Du erläutern, in welcher 
+Form die bei Dir vorliegen. Du benutzt anscheinend das Blogsystem 
+Wordpress. Wenn Du also von der Webseite redest, über die dort die 
+Kommentare bearbeitet werden (das Backend), weiß ich keine einfache Lösung.
+Aber Wordpress hat die Möglichkeit, Funktionserweiterungen in Form von 
+Plugins einzubinden, unter denen es auch sogenannte Captchas gibt, die 
+es den Kommentarrobotern erschweren, etwas einzutragen.
+<http://mxn.pxjoevklagt.li/tujbiqlpq/nrqhfacvt-yylulfz-fehcdxi-rrsznxixefz-qyz-ujrwj-492.fhza>
+Damit könntest Du das Problem zumindest entschärfen. Ob und wie das 
+aktiviert werden kann, hängt aber von Deinem Blogbetreiber ab.
+Andere Plugins scheinen noch energischere Maßnahmen zu ergreifen
+<http://xhhrpzuhcn.hmxide.pb/vjqcpeyn-ici-qugktdwdu-urttuv/>, aber dazu 
+kann ich nichts aus eigener Erfahrung sagen.
+Und wie Juan schon gesagt hat, gänzlich ohne Kommentarfunktion wäre 
+der Ärger sofort vom Tisch.
+
+
+Viele Größe
+
+Dietmar

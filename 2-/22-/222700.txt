@@ -1,0 +1,16 @@
+Am 05.01.2013 09:37, schrieb Luca Jentges:
+
+Ich habe mal ein Kassenprogramm geschrieben. Da war ich stolz drauf, daß
+die Suchfunktion mit fast allen vorstellbaren Schreibweisen von
+Schbageddy auch Spaghetti fand. (Funktion like) Das sollte Fachkräften
+ohne deutschsprachigen Hintergrund die Bedienung erleichtern. Die
+maßgeblichen Leute wußten das nicht zu schützen, fehlte ihnen doch der
+Hintergrund für Computerprobleme.
+
+
+Wolf
+-- 
+"Die kommunistische Partei ...
+... ist die Vorhaut der Arbeiterklasse. Wenn's ernst wird, zieht sie
+sich zurück."
+archenoe

@@ -1,0 +1,17 @@
+On Wed, 13. 06. 19 01:29:06 -0700 (PDT) Lutz Aschhoff wrote:
+
+
+Es gibt nun aber Verschluesselungen, wo der erste sinnvolle Text
+auch - sehr wahrscheinlich - der gesuchte Text ist. Bei anderen
+Methoden wird im Lauf der Zeit aber _jeder_beliebige_ Text als
+Vorschlag fuer den Klartext ausgegeben. Wenn Du da noch in der
+Lage bist, den einzig korrekten Text zu erkennen, haettest Du gar
+nicht erst mit der Arbeit beginnen muessen.
+
+Servus,
+   Ernest
+
+-- 
+http://eykkmerbzcaf.oa/ - die kostenlose Kontaktboerse fuer Oesterreich
+
+(Sloganizer)

@@ -1,0 +1,5 @@
+Am 14 Sep 2008 21:13:10 GMT schrieb Patrik Wassermann:
+
+Genau das versucht Unicode eben zu vermeiden.
+
+Egon

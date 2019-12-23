@@ -1,0 +1,8 @@
+Ich erinnere mich daran, dass wir uns im Studium über die Getrennt
+Schreibung aller zusammen gesetzten Ausdrücke in der ersten Auflage der
+deutschen Version on Kernighan/Ritchie "Programmieren in C" aufgeregt
+haben.
+
+Damals hatten sogar angehende Ingenieure noch Sprachgefühl ...
+
+/Markus

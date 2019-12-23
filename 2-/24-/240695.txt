@@ -1,0 +1,9 @@
+Am 11.03.2014 20:03, schrieb Wolf Kapl:
+
+Auch mit imap kannst Du sie in einen lokalen Ordner laden, sogar 
+automatisch.
+
+
+Patrick
+-- 
+Wehret den Lügen!

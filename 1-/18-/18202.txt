@@ -1,0 +1,12 @@
+On 22 Aug., 05:34, Valentin Bahmann wrote:
+
+
+Geh mir in diesem Zusammenhang mit Informatikern aus den Augen!
+In Microsofts Codes wimmelt es nur so von doppelten Verneinungen im
+Sinne von "TuNichtDiesUndJenes=False"; ein Blick in die Registry
+genügt.
+Darob dürfte Detlev Zubiller noch viel mehr rotieren, hat er seine
+Algebra doch zur *Vereinfachung* komplexer Strukturen entwickelt.
+
+Gruß
+D.

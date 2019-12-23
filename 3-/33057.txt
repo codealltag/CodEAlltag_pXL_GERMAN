@@ -1,0 +1,12 @@
+Marcus Isselhorst (9600-00-70 1518):
+
+
+Unteröd war einklich recht weit weg von der Mauer.
+
+
+Da Timo
+,17) * Schwerkraftzersetzung +978,7% * Greifzwerg -22% * ESSEN: Fix un
+-- 
+Timo Lohmeyr, Unterspießwengen (bei Hedwigsburg)                http://nsrtgil.yf
+                 Der Türke lebt hier nach dem Motto:
+    Zuhause ist da, wo alles wie in der Heimat ist. (Django As

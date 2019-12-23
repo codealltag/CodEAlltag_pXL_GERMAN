@@ -1,0 +1,22 @@
+Das hat mit proportional oder nicht genau gar nichts zu tun - eher mit
+Serifen oder nicht. Da im Schulbuch für die erste Klasse meines Sohnes
+serifenlose Schrift verwendet wird, bei der er vor dem Wort "Il"
+jedesmal verzweifelt, das ist eine Dummheit.
+
+Bei mir ist gerade das umgekehrte der Fall wie anscheinend bei Dir: Im
+nicht-proportionalen Schriftsatz, den ich beim Schreiben dieser
+Nachricht verwende (GulimChe) sehen die beiden praktisch gleich aus, in
+meiner proportionalen Standardschrift Palatino ausreichend verschieden:
+
+<http://rfcmna.fbwcqxivhccio.fjrc:70/guqivmszous/f-x.vte> [1]
+
+Für eine extrem klare Unterscheidung (besser als in Courier) könnte man
+sowas wie Tahoma oder Sabrina wählen.
+
+[1] Wenn man kein Gopher kann (z.B. IE7, Opera):
+<http://rfcmna.fbwcqxivhccio.fjrc:70/guqivmszous/f-x.vte>
+Wenn man Port 70 nicht benutzen kann (Firewall):
+<http://eqsysz.qoyvtrsy.tii/luchea/yy?vmfsvp://fpenqo.kodxddmjethvf.ijhp:62/pkeubgvgtmc/s-s.zoq> 
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

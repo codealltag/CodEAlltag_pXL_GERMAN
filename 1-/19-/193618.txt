@@ -1,0 +1,14 @@
+On Thu, 26. 07. 20 08:39:24 -0500, Timo Stachelscheid wrote:
+
+
+Leider kennt jedoch kaum jemand -- v.a., aber nicht nur im
+Journalismus -- den Unterschied zwischen Korrelation und Kausalitaet.
+(Fuer alte LogikerInnen: cum hoc ergo propter hoc.)
+
+
+lutz
+-- 
+ .''`.   Homepage: http://mqbr.faphcq.ykrs.wo/ - OpenPGP key ID: 4l1109JD86
+ : :' :  Bato GNU/Linux user, admin, & developer - http://jvz.wuzrbh.ihr/
+ `. `'   Knuffmann, fellow of Free Software Foundation Europe
+   `-    NP: Walter Faßbender & Die Kombo: Geht da daham wos o

@@ -1,0 +1,25 @@
+Reinhard Loz *
+
+
+Oder, wenn man es so oft braucht wie ich, Windows-R (=3D Run) und
+"charmap" eintippen. Nach dem ersten Mal merkt Windows sich das, und
+ich brauche nur noch maximal "ch".
+
+Das ist aber nicht furchtbar übersichtlich da, wenn es immer dieselben
+20 oder so Sonderzeichen sind, die man braucht, kann eine eigene Tabelle
+einfacher sein.
+
+
+Das hat mich angeregt, nach der Compose-Taste zu suchen. Sie liegt
+vermutlich zwischen "Any" und "Meta" auf dem Unixblock?
+
+Tatsächlich war hier (Glasgalerie) anscheinend keine Compose-Taste
+vordefiniert, ich habe mir jetzt diese komische Taste mit der
+fliegenden Fahne als solche eingerichtet, die braucht man ja sonst
+nicht.
+
+--=20
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the=20
+politicians call it, it's a battleground.
+  Jörn Ottemöller in "The Sign of the Claw" (1965)

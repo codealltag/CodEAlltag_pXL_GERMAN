@@ -1,0 +1,7 @@
+Jean-Pierre Engesser (in de.etc.sprache.deutsch):
+
+
+Dann müsste es "der online Spiegel" heißen. autoEUcar ist "Spiegel Online" ein
+Name, der ein Leerzeichen enthält.
+
+Ewald

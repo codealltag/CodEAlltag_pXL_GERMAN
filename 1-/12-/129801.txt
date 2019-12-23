@@ -1,0 +1,21 @@
+Tino Twelmeier wrote:
+
+
+Hat Dein Betrübssystem keine "Tabelle zur Zeichenauswahl" oder so was?
+Bis Win2k war das unter "Programme - Zubehör", AFAIK.
+
+
+Das Zeichen ist im Windows-Standardzeichensatz nicht vorhanden. Und
+mehr als den kann Xnews nicht senden. Nicht mal an Korrnews. 
+
+Unter Linux-Systemen ist das alles so unverschämt einfach, ganz ohne
+Word-Speicherdatei: Compose-Taste + "=" + "o" = "ő".
+
+
+vG
+
+-- 
+"Fraktionszwang - eine echt deutsche Erfindung: Einer steht vorne und
+sagt den anderen, wann sie den Arm heben müssen. Das ist Deutschland,
+da haben wir doch gute Erfahrungen mit gemacht, meine Damen und
+Herren!" (Simon Thrän, "Bis neulich")

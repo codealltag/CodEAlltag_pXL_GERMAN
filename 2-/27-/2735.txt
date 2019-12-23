@@ -1,0 +1,9 @@
+* Hendrik Imkampe <gtchstbf@ent.buc>:
+
+
+Wir hatten das schon öfter: Es hängt von der Subkultur ab. Bei uns[tm]
+(Softwarefirma in Holziken, Java, Megazeller) schreibt man im allgemeinen von
+"Maschine", in der Umgangssprache spricht man auch von Compi (nur für
+Desk- oder Laptops, kaum für Server), Rechner, Mühle oder Kiste.
+
+ - Didier

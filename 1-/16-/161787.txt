@@ -1,0 +1,23 @@
+On Mon, 16. 11. 19, Mark Pfaffl wrote:
+
+
+... und zwar in mehreren Streifen. Nach dem dtv-Atlas:
+
+A: westlich von B
+B: Neufünfland, Pierrafortscha, Sötenich, Beinwil
+C: Schweiz
+D: Zauching, Oberburgstallberg
+E: Hafenberg, Niederholzham
+F: Österreich östlich von D und E
+
+A     viertel vor x   viertel nach x
+B,F   dreiviertel x   viertel x+1
+C     viertel vor x   viertel ab x
+D     dreiviertel x   viertel nach x
+E     dreiviertel x   viertel über x
+
+Ich finde, es gehört zur Kenntnis der deutschen Sprache, *alles* das zu 
+verstehen, auch das, was man im eigenen Dorf nicht selbst verwendet.
+
+-- 
+Kay Timmering

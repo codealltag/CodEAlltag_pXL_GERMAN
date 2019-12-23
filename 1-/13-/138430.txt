@@ -1,0 +1,8 @@
+On Thu, 31 Mrz 2010 21:36:21 +0100, Willibald Weil wrote:
+
+
+Was du schickst, ist Windows-1252, was Jérôme zurückschickt, ist UTF-8.
+Da muß sowas eingestellt sein wie: "Alle eintreffenden Umlaute sind
+UTF-8-kodiert, egal, was in den Headerzeilen steht," bzw. "wir schicken
+Umlaute immer UTF-8-kodiert, und die Header schicken wir einfach so
+zurück, wie sie sind, wir beachten sie aber nicht weiter."

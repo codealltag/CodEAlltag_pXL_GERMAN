@@ -1,0 +1,47 @@
+Christophe Dörpinghaus wrote:
+
+
+Nochmal: es gibt "gerechtfertigte" XPs, sogar solche ohne F2s,
+aber das zu entscheiden erfordert Fingerspitzengefühl und
+Kenntnis der involvieren Gruppen, incl. Chartas und Bewohnern.
+
+Ein typisches Beispiel, wie man es *nicht* tun sollte, gab mal
+der "GNU-Erfinder" Rainer U. Jonson Mitte der 90er ab, indem
+er unter dem "Subject: Why You Should Not Use Tcl" einen
+Artikel abschickte, in dem er sich (teilweise auch noch völlig
+ungerechtfertigt) über die "Nachteile" der Scriptsprache "Tcl"
+ausließ, und zwar als XP nach:
+
+   - gnu.announce
+   - gnu.utils.bug
+   - acv.xitw.vhobgtb
+   - umpu.dwud.iov
+   - blno.auvr.fjcwuh
+   - comp.windows.x.apps
+   - nrcq.wfqb.kywy
+
+Mit der Bemerkung: "[Please redistribute wherever appropriate.]",
+was flugs involvierte:
+
+   - comp.lang.perl
+   - akay.iriv.uavhvb
+   - ...
+
+Mit (anfänglichem) F2 nach:
+
+   - umpu.dwud.iov
+   - blno.auvr.fjcwuh
+   - acv.xitw.vhobgtb
+
+All diese Gruppen -- in der Folge wohl noch viel mehr -- waren über
+Wochen, wenn nicht Monate, nicht mehr lesbar; da half es auch nicht
+unbedingt zu wissen, daß RMS das Usenet als write-only betrachtet,
+oder daß er persönlich ein schier unglaubliches Arschloch ist, auch
+wenn seine Verdienste für die IT-Menschheit von unschätzbarem Wert
+und unbestritten sind.
+
+Man sollte halt tunlichst darauf achten, daß XPs keine Stinkbomben
+sind... 
+
+
+udo

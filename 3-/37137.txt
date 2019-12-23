@@ -1,0 +1,25 @@
+Das Französische kennt eine Auslautverhärtung wie das Deutsche. Das
+heißt, dass ehemalige lateinische /d/ und /v/, wenn sie durch den
+Ausfall der Endung im Altfranzösischen ans Wortende getreten sind, zu /
+t/ bzw. /f/ geworden sind (bevor dann diese Konsonanten ihrerseits
+wieder geschwunden sind).
+
+Dummerweise ist dieser Wandel in der Schrift heute nur noch in recht
+wenigen Fällen sichtbar, z.B.
+
+- lat. viridem > vert "grün" (wozu dann das Femininum "vert-e")
+- lat. clavem > clef "Schlüssel"
+- lat. novum > neuf "neu".
+
+Sonst hat sich meist eine etymologisierende Schreibung durchgesetzt.
+Erkennbar ist die Verhärtung aber noch in der Aussprache bei
+"Liaison", also wenn das folgende Wort mit Vokal beginnt:
+
+- un grand homme "ein großer Mann" ([gR=E3tom])
+- pied-=E0-terre ([pjetatER]).
+
+Der Auslaut des g=E9rondif ist also ganz lautgesetzlich. Halten konnte
+sich die Schreibung mit <-nt> wohl deshalb, weil das g=E9rondif mit dem
+Partizip Präsens lautlich und funktional zusammenfiel.
+
+Ch.

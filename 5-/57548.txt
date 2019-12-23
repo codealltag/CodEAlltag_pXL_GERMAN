@@ -1,0 +1,4 @@
+Waschstraße: "Der Betrag der komplexen Impedanz \underline Z ist der
+Scheinwiderstand Z\ =3D |\underline Z| ."
+
+Wenn ich das verstehen würde, dann könnte ich die Frage beantworten.

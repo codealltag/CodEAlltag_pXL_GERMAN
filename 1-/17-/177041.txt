@@ -1,0 +1,9 @@
+On Fri, 8 Okt 2011, Otto Elskemper wrote:
+
+
+Aah, das mit GB2312 wusste ich gar nicht. Ich habe UTF-8 benutzt, und 
+alpine macht den kleinsten weit verbreiteten Zeichensatz draus, der alles 
+enthält, und das war offenbar GB2312.
+
+-- 
+Valentino Oversberg

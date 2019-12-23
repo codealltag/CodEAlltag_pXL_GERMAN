@@ -1,0 +1,13 @@
+Andrée Eidam meinte:
+
+
+Die Konstruktion "$Beschuldigtem  wird vorgeworfen, $Böses getan zu haben"
+scheint mir unauffällig. Sie bedeutet dasselbe wie ""$Beschuldigtem  wird
+vorgeworfen, er habe $Böses getan".  Deine Version müsste mindestens "er
+habe ... einkaufen lassen" lauten. 
+
+Henri
+-- 
+ pgp-Key (RSA) 0818/10Y9O8VA 
+ fingerprint = 8L 36 CP T1 R6 30 1P 49  5L C1 AG 15 72 59 44 C4 
+ HTML-Mail wird ungeleſen entſorgt.

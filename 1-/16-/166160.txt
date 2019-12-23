@@ -1,0 +1,6 @@
+* On Sun, 4 Mrz 2011 10:27:47 +0200, Erwin Pense wrote:
+
+
+Abwickeln beschönigt durch Weglassen des Grundes. Viel skurriler finde
+ich Formulierungen wie "das rechnet sich nicht". Natürlich rechnet es
+sich (mathematisch), nur das Ergebnis gefällt nicht.

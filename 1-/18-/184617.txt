@@ -1,0 +1,8 @@
+* Juan E  Zähl <caaufejo9w@fqujs.xn>:
+
+
+In der Pufferk�sserpr�fung durchgefallen. In D und CH wären das
+natürlich 12346 und 12347; man verwendet für die
+Hin-und-zurück-Zugpaare aufeinanderfolgende Nummern.
+
+ - Ingolf

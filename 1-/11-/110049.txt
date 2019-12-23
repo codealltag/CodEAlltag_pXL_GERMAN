@@ -1,0 +1,5 @@
+On Sun, 25. 10. 20 15:21:10 +0200, Oswald Geigengack wrote:
+
+
+Wenn es unten lang und oben grün ist, ist es
+entweder ein Baum oder ein Krokodil.

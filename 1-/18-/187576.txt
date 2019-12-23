@@ -1,0 +1,11 @@
+Am 29.09.2011 22:10, schrieb Wolf J. Raidt:
+
+
+In Algol auf jeden Fall. Das hat damals, als das neu war, die Leute 
+kräftig verwirrt, dass es mitten im Programm plötzlich mit BEGIN INTEGER 
+I; bladibla END weiter gehen konnte.
+
+Walter hat das (wie später auch ADA) vermieden und ließ Deklarationen 
+nur bei Prozeduren _vor_ dem BEGIN zu.
+
+Jörg

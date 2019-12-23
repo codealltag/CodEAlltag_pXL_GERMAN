@@ -1,0 +1,22 @@
+Versuchen Sie mitunter, aber sie haben ein Handicap: sie sind
+meist allein. Dadurch fehlt oft der informelle Austausch "unter
+Kollegen", wo derlei zum Thema wird.
+
+
+Das kann grausam sein. Manchmal ereilt die Anforderung "schreib
+deinen Kram gefälligst auf deinem Laptop" manche Leute quasi aus
+heiterem Himmel in "gestandener" Position. Da wird der Oberchef
+dann plötzlich zum Erstklässler, und das geht dann ins Auge.
+So wie der Vertriebschef, der immer die vielen Dateien auf C:
+löschte und sich dann beschwerte, daß der Computer nicht mehr
+lief. (Ich bin immer mal wieder entsetzt, wievielen Leuten das
+Dateisystem mit seinen Ordnern/Verzeichnissen nichts sagt.
+Wahrscheinlich haben sie bei ihrem ersten Computer nie "Format
+C:" gemacht und man hat versäumt, ihnen das Speichern zu
+erklären.)
+
+
+Ja, da muß es hinkommen, so wäre es richtig. 
+Was den Computerkram oberhalb der Hardware angeht, so wünsche ich
+mir dazu immer mal wieder ein "Wie funktioniert das?"-Buch mir
+aussagekräftigen Bildern und deutlichen Worten.

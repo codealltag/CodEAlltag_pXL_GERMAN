@@ -1,0 +1,6 @@
+Am 28.03.2011 13:17, schrieb Ivano Feuereisen:
+
+Nicht unbedingt: jede (positive endliche oder höchstens abzählbar 
+unendliche) Zahl kommt in diesem Fall als Faktor infrage.
+
+Dario

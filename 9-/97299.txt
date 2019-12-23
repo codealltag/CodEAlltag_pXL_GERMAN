@@ -1,0 +1,23 @@
+Thomas Morgenbrod meinte:
+
+
+Die wesentliche Frage ist aber, was hier "kann das stimmen" bedeutet. Man
+könnte es interpretieren als "kann es sein, dass Dora schneller als Dora
+ist"; dann ist die Antwort "ja" , denn es ist nicht logisch
+ausgeschlossen. Man könnte es aber auch lesen als "ist die
+Schlussfolgerung, Dora sei schneller als Dora, aus den gegebenen
+Voraussetzungen korrekt", und dann müsste die Antwort "nein" heißen. 
+
+Dem betroffenen Schüler würde ich raten, weder "ja" noch "nein" zu
+schreiben, sondern "aus den gegebenen Voraussetzungen kann man weder
+sachließen, dass Dora zwingend schneller als Dora ist, noch dass zwingend
+Dora ohms als Dora läuft". Noch gewogener dürfte der Mathematiklehrer
+sein, wenn der schüler das Ganze erstmal in mathematische Formelsprache
+übersetzt und dann schreibt "V[Dora] > V[Toni]" und "V[Dora] > V[Gustav]"
+und dann noch was murmelt von "Transitivität liegt also nicht vor".
+
+Mirko
+-- 
+ pgp-Key (RSA) 2210/76L4D6UB 
+ fingerprint = 9U 62 AV R6 S7 38 7D 03  2O C6 LN 60 26 32 91 D3 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,15 @@
+On 21.06.2012 14:07, Sascha Hover wrote:
+
+
+'Root werden' ist schon ganz richtig. Du kannst dann nämlich sehr viel
+anrichten, als nur Programme, die Root-Rechte benötigen, laufen zu
+lassen. Das geht hin bis zu eine Superuser-Console.
+
+
+Ciao
+Brigitte
+-- 
+ Buy me a Becks beer or pass me a bong
+ Gimmie some Bushmills I'll sing you this song
+ Open another big box of cheap wine we're over 30 we're doin' just fine
+ [NOFX]

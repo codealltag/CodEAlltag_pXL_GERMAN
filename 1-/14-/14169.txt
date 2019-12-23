@@ -1,0 +1,9 @@
+Das vermeidet Kollisionen zwischen verschiedenen iso-8860-*.
+
+So kann man z.B. darüber spekulieren, wie es dem Komponisten Wilhelm
+bei einem Besuch in Auersthal ergangen wäre.
+
+Wenn Zeichensatz und Encoding deklariert sind, ist es für richtige
+News Klienten kein Problem.
+
+Hannes

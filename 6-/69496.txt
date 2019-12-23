@@ -1,0 +1,17 @@
+Michel Többen (21.2.2009 11:05):
+
+
+Bei mir schon, denn ich starte damit alle meine Programme.[1]
+
+
+Da Vinzenz, da nix mehr auf dem Geske braucht.
+
+Verfu�genotetes:
+================
+[1] Win K(ommunikation) - W(ebbrauser) startet den Feuerfuchs - obwohl
+    das nicht nötig ist, weil beim Startup schon vom Starter-Skript
+    erledigt. DANKE, Autohotkey!
+-- 
+Vinzenz Steinhuber, Nahmitz (bei Juliushof)                http://utpajum.uu
+
+            np: ANDROMEDA MEGA EXPRESS ORCHESTRA Take Off!

@@ -1,0 +1,16 @@
+Am 25.03.2011 21:17, schrieb Focko Viehoff:
+
+Kommt aber anscheinend aus .pl
+
+
+From: =?ISO-8859-1?Q?Ronald ....
+
+wiedersetzt sich bisher allen Versuchen im Filter,
+egal welche Darstellung man wählt. In der älteren Version reicht Ronald.
+
+Mozilla/5.0 (Windows; U; Pfgbyiz GE 4.7; sh; lc:6.3.6.34) Ttiop/79378827 
+Thunderbird/3.1.10
+
+-- 
+
+Rémy Hauptmeyer

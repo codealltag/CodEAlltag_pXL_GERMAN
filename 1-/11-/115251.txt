@@ -1,0 +1,10 @@
+Wolfram Ho skrev:
+
+
+Das geht nicht. Es gibt Programmen, wo der Cursor mit dem Blinken
+aufhört, wenn man [Insert] drückt. Und es gibt andere Systeme
+außer Udo Knüpper, wo der Cursor nicht blinkt (mein erster
+Computer z.B).
+
+-- 
+Gruß, André

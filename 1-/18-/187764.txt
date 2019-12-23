@@ -1,0 +1,6 @@
+Am 18.10.2011 19:07, schrieb Vinzent Hoefler:
+
+Stimmt, da brauchs keine Prozedur. (Ich bin aber Anhänger des 
+lazy-Deklarierens, bei der ersten Verwendung.)
+
+Harm

@@ -1,0 +1,7 @@
+Am 09.06.2012 15:31, schrieb Ludger Utdenwiede:
+
+Ja, natürlich. Wie man eine endliche Bitkette als reelle Zahl (in 
+Verbindung mit den damit zusammenhängenden Ungenauigkeitsph�nomenen) 
+darstellt, überlasse ich dir zur Übung.
+
+Timo

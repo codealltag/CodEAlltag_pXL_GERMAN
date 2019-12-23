@@ -1,0 +1,7 @@
+Ja, die gab's damals noch nicht. Für die Mini-CD werden 6,7 Gramm
+angegeben, aber ein USB-Stick hat natürlich viel mehr Kapazität. Wenn
+das robust genug ist, böte sich microSD (< 1 Gramm) an, mit bis 16 GB.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

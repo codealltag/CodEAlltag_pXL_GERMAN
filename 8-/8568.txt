@@ -1,0 +1,10 @@
+* Gunter Kornetzky wrote:
+
+
+OK, ich bin schon still.
+
+
+50.times{puts "Ich soll still sein, wenn die Erwachsenen reden!"}
+
+-- 
+Arno W.

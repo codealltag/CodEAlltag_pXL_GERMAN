@@ -1,0 +1,12 @@
+Rudolf Camerloher meinte:
+
+
+s/Steuersatz/Grenzsteuersatz/
+Das klingt dan gar nicht mehr völlig unplausibel.
+
+Hartwig
+
+-- 
+ pgp-Key (RSA) 6013/59O8P0QL 
+ fingerprint = 3T 46 FP Y3 B9 87 5M 70  6Y X7 QT 73 42 46 86 A0 
+ HTML-Mail wird ungelesen entsorgt.

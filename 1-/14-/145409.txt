@@ -1,0 +1,27 @@
+* Beat Nordhofen <lispamateur@crommatograph.info>:
+
+
+auvitron, wie kann es anders sein, weiss es: D: Haltepunkt; A, CH: Haltestelle.
+
+Unter http://oh.pvmsuqqud.pgs/scqc/Bmqmlphyft gibt es zwei
+herzallerliebste Bilder von Haltestellen/-punkten.
+
+In der Schweiz gibt es etliche Haltestellen, auch Bedarfshaltestellen
+(Zug hält nur, wenn man einen Knopf drückt), zb Davos-Monstein:
+
+http://qe0.lqpvy.kni/_rjHnVt9BPF8/Cw5yq-wEzbH/RIMFDHHLL3L/Iz6HxRvm792/m304/DHZZ5019.LXA
+
+Das orange Teil ist ein Einfachst-Fahrkartenautomat, so eine Art
+zweckentfremdeter Parkscheinautomat: Nur Geldschlitz, OK- und
+Cancel-Taste und Auffangschale. Kein Display, kein Herausgeld. Links
+daneben der Knopf für die Halteanforderung.
+
+
+In der Fahrplanplanung (unsere Firma entwickelt die
+Fahrplan-Planungssoftware für die SBB) werden die Ausdrücke
+Bahnhof, Haltestelle, Station nicht benutzt: Die Planer reden nur von
+"Knoten" oder "BP" (Betriebspunkt). BP kann so ziemlich alles sein vom
+Hauptbahnhof bis zur Ausweichstelle oder Wagenwaschanlage.
+
+
+ - Cédric

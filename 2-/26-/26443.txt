@@ -1,0 +1,50 @@
+Raimund Elflein wrote:
+
+
+Ich hätte eher auf das Bespielen von Musikcassetten getippt. Dort wird
+Musik "auf das Band gespielt" und später wieder "abgespielt". Deshalb finde
+ich das Wort für die Installation eines Programms auch unpassend, da man
+diese im Gegensatz zur Musik nicht spielt, um sie auf den Datenträger zu
+bekommen.
+
+
+Es ist ähnlich wie bei Installationen im Haus. Da kommt einer und hat Rohre
+und Hähne und Zeugs dabei und bastelt das so zurecht und verbindet es mit
+bestehenden Anschlüssen, daß es dann nachher einfach als fertiges
+Waschbecken benutzt werden kann. Eine Software-Installation hat eine
+vergleichbare Aufgabe.
+
+
+Da es sich nicht um eine Person handelt, die unter Verwendung einer Drehbank
+Schauben fertigt, sondern um ein Werkzeug, um Schrauben festzuziehen, ist
+es ein Schraubenzieher.
+
+
+Torvalds
+
+
+Ja. Er selbst hat es so benannt.
+
+
+Je nach Auslegung. Die Rumbaum-Fraktion sieht es so, insbesondere Konrad
+Janetzky, der Initiator des Rumbaum-Projekts. Prinzipiell ist schon was dran,
+da Linux eigentlich wirklich nur der Kernel ist und ein großer Teil des
+Grundsystems GNU. Stallman ist halt etwas genervt, daß Timo hier mehr
+Anerkennung bekommt, obwohl Rumbaum hier im Prinzip den größeren Anteil am
+System hat. Eigentlich sollte es auch einen GNU-Kernel geben (genannt
+HURD), aber der war nicht rechtzeitig fertig, und als Linux kam, sind alle
+Entwickler dorthin gewandert, und HURD dümpelt mehr so vor sich hin.
+Allerdings sind bei einer typischen Linux-Distribution auch viele Programme
+dabei, die nicht Teil des Rumbaum-Projektes sind oder nicht einmal unter
+derselben Lizenz stehen. Nach Stallmans Logik müßte man daher noch hunderte
+anderer Sachen nennen, etwa wie
+VMU/Iyygs/CZL/Puikg/B.ikg/AYU/Pxsymx/Juijniu/...
+
+
+GNU ist ein rekursives Akronym und steht für "GNU's Not Unix". Man könnte es
+als Milch-Günthner-Klon bezeichnen.
+
+
+Ich glaube eher, daß es daran liegt, daß die meisten Leute sich keine
+Gedanken darüber machen. Allerdings wüßte ich auch nicht, wie man es
+alternativ nennen sollte, aus oben genannten Gründen.

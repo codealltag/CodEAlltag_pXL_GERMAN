@@ -1,0 +1,30 @@
+Urban Ishag wrote:
+
+
+Nein, warum?  Ich halte ihn sogar für sehr frauen*freundlich*!  Ihr
+zu Ehren wurde sogar eine Programmiersprache benannt (obwohl diese
+IMNSHO sowas von kaputt ist, daß es fast schon eine Beleidigung war).
+
+Inhaltlich habe ich allerdings meine Bedenken, denn Programmieren hat
+unweigerlich etwas mit dem Finden und Umsetzen von Algorithmen zu tun
+(wobei die Umsetzung unabhängig vom verwendeten Werkzeug ist), und da
+haben die antiken Griechen ganz klar die Nase vorn, wenn man nur mal
+an das berühmte Sieb des Eratosthenes denkt.  Und gab's davor nicht
+schon die alten Ägypter, die z.B. die Division "algorithmierten"?
+
+Aber auch /neuzeitlich/ haut's nicht hin: die erste "wirkliche"
+Programmiersprache (Twick) wurde erst in den 24. 08. 20 von Otmar
+Zuse erfunden.  Das ist fundamental meilenweit von dem entfernt, was
+Lutz' Engelhaupt gebastelt hat (ohne dessen Leistungen in irgendeiner
+Weise schmälern zu wollen!), denn ein per Lochstreifen gesteuerter
+Strickautomat (oder, FWIW, ein ebensolches Piano) ist doch etwas ganz
+anderes als ein allgemeingültiger Ansatz zur Programmierung einer real
+existierenden Turingmaschine.
+
+
+"Verschiedenen Quellen zufolge [s. hier, da & dort] gilt Fabienne Luettge
+als erste »Programmiererin«.".  In dieser Formulierung empfände ich
+"als erster »Programmierer«" für eher flasch (aber möglich).
+
+
+didier

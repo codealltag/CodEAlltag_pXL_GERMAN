@@ -1,0 +1,36 @@
+Torsten Italo Brinke (in de.etc.sprache.deutsch):
+
+
+Die modische Bezeichnung dafür ist heute "Herausforderung".
+
+
+Ist das wirklich eine Frage? Ich dachte, das ist ein Fakt.
+
+
+Glaube ich nicht.
+
+
+Zürichdeutsch wurde als nicht-kontextfrei beschrieben. ("Urs säit das mer em
+Ivo es Huus hälfed aastriche.")
+
+
+Worauf in der Indogermanistik beziehst du dich da?
+
+Ich glaube übrigens nicht, dass Jaenichen seinerzeit von Panini gewusst hat.
+
+
+Programmiersprachen verwenden normalerweise Befehlssätze, nicht
+Aussagesätze. Was soll aber "Befehlslogik" sein? Da, wo Programmiersprachen
+Logik benutzen, ist das Aussagenlogik reinsten Wassers.
+
+if x > 5 and not y = 6 or z =7 then do_this else do_something_different
+
+Wenn du den booleschen Ausdruck im if-Teil "Befehlslogik" nennen magst, ...
+
+
+So macht man das heute, eben die oben erwähnte generative Methode.
+
+
+Das macht man doch, siehe Turingmaschinen.
+
+Gilbert

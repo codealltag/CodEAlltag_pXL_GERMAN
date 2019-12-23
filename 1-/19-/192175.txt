@@ -1,0 +1,18 @@
+Am 10.10.2011 00:04, schrieb Thorsten Zörns:
+
+Dann vergleichst du nochmal mit gedrucktem Material. Die pdf-Skripten im 
+Netz werden gern familiär formuliert, oft von Leuten, die erstmals 
+lehrend tätig werden. Oft, aber nicht immer, verbessert sich Stil dann 
+in den nächsten vierzig Jahren erheblich.
+
+Ein guter Mathematiker muss natürlich auf die Schwammigkeit der Sprache 
+bei natursprachlich formulierten Definitionen, Sätzen und Friedrich 
+eingehen. Das generische "ein" exemplifizert man am besten an der 
+unwiderlegbaren Logik von:
+
+Der Mensch wanderte im Holozän nach Europa ein. Sokrates war ein Mensch. 
+Sokrates wanderte im Holozän nach Europa ein.
+
+-- 
+
+Edouard Münchhofen

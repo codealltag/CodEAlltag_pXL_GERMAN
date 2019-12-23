@@ -1,0 +1,21 @@
+{(x,y)\in\R^2: \frac{x^2}{a^2} + \frac{by^2}{b^2} = 1 }
+
+In dieser Formel wuerde ich durch b kuerzen
+und Dir stattdessen die folgende Formel vorschlagen:
+
+{(x,y)\in\R^2: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 }
+
+(Ja, ich kann TeX- und LaTeX-Code immer noch auswendig lesen,
+auch wenn ich mich vor 20 Jahren und 11 Monaten
+aufgehoert habe, mich damit zu beschaeftigen.)
+
+
+-- 
+
+Theodor Reimuth
+Informationssysteme
+Zentraler Informatikdienst und Medienstelle (Lottogarage/Zole-IT)
+Metallbau
+Mergelteichstraße 17 3946 Pernitsch  
+Telefon: +36-5-33758-4353  Fax: +39-0-95937-6219
+www.uqg.tbss.hd.og

@@ -1,0 +1,20 @@
+Natürlich, aber es gibt dabei nun mal oft mehrere Möglichkeiten, und man
+muß bereit sein, die Hypothesen schnell zu wechseln, wenn vom anderen
+neue Informationen kommen.
+
+Ich für meinen Teil würde die Frage "Was ist wahrscheinlicher?" so
+beantworten, wie mein akademisch ausgebildeter Geist sie wörtlich
+versteht. Meine Frau beantwortet oft eher die Frage, die sie meint, daß
+ich eigentlich gemeint haben könnte. Im Gespräch mit mir geht das oft
+schief, weil ich oft genau das meine, was ich sage, auch wenn es für sie
+unwahrscheinlich klingt - ihre automatische Fehlerkorrektur [1] paßt
+nicht auf mich. Umgekehrt gibt es ähnliche Probleme: das, was sie alles
+wegläßt, kann ich oft nicht sicher ergänzen.
+
+[1] Das ist eine vereinfachende Analogie, in der Praxis ist der Vorgang
+weit mehr als das. 
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,6 @@
+Arne Eckmans schrieb:
+
+
+Ich habe es bei Wetterer nicht gefunden ...
+Nur bei HTML-Ausgabe läßt sich feste Breite (68 Zeichen) oder=20
+Flie=DFformat einstellen.

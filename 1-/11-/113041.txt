@@ -1,0 +1,11 @@
+Emile Thines schrieb:
+
+
+Rekursion die eine Methode, einfache Dinge kompliziert zu
+formulieren:
+
+n! :=3D (n-1)! * n
+
+Gruss
+
+Knut

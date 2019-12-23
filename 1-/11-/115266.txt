@@ -1,0 +1,9 @@
+Am Sun, 27 Feb 2010 15:34:00 +0200 schrieb Bertel Bernhard Vomrath:
+
+
+Du meinst, wenn im Textverarbeitungsprogramm nicht eingefügt, sondern
+überschrieben wird? Selbst dann blinkt das Viereck, in OpenOffice und, wie
+ich vermute, in Word ebenfalls.
+
+Gruß
+Hans.

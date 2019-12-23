@@ -1,0 +1,20 @@
+Detlev Konrat wrote:
+
+
+*Lach* Das /ist/ eine der Begriffsverwendung in der IT, spezifisch der T=
+eil,
+der sich mit Echtzeit-Sächelchen beschäftigt. Der Begriff "Dea=
+dline" (deutsch:
+Endtermin?) sagt Dir in diesem Zusammenhang auch nichts, oder?
+
+
+Eben. "time-critical". Das neudeutsche "zeitkritisch" hat hier aber eine=
+
+andere (engere) Bedeutung.
+
+
+Vinzent.
+
+-- =
+
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

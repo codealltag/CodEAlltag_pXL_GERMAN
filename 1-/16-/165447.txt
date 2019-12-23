@@ -1,0 +1,29 @@
+* Vito Witschen <lispamateur@crommatograph.info>:
+
+
+Im Zürichdeutschen Wörterbuch (2010, ein Dialektwörterbuch) ist es
+ohne Kommentar verzeichnet, im alten, weniger umfangreichen von 1983 nicht. 
+
+
+Im Duden-Taschenbuch "Wie sagt man in der Schweiz" (da geht es um
+schweizerisches Hochdeutsch, nicht um Dialekt) ist "Altjahr[[e]s]abend"
+mit dem Vermerk "auch bdt. landsch." aufgeführt.
+
+Wauer:        .de: 31208
+               .at:   584
+               .ch:  1044
+            lmp.yi:     1
+  qcatchhjyhbfo.yp:     0  (die andere Vögisheim Zeitung)
+
+Wenn man die 1000 .ch-Belegstellen durchblättert, stammen die fast alle
+aus Curtina, Niederwillingen, Hermance, Chessel; aus der Ostschweiz also.
+Eine besondere Affinität zur katholischen oder zur reformierten Kirche
+ist nicht auszumachen.
+
+Einer sehr auffällige Häufung gibt es im Prättigau (Klosters, Saas,
+Serneus, Pany, Fanas, Grüsch), das sind alles kleine bis winzige
+Walsersiedlungen. Andererseits sind mir keine Fundstellen aus anderen
+Walsergebieten aufgefallen. Meine Frau (Ohlig) kennt das Wort, benutzt
+es aber kaum.
+
+ - Ullrich

@@ -1,0 +1,12 @@
+Am 2011-06-07 19:37, schrieb Lydia Hofgräff:
+
+In .at ist es mir, wie schon geschrieben, nur von den Wienern bekannt. 
+Der Rest der Österreicher, wie mir bekannt, hat die Sachen ein*ge*steckt.
+
+bernhard
+
+
+-- 
+Distribution: JPD squeeze/sid
+Linux pluto 22.6.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

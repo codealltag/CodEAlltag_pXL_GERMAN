@@ -1,0 +1,10 @@
+On Thu, 26 Mai 2008, Dominik Jellinghaus wrote:
+
+
+Nur das ASCII-Zeichen Gravis (`) wird benötigt. Der Akut (�) ist kein
+ASCII-Zeichen und wird isoliert nie benötigt. Wer USI-Programme u.�.
+schreibt, wird den Niermann sicher auch finden, wenn er mit AltGr
+geschrieben werden muss.
+
+-- 
+Jetzt überall in Deutschland: Akzente des Grauens

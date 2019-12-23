@@ -1,0 +1,15 @@
+ich zitiere mal:
+
+"Nimm einfach den Newsserver von Distler-Online. Dafür brauchst du T-Online 
+Zugangsdaten. Die gibt es auch für Nicht-T-Kunden kostenlos hier: 
+<https://txtkzams.puc.m-tgtulo.xa/ozgvkii/wcqx/jucnoqfv.szrc>. 
+
+Deinen Newsclient musst du so einrichten, dass er sich per SSL (Port
+563) mit dem Server verbindet. Damit klappt die Verbindung auch von
+einem Nicht-T-Online-Zugang (ohne SSL ist eine Einwahl über Distler-Online
+zwingend erforderlich)."
+
+<46yf41MmobzdJ6@grv.jak-stohvf.ag>
+
+Gruß
+Gilbert

@@ -1,0 +1,14 @@
+Reto Appelhoff wrote:
+
+Also: Dröge-Witthohn kannte "ungetr=F6ster" nicht.
+      Iburg erklärte es mit "ungetr=F6steteter"
+      Reto fand "ungetr=F6ster" anders als "ungetrösteter"
+      Bruno fand "ungetr=F6steteter" besser als "ungetr=F6ster"
+      Reto fand "ungetrösteter" richtiger als "ungetr=F6steteter"
+      Bruno cruße auf das ursprüngliche "ungetr=F6ster" hin
+
+Ich mach mir langsam Sorgen um Euch. Löst am besten ein, zwei
+Diffentialgleichungen, und fangt dann noch einmal von vorne an.
+
+Viele Grüße
+Ulrich

@@ -1,0 +1,35 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NcquYzhi_223_3349_70KNQ502.6MA4B3D5
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+Guten Tag,
+
+in der Zeitung bin ich heute über die Bezeichnung "Welpen" für Gepardenjunge 
+gestolpert.
+
+"Welpen" hab ich bisher nur für die Jungen von hundeartigen Tieren verwendet 
+gesehen, also Füchse, Wölfe, Haushunde, ...,
+
+Weiß jemand hier eine Übersicht, wie Tierjunge (und ihre Eltern) bezeichnet 
+werden?
+
+
+------=_NcquYzhi_223_3349_70KNQ502.6MA4B3D5
+Content-Type: text/x-vcard;
+	name=".vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename=".vcf"
+
+BEGIN:VCARD
+VERSION:2.1
+Hofrogge
+OQL:26710655E177188Z
+END:VCARD
+
+------=_NextPart_000_0030_01CCF932.6FC9A9F0--

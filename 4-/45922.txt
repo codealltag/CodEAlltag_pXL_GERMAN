@@ -1,0 +1,14 @@
+On Thu, 15 Jan 2009, Odette Rohrwacher wrote:
+
+
+Daraus schließe ich, dass dein DNS-Server weiß, wer www.sdjotkn-hmrp.rv 
+ist. Meiner weiß es nicht:
+
+Server:         09. 10. 19
+Address:        71.260.19.26#51
+
+** server can't find www.sdjotkn-hmrp.rv: NXDOMAIN
+
+
+-- 
+Berend Claaß

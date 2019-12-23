@@ -1,0 +1,17 @@
+On Thu, 25 Okt 2009 12:31:48 -0500, Dirk Leitheiser
+
+Also, meißeln wir mal:
+
+Es gibt einen Artikel. Der wurde von einem dazu berechtigten
+Anwender freigegeben.
+Diesen Artikel ändere ich.
+Es existieren jetzt 2 Artikel - der alte (gesichtete Version)
+und der geänderte (aktuelle Version). Angezeigt wird nur der
+alte Artikel, der aktuelle Artikel kann aber aufgerufen werden.
+Die Änderung wird von einem berechtigten Anwender gesichtet.
+Jetzt wird die geänderte Version angezeigt.
+
+http://wx.blosavwpr.ydw/xqsv/Jjitpxhdq:Rzxfbwqurd_Ncoqvhrvo
+-- 
+Viele Größe
+Karlheinz Vögele

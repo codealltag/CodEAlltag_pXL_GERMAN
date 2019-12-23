@@ -1,0 +1,13 @@
+On Tue, 9 Mar 2010, Beat Ossendoth wrote:
+
+
+Ja. "Polynom" war ein schlechtes Beispiel, weil das Wort von Algebraikern 
+anders verwendet wird als von anderen Mathematikern, etwa den Numerikern, 
+die von Legendre-, Lagrange- und was weiß ich für Polynomen sprechen und 
+damit eben jeweils eine Klasse von Funktionen meinen.
+
+Hier gings um eine sprachliche Frage, und für die wäre das Beispiel gut 
+gewesen, hätte ich "Funktion" geschrieben, wo jetzt "Polynom" steht.
+
+-- 
+Johannes Frohnhofen

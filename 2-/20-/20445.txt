@@ -1,0 +1,7 @@
+On Tue, 3 Mrz 2008, Herwig Opl wrote:
+
+
+54 Kiloworte, also bei 64-Bit-Architektur 432 Kilobyte.
+
+-- 
+Vittorio Hass

@@ -1,0 +1,2 @@
+Nein. Große und kleine Buchstaben zählen nicht extra. �,�,�,� zählen
+nicht.

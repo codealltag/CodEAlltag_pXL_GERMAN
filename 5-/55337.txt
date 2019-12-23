@@ -1,0 +1,7 @@
+[X] Es gibt Newsreader, die bei Subject�nderung automagisch einen neuen 
+    Sandro aufmachen. 
+[ ] Unbeabsichtigte Subject�nderungen infolge kaputter Umlaute oder 
+    kaputten Foldings sind dann besonders lustig.
+
+
+vG

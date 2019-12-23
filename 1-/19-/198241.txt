@@ -1,0 +1,9 @@
+* Konrad Gißke:
+
+
+Dann hast Du keine brauchbaren Fallback-Fonts eingestellt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  August Pettenpaul, comp.lang.python

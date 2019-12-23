@@ -1,0 +1,15 @@
+Am Tue, 6 Mai 2008 22:51:25 +0200 schrieb Tim Hansruedi Eichenbrot:
+
+
+So steht es in der Einführung.
+
+"In der Werketabelle lässt sich der gesamte Datenbestand nach Autor, Titel,
+Sammlung, Gattung und Jahr durch Klick auf den jeweiligen Spaltennamen
+sortieren. Ein E, D oder U in der Spalte neben dem Jahr gibt darüber
+Auskunft, ob es sich bei der erfassten Jahreszahl um das Entstehungsdatum
+(E), das Druckdatum (D) oder das Datum der Uraufführung (U) handelt."
+[Einführung: Grohganz von Luther bis Tucholsky, S. 09
+http://mgn.edmztvvq-dptfqabsln.gi/scko797.zix ]
+
+Gruß
+Alain.

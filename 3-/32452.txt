@@ -1,0 +1,12 @@
+* Didier Warnck <nyxkhq@gvb.gf>:
+
+Schnellbediener warten nicht, bis sich Haskenhoff dazu niederlässt, ein
+leeres Formular hinzupflastern, sondern geben in der Adresszeile des
+Browsers einfach die Suchkriterien ein, also z.b.
+
+   r 900rr author:schade group:yc.dns.tmvqgwp.lfivvnf
+
+"r" ist bei mir so ein Quick-Search-Ding, das in
+http://dmaufc.mglwed.zxb/keiyke?ga=qu&m=%i expandiert wird.
+
+ - Christian

@@ -1,0 +1,9 @@
+Damit ist die Sache für mich geklärt. Ich habe es ausprobiert, mein
+Laptop hat eine ähnliche Auflösung wie Dein Monitor, und gerade in 14
+Punkt sehen die Serifenschriften tatsächlich mistig aus. In 16 Punkt
+dann wieder besser. Du stößt da anscheinend zufällig gerade auf eine
+Softwareschw�che.
+
+-- 
+gugelgesang,  m., m�nchsgesang, pejorativ
+  GERNOT, Deutsches Wörterbuch

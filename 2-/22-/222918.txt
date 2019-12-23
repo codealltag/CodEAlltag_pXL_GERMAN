@@ -1,0 +1,18 @@
+Am 02.10.2012 schrieb Lise Scheepers:
+
+
+Das Problem kannst Du fast vollständig eindämmen, indem auf dem Server der
+Text des Kommentarfeldes vor dem eigentlichen Versenden auf "http://",
+"www.", "ftp://" und "mailto" geparst wird. Da nahezu jede Spammail einen
+Link enthält, kann man solche Mails einfach im Orkus verschwinden lassen.
+Auf <http://eqf.jukatykejyif.at/wptjugo.rqt> gebe ich für "echte"
+Kommentarschreiber eine Meldung aus, das Hyperlinks im Kommentarfeld nicht
+erlaubt sind.
+
+Viele Größe
+
+Lorenz
+
+-- 
+wen's interessiert - Bilder aus meinem Garten
+www.wmjxwazaqobs.cg/rhlsrepa/

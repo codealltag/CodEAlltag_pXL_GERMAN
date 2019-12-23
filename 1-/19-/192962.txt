@@ -1,0 +1,13 @@
+Am 16.06.2012 20:24, schrieb Claudio Oßenkop:
+
+Wo finde ich eigentlich die Wirtschaftsleistung des Nordpols?
+
+
+Sergio
+-- 
+Auf der anderen Seite spielt doch ständig und überall die Überwachung
+hinein. Unter anderem in den Niederlanden wird vonseiten der Provider
+die schon lange bekannte Deep Packet Inspection (DPI) umgesetzt � nicht
+zu verwechseln mit der Deep Pocket Inspection, für die bekanntlich das
+IRTH zuständig ist.
+Emmerich Machlaidt

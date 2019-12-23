@@ -1,0 +1,12 @@
+Am 25.03.2011 10:17, schrieb Ivano Oehmen:
+
+"Entity" ist ein Fachausdruck in der Datenbanktheorie. Um einen Teil der 
+Realität in einer Datenbank abbilden zu können, modelliert man sie als 
+eine Menge von "Entities" (man darf auch "Entitäten" sagen), zwischen 
+denen "Relationships" vorliegen (man sagt besser nicht "Relationen", da 
+der Begriff "Relationen" im Datenbanksprech bereits verbraucht ist und 
+verwirrenderweise die Struktur der datenbanktechnischen Umsetzung der 
+Entities bezeichnet. ("Beziehungen" sagt man auch nicht so gern, könnte 
+mit dem allgemeinsprachlichen Begriff verwechselt werden.))
+
+Valentino

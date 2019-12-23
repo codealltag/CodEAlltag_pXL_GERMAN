@@ -1,0 +1,21 @@
+On 07.03.2011 21:55, Enno Volker wrote:
+
+
+So sieht's aus. Mir ging's eher darum, dass sie wohl nicht nötig hat,
+für den Umlaut im Betreff extra die Tastatur umzustellen. So hatte ich
+dich zumindest verstanden.
+
+
+Der einzige Erich hier, der mir einfällt, ist E. Scholze, warum auch
+immer man den filtern wollen sollte. Erich aber verwendet
+standardmäßig UTF-8, sein From: lautet also: =?utf-8?Q?Rüdiger?=
+
+Nein, testen tu ich's nicht.
+
+
+Ciao
+Gisela
+-- 
+ wir halten uns an regeln
+ wenn man uns regeln lässt
+ [Rammstein: Haifisch]

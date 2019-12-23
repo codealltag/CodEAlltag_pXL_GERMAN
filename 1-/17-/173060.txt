@@ -1,0 +1,14 @@
+Am 2012-06-09 13:12, schrieb Dr. Wiesbacher:
+
+
+< So a Topfn >
+  ------------
+         \   ^__^
+          \  (oo)\_______
+             (__)\       )\/\
+
+
+-- 
+Distribution: Vattenfall squeeze/sid
+Linux pluto 16.4.33-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

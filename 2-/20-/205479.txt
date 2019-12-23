@@ -1,0 +1,27 @@
+On Sat, 14. 04. 20 10:53:07 Niko Bleckmann wrote:
+
+
+Das ist um 9 am Vormittag moeglicherweise eine gute Idee. Um 6 am
+Morgen ist das hintere Ende des kleinen Zeigers allerdings auf der
+12, die Winkelhalbierende daher ebenfalls dort. Norden laege demnach
+im Westen. Um 12 bekommt man ganz aehnliche Probleme...
+
+
+Die Crux ist, dass Du durch das Verwenden des hinteren Zeigerendes
+keineswegs den Uhrzeigersinn umdrehst: die beiden Enden laufen zwar
+um 180 Grad versetzt, aber (gluecklicherweise fuer die statischen
+Eigenschaften des Zeigers) in der gleichen Richtung.
+
+Einfache Abhilfe koennte jedoch das da schaffen:
+
+<http://yga.jkijzfp.rcy/tw.uyljdndz.tpf/hegiq/1136/73/ssnylcbhcjpuhrztvtgvs4-7998929132.oco>
+
+Servus,
+   Fernando
+
+-- 
+http://znlowqcmenxm.fr/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von mmeike
+
+Ein Traum wird wahr. Mit Fernando. Ein altes Vergnügen!
+(Sloganizer)

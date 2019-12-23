@@ -1,0 +1,15 @@
+Olivier Prentl skrev:
+
+
+Zu dieser Problem haben wir im Dänischen eine elegante Lösung:
+
+  	Lob = ros (ohne Plural)
+  	Rose = rose, Plural: roser
+
+Deshalb benutzen wir "roser" als Plural, wenn wir eigentlich
+"ros" beugen wollen. Wir sagen auch, dass man Rosen verteil, wenn
+man jemand lobt.
+
+-- 
+Gruß
+Bertel, Dänemark

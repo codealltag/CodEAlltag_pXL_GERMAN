@@ -1,0 +1,13 @@
+On Thu, 20 Aug 2008 19:52:03 +0100, Sascha Micklinghoff wrote:
+
+
+Wie erklärst Du dann z.B.
+
+http://zxj.vswc.crjx.pu.coz/neuttagcv/5285/96/scnws.ycz:
+
+"That is, they must be developed as defined by the software certification
+guidelines to the level of rigor and discipline required by their
+criticality level, as determined by a functional hazard assessment."
+^^^^^^^^^^^^^^^^^
+
+Vinzent.

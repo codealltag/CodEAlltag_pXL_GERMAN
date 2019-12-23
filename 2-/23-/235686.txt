@@ -1,0 +1,7 @@
+Ich finde es erstaunlich, dass einige Verben ganz unterschiedliche
+Objekte erfordern können. Beispiel:
+
+Luft aufpumpen vs. Reifen aufpumpen
+Wasser auffüllen vs. Glas auffüllen
+
+Ist eine Version falsch? Ich finde beide unauffällig.

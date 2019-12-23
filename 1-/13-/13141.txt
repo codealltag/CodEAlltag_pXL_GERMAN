@@ -1,0 +1,6 @@
+Nun, es ist eben der auffälligste Fehler.
+Einen Apostrophen für einen ausgefallenen Buchstaben zu setzen, ist
+ja durchaus korrekt.
+
+-- 
+Noël "naddy" Habermann                          tcgai@rbuj.leyz.ry

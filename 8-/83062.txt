@@ -1,0 +1,12 @@
+Mannometer, ist Deine Mozille kaputt :-) Wolframs Angenlahr hat Zeichen Nr. 128
+verschickt und dazu Zeichensatz iso-8859-1 angegeben. In dem Zeichensatz
+gibts bei 128 überhaupt kein darstellbares Zeichen. 
+
+
+vG
+
+-- 
+ Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+       Pinguins erstellt und ist garantiert frei von Kuku-Viren.
+
+-- <http://sguakwfz.fyc> -- Ein Pinguin für jeden: <http://xrqldw.qxr/> --

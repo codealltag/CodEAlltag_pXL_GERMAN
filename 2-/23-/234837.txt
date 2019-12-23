@@ -1,0 +1,48 @@
+In manchen Fonts sieht U+201C LEFT DOUBLE QUOTATION MARK nicht so aus:
+
+    ##    ##
+   ##    ##
+  ##    ##
+ ####  ####
+ ####  ####
+ ####  ####
+
+sondern so:
+
+ ####  ####
+ ####  ####
+ ####  ####
+  ##    ##
+   ##    ##
+    ##    ##
+
+
+Das stört bei amerikanischer Verwendung (U+201C LEFT DOUBLE QUOTATION
+MARK links, U+201D RIGHT DOUBLE QUOTATION MARK rechts) nicht (eher im
+Gegenteil, ich finde die symmetrische Anordnung hübscher als die
+rotierte), aber im Deutschen (U+201E DOUBLE LOW-9 QUOTATION MARK links,
+U+201C LEFT DOUBLE QUOTATION MARK rechts) schaut das sehr grauslich aus.
+
+Leider hat hier das Unicode-Consortium geschlampt: Sie hätten U+201c und
+U+201d DOUBLE HIGH-6 bzw. DOUBLE HIGH-9 QUOTATION MARK nennen sollen,
+dann wäre die Form eindeutig.
+
+
+Ich weiß nicht, was eine "usenetgängige" Schriftart ist. Usenet-Postings
+enthalten üblicherweise keine Schriftart-Information, die Auswahl der
+Schriftart bleibt also allein dem Leser überlassen.
+
+Es gibt aber zumindest eine unter Windows übliche dicktengleiche
+Schriftart, bei der die typographischen Anführungszeichen auf Grund des
+oben beschriebenen Problems für deutsche Texte unbrauchbar sind. Die ist
+sonst aber recht hübsch und gut lesbar und ich kann mir vorstellen, dass
+Tim die gerne in seinem Newsreader verwenden würde. Aber es gibt ja
+auch andere dicktengleiche Schriftarten, da muss er das nur mit sich
+selber ausmachen. (Schlimmer ist es, wenn Leute diesen Font in PDFs
+verwenden. Da ringeln sich mir die Zehennägel auf.)
+
+	eutermoser
+
+
+-- 
+   _  | Hansruedi J. Enkelmann    | Fluch der elektronischen Textverarbeitung:

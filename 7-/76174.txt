@@ -1,0 +1,15 @@
+Ich hab vor Jahren mal die Ausgabe von "man ls" einem 
+Übersetzungsprogramm gegeben.
+Da kamen dann "klebrige Stückchen" heraus, aber auch "Bergwerke 
+abschrecken" (deter-mine).
+
+Und:
+      Anstössige Charaktere in Datei-Namen mögen das colum - ++ nar
+      Ausgabe-Optionen verwirren.
+
+      Die gesamte Block-Zählung wird unrichtig sein falls, falls es harte
+      Glieder unter den Dateien gibt.
+
+      Sonne JNMU Letzte Veränderung: 7 Januar 1994
+
+Viele Grüße von Niels

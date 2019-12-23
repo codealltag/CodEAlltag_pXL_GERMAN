@@ -1,0 +1,13 @@
+Am 11.05.2011 22:23, schrieb Eilert Berkhaim:
+
+War wohl ein Fehler im abgelegten Filtertext, man soll Einträge im 
+Filter wohl nicht zu korrigieren versuchen. Nach Löschen und 
+Neueinrichtung funktioniert es.
+
+Mit den .msf-Reparieren-Knopf im Eigenschaften-app/Allgemein jeder 
+Newsgruppe kann man nun auch als Normalohr ganz gut mit der 
+Filterfunktion umgehen und herumprobieren.
+
+-- 
+
+Frank Groener

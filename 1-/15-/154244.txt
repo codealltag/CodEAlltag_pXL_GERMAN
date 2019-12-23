@@ -1,0 +1,27 @@
+Hallo Günther,
+
+Am 30.06.2010 14:38, schrieb Günther Faßhauer:
+
+hätte nicht gedacht, dass Opera so einen Fehler hat! Ich benutze Opera
+allerdings nur fürs Surfen, deshalb habe ich noch keine Bekanntschaft
+mit diesem Fehler im News-Teil gemacht.
+
+Jetzt habe ich extra mal mit Opera nach de.test gepostet: Kein Problem,
+wie man sehen kann. Ist allerdings Opera 06.06.
+
+
+UTF-8.
+
+
+Nun ja. Ich habe einen pingeligen Parser eingebaut! ;-) Und für dich
+wird da jetzt eine Ausnahmeregel eingetragen. ;-)
+
+Aber vielleicht bekommst du's ja doch noch mal auf die Reihe! ;-)
+
+Grüße
+Vinzenz
+-- 
+A: Weil es die Lesbarkeit des Textes verschlechtert.
+F: Warum ist TOFU so schlimm?
+A: TOFU
+F: Was ist das größte Ärgernis im Usenet?

@@ -1,0 +1,6 @@
+Technisch ist (zumindest in der NUUW-Welt) ein Jail etwas anderes als
+die Einschränkungen durch Permissions. Es kann durchaus sein, dass man
+am pantinchen tatsächlich aus einem Jail ausbrechen muss, am PCC aber
+root werden.
+
+	ullmann

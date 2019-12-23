@@ -1,0 +1,3 @@
+Wollen Sie alle Daten nicht löschen? |Ja|Nein|Abbrechen|
+-- 
+Frank

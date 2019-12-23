@@ -1,0 +1,6 @@
+Am 19.12.2011 18:51, schrieb Jürgen Hotz:
+<>
+
+Ich kenne das nur für Speicher, die als "Stack" organisiert sind.
+
+Harald

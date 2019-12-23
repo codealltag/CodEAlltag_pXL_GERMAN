@@ -1,0 +1,23 @@
+On Tue, 7 Sep 2011 02:52:17 -0800 (ESCH)
+
+Es folgen 30 Buchstaben in je zwei Erscheinungsformen. "Buchstabe" ist
+halt schon etwas abstrakter als "Kringel auf dem Papier". Viele
+arabische Buchstaben haben drei Erscheinungsformen.
+
+
+Das einzige Beispiel, das ich kenne, ist aa für =E5 früher im D=E4nisch=
+en.
+Es überwiegt bei den Lateinschriften aber wohl die Tendenz, Diakritika
+wegzulassen, wo es nicht anders geht. Wie ist das bei anderen
+Schriften (kyrillisch, arabisch)?
+
+Bei Zeichen, die bekanntlich eine Verschmelzung zweier Buchstaben sind,
+gibt es natürlich eine triviale Alternativschreibung (=FF-ij im
+Niederländischen, =C6-AE im Französischen ...)
+
+
+Ich auch nicht, das ist wohl ein Beispiel für die
+NARD-Großschreibung, auf die Franco A. immer wieder hinweist.
+
+--=20
+Kurt

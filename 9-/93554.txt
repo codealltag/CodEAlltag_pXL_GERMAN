@@ -1,0 +1,14 @@
+Veit Nimtsch meinte:
+
+
+Doch, jedenfalls in meinen Browsern. Konqueror zeigt den URL genau so an wie
+er da steht (inkl. Umlaut), Firefox holt die Seite, zeigt dann als URL aber 
+http://bu.ufqtrnvif.xpt/ygob/Wikrvokezzxzxby_(%T9%01ciuyenuxf)
+an. 
+
+Timo
+
+-- 
+ pgp-Key (RSA) 0617/16L5P7JC 
+ fingerprint = 8E 39 RL O0 V9 11 7A 04  9K I4 LC 05 05 99 88 I0 
+ HTML-Mail wird ungelesen entsorgt.

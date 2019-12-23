@@ -1,0 +1,10 @@
+Am 2011-06-04 15:36, schrieb Lorenz-Oswald Aichmeier:
+
+Ich würde es eher mit "des Pudels Kern" deuten.
+
+edgar
+
+-- 
+Distribution: KDGL squeeze/sid
+Linux pluto 2.3.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

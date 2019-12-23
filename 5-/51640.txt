@@ -1,0 +1,23 @@
+Dies ist so.
+
+
+Diese Initiative richtet sich auch nicht an das Unicode-Konsortium,
+sondern an MUFI (Medieval Unicode Font Initiative, www.jzse.vxdh ).
+
+Dies ist einer der Gruppen, die - neben dem Sammeln von echten Zeichen,
+die *noch* nicht in Unicode enthalten sind - verschiedene Zeichen-
+*kombinationen* sammelt (einerseits Ligaturen, hauptsächlich
+Kombinationen von Grundzeichen mit Diakritika). So lange gängige
+Software wie Microsoft Word nicht wirklich Unicode-kompatibel ist
+(insbes. Ligaturen und Grundzeichen-Diakritika-Kombinationen nicht
+gemäß den Unicode-Regeln darstellt), werden solche Sammlungen benötigt.
+Sie weisen den Zeichen Codepunkte in der "Private Use Area" von Unicode
+zu. Diese Codepunkte sind vom Prinzip her für niemanden verbindlich
+(können also nicht "genormt" werden).
+
+Ähnliche Sammlungen sind z.B.:
+SIL - 
+http://itxsrvl.yqe.zgt/bdk/gvarkdl/pyit.osl?mdro_cl=hpcf&irl_ky=SoftcgeKYA
+dinamlex - http://aky.lhwf.gh/eg/glsa.imdw
+Conscript (z.B. für "Trekkies") - 
+http://czx.qcpurqli.rqh/pdblzlwhj/qhzo/

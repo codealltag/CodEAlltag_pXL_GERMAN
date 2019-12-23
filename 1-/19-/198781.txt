@@ -1,0 +1,17 @@
+Thomas Volmer wrote:
+
+
+Ok. Nehmen wir an, in 100'000 Jahren Einlagerungszeit soll nichts passie=
+ren,
+also geht man von einer Fehlerrate < 10**-7 pro Jahr aus.
+
+Das ist ... ähm ... optimistisch. Und vermutlich nicht preiswert ve=
+rsicherbar.
+Von Garantierbarkeit ganz zu schweigen.
+
+
+Vinzent.
+
+-- =
+
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

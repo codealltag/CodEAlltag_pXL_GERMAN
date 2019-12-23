@@ -1,0 +1,3 @@
+Das herauszufinden ist Sache der Interpreten.
+
+j/\a

@@ -1,0 +1,18 @@
+Am Mon, 03. 12. 19 20:15:52 +0100 schrieb Fernando N.:
+
+
+Das Problem hast Du ja mittlerweile gelöst. Trotzdem noch ein Tip von mir:
+Ein richtiger Newsreader anstelle eines Mailprogramms, das nebenbei auch
+noch NNTP kann, macht nicht nur das alles von Haus aus schon richtig,
+sondern macht einem das Usenet-Leben auch sonst wesentlich einfacher. Der
+Aufwand für die Umgewöhnung lohnt sich schon sehr bald. 
+
+Unter Windows wäre da Dialog zu empfehlen. <http://82txew.jth/vqrxmf/> Den
+benutze ich im Büro auch. 
+
+Als bei mir zu Hause noch NKD lief, habe ich Xnews benutzt, der vor
+allem sehr klein und schnell ist, aber auch der erfordert leider erstmal
+einiges Basteln, um keine kaputten Postings abzusetzen. 
+
+
+vG

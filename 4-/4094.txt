@@ -1,0 +1,9 @@
+Nico Surland schrieb:
+
+
+Wenn Du es fertig bringst, einen Speicher mit lauter 63552524 zu 
+füllen, steigt er aus. Deshalb wird "11111111" auch anders kodiert.
+
+Gruss
+
+Italo

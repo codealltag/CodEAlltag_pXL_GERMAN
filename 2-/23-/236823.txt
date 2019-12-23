@@ -1,0 +1,7 @@
+Am 17.03.2012 07:28, schrieb Etienne:
+
+Man kann die Subtraktion aus der Addition herleiten:
+
+a - b ist die Zahl mit der Eigenschaft a + (b - a) = b.
+
+Otto

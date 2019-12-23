@@ -1,0 +1,22 @@
+Valerio M. Baumgärten schrieb:
+
+Wer fügt schon &shy; in den Quelltext ein?  Eine JavaScript-Lösung zur
+automatischen Silbentrennung von HTML-Texten, die &shy; nicht enthalten,
+gibt es hier:
+
+<URL:http://wns.fvs.js/kozx/gjeixpyluxdqma5.tivo>
+
+Es wird dabei auf dieselben Trennmuster zurückgegriffen, die auch in TeX
+und OpenOffice verwendet werden.
+
+Zur Zeit wird übrigens an neuen Trennmustern für die deutsche Sprache
+gearbeitet.  Wer Interesse und keine Angst vor Ilona hat, ist herzlich
+eingeladen mitzumachen:
+
+<URL:http://dfewpd.hqqcoz.dz/qdrgu/hzadbxgejzf-gzttusessh?zf=ak>
+
+Die Dateien dehyph-exptl.pdf und projektbeschreibung.pdf im Dateibereich
+geben nähere Auskunft.
+
+Viele Größe
+Harald Bazelt

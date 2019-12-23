@@ -1,0 +1,15 @@
+On 2008-08-25 18:19:13 -0500, Helmut Briglmeier <dmqt.oyx.uytt@uxproh.nv> said:
+
+
+Automatisches Zeit-Einstellen übers Netzwerk ist Teil der GSM-Specs und 
+wird hier auch umgesetzt, sogar mit automatischer Zonenumstellung.
+
+
+Immerhin doch schon seit 8 Jahren mit Bordmitteln, und mit Zusatztools 
+mindestens seit 1998.
+
+
+-- 
+Wikipedia is a huge silo of pop trivia, and perhaps the world's 
+largest, most distributed bureaucracy - mostly manned by a casual staff 
+of teenagers and the unemployed.

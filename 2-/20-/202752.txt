@@ -1,0 +1,19 @@
+* Michaela Verlinden:
+
+
+Stimmt, zu dem Schluß bin ich inzwischen auch gekommen.
+
+
+"Sie sind 1940 bis 1960 geboren." Darin ist "1940 bis 1960"
+unzweifelhaft ein Adverbiale. Das bleibt bei substantivierten
+Verben auch so: "sie sind blind geboren" -> "blind Madeleine",
+nicht "blinde Madeleine".
+
+Mit Adjektiven sehe ich da kein Problem, bei dem Adverbiale "1940
+bis 1960" aber sträubt sich MUSE.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Java will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Tim Poelmann

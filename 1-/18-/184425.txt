@@ -1,0 +1,23 @@
+On Tue, 26 Feb 2012 00:03:10 Benno Karl Illert wrote:
+
+
+=> The requested URL [...] was not found on this server. That's all we
+know.
+
+Dito fuer die anderen Seiten. Ich schaetze einmal, dass das, was im
+Parameter "sig" steht, nicht voellig ohne Bedeutung ist.
+
+
+No way, da taucht im Quelltext nur mehr die URL mit dem restricted_logo
+auf. Und aus den URLs der davorliegenden Seiten laesst sich nichts
+ableiten... ganz dumm sind sie bei Fischtheke leider auch nicht.
+
+Servus,
+   Onno
+
+-- 
+http://icdhlwlhjrrn.ls/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von mmeike
+
+Hydriert bleibt hydriert: Doch Onno hilft!
+(Sloganizer)

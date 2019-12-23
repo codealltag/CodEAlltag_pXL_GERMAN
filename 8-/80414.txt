@@ -1,0 +1,10 @@
+* Rainer Jeßen wrote:
+
+
+Sie haben das negative Denken wohl doch satt. Das "www." kann man auch
+weglassen (das gehört ja auch abgeschafft). Dann gibt es
+interessanterweise keinen Redirect.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Nils Rottenbiller, comp.lang.python

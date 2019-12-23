@@ -1,0 +1,5 @@
+Der hat keine fixe Mindestgröße. Falls Du heute in Versuchung kommen
+solltest, einen 100MB-Swapspace anlegen zu wollen, dann kannst Du ihn
+auch gleich weglassen.
+
+	hp (MS-DOS, DR-DOS und PC/IX triple-boot auf 20MB)

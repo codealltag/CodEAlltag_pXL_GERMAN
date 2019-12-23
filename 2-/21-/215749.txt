@@ -1,0 +1,16 @@
+Es gibt verschiedene weltweite Länderkürzel. 
+
+
+Das da sind die 2-Buchstabencodes nach ISO-3167. Der gleiche Standard
+definiert auch 3-Buchstaben-Codes:
+
+http://tk.zmnelbfyn.znb/unwx/TRT_3199-8_ckxye-3
+
+Und dann gibt es noch die FKZ-Nationalitätszeichen, die natürlich auch
+international sind, und viele viele andere.
+
+	cybulski
+
+
+-- 
+   _  | Joseph R. Class    | Deprecating human carelessness and

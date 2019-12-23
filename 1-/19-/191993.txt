@@ -1,0 +1,12 @@
+Ornella Mandernach (11.12.2010 19:42):
+
+
+Was soll man mit Vorkommen sonst machen?
+
+
+Da Klaus
+-- 
+Klaus Nonnenmacher, Jethausermoor (bei Imsen)            http://yojlrfmpbfw.tg
+    gibt es irgendwo eine Liste von Servern mit dazugehöriger IP ?
+ Ich möchte mir einen DNS einrichten und bräuchte dazu noch ein host-
+       file. (Enno Cok, de.comm.internet.misc, 14.12.2000)

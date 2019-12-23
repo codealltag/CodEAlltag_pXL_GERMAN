@@ -1,0 +1,13 @@
+* Vinzenz Heitman:
+
+
+Im Russischen fällt auch noch das "ist" weg:
+
+   Schäferhund meist kinderfreundliches Tier.
+
+Artikel offenbar höchst überflüssig.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Ingo Vahldieck, comp.lang.python

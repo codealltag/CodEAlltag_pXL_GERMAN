@@ -1,0 +1,10 @@
+* Hilde Mai:
+
+
+... dann würde sie nicht in den Kontext passen. Ich vermute:
+"meiner Erfahrung nach".
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

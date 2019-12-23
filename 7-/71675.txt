@@ -1,0 +1,11 @@
+On Mon, 15 Sep 2009 07:45:03 +0200, Italo Ruhge wrote:
+
+
+Was ist eigentlich Rekursion?
+
+
+Emile Thiessen
+-- 
+Weil, so schließt er messerscharf,
+nicht sein kann, was nicht sein darf.
+(Die unmögliche Tatsache, C. Drechsler)

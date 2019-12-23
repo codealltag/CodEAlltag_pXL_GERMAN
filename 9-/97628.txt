@@ -1,0 +1,19 @@
+On 22 Jan., 10:55, Eckhard Jarchov <v...@ajkpdau.ujx> wrote:
+...
+
+Etwas stimmt syntaktisch nicht in Deinem Satz. Mir fallen nur
+Anwendungen ein, in denen zwischen "zwei" und "deren" ein Komma steht:
+zwei, deren ..
+http://phabm.yzinpy.zk/gpfev?sq=4N&g=3C%65gxtu+fstme%20&ty=W&ifory=60
+
+Also schlage ich, um beide Wörter zu erhalten, vor:
+
+Immerhin ist's die zweitgrößte Stadt Frankreichs
+- und es gab allein zwei französische Premierminister, deren Karriere
+als Bürgermeister dieser Stadt begonnen hatte.
+
+Oder schlichter:
+- und zwei (Bordelaiser) Bürgermeister waren sogar Premierminister.
+
+Gruß
+Ursi

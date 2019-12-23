@@ -1,0 +1,10 @@
+Am 23.10.2011 12:50, schrieb Edgar Korwelslühr:
+
+
+Ja, das ist das Verhältnis zwischen seinen Preisen auf unterschiedlichen 
+Märkten. In der überwiegenden Zahl der Fälle ist der Log davon -oo, oder 
+genauer -log oo.
+
+-- 
+
+Rüdiger Niepagenkemper

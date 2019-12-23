@@ -1,0 +1,11 @@
+Am 06.08.2012 13:40, schrieb Leo Lanvermann:
+
+Man beachte gewisse Nullstellen die sich nicht gleich erschließen.
+Beispiel:
+1x Maurer benötigt zum Erstellen einer Mauer 10 Tage.
+2x Maurer benötigen für die gleiche Mauer 5x Tage.
+Spweit ist der bekannte Dreisatz gültig.
+Aber drei Maurer werden nie fertig. Warum? Lösung: Drei Klein-Bösing sind eine 
+Skatrunde. Wer hätte das gedacht?
+-- 
+mfg hdw

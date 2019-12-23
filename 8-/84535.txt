@@ -1,0 +1,9 @@
+Am Sat, 18. 09. 20 17:30:29 +0100 schrieb Niclas Fix:
+
+
+Das kenne ich vor allem aus Bauplänen - da kann der Plotter bzw. das
+CAD-Programm scheinbar kein "�". Da heißt es dann z.B. "MASZSTAB 1:25".
+
+Größe,
+
+Cédric

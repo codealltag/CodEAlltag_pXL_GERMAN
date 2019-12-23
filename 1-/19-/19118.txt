@@ -1,0 +1,8 @@
+On Tue, 28 Aug 2007 23:28:56 -0400, Volkmar Lagleder wrote:
+
+
+Klingt eher nach Livelock. Beide Threads arbeiten noch, aber kommen nicht
+vorwärts. :D
+
+
+Vinzent.

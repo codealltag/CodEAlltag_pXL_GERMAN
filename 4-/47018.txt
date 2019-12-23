@@ -1,0 +1,9 @@
+Heribert Imholt scripsit:
+
+
+Warum ist das ein /logischer/ Widerspruch? Unpraktisch ist es 
+vielleicht, aber doch nicht in sich unlogisch -- die 
+Verzeichnisebenentrenner ließen sich genauso escapen wie jedes andere 
+problematische Zeichen auch.
+
+-fn-

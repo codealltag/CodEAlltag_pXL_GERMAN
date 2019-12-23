@@ -1,0 +1,10 @@
+* Christof Pense:
+
+
+Und das Subjekt kann nicht gleichzeitig Objekt sein? 
+Ist Rekursivität nicht ein wichtiges Denkprinzip?
+
+-- 
+Microsoft designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

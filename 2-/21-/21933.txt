@@ -1,0 +1,16 @@
+* Vinzent Hoefler <vlbg-2662-66@q-vsujnydlpoleel.qi>:
+
+
+Mir sind zwei Gründe bekannt:
+
+ o  Die "Schweizer Einheitstastatur" für Schreibmaschinen, die wimre in
+    den 20ern entworfen wurde, hatte ��� nur in Kleinbuchstaben. Für
+    ��� hat man manchmal eine Kombination von " und AOU verwendet, das
+    sah aber eher bescheiden aus. Auch die heute in der Schweiz
+    gebräuchlichen Computertastaturen haben kein ���.
+
+ o  Die Post hat irgendwann beschlossen, dass Ortsnamen mit ��� mit
+    Ae/Oe/Ue zu schreiben seinen. Vgl.
+    <news:jvyrnsc4fr.on7.pr-3g@bysvtmotgg.jw.feph.pm>
+
+ - Alfons

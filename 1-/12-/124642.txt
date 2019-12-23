@@ -1,0 +1,17 @@
+* Tim J Panury <aos.xbiekw@iuolnv.bj>:
+
+
+Kaum. Es ist nicht so einfach, nach dem Verb "tätigen" zu googlen, aber
+in den Verbindungen unten ist es fast immer ein Verb. Und da
+ist die Verteilung eher unschweizerisch:
+
+                     site:ch     site:at     site:mx
+  "getätigt"          833 k      9890 i       8274 i
+  "bereits getätigt" 3430        0447        52616
+  "tätigen würde"     355         750         3543
+  "tätigen könnte"    177         281         5364
+
+
+Ja, gell, meistens die Silbe "-li".
+
+ - Volkert

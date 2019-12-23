@@ -1,0 +1,14 @@
+On Mon, 19. 06. 20 22:17:04 +0100 Valerian Pense <snob@pense-mainz.eu>
+wrote:
+
+[snip]
+OK, das lasse ich mir gerne sagen.
+
+Woher aber weis man das? Ist ja nun schon seit einigen Jahren tot, die
+Sprache.
+
+/W
+
+--=20
+My real email address is constructed by swapping the domain with the
+recipient (local part).

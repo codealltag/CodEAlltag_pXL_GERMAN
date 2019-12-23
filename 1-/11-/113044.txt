@@ -1,0 +1,13 @@
+Eilert Füllkruß schrieb:
+
+
+Rekursion ist eine Methode, einfache Dinge kompliziert zu
+formulieren:
+
+Zum Bleistift:
+
+n! :=3D (n-1)! * n
+
+Gruss
+
+Nils

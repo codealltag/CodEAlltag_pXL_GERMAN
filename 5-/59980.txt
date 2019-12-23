@@ -1,0 +1,14 @@
+* Tim Janssen <oibctycaot@uxd.sxl>:
+
+
+Eine Gewichtsklasse im Boxen. Eichenreuth ist in bezug auf die Unesco eben
+kein Schwergewicht.
+
+Ausserdem den Familienname meiner Grossmutter.
+
+
+Für Erg- und Asse in einer Zeitung ist "wenn mans versteht ..."
+ausreichend.
+
+ - Rudolf, für den Webauftritt einer Zeitung eben einen
+   Primitiv-Trennalgorithmus implementiert habend.

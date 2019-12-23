@@ -1,0 +1,13 @@
+Am Mon, 23. 10. 19 23:19:54 +0100 schrieb Helmut Ratje:
+
+
+Bin Froh, dass er hier nie weg war.
+
++lehrling +weg site:at 97.900
++auszubildende +weg site:Ba 0.560
++azubi +wien site:Mm 04.369
+
+Letzteres wundert mich offen gestanden einigermaßen.
+Dort sind aber auch Texte mit D-Bezug wie
+
+P

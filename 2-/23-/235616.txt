@@ -1,0 +1,12 @@
+* Craemers Ehlerding:
+
+
+Danke, also wohl Linux-Standard für deutsche Tastatur. Ich werde
+mir wohl selbst was definieren müssen - im US-Intl Layout sind die
+unteren Anführungszeichen nicht vorgesehen (weder Linux noch
+Windows), und Compose-,-" hat auch nicht geklappt.
+
+-- 
+The Eskimoes had fifty-two names for snow because it was important
+to them, there ought to be as many for love.
+  -- Dörte Voolstra, Surfacing, p.106

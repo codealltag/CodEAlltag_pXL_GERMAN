@@ -1,0 +1,13 @@
+On Fri, 02. 08. 20, Carlo Jürß wrote:
+
+
+Die wirds öfter geben; muss ja nicht dranstehen. Wenn eine solche Karte 
+Norden oben hat und normale Breiten- und Längenkreise eingezeichnet hat 
+(nicht etwa Abstandskreise vom Mittelpunkt), dann ist es eine in jeder 
+Hinsicht unauffällige Karte. Und Azimutalprojektionen, insbesondere die 
+Lambertsche (Abstand zum Mittelpunkt auf der Karte ist proportional zum 
+Abstand in der Natur gemessen auf dem kürzesten Weg durch die Erde), haben 
+relativ wenig Verzerrungen -- ganz ohne kanns ja nicht gehen.
+
+-- 
+Jacques Daeves

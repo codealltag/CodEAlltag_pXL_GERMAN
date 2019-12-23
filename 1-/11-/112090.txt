@@ -1,0 +1,16 @@
+On 06.04.2011 01:01, Bodo K. Zeegers wrote:
+
+
+Thunderbird lässt sich so konfigurieren, dass je 'content-type' ein
+entsprechender Font eingestellt werden kann. Das dürfte nichts
+Besonderes sein, sondern eher dem Stand der Technik entsprechen.
+Insofern halte ich meine Frage, mit welchem Font Nino sich als UTF-8
+deklarierte Beiträge anzeigen lässt, weiterhin für sinnvoll.
+
+
+Ciao
+Uschi
+-- 
+ Es ist besser, Deiche zu bauen, als darauf zu hoffen,
+ dass die Flut allmählich Vernunft annimmt.
+ [Marcel Unterhinninghofen]

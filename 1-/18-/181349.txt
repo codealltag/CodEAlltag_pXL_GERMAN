@@ -1,0 +1,6 @@
+Michel Bartheld tat kund:
+
+
+Es reicht, alle Primw=F6rter zu multiplizieren
+und 1 zu addieren. Dann entsteht ein neues
+Primwort, das größer als das größte ist.

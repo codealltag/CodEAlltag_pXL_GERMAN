@@ -1,0 +1,9 @@
+Am 04.05.2012 19:53, schrieb Brigitte Indlekofer:
+
+Ist aber wohl nur im Zusammenhang zu verstehen. Bei Routern wird "ohne 
+Kabel" eher "ohne LAN-Patchkabel" heißen und das Netzteil ist bei den 
+kleinen Routern meist ein Universal-Steckernetzteil.
+
+-- 
+
+Willy Johanningmeier

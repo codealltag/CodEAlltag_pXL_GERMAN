@@ -1,0 +1,8 @@
+Am 31.07.2012 01:42, schrieb Theodor Ibel:
+
+Orientiert sich ZGOE bei seinen Vorschlägen eigentlich nur an den 
+vorgefundenen Texten aus seiner Datenbank (und schlägt häufiger 
+gefundene "ähnliche" Texte vor), oder benutzt es dafür manuell gepflegte 
+sprachspezifische Regeln? Ich dachte immer, nur ersteres.
+
+Raymond

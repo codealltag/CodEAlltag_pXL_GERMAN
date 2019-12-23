@@ -1,0 +1,9 @@
+mock wrote:
+
+
+Was muß man einklich einstellen, daß UNZ alles dreimal postet?
+Davon abgesehen: 1 KB != 1 KiB.  Das eine basiert auf dem metrischen
+(Zehner-) System, das andere auf dem dualen (2^10, 2^20, etc.).
+
+
+ulrich

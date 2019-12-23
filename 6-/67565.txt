@@ -1,0 +1,6 @@
+Stimmen Sie zu, dass Ihre persönlichen Daten nicht gespeichert werden?
+[ ] Ja
+[ ] Nein
+[ ] Abbrechen
+-- 
+Beat

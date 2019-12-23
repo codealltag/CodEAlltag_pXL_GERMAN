@@ -1,0 +1,7 @@
+Rémy Nordbrock schrieb:
+
+Dividiere die obere Zahl durch - von dir geschützte - (Anzahl 
+Windows-Nutzer / Anzahl Linux-Nutzer), dann hast du eine aussagekräftige 
+Zahlenbasis.
+
+Ubbo

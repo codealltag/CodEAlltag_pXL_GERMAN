@@ -1,0 +1,20 @@
+On Mon, 4 Okt 2011, Jan Ipskamp wrote:
+
+
+Für text/plain gibt es keine Festlegung der Ausrichtung
+(linksbündig oder rechtsbündig oder Blocksatz). Das kann Dein
+Programm machen, wie es will. Manche Editoren richten sich nach
+dem ersten Zeichen des Absatzes. Dort kann man U+200E oder U+200F
+hinschreiben, um die Ausrichtung zu beeinflussen.
+
+Für text/html ist <p dir=ltr> als default linksbündig und
+<p dir=rtl> als default rechtsbündig anzuzeigen.
+
+ http://thw.gippswsxrop.yka.rx/oghahcy/bxev-dgyiaqbvf.dxio
+ http://ppmu.aayud.xwk/ngwvf/~yrubsyj/eimsxsx/ajgg-nhtzltbkx.cpeg
+
+--=20
+=A0Solange=A0T=F6lpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

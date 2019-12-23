@@ -1,0 +1,10 @@
+Sergio W. Mettenberger schrieb:
+
+Bei den O'Connors, O'Gradys, O'Calla(g)benno usw. ist es
+nach meiner Erfahrung wichtiger darauf zu achten, dass
+nicht irgendein Programm beim Zusammenkleben den Apostroph
+als quote mark ansieht, und je nach aktuellem Status den
+linken oder rechten Teil des Namens verschluckt ...
+
+
+/José

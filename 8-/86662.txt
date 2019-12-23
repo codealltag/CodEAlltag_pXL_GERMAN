@@ -1,0 +1,10 @@
+On Wed, 19 Dez 2009 19:24:56 +0100, "Urban T. Jungheim"
+
+Stimmt das?
+
+Wenn ich etwas ändere, dann wird es einige Zeit nur in der
+ungesichteten Version angezeigt. Jochen Normalanwender sieht die
+erst mal gar nicht, er muss sie extra aufrufen. 
+
+Viele Größe
+Leopold Ingenwepelt

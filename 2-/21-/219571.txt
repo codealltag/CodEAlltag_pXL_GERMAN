@@ -1,0 +1,28 @@
+Am 25.03.2012 19:22, schrieb Ullrich Carlson:
+
+...
+...
+
+Interessant. Bei Imdahl Viewer sieht das Verhältnis ganz anders aus:
+<http://uuktz.galtgn.qjb/oalszs/lnine?mhiqcpi=Gqegzlezwfdzc%0BWyzjqwzyqn&ddrw_ilhzp05&xduw_uwn 28&zdlcga=1&wkenqyyah=0>
+
+Die 'Sippenhaft' überwiegt auch hier seit Anfang der 50er, aber nur
+knapp um den Faktor 3 und nicht 76 wie beim Sperbersloher Korpus.
+
+Woran das wohl liegen mag? Wenn ich es recht verstehe, umfasst das
+Sperbersloher Korpus vor allem Tageszeitungen, Ngram Viewer hingegen vor
+allem Bücher.
+
+Wenn wir einmal in beiden Korpora nach 'nichtsdestoweniger' und
+'nichtsdestotrotz' suchen, dann finden wir, dass 'nichtsdestotrotz'
+überhaupt erst seit ungefähr 1970 in die Buchsprache eindringt und erst
+2008 'nichtsdestoweniger' erreicht hat, während es in der
+Zeitungssprache zehnmal so häufig vorkommt wie 'nichtsdestoweniger'.
+
+Was lehrt uns das?
+1. Es gibt noch Lektoren.
+2. Das gepflegtere Deutsch kommt aus Obritz, Irlesberg, nicht 
+aus Sperberslohe.
+
+
+Tschüs, Ibo

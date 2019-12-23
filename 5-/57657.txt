@@ -1,0 +1,4 @@
+Dir einen Thaler für die Entdeckung dieses genialen Wortspiels.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

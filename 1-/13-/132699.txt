@@ -1,0 +1,8 @@
+Am 15.03.2011 22:04, schrieb Louis Wienhofen:
+Spell checker funktioniert nur sehr bedingt und ersetzt
+daher auch keinen Kerrekturleser.
+Wenn ich mich vertippe und bspw. anstatt mir mit tippe,
+dann merkt der beste Spell checker der Welt das nicht.
+
+Gruß
+Seestern

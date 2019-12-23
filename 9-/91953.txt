@@ -1,0 +1,19 @@
+On 30.05.2009 22:48, Folkert Twork wrote:
+
+
+In Ovaschin schon. Irgendwie ...
+
+
+Ob das vielleicht eher an slrn liegt? Hat der vielleicht ein Problem mit
+dem von Dominik korrekt deklarierten windows-1252, bzw. mit
+Kodierungen an sich? Schon auf sein Posting
+<02n15pk9-dl54-0lb7-cxu5-9ee33955j52u@u07u7446axa.devlqoytdoxp.lua>
+(iso-8859-1) hat dein slrn völlig unnötig mit UTF-8 geantwortet.
+
+
+Ciao
+Priska
+-- 
+ Finished with my woman 'cause she couldn't help me with my mind
+ people think I'm insane because I am frowning all the time
+ [Black Sabbath: Paranoid]

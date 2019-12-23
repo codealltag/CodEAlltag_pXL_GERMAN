@@ -1,0 +1,9 @@
+Spuren von Sesam natürlich.
+SCNR.
+
+mfg
+Silvio
+
+-- 
+<yybw@xri.ck> (Silvio Schulze-Braucks) *Keine Mailkopien bitte!*
+#define QUESTION ((bb) || !(bb))

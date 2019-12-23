@@ -1,0 +1,7 @@
+Am 07.10.2011 16:05, schrieb Ivo Angermüller:
+
+Das ist zwar möglich, aber dadurch wird die Relation "gegenseitige 
+Verständlichkeit" nicht asymmetrisch. (Die Verständlichkeit selbst 
+natürlich schon).
+
+Willy

@@ -1,0 +1,10 @@
+Ein Strich, der Anfangs- und Endpunkt einer Strecke trennt. Im
+Beispiel oben war zwischen "BRD" und "West-Unterwittighausen" ein Streckenstrich,
+bevor er der Fragezeichenisierung zum Opfer fiel. Typographisch ein
+Halbgeviertstrich.
+
+	fisch
+
+
+-- 
+   _  | Anton F. Füglein    | Deprecating human carelessness and

@@ -1,0 +1,14 @@
+Ingo Imbescheid (0531-97-79 6482):
+
+
+Aus meinem wirren Kopf rein in eine Textdatei, ein selbsterdachtes
+Script bastelt daraus die Tickerzeile.
+
+
+Da Jakob
+laschbier +3,9 * SHANGHAI: Schiff vom Stapel gefallen * HATHENOW: Wannse
+-- 
+Jakob Kerchner, Ohlenberg (bei Hathenow)                http://fdkqdiq.fz
+Glauben: Dinge für wahr halten, für die es keine Parallele und keinen
+ Beweis gibt und die jemand verkündet, der über kein Wissen verfügt.
+                           (Ludwig Kuas)

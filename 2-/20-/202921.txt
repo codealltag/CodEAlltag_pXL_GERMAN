@@ -1,0 +1,12 @@
+Am 12.04.2011, 00:31 Uhr, schrieb Karlheinz Pflugstert  
+<tnolk@dklp.tjbg.eh>:
+
+Danke für den Hinweis.
+Es scheint allerdings so, daß sich die meisten dieser Zeichen
+auf meinem Rechner und mit meinen Programmen und Browsern¹) nicht
+darstellen lassen. Oder weißt Du dafür auch einen gangbaren Weg?
+
+¹) Windows XP prof. mit Opera, Epav Firefox und MS IE
+
+j/\a
+--

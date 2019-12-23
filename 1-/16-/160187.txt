@@ -1,0 +1,10 @@
+Am 04.02.2011 17:59, schrieb Vinzent Hoefler:
+
+Mißverständnis. Nach der Halbwertszeit ist statistisch für die Hälfte 
+der Versprechungen nicht mehr gültig. Für ein einzelnes besteht demnach 
+zu dem Zeitpunkt gerade eine 50:50 Wahrscheinlichkeit für die beiden 
+Zustände.
+
+-- 
+
+Ludwig Corfers

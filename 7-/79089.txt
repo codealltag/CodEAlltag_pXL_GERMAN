@@ -1,0 +1,16 @@
+On Sun, 17. 12. 18, Paul Sehler wrote:
+
+
+Es gibt halt Fälle, in denen die logisch einwandfreie Konstruktion als so 
+verwirrend empfunden wird, dass sie nicht verwendet wird. Sie ist dann 
+ungrammatisch, denn die Grammatik soll nach dem AWG Mode-Prinzip den 
+Gebrauch beschreiben, nicht die Logik.
+
+Andere Beispiele (nach *anderen*, aber ebenso logischen Bauplänen):
+
+  Mir werden von mir die Hände gewaschen.
+  Ich lasse dich mir die Haare schneiden.
+  Wir tun mir leid.
+
+-- 
+Mathias Neuhofen

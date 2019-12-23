@@ -1,0 +1,8 @@
+On Thu, 05. 09. 20, Stefano Miles wrote:
+
+
+Die klassische Methode, die Buchstabenwerte von פרנציסקוס 
+zusammenzuzählen, liefert 656, also ganz schön knapp daneben.
+
+-- 
+Antonio Czerner

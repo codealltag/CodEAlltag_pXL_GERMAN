@@ -1,0 +1,8 @@
+Ein Autotester schrieb dazu kürzlich in etwa: Nun sind es zwei
+Frauenstimmen, die mir im Auto Anweisungen geben; immerhin, eine davon
+kann man abschalten.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

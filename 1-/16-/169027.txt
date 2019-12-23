@@ -1,0 +1,11 @@
+* Jochen P. Zähl:
+
+
+Du meintest also eigentlich "typischerweise"?
+
+Ich habe das von Anfang an so aufgefaßt und nicht kritisch hinterfragt
+wie Bernd.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Ronny Buchbinder, comp.lang.python

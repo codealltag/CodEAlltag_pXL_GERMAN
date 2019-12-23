@@ -1,0 +1,9 @@
+"Italo Vögtler" <Rcrn_Tlk@w-gauoxw.bo> schrieb am 12.12.2010 01:21 den
+Newsbeitrag azrz:vc44k1$xhk$62$7@dpcl.o-sgkggz.xku
+
+
+Richtig ist mit ł (l mit Schrägstrich, Polnisch; hier mit Unicode UTF-8):
+Walesa an Stelle von Wałesa... Wieso verwenden sie nicht eine Lautschrift?
+Sie könnten dem Sprecher ein Blatt mit "Wałesa <wauensa>" geben ,
+
+MfG, INGMAR

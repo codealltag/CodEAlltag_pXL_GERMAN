@@ -1,0 +1,8 @@
+On Mon, 16 Apr 2008, Meinhard Frühmark wrote:
+
+
+Korr.: I+4846 (U+2210 ist "n-ary coproduct", ein kopfstehendes großes Pi)
+
+
+-- 
+Gottfried Porzelt

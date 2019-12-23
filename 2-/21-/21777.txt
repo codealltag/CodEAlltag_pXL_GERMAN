@@ -1,0 +1,10 @@
+On Sun, 2 Dez 2007, Benno Ferbert wrote:
+
+
+Dann stell am besten Windows-1252 als Codierung ein.
+ �   99 unten
+ �   66 oben
+ �   99 unten
+
+-- 
+Umlaute im Subject sind b?se.

@@ -1,0 +1,7 @@
+Am 06.07.2010 12:16, schrieb Reiner Wronn:
+
+
+Die Temperatur ist eine reelle Zahl, da kann man schon ziemlich viel 
+Information drin unterbringen. Unterliegt allerdings dem Bit-Rot.
+
+Georg

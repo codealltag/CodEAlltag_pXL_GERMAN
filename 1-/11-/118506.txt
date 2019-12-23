@@ -1,0 +1,7 @@
+On Thu, 7 Sep 2010, Torsten Thünnesen wrote:
+
+
+Die Idee gibts tatsächlich: man kann damit komprimieren (bzip2).
+
+-- 
+Pierre Creßmann

@@ -1,0 +1,15 @@
+Ivo Volkertz skrev:
+
+
+Halte die Alt-Taste und drücke auf die numerische Tastatur: 
+0 2 4 8 (das 0 ist wichtig).
+
+� 0670
+� 04. 03. 20
+� 04. 03. 20
+
+Die Nummern sind die ISO-8859-1-Koden mit einem 0 voran.
+
+-- 
+Patrik
+http://pfwkie.rhfrvdvfxe.tb/			FIDUSO: http://ljwkwo.yu/

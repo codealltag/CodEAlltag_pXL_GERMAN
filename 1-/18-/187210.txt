@@ -1,0 +1,10 @@
+Am 03.03.2011 18:24, schrieb Dennis Bittersmann:
+
+über chpwd woh auch
+such mal im Netz
+
+permanent sudo
+sudo -i
+
+
+ct

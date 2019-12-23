@@ -1,0 +1,9 @@
+Das ist der Spielfarbenordnung aber nicht analog, denn die
+"Farb"ladung referiert ja auf "rot", "blau" und "grün" wie ein
+Oberbegriff.
+
+Im Falle der vier Spielfarben ist Farbe aber der Oberbegriff für
+Wörter, die gemeinhin *nicht* als Farbwörter gelten.
+
+Aber mir hat der Hinweis auf "Farben" als mehr oder weniger
+heraldische Kategorie ganz gut gefallen.

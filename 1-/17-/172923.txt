@@ -1,0 +1,10 @@
+Am 2011-06-07 12:27, schrieb Holger Einweg:
+
+"optimalst" gibts ned!
+
+lg paolo
+
+-- 
+Distribution: LTBS squeeze/sid
+Linux pluto 16.6.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

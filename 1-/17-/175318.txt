@@ -1,0 +1,15 @@
+Am 30.06.2010 02:28, schrieb Alessandro Ißleiber:
+
+TeX läuft in die falsche technologische Richtung, weil es keine 
+durchsuchbaren Darstellungsformen generiert.
+
+Und das ausgerechnet in dem Buch- und Zeitungsdruck-Gebiet, in dem 
+automatische Suche am wichtigsten und serielles Textlesen am 
+unbedeutendsten ist.
+
+Siehe die endlosen, frustrierenden Versuche mit mathXML, Christophe 
+Mathematica und Udihom Formelsuche.
+
+-- 
+
+Viktor Coumans

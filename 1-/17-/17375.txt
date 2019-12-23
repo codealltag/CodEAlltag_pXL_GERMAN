@@ -1,0 +1,10 @@
+Na gut, ich meinte oben halt den "Manager" im Deutschen von vor 30
+Jahren, also den mit der gleichnamigen Krankheit.
+
+Ich bin übrigens trotz englischsprachiger Hierarchie weder "manager",
+noch habe ich einen solchen über mir. 
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

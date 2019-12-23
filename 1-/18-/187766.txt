@@ -1,0 +1,8 @@
+Am 01.07.2012 23:20, schrieb Alexander R. Zuschlag:
+
+
+Ging mir auch so. Ich war dann ganz verblüfft, dass das erst so spät 
+war. ALGOL-W, der Pascal-Vorläufer war aber schon 1967. (Hatte schon 
+records und pointer)
+
+Raphael

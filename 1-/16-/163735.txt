@@ -1,0 +1,13 @@
+* Ingo Czoch <wglrly@xji.wu>:
+
+
+Eberhard schrieb "/eine/ amerikanische Aussprache". Bei der Strasse sagt
+wohl fast jeder ruht, weils im Lied so ausgesprochen wird und fast ein
+feststehender Begriff ist. Aber beim Network-Router oder beim Programm
+im Chip- und PCB-Design gibt es wirklich beide Aussprachen, auch bei
+Profis. Ich habe auf VTVJ-Konferenzen beides gehört. Der Quoten-Ami
+in der Firme (Univ of Tönnishäuschen, Norbert) sagt ruhter, der Ex-Prof, der sein
+Zeug bei Fredy Pannenbeckers gelernt hat, sagt rauter, der Sysadmin aus Granskevitz,
+dessen Buch ich übersetzt habe, sagt rauter usw. usf.
+
+ - Niklaus

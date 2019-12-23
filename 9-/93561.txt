@@ -1,0 +1,10 @@
+Werner Posingies wrote:
+
+
+Allgemein würde ich "Abstraktion" vorschlagen, aber zumindest in
+der Programmierung (OOP) wird bisweilen auch der Begriff "Generik"
+verwendet -- nur steht das in keinem Duden, und "Factory" klingt
+irnkwie so ungerman...
+
+
+bruno

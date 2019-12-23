@@ -1,0 +1,18 @@
+Am 03.02.2013 16:36, schrieb Benjamin Hoffmanns:
+
+Natürlich, Zuse Z22, Computer auf Röhrenbasis im Wohnzimmerformat, 
+einige kW Leistung, Assembler Freiburger Code, einlesbarer ALGOL60 
+Compiler, Lochstreifeneingabe, Fernschreiberausgabe.
+
+Schaffte mühelos Primzahlzerlegungen bis 127 in weniger als 1 Minute, 
+wenn ich mich richtig an die Übungsaufgaben erinnere.
+
+Wenn ich mich richtig erinnere, hatte er 4 kB Kernspeicher.
+
+Hier ist auch ein Photo:
+
+http://jri.onl.aa/zfwgtcgp/viswjlgxr-fxjrkkuc/kkoasqlxbnjuow582_y-0.pras
+
+-- 
+
+Ivano Lütkebohmert

@@ -1,0 +1,7 @@
+Am 17.09.2010 13:34, schrieb Wolf Enßlin:
+
+Netter Dreisatz. Fast so gut wie
+
+configure
+make
+make install

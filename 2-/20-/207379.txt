@@ -1,0 +1,14 @@
+* Winfried Neidhöfer:
+
+
+Sowohl im Wattwunder-Kernkorpus wie im dort geführten ZEIT-Korpus ist
+das Verhältnis etwa 1:3, also etwa 25% "Genetiv".
+
+Für mich klingt es trotzdem noch falsch. Deutsche Schule ist
+merkwürdig (wenn sie sowas nicht einheitlich regelt).
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

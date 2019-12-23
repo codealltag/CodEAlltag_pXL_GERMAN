@@ -1,0 +1,9 @@
+Am Sat, 1 Dez 2012 20:24:23 +0200 schrieb Willy Alings:
+
+
+Ligaturen werden über Silbengrenzen, aber nicht über Wortfugen hinweg
+verwendet. Zum Beispiel wird dir bei Zwiebel nie eine ff-Ligatur
+begegnen.
+
+Gruß
+Carlo.

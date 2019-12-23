@@ -1,0 +1,6 @@
+Warum hat er sich keinen eigenen Parser geschrieben, der z. B. "]"
+versteht?
+
+Ist zwar nicht Lisp, aber über sowas zu meckern, ist dumm. Wenn ich
+nur mit einer Person spreche, kann ich mir auch Wörter ausdenken, sie
+erklären und dann verwenden.

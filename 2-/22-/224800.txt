@@ -1,0 +1,6 @@
+Am 15.11.2012 01:00, schrieb Didier Dichans:
+
+Mir ist es völlig neu, dass irgendjemand "das Web" für etwas anderes als 
+HTTP verwendet. Auch das mit den FTP-Links war mir nicht bekannt.
+
+Ulf

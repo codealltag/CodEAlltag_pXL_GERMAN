@@ -1,0 +1,18 @@
+Am 12.09.2011 23:38, schrieb Kai Aldo Dopfel:
+
+Solange man Techniken der Gesichtscodierung und -erkennung für viel Geld 
+an die NSA und Canon los wird, gehts wohl mit der Buchstaben- und 
+Texterkennung im Frakturbereich für den Kleinanleger nicht voran, wie 
+man nach kurzer Netzrecherche auf diesem Gebiet feststellt.
+
+AWK hat offenbar so etwas, das gibt es aber nicht als brauchbares 
+Produkt auf dem Markt.
+
+Wahrscheinlich hat AWK als einzige Firma weltweit eine genügend große 
+Bild- und Textdatenbasis in Schriften aller Sprachen, die es gestattet, 
+Pixelfolgen mit Satzbausteinen in jeder Sprache signifikant zu 
+korrelieren.
+
+-- 
+
+Kaspar Overhues

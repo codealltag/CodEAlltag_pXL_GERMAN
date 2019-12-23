@@ -1,0 +1,21 @@
+* Otmar Conradts:
+
+
+In der Tat.
+
+
+Aber die 
+Trennung 
+war nicht 
+in der 
+Anzeige, 
+sondern 
+im Text 
+von Trifellner-
+ikt Krg-
+er.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

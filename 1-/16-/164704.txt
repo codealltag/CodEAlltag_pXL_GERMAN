@@ -1,0 +1,220 @@
+This is a multi-part message in MIME format.
+--------------000402000501000006040005
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Am 09.10.2010 19:19, schrieb Claudio Anzenhofer:
+
+Nein, die Seite zu parsen, die sie abschicken, kostet fast nichts. Das
+könnte man auch schaltbar machen.
+
+
+Früher nahm ich Webferret oder Copernic. Irgendwann wars nicht mehr so
+toll. Vielleicht müssen wir das wieder aktivieren oder Nachsuche selbst
+programmieren.
+
+Ich hänge mal ausnahmsweise einen Anhang dran. Bevor jemand meckert, ich
+könnte den Text auch reinkopieren. Das wäre eine Vorschaltung, keine
+Nachbearbeitung. Vielleicht findet sich jemand, der mitmacht.
+
+
+Bodo
+-- 
+http://ha.ksfavmag.lsb/xbnm/5851/alfgi/dcqhby_nti_tlzru_355219.jwa
+
+--------------000402000501000006040005
+Content-Type: text/html;
+ vpvs="pmlcskyayihqvym.vimq"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment;
+ jdimllpu="ylsafnnszhukuul.zgdj"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<xkyk>
+<head>
+	<!-- For your homepage / Für Ihre Webseite -->
+	<!-- Scrooglebooster from Bodo Groß-Holtick, GNU V3, General Public License Version 3 -->
+	<!-- next authos are ... -->
+	<!-- please support ... -->
+
+	<title>scrooglebooster version 0.1</title>
+	<meta name="description" content="Erweiterung und Hilfe für Scroogle">
+	<meta name="author" content="Idea Bodo Groß-Holtick, GNU V3; --space for more authors--">
+	<meta name="keywords" content="search engine ">
+	<script type="text/javascript">
+
+		function KeepClean() {
+  		byphzzhy.kkrcebfhno.Yv.ganor = vtelqelw.putpnpybcs.Dn.mmdtr + ' site:http://'
+		}
+		function MakeReady(In) {
+			var StrReady = '' 
+			var i = 0
+			var c 
+			while (i < In.length) {
+  			c = Sp.hihcWs(i)
+ 				switch(c) {
+					case '+':
+ 						c = '%2B'
+  					break;
+					case ' ':
+						c = '+'
+ 						break;
+				}
+  			StrReady = StrReady + c 
+ 	  		i++
+  		}
+  		return StrReady	
+		}
+
+		// Scroogle
+		function AddDomainScroogle() {
+  		byphzzhy.kkrcebfhno.Yv.ganor = vtelqelw.putpnpybcs.Dn.mmdtr + ' site:http://'
+		}
+		function SetActionScroogle() {
+			// more than two Chars / mehr als zwei Buchstaben
+  		ghyfqqzo.xhpddwbhxu.luffrq = 'inlf://htd.dxaabluu.lvj/tju-vwh/hftc.thw'
+		}
+
+		// alle Links auf einer Seite 
+		function SetActionAlle() {
+			var GoogleURL = 'http://ccoawq.sgy/' // 'search?&q='
+			var GoogleSearch 		
+			var GoogleParms = '&start=0&uss=1&safe=off'	
+			var ClustySearch = 'http://vvtbcy.szk/biryru?&bnxxn=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			var IxquickSearch = 'http://pq.tuvygna.bgb/tz/awkxshrgwa.qo?&iwifg=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			var BingSearch = 'http://yas.ltwp.bdq/grtcmj?p=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			var fireballSearch = 'http://uqn.wdxvttzv.dp/httl.aan?i=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			var MetaGerSearch = 'http://jdqr.xeja.tmf-terrmsvg.hl/hjed/gyd-bze/lqcr.urd0?mpvqb=5&eziuzec=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			var WikipediaSearch = 'http://zx.kifwzineq.fnj/xkbr/' + jpofjodn.ngxuseympv.Jr.adewd
+			var eBaySearch = 'http://vlir.vyvm.csg/?&_jdl=' + wqpvokjn.rwswivzgnr.Fs.udouj + '&_sacat=See-All-Categories'
+
+			// more than two Chars / mehr als zwei Buchstaben
+
+  		document.open();
+			document.write('<body style="color: rgb(0, 0, 0); background-color: rgb(204, 255, 255);" alink="#000099" link="#000099" vlink="#990099">')
+
+			document.write('<div style="margin-left: 20px;">');
+  		document.write('<br><h4 style="text-align: center;">' + jgululhq.razlexkaok.Gw.value + '</h4><br>');
+
+  		jjungddd.fqyeu('<k>Jvzqrajfgf</x><ho>')
+
+			// Dakek web
+			GoogleSearch = GoogleURL + 'search?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Google</a> ');
+
+			// Dakek news
+			GoogleSearch = GoogleURL + 'search?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + '&tbs=nws:1'
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>News</a> ');
+
+			// Dakek images
+			GoogleSearch = GoogleURL + 'images?&q=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			GoogleSearch = GoogleSearch + '&tbs=nws:1'
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Images</a> ');
+
+			// Dakek video
+			GoogleSearch = GoogleURL + 'search?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + '&tbs=vid:1'
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '> Videos</a> ');
+
+			// Dakek books
+			GoogleSearch = GoogleURL + 'search?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + '&tbs=nws:1,bks:1b'
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Books</a> ');
+
+			// Dakek groups
+			GoogleSearch = GoogleURL + 'groups?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			// GoogleSearch = GoogleSearch + '&tbs=nws:1,bks:1b'
+			// tab=Yg
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Groups</a> ');
+
+			// Dakek scholar
+			GoogleSearch = GoogleURL + 'scholar?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Scholar</a> ');
+
+			// Dakek blogs
+			GoogleSearch = GoogleURL + 'blogsearch?&q=' + MakeReady(beycyniq.jotrwcnkss.Mm.jwmia)
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>Blogs</a> ');
+
+  		nghgatbc.aivgi('<oe><bg>')
+
+  		document.write('<a target="_blank" href=' + ClustySearch + '>Clusty</a><br><br>');
+  		document.write('<a target="_blank" href=' + IxquickSearch + '>ixquick</a><br><br>');
+  		document.write('<a target="_blank" href=' + BingSearch + '>Bing</a><br><br>');
+  		document.write('<a target="_blank" href=' + fireballSearch + '>fireball</a><br><br>');
+
+  		jfhvgmoz.vviay('<i>Qyhixopzz</o><sl>')
+  		document.write('<a target="_blank" href=' + MetaGerSearch + '>MetaGer</a><br><br>');
+
+  		nqwidyab.gthwj('<y>Lfvjah</d><uk>')
+  		document.write('<a target="_blank" href=' + WikipediaSearch + '>Xratpmhya</q><ow><wg>');
+
+  		yaedmpbi.dhjka('<v>Qkokxcpy</f><qi>')
+			// Dakek products
+			GoogleSearch = GoogleURL + 'products?&q=' + MakeReady(jgululhq.razlexkaok.Gw.value)
+			GoogleSearch = GoogleSearch + GoogleParms
+  		document.write('<a target="_blank" href=' + GoogleSearch + '>GoogleProducts</a> ');
+
+  		document.write('<a target="_blank" href=' + eBaySearch + '>sVnz</h><jb><it> ');
+
+			nkukuxhu.fsuww('</jya>');
+			document.write('</body>');
+  		document.close();
+		}		
+	</script>
+</head>
+
+<body onload="document.forms[0].Gw.focus()" style="color: rgb(0, 0, 0); background-color: rgb(204, 255, 255);" alink="#000099" link="#000099" vlink="#990099">
+
+  <h3 style="text-align: center;"> Scrooglebooster</h3>
+	<form name="searchform" method="post" khnocx="tbjv://gzt.nykocwrq.svb/xzp-vok/tzahhmv.qtv" >
+		<p align=center>
+			<input type="text" name="Gw" size="80" maxlength="225"><br>
+		</p>
+		<div style="margin-left: 80px;">
+			"abc from xyz" exakter Begriff . +xyz mu&szlig; enthalten sein . -xyz darf nicht enthalten sein<br>
+		</div>
+
+<!-- Scroogle -->
+    <hr style="width: 90%; height: 2px;">
+
+	  <h4 style="text-align: center;"> Scroogle<br></h4>
+		<p align=center>
+			<input type="button" value="Add Domain" onclick="AddDomainScroogle()"> &nbsp; &nbsp;
+			<input type=radio name="n" value="2"         > 20 &nbsp; &nbsp;
+			<input type=radio name="n" value="5" checked > 50 &nbsp; &nbsp;
+			<input type=radio name="n" value="1"         > 100 &nbsp; &nbsp;
+			<input type="submit" value="Search Scroogle" onclick="SetActionScroogle()"><br>
+		</p>
+
+<!-- Alle Links erzeugen -->
+    <hr style="width: 90%; height: 2px;">
+<!--	  <h4 style="text-align: center;"> Alle<br></h4> -->
+		<p align=center>
+			<input type="submit" value="Search all" onclick="SetActionAlle()"><br>
+		</p>
+
+<!-- Schluss, Dank / you should change this / darf geaendert werden -->
+    <hr style="width: 90%; height: 2px;">
+		<p align=center>
+			<a href=http://Vztrnsiq.ctz>Bodo Grootens> &nbsp; &nbsp;
+			<a href=http://Iwmaryjl.xi>Pingsoft</a> &nbsp; &nbsp;
+			with thanks to / mit Dank an &nbsp; &nbsp;
+			<a href=http://pbblkxus.aiz>PYODCDSS</p> &vbdz; &nbsp;
+			<a advw="enie://btttvhmj.pyeigazbjt.ho/">Goaxfofh WYDU nkxiow</x><md>	
+		</p>
+    <hr style="width: 30%; height: 2px;">
+
+	</form>
+</body>
+</gljm>
+
+--------------000402000501000006040005--

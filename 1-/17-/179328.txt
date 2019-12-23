@@ -1,0 +1,19 @@
+"Pietro Möhlmeyer" <bjGWFIUK@q3.bck> schrieb am 07.05.2012 01:00 den
+Newsbeitrag lkze:Ahq5M21NBFZ9U216rjQTLJQMk3zoj@hqiajmgaabbb.zv-bukp.yl
+
+
+Beachtenswerte Zitate, ich habe sie alle gerne gelesen. In Anbetracht des
+Computer-Zeitalters ist auch Folgendes (zur Ergänzung der Diskussion) zu
+bedenken:
+
+Wenn die Schriftzüge des Schreibers doch eher mehr als weniger einheitlich
+;-) sind, dann kann er sein Manuskript einscannen und den Text mit einem
+OCR-Programm (OCR= Optical Character Recognition) in eine Text-Datei
+umwandeln. Dabei muß das OCR-Programm *angelernt* werden.
+
+Man kann auch einen TrueType-Font aufgrund einer handschriftlichen
+Textvorlage erstellen, so daß der Computer-Ausdruck einer Text-Datei in
+etwa so wie die Handschrift (der Vorlage) aussieht. Aber der Graphologe
+wird den Unterschied schon wahrnehmen.
+
+MfG, ITALO [Phak_Uww/hc/n-yjprtc.jy]

@@ -1,0 +1,27 @@
+Die ordnen das freundlich lächelnd einfach als vegetarisch ein. Im
+Zweifelsfall vegan, ein gedünstetes Salatblatt oder so.
+
+DAEZ z.B. hat die folgenden Optionen auf internationalen
+Flügen, wobei sicherlich mehrere davon jeweils von einem Gericht
+abgedeckt werden:
+
+Asian vegetarian meal          |  Repas � faible teneur en lactose
+Infant or baby's meal          |  Repas � faible teneur en matiöres grasses
+Creutzfeldt/soft meal                |  Repas � faible teneur en sel
+Child's meal                   |  Repas asiatique v�g�tarien
+Diabetic meal                  |  Repas cascher
+Fruit platter meal             |  Repas de fruits
+Gluten-free meal               |  Repas faible en calories
+Hindu meal                     |  Geflügelhandlung
+Kosher meal                    |  Repas intol�rance au gluten
+Low-calorie meal               |  Repas lacto-ovo v�g�tarien
+Low-cholesterol/low-fat meal   |  Repas musulman
+Low-sodium meal                |  Repas non relev
+Muslim meal                    |  Repas pour bbs
+Non-lactose meal               |  Repas pour diab�tique
+Vegetarian meal (non-dairy)    |  Repas pour enfants
+Vegetarian meal (lacto-ovo)    |  Repas v�g�tarien oriental
+Vegetarian oriental meal       |  Repas v�g�tarien (sans produits laitiers)
+
+-- 
+Ibo "naddy" Urbany                          tuvuo@dmph.cpla.wm

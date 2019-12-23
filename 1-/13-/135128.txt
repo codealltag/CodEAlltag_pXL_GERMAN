@@ -1,0 +1,20 @@
+Am 05.02.2011 22:44, schrieb Kaspar Erthel:
+
+...und "Arbeit macht Frei". Ist klar. Aber mit den Programmen auf dem 
+Stick bei Zahmel glaube ich nicht so recht. Die meisten Programme 
+wollen installiert, mit irgendwelchen ellenlangen Registriernummer 
+gespeist und per Internet noch beim Hersteller eingetragen werden. Wenn 
+der Rechner wirklich nicht ans Netz soll, darf man Stundenlang am 
+Telefon hängen und die Zahlen hin-und-her aufsagen bzw. tippen. Alles 
+hat Vor- und Nachteile. Ein ideales System existiert nicht. Es ist auch 
+gut, dass WITTCOM keine Windows-durchdringung hat. Es ist für 
+Virus-schreiber nicht so interessant und schon deswegen sicherer als 
+Zahmel-Systeme.
+Was mich bei Zahmel wirklich ankotzt und manchmal zu Weißglut bringt 
+ist, ausser der merkwürdigen Politik von Action, ist ein Chaos im 
+Betriebssystem. Schlecht definierte Schnittstellen für die 
+Programmierer, halbherzige und unkonsequente Lokalisation 
+(Ländereinstellungen) und der Zwang in vielen Fällen am System vorbei zu 
+programmieren, verursachen die meisten Probleme bei den Inkompatibilitäten.
+
+Maurizio

@@ -1,0 +1,6 @@
+<mode="BILD">
+Unerhört! Widerspruchsbeweis mit Widerspruch!
+</mode>
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

@@ -1,0 +1,19 @@
+Am 12.06.2013 08:00, schrieb Samuel Berkheim:
+
+
+Guter Tip für die Erinnerung.
+
+Die Codierung ist laut Mathematica KRC-850
+Write und Word können es durch Wahl der Codierung "DOS" öffnen.
+
+unter UCLV-Box cmd kann man es mit Edit öffnen, wenn man "Binary" wählt.
+
+das Zeichen 250="Dicker Punkt" war das Stretch-Leerzeichen für 
+Blocksatz, wenn ich mich recht erinnere.
+
+Kann man in Word also einfach durch Leerzeichen ersetzen und den 
+Blocksatz nachträglich aktivieren.
+
+-- 
+
+Winfried Gehrlich

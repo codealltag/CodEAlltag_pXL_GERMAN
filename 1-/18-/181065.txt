@@ -1,0 +1,13 @@
+Viktor Estinghausen <ykuttfl@rzp.xu> writes:
+
+
+Typ ja. Klasse nicht ganz. Zu einer Klasse gehört auch ein Konstruktor
+(den hat er, ich übrigens auch) und ein Destruktor (den haben andere
+für ihn, ich hab keinen, wär strafbar).
+
+Fred
+-- 
+Stellenausschreibungen gehoeren auch nach de.markt.arbeit.biete.
+Stellengesuche gehoeren auch nach de.markt.arbeit.suche.
+Am besten mit einem eigenen E-Mail-Account nur dafuer wegen UBE.
+http://ssvb.aguoi.yb/elztnp/tiw.cnu

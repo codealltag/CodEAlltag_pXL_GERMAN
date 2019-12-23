@@ -1,0 +1,16 @@
+On 10.11.2011 14:41, Raimund Jahnel wrote:
+
+
+Nein, spielen sie nicht. In beiden Fällen sind Zeichensatz (charset) wie
+Kodierung (content-transfer-encoding) völlig korrekt angegeben. Einzig
+die Unfähigkeit der Agosu-Anwendung, mit solcherart korrekten Beiträgen
+umzugehen, führt zu dem bekannten Mist.
+Trauriger als Googles Unfähigkeit ist nur die Beharrlichkeit, mit der
+sich Agosu-Nutzer dieser Erkenntnis entgegen stemmen.
+
+
+Ciao
+Irma
+-- 
+ Lieber eine erregte Bekannte
+ als ein bekannter Erreger.

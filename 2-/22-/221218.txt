@@ -1,0 +1,12 @@
+* Burkhard Calenborn:
+
+
+Böse, böse. Ich schlage vor: 
+
+  ... praktischen Ärzten zu Molekularbiologen.
+  ... Ingenieuren zu Physikern.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Reinhold Czyborra, comp.lang.python

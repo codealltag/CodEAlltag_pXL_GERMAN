@@ -1,0 +1,11 @@
+* Wilhelm Zurmühle:
+
+
+Ich hatte ohne Kontext zuerst das erste verstanden. Es ist beides
+möglich, aber für die zweite Bedeutung würde ich wahrscheinlich
+ein anderes Verb wählen (z.B. verkrümeln).
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Claudio Abele, comp.lang.python

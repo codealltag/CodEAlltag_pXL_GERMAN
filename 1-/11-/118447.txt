@@ -1,0 +1,7 @@
+Am 14.01.2010 01:20, schrieb Noël Fährmann:
+
+
+Ein Kollege sagte immer: Wählen wir mal ein kleines Epsilon, zum 
+Beispiel 1000.
+
+Sebastian

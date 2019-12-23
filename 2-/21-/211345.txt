@@ -1,0 +1,5 @@
+Am 26.08.2012 16:08, schrieb Walter Weistand:
+
+Wieso nur Paging und nicht auch Swapping? Schraddeln dürfte beides.
+
+Nico

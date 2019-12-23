@@ -1,0 +1,11 @@
+Am 2011-06-10 23:01, schrieb Ingolf Tentrup:
+
+Das ist aber jetzt schon un-terste Schublade.
+
+lg knut
+
+
+-- 
+Distribution: MoBiTec squeeze/sid
+Linux pluto 22.10.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

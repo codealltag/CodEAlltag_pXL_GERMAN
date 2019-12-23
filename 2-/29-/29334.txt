@@ -1,0 +1,20 @@
+Ich habe noch eine Variante anzubieten, vielleicht dem
+Medizinstatistiker zuzuschreiben, oder dem Meinungsforscher:
+
+1 ist eine Primzahl
+3 ist eine Primzahl
+5 ist eine Primzahl 
+7 ist eine Primzahl
+
+... Das sieht doch richtig aus. Dann nehmen wir noch eine zufällige
+Stichprobe ...
+
+11 ist eine Primzahl
+13 ist eine Primzahl
+19 ist eine Primzahl
+29 ist eine Primzahl
+
+Stimmt.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

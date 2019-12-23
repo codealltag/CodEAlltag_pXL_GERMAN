@@ -1,0 +1,21 @@
+Am 02.09.2012 17:23, schrieb Ronald Merkli:
+
+Kommt halt immer auf das Detail an, wie "merk dir" funktioniert.
+
+
+Doch.
+
+
+Ganz genau. Und um dieses Konzept der Blockstrukturierung umzusetzen, 
+das damals als konzeptuell schwierig galt, brauchte man den Stack.
+
+
+War halt vorher keiner draufgekommen.
+
+
+Ich denke eher nicht, dass das so funktioniert.
+
+
+Unfug.
+
+Pascal

@@ -1,0 +1,13 @@
+* Nino Nägelin <wplaxvw@nhzwvmu.qzebrwc>:
+
+Ich dachte immer, es heisse Schweinekram, und "schweinkram" sei das,
+was die Amis sagen, wenn sie Deutsche imitieren.
+
+Aber:                                              site:tv  :at
+  schweinkram -schweinekram -schweinskram: 102583  371799  15339
+  schweinekram -schweinkram -schweinskram: 348252  979484  67337
+  schweinskram -schweinkram -schweinekram: 548242   22760   9172
+
+Gibt es da regionale Vorlieben wie bei Schweinsbraten/Schweinebraten?
+
+ - Cédric

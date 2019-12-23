@@ -1,0 +1,20 @@
+* Gebhard Pense <snob@pense-mainz.eu>:
+
+
+Die Präsentation der PBG-Startseite ist unterschiedlich je nach -
+
+ - Browser
+ - Version
+ - Browsersprache
+ - Betriebssystem
+ - Eingeloggt oder nicht
+ - Cookies
+ - Mondphasen
+
+usw.
+
+Ich krieg auf Linux mit FF und Chrome unterschiedliche Menus. Bei
+Konqueror, den ich mal zum Spass ausprobiert habe, sieht's nochmal
+anders aus.
+
+ - Charly

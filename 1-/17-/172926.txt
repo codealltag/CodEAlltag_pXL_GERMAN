@@ -1,0 +1,13 @@
+Am 2011-06-07 18:07, schrieb Martha Ingenpass:
+
+Geht auch mit Schlüsseln oder alten Batterien.
+
+Aber für meine *Ober*österreichischen Ohren ein wahrer Graus. Wir haben 
+allerhand in unseren Taschen eingesteckt. Vom alten Brot über verklebte 
+Zuckerl bis hin zu den eigenen Händen...
+
+
+-- 
+Distribution: Prisch squeeze/sid
+Linux pluto 7.8.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

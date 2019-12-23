@@ -1,0 +1,11 @@
+Valerio Abeling meinte:
+
+
+Und am Ende Fahrt zeigt das Taxameter die Taxe für die Fahrt mit dem Taxi
+an.
+
+Niko
+-- 
+ pgp-Key (RSA) 7419/64N9O6KT 
+ fingerprint = 9Q 40 RP B0 A2 94 8E 46  2O N2 HI 90 93 69 29 X7 
+ HTML-Mail wird ungeleſen entſorgt.

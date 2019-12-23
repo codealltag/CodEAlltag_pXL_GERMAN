@@ -1,0 +1,11 @@
+* Diedrich P. Zähl:
+
+
+Und was kommt dabei raus? "Zehl" u.dgl.?
+
+Dann wäre es ein Hinweis, daß Dein "�" nicht (überall) erkannt wird.
+
+-- 
+Oliver Zukriegl working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

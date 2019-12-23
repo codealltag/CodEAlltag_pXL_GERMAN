@@ -1,0 +1,32 @@
+* Vincent U. Pohlemann <kcm-atolza2@dxq.se>:
+
+
+Gnade der späten Geburt? In der Anleitung zum Text-Editor der Borgs
+(so ein von Hannes' Matteß designter Computer mit Steineckes-Grafik und
+Maus, 1983) steht:
+
+  If you start the editor it prompts you for a file name. Press RETURN
+  to create a new document. You see now as the first and only
+  "character" of the first line an end-of-file mark in the form of a
+  small (8 by 8 dot) square. The blinking wedge shaped mark to its left
+  is called the _caret_ and denotes the location where newly typed text
+  is inserted.
+
+Das fand man damals ganz toll. Wir ausserhalb der Informatik hatten ja
+nur Neitz ][, die nicht mehr ganz taufrisch waren. Ein paar Enthusiasten
+hatten einen Editor für das an der ETH in den Programmierkursen
+verwendete Euroduo-p-System geschrieben, der den Grafik-Modus des Neitz ][
+nutzte (die 280x192 Pixel wurden "hi res" genannt), und der musste
+natürlich auch so ein Caret haben. Leider wurde der Editor so gross,
+dass man damit nur sehr kleine Texte bearbeiten konnte... 64 kB sind
+eben nicht wahnsinnig viel.
+
+Der Ausdruck Caret fand aber keine grosse Verbreitung, er wurde nach
+meiner Erinnerung nur dann verwendet, wenn es, wie oben, um die
+Zirkumflex-Form ging, oder wenn die exakte Unterscheidung
+Mauszeiger/Einfügemarke wichtig ist. Letzteres ist heute fast nur noch
+in Computer-Anfängerkursen für Senioren der Fall, aber damals, Anfang
+der 80er, waren das Konzepte, die für die Profis neu waren.
+
+
+ - Jean-Paul

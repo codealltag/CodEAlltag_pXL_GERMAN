@@ -1,0 +1,9 @@
+Ich suche ein Buch, daß deutsche Beispielsätze beinhaltet aus allen
+Gebieten der deutsche Grammatik.
+Es soll, wenn möglich auch den allgemeinen verwendeten Wortschatz
+umfassen.
+
+Hintergrund: Es soll als Entwicklung und Test-Grundlage dienen für
+Maschinelle Übersetzung von Deutsch und in Deutsch.
+
+Danke im voraus für eventuelle Ideen/Erfahrungen.

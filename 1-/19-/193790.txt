@@ -1,0 +1,10 @@
+Werden diese Sprachen überhaupt von der verwendeten Spracherkennungs-
+bibliothek erfasst? Luxemburgisch fehlt auch.
+
+
+*Zweifel* Wo kommen die Koordinaten her? Wie werden überhaupt den
+einzelnen Tweets Herkunftsorte zugeteilt? Normale Geolocation der
+IP-Adresse?
+
+-- 
+Oscar "naddy" Deutschlaender                          gdbde@gebr.ahso.rc

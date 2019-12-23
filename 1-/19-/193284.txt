@@ -1,0 +1,10 @@
+* Burkhard Hünerfauth:
+
+
+Wenn die Waidleute da nur zur Hand greifen, kann man ja von Glück
+sprechen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Olaf Buxbaum, comp.lang.python

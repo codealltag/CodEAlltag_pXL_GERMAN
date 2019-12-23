@@ -1,0 +1,8 @@
+On Thu, 16 Mai 2010, Jann Isenbort wrote:
+
+
+Ja, leider. Ich finde "client_certificate_table" viel übersichtlicher als
+"clientCertificateTable".
+
+-- 
+Pascal Joppe

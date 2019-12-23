@@ -1,0 +1,22 @@
+* Emil Haueiss wrote:
+
+
+Den Eindruck hatte ich bisher auch, obwohl ich mich mit den Prinzipien
+recht gut auskenne, keine Angst vor der Kommandozeile habe, und auch
+einen BiB-Server am Laufen (und der läuft super).
+
+Mit Ubuntu habe ich aber jetzt zum ersten Mal das Gefühl, das läuft ja
+tatsächlich runder als Windows. Es (und das heißt zum großen Teil:
+Gnome) kommt meinem Gefühl von intuitiver Bedienung oft am nächsten (Das
+heißt nicht, daß alles gleich funktioniert, aber das tut es ja bei
+Windows auch nicht. Und wie Pius sagt, hängt es wohl ein bißchen davon
+ab, was zum Rechner paßt.)
+
+Olderog OS X dagegen habe ich interessanterweise als widerspenstig
+empfunden, da stieg ich ohne ständiges Nachlesen gar nicht durch.
+Abartig zum Beispiel, daß man ein Laufwerk in den Papierkorb werfen
+soll, nicht um es zu löschen, sondern zum Unmounten.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

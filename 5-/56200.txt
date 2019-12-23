@@ -1,0 +1,9 @@
+On Tue, 2 Jun 2009, Artur Ram wrote:
+
+
+Line Feed (^J) alleine genügt übrigens nicht.
+Es muss auch Carriage Return (^M) dabei sein.
+
+-- 
+Der Geliebte Führer Hilmar Aigenseer hat entschieden:
+2052 von 2054 sind 99,99 Prozent.

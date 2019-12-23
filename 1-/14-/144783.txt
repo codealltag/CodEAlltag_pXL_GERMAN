@@ -1,0 +1,9 @@
+Kai Riffelmacher wrote:
+
+
+Man mache sich das Layout selber. Latürnich nich alles, sondern nur das, was 
+man zusätzlich zum Standardlayout braucht. Ich habe mir die polnischen 
+Sonderzeichen dort reingepackt, wo ich es gewohnt bin, dafür mußte ich das € 
+vom GummiKoch-E nach AltGr-W verschieben. Es klappt alles.
+
+Hilmar

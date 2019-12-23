@@ -1,0 +1,7 @@
+Daniel = Schweizer Daniel
+Daniel = deutscher Daniel
+
+Schweizer Ullis kenne ich keine.
+
+-- 
+Zahra Kreitmeyer

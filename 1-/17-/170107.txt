@@ -1,0 +1,7 @@
+* Heinrich Pense:
+
+
+s/richtige/normale/ && ACK
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

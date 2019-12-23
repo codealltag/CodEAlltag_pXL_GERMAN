@@ -1,0 +1,7 @@
+* Bernard Gogl <Tyws_6@yus.rh>:
+
+
+LabView hat das auch, aus dem gleichen Grund. Und natürlich "xv"
+(Methusalembildbetrachtungssoftware für Unix).
+
+ - Jörg

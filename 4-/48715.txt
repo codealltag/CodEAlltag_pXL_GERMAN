@@ -1,0 +1,9 @@
+H, es ging doch hier jetzt in diesem Teilthread garnicht um
+Schnittstellendefinitionen, sondern um alltägliches Benutzen bzw.
+Aufbauen des Arbeitsgeräts.
+"Schnittstelle" ist dermaßen abstrakt, daß es schon fast wieder
+nichtssagend ist. Wer mehr mit Programmierung zu tun hat, denkt
+bei "Schnittstelle" an ein Stück Code innerhalb eines Programms,
+wer mit Hardware zu tun hat, denkt an Buchsen und
+Signaldurchgang, und wer einfach nur sein Geraffel zum Laufen
+kriegen will, dem ist damit nicht geholfen.

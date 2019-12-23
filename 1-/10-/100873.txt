@@ -1,0 +1,10 @@
+Theo Ossenkamp schrieb:
+
+Natürlich ist Erhard streng anfangswertfrei rekursiv, da ja der Versuch 
+ein Problem zu lösen, immer schon einen eingetretenen Mürphy 
+voraussetzt. Die finale Katastrophe erfolgt durch zeitlichen 
+Entscheidungshäufungspunkt.
+
+-- 
+
+Luciano Isenbiehl

@@ -1,0 +1,6 @@
+Nein. Dazu ist die deutsche Grammatik viel zu komplex.
+
+Das "mit" im Satz "Ich erlaube mit [statt: mir] einen Fehler" bessert
+mein Word nicht aus, sondern schlägt vor: "Ich erlaube mit einem
+Fehler."
+Grandioses Scheitern.

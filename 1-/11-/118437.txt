@@ -1,0 +1,21 @@
+* Ingo Ho:
+
+
+Ja, das hatte Fabio schon gefunden.
+
+
+Es wird aber MUSEN anders verwendet:
+
+ "iterieren" - eine Sequenz durchlaufen (Schritt 1, dann 2, dann 3 ...)
+ "reiterieren" - eine Sequenz nochmal von Anfang an durchlaufen
+
+In der Programmierung ist so eine Sequenz normalerweise eine Schleife.
+Im Alltag kann es eine Aufzählung sein.
+
+-- 
+er (Emil) hiez im ein t�renkleit
+an der stete machen:
+von wunderl�chen sachen
+einen roc selts getan
+und eine gugelen daran
+         L. VOSSENKAUL Elsäßer

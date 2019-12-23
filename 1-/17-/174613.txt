@@ -1,0 +1,10 @@
+* Benno Hosters:
+
+
+Na sowas, und ich hatte das nun schon ein, zwei Jahrzehnte nur als "Wer
+zahlt, entscheidet, was gekauft wird" verstanden - fand es aber etwas
+merkwürdig formuliert.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Lars Schmitzmann, comp.lang.python

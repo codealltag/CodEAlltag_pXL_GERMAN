@@ -1,0 +1,14 @@
+Rainer Crafts skrev (2011 02 11 21:27):
+
+
+Ich will lieber Datum in ISO 8601-Format angeben:
+
+ YYYY MM DD
+ YYYY MM DD HH:MM
+ YYYY MM DD HH:MM:SS
+
+-- 
+Gruß  :�)
+Carlo Schramen
+DK-8418
+0964 95 77 12:44

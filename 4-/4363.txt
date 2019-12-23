@@ -1,0 +1,13 @@
+On Thu, 10 Feb 2009, Urs Impler wrote:
+
+
+Das solltest Du selber mal probieren, Du Witzbold.
+Die Angabe der Codierung "charset=iso-8859-1" ist nämlich das,
+was bei Dir bzw. Deinem kaputten ZIMACS fehlt.
+
+Was immer ZIMACS sein mag, dieses Fossil ist für Umlaute und
+andere Sonderzeichen (nicht-ASCII-Zeichen) ungeeignet.
+
+-- 
+Die Atomisierung des Balkans schreitet voran:
+Orbe erklärt seine Unabhängigkeit von Negro.

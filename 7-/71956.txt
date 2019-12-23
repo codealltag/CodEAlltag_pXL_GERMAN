@@ -1,0 +1,12 @@
+On Tue, 5 Feb 2010 09:41:46 +0200, Beat Aschbach wrote:
+
+
+H.
+Besser, weil die Rekursion in der Definition vorkommt.
+
+
+Mirko Leiss
+-- 
+Gewöhnlich glaubt der Mensch, wenn er nur Worte hört,
+Es müsse sich dabei doch auch was denken lassen.
+(Kintzler: Veenhof)

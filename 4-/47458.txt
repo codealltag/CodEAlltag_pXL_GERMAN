@@ -1,0 +1,13 @@
+Marcus Eickhölter wrote:
+
+
+Ich habe mich auch immer wieder gefragt, wie die Anwender Redmonder
+Binärwerke überleben konnten, ohne jemals den "linken Schräger"
+auszusprechen.  Aber siehe da -- es geht:
+
+A:\> Wo finde ich denn die Konfigurationsdatei für blafasel 4.0?
+B:\> Liegt unter ZehWindowsPersönlicheKommentareUndUnterstellungen!
+A:\> Danke, hab's gefunden!
+
+
+antonio

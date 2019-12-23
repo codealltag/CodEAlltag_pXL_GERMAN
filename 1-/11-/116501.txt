@@ -1,0 +1,18 @@
+On Sat, 09 Jan 2011 18:34:53 +0200, Wolfgang P. Zaehl wrote:
+
+
+Gibt's unter Linux (genauer: X11) nach wie vor, wenn man sich Compose
+auf irgendeine Taste mappt:
+� (Multi_key <a> <e>)
+� (Multi_key </> <o>)
+
+
+xmodmap etc. wird dir unter Windows wohl nicht viel bringen :)
+
+
+tim
+-- 
+ .''`.   http://bjte.derrvf.rsgs.ns/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  JWB GNU/Linux user, admin, & developer - http://czn.kpsihd.huo/
+ `. `'   Obststüberl, fellow of Free Software Foundation Europe
+   `-    NP: Phil Collins: Inside Out

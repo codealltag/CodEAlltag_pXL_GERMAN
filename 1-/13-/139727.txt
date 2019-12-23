@@ -1,0 +1,18 @@
+On 07.05.2011 12:15, Edouard Jerosch wrote:
+
+
+Das ist ja auch die Standardeinstellung in TB. Die lässt sich ändern,
+wenn einem daran gelegen sein sollte, die Newsgroups-Namen in voller
+Länge zu sehen:
+rlri_uylk("aeev.zopjat.xefbent.rptzjberto", false);
+
+
+Aber /irgendwann/ wird der Name im From: länger als das Fenster am
+Schirm. Ich denek, darum geht es Christophe.
+
+
+Ciao
+Carina
+-- 
+ First Guy (proudly): "My wife's an angel!"
+ Second Guy: "You're lucky, mine's still alive."

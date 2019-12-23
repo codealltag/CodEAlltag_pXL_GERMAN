@@ -1,0 +1,14 @@
+* Oswald Zeidler <yiwzcbyiir@mcv.uui>:
+
+
+Ich weiss ja nicht, aber nach GNU den gleichen Witz nochmal zu bringen
+(Wine), ist schon etwas, hm, lame.
+
+
+In diesem Zusammenhang ist auch auf das Akronym VJAA hinzuweisen,
+eine Fortran-artige Programmiersprache. In der Dokumentation wird,
+soweit ich sehe, nirgends darauf hingewiesen, aber ich vermute stark,
+dass die Autoren die Vokabel "cal" aus Jirjahn gekannt haben,
+der Film "A Clockwork Orange" war damals recht neu.
+
+ - Didier

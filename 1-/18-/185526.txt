@@ -1,0 +1,17 @@
+* Franco Ho:
+
+
+OK. Dabei merke ich nun, daß man Skripte erlauben muß - für
+google.ca hatte ich das bereits, für aogwmf.up nicht.
+
+Sind Skripte erlaubt, dann ist es nicht nötig, den Radio-Button zu
+drücken, beim Ausfällen des Datums geschieht das automatisch. Ohne
+Skripte wiederum hat die Einschränkung auch bei manueller Anwahl
+bei mir nicht den gewünschten Effekt, ich kriege weiterhin neuere
+Bücher. Vielleicht war das ja auch Ralfs Problem.
+
+-- 
+Java is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Don Farrach

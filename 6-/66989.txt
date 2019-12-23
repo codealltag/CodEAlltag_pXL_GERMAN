@@ -1,0 +1,40 @@
+Mirko Cote wrote:
+
+
+stimmt, es gibt beide Formen.
+
+Quelle:
+http://mviyyoyayo.hlh-wpuqmcc.zu/imrpkwx/
+
+
+Wort:  voraussichtlich
+Anzahl: 59256
+Häufigkeitsklasse: 9 (d.h. der ist ca. 2^9 mal häufiger als das gesuchte
+Wort)
+Morphologie: 	vor|aus|sicht|lich
+Grammatikangaben: 	Wortart: Adjektiv
+Relationen zu anderen Wörtern:
+
+    * Synonyme: höchstwahrscheinlich, vermutlich, wahrscheinlich
+    * ist Synonym von: angeblich, angeblich, anscheinend, denkbar,
+höchstwahrscheinlich, mutmaßlich, offenbar, offensichtlich, vermutlich,
+wahrscheinlich
+    * wird referenziert von: vielleicht
+
+
+===
+
+Wort:  vorraussichtlich
+Anzahl: 15
+Häufigkeitsklasse: 18 (d.h. der ist ca. 2^18 mal häufiger als das
+gesuchte Wort)
+Morphologie: 	vor|raus|sicht|lich
+Grammatikangaben: 	Wortart: Adjektiv
+Links zu anderen Wörtern:
+
+    * Grundform: vorraussichtlich
+    * Form(en): vorraussichtlich, vorraussichtlichen
+    * -lich-Form zu: Vorraussicht
+
+
+Wahrscheinlich die neue und alte Rechtschreibung zusammengefuegt.

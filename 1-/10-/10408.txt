@@ -1,0 +1,8 @@
+Nachgestellte Adjektive sind im Deutschen ungebeugt ("Forelle blau").
+Allerdings stellt die Großschreibung klar, dass es sich um ein
+Substantiv handeln muss. Wir haben damit den seltsamen Fall eines
+getrennt geschriebenen Kompositums, bei dem das Bestimmungswort auf
+das Grundwort folgt.
+
+-- 
+Reto "naddy" Dammschröder                          ahfyt@exrb.cogo.mo

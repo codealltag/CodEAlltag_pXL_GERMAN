@@ -1,0 +1,14 @@
+Ich weiß nicht, was an "Kampfjet" sinnlos sein soll: Ein Kampfjet ist
+ein Jet, der zum Kämpfen gedacht ist. Das ist eine sehr sinnvolle
+Wortbildung. Hingegen ist "Düsenjet" wirklich sinnlos. Schon mal einen
+Jet ohne Düsen gesehen?
+
+Verblüffend: Das Wort ist im Egafa-Ngrams-Korpus tatsächlich erst 1993
+das erste mal aufgetreten. Den Düsenjet hingegen gibt es schon seit den
+40er-Jahren.
+
+	oxenknecht
+
+
+-- 
+   _  | Paul V. Osinga    | Deprecating human carelessness and

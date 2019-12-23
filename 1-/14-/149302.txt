@@ -1,0 +1,7 @@
+Unter einem Gehweg verstehe ich einen Weg, der für den Fahrzeugverkehr
+gesperrt ist. 
+
+Ein Gehsteig hingegen ist ein Teil der Straße, der von der Fahrbahn
+durch eine Gehsteigkante getrennt ist.
+
+	ropertz

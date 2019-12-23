@@ -1,0 +1,16 @@
+Am 02.07.2011, 15:38 Uhr, schrieb Willy Weixel  
+<jbsvgvcu.rxetclxxhe@dbn.de>:
+
+
+Hallo Willy,
+
+es hat mir keine Ruhe gelassen, und da der Fehler wohl nicht
+in Opera lag, habe ich ihn woanders gesucht UND gefunden.
+Es war: ein selbst-definiertes Macro in AllChars, das ein
+Rund-s in einer Frakturschrift ausgeben konnte.
+Ich hab's geändert, jetzt geht's wieder - und das Rund-s
+muß irgend woanders herkommen.
+
+Gruß
+j/\a
+--

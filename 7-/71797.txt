@@ -1,0 +1,9 @@
+Ivan Jeinsen schrieb:
+
+Abgesehen davon kann man 8 Bauern in Figuren verwandeln - also
+gesamt 16 Figuren haben. Mein altes Programm konnte das. Erst bei
+10 Damen blockte es.
+
+Gruss
+
+Jürg

@@ -1,0 +1,14 @@
+Ludger Vollmers wrote:
+
+
+Das sind doch mal Innenseitertips. GVO-Paket ttf-unifont installiert, 
+und schon zeigt KNode zumindest die Runen an (das A noch nicht). 
+
+
+vG
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Lorenz Döhmer über einen Anfängerthread in de.rec.musik.machen)
+-- <http://bdxuwduu.oib> -- Ein Pinguin für jeden: <http://tgenim.lvy/> --

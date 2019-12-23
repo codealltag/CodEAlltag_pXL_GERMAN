@@ -1,0 +1,8 @@
+Ein 1-Bit ist also kleiner und leichter als ein 0-Bit? Könnte sein,
+zumindest ist es schlanker und flutscht leichter durch die Leitung.
+
+	wiesenhöfer
+
+
+-- 
+   _  | Angelo E. Weckel    | Fluch der elektronischen Textverarbeitung:

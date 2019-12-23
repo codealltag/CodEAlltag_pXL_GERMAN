@@ -1,0 +1,7 @@
+Am 08.08.2011 20:28, schrieb Nieckq:
+
+Die Umlaute und das "�" werden beim Alphabet nicht mitgezählt. In der 
+lexikographischen Anordnung wird "�" als Variante von "a" behandelt (in 
+Namenslisten aber als Variante von "ae").
+
+David

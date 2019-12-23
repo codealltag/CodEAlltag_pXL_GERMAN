@@ -1,0 +1,19 @@
+Diedrich Udelhofen schrieb:
+
+N, meint er nicht. "Binär" bezieht sich in meinem Sprachgebrauch
+auf Größen, die ausschließlich zwei Zustände einnehmen können.
+Anders gebraucht habe ich das Wort auch noch nie gehört.
+
+Detlef hat es eigentlich gut auf den Punkt gebracht (auch, wenn
+ich die AZBK-Vorlesung bis zu seinem Posting erfolgreich aus
+meinem Gedächtnis gestrichen habe ;-)):
+"Insofern kann man
+auch beim modulierten Signal durchaus von einem "digitalen Signal"
+reden, weil es jederzeit verlustfrei in ein solches ueberfuehrt
+werden kann."
+
+Das mag ein unsauberer Gebrauch des Begriffes sein, ist aber
+für beschreibende Zwecke durchaus praktisch.
+
+Gruß
+Kay

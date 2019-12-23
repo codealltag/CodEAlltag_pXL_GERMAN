@@ -1,0 +1,7 @@
+… in UTF-8 ist E2 80 A6, also auch 3 Bytes.
+
+    	h"der war aufgelegt"p
+
+
+-- 
+   _  | Bernd M. Ziegelmüller    | Fluch der elektronischen Textverarbeitung:

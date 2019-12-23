@@ -1,0 +1,9 @@
+* Pietro Mittelsteiner:
+
+
+Nein, wir machen hier nicht alle Marotten aller Fachsprachen mit.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

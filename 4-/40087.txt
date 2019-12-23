@@ -1,0 +1,8 @@
+Es hatte aber hinreichend viel von der Leiche übrig gelassen, um sie
+identifizieren zu können?
+
+-- 
+"find /var/spool/news -mtime -1 -print | xargs less" ist technisch
+nicht auf der Hoehe der Zeit.
+Thorsten Waskönig auf die Frage, welchen Newsreader man nicht mehmen
+sollte. (d.a.arnooo, <5hiw2x$wce@cucmlbp.hbwwuvpyv.ks>, 1999-03-13)

@@ -1,0 +1,11 @@
+* Berend Ufferheide:
+
+
+Finde ich nicht - Wolfgang kann es nur entweder so sehen (also genau
+wie Du) oder ähnlich/so ähnlich, aber nicht gleichzeitig (genau)
+so _und_ (nur) ähnlich.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

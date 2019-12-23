@@ -1,0 +1,13 @@
+Alexandre Fersching aber hob zu reden an und schrieb:
+
+"Speicherplatz sparen" ist wohl kaum eine sinnvolle (Schutz-)Behauptung,
+"Faulheit"/"Deppenoptimierung"/"Inkompetenz" schon eher.
+Wenn man wirklich sooo arg auf den Speicherplatz hätte achten wollen,
+hätte man das Jahr als ein(!) Byte (idR 0-255) zur Basis 1901 oder so
+gespeichert...
+
+
+Detlef
+-- 
+       Freiheit stirbt        |       Orlando PRAETOR&F-Bibliothek:
+            Mit Sicherheit    |       http://wcydsqog.bdfdv.ul/

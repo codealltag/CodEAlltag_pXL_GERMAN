@@ -1,0 +1,9 @@
+N, geht auch nicht. "AnwenderInnen" löst sich im Nom, Gen und Akk Plur zu
+"Anwender" auf, nur im Dat Plur zu "Anwendern". 
+
+Der Singular "AnwenderIn" löst sich im Nom, Dat und Akk Sing zu "Anwender"
+auf, im Gen Sing zu "Anwenders". Außerdem müssen dann Bezugswörter angepaßt
+werden. Das wird nur mit aufwendiger Grammatikparserei möglich sein. 
+
+
+vG

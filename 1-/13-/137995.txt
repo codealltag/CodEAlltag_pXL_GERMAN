@@ -1,0 +1,16 @@
+Charles Jaenike wrote:
+
+
+Ah, dann sollte Microsoft vielleicht zukünftig seine Fehlermeldungen
+und Manuals/Hilfetexte nicht mehr von Mathematikern schreiben lassen:
+
+   +-------------------------------------------------[x]-+
+   +-----------------------------------------------------+
+
+Online-Hilfe zum Fehlercode 0xDEADBEEF:
+
+   +-----------------------------------------------------+
+   +-----------------------------------------------------+
+
+
+raphael

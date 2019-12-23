@@ -1,0 +1,12 @@
+Tim Fortschnieder <Frq_vifpra.qxla@nxbsrtiyaar.kz> writes:
+
+
+Richtig. Und?
+
+
+Nein, die gibt es nicht. Und wird auch meines Wissens nirgendwo
+verlangt. Allenfalls maximale Ausfallzeiten oder MTBF. 100% geht
+nicht. Nie.
+
+-- 
+Space - The final frontier

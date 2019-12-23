@@ -1,0 +1,17 @@
+Ich komme auf 33. 
+
+Du weißt es ja sicher selber, es geht um die Bedeutung von "einem". Die
+meisten Elemente steht unter *irgendeinem* anderen, aber maximal ein
+Element steht unter *einem* (bestimmten) anderen. Leider wird das auf
+Deutsch nicht deutlich unterschieden.
+
+"Die Vorsilbe Deka steht für das Zehnfache von einem anderen." Wie das,
+ist nicht fast alles das Zehnfache von einem anderen?
+
+
+Es ist schon richtig, daß Ununbium (auch) Eka-Quecksilber heißt. Eine
+rein extensionale Identität, keine intensionale.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

@@ -1,0 +1,7 @@
+On 6 April, 22:28, Rosi Kather wrote:
+
+REPLACE ("Mädchen";"Kerle")
+REPLACE ("Männer";"Frauen")
+
+Gruß
+T.

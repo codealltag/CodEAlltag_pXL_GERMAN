@@ -1,0 +1,5 @@
+Dein Ausdruck heißt "Ersetze '/nicht' durch '/'". 
+Das unmaskierte "/" hinterm "nicht" trennt Such- und Ersetzungsmuster. 
+
+
+vG

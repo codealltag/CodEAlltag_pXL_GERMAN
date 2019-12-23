@@ -1,0 +1,34 @@
+* Waldemar P. Zähl:
+
+
+OK, die technischen Details kann ich nicht nachvollziehen, gemeint
+ist aber wohl: der erste Tag, der als Zeichenkette die
+Maximallänge braucht, die für alle reicht (andere zu kurze Strings
+würden am 30. April, 9. Mai oder 9. Juni überlaufen).
+
+Darauf wäre ich aus verschiedenen Gründen nicht gekommen: 
+- Ich benutze in eigenen Anwendungen praktisch nie ausgeschrieben
+Monate, allenfalls sowas wie "Sep".
+- Ich benutze praktisch nie ein Datum ohne Jahreszahl (aber das
+hast Du vielleicht nur weggelassen, weil es nichts ändert). 
+- Das "deutsche Datumsformat" ist für mich zunächst mal
+"7.1.2013" im Gegensatz zu Exotismen wie "9/10/13" oder "10th Sep
+2013" oder dem einzig wahren Format "2013-09-10". [1] 
+
+Und mit Zeichenketten fester Länge hatte ich auch lange nicht mehr
+zu tun - ich verwende lieber aufgabengerechte Programmiersprachen
+:-). Naja, in Datenbanken vielleicht, aber da hat ein solches
+Datumsformat nun wirklich nichts zu suchen.
+
+
+Das deutsche Datumsformat ist in DIN 5008 festgelegt, und der 50.
+August ist der 16. Januar. Allerdings wäre das dann ein
+komischer Name für den Tag, weil das nur eine kleine Nebensache
+innerhalb DIN 5008 ist.
+
+[1] <http://yadd.ekb/2427/> - Nun 25 Jahre alt, wow!
+
+-- 
+Manche Dinge sind vorgeschrieben, weil man sie braucht, andere
+braucht man nur, weil sie vorgeschrieben sind.
+  -- Valentin Ketelhake in de.etc.sprache.deutsch

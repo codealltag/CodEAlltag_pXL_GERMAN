@@ -1,0 +1,13 @@
+Christian Vochsen wrote:
+
+
+Das Präfix "www." ist ja keine Pflicht, allerdings muß hinter einem
+Domain-Namen auch kein (Web-)Server stecken.  Daß im vorliegenden
+Fall mit "www." ein Redirect stattfindet, ohne aber nicht, liegt an
+der Arbeitsweise von Klopstocker/DNS, der (internen) Rechnertopologie der
+Domain "purvzujf.kj" und/oder "Apaches" Verwaltung virtueller Hosts.
+Da die Second-Level-Domains (SLDs) "fdx-qusku.qi" und "purvzujf.kj"
+DNS-Aliase sind, tippe ich einfach mal auf letzteres.
+
+
+ludwig

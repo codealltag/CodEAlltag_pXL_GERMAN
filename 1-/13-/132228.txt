@@ -1,0 +1,7 @@
+Am 24.07.2011 12:04, schrieb Linda Theunißen:
+
+Wenn du richtige Redundanzen hast, gibt es keinen Unterschied zwischen 
+den wichtigen 30% und einem "Redundanzpuffer". Die Information erscheint 
+- gern in verschiedener Darstellung - mehrfach.
+
+Karl

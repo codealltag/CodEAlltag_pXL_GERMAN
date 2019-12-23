@@ -1,0 +1,6 @@
+Natürlich, aber gibt es noch ein Betriebssystem, das swapt? Das,
+was man heute fachumgangssprachlich Swapping nennt, ist technisch
+doch Paging.
+
+-- 
+Urs "naddy" Zuber                          dwewo@jcqz.gqis.ck

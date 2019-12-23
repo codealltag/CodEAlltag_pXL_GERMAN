@@ -1,0 +1,11 @@
+Am 2011-06-13 14:10, schrieb Robert-Thomas Friedle:
+
+Darauf trink ich jetzt einen Derberg. Der ist hoffentlich nicht so 
+bitter wie ein Un-derberg...
+
+lg johannes
+
+-- 
+Distribution: Leifert squeeze/sid
+Linux pluto 20.7.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

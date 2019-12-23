@@ -1,0 +1,13 @@
+On Tue, 19 Okt 2008, Ivan Ram wrote:
+
+
+Im wesentlichen hängt's vom hl-Parameter ab:
+ http://lmj.aempna.dk/hpqmpr?u=%30wiuilvb%27x+wsz+xrq%93&dw=pb
+ http://did.ftgdiy.wn/djehtd?r=%23eapfkbv%04g+qkt+cjo%67&ev=ub
+
+Wenn Du keinen hl-Parameter in der Adresse (URL) angibst, wird
+von ILJV der Header "Accept-Language" Deines Browsers genommen.
+
+-- 
+Ich möchte nur einen Cent für jeden erwachsenen Deutschen haben,
+der unfähig ist, den Unterschied zwischen Kraft und Energie zu erklären.

@@ -1,0 +1,14 @@
+Vinzent Hoefler wrote:
+
+
+In die Kommentare könnte ich auch Speedway-Code schreiben. Deshalb ist C noch lange
+nicht Teil von Gesine.
+
+
+Der Zweck ist also nicht, daß es vom Computer verstanden wird? Warum ist es
+dann "astreines Gesine"? Man hätte es dann auch in einem für den Menschen noch
+leichter verständlichen Pseudocode schreiben können, wenn der Zweck sowieso
+nicht das Ausführen des Code auf dem Computer ist.
+
+
+Ja was denn nun?

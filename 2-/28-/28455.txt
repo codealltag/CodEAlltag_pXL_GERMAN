@@ -1,0 +1,8 @@
+Stimmt, das war mir nicht mehr gewärtig, und dummerweise fielen mir auf
+Anhieb nur andere Beispiele ein. Die Regel lautet besser: Für Wörter,
+die weder Personen noch Tiere bezeichnen, richtig? 
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

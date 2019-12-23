@@ -1,0 +1,10 @@
+On Mon, 05. 12. 18 11:50:54 +0800
+
+Wenn es über alle Browser hinweg gleich aussieht, dann kommt auch
+noch das Fehlen eines geeigneten Fonts in Frage.
+
+Auf diesem Rechner hier (Ubuntu 05. 12. 18) sieht im Firefox alles sehr
+ordentlich aus, in Opera sind Diakritika teilweise verschoben.
+
+--=20
+Ihno

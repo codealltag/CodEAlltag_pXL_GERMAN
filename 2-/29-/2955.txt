@@ -1,0 +1,20 @@
+Guido Ho wrote:
+
+
+Mit etwas Arithmetik: Zweckham (Untertürkheim - Otterberg - Hbf).
+
+Oder in Javascript: 
+  with ( Zweckham ) {
+    Untertürkheim;
+    Otterberg;
+    Hbf;
+  } 
+
+Spaß beiseite: Ich pflichte Dir bei, daß "Zweckham" nicht jedesmal 
+erwähnt werden muß. Auch Fahrplanleser sind in überraschend vielen 
+Fällen des Denkens fähig und kommen von selbst darauf, daß das Bad 
+Hunoldstal, in dem ihr Zug vier Minuten nach Zweckham Hbf hält, nicht 
+dasjenige bei Zechlinerhütte sein wird (angenommen, dort läge eines). 
+
+
+vG

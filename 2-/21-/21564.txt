@@ -1,0 +1,15 @@
+The message <li.gp7zv0vb5whffb@5188624766-8404.amrbox.vrlinmvr.zaz>
+from "Karsten Unverhaue" <coezvtndawd@itvkubfb.fmw> contains these words:
+
+
+                                    ^^^^^
+
+
+Es ist anzunehmen, daß diese Methode bei dir nicht klappt weil du UTF-8
+eingestellt hast. 
+Vesuchs mal mit ISO.
+
+-- 
+
+Gruß
+Fridolin

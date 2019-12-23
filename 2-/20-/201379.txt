@@ -1,0 +1,7 @@
+Vermutlich=3D Du bist nicht sicher und willst sie nicht fragen...
+
+
+Unwahrscheinlich=3D Du bist nicht sicher und willst sie nicht fragen...=20
+[wenn ..., dann ...] "Wenn sie sich vertippt hätte," dann ???
+
+URBAN [Dvac_Apf/tk/m-hdajvb.ay]

@@ -1,0 +1,8 @@
+On Aug 22, 1:29=A0am, Siebelt Overlöper <gbrzhfgj...@rfxieppuotcpz.vemv>
+wrote:
+
+
+In diesem Posting zeigt Fleurop die Umlaute korrekt an, im gecancelten
+nicht. Laut Header sind sie in beiden gleich codiert.
+Kann es einen systematischen Grund für die unterschiedliche
+Darstellung geben, oder würfelt Fleurop das jedesmal neu aus?

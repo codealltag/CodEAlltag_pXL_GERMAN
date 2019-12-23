@@ -1,0 +1,32 @@
+* Gian Ulmers <Dyagdg.Ireexm@cdw.nd>:
+
+In den Zeitungen wird das � in allen Eigennamen, auch in Personennamen,
+durch ss ersetzt (NZZ: Grossglockner, Giessen, Menno Kothrade,
+Reinhard Hinrich Gschnaidner).
+
+Auch im Telefonbuch, im gedruckten wie im elektronischen, werden all die
+Gärttner, Westerheide und, hehe, Ho zu Gschnaidner, Windischmann und Knut (mir fallen im
+Moment nur Familiennamen mit � ein, von denen es auch in D die
+Schreibung mit ss gibt. Gibt es auch Namen, die so gut wie
+auschliesslich mit � geschrieben werden?).
+
+
+In Identitätskarte (Personalausweis) oder Pass kann man sich neuerdings
+wohl ein � eintragen lassen. Nach der Verordnung vom Oktober 2010
+(www.admin.ch/ch/d/sr/1/143.111.de.pdf) sind alle IsLetter-Zeichen aus
+iso-8859-1 erlaubt, also auch �, �, � und eben �. Vorher waren nur
+Zeichen zulässig, die es in einer schweizerischen Amtssprache gibt, und
+sehr wahrscheinlich gehörte das � nicht dazu.
+
+
+Im WP-Artikel "�" steht, dass das � in der Schweiz
+
+  mit der Reform von 2007 auch offiziell für den amtlichen
+  Schriftverkehr abgeschafft
+
+wurde. Die angegebene Referenz ist allerdings bloss ein Leitfaden.
+Darin wird beispielsweise angegeben, dass bei der Übernahme von
+EU-Texten oder Texten aus anderen deutschsprachigen Länder die �
+mittels Suchen-und-Ersetzen durch ss zu ersetzen seien.
+
+ - Theo

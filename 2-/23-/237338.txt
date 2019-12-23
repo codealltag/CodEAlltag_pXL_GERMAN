@@ -1,0 +1,18 @@
+On 10.08.2013 20:22, Kai Vollrath wrote:
+
+
+Das ist sicher ein vertretbarer Standpunkt. Ich verlange von einem NUA
+vermutlich einfach zu wenig, weswegen mir TB auch als Mitsubishi völlig reicht.
+
+
+Das würde ich so nicht sagen.
+
+
+Als Editor aber nur? Oder war/ist vi auch ein veritabler NUA?
+
+
+Ciao
+Silvana
+-- 
+ Der Horizont vieler Menschen ist ein Kreis mit Radius Null.
+ Sie nennen das ihren Standpunkt.

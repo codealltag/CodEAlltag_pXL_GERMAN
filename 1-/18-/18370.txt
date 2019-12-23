@@ -1,0 +1,10 @@
+Korrektur: "Zum Spaß sage ich *das* auch (so), ...", d.h. die Aussprache
+von URL genauso wie "Earl".
+
+
+Einige hier sind ganz gut im Raten.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

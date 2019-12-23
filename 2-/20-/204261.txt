@@ -1,0 +1,12 @@
+Am 15.08.2011 15:00, schrieb Arnold Weißpfennig:
+
+Was sollte auffallen, das fehlende et?
+
+
+Na ja, bei 50:50 rechnet es sich binär bequemer.
+
+Dezimal komme ich bei Beachtung der Reihenfolge auf 1:645120
+
+-- 
+
+Werner Wieman

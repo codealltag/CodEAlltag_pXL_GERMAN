@@ -1,0 +1,5 @@
+* On Wed, 18 Dez 2013 08:52:00 +0100, Gebhard Wastl wrote:
+
+
+Bei XFCE auch, das ist schon auf der Ebene des X-Servers in halbwegs
+aktuellen Linux-Distributionen so eingestellt.

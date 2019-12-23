@@ -1,0 +1,5 @@
+Kein Hubschrauber geht von selbst in Autorotation. Es ist nicht wie ein
+Flugzeug, dass sozusagen in den Gleitflug von selbst übergeht.
+Der Pilot muss immer die Autorotation einleiten und hat je nach Muster
+unterschiedlich viel Zeit. Stehenbleiben kann der Rotor bei falscher
+Reaktion immer, es kommt aber extrem selten vor.

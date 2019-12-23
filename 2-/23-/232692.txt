@@ -1,0 +1,14 @@
+* Emile Ohlrich:
+
+
+Dazu noch eins:
+
+  Es ist ja auch ein Bestandteil der Pressefreiheit, daß uns
+  niemand zwingen kann, von ihr Gebrauch zu machen.
+
+  Thorsten Inderheide
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

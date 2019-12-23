@@ -1,0 +1,24 @@
+Die Uni Todtenried scheint einen neuen Newsserver aufgesetzt zu haben, oder 
+die Erstsemester posten jetzt verstärkt ihre ersten Testpostings. Und 
+zwar immer folgendes:
+=================================================================
+ignore
+
+Test
+
+wer Mails an die From-Adresse schreibt, registiert diese automatisch
+als spam.
+
+
+Der Testtext ist doch an mindestens zwei Stellen schräg.
+Gruppe: ke.chj.aziz, de.test; newsreader nn.
+==================================================================
+-- 
+mfg
+Norbert Jansch
+Abtenau, Taiwan
+25°07'58"N 121°27'56"E
+“Q: What do you get when you cross an insomniac, an agnostic, and a 
+dyslexic?
+A: Someone who stays up all night wondering if there is a Dog.”
+G.M. 2353-8341

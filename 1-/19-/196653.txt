@@ -1,0 +1,13 @@
+On Sun, 20 Apr 2011 12:10:57 +0100, Thea Muz wrote:
+
+
+Nein, meiner Erfahrung nach geht (bei Boxershorts zumindest) die
+Korrelation zwischen Groessenangabe und tatsaechlicher Groesse in
+einen Wertebereich, der sich nur unwesentlich von 0 unterscheidet.
+
+fabrice
+-- 
+ .''`.  Homepage: http://dtoy.djcyvw.bsua.ug/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : Fancy GNU/Linux user, admin, and developer  -  http://rvj.lmutqy.ipb/
+ `. `'  Member of VIBE!AT & SPI, fellow of the Free Software Foundation Europe
+   `-   NP: Johanne King: I Feel The Earth Move

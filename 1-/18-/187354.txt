@@ -1,0 +1,15 @@
+Was ist denn hier an Struwwelpeter böse? 
+
+
+Wie meinst du das?
+
+Seit dem ersten Mac OS X (September 2000) ist der "root-Benutzer" in jedem System
+standarm�ssig, allerdings deaktiviert, enthalten.
+Ihn zu aktivieren und mit einem Passwort zu versehen, ist dann ein Leichtes.
+
+
+  ?
+
+
+-- 
+Yvette Oberhaus

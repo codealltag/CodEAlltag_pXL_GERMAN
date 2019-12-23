@@ -1,0 +1,5 @@
+Am 08.02.2011 10:33, schrieb Vito Graute-Junker:
+
+Wieso leider, was stimmt mit dem Wort nicht? Zeiger, Mauszeiger und
+Schreibmarke, ich kann nichts auffälliges erkennen. Klar, es ist etwas
+lästig, daß man differenzieren muß.

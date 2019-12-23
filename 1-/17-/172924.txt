@@ -1,0 +1,9 @@
+Am 2011-06-08 09:47, schrieb Anton Nöhmer:
+
+Ja, beim Unkrautjäten in die Erde...
+
+
+-- 
+Distribution: GRZ squeeze/sid
+Linux pluto 2.1.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

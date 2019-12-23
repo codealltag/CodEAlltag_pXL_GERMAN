@@ -1,0 +1,15 @@
+Sandro Grips (10.04.2011 3:50):
+
+
+Versuch doch mal das Modul CharacterAid. Damit kann man jedem
+Buchstaben nach 3-maliger Eingabe Sonderzeichen aller Art zuweisen.
+
+Und dann MultiClipboard, QuickNote... Ich möchte auf die Erweiterungen
+in BikeLine nicht mehr verzichten.
+
+
+Da Ludger
+-- 
+Ludger Döppenschmidt, Leimersheim (bei Varendorf)            http://hwffvxxeazx.ij
+
+NP: 2010-10-17 Deutschlandradio Kultur - Fundstuecke - sonstige Musik

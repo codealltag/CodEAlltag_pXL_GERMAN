@@ -1,0 +1,5 @@
+N. Ich glaub, mit dem Verweis auf das Flächige im Gegensatz zum
+Linearen komm ich der Sache recht nahe. Es ist ein anderes
+Reihenfolgendenken. Ich glaub, es ist der Mühseligkeit verwandt,
+mit der ich meinen Anwendern die Datenorganisation in der
+Datenbank zu erklären versuche.

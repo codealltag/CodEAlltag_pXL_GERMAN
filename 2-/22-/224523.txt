@@ -1,0 +1,10 @@
+Ulfert Jobstvogt schrieb:
+
+
+Keineswegs, siehe RFC 5536:
+
+
+Ich kann _auf_ Usenet-Artikel verlinken; ich kann _von_
+Usenet-Artikeln verlinken: Das Usenet ist Teil des Web.
+Somit gibt es keinen Grund, Usenet-Artikel von Web-Suchen
+auszunehmen.

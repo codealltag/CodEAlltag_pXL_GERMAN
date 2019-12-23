@@ -1,0 +1,7 @@
+Am 31.05.2011 18:31, schrieb Kai Joedicke:
+
+
+Wieso denn das? Das kann man auch mit HTTP, SCP, SFTP, CIFS und tausend 
+anderen Protokollen.
+
+Pasquale

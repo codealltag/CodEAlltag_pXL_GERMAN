@@ -1,0 +1,11 @@
+Tim Meentz wrote:
+
+
+Das hat schon damals nicht zuverlässig funktioniert:
+
+   A:\>copy *.* b:
+   Write error on drive B:
+   [a]ha  [r]eboot  [i]gnore <lblkv>_</yukeu>
+
+
+benjamin

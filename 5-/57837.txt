@@ -1,0 +1,5 @@
+<studienrat>
+Ganz genau gesagt:
+Die Quersumme ist die Summe der als Zahlen betrachteten Ziffern einer
+mehrziffrigen Zahldarstellung.
+</studienrat>

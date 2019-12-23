@@ -1,0 +1,4 @@
+Hier wird der Vorwurf expliciert.
+Hier werden zwei unabhängige Aussagen aneinandergereiht. Ein Semikolon 
+od. Satzpunkt wäre hier sinnvoller als ein Komma, um die gewünschte 
+Eindeutigkeit zu gewährleisten.

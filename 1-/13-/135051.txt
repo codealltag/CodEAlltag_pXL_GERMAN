@@ -1,0 +1,13 @@
+Silvio Strote wrote:
+
+
+Office ist nicht Teil des APIs (wie auch?), sondern *nutzt* höchstens
+undokumentierte Teile des APIs. Erksnnst Du den Unterschied? 
+
+Bye
+
+  henry
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Dilbert)

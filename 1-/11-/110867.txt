@@ -1,0 +1,7 @@
+In einem Online-Spiel gibt eine mit engl. "share" beschriftete
+Schaltfläche, die in der deutschen Version "teilen" heißt. Man kann
+durch einen Klick darauf entweder Mitteilungen veröffentlichen oder
+anderen etwas von im Spiel errungenen Dingen (wie Treibstoff) abgeben.
+Wenn es nur eine Grafik für den Knopf gibt, was soll der Übersetzer
+machen? "Etwas abgeben" oder "mitteilen" draufschreiben? Dann eben
+"teilen", auch wenn es im Deutschen ungewohnt klingt.

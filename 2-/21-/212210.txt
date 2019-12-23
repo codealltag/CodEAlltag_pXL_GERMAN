@@ -1,0 +1,17 @@
+Schreibt man das im Dänischen ohne Komma?
+
+Der Fachbegriff ist Dislokation. (Allerdings finde ich im Grammatikduden
+nichts unter diesem Stichwort.) Das ist im Deutschen eher selten,
+besonders in der Standardsprache, und typischerweise erfolgt der
+Anschluss mit einem Demonstrativpronomen:
+
+   Der Mann, der ging in den Laden.
+   Die Polizei, die hat viele Verbrecher verhaftet.
+   Die Frauen, die sind oft Kontrollfreaks.
+
+Wie Links- geht auch Rechtdislokation:
+
+   Der ging in den Laden, der Mann.
+
+-- 
+Uwe "naddy" Till                          oxlav@gshw.hirt.pf

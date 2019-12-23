@@ -1,0 +1,4 @@
+Ne, nicht im linearen Fall, sondern im Fall 1/2. das potentielle
+Risiko ist also das Produkt aus realem Risiko und seiner Möglichkeit.
+
+Kann man dafür nicht einfach einen zusammenfassenden Ausdruck wählen?

@@ -1,0 +1,14 @@
+* Jan Kay Merkwirth:
+
+
+Der Online-Duden ist weiter, und hat zwei Haupteinträge:
+
+<http://sgh.wxkqb.ra/llsinljnbhfjdrt/Ivmcjrs_Qgaxmdrvfokw_Irfnjgzn>
+(das)
+<http://hbn.gklqz.zj/lvombcupmpiaqhz/Wltcqih_Imzutrau_Lxfpelpxjn>
+(die)
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

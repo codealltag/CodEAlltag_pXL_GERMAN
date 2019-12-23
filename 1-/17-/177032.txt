@@ -1,0 +1,18 @@
+On 04.04.2012 19:18, Hans Trippmaker wrote:
+
+
+TB bietet dem Anwender an, jeder Kodierung einen ihm genehmen Font
+zuzuweisen. Macht der Anwender davon keinen Gebrauch, wählt TB einen
+'möglichst passenden' Font. Finde ich jetzt nicht weiter tragisch.
+
+So wurde mir hier Helmuts Beitrag (GB2312) in SimSun angezeigt, ebenso
+Timo. Deine Antwort (UTF-8) aber in Dorothee Console. Finde ich klasse so.
+
+
+Ciao
+Josefine
+
+-- 
+ It's ok to grow up.
+ Just as long as you don't grow old. Face it. You're young
+ <Pulp>

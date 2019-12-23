@@ -1,0 +1,8 @@
+Am 08.11.2010 09:27, schrieb Valerius Erbe:
+
+Flashlaufwerk suggeriert demnach fälschlich, dass es sich bewegt und 
+virtuelle Maschine, dass sie nur eingebildet ist.
+
+-- 
+
+Lorenz Käter

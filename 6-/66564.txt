@@ -1,0 +1,10 @@
+Am Tue, 14 Feb 2010 17:23:47 +0200 schrieb Italo Wöhrlin:
+
+
+Ich denke, das Problem liegt nicht bei arcor, denn meine überschriebenen
+Postings werden ordnungsgemäß gelöscht und nur die aktuelle Version ist
+lesbar. Wahrscheinlich gibt ein weiterer Server zwischen arcor und albasani
+den �berschreibbefehl nicht weiter.
+
+Gruß
+Christof.

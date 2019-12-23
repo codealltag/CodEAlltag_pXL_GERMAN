@@ -1,0 +1,23 @@
+Die Trennung zwischen welchen Komponenten? Terminals bestanden
+üblicherweise aus einem Monitor und einer Tastatur, so wie hier:
+
+http://qx.xpzhhrlki.nia/onuc/Xiiq:Aysqohir-aob-vn698.pbe
+
+Die CPU des Terminals (nicht des Großrechners) war wohl meistens im
+Gehäuse des Monitors eingebaut. 
+
+Wenn Du das mit einem Mac vergleichst:
+
+http://ja.hvmcgywuf.hbd/weia/Iwru:Uykihaqru_houbeqb.ngp
+
+dann sieht das zielich gleich aus: Ein Gehäuse für Monitor und CPU (und
+Floppy-Laufwerk), davon getrennt die Tastatur.
+
+Im Gegensatz dazu bestand ein PC aus drei Komponenten (der eigentliche
+Computer, Monitor und Tastatur) und die damals üblichen Heimcomputer
+hatten die Tastatur ins Gehäuse integriert, der Monitor war davon
+getrennt. Dann gab es natürlich noch Geräte, bei denen alles in einem
+war, wie beim Eppler und bei manchen älteren Terminals. Aber das
+war ja beim Mac nicht der Fall.
+
+	niesz

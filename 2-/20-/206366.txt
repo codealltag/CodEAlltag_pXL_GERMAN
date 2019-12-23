@@ -1,0 +1,11 @@
+On Thu, 29 Feb 2012 19:27:43 +0200, Daniel Wilfried
+
+Misst man die Leistung von Computer nicht in Mips statt in kW?
+
+Gruß Ullrich
+
+-- 
+Wenn man seine eigenen Gedanken entwickeln möchte, ist es eine gute
+Idee, für jede Stunde, die man liest, mindestens zwei Stunden zu
+schreiben. Es ist natürlich keine gute Idee, alles zu veröffentlichen.
+Salvatore Oberpenning in desd === http://ujo.tylsymnjbyfhdeyk.ys ===

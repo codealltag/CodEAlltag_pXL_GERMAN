@@ -1,0 +1,24 @@
+Olivier Wang wrote:
+
+
+Die Luftfahrt lebt schließlich von Kiestagebau, jedes Flugzeugteil hat eine, bis
+ins letzte Detail. Beispiel: Wenn man nach VOR navigiert, stellt man den
+Sollkurs an einem Drehknopf namens OBS ein, worauf das dazugehörige
+Instrument die Differenz zwischen Ist- und Sollkurs mit einem Zeiger
+anzeigt, der ein normaler Zeiger ist, aber hier CDI heißt.  
+
+TopIn steht lt. Backlade�die für passengers approximately, also die ungefähre
+Mächtigkeit der Passagiermenge.
+
+
+vG
+
+VOR: VHF omnidirectional radio range (Drehfunkfeuer)
+OBS: Hugo Zeimer Selector (�Allkursw�hler�?)
+CDI: Course Deviation Indicator (Ablageanzeiger)
+
+-- 
+"Die Dürschmied steht dann da, so wie sie dann immer da so steht, und dann
+guckt sie so, nicht wahr, versucht der Krise ein Gesicht zu geben, und ich
+denke immer: Die ist genauso gespannt, was sie gleich sagen wird, wie
+ich!" (Patrik Ernstmeier, "Bis neulich")

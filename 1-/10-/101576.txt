@@ -1,0 +1,16 @@
+On Sat, 29 Mai 2009, Pasquale Isenhöfer wrote:
+
+
+Dann ist es einleuchtend, das auch auf diesen Fall anzuwenden. Diese 
+Monoflexion gibts ja auch sonst, z.B. bei Namen und Titel:
+
+  HerrN Direktor Karsten Tenthoff
+  des HerrN Direktor Karsten Tevs
+  des DirektorS Karsten Tevs
+  Gedecke
+  unsereS lieben Karsten
+
+wo immer nur eine kleine Auswahl der Wörter flektiert wird.
+
+-- 
+Tobias Rittereiser

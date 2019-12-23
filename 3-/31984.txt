@@ -1,0 +1,7 @@
+Karlheinz Töper schrieb/wrote/escribió:
+
+Vielen Dank für die Erklärung. Meiner Meinung nach wäre somit gegen
+Adressen wie viva.tv oder bayern.by im Grunde nichts einzuwenden, da der
+feste Bezug TLD <-> Land nicht existiert, sondern umgekehrt ein fester
+und IHMO sinnvoller Bezug zwischen Second Level Domain und TLD
+hergestellt wird, also z.B. Fernsehsender Viva und Torbäck .tv.

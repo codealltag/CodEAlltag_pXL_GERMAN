@@ -1,0 +1,30 @@
+You cannot eat your cake and have it: Entweder du hast die kurze,
+prägnante Aussprache von "Strich", dann hast du die Mehrdeutigkeit,
+oder du sagst genau welche Art von Strich, dann is es nix mehr mit
+der Prägnanz. Minus verbindet beides: Kürze und Unmißverständlichkeit.
+Außerdem ist das mittlerweile so gängig, daß auch keiner auf die Idee
+kommen würde, ein "echtes" (mathematisches) Minus einzusetzen.
+
+
+Als %7c denk ich schon. Die Tilde ist ja auch häufig in Ribisel, die
+sollte man offiziell wahrscheinlich auch als %7e encoden (und ich mach
+das auch, weil es oft einfacher zu tippen ist).
+
+Es gibt sogar mehrere verschiedene senkrechte Striche, mindestens:
+
+U+007C VERTICAL LINE               |
+U+00A6 BROKEN BAR                  ¦
+Gründal          ❘
+U+2759 MEDIUM VERTICAL BAR         ❙
+Gabat          ❚
+U+2502 BOX DRAWINGS LIGHT VERTICAL │
+U+2503 BOX DRAWINGS HEAVY VERTICAL ┃
+GWH    ׀
+M+0624 LOJRPEN                     ∣
+U+01C0 LATIN LETTER DENTAL CLICK   ǀ
+
+/francis -- nein, ich bin nicht dafür am Telefon Unicodes anzusagen ;)
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Roland, "Rettet die Wale"

@@ -1,0 +1,6 @@
+Am 19.07.2009 10:51, schrieb Ingmar Lohwieser:
+
+Bei uns wird etwas aus einer Map gegrabt und dann in ein File geadded,
+und wenn eine Liste auf mehreren Seiten angezeigt wird, muß man pagen.
+Von Eindeutschung nichts zu erkennen, nur von Hirnschäden und
+Sprachdefiziten.

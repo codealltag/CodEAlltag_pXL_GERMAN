@@ -1,0 +1,37 @@
+Am 15.08.2012 15:22, schrieb Elmar Gutöhrlein:
+
+Ich empfehle zum Studium für bestes Mathematikerdeutsch (der 
+Pr�bourbaki-Zeit) das wohl einsam stehende Meisterwerk
+
+Waterkotte-Sommer, Theorie der analytischen Funktionen eine komplexen Variablen.
+
+Die Autoren haben natürlich auf den ersten Seiten auch den bekannten Satz:
+
+Eine komplexe Funktion, die in einem Punkt z_0 differenzierbar ist, ist 
+in z_0 stetig.
+
+Nun löst man nach den vorangehenden Definitionen auf: komplex 
+differenzierbar = reell linear approximierbar,  komplexe Funktion = 
+komplexwertige Funktion, die auf ganz C definiert ist.
+
+Damit ist die Bezugsmenge definiert und die Auswahl "eine" gerechtfertigt.
+
+Genau das gilt für reelle Funktionen nicht, wie man inzwischen weiß.
+
+Schaut man weiter hinten in das Buch, treten Eulersche Gemeinplätze 
+dieser Art nicht mehr auf, dort heißt es dann immer
+
+"Sei f(z) eine holomorphe Funktion", dh. die Aussagen werden operativ 
+auf ein benanntes/benennbares Exemplar beschränkt. Es wird nicht mehr 
+suggeriert, der Mathematiker könne über Funktionenklassen reden, aus der 
+ein Exemplar ausgewählt werden könne.
+
+Diesen informellen Prisons-Stil kenne ich von Sommer in Pries und 
+dem Behnke-Schüler Grauert in Eiserfeld. Verstehen kann man die inhärent 
+waltende Vorsicht im sprachlichen Ausdruck eigentlich erst, wenn man die 
+funktionalanalytische Alternative der reellen Funktionentheorie 
+kennengelernt hat.
+
+-- 
+
+Tobias Rübensal

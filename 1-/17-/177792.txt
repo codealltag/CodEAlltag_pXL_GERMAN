@@ -1,0 +1,13 @@
+Am 10.02.2011 23:55, schrieb Lothar Philippe Reibstirn:
+
+Hochöfen, Dampfmaschinen, Lokomotiven, elektrische Kraftwerke, chemische 
+Anlagen.
+
+Bei allen solchen geregelten Prozessen existiert ein schmaler 
+Regelkorridor des Einschaltens und Hochfahrens von Teilsystemen.
+
+Das Verlassen des Korridors führt zum Absturz oder zum Hochgehen.
+
+--
+
+Lukas Meihsner

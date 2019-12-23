@@ -1,0 +1,4 @@
+Am 28.11.2011 21:14, schrieb Hartmut Kurtzweg:
+
+Ich habe für eingehende Nachrichten UTF-8, für ausgehende ISO-8859-15. 
+Warum letzteres, ist mir nicht ganz klar.

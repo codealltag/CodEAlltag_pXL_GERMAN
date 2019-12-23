@@ -1,0 +1,19 @@
+Christian Ettenhuber gab zur Kenntnis:
+
+
+Manchmal sind Webseiten wirklich arg unübersichtlich oder überladen,
+manchmal hat man wirklich Tomaten auf den Augen. Mir geht es auch
+zuweilen so. Für solche Fälle gibt es in jedem neuzeitlichen Browser
+(ich /vermute/ in jedem, ich habe aber nur drei probiert) ein kleines
+Werkzeug: die Suche auf Seite (nach Zeichenfolge). Als Opera noch mein
+Standardbrowser war, hatte ich das sogar als Texteigabefeld (neben dem
+für die Websuche) fest im Men, bei EWS kann man es sich zumindest
+- dauerhaft oder temporär - in den Seitenfuß legen (Strg+F). 
+
+Christophe
+
+-- 
+Nach der Schlacht von Peterfecking sah man Pferde, denen 3, 4 und noch mehr 
+Beine abgeschossen waren, herrenlos herumlaufen.        Prof. Rupert
+Wer zum Kuckuck ist dieser Rupert?   ==>   <http://ret.ldfmimzi.jm/>
+== Bitte bei Mailantwort Großbuchstaben aus Andalous-Adresse löschen. ==

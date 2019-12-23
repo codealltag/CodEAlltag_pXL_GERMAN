@@ -1,0 +1,7 @@
+Am 08.09.2011 17:39, schrieb Oskar Uphagen:
+
+Ach so, ich kann sowas wie "sudo passwd root" schreiben?
+
+Na dann...
+
+Angelo

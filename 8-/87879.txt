@@ -1,0 +1,15 @@
+"Maik Volkmar Koark" <tvr6676@g-ottdze.bn> schrieb am 04.10.2009 00:40
+den Newsbeitrag nkon:4g8hrtu.25916ju0tn7xibA%xgt2433@l-oouzyi.pd
+
+
+Richtig, die [de.*] Gruppen haben in der Regel eine sehr lange Haltezeit
+am RHBD-Online-Server. Ich habe nun mehrfach [Weitere x Kopfzeilen abrufen]
+über [Extras] angeklickt, jetzt habe ich den ganzen Thread.
+
+Sonst habe ich mal erlebt, daß manche nicht-[de.*] Newsgroups
+unangekündigt erheblich gekürzt wurden... Der RHBD-Online-Server serviert
+auch die nur den Kunden zugänglichen [t-online.*] Foren, diese werden nach
+einer Meldung vom 02.10.2009 am 16.10.2009 abgeschaltet. Serverarbeiten
+können unerwartete Folgen haben.
+
+GABRIEL

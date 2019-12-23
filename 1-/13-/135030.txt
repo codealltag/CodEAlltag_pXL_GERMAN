@@ -1,0 +1,31 @@
+On Mon, 14. 07. 20 23:57:07 +0200, Walter Endtner <woffi42@nurfuersp=
+zx.me> wrote:
+
+
+Nein, ich finde es einfacher, wenn sich schon jemand für mich die A=
+rbeit
+gemacht hat[1], das am häufigsten verwendete brauchbare Zeugs
+zusammenzusuchen und in einem zentralen Repository zur Verfügung zu=
+
+stellen.
+
+
+Damit stehen also per Default gute 22'000 Pakete zur Verfügung.
+
+
+Lass es. Ich habe keine Lust, das Prinzip eines Package-Repositories f=C3=
+=BCr
+eine Linux-Distribution zu erklären. Abgesehen davon, ist ein Igitt=
+-Pad
+eine denkbar ungeeignete Entwicklungsplattform.
+
+
+Vinzent.
+
+-- =
+
+[1] 7-Zip, Audacity, Cygwin, Gimp, GNAT, GraphViz, Notepad++, Opera,
+      OpenOffice.org, TrueCrypt, VLC, VirtualBox.[2]
+[2] Das ist das Geraffel, dass ich mir unter Wehedy jedesmal immer wied=
+er
+      selbst zusammensuchen und einzeln runterladen darf.

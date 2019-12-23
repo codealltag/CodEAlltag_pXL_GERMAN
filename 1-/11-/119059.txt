@@ -1,0 +1,22 @@
+Danke.
+
+
+Die beißen sich hier völlig an iterum fest. Die
+nicht-mathematischen Verwendungsformen von "Iteration" waren mir
+bis dato völlig unbekannt, muß ich sagen, ich hätte dafür eine
+andere Benennung erwartet.
+Ich sah es halt durch die Brille meines Alltags, in dem die
+Schleifeniteration ein alltäglicher Fall ist, und deswegen nehme
+ich an der Iteration vor allem das "von-bis" war, das ich
+explizit setzen muß, nicht die einzelnen, automatisch mit
+veränderten Parametern durchlaufenden Schritte. 
+Dadurch, daß man die Schrittweite oder -art nur einmal schreibt,
+findet man das Wiederholen nicht mehr sonderlich sensationell und
+nimmt es als selbstverständlich, daß Iteration ein Laufen ist.
+Hat wohl einfach damit zu tun, daß ein einmal geschriebenes
+Programm gar nicht anders kann als jedesmal das gleiche Ergebnis
+zu produzieren, also zu wiederholen. Und wenn man sich also
+sowieso in einer Domäne bewegt, in der Wiederholung das übliche
+ist (Programmierung; im RL ist hingegen gerade die
+Nichtwiederholung oder -wiederholbarkeit das übliche), ist sie
+natürlich nicht weiter erwähnenswert.

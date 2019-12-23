@@ -1,0 +1,15 @@
+Berend Isenthal wrote:
+
+
+Jau -- endlich kannst Du Ähen und ß-en wie weiland Guys Täschner!
+Und wie schwer konformes Posten MS/OjE fällt, erkennt man leicht an:
+
+   Content-Type: text/plain;
+        format=flowed;
+        charset="Windows-1252";
+        reply-type=original
+
+UTF oder ISO sind der Redmonder eben nicht würdig...  8-/
+
+
+carlos

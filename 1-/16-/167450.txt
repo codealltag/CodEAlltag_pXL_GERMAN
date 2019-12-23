@@ -1,0 +1,8 @@
+On Mon, 8 Okt 2011 20:33:27 +0200, Inger Buchard wrote:
+
+
+Das Posting sollte so eine Headerzeile enthalten:
+
+Content-Type: text/plain; charset=UTF-8
+
+Da steht aber nur:

@@ -1,0 +1,13 @@
+* Horst Förstmann <lispamateur@crommatograph.info>:
+
+
+Es *war* das Java-Maskottchen zur Zeit von Java 1.1 so um 1999
+rum, als man Java als die zukünftige Sprache für browserbasierte
+Programme (Applets) ansah. Das ist heute eine Sub-1%-Nische in der
+Java-Programmierung.
+
+Der Name "Duke" war mir übrigens entfallen, ich musste ihn mir erst
+wieder in Erinnerung googeln. Das aktuelle Javatassenlogo ist auch
+schon das zweite, vorher war die Tasse so ein Kugelschreibergekritzel.
+
+ - Francis

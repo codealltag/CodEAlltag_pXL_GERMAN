@@ -1,0 +1,15 @@
+Lutz Stahlmann wrote:
+
+
+Fast. Ein Knoppix-Installationsdialog bietet bei der Eingabe der 
+Paßwörter die Option "Fellschreiben" an, eine wunderbar fulminante 
+Verdeutschung des - ich vermute - "hide typing" in der englischen 
+Version. 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://vshumfyn.lvf>

@@ -1,0 +1,10 @@
+Thorsten wrote:
+
+
+Ich habe keine "default-Kodierung", erst recht nicht in den Sprachgruppen. 
+Bei Rosina fehlt die Deklaration des Zeichensatzes.
+
+Gilbert
+
+-- 
+My jsme Borgové. Sklopte štíty a vzdejte se. Odpor je marný.

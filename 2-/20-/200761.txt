@@ -1,0 +1,14 @@
+Meine Rechenmeister dachten offenbar praktischer: Häufig kam
+man mit einer Klammerebene aus; da wählte man das Zeichen, das
+am schnellsten und einfachsten zu malen war, also (). Wenn's
+denn schon mal komplizierter werden mußte, dann nahm man die
+nächst einfache Klammer Ecke oben Ecke unten []. Und falls ein
+ausschweifender Klammer-Exzess unvermeidlich wurde, dann zwang
+man sich auch die geschweifte Klammer noch ab {}.
+
+Die Computer-Programmisten sehen das heute eh entspannter: Das
+Auszählen verschachtelter Ebenen übernimmt der Compiler, und
+die Ecken und Schweife übermitteln je eigene Informationen.
+
+j/\a
+--

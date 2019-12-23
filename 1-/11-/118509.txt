@@ -1,0 +1,24 @@
+Du sagst es.
+Aber "nicht vorhanden" acdehhinnnortv
+und "unumkehrbar"      abehkmnrruu
+sind, ob verschlüsselt oder nicht, gar zu verschieden sowohl
+im Zeichensatz als auch in der Bedeutung. Die solltest Du also
+lieber nicht gleichsetzen oder verwechseln.
+
+
+Mindestens so vorhanden wie die Botschaft Deines Satzes "Nein,
+sie ist nicht mehr vorhanden."
+
+Wie aber soll ich jetzt den Makro-Zeichen-Vorrat DIESES Satzes
+entschlüsseln?
+   Nein, sie ist nicht mehr vorhanden.  ? Oder
+   Sie ist nicht mehr vorhanden. Nein!  ? Oder
+   Vorhanden? Nein, ist sie nicht mehr. ? Oder
+   Vorhanden? Sie? Nein, ist nicht mehr. ? Oder
+   Mehr vorhanden ist sie nicht, nein.  ? Oder noch ganz anders?
+
+Ich werde wohl etwas wie einen kommutativen Mittelwert decodieren.
+Dann liege ich hoffentlich nicht ganz falsch.
+;-)
+j/\a
+--

@@ -1,0 +1,13 @@
+On Sun, 18 Nov 2007 22:08:10 +0200, Ivano Verhaeg wrote:
+
+
+Du übersiehst dabei aber scheinbar den Fakt, dass sich das, wenn
+er schneller einen neuen Kunden gewinnt, in /mehr/ zusätzlicher Kohle
+niederschlägt.
+
+Mal anders ausgedrückt, wenn ich die Funktion "Weg * c1 + Standzeit * c2"
+für "c1 >> c2" in gegebener Zeit auf einen Maximalwert bringen möchte,
+kümmere ich mich doch lieber um die Maximierung von "Weg".
+
+
+Vinzent.

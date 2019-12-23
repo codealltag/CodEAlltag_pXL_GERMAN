@@ -1,0 +1,8 @@
+Am 17.04.2012 19:21, schrieb Kai Rosentritt:
+
+Aber um das ins URL-Feld einzugeben, muss ich die Leerzeichen manuell 
+rauspopeln.
+
+Gut, man kann sich schnell eine "App" dafür schreiben...
+
+Carsten

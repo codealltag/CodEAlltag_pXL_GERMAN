@@ -1,0 +1,8 @@
+Ottmar Gschöderer (in de.etc.sprache.deutsch):
+
+
+Wie manns nimmt. Wenn er auf iso-Dingsbums eingestellt ist, dann rät er halt
+zufällig richtig. Das halte ich für einen Feature, das ich gern auch in
+utf-8 hätte.
+
+Bruno

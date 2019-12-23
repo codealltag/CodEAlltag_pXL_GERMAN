@@ -1,0 +1,19 @@
+Ueli Uedelhofen wrote:
+
+
+<voice mode="krächz">
+  Sehr verehrtes Zugpersonal am Gleis 2 - der Fahrgast Winfried Wengert
+  aus A-stetten zur Weiterfahrt nach N-hausen, planmäßige Abfahrt sieben Uhr 
+  vierundfünfzig, ist heute voraussichtlich sechzig Minuten verspätet. Wir 
+  bitten um Ihr Verständnis.
+</voice>
+<ausfahrtsignal color="red" duration="3600" />
+
+
+vG
+
+-- 
+               "Du weisst, daß du eine Sprache nicht kennst,
+            wenn sie nach ROT13 immer noch aussieht wie ROT13."
+                    (Fredy Iserlohe in de.alt.arnooo)
+-- <http://tmqqdbhm.dfb> -- Ein Pinguin für jeden: <http://hhuwqu.vcr/> --

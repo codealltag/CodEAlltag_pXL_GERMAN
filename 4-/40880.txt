@@ -1,0 +1,15 @@
+On 17.02.2009 16:14, Patrick Oostman wrote:
+
+
+Im Gegensatz zum From: wird Reply-To: aber nicht im sogenannten x-over
+übermittelt, gehört also nicht zu den Headern, die vor dem eigentlichen
+Beitrag vom Newsserver geladen werden. Häufig werden aber nur die von
+Spammern ausgewertet.
+
+
+Ciao
+Eva
+-- 
+Welcome to slavery!
+No, thanks, I already have a wife.
+[Kurt Unverricht / From Dusk till Dawn]

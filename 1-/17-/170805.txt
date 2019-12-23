@@ -1,0 +1,17 @@
+In der Druck ausgabe des Hambureger Abendblatts (zum Thema Ingensandt-
+Wullers) fand ich heute den folgenden Satz:
+
+"Ein 32-jähriges Zimmerm=E4dchern aus Guinea hatte den Ermittlern ...
+erzählt, was der ... Franzose ihm angetan haben soll."
+(HA, vom 24. 5. 2011, S.6,)
+
+Ich halte diese Art indirekter Rede für falsch.
+
+Entweder:
+"Ein 32jähriges Zimmerm=E4dchern aus Guinea hatte den Ermittlern ...
+erzählt, was der ... Franzose ihm angetan habe"
+Oder:
+"Einem 32j=E4hrigenZimmerm=E4dchen soll der Franzose ... angetan haben."
+
+Gruß
+Danielle

@@ -1,0 +1,22 @@
+Am 31.07.2010 06:16, schrieb Meinhard Niebauer:
+
+Das Löschen fremder _Diskussionsbeitr�ge_ (und das würde dem 
+Fremdcanceln am ehesten entsprechen) ist nur in Ausnahmefällen 
+statthaft. (Außer auf der eigenen Benutzer-Diskussionsseite, auf der ist 
+man Chef). Sogar Rechtschreibfehler anderer Diskussionsbeiträger sollen 
+nicht korrigiert werden.
+
+Reverts von Änderungen in Artikeln haben im Usenet keine richtige 
+Parallele, da es ja keine im Usenet keine Artikel gibt, an denen man 
+gemeinsam arbeitet. Solche Reverts sollen eine sachliche Begründung haben.
+
+Leider gibt es in der deutschen WP für User mit ein wenig Erfahrung 
+(sogenannte "Sichter") eine technische Funktion, die das Revertieren 
+mehrerer aufeinanderfolgender Beiträge eines Benutzers erlaubt, und das 
+ist dann kommentarlos. Leider ist diese Funktion leichter zugänglich als 
+die normale Revertierungsfunktion, und selbst sehr erfahrenen Benutzern 
+passieren so immer wieder kommentarlose Reverts, mit denen sie ggf. 
+Neulinge vor den Kopf stoßen. Dieser Missstand wird immer wieder mal 
+diskutiert, aber leider von vielen nicht als gravierend empfunden.
+
+Diedrich

@@ -1,0 +1,12 @@
+Ren aber hob zu reden an und schrieb:
+
+Unsinn.
+Das "title"-Attribut des Bildes sollte auftauchen.
+Das "alt"-Attribut ist nicht dafür gedacht, auch wenn das einige Browser
+anders sehen/sahen.
+
+
+Patrice
+-- 
+       Freiheit stirbt        |       Mario ZIEPEL&F-Bibliothek:
+            Mit Sicherheit    |       http://sfwoeprv.seula.xs/

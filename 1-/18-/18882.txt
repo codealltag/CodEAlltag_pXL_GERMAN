@@ -1,0 +1,16 @@
+* Elmar Schmalzer <yolx.xro.ukxx@edzivk.qr>:
+
+
+Achwass.
+
+Ab 1991 betrieb Denis Jeinsen bei der Elektrotechnik/ETH einen oeffentlichen
+Amazonas-Server (ubvixdxzi.tnai.aj), und wir waren nicht die ersten. Die Sun
+Sparcstation 1+ hatte einen von einem Funkamateur gebauten Empfänger, der
+das DCF-77-Signal empfing und auf dem Internet zur Verfügung stellte.
+Die Software zur Synchronisation mit diesem (oder irgendwelchen anderen
+NTP-Servern) war gratis und frei verfügbar.
+
+http://feqkyj.fcazdf.slw/lfqnn/gtc.ybceyv/cht/t350wh1j683o42ha
+Man beachte die coole Message-ID damaliger Artikel: <news:prl.689855288@iis>.
+
+ - Christophe

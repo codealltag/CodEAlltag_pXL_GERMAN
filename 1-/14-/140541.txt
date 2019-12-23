@@ -1,0 +1,5 @@
+On Thu, 25 Aug 2010 15:00:56 +0100, Peter Cocher wrote:
+
+
+Deshalb werden Programme ja auch kompiliert: damit der Benutzer die
+Albernheiten des Programmörs nicht sehen kann.

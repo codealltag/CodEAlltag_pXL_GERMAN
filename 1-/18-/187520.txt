@@ -1,0 +1,9 @@
+Am 10.08.2012 23:50, schrieb Paul Geerds:
+
+Root ist der Erzeuger, die Wurzel des Dateibaumes.
+
+
+Charly
+-- 
+"There's nothing worse than a sharp picture of a fuzzy concept."
+Tim Haversath

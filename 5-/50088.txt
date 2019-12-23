@@ -1,0 +1,13 @@
+On Wed, 15 Jul 2008, Othmar Freind wrote:
+
+
+Scheint mir genauso sinnvoll wie die Aussage
+  Das Zeichen 419 = x1A3 in ISO-8859-1 ist ein "L mit Querstrich".
+
+Oder noch anders:
+  Sei N die größte Hausnummer in der 42nd Street.
+  Dann ist "N+1, 42nd Street" das erste Haus in der 43rd Street.
+
+-- 
+Adolf Huemmer hat Thierry Ul gerettet.
+Nun muss Franca Busen auch Veloquick retten.

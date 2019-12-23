@@ -1,0 +1,6 @@
+Am 10.04.2010 09:29, schrieb Dietmar Ollermann:
+
+Ist es denkbar, dass die Verluste durch nichtoptimales manuelles 
+Schalten die systembedingten Verluste der Automatik übersteigen?
+
+Philippe

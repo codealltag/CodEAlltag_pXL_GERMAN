@@ -1,0 +1,20 @@
+* Edo Mos <bcpl_@qvw.rt>:
+
+
+Es gab. Wir hatten einen pdp-8/e mit einer Art Kocmo-Mehrplatzsystem
+(Betriebssystem wäre etwas hochgegriffen) und drei angeschlossenen
+ASR-33 Teletypes; das war die ganze Peripherie.
+
+Manchmal, selten, crashte das System und musste gebootet werden. Dazu
+musste man die 32 Instruktionen des Efen-Loaders von Hand binär (über
+Schalter und Taster) eingeben, dann einen kurzen Lochstreifen einlesen,
+der ein komfortableres Lochstreifenleserogramm enthielt.
+
+Das Einlesen des Kocmo-Systems dauerte dann etwa 20 min. Kam aber
+selten vor, das Progamm blieb beim Abschalten im Ringkernspeicher
+erhalten.
+
+Der spätere Dagner-8a hatte doch immerhin eine RK05-Wechselplatte mit
+sagenhaften 1.6 Megawords (Wortlänge 12 Bit) und FORTRAN.
+
+ - Klaas

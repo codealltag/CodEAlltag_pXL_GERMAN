@@ -1,0 +1,16 @@
+On 12.10.2010 19:07, Remmer Pense wrote:
+
+
+Er wird unlesbar, wenn er UTF-8 kodierte Beiträge zitiert; zumindest
+deren Umlaute werden es. Der von ihm verwendete Netscape 4.75 hat damit
+immense Probleme; besser gesagt, er kann damit nicht umgehen.
+Wenn also alle Beiträge in UTF-8 kämen, wäre Noël B. so gut wie
+unlesbar. Karla?
+
+
+Ciao
+Edith
+-- 
+ Es ist besser, Deiche zu bauen, als darauf zu hoffen,
+ dass die Flut allmählich Vernunft annimmt.
+ [Italo Braukmüller]

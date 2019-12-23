@@ -1,0 +1,7 @@
+Carl Zintgraf wrote:
+
+
+Stimmt. Probleme mit L = {} gibt es aber in der Tat zur Genüge.
+
+Gruß,
+Raphaël

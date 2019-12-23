@@ -1,0 +1,9 @@
+In einer HTML-Email? 
+
+    <p>viele Größe <span style="background-color: #FFF">und Küsse</span><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dein Reinhard
+    </p>
+
+
+-- 
+   _  | Reinhard A. Landtreter    | Fluch der elektronischen Textverarbeitung:

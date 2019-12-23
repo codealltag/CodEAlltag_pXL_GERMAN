@@ -1,0 +1,10 @@
+mock tat kund:
+
+
+Rechnerisch stimmt das natürlich. Wenn im Katalog
+5 Liter stehen und der Verbrauch 6 Liter (also + 20%)
+beträgt, wird die wirkliche Klimabelastung 6 Litern
+entsprechen. Die Prognose "5 Liter" ist also um ein
+Sechstel zu niedrig.
+Absolut ist die Differenz zwischen den beiden
+Formuulierungen aber nur knapp 3,5%.

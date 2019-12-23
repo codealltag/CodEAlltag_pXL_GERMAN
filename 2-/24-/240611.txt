@@ -1,0 +1,14 @@
+On Sat, 31 Mrz 2013 05:05:00 +0200, Erwin Iblherr <ce@llalbyq.ndd>
+wrote:
+
+
+Imap macht aber jedesmal einen Abgleich mit dem Server. Aber lassen
+wir das, das führt zu weit.
+
+
+Gruß Fredy
+
+-- 
+Contrary to public opinion Germans do not know 
+everything, they just know everything better"                                                              
+   === http://qga.upgtevirczoecefz.pr ===

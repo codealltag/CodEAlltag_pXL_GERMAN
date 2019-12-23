@@ -1,0 +1,7 @@
+"Othmar Tilges" schrieb:
+
+Unicut findet nur Wörter, den komplexen Aufbau eines Satzes nach
+dem logischen Aufbau der Schrift kann eine Suchmaschine doch gar-
+nicht erfassen. (Juristen offensichtlich auch nicht...)
+
+Orlando

@@ -1,0 +1,8 @@
+On Thu, 8 Feb 2009, Olaf Aichelsreiter wrote:
+
+
+Habe jetzt "zähmen" aus dem Parallelthread und ein zwei wqeitere 
+Vorschläge aus der Fangemeinde ergänzt.
+
+-- 
+Olaf Aichelsreiter

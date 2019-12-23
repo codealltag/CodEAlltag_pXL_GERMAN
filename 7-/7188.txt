@@ -1,0 +1,12 @@
+Hugo Oellers (Sat, 26 Feb 2009 23:59:35 +0200):
+
+
+Dir sei vergeben.
+
+
+Da Fred
+-- 
+Fred Traeger, Dudensen (bei Crispendorf)                http://ozrifym.me
+    gibt es irgendwo eine Liste von Servern mit dazugehöriger IP ?
+ Ich möchte mir einen DNS einrichten und bräuchte dazu noch ein host-
+       file. (Christophe Puttschneider, de.comm.internet.misc, 21.10.2002)

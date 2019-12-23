@@ -1,0 +1,6 @@
+^^^^
+         ^^^^                            ^^^^^^
+
+FAP kann (noch) das gesprochene Wort nur unzureichend erfassen.
+
+	zichaus

@@ -1,0 +1,32 @@
+On Sun, 14 Nov 2009, Roger Ram wrote:
+
+
+Man kann ja auch die Aufgabe präzisieren und dann lösen, allerdings nicht 
+als Siebtklässler. Etwa so:
+
+Aufgabe:
+
+  Kann das stimmen?
+  Weil Waltraude beim 100-m-Lauf schneller als Toni ist und Charly langsamer als 
+  Wilhelmine ist, ist Wilhelmine beim 100-m-Lauf langsamer als Waltraude."
+
+Antwort:
+
+  Es ist gegeben, dass Waltraude schneller als Charly und Charly langsamer als 
+  Wilhelmine. Daraus folgt nichts darüber, ob Wilhelmine schneller, gleich schnell 
+  oder langsamer ist als Waltraude.
+
+  (Außerdem ergibt sich ja schon aus PC-Gründen, dass der männliche 
+   Wettkampfteilnehmer beiden weiblichen unterlegen sein muss.)
+
+  a) Falls sich die Frage "Kann das stimmen?" auf die Richtigkeit des 
+     Schlusses "Weil ..." bezieht, so ist dieser nicht richtig und die 
+     Frage zu verneinen.
+
+  b) Soll sich die Frage dagegen auf die Möglichkeit beziehen, dass die
+     dargestellten Konstellation eintritt, so ist sie zu bejahen. (In 
+     diesem Fall wäre die Frage allerdings nicht nur verwirrend gestellt, 
+     sondern falsch.)
+
+-- 
+Niklaus Armbruster

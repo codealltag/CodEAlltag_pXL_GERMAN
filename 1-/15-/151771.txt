@@ -1,0 +1,5 @@
+Du kennst "Programmieren in C" (Kernighan/Ritchie, deutsch, 1. Aufl.)
+nicht? Ein in seiner damals noch unvertrauten Getrennt Schreibung
+geradezu visionäres, Zukunfts weisendes Werk.
+
+/Fred

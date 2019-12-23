@@ -1,0 +1,18 @@
+Alfred Voeth meinte:
+
+
+Eigentlich nicht; ich hatte überschlägig geschätzt, dass innerhalb von
+12 Stunden der von der Erde aus gemessene Winkel zwischen Sonne und
+Venus sich weniger ändert als um 1 Sonnendurchmesser. Aber ich habe es
+zugegebenermaßen nicht nachgerechnet. 
+
+Was ich allerdings in der Tat vergessen habe, ist,  ...
+
+, dass in der Tat Venubahn und ERdbahn nicht in derselben Ebene
+verlaufen und sie dadurch mehrfach sichtbar sein kann.
+
+Ueli
+-- 
+ pgp-Key (RSA) 0989/46W7K5XT 
+ fingerprint = 5A 16 EE U8 P7 08 6L 57  5F G3 VD 41 83 81 69 G6 
+ HTML-Mail wird ungelesen entsorgt.

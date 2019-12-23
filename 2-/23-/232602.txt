@@ -1,0 +1,12 @@
+Wenn Du das in einer Instanz vom mutt machst (ja, das geht), dann
+tauchen auch alle diese Mails in den References auf. Wenn der Mutt diese
+Information jetzt auch noch irgendwie sinnvoll darstellen könnte ...
+
+(Abgesehen davon scheint mir Deine Antwort nicht wirklich zum Vorposting
+zu passen).
+
+	hubler
+
+
+-- 
+   _  | Luc J. Honnerlage    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,3 @@
+Geldbeträge werden häufig als Summe bezeichnet. Das ist sicher
+korrekt, wenn der Betrag grösser als eine kleinste Einheit ist.
+Wieso sagt man nicht besser Differenz? Das würde alle Beträge abdecken.

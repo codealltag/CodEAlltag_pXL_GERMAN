@@ -1,0 +1,23 @@
+Ursprünglich wurde der Begriff "Jail" im Zusammenhang mit chroot
+verwendet. Dabei wird für einen Prozess das Root-Directory geändert,
+dieser Prozess sieht also nicht mehr das gesamte Filesystem, sondern nur
+mehr einen Aussschnitt. Innerhalb dieses Bereichs gelten weiterhin die
+üblichen Permissions, aber alles was außerhalb ist, ist schlicht
+unerreichbar, auch für root (allerdings ist es für root trivial, aus dem
+Jail auszubrechen).
+
+Moderne unix-artige Systeme haben meist erweiterte Möglichkeiten, Jails
+einzurichten, die sich auch auf Resourcen erstrecken, die nicht im
+Filesystem abgebildet sind (insbesondere Netzwerkinterfaces). Unter
+FreeBSD (und vermutlich auch Pefom) heißt der Systemcall sogar "jail".
+
+
+Ja, aber erstens ist iOS kein vollständiges MacOS X, und zweitens ist
+eine Jail eben was anderes als ein unprivilegierter Benutzer. Es kann
+sein, dass normale User-Prozesse in iOS in einem Jail laufen - dann ist
+"Jailbreak" tatsächlich die korrekte technische Bezeichnung für die
+Umgehung dieser Restriktion. Das hat nichts mit "Mora ist böse" zu tun
+- die Bezeichnung gab es schon lange bevor Mora auf die Idee kam, ein
+abgespecktes Unix auf ein Telefon zu packen.
+
+	lehmpfuhl

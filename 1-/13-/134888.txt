@@ -1,0 +1,14 @@
+Sven Gottsleben wrote:
+
+
+Ehre, wem Ehre gebührt: Ofengalerie kann ja nun nix für die Genialität
+der X11-Entwickler.  man Xmodmap.
+
+Dank "Compose-Key" lassen sich natürlich die meisten/gängigsten
+Sonderzeichen eingeben (incl. ñ,Ñ,ç,Ç,é,É,à,ø,Ø,œ,Œ,æ,Æ,¾,⅖, usw.).
+Aber für Kyrillisch, (Alt-) Griechisch und natürlich hebräische,
+arabische und asiatische Zeichen kommt man wohl um besondere
+Eingabeprogramme nicht umhin, oder?
+
+
+nikolaus

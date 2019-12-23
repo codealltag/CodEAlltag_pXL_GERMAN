@@ -1,0 +1,23 @@
+Am 28.07.2012 00:23, schrieb Gérard Lindkamp:
+
+	01  PAGE-HDR.
+	    05  HUNGAR        PIC X(24)      VALUE SPACES.
+	    05  HUNGAR        PIC X(32)
+                               VALUE "CUSTOMER NAME AND ADDRESS REPORT".
+	    05  HUNGAR        PIC X(24)      VALUE SPACES.
+	01  COLUMN-HDR.
+	    05  HUNGAR        PIC X      	VALUE SPACES.
+	    05  HUNGAR        PIC X(4)   	VALUE "ID #".
+	    05  HUNGAR        PIC X(2)   	VALUE SPACES.
+	    05  HUNGAR        PIC X(13)  	VALUE "CUSTOMER NAME".
+	    05  HUNGAR        PIC X(9)   	VALUE SPACES.
+	    05  HUNGAR        PIC X(14)  	VALUE "STREET ADDRESS".
+	    05  HUNGAR        PIC X(8)   	VALUE SPACES.
+	    05  HUNGAR        PIC X(4)   	VALUE "CITY".
+	    05  HUNGAR        PIC X(11)  	VALUE SPACES.
+	    05  HUNGAR        PIC X(5)   	VALUE "STATE".
+	    05  HUNGAR        PIC X      	VALUE SPACES.
+	    05  HUNGAR        PIC X(3)   	VALUE "ZIP".
+	    05  HUNGAR        PIC X(5)   	VALUE SPACES.
+
+Patrick

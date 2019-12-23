@@ -1,0 +1,13 @@
+Am 2010-01-30 21:46 schrieb Dietmar Nieclaus:
+
+Genauer: nach jedem vom Benutzer veranlassten Zeilenanfang, nicht
+nach automatischem Umbruch. Also so wie Powerpoint und Familie,
+wenn man das entsprechende Häkchen nicht wegmacht.
+
+
+Als ich noch Hiwi an der RWTH war, hing an meinem Arbeitstisch im Labor
+der Satz: "Computers don't argue. They KNOW."
+
+Stimmt immer noch.
+
+/Edo

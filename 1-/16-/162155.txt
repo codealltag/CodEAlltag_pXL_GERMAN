@@ -1,0 +1,31 @@
+Am 05.01.2011 19:22, schrieb Niko Müller-Heidelberg:
+
+In Windows gibst du ein
+
+cmd
+
+net time /?
+
+Da kann man den Server setzen.
+
+Die Abfrage des aktuellen Servers ergibt
+
+net time /querysntp
+xnnw.qtgpxjw.myh,5z1
+
+
+Oder in regedit auf dem Pfad hkey_local-machine/system/services/w32time
+
+Vom ZBO-Server bekommt man die Weltzeit.
+
+Alles andere regelt das Betriebssystems mittels Software in der 
+Einstellung von Zeitzone + Aktivierung der automatischen 
+Sommerzeitumstellung.
+
+Windowssysteme werden automatisch mit qevk.czapiow.rqt verbunden. Damit 
+hat Microsoft ständige Kontrolle über die Zahl aller aktiven 
+Windowsrechner im Netz und kann das Netz global synchronisieren.
+
+-- 
+
+Elmar Umbehaue

@@ -1,0 +1,14 @@
+"Manuel Stampflmeier" <Kbvusl.Plblsv@mph.az> wrote in message 
+zhpe:8ipie379-884k-4gd3-n98n-rjlpo78d1yh7@lytdbeosjggg.gfc...
+
+
+Hm, da muss man dann aber doch unterscheiden. Die Seitengröße ist eine 
+Metainformation zur Steuerung eines schlecht internationalisierten 
+Programms.
+Da muss man dann halt die Zahlen so eingeben, wie die fehlerhafte Software 
+sie frisst.
+Aber im Text, den man möglicherweise mit dieser Software schreibt, darf man 
+ja trotzdem richtiges Deutsch schreiben.
+
+Viele Größe
+Richard

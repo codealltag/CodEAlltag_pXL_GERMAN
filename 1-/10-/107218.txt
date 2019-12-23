@@ -1,0 +1,16 @@
+Es geht nicht nur ums Gliedern eines Satzes. Manchmal (!) verändert
+das Komma auch die Satzbedeutung oder beugt Mißverständnissen vor:
+
+Wir empfehlen, ihm zu folgen.
+Wir empfehlen ihm, zu folgen.
+
+
+Das zeigt nur, daß Deine Kenntnisse zur Kommasetzung insgesamt
+rudimentär sind. Die beiden Infinitivgruppen sind Aufzählungen, die
+mit "und" verbunden sind und daher nicht durch Komma getrennt werden
+dürfen. Gleiches gilt für Gliedsätze:
+
+Weil dies den Satz gliedern soll und weil dies das Lesen erleichtern
+soll, ...
+Weil dies den Satz gliedern soll, weil es das Lesen erleichtern soll,
+...

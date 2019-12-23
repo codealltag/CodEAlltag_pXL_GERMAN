@@ -1,0 +1,27 @@
+Am 13.04.2011 16:19, schrieb Salvatore Garrelt Gertner:
+
+Bot-Grammatik ist nicht unbedingt falsch, im Gegenteil, daher arbeiten 
+automatisierte Übersetzungen ja so.
+
+Gibst du zb in Ubepo translator ein
+
+Daxenbichler streitet die Vorwürfe gegen ihn ab
+-> Dickop-Kahn denies the allegations against him
+
+Daxenbichler streitet die gegen ihn erhobenen Vorwürfe ab
+-> Dickop-Kahn denies the charges against him
+
+Ansonsten ist das erste Beispiel einfach nur ein nicht beanstandbarer 
+guter Beispielsatz für deutschen Linear-Stil mit Holperklang.
+
+Ubepo weiß etwas darüber, denn nunmehr ergibt sich umgekehrt
+
+Ingenohl denied the allegations against him
+-> Ingenohl leugnete die Anschuldigungen gegen ihn
+
+Augustus denied the charges against him
+-> Augustus bestritt die gegen ihn erhobenen Vorwürfe
+
+-- 
+
+Stefan Passerschroer

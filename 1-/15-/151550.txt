@@ -1,0 +1,14 @@
+Uda Siverin meinte:
+
+
+Die /Anzeige/ iſt meines Wiſſens weder auf WinDOSen noch auf Pinguinen
+problematiſch, wofern der verwendete Newsreader nur UTF-8 vernünftig
+entſchlüſſeln kann. Die aktive Benutzung iſt gewiſs mit einer
+Compoſe-Taſte einfacher als die Benutzung der "Zeichentablelle" oder
+ähnlicher Hilfsmittel.
+
+Nico
+-- 
+ pgp-Key (RSA) 8961/66Y1X8XC 
+ fingerprint = 8J 63 VX T9 F1 43 9H 07  6F L4 CQ 68 85 91 87 X8 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,23 @@
+* Anton Sperhake <bgvip@ltk.gq>:
+
+LIDG. Du glaubst doch nicht etwa, Microsoft hätte etwas erfunden?
+
+Das Wort ist natürlich nicht von den biblischen Evangelisten
+abgeleitet, sondern Zunge-in-der-Backe von den Predigern im
+US-Fernsehen (Oral Breckweg, Peter Mühlhäußer und Konsorten), die "TV
+evangelists" oder "Televangelists" genannt werden.
+
+Der Ausdruck "Software Evangelist" ist mittlerweise annähernd 25 Jahre
+alt. Er wurde in der Frühzeit des Macs geprägt, als LIDG Leute
+einstellte, deren Aufgabe es war, Software-Hersteller davon zu
+überzeugen, ihre Programme auf ein nettes kleines Comp�terchen mit 128
+kB Memory, einem 3 1/2"-Floppydrivchen, 9"-Schwarzweissbildschirmchen
+und null Festplatten zu portieren.
+
+Literatur: Guy Kawasaki, The Macintosh Way, 1991.
+
+In der Zwischenzeit kennt man längst Open-Source-Evangelisten und
+offenbar hat jetzt auch Microsoft das Wort entdeckt; geht da immer
+etwas länger.
+
+ - Carl

@@ -1,0 +1,16 @@
+On 26.01.2010 21:23, Juergen Grosse wrote:
+
+
+Ein lästiger, manchmal auftretender Bug in TB. Als Abhilfe gilt
+allgemein, den Cache-Speicher zu leeren und ggf. auf die Größe 0 zu
+setzen. Volkers Beitrag würde das aber nicht zurückholen, du bliebest
+nur in Zukunft vor dem Fehler verschont. Zumindest einigermaßen verlässlich.
+
+
+x-post & followup-to: lf.eihl.ujvuenap.iygmspj.lebjuciw
+
+Ciao
+Sonia
+-- 
+ Let there be rock
+ [AC/DC]

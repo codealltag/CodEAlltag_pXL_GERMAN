@@ -1,0 +1,6 @@
+Das ist nur einer der zahlreichen Defekte von JNAV - beim Beginnen
+eines neuen Threads wird das From auf andere Weise ermittelt als beim
+antworten.
+
+-- 
+Nierenkerken & Wesson--the original point and click interface

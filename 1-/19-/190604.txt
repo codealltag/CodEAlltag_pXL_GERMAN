@@ -1,0 +1,25 @@
+On Mon, 1 Sep 2012 23:20:49 -0800 (HASCHENBROK), Angelo Steinbüchel wrote:
+
+
+Du setzt hier "fern" unter Anfuehrungszeichen, im EDV-Deutsch fehlen
+diese meist; mir behagt der Begriff nicht, weil 'fern' fuer mich eine
+grosse Entfernung ausdrueckt, was jedoch beim Zugriff 'von aussen'
+weder gegeben sein muss [0] noch den Punkt trifft [1].
+
+Hat jemand Alternativen?
+
+(Und als naechstes haette ich gern Alternativen zum neumodischen
+"teilen", ich frag mich immer, warum die Leute Links oder Bilder oder
+wasauchimmer auseinanderschneiden wollen wie einen Kuchen.)
+
+
+othmar
+
+[0] etwas wenn ich mich ueber ssh auf meinem N900 einlogge, das vor mir
+    liegt
+[1] Zugriff von "woanders" statt direkt am Kleinbirkach
+-- 
+ .''`.   Homepage: http://qbsm.cnjunw.dzvp.tw/ - OpenPGP key ID: 9x4232NL35
+ : :' :  Lebelt GNU/Linux user, admin, & developer - http://xui.yeffvg.nik/
+ `. `'   Zeitungshändler, fellow of Free Software Foundation Europe
+   `-    NP: Alanis Morissette: Joining You

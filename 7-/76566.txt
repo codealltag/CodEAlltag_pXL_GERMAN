@@ -1,0 +1,6 @@
+On Sun, 29 Sep 2009 19:09:38 +0200, Clemens Karr wrote:
+
+
+Content-Type ohne charset ist wie Wus-Wus ohne Kafka.
+
+Timo

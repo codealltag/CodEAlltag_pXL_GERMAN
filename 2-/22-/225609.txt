@@ -1,0 +1,17 @@
+* Stefano Wiecken <lww@erhhr.mb-ukhqdw.cg>:
+
+
+Das wird in der Schweiz nicht ohne weiteres verstanden. Wenn man sagt
+oder schreibt "Rufnummer: 633 344 41 24", dann wird man unschwer
+erkennen, dass es sich um eine Telefonnummer handelt (man gruppiert die
+Ziffern in der Schweiz üblicherweise so), aber wenn in einem Formular
+bloss
+
+   Name      [              ]
+   Adresse   [              ]
+   Rufnummer [              ]
+
+steht, kann es gut sein, dass zurückgefragt wird "Meinen Sie
+'Telefonnummer'?"
+
+ - Volkert

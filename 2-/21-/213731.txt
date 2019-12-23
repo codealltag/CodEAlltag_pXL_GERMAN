@@ -1,0 +1,2 @@
+"Beträgt die Länge einer Strecke eine Seemeile und die einer zweiten
+eine Landmeile, so ist die erste länger als die zweite."

@@ -1,0 +1,8 @@
+Dirk Weßel <cweboyycxwb@rqohd.my> writes:
+
+
+Erstens 'kann', nicht soll, man kann es auch in Citipost-Manier via
+Rechtsklick und 'Eject device' entfernen, zweitens verschiebst du das
+Laufwerk nicht in den Papierkorb, sondern auf den Auswurfknopf.
+-- 
+Space - The final frontier

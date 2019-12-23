@@ -1,0 +1,10 @@
+Das ist schon für Winkel reserviert. 
+
+Du wirst doch die armen Schüler nicht durch Alphabet-Overloading
+überfordern wollen.
+
+	vanderstegen
+
+
+-- 
+   _  | Norbert I. Vink    | Fluch der elektronischen Textverarbeitung:

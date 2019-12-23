@@ -1,0 +1,10 @@
+On 12 Jun., 10:12, Willy Eberhard Rothaar skrev:
+
+
+Natürliche kannst Du das, jedoch ist es müßig: Die Quersumme von 8 is=
+t
+8, weil eine einstellige Zahl nur einen Summanden für die
+Quersummenberechnung hergibt.
+
+Gruß
+O.

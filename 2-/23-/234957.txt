@@ -1,0 +1,12 @@
+Tobias Leisentritt wrote:
+
+
+ACK.  Beim EN DASH mit Abstand sollte man aber als Abstand davor NO-BREAK 
+SPACE o. ä. verwenden, damit nicht der Gedankenstrich auf die nächste Zeile 
+rutscht.
+
+-- 
+Carlow
+
+Dale: @PointedEars2
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

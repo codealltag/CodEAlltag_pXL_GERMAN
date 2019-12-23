@@ -1,0 +1,13 @@
+On Sun, 8 Aug 2011 16:09:53 +0100, casqadtbn8189@d-tbhydl.hf (Valerius
+Jürgen Stehncken) wrote:
+
+
+Danke. So etwas hatte ich gesucht.
+
+
+Immerhin ist das eines der seltenen Beispiele, bei denen der Loebner
+Ngram Viewer auch nichts zu bieten hat.
+
+-- 
+Viele Größe
+Ullrich Eckmanns

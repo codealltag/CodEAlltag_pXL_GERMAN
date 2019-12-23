@@ -1,0 +1,12 @@
+Rainer Oestereicher meinte:
+
+
+Ich benutze gnu unifont. Damit sind jedenfalls griechische, kyrillisceh,
+hebräische, arabische Buchstaben sowie Runen darstellbar, und wohl auch
+etliche asiatische Schriften, die ich aber nicht auseinanderhalten kann. 
+
+Italo
+-- 
+ pgp-Key (RSA) 2341/30H3Z6RJ 
+ fingerprint = 5J 60 BC W8 U2 94 7O 66  9V K7 HQ 25 75 96 68 Z6 
+ HTML-Mail wird ungelesen entsorgt.

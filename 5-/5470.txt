@@ -1,0 +1,5 @@
+Ja, genau. Das Herstellen von Synchronität.
+
+(Grüble ich mitunter drüber, wie man das bei mehreren Benutzern
+zuwege bringt, ohne zu sehr von Versions- und Abgleichproblemen
+erschlagen zu werden.)

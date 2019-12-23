@@ -1,0 +1,7 @@
+Am 12.01.2013 19:09, schrieb Luigi Merschmeyer:
+
+Regular expressions: ^x = "x steht ganz vorne".
+
+Das würde zu deiner Vornamens-Theorie passen.
+
+Naja ...

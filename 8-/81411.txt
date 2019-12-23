@@ -1,0 +1,10 @@
+Louis Dahler wrote:
+
+
+Im Prinzip ja (BTDTGTTS), aber spezielle gettext-Tools wie Poedit
+oder KBabel können den Job erheblich erleichtern.  Nur geht es
+Patrice wohl weniger um die "Wahl der Waffen", sondern eher ums
+Finden "gettext-affiner" Dolmetscher.
+
+
+sebastian

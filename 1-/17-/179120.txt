@@ -1,0 +1,7 @@
+Am 30.03.2012 14:10, schrieb Udo P. Zähl:
+
+So leicht verdirbt Pointe an Casuserror.
+
+-- 
+
+Friedhelm Theis

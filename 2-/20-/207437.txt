@@ -1,0 +1,11 @@
+On 26.04.2012 13:48, Torsten Kümmelmann wrote:
+
+
+Du hast also absichtlich zur Rekursion aufgerufen? Das prangere ich an!
+
+
+Ciao
+Herma
+-- 
+ Kein Alkohol ist auch keine Lösung.
+ [Die Toten Hosen]

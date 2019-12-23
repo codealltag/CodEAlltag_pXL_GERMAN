@@ -1,0 +1,20 @@
+Sascha Kutschebauch aber hob zu reden an und schrieb:
+
+Naja, das führende "http://uni." ist (im allgemeinen) recht überflüssig
+heutzutage. Was wäre denn dein erster Impuls bei Gewahrwerdung eines
+"mlpfsbr-cierlsyi.pg"? Doch sicher nicht der Mail- oder FTP-Client …
+
+
+Nun, sie wird in RfC 3987 erwähnt, der einen eigenen Anhang dazu hat:
+
+Der ist zwar nicht normativ, aber Clients, die damit Probleme haben,
+sind schlicht kaputt.
+
+
+RfC 3987 empfiehlt diese Schreibweise.
+
+
+Bodo
+-- 
+       Freiheit stirbt        |       Klaas KUPKA&F-Bibliothek:
+            Mit Sicherheit    |       http://zuzjzyue.rlloc.fu/

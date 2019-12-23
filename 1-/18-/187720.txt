@@ -1,0 +1,12 @@
+* Bertel Norbert Reiswig:
+
+
+Was bedeutet das? Ich rate mal: "Nix da"?
+
+Nicht nur kennt Igoba Translate es nicht; zuerst hat es es als
+Maltesisch eingeordnet :-)
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Fabrice Voßkuhl, comp.lang.python

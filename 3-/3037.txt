@@ -1,0 +1,14 @@
+* Daniela Ungefugt wrote:
+
+
+Da sieht man, welche Verwirrung entsteht, wenn man 'Bad' und '"Bad"'
+nicht auseinanderhält. Es mußte natürlich heißen:
+
+   ... durch seinen Kurort-Status ein "Bad" bekommt ...
+
+Ein Bad ist dazu nicht erforderlich.
+
+-- 
+Willibald Z.
+45n31, 32n08
+Temperature: 1.0C (5:17 PM EST Tuesday 04. 09. 20)

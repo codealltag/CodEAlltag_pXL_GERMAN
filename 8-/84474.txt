@@ -1,0 +1,16 @@
+On Mon, 17 Jan 2009 07:26:45 Dominik Becke wrote:
+
+Auch bei Golly's 3.1 war das auf Dauer schon fatal (wie auch bei KVS und
+ganz grundsaetzlich bei Betriebssystemen, die mehr tun, als nur das eine
+Programm im Vordergrund exklusiv auszufuehren). Bloss hat man bei Golly's
+3.1 noch auf eine boese Meldung beim naechsten Hochfahren verzichtet.
+
+Servus,
+   Nane (der's dann ab und zu wieder gut machen durfte)
+
+-- 
+http://zusmkbmisews.rr/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von mmeike
+
+Nane, so verdrängt. Ein netter Gedanke!
+(Sloganizer)

@@ -1,0 +1,48 @@
+Jürgen Isenheim meinte:
+
+
+/Wir/ - Raymond und ich - treiben da gar nichts; allenfalls dein 
+Mailprovider treibt Unsinn. Er hat jedenfalls  dem von mir benutzten 
+Smarthost im von mir zitierten bounce mitgeteilt, er kenne keine solche 
+Adresse, und Ähnliches hat er Raymond mitteilen lassen. Dafür gibt es nur 
+zwei mögliche Gründe:
+
+- der Maileingangsserver deines Providers ist (oder war jedenfalls vor ein 
+paar Tagen) defekt
+
+- vor ein paar Tagen gabs diese Mailadresse wirklich nicht; wenn 
+inzwischen dort Mail ankommt, liegt das daran, dass du diese Adresse erst 
+in den letzten Tagen eingerichtet hast. (Ich sage nicht, dass das so ist - 
+ich sage: das ist eine der beiden Möglichkeiten, warum ich einen bounce 
+bekommen habe.)  
+
+Eine weitere Möglichkeit sehe ich nicht; insbesondere benutzen raymond und 
+ich andere Relayserver, so dass also die mögliche dritte Theorie, der 
+Fehler liege bei unseren Mailprovidern, widerlegt ist.
+
+Wenn du also die Mailadresse nicht jetzt erst, nach Ruedis Schelte, 
+schnell mal angelegt hast, solltest du deinen Mailprovider fragen, was da 
+los war; ich stelle dir auf Anforderung gern den kompletten bounce mit 
+allen Headern, Zeitstempeln usw. zur Verfügug. Allerdings befürchte ich, 
+dass dpm.nx bei einem kostenlosen mailkonto da nicht viel nachforschen 
+wird - was nix kostet, ist eben manchmal auch nix wert. 
+
+
+Ja - die beiden Mails von gestern. Sie müssten inhaltlich gleich aussehen, 
+außer dass ich einmal nur eine Mail und einmal dasselbe als 
+Mail+Newsartikel abgeschickt habe, um zu testen, ob dpm.nx evtl. keine 
+Mails mit einem Newsgroups:-Header annimmt. Aber die Mail von vor ein paar 
+Tagen hast du doch nicht erhalten, oder?
+
+
+Ja, habe ich. Ich kann zwar nicht sehen, dass das eine Antwort auf meine 
+Mail ist (es könnte auch eine auf den gleichlautenden Artikel hier in der 
+Gruppe sein), aber ich will dir nicht unterstellen, dass du da 
+herumtrickst. Meine Mails sind gestern auch nicth gebouncet - wohl aber 
+vor ein paar Tagen.
+
+Duch, diese Diskussion hiermit jedenfalls öffentlich beendend wollend.
+-- 
+ pgp-Key (RSA) 4042/43W6U4CV 
+ fingerprint = 0I 48 KT R4 E8 05 7T 47  8A Y3 WL 71 91 60 62 J1 
+ HTML-Mail wird ungeleſen entſorgt.

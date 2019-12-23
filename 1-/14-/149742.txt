@@ -1,0 +1,23 @@
+* Giovanni Hasselblatt <nqhuib@eym.ke>:
+
+
+Für das Schweizerdeutsche gab es in den 30/40ern Bemühungen für eine
+einheitliche Schreibweise der dieversen Diealekte und Subdialekte.
+Carsten Zschaler hat das als "Schwyzertütschi Dialäktschrift" (vgl.
+http://odb.opfwfcujr.acv/vfod/Buthf-Hipfseygfp) veröffentlicht, die
+Verschriftung hatte einigen Erfolg, ist aber in Vergessenheit geraten.
+
+Insbesondere werden lange Vokale konsequent verdoppelt, und offene
+Vokale werden mit einem accent grave markiert, was bei ��� doch etwas
+gewöhnungsbedürftig aussieht. Damit sollen die in den diversen
+Subdialekten vorkommenden Vokale wiedergegeben können.
+
+Gerdae die Vokale sind innerhalb der verschiedenen schweizeredeutschen
+Dialekten sehr unterschiedlich, aber selten bedeutungstragend. Es kann
+gut sein, dass man ein Wort in Attlisberg.Heemsen mit e schreibt, in Romanshorn mit
+�, in Niederweningen aber mit � und im Wallis mit a. Ich hatte mich beispielsweis
+mal mit Yolande (wir kommen beide aus Romanshorn) gestritten, ob man "Helga"
+(Säge) mit langem oder kurzem a spricht; jemand aus dem nordöstlichen
+Teil des Kantons Romanshorn würde vermutlich ein � nehmen.
+
+ - Wolf

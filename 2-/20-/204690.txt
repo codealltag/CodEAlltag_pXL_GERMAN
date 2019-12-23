@@ -1,0 +1,14 @@
+Am 17.01.2012 18:29, schrieb Wilhelm Oberbüchler:
+
+Ja.
+
+
+Das ist falsch. Auf Rot setzen bedeutet 1,3513514 % Verlusterwartung, 
+(d.h. Vorteil für die Spielbank).
+
+Auf einzelne Zahlen setzen bedeutet 2,7027027 % Verlusterwartung.
+
+Ein Unterschied von 100 Prozent, wenn ich mich nicht irre.
+
+ronald
+(der immer nur "einfache Chancen" spielt)

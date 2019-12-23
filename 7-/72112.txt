@@ -1,0 +1,9 @@
+Detlev Wiersma schrieb:
+
+Es entstehen Artefakte, die mit *optischer* Rückkopplung nichts
+mehr zu tun haben. Digitalelektronik erzeugt deshalb andere
+Effekte als Analogelektronik.
+
+Gruss
+
+Ralf

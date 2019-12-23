@@ -1,0 +1,11 @@
+Hallo Ibo,
+
+Ibo Matzerat schrieb:
+
+
+Ja. Wird in dem Sinn "unbeschränkten Zugriff erlauben" verwendet, den eben
+unter unixoiden Systemen nur "root" hat.
+
+Gruß Philipp
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

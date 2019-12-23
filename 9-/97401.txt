@@ -1,0 +1,7 @@
+[...]
+
+
+Nee, ist schon gut mit "Vanity".
+Ein "Merkwort" wär's ja, würde aus einer gegebenen Rufnummer nach den
+Vorgaben der diesen Ziffern zugeordneten Buchstaben ein "Wort"
+konstruiert - was aber ja zumeist nicht gut hinhaute.

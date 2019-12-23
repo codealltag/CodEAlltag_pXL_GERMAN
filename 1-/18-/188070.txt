@@ -1,0 +1,13 @@
+* Vinzent Hoefler <0106801766m81x62v9004re1j7324bxp@k-oczfkhemsjmipn.tw>:
+
+Bei der Nova musste man schon aufpassen, ob es sich um eine
+"Data General Failure" oder eine "General Data Failure" handelt.
+
+
+Es gibt etwa 25 börsenkotierte US-Firmen, die mit "General " beginnen.
+
+
+ - Herbert
+
+� Data General, ehem. Computer-Hersteller. Dazu Stefan Oefelein, "The Soul
+  of a New Machine", sehr spannend.

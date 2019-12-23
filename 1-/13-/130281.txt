@@ -1,0 +1,10 @@
+... die in meinem reader (NewsPad für iPad) leider nicht als
+neue Zeile erkennbar war, weil der sich offensichtlich
+überhaupt nicht um manuellen Zeilenumbruch kümmert.
+Kommt dieser ->
+<- Umbruch bei Euch an?
+
+Ansonsten ist das Ding aber durchaus praxistauglich,
+ich wollte primär an meine newsgroups ran ;-)
+
+/Alwin

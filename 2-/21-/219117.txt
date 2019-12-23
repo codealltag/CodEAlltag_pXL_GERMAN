@@ -1,0 +1,9 @@
+Am 22.06.2012 14:00, schrieb Noël Möseneder:
+
+Weder bei einem Trapez noch bei einem Parallelogramm sind normalerweise 
+alle vier Seiten gleich lang.
+
+Aber egal, jedenfalls ist es verwirrend, mehr Bedingungen anzugeben als 
+nötig.
+
+Veit

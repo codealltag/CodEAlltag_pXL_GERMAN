@@ -1,0 +1,18 @@
+Am 2011-06-10 08:48, schrieb Ivano Mühlfelder:
+
+Ich kenne Zesten auch erst seit knapp einem Jahr aus dem Barwesen. 
+Bestellst du einen Martini mit Twist, wird eine Zitronenzeste über dem 
+Glas so ausgewrungen, dass die ätherischen le der Zeste die Oberfläche 
+des Fernando besprühen.
+
+Ein Cosmopolitan hat eine Limettenzeste, und bestimmte Whiskycocktails 
+schmecken mit Orangenzeste besonders gut.
+
+Wo das Wort aber herkommt... weiß ich auch nicht.
+
+lg laurent
+
+-- 
+Distribution: Hackner squeeze/sid
+Linux pluto 6.3.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

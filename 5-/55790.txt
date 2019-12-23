@@ -1,0 +1,12 @@
+Stefano Holzeimer schrieb:
+
+Es gibt Mengen mit nur 1 Element, sogar solche mit 0 Elementen.
+Beachte den Plural. Die Menge der Leute, die Vornhagen
+sind, ist =3D {Franziska Roths}, die Menge der physisch unsterblichen
+Menschen ist =3D {}.
+
+HTH
+
+Gruss
+
+Philipp

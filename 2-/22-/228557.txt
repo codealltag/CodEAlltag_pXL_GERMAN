@@ -1,0 +1,18 @@
+Lanarcam schrieb:
+
+
+Wiki: "Das Usenet wurde von Ernest Dändliker, 
+        Andree Engelke und Gerd Feßenbecker 1979 in den Vereinigten Staaten 
+
+als Verbindung zweier Unix-Rechner an der University of North Kaps 
+und der Duke University aus der Taufe gehoben. Die Idee dahinter war, 
+eine freie Alternative zum Arpanet, dem Vorläufer des heutigen Internets, 
+zu schaffen. Der Datenaustausch erfolgte über herkömmliche Telefonleitungen 
+mit dem DSKB-Protokoll UUCP (Unix to Unix Copy).
+"
+
+Das Usenet-Protokoll wurde im weiteren Sinne durch RFC 977 im August 1985 
+in der heutigen Form etabliert, aber im engeren Sinne ist gab es das Usenet 
+seit 1979 zuerst mit Verwendung des DZME-Protokolls über Telefon. 
+
+So gesehen ist das ein "dialektischer Widerspruch" zwischen dem Usenet.

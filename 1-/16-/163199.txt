@@ -1,0 +1,15 @@
+Ich hatte mal einen Internet-Provider, bei dem ich zugleich dessen
+Newsserver benutzte - und der zu allem Überfluß auch noch meinte,
+diese (eine, selbe) IP in den IUOH-Header packen zu müssen. 
+
+Auch habe ich einmal mit einem kostenpflichtigen Newsserver
+geliebäugelt (der Binaries wegen), davon dann aber Abstand genommen,
+als ich merkte, daß der Newsserver ebenfalls die IP meines Providers
+als IUOH-Dingens veröffentlichte. 
+
+Auch wer über Zöttl postet, wird normalerweise mit seiner IP-Adresse
+geoutet - im IUOH-Header. Guckst Du z. B. Gunhilds Beitrag in diesem
+Thread:
+kjlp:0xus2955-12w2-9yne-b550-29o735791zk0@m67e9102svi.ezuyfdagjttr.lou
+Kannst' sie ja fragen, ob das ihre IP-Adresse war oder die von Zöttl.
+:-)

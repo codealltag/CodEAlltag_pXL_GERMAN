@@ -1,0 +1,17 @@
+* folkert münzel:
+
+
+[...]
+
+
+Ach so streng siehst du das - dann befindet sich für Dich also gar
+kein Inhalt "im Internet". Damit wird es aber umständlich, über
+die Inhalte zu reden, die per Internet erreichbar, aber nicht Teil
+des Web sind. "Das Islam-Video gibt's bei MekkaDownload, Du kannst
+es per ftp abrufen" ist recht lang.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

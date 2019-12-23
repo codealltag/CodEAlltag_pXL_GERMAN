@@ -1,0 +1,8 @@
+Niclas Toller schrieb:
+
+Das war ein redundantes Klammersparkomma. (Es weiss ja nicht
+jeder, dass Implikation stärker bindet als Aequivalenz.)
+
+Gruss
+
+Juan

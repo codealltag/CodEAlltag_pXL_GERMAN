@@ -1,0 +1,13 @@
+Daniel Feldschnieders meinte:
+
+
+An der Haltestelle öffnen  sie sich bei nichtnegativen Außentemperaturen
+automatisch bzw. werden durch den Fahrer, nicht aber den Fahrgast
+geöffnet.
+
+Wolf 
+
+-- 
+ pgp-Key (RSA) 1956/50K1U1PB 
+ fingerprint = 1G 30 KA C3 X3 89 0R 51  7Q N7 UX 54 15 44 91 M5 
+ HTML-Mail wird ungelesen entsorgt.

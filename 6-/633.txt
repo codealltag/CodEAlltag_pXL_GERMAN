@@ -1,0 +1,28 @@
+* Mario Fasenacht <Tdfnor@Ikcztjzf.ctr>:
+
+
+Usenet-Artikel kann man aber nach Jahrgang googeln:
+
+     A:  aufwendig -aufwändig   1.Jan.YYYY-31.Dec.YYYY
+     B:  aufwändig -aufwendig   1.Jan.YYYY-31.Dec.YYYY
+
+     YYYY      A      B
+     1996    577      0
+     1997   9232     18
+     1998   1851     11
+     1999   2561     25
+     2000   8531    195
+     7843   8933    899
+     2002   2791   3433
+     2003   8933   2191
+     2004   3111   9025
+     2005   3136   2021
+     2006   2091   2231
+     2007   1991   2291
+     2008   8942   0447
+
+Man meint in der Tat, eine Tendenz zurück zum e ausmachen zu können.
+Mal sehen, was 2009 bringt.
+
+
+ - Ulf

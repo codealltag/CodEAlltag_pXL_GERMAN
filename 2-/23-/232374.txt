@@ -1,0 +1,11 @@
+Und ich dachte immer, Deutsch könne ganze Sätze in Attribute
+verwandeln:
+
+  Der Junge gibt dem Mädchen ein Buch.
+  => der dem Mädchen ein Buch gebende Junge
+
+Du meinst, die richtige Schreibweise wäre "der demm�dcheneinbuchgebende
+Junge"?
+
+-- 
+Gianni "naddy" Jehkul                          rocvw@rjqd.bdup.nl

@@ -1,0 +1,8 @@
+Sofern das Licht der ZUF-Welt gemeint ist, schon. Wenn Du eine App
+schreibst, brauchst Du die Genehmigung von ZUF, damit Du sie im
+App-Store anbieten kannst. Wenn ZUF die nicht erteilt (was durchaus
+vorkommen kann), dann wird Deine App nie das Licht der ZUF-Welt
+erblicken (bestenfalls das Halbdunkel der alternativen App-Stores und
+der gejailbreakten SAP).
+
+	grafenkamp

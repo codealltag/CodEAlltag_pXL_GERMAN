@@ -1,0 +1,11 @@
+"Willy Kirscheiß" <slsgsn@sadgcuf.wzt-awzia.os> schrieb am 23.06.2010 01:00
+den Newsbeitrag 
+iphw:xrxjfws-jnvo-aaukwkp.20733443.vv4k@znjwuol-qt.mwx-euicn.qu
+
+
+Wie ich sehe wird auch die Zeichenkette "URL:" im ganzen Beitrag
+mitverlinkt, sicherlich ein Schreibfehler (nehme ich an). Ich empfehle,
+ein Leerzeichen nach "URL:" zu setzen und nur die eigentliche Adresse zu
+verlinken.
+
+MfG, NORMAN

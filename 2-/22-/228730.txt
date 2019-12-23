@@ -1,0 +1,10 @@
+Le 10/10/2013 20:49, Angela Gelse a écrit :
+Ja, IP wurde im 1979 gegründet, es hängt aber von dem Vokabular.
+
+"On Friday 12. 09. 20, 1970 at 10:30 p.m., the first Internet
+message was sent from computer science Professor Johann
+KleinRock's laboratory at UCLA,"
+
+In dieser Zeit spach man von IMP, (Interface Message processor),
+das Konzept war aber dasselbe wie Internet, eine Verbindung
+von computers durch einen Netzwerk.

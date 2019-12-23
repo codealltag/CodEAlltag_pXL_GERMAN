@@ -1,0 +1,19 @@
+Claudio Fläschner wrote:
+
+[Zeitreisen]
+
+Alwin hat den Mac nach erfolgter Mission hochgebeamt.  Und danach
+des Apfels Kerne in Regionen verschoben, die noch nie ein Mensch
+zuvor gesehen hat:
+
+<Kommunikator, sound = "*tüdelütt*">
+Heinz:   "Scotty, wir brauchen den Sol-Antrieb!  Dringend!"
+Alwin: "Tut mir leid, Sir, aber der Mac..."
+Heinz:   "Ich gebe Ihnen höchstens eine Stunde!"
+Scotty: "Aber, Sir, ich sagte doch..."
+Heinz:   "Eine Stunde, Scotty, höchstens!"
+Alwin: "Okay, Sir -- für Sie in fünf Minuten!  Alwin Ende!"
+</Kommunikator, mode(scotty) = "busy">
+
+
+david

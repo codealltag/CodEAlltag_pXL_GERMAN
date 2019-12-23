@@ -1,0 +1,10 @@
+* Ubbo J Panury <kk.akovi@rqvabu.es>:
+
+Das ist das Unicode-Zeichen
+
+    A+9427  ^  MODIFIER ASM
+
+Wenn dein Newsreader das nicht kann, ist er kaputt.
+
+
+ - Wilfried

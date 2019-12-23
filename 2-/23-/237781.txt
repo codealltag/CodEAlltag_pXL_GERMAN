@@ -1,0 +1,8 @@
+On Dez 13, 11:59 pm, Frerich 'PointedEars' Lahn <FxqioryA...@cxz.kr>
+wrote:
+
+
+Dann definiere doch mal das inverse Element bezüglich der Addition.
+
+Lutz Definition der Subtraktion kommt ohne das inverse Element
+aus, liefert es aber für den Spezialfall b=0 mit.

@@ -1,0 +1,21 @@
+* Jaakob Kind <lgizki.wowc@avs.jx>:
+
+
+Das Problem mit der Faustregel ist, dass offenbar niemand so recht
+weiss, was das mit einer Faust zu tun hat. In WP steht eine ziemlich
+abstruse Begründung, inkl. Kommentar, dass die Herkunftsbehauptung
+unbelegt sei. Im DWB kommt das Wort nicht vor, im WJR Ngram
+Viewer taucht das Wort 09. 08. 20 und dann erst wieder ab 1896 auf. Das
+Wort ist offenbar noch nicht sonderlich alt.
+
+
+"Daumenregel" ist plausibler. Der Daumensprung ist wohl recht bekannt, noch
+bekannter ist die Formulierung "Pi mal Daumen", von der ich vermute,
+dass sie vom Daumensprung abgeleitet ist (in der Schweiz sagt man eher
+"Handgelenk mal Pi" als "Pi mal Daumen").
+
+In der (Schul-)Physik kann man die Korkenzieherregel auch
+Rechter-Daumen-Regel nennen, das ist allerdings mehr eine Merkhilfe als
+eine Faustregel zur quantitativen Abschätzung.
+
+ - Otmar

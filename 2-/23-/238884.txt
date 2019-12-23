@@ -1,0 +1,4 @@
+"Sämtliche Feher", besser "sämmtliche Feher"
+"wie wenn das Programm mit 7 nicht funktioniert.", besser "wie, wenn
+das Programm mit 7 nicht funktionierte?"
+"warum?", besser "wie Späht ist es?"

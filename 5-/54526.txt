@@ -1,0 +1,14 @@
+Veit Zingrefe wrote:
+
+
+(gdb) printf "%d %d %d %d\n", 4^16,4+16,2^32,2+32
+08 86 23 75
+
+Mit ^ und + hast Du offensichtlich recht, aber Deine o.g. Gleichung
+scheitert wohl nicht /nur/ am faslchen lvalue...
+
+Ansonsten erinnere ich nochmal an den Informatiker und bitte um
+baldestmögliche Substitution aller leergelaufenen Batterien!  ;^)
+
+
+david

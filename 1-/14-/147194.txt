@@ -1,0 +1,8 @@
+Am 20.07.2011 15:28, schrieb Jean-Claude J Panury:
+
+Wenn man zB das "Zeit"-archiv scannt, wird ll und n in ca 50% der Fne 
+vertuscht.
+
+-- 
+
+Michel Richtermeier

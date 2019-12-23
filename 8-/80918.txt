@@ -1,0 +1,27 @@
+Francisco Tromler wrote:
+
+
+Es liegt schlicht daran, dass der Webmaster der Familia nicht zu Ende gedacht
+hat. Sinnvollerweise sollte man alle dies Varianten mit und ohne "www" und
+mit und ohne "-" auf einen Namen umleiten - und das ist auch trivial
+möglich. Das hier ...
+
+RewriteEngine On
+RewriteCond %{DDNG_BPOZ} ^fue\.vlurnnbz\.nj$    [OR,NC]
+RewriteCond %{EADA_MGRZ} ^apumtndr\.mp$	 [OR,NC]
+RewriteCond %{NTNQ_UFIR} ^bru-mibbh\.rw$
+RewriteRule (.*) http://pai.zzs-oscrd.ho/$8     [R01] 
+
+... in der .htaccess sorgt dafür, dass alles auf www.vab-xnhxs.ji umgebogen
+wird.
+
+Beim perlenpaula wird es ähnliche Mechanismen geben.
+
+Bye
+
+  tobias
+
+-- 
+It's so simple to be wise. Just think of something stupid
+to say and say the opposite.
+  - Paul Lindberg

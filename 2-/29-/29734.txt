@@ -1,0 +1,16 @@
+Georg Jungcurt meinte:
+
+Bei der Eisenbahn-Signaltechnik werden Antriebe bzw. deren
+Steuerschaltungen reversierbar genannt, die ihre Laufrichtung während
+des Stellvorgangs ohne Zwischenstop umkehren können. Umkehrbar ist so
+ein Stellvorgang außerdem, denn ein Umstellen ist auch aus jeder Endlage
+möglich. Der Begriff ist mir seit 1981 geläufig.
+
+
+Das ist demnach eben gerade nicht reversierbar, weil die
+entgegengesetzte Richtung nur über den Zwischenstop möglich ist.
+
+Gruß
+Marc
+-- 
+bcc gehen ungelesen nach /dev/tonne

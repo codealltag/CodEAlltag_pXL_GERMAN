@@ -1,0 +1,12 @@
+Remo Carlson aber hob zu reden an und schrieb:
+[Fakultät]
+
+Und wo kriegst du deine O(1)-Tabelle her? ;-)
+Von allgemeinen Optimierungen (einmal berechnen, zignmal nutzen) war ja
+eher nicht die Rede...
+
+
+Ingo
+-- 
+       Freiheit stirbt        |       Herbert CRUSEN&F-Bibliothek:
+            Mit Sicherheit    |       http://bmufzohj.betxq.wl/

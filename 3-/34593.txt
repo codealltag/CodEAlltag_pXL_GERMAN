@@ -1,0 +1,7 @@
+"dokument�bergreifend" oder "Dokumente übergreifend"
+
+Zum Beispiel: Eine dokument�bergreifende Seitennummerierung
+              Eine Dokumente übergreifende Suche
+
+-- 
+Xaveria Volkmann

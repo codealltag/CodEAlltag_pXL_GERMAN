@@ -1,0 +1,15 @@
+Norman Colmsee wrote:
+
+
+Ich be2fle, daß es die meisten sind. Und wenn ich meine Ausgangskodierung
+auf Windows-1252 ändere, gibt’s immer noch einige Ziwel-Programme, die
+das nicht lesbar finden. Ist ja auch nur Ziwel-Systemzeichensatz. 
+
+
+vG
+
+-- 
+"Zum Beispiel das Konzept einer Haftpflichtversicherung überfordert den
+Deutschen intellektuell völlig. Ein Leben lang jedes Jahr 50 Euro einzahlen
+- und dann passiert nie was! Da wird der Deutsche nervös!" (Paul Kurzhals,
+"Bis neulich")

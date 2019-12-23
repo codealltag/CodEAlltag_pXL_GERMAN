@@ -1,0 +1,8 @@
+Am 20.03.2013 20:43, schrieb Richard Hossen:
+
+ich fände 'behauchbar' logischer, da (eindimensionale) Cluster
+immer aus 'benachbarten' Elementen bestehen.
+
+Gruss
+
+Engelbert

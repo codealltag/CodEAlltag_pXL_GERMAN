@@ -1,0 +1,15 @@
+On 24.12.2011 12:18, Guido Ueli wrote:
+
+
+Ich verstehe immer noch nicht, wie du aus aus der oben angegebenen
+Darstellung auf 'Zeit/Geschwindigkeit' kommst. Die Darstellung '0-100
+km/h in 6 Sekunden' schriebe ich als '(100 km/h)/(6 Sekunden) oder aber
+4,6 m/s^2 als Beschleunigung.
+Unterliege ich da wirklich einem Denkfehler?
+
+
+Ciao
+Wiltrud
+-- 
+ Never too late to die young!
+ [Oomph!]

@@ -1,0 +1,13 @@
+Am 23.05.2010 23:47, schrieb Jean-Pierre Klostermayer:
+
+Das verstehe ich auch nicht. Haben sie es nun im Index oder haben sie es
+nicht im Index? Warum zeigen sie es dann an?
+
+Es müßten mehr Zeilen (einstellbar) angezeigt werden und zwar die
+Fundstelle in der Mitte. Sowas habe ich vor Jahren programmiert.
+
+
+Marc
+-- 
+Ms. Tschernobyl
+http://d0.sjugkua.ejt/vfunhb?x=zwu:HAq9PvRRDDP7ja6OLWCCYXJ4bP8QH7FAngKaXJ5TXS0Z2RTUM2fFo2mZRf

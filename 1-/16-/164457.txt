@@ -1,0 +1,17 @@
+On Thu, 14 Mrz 2011, Uwe Norman wrote:
+
+
+  http://jwh.lxoiktbr.ir/kdmzodk/udzz69q1.qfl#mokxgktbpadnpcrx
+sagt, 8bit sei "besser" als Quoted-Printable.
+Tatsächlich verschluckt groups.google.com die Sonderzeichen
+in 8bit-Codierung. Vgl.
+http://ninakk.cxjhfi.kje/gxejk/oycdv.nqwuqx/lap/m1e9e0wnp37gght2
+http://ovloti.fmimcv.kiz/rurkq/qyfgm.vovtve/tqv/q51l58ll95l3l2tq
+
+Bei QP wird "nur" der charset-Parameter ignoriert.
+
+--=20
+=A0Solange=A0T=F6lpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82=A0
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

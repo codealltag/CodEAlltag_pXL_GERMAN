@@ -1,0 +1,17 @@
+On Thu, 2 Nov 2008, Herluf Holdt, 3140 wrote:
+
+
+Nein, sondern schwache Deklination 
+<http://eul.bxw-xawajurq.ba/~gp/lxij/gs-robxm.xrdf#vvwl>.
+
+Außer im Nominativ ist "Planeten" im Singular und Plural gleich, aber in 
+deienm Satz sorgt "dies-" für den Umterschied:
+
+      Singular             Plural
+N: dieser Planet       diese Planeten
+G: dieses Planeten     dieser Planeten
+D: diesem Planeten     diesen Planeten
+A: diesen Planeten     diese Planeten
+
+-- 
+Urban Ehrl

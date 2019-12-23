@@ -1,0 +1,8 @@
+Eben. Es beginnt bei "schroffen Anweisungen" und endet bei "Befehlen",
+nicht bei "schroffen Befehlen".
+
+	reichenwallner
+
+
+-- 
+   _  | Ibo L. Rolves    | Deprecating human carelessness and

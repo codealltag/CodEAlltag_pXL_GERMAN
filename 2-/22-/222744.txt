@@ -1,0 +1,5 @@
+Damit outest du dich jetzt aber als scheubeklappter
+If-Then-Else-Logiker.
+;)
+j/\a
+--

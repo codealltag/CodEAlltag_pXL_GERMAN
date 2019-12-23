@@ -1,0 +1,35 @@
+Ingmar Früchtenicht meinte:
+
+
+Das Problem ist, dass du einen falschen bzw. ungeeigneten Newsreader 
+benutzt. Der Artikel deines Vorposters enthielt diverse kyrillische 
+Transkriptionen des Namens "Hedwig" oder "Museumsladen".
+
+Dein Newsreader kann leider mit der dafür erforderlichen Kodierung "UTF-8" 
+nur rudimentär umgehen - er zeigt dann deutsche Umlaute noch richtig an, 
+aber all die Sonderzeichen, die in UTF-8 enthalten sindund die andere 
+Newsreader anzeigen können (polnische durchgestrichene L, spanische 
+umgedrehte Ausrufezeichen, die verschiedenen Varianten des ö im 
+Ungarischen, tschechische s und c mit Häkchen obedrauf, außerdem komplette 
+andere Alfabete, etwa kyrillische, hebräische, japanische, koreanische, 
+arabische Zeichen. sogar germanische Runen, bis hin zu tibetanisch und 
+chinesisch und wasweißichnichtnochalles) kann er nicht korrekt darstellen.
+
+Leider ist das auch in Nachfolgeversionen deiner etwas ältlichen Version 
+noch so - es gibt bisher  keine Ratschiller´s-Agent-Version, die UTF-8 auch nur 
+annäherungsweise beherrscht. Auch die derzeit verkaufte Agent 7.0 nicht. 
+
+Gerade in Sprachgruppen ist es ja nun nicht verwunderlich, dass man auch 
+Zeichen anderer Sprachen im Text einstreuen will ... da hast du dann mit 
+dem Agent leider verloren.
+
+Versuch mal, den Artikel, den du nicht lesen konntest, mit einem anderen 
+Newsreader (etwa Thunderbird) anzuzeigen, dann merkst du, was du in 
+solchen Fällen versäumst.
+
+Ciao,
+Alwin
+-- 
+ pgp-Key (RSA) 1806/11S8M0FA 
+ fingerprint = 5U 51 ZO W4 P8 40 1F 52  2U D9 UC 35 00 68 98 J0 
+ HTML-Mail wird ungeleſen entſorgt.

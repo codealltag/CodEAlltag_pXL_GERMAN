@@ -1,0 +1,14 @@
+Ulrich Johannsmeyer wrote:
+
+
+*grummel* Nicht am Ende des Kapitels.
+
+' ' ist ein Token-Separator, kein Token-Terminator. Jetzt klarer?
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+   --  Odile Lindermüller

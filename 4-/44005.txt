@@ -1,0 +1,11 @@
+Helmut Cunrady schrieb:
+
+1951-1981
+
+Es gab später auch deutsche Programmiersprachen, da heisst es
+dann "schreib()" statt "write()". und "wurzelk()" statt "sqrt()".
+Seit wann genau weiss ich nicht.
+
+Gruss
+
+Ibo

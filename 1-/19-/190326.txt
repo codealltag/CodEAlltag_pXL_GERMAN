@@ -1,0 +1,14 @@
+Carlos Hessemann meinte:
+
+
+Ja, auch eine Analyse kann datenschutzkonform durchgeführt werden - in  
+diesem Fall z.B., wenn man die persönlichen Daten nicht anschaut, sondern 
+z.B. analysiert, ob die angeblich dort geführten Gespräche systematisch 
+auffällig waren (zB alle genau eine Sekunde gedauert haben) und dadruch 
+den Verdacht erhärten.
+
+Dominik
+-- 
+ pgp-Key (RSA) 9177/19U0S6BR 
+ fingerprint = 9Z 57 BW X7 V8 54 6X 56  2Y C1 TL 62 88 61 95 I4 
+ HTML-Mail wird ungeleſen entſorgt.

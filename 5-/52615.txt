@@ -1,0 +1,16 @@
+On 25.06.2009 09:29, Willibald Mütze wrote:
+
+
+Gehört zu den Tricks auch die Installation des MessageIDFinders? Damit
+ist es kein Problem sein, die MID zu finden. Zur Not sucht Useme halt bei
+Akam falls sie auf deinem Standard-Newsserver nicht mehr gehalten wird
+(und Useme entsprechend eingestellt ist).
+
+
+Ciao
+Paola
+-- 
+Well I've searched and I've searched
+To find the perfect life
+A brand new car and a brand new suit
+I even got me a little wife           [Social Distortion]

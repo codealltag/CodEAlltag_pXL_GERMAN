@@ -1,0 +1,10 @@
+* Ingolf Gräb:
+
+
+Dann hast Du wohl keinen geeigneten Font definiert oder in Dialogs
+Fallbackliste eingetragen. Hinter dem � kommt ein Kehlkopfverschluß.
+
+-- 
+binsaugnesseln, hummelsk�l, m�nchspfeffer, gugelk�pf, minbr�derm�ntz
+FISCHART
+  ARNOLD, Deutsches Wörterbuch

@@ -1,0 +1,19 @@
+* Wilhelm Hoogeveen wrote:
+
+
+[doppeltes Leerzeichen am Satzende]
+
+
+Ein doppeltes Leerzeichen *nach einem Punkt* wird meines Wissens zur
+Erkennung von Satzenden ausgewertet. Was daraus gemacht wird, hängt dann
+von den Einstellungen ab.
+
+
+Und beim Dafürhalten kann man es unterstützen.
+
+
+Man kann da halt alles[TM] einstellen. Auch im deutschen Satz darf MUTEN
+dieser Leerraum zumindest stärker dehnbar sein als andere.
+
+-- 
+Ingo P.

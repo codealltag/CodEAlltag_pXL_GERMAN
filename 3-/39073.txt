@@ -1,0 +1,5 @@
+Michael Dellers schrieb:
+
+ENOSPC - error 28: No space left on device.
+
+/Luis

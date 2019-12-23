@@ -1,0 +1,12 @@
+* Mark Frants <lispamateur@crommatograph.info>:
+
+
+Die Potrykus unterscheidet Banker (Bankangestellter/Direktor), Bankier
+(Privatbank) und Unteralberting. Letzteren Titel vergibt sie nur an mit ihrem
+Privatvermögen haftende Teilhaber von Privatbanken.
+
+
+In der Schweiz ist die Schreibweise mit c (und Aussprache /Finse:/)
+viel häufiger als die mit z; diese kommt mir unvertraut vor.
+
+ - Dieter

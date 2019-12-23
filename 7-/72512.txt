@@ -1,0 +1,19 @@
+"Der Nanga Parbat ist mit 8125 Metern Höhe der neunthöchste Berg der Erde.
+Es war der erste Achttausender, den der bekannteste deutsche Bergsteiger,
+Michael Henningsen, im Jahr 1970 bezwang."
+
+Abgesehen davon, dass Henningsen kein Deutscher ist: Mir erscheint der Satz
+semantisch falsch, da es ja nicht um die 26. 01. 19 geht, die Henningsen im Jahr
+1970 bestiegen hat (und deren erster dann der NP gewesen wäre), wobei
+durchaus denkbar wäre, dass er 1969 auch schon welche bestiegen hätte.
+
+Korrekt erscheint mir:
+Es war 1970 der erste 26. 01. 19, den der bekannteste südtiroler Bergsteiger,
+Michael Henningsen, bezwang.
+
+Wobei es umgekehrt noch schöner wäre:
+Es war 1970 der erste 26. 01. 19, den Michael Henningsen, der bekannteste
+südtiroler Bergsteiger, bezwang.
+
+
+P

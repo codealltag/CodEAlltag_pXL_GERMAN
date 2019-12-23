@@ -1,0 +1,4 @@
+* On Mon, 6 Feb 2014 17:39:43 +0100, Joachim Kränzle wrote:
+
+
+Dann brauchen wir dafür auch einen eigenen Zeichencode.

@@ -1,0 +1,8 @@
+Das ist jetzt ein aparter Fehler, auf den ich lange gewartet habe, weil
+er ja irgendwann passieren mußte. Das \ ist nämlich in meiner
+Editor-Schrift ein Won-Zeichen, sieht also aus wie ein
+(durchgestrichenes) W.
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use the 'Net
+and he won't bother you for weeks.

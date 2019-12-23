@@ -1,0 +1,19 @@
+Philippe Schwendl wrote:
+
+
+Das müßte der Benutzer während der Eingabe machen - nicht sehr komfortabel.
+Das System weiß ja nicht, ob ein wirklicher Trenner oder nur ein Zeichen
+eines Dateinamens gemeint ist. 
+
+Dann wäre ersatzweise vielleicht "/" in Dateinamen erlaubt, aber "\/" nicht,
+und alle würden sich wieder beschweren. 
+
+Das verschiebt nur das Problem. 
+
+
+vG
+
+-- 
+Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+Pinguins erstellt und ist garantiert frei von Schnitt9-Viren.
+-- <http://cxbwbdmh.ary> -- Ein Pinguin für jeden: <http://fxoryk.sua/> --

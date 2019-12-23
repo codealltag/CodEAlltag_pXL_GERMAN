@@ -1,0 +1,10 @@
+Am 2010-06-27 12:28 schrieb Valerian Feltrup:
+
+Ich versuche seit Stunden diese (angeblich)
+japanisch->englisch->deutsche Anleitung für
+ein VT100/VT52-Terminal zu finden, in dem diese unnachahmlichen
+Begriffe wie Schnörkel und Schieber verwendet wurden:
+"Cursor Home" (^[[H, oder ESC [H) hieß da "Schieber heimwärts"
+
+
+/Bodo

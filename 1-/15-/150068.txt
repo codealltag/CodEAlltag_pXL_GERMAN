@@ -1,0 +1,16 @@
+Am 02.08.2010 21:04, schrieb Alwin Gerlings:
+
+über welche Gelenke der Rückstoß auf des Schützen Schwerpunkt wirkt, ist 
+nicht so entscheidend.
+
+Tatsächlich erzeugt ja eine einhändig abgefeuerte Waffe ein Drehmoment 
+um zwei Achsen und damit unweigerlich auch eine Seitenabweichung neben 
+der Höhenabweichung.
+
+Als flugunfähige Objekt ist der Nichtcowboy aber mit der Berechnung 
+schräger Drehungen im Raum überfordert und schränkt daher besser 
+beidhändig die Drehung auf eine feste Achse eindimensional ein.
+
+-- 
+
+Maurice Paschke

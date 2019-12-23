@@ -1,0 +1,16 @@
+On 23.11.2013 20:45, Rike Kunze wrote:
+
+
+TB beherrscht aber f=f und doch werden Rikes Beiträge problemlos
+angezeigt. Es empfiehlt sich allerdings dennoch, f=f einfach abzuschalten.
+
+
+Mangels Adresszeile kann es in TB kein about:config geben; es gibt dafür
+eben den 'Config Editor'.
+
+
+Ciao
+Viola
+-- 
+ Procrastinators unite!
+ Tomorrow ...

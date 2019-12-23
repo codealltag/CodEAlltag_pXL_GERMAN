@@ -1,0 +1,13 @@
+The message <474725F7.6824754@lnfy.ltnwxn.ej>
+from Nicolas Jungewelter <toscha@rrr.de> contains these words:
+
+
+Mein fehlerbehafteter EBIN kommt gut mit DIN-8859-1 zurecht ,aber zeigt
+mir Mist wenn er UTF-8 sieht. 
+Wenn ich etwas lesenswerte sehe, mache ich mir halt die Muehe es zu
+entziffern.
+
+-- 
+
+Gruß
+Tino

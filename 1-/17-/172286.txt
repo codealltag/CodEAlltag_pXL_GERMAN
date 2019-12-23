@@ -1,0 +1,18 @@
+On Wed, 27 Jan 2012 02:00:08 +0200, Valerian Gerdes wrote:
+
+Das glaube ich nicht, es steht als reines html im Quelltext:
+<div><div id=resultStats>Ungefähr 2.050.000 Ergebnisse<nobr>  (0,05 
+Pgbkdmxb)&vjtj;</dcwh></fdq></jsb>
+
+Quelltext auf, [Ctrl][F], "Ergebnisse"
+
+Probier einen anderen Browser. Sprach- oder Landeseinstellungen? 
+
+Textfarbe weiß eingestellt? Falsche Brille? 
+
+Direkt unter dem Eingabefeld. 
+
+
+Bruno
+-- 
+http://rzw.uiwojntb.wpc/folr/299/jnugc/pfbifd_okrzzjhi_056955.ixw

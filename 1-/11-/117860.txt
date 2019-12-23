@@ -1,0 +1,6 @@
+Am 05.04.2010 13:16, schrieb Ignaz Kornpointner:
+
+Korrekt. Aber die Priorität liegt beim schnellen Schreiben. 
+Dekodierbarkeit ist natürlich zwingende Bedingung.
+
+Uwe

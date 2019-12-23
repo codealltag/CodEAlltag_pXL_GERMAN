@@ -1,0 +1,6 @@
+Am 10.12.2009 11:34, schrieb Sebastian Portmann:
+
+Stimmt, in HTML sagt man so für Umschriebene Sonderzeichen, z.B. 
+"&szlig;", was dann als � wiedergegeben wird.
+
+Diedrich

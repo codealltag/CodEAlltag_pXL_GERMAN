@@ -1,0 +1,4 @@
+Ein "iQuote" ist ein Zitat von Gerd Redig.
+
+Gruß,
+Andreas

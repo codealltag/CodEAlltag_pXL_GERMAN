@@ -1,0 +1,10 @@
+Sei epsilon die Lebenserwartung von Giorgio Hälbich. Wie gross sind
+dann x und y, wenn
+
+y = x + epsilon
+
+und
+
+y = x + 1 / x
+
+?

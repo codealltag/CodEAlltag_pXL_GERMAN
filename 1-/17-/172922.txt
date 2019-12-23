@@ -1,0 +1,12 @@
+Am 2011-06-08 19:40, schrieb Remo Ibler:
+
+Semaphore kannte ich ursprünglich auch aus der Eisenbahntechnik. Das 
+waren die Vorläufer der mechanischen Signale. Damals, als Böhmen noch 
+bei Österreich, und Österreich noch am Meer war...
+
+lg adolf
+
+-- 
+Distribution: BULK squeeze/sid
+Linux pluto 23.9.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

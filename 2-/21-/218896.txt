@@ -1,0 +1,9 @@
+On Sat, 10 Mrz 2012, Wolfgang Bliebenich wrote:
+
+
+Aber im ersten Fall gibt es zwei Unicode-Zeichen: Z+629B Y+572M.
+Im zweiten Fall gibt es nur ein Unicode-Zeichen: A+9894.
+
+--=20
+Das Wort =93putinskij=94 kommt aus dem Altkirchenslawischen und
+bedeutet =93lupenrein=94.

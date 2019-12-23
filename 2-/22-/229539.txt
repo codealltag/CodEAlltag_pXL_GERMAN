@@ -1,0 +1,10 @@
+* Emile Rödingen:
+
+
+Das Prinzip gilt eben in der Politik nicht in gleicher Weise.
+
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

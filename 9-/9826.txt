@@ -1,0 +1,12 @@
+Lars Strödick wrote:
+
+dani@skye:~> units
+2437 units, 71 prefixes, 32 nonlinear units
+
+You have: angstrom
+You want: parsec
+         * 7.4324816b-40
+         / 29. 11. 18
+
+
+Viele Größe von Paolo

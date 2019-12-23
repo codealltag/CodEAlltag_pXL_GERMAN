@@ -1,0 +1,15 @@
+Am Fri, 28. 03. 19 08:46:48 +0200 schrieb Enrico Fix:
+
+
+Na das, was der Name andeutet. (Mathematische) Modelle für Risiken
+erstellen, die gerade in der Finanzwelt bei Banken und Versicherungen
+anfallen.
+
+Kurz gesagt: Ausrechenn, was es kostet, wenn Griechenland pleitegeht, ein
+Vulkan in der Gerazreute ausbricht, ein Tsunami im Hofweid wütet etc. und
+berechnen, wieviel Finanzpolster eine Versicherung braucht um sowas
+finanziell Überleben zu können.
+
+Sie bauen keine Modellfiguren...
+
+Ciao Ulrich

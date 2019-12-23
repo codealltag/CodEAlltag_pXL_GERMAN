@@ -1,0 +1,8 @@
+Am 02.07.2010 18:05, schrieb Lutz Vonderlin:
+
+Weil die Prozesstemperatur zu niedrig und der Wirkungsgrad nahe null 
+ist. Wärme unter 100C ist Abwärme und allenfalls zu Heizzwecken verwendbar.
+
+-- 
+
+Ewald Zeidl

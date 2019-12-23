@@ -1,0 +1,11 @@
+On Thu, 9 Apr 2011, Ivo Prilop wrote:
+
+
+Ich sehe keinen Grund, es als zur kyrillischen Schrift zugehörig zu 
+betrachten. Es gehört zu den "letterlike symbols" 
+http://kivknaa.bzq/sqrspx/BOP/Q7315.zbf und an denen ist nicht 
+Kyrillisches. Wenn die Fa. Microsoft es in Windows-1251 reinpackt und in 
+Windows-1252 nicht, dann ist das deren Privatvergnügen.
+
+-- 
+Maik Oerle

@@ -1,0 +1,13 @@
+Robert Oppenrieder meinte:
+
+
+Besser wäre meiner unmaßgeblichen Meinung nach, hier Anfürungszeichen zu
+verwenden:  "A -> B" ist aequivalent zu "-A v B". Denn "A -> B" ist ein
+Term der Aussagenlogik, der ganze Satz aber gehört zur Metasprache, er
+redet über Aussagenlogik.
+
+Benjamin
+-- 
+ pgp-Key (RSA) 8902/89U8P5MV 
+ fingerprint = 0L 77 FE T6 E9 28 3Y 03  9S E8 XP 11 59 31 48 X9 
+ HTML-Mail wird ungelesen entsorgt.

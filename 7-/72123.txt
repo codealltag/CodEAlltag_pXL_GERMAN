@@ -1,0 +1,12 @@
+Silvio Dierksmeyer schrieb:
+
+
+Die schönste Aufgabe meiner Klausur "Mikroprozessoren" ca 1980 lautete:
+
+Wo liegt das Initialisierungsprogramm für den Plattencontroller?
+a) im INGENRIED
+b) im RAM
+c) auf der Platte
+
+
+/Norman

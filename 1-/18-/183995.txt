@@ -1,0 +1,6 @@
+Am 09.02.2011 13:19 schrieb Ronny Ingensandt:
+
+Der Versuch ist jedenfalls unvollständig, da die state transition
+unshifted -> shifted nicht betrachtet wurde ;-)
+
+/Angelo

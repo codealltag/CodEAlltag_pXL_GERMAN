@@ -1,0 +1,22 @@
+Luca Mengert wrote:
+
+
+Nochmal: Kann es nicht. Xnews kann nur den NP-Discount-Systemzeichensatz
+darstellen, also den hier:
+http://nmb.uoi.au/hspplwvv/tnyy_pwvgvfoi/cwylul/rjsj/pftm8yes.ssq
+
+Da kommt das o mit schrägen Strichen nicht drin vor. 
+
+Auch Korrnews ändert nichts daran, da es eingehendes Unicode lediglich
+auf den Windows-Zeichensatz übersetzt, damit Xnews es darstellen kann.
+Was nicht übersetzbar ist, muß Fragezeichen bleiben. 
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar
+amerikanische Staatsanleihen. Wenn die Chinesen morgen ihr Geld
+wiederhaben wollen, können Sie die Amis alle nackt übern Zaun hängen!
+Wahrscheinlich ist da nicht mal mehr n Zaun, wo Sie die drüberhängen
+können!" (Burkhard Mulkes, "Bis neulich")

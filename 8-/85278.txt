@@ -1,0 +1,17 @@
+Ignaz Cohnen <bqfg_@siy.dm> writes:
+
+
+Sicher. Nur hindert niemand die Konkurrenz daran das auch zu tun.
+
+
+Es dürfte *wesentlich* mehr OpenSource-Software geben die ohne weiteres
+auf einem Mac läuft, als auf einem Windows-PC. Und sei es nur deswegen,
+weil Mac OS X idR die üblichen Tools (gcc, make, autoconf,...)
+mitinstalliert sind/
+
+
+Nein. Sie haben sich freiwillig dafür entschieden.
+
+
+-- 
+Space - The final frontier

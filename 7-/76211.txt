@@ -1,0 +1,8 @@
+Natürlich ,das wußten wir doch längst, besonders, wenn es um Fr�ss�sich
+geht.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Java will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Clemens Ungerechts

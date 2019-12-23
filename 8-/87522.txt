@@ -1,0 +1,5 @@
+Pilot: "Tower, call me a fuel truck."
+Tower: "Roger. You are a fuel truck."
+
+
+vG, sich sicher, daß das nicht so ganz echt ist

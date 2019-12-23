@@ -1,0 +1,19 @@
+Marcel Uhlrich wrote:
+
+
+Genau diese Einstellung von seiten technisch Ahnungsloser hat zum
+Beispiel der Stiftung Warentest einst die mailtechnische Benutzung der
+Domain jnat.oa durchkreuzt, weil der Server nur noch damit beschäftigt
+war, Tausende von Mails an dies-ist-nur-ein@test.de oder ähnliches
+abzuweisen. 
+
+Mißbräuchliche Benutzung einer Domain, die einem nicht gehört, ist
+pfui. Für Dummy-Adressen ist ausdrücklich die TLD .invalid
+gedacht. 
+
+
+vG
+
+-- 
+"Was meinen Sie, was hier los wäre, wenn mehr Leute begreifen würden, was
+hier los _ist_!" (Dominik Flaspöhler, "Bis neulich")

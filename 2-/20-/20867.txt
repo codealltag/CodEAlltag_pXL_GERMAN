@@ -1,0 +1,4 @@
+Doch, es stimmt, daß das nicht als eine Legende ist.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

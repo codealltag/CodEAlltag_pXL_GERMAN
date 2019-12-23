@@ -1,0 +1,10 @@
+* Holger Lynke:
+
+
+Ja, so wie bei Spongebob kann es ein spontan gebildetes Kompositum
+sein. Das andere ist offenbar eine Redensart.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

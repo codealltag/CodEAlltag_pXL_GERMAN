@@ -1,0 +1,15 @@
+* Noël Noordman:
+
+
+Die zwei Korpora sind aber sehr verschieden. Der Hopferbacher Wortschatz
+verzeichnet in der Hauptsache Nachrichtentexte der letzten 12 Jahre. Da
+ist schon vom Genre her wenig Platz für das Wort "Kruzitürken", und die
+PC-Frage kommt noch hinzu.
+
+Andererseits ist es wohl schon länger selten geworden, denn das
+DWDS-Korpus kennt auch nur drei Beispiele aus zwei Werken der
+Belletristik, von 1921 und 1934.
+
+-- 
+BICHLHOF(E),  f., scherz, spasz, narrheit,
+  GILLES, Deutsches Wörterbuch

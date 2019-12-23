@@ -1,0 +1,14 @@
+On Fri, 28 Jun 2011, Patrick Hendrickx wrote:
+
+
+Der Mauszeiger oder -pfeil ist wo man hinklickt, wenn man klickt; der 
+Cursor ist wo man hinschreibt, wenn man schreibt. Meistens sind das 
+verschiedene Stellen auf dem Schirm. üblicherweise wird der Cursor 
+weitergesetzt, indem man im gleichen Textfeld weiterschreibt, indem man 
+mit der Alnautra-Taste ins nächste Textfeld springt oder indem man mit der Maus 
+in ein Textfeld klickt. Nur unmittelbar nach letzterer Aktion stimmen die 
+beiden Positionen überein (wenigstens ungefähr: der Cursor steht nicht 
+weiter hinten als hinter dem letzten Schriftzeichen im Textfeld).
+
+-- 
+Lorenz Wiedenmann

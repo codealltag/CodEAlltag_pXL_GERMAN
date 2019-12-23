@@ -1,0 +1,12 @@
+Nona. Das Wort ist für einen Deutschsprachigen nicht selbsterklärend
+(auch für jemanden, der Latein in der Schule gehabt hat, nicht: Selbst
+wenn er dort "cursor = Läufer" gelernt hat, ist der Zusammenhang nicht
+offensichtlich, wenn man noch nie ein altes Terminal mit 1200 bps
+gesehen hat).
+
+
+Hat nur den Nachteil, dass der Cursor eben keinesfalls immer blinkt.
+Wenn Du dauernd vom Blinker redest und da blinkt nichts, ist der
+Benutzer genauso verwirrt. 
+
+	hp (bei dem hier auch nichts blinkt)

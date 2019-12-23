@@ -1,0 +1,10 @@
+Am 18.02.2013 11:15, schrieb Johann Meiner:
+
+Ja.
+
+
+Diese Rückführung ist aber erstmal nur bei ganzen Zahlen naheliegend.
+
+Aber das Argument hat schon was, es ist auch auf die Potenzierung anwendbar.
+
+Carsten

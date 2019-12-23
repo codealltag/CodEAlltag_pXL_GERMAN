@@ -1,0 +1,6 @@
+Am Sun, 9 Jul 2009 20:09:50 +0200 schrieb Detlef Inderwiedenstraße:
+
+
+Resonanz bekommt er da aber *so* keine. Da braucht er den Ahat-patch und
+einen SubsF-Filter!
+P

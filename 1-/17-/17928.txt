@@ -1,0 +1,20 @@
+Olivier Laubinger wrote:
+
+
+Maschinell gesehen stimmt das, ja. Die Umgangssprache vereinfacht das 
+natürlich. 
+
+Meine Website findest Du auch nicht unter http://rwomtjpm.jjd, sondern 
+dann, wenn Du an denjenigen Rechner, dessen IP-Adresse Dir ein DNS auf 
+die Anfrage "einklich.net" hin verrät, eine http-Anfrage auf Port 80 
+schickst und dabei diesen Domainnamen noch mitlieferst, damit er den 
+richtigen virtuellen Host findet, aber das hierzusatz vor "sondern" 
+Stehende ist für den Alltagsgebrauch doch entschieden besser geeignet. 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://mnsritfg.okv>

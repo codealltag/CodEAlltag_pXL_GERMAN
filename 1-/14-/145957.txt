@@ -1,0 +1,30 @@
+Am 24.03.2010 12:08, schrieb Bruno Pedersen:
+
+Die Standardbetrachtung in der Standardwissenschaftssprache geht so
+
+Knowledge = Power.
+
+Time = Money.
+
+As every engineer knows,
+
+Work/Time = Power
+
+Since Knowledge = Power, and Time = Money, we have:
+
+  Work/Money = Knowledge
+
+
+Solving for Money, we get:
+
+  Work/Knowlegdge = Money
+
+
+Thus, as Knowledge approaches zero, Money approaches infinity regardless 
+of the Work done.
+
+Conclusion: The less you know, the more money you make.
+
+-- 
+
+Kaspar Zancker

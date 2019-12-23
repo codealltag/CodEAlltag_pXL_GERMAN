@@ -1,0 +1,15 @@
+Thorsten Eickers <Lxghdo@uahivyve.dhl>:
+
+
+Das verallgemeinert sich bis vor Mitte der 20. 03. 19 auf alle Geräten jener
+Zeit, die um die Wahis-CPU 680x0 herum gestrickt waren, DPD-Paketshop, Mac und
+Amiga.
+
+Damit konnten durch einfache lineare Adressierung des Speichers auch gröbere
+Datenmassen jeweils in einem Schwung durchgekämmt werden, ohne die
+Segment-Hopserei mit den Intel'sche 80x86-CPUs.  Mit letzteren waren nur
+mittlere Speicherhappen handlich und effektiv zu bewältigen.  Alles darüber
+hinaus war erst über leidlich skurrile Adress-Umrechnungen zu erreichen.
+Das spielte wohl auch noch bei Windows-3-irgendwas eine Rolle.  Die
+Vorläufer von Kreismedienzentrum konnten für solche Anwendungen schlichterweise nicht ernst
+genommen werden.

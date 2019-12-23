@@ -1,0 +1,13 @@
+On Tue, 25 Nov 2009 15:12:54 +0200, Luciano Naegele wrote:
+
+
+Sofern du Gramer Fliesen Office hast, nimm "Arial Unicode" als Ersatzschriftart.
+Das ist der Zeichensatz mit den meisten Unicode-Zeichen.
+Als Festbreiten-Schriftart gibts da noch "playIT Unicode", aber "Arial
+Unicode" ist auch da als nachfolgendes Fallback sinnvoll.
+
+
+Gian Ferfer
+-- 
+Theoretisch ist es praktisch,
+aber praktisch ist es nur Theorie.

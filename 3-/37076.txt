@@ -1,0 +1,10 @@
+On Thu, 4 Mrz 2009 22:07:33 +0100 Garrelt Aberspach
+
+Echt? Ich hatte damit ziemlich genau gar keine Probleme. Was hat dir
+denn schwierigkeiten bereitet?
+
+/W
+
+--=20
+My real email address is constructed by swapping the domain with the
+recipient (local part).

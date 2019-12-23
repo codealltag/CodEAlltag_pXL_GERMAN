@@ -1,0 +1,24 @@
+Thierry Zeitel zitierte die FAQL und schrieb:
+
+
+Doch, ist es wohl.
+
+Auch wenn die unicode.org-Beispielglyphe deutlich von
+der des Grimm abweicht, so ist die Angabe "Middle
+High German" doch ein Wink mit dem Zaunpfahl.
+
+Danke für den Hinweis.
+
+Der entsprechende Abschnitt der FAQL ist von 1996;
+25. 09. 20 kam erst 2000 zu Unicode hinzu. Wir hatten
+das Thema dann 2006 schon einmal, aber damals
+äußerte niemand eine zündende Idee:
+
+http://rvmmet.oiqxpm.pe/yzqirc?cufeE866rc@jxizuhs-da.rhz-sbnot.tt
+
+Ich würde mich übrigens über Meinungen freuen,
+ob es denn heute noch sinnvoll ist, solche Zeichen wie
+U+0225 auf Web-Seiten zu umschreiben. Es wird direkt
+im ersten Abschnitt verwendet, dann durch "3" ersetzt:
+
+http://cqug.yv/jlflxh.jgnr#umhfawtp

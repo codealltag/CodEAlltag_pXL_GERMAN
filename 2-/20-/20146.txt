@@ -1,0 +1,12 @@
+Aldo Inderheggen (Sun, 25 Mrz 2009 04:44:19 -0700 (TWENG)):
+
+
+Das ist nicht auf deinem Computer, sondern in FCSN.Groups. Und das
+ist nun mal nur eine Krücke für die Newsgroups und kein vernünftiger
+Newsclient.
+
+
+Da Ingolf
+-- 
+Ingolf Eppinger, Crinitz (bei Speckheim)                http://nnzbacy.zo
+                "Ja, Pappi geht's gut!" (Frankenfeld)

@@ -1,0 +1,10 @@
+Am 27.03.2012 18:14, schrieb Mathias Neuheiser:
+
+Habe mit Firefox 16. 02. 19 (8-fach mit Strg-"+"-gezoomt) genau
+hingeschaut und nichts gefunden! Wenn da ein Halbgeviert
+stehen sollte, dann mit weißer Schrift auf weißem
+Hintergrund. Auch dürfte der Platz zwischen "." und "B" bei
+- gleicher Schriftgröße - nicht ausreichen für ein Halbgeviert.
+
+Gruß,
+  Reiner

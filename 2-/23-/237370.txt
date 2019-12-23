@@ -1,0 +1,16 @@
+* Udo Pense:
+
+
+Als ZeitZone taugt der gar nichts, kann ja nicht mal IMAP. Aber es
+ist[TM] eh besser[TM], für Mail und News verschiedene Programme zu
+verwenden. Auf einen Usenet-Beitrag  per Mail antworten, das geht
+noch in Dialog, aber man kann ihn auch so einstellen, daß er dann
+das Mailprogramm aufruft.
+
+Was mir wirklich fehlt sind vernünftige NUAs für Linux und
+JIBK. 
+
+-- 
+It gets hot in Raleigh, but Texas! I don't know why anybody
+lives here, honestly.
+  -- Fridolin G. Wühler, Vortex, p.220

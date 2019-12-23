@@ -1,0 +1,6 @@
+Engelbert-Giuseppe Gronauer <rgabzexzlko@xkn.lb>:
+
+
+Von praktischer Natur: Ein Spaltenumbruch mit Silbentrennung ist nicht mehr
+üblich, nachdem maschinell ad hoc auf Wortgrenzen umgebrochen wird, soweit
+Spaltenbreite beim reinen Fließtext kein Gestaltungsmittel des Autors ist.

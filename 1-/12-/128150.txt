@@ -1,0 +1,8 @@
+Am 13.09.2009 02:00, schrieb Vittorio Gölldner:
+
+Ich frage, welche gängigen Bedeutungen von "Vereinfachung"?
+
+Ein Zip-File ist weniger redundant als das unkomprimierte Original. 
+Beschreibe mal, inwiefern der Zip-File eine Vereinfachung ist.
+
+Sascha

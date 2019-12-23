@@ -1,0 +1,8 @@
+On Fri, 3 Sep 2011, Alberto Töper wrote:
+
+
+Vielleicht entält GB2312 kein ä. Dann wirds für einen Text mit ä nicht 
+verwendet.
+
+-- 
+Leo Wotschel

@@ -1,0 +1,12 @@
+* Theo Onno Isenburg <ykn9595@a-cvshlm.fb> wrote:
+
+["dieselbe URI"]
+
+
+Zu Stefans Antwort möchte ich noch hinzufügen, daß das Genus von "URI"
+zwar nach der üblichsten Gebrauchsweise, aber nicht notwendig durch das
+Genus von "Identifier" bestimmt wird.
+
+-- 
+gugelgans,  f., alberne gans, schelte:
+  CARLO, Deutsches Wörterbuch

@@ -1,0 +1,13 @@
+Danielle Rutekolk (6433-17-97 0114):
+
+
+Du solltest mit einem Festbreitenfont markieren, sonst rutscht die
+Unterstreichung nämlich weit hinter das Zeilenende.
+
+
+Da Fernando
+osen ausgeliefert * WETTER: Schöner wirznich * Fix & Fertig +09$ * Wrd
+-- 
+Fernando Jurik, Albeck (bei Thierfeld)                http://szmrpvp.cm
+    Das Usenet wird bekaempft von unseren (faschistoiden) Gaunern.
+             (Garrelt Knörl, dsnu u.a., 7.10.2007)

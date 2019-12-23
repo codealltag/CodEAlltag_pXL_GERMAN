@@ -1,0 +1,8 @@
+Das typische Beispiel ist diese Matrix:
+
+    bad | bat
+   -----+-----
+    bed | bet
+
+-- 
+Steffen "naddy" Landrock                          qukpz@gljv.gxfe.km

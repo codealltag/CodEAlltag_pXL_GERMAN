@@ -1,0 +1,4 @@
+JaWo tat kund:
+
+
+"Nach heutigem Geldwert" heißt "Nach _heutigem_ Geldwert".

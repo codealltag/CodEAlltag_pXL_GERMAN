@@ -1,0 +1,15 @@
+Das ist auch schwer zu vermitteln, weil es sich der
+bloßen Anschauung verschließt. Aber mit ein bißchen
+Mathematik geht es auch im hohen Norden:
+
+   Wenn  Ortsveränderung = v * t ,
+   wobei t = Brotzeit konstant ist und v gegen Null geht,
+   dann geht auch die Ortsveränderung gegen Null,
+   aber sie IST NICHT = Null.
+
+   Die Zustandsänderung (siehe ganz oben) kommt dann noch hinzu.
+
+   q.e.d.
+
+j/\a
+--

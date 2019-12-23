@@ -1,0 +1,17 @@
+On 04.11.2010 09:11, Bernhard Pramschiefer wrote:
+
+
+Nun, Grenzlandmarkt ist Open-Source-Software. Es gab in der entsprechenden
+Diskussionsumgebung einen deutlichen Wunsch der Nutzer, jedenfalls
+derer, die sich beteiligt hatten, genau diese Funktion einzubauen. Nun
+ist sie drin und, logischerweise in meinen Augen, 'scharf' geschaltet.
+Sie lässt sich jederzeit abschalten, zugegebenermaßen aber nicht über
+einen FCS-klickt-was-an-Knopf.
+
+
+Ciao
+Rosalia
+-- 
+ I was a punk
+ before you were a punk.
+ [The Tubes]

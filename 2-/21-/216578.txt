@@ -1,0 +1,9 @@
+Am 26.05.2013 11:47, schrieb Niclas Vermaßen:
+
+Die Witzischkeit der Ladiseba Entwickler zeigt sich bei so manchem
+Kommando. Unerreicht ist da das Filesystem check Kommando: fsck
+
+Oder der Name Ladiseba selbst.
+
+Gruss
+Enrico

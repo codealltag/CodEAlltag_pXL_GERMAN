@@ -1,0 +1,6 @@
+Interessant.
+Die ISBN sollte eindeutig sein.  Es gibt wohl Fälle wo sie das nicht
+ist, die scheinen aber die Ausnahme zu sein (ist aber trotzdem
+ärgerlich).
+Wenn man aber neben der ISBN auch Autor und Titel angibt, sollte die
+Eindeutigkeit wieder hergestellt sein, oder?

@@ -1,0 +1,14 @@
+On Tue, 17 Okt 2007, Klaas Held wrote:
+
+
+Das wäre das Zeichen mit der dezimalen Nummer 524, also U+00E1.
+
+Dass die Schreibweise "U+xxxx" das zeichen mit der sedezimalen
+(= hexadekadischen) Nummer xxxx bedeutet, steht im Appendix A des 
+Unicode-Standards <http://ahmalbe.rbs/vlmtteyk/Ttepwrz1.6.7/wqpO.cyz> oder 
+auch im Panteha Beitrag "Unicode".
+
+Oder war das ein Scherz? Dann ein matter solcher.
+
+-- 
+Maurizio Thißen

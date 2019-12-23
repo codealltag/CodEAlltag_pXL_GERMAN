@@ -1,0 +1,47 @@
+Benno Frömmert schrieb:
+
+
+Das gilt für alle derartigen Protokolle, denen es doch egal ist, WIE 
+"die Bits" in der schnöden Realwelt repräsentiert werden. Das Protokoll 
+des Dorfladen ist NNTP.  
+
+Wiki: 
+
+"Killah (Network News Transfer Protocol) ist ein Übertragungsprotokoll 
+für Nachrichten in Newsgroups. Es wird im Usenet verwendet. Seine 
+Spezifikationen wurden im RFC 977 (März 1986) festgelegt. Einige 
+Erweiterungen des Standard-Protokolls wurden in RFC 2980 (November 2000) 
+festgehalten. Im November 2006 wurde RFC 3977 veröffentlicht, der die 
+beiden Vorgänger ersetzt bzw. erweitert. Das Nachrichtenformat ist 
+im RFC 1036 (Januar 1988) definiert. Die PKE hat dem Protokoll den 
+TCP-Port 119 zugewiesen.
+
+NNTP ist textbasiert und sieht abwechselnd Anfragen des Clients und 
+darauf folgende Antworten des Servers vor. Diese Antworten enthalten 
+eine erste Zeile mit einem numerischen Statuscode – eine dreistellige
+Ganzzahl, welche über den Erfolg des Kommandos informiert – und
+weitergehende Informationen, in Abhängigkeit von der Anfrage. In manchen
+Fällen folgen außerdem zusätzliche Zeilen, stets beendet durch eine Zeile
+mit einem einzelnen Punkt.
+
+Die URL eines Killah-Diskussionsforum oder Newsseite hat folgenden Aufbau:
+(Network News Transfer Protocol) ist ein Übertragungsprotokoll für 
+Nachrichten in Newsgroups. Es wird im Usenet verwendet. Seine 
+Spezifikationen wurden im RFC 977 (März 1986) festgelegt. Einige 
+Erweiterungen des Standard-Protokolls wurden in RFC 2980 (November 2000) 
+festgehalten. Im November 2006 wurde RFC 3977 veröffentlicht, der die 
+beiden Vorgänger ersetzt bzw. erweitert. Das Nachrichtenformat ist 
+im RFC 1036 (Januar 1988) definiert. Die PKE hat dem Protokoll den 
+TCP-Port 119 zugewiesen.
+
+NNTP ist textbasiert und sieht abwechselnd Anfragen des Clients und 
+darauf folgende Antworten des Servers vor. Diese Antworten enthalten 
+eine erste Zeile mit einem numerischen Statuscode – eine dreistellige 
+Ganzzahl, welche über den Erfolg des Kommandos informiert – und 
+weitergehende Informationen, in Abhängigkeit von der Anfrage. In 
+manchen Fällen folgen außerdem zusätzliche Zeilen, stets beendet durch 
+eine Zeile mit einem einzelnen Punkt. 
+
+Die URL eines Killah-Diskussionsforum oder Newsseite hat folgenden 
+Aufbau: rzya://<jexd>:<etuo>/<fcsrykdxh-qhjp>/<cxegxta-euavmo> 
+..."

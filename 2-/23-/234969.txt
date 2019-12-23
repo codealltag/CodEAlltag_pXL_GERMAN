@@ -1,0 +1,18 @@
+* On Sat, 7 Mai 2013 23:46:07 +0100, Francis L. Zeindlmeier wrote:
+
+
+Ich wollte es genau wissen und habe direkt im Spool meines
+Newsswervers gesucht. In meinem Ursprungsposting
+<nb1mfe$9ij$2@lndo.uamhru.jx> steht in der Zeile
+ein N-DASH, aber in der Zeile
+ein M-DASH.
+
+Ich habe mindestens zwei Möglichkeiten, einen N-DASH zu schreiben:
+<compose>-- und <altgr>-
+
+Bei <compose>-- kann nicht viel schiefgehen: –
+Bei <altgr>- auch nicht: –
+Es sei denn, ich drücke noch die Shift-Taste dazu: —
+Dann ist es ein M-DASH.
+
+Rätsel gelöst: DFS (Dicke Finger-Syndrom).

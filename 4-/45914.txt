@@ -1,0 +1,6 @@
+* Marcel Contzens <ca_ymuen@nka.en>:
+
+Nunja, Der Otan-Code stammt aus den späten 40ern. In der Zwischenzeit wurden
+bessere Verschlüsselungsalgorithmen entwickelt. Daher SIDA.
+
+ - Inda

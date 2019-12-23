@@ -1,0 +1,48 @@
+Am 22.01.2010 19:12, schrieb Patrice-Markus Kloefkorn:
+
+[Usenet versus Webforum]
+
+Uiiii, das ist eine komplizierte Sache. Dabei geht es um Konzepte und
+damit sind 99% der Menschen überfordert.
+
+Kurz machen:
+Beide haben kein geplantes Konzept.
+Das Usenet entwickelte sich aus von einem Rechner zum anderen kopierten
+Texten (UUCP). Die Entwicklung "spaltete" sich in eMail, persönlich und
+Usenet, öffentlich.
+Webforen starteten auch ohne Konzept. Man wollte Leserantworten auf
+einer Webseite. Dieses undurchdachte Gewurstel zieht eine Datenbank und
+aktive Programme auf dem Server nach sich, der eigentlich nur statische
+Seiten ausliefern sollte.
+Während das Usenet tatsächlich eine Diskussion über hunderte Beiträge
+möglich macht ist in vielen Webforen eine Diskussion nicht möglich, weil
+man nicht erkennt, wer auf wen antwortet. Neuerdings merken die Benutzer
+das und schreiben es dran und zitieren besser. Konzeptionell sind die
+aber bei zwanzig Beiträgen am Ende. Speichern könne sie mehr, aber nicht
+lesbar. Das Webforum, das die meisten Beiträge lesbar speichert ist
+Telepolis. Aber auch da wird das Rumgeklicke lästig, vor allem, wenn die
+Beiträge keinen Inhalt haben.
+
+Jedes Webforum ist anders zu bedienen. Die Leute haben mit dem Gemecker
+schon recht. Aber wie kann man das besser machen? Man müßte die Artikel
+auf einem Server lassen, der nur statische Seiten ausliefert und die
+Diskussion in eine Art Usenet verlagern. Artikel und Diskussion also
+physisch trennen. Das wäre mein Ansatz. Dieser Ansatz ist nur auf den
+ersten Blick unschön. Es ergeben sich auch Vorteile.
+
+Ich habe mal angefangen, ein kleines Usenet selbst zu programmieren. Es
+ist im Stadium "funzt schon". Ich habe ein Konzept gemacht, das
+Schwächen des Usenet vermeiden soll. Es gibt beispielsweise keine
+Gruppen. Das Problem wird dort anders gelöst.
+Anlaß dazu war dieser Beitrag:
+http://cljixy.gzxuqf.rhp/fvkou/dw.tbjda.syoc.ibom/jnpxiu_chflzx/lrmywv/uj622ij6wn024e97/p895j851872e4729?tr=wm&gx=ZSL-0&zp=gvo-8&n=Omzqir+Rmecagwr+Dusqw+Tvfj+Hgdwfihnq#i875r779943f1125
+
+Also, wer sich dafür interessiert, bitte melden.
+
+
+Jérôme
+-- 
+"Aber gut, ich persönlich filtere auch nur sparsam, dazu bin ich zu
+neugierig."
+Ciao
+Ubbo

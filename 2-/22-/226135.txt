@@ -1,0 +1,8 @@
+Am 06.05.2012 02:30, schrieb Detlev Eisenberg:
+
+
+Wenn ich recht verstehe, liegt die Komplexität der japanischen Schrift 
+nicht an den chinesischen Zeichen selbst, sondern daran, das (fast) 
+jedes Zeichen mehrere Lesungen hat. Ob das dann auch noch Vorteile bietet?
+
+Hilmar

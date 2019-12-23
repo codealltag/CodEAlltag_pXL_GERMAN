@@ -1,0 +1,11 @@
+Am 2012-06-08 21:07, schrieb Vincenzo Hatzenbühler:
+
+Aber einen Erlagschein kennst du schon... ?
+
+lg ulrich
+
+
+-- 
+Distribution: Flasskamp squeeze/sid
+Linux pluto 21.4.33-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

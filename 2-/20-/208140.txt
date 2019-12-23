@@ -1,0 +1,10 @@
+Am 30.10.2011 07:37, schrieb Raphaël Ingensandt:
+
+Im deutschsprachigen TR440 Betriebssystem hieß es zb
+
+$UBERSETZE quelle, ,-std-
+
+
+-- 
+
+Serge Unferferth

@@ -1,0 +1,7 @@
+* Arne Praun:
+
+
+Stimmt, in dem Fall bleibt ohne Zusatztools wohl nur charmap.
+
+-- 
+Reidick & Wesson--the original point and click interface

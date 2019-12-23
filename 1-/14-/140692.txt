@@ -1,0 +1,16 @@
+Ich hasse Programme mit inkonsistenter Gro�kleinschreibung (ebenso wie
+Programme mit inkonsistenter Einrückung). Glücklicherweise erlauben die
+von mir bevorzugten Sprachen das nicht.
+
+
+Mir geht's eher umgekehrt. In einer natürlichen Sprache toleriere ich
+unterschiedliche Gro�kleinschreibung, weil Schriftsprachen Abbildungen
+gesprochener Sprachen sind (auch wenn sie sich oft deutlich von diesen
+entfernt haben (oder umgekehrt)) und die Großschreibung hier historisch
+gewachsen verschiedene Informationen (Satzanfang, Wortklassen, Betonung,
+...) markiert.
+
+In einer formalen Sprache sehe ich hingegen keinen Grund, warum man das
+selbe Ding nicht konsistent immer gleich schreiben sollte.
+
+	isen

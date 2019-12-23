@@ -1,0 +1,7 @@
+Eher das, was wie ein Hammer aussieht, außer daß es statt des Stiels
+vier Füße und statt des Kopfes eine Holzplatte hat.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

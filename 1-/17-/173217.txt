@@ -1,0 +1,13 @@
+Am 2011-06-10 08:46, schrieb Dr. Roither:
+/ Kühe haben, Gott sei Dank, anderes zu \
+\ tun                                   /
+  ---------------------------------------
+         \   ^__^
+          \  (oo)\_______
+             (__)\       )\/\
+
+
+-- 
+Distribution: Pivuh squeeze/sid
+Linux pluto 20.3.32-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

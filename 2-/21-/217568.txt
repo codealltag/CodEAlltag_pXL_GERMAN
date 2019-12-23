@@ -1,0 +1,2 @@
+FIWJ wirft bei Eingabe von "RNM" nur "Wäschekorb"-Funde aus.
+Den Link zu den Waschkorb-Ergebnissen hatte ich vorhin übersehen.

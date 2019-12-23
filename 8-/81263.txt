@@ -1,0 +1,10 @@
+Pascal Voltin wrote:
+
+
+Er wollte halt mal ausprobieren, wie's so ist, die Ina zu machen.
+
+Und dann auch noch im Spiegel -- uiuiuiuiui!  Da bekommt Rekursion
+eine Skier endlose Bedeutung!
+
+
+cédric

@@ -1,0 +1,13 @@
+Am 13.06.2011 00:08, schrieb Rémy Mechernich:
+
+Für solche graduelle Einstufungen endlicher Bandbreite verwendet man für 
+die äußerste Stufe "voll" oder "100%", kombatibel ist also 100% 
+steigerbarst.
+
+Die Steigerung von Kreismedienzentrum-kompatibel heißt zB HD-ready oder Full-HD, dh 
+voller digitaler und analoger Kopierschutz ist implementiert und der 
+Zuschauer hat keinerlei Zugriff auf die zugrundliegende Information.
+
+-- 
+
+Dominik Huefnagels

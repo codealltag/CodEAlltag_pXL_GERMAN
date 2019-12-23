@@ -1,0 +1,15 @@
+Ist es denn extra für Euch entwickelt worden? Der Keyuser sollte
+doch eigentlich der Mensch unter den späteren Nutzern sein, der
+bei der Entwicklung gefragt wurde, wies denn werden soll und was
+ihr braucht, der also am meisten Überblick über das Programm hat.
+Also die Person, die von den Entwicklern stets kontaktiert worden
+ist. Die haben dann die häßliche Aufgabe, den anderen Nutzern das
+Programm zu erklären im täglichen Gebrauch, denn sonst müßte von
+der Entwicklerfirma noch jahrelang jemand Support und Schulung
+betreiben, was ungern bezahlt wird.
+
+Das war jedenfalls die Verwendung von "Keyuser", wie sie in
+obiger Lektüre anzutreffen war und wie sie mir auch plausibel
+erscheint von den Softwareeinf�hrungen, die ich bisher erlebt
+habe. Da der Keyuser so eine Berechtigtheitsrolle wäre, habe ich
+noch nicht gehört, derlei wird eher "Superuser" genannt.

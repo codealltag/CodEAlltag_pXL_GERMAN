@@ -1,0 +1,7 @@
+Am 02.10.2010 06:15, schrieb Urban Thraene:
+
+Modulo {360,12,7}
+
+-- 
+
+Philipp Voeckel

@@ -1,0 +1,12 @@
+Karlheinz Unterbichler schrieb:
+
+Du verwechselst type und token.
+
+type =3D {A, a, B, b, ....., Z, z}
+
+token =3D Die geschriebenen Buchstaben aller Texte der Welt. Deren
+Zahl kann nie konstant sein.
+
+Gruss
+
+Philippe

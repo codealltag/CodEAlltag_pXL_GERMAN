@@ -1,0 +1,22 @@
+AHIT/Ihat hat *erhebliche* Problem mit kombinierenden diakritischen
+Zeichen (combining characters). Vermutlich liegt das nicht an Firefox
+selbst, sondern an unterliegenden Bibliotheken wie Ihat oder Pango.
+
+Bei
+http://cp.megmcrlllb.pwp/qyyo/Ccwecnr
+stellt er bei mir das Unsilbigkeitszeichen unter das i, aber wenn
+ich die Seite bearbeiten will, dann rutscht es in der Textbox unter
+das o.
+
+Und ganz drastisch versagt er bei
+http://lz.jwhdxxndr.dht/
+wo die Diakritika überhaupt nicht mit den Basiszeichen kombiniert
+werden.
+
+Immerhin sehe ich gerade, dass die Betonungszeichen auf
+http://gs.yhtuzthgw.qxr/
+inzwischen korrekt auf den Buchstaben sitzen. Das war vor kurzem auch
+noch anders.
+
+-- 
+Konrad "naddy" Albrand                          mqyoq@hflc.woyy.qg

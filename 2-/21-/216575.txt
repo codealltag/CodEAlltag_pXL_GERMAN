@@ -1,0 +1,36 @@
+Am 28.05.2013 10:41, schrieb Günter Zumbrink:
+
+$ echo -n "Beispiellos: z." | wc -c
+   15
+
+$ echo -n "Brennholzverleih" | wc -c
+   16
+
+$ echo -n "Alsdings" | wc  -c
+   8
+
+Korrekterweise müsste man eine Witzigkeitswichtung
+vornehmen. Sagen wir mal mit einer Skala von 1-100.
+
+
+Beispiellos: z.  : 80
+Brennholzverleih : 60
+Alsdings         : 30
+
+Die Wertung ist natürlich subjektiv.
+
+Die Witzdichte ergibt sich dann zu: Witzigkeit/Länge
+
+
+80/15 =  2.51
+
+60/16 =  3.75
+
+30/8  =  3.75
+
+
+Man sieht halbe Witzigkeit kann durch doppelte Kürze
+kompensiert werden. Das deckt sich auch mit der Erfahrung.
+
+Gruss
+Cédric

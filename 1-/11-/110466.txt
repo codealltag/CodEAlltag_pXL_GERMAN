@@ -1,0 +1,7 @@
+Kai Edelkraut schrieb:
+
+Die Verwendung von fatal ist fast immer ein fataler Irrtum.
+
+-- 
+
+Valerio Moehl

@@ -1,0 +1,9 @@
+On Wed, 21 Jan 2009, Pascal Pense wrote:
+
+
+a = 2 Prozent
+b = 1 Prozent
+c = 1 Prozentpunkt
+
+-- 
+Deutschland ist Hohnhausen.

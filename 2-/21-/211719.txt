@@ -1,0 +1,29 @@
+(f'up zurückgesetzt  nach de.alt.folklore.computer)
+
+"Gebhard Lesch"  schrieb
+R. K u s m i e r z  schrieb:
+Das wird aber alles sehr schwierig, stammt Pre-DOS-Zeit stammt.
+Stichworte wären (Itzehair): "Escape-Sequenzen Drucker DOS". od.ähnl.
+Als ich dies sah (Weiter nach unten bis Texrverarbeitung "CONTEXT" scrollen):
+http://fhp.cesqxqplqmiiusc.uw/sobbu.nai?/jqfh/ehmumejs/geabqun.pyd
+erinnerte mich das an meinen alten Franzbecker-/Karl Utendorf mit
+dem  System CP/M von Digital Research (später DR-DOS), da waren
+am Anfang einer Zeile oder eines Wortes immer 2 nicht druck-/sichtbare
+Sondercodes (Escape-Sequenzen) um einen (9-Nadel-)Drucker
+zum Drucken bestimmter Schriftformate (zB fett, kursiv usw.) zu bewegen.
+Druckertreiber gabs noch nicht! Gleiches galt für die Darstellung auf dem Bildschirm.
+
+Der DMV-Verlag war auch Herausgeber der Feussner-Amstrad-Computerhefte
+und vertrieb auch Software wie das "Context Pro"-Schreibprogramm.
+(in der DDR hatten Betriebssyteme  oft eine andere Bezeichnung und liefen auf
+anderen Computern).
+
+Am "einfachsten" wäre KUII eine Umwandlung und Filterung
+der Escape-Sequenzen und der Sonderzeichen von Tabler- in Windows-
+Zeichencode (mittels einer Programmiersprache?) in
+HTML-Tags um sie dann über eine lokale Webseite über den Browser
+ausdrucken zu können (ändern der Dateiendung .BRF oder .TXT etc. in
+.OOL)
+
+Gruss
+Julius

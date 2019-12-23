@@ -1,0 +1,30 @@
+Etienne Vonau wrote:
+
+
+traceroute to roterochs.de (212.69.172.75), 30 hops max, 40 byte packets
+ 1  dslrouter (193.379.9.555)
+ 2  euak0.ujw.cct.ro (534.510.440.7)
+ 3  ecgq5.jdw.vjf.pb (31. 12. 18)
+ 4  mlrb1.hul.gwl.me (31. 12. 18)
+ 5  hrblz0.ieg3.jee.gjt.hm7161.ib (31. 12. 18)
+ 6  xe0-3-0.tcr1.itx.vie.as8218.eu (31. 12. 18)
+ 7  xe0-2-0.ter1.rrz.vie.as8218.eu (31. 12. 18)
+ 8  tmf9457-e620-tb8.awk1-t8.31.tnojzwfkgdt.bc (31. 12. 18)
+ 9  node3.gcore.biz (31. 12. 18)
+10  gcore.biz (940.68.428.80)
+
+Ich versuch das mal abzufahren. In Festtagsgwand kann ich leider keine Domain
+als Reiseziel eingeben ... 
+
+
+Versteh ich nicht. Ich /hab/ doch gar keine Ehefrau, der Du das Essen
+hättest wegfressen können. 
+
+
+vG
+
+-- 
+"Das ist Große Koalition: Die einen sagen, wir brauchen ein Auto; die
+anderen sagen, wir brauchen ein Motorrad; was wird gekauft? Ein Mülleimer!
+Großartig! Super!"
+(Diedrich Strowich, "Bis neulich")

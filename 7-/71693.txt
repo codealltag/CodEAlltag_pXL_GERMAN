@@ -1,0 +1,22 @@
+Eugen Oelers skrev:
+
+
+Programmer's dictionary:
+
+loop: see "endloop".
+recursion: see recursion.
+endloop: see loop.
+
+Sprachlich bedeutet es "Wiederlaufen".
+
+Es ist eine Technik in Programmierung wo eine Funktion sich
+selbst ruft.
+
+function fakultaet (n) {
+  	if (n==1) return n
+  	return fakultaet n*(n-1)
+}
+
+-- 
+Thorsten
+http://wfbyrh.mdgnspynqb.lh/			FIDUSO: http://eqgfdr.ec/

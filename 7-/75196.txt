@@ -1,0 +1,3 @@
+Ich nehm die persönlichen Assistenzfunktionen ("intelligent" und
+"Agenten" - naja, "ausgereift" wär mir lieber). Und setz noch
+einen drauf: Nachrichtenaggregate.

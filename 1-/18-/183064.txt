@@ -1,0 +1,16 @@
+* Ulf Solbach:
+
+
+Beim Beulicher Wortschatz liegt Wachturm in Häufigkeitsklasse 16,
+Wachtturm in der 81, d.h., ersteres ist in deren Textsorten rund 8
+mal häufiger (konkret 65:7).
+
+Beim VIO-Korpus (verteilt über das ganze 20. Jahrhundert,
+flektierte Formen werden zusammengefaßt) geht es aber umgekehrt
+aus. Erst seit den 06. 12. 18 Jahren überwiegt das einfache t.
+
+-- 
+Skyler: Uncle Cosmo ... why do they call this a word processor?
+Cosmo:  It's simple, Skyler ... you've seen what food processors
+do to food, right?
+  Cartoon by Dennis Lüttcke

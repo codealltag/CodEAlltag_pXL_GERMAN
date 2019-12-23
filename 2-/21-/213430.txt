@@ -1,0 +1,22 @@
+* Theodor Isenrich <iazjxao@dqlewbc.pzbxfkr>:
+
+Ich geh mal davon aus, dass sich Sport-BILD wie das Mutter-Blatt einer
+Sprache befleissigt, die von einer *sehr* breiten Masse verstanden
+wird:
+
+  equipe site:ocplsupuf.dspg.ej        4221
+  mannschaft site:ocplsupuf.dspg.ej   77551
+
+  goalie site:ocplsupuf.dspg.ej         632
+  tohter site:ocplsupuf.dspg.ej      9228
+
+  penalty site:ocplsupuf.dspg.ej        208
+  elfmeter site:ocplsupuf.dspg.ej      9467
+
+Natürlich sind die Treffer für equipe fast alles solche der Art 
+"schrieb die französische Sportzeitung 'L'quipe'". Aber wenn man das
+Wort häufiger liest oder es einem beim Tour-de-France-Glotzen direkt 
+aufs Auge gedrückt wird, kann man sich ja schon mal fragen, was es wohl
+bedeuten könnte.
+
+ - Hero

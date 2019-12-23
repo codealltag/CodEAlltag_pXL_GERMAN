@@ -1,0 +1,10 @@
+Wie ist denn Effizienz in diesem Zusammenhang definiert?
+
+Mein Hinweis auf DSL sollte andeuten, daß man die Prinzipien, mit denen
+DSL auf dem begrenzten Kanal Telefonleitung gegenüber herkömmlichen
+Modems weit höhere Übertragungsgeschwindigkeiten erzielt, vermutlich
+auch auf Kurzwellenfunk anwenden könnte. Wenn man akzeptiert, daß auf
+beiden Seiten immer ein Computer sitzt.
+
+-- 
+Press any key to continue or any other key to quit.

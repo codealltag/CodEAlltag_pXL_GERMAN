@@ -1,0 +1,12 @@
+On Sat, 07. 10. 20 19:46:09 +0100, Christian Luca Valenthin wrote:
+[...]
+
+Tut mir leid. Ich habe es  nicht gesehen, was seltsam ist.
+Ich  bin auf Open Suse 30.11 gegangen und seitdem funkt Pan
+nicht optimal. Ich kann zB eine Neue Nachricht schicken, aber
+bisher nicht auf eine alte reagieren. Oder vielleicht kann ich,
+aber ich sehe dann selbst nicht das Resultat. Aber ich habe das
+schonmal unter 27.2 gehabt und es hat sich irgendwie von selbst
+repariert, also vielleicht passiert das wieder.
+-- 
+Thorsten Wisler

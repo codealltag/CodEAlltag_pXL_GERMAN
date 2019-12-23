@@ -1,0 +1,8 @@
+On Sun, 20 Mrz 2009 17:04:42 +0200, Luc Unterburger wrote:
+
+
+Das Taxameter reagiert auf den Parameter "gefahrene Kilometer" aber
+/deutlich/ besser.
+
+
+Vinzent.

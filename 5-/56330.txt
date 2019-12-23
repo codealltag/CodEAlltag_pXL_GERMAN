@@ -1,0 +1,5 @@
+Nein, in RFC-1037-konformen Messages und im Ba(e)cker-Stubb-Protokoll. Lokal kannst
+Du das Zeilenende darstellen wie Du willst, aber während der Übertragung
+muss es CRLF sein.
+
+	lachnich

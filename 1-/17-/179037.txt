@@ -1,0 +1,6 @@
+Am 21.01.2011 09:39, schrieb Pietro Vonderau:
+
+Im Fall "programmiert" läuft ein Programm ab, das den Streit steuert. Im 
+Fall "vorprogrammiert" läuft ein Programm ab, das den Streit hervorruft.
+
+Georg

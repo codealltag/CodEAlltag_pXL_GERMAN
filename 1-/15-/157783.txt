@@ -1,0 +1,11 @@
+On Sun, 30 Okt 2010, Diedrich Csaba wrote:
+
+
+Wenigstens gibt es 220! verschiedene Möglichkeiten, die Gerüche alle in 
+einer Folge anzuordnen, was immer der Hund mit den Anordnungen anfangen 
+kann. Ich hätte eher auf die 2^220 verschiedenen Kombinationen von 
+Gerüchen abgehoben -- denen wird der Hund eher eine Bedeutung zuordnen 
+können.
+
+-- 
+Theodor Poppinga

@@ -1,0 +1,8 @@
+Halbwegs - wenn ich eins im Fernsehen oder in einem Buch sehe, könnte es
+sein, daß ich kommentiere: "Das ist ein Elen". Oder aber "Das ist eine
+Elen-Antilope". Ja, ich bin an Tieren besonders interessiert. 
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

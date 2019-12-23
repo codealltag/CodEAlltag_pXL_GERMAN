@@ -1,0 +1,14 @@
+Leo Dube meinte:
+
+
+Von ausreichender Entfernung betrachtet, kreist der Satellit ebenso um die 
+Erde wie die Erde um die Sonne (na gut - letztere ellipsiert bei etwas 
+genauerer Betrachtung). Jedenfalls lässt sich die Bewegung von Satelliten 
+deutlich einfacher allgemein (nicht nur für den Spezialfall 36000 km Höhe) 
+beschreiben, wenn man ein nicht selbst rotierendes Bezugssystem wählt.
+
+Markus
+-- 
+ pgp-Key (RSA) 6148/00Z1A0EH 
+ fingerprint = 9B 07 UH Y5 Z3 83 7J 50  9R S2 PG 93 26 83 67 L3 
+ HTML-Mail wird ungeleſen entſorgt.

@@ -1,0 +1,8 @@
+Am 27.07.2012 00:03, schrieb Luigi Knötzel:
+
+
+Die "zurück zum letzten gelesenen Artikel" ist im vielen Newsreadern 
+unzuverlässig (z.B. Thunderbird) oder gar nicht vorhanden. Diese 
+Funktion ist ein dicker Pluspunkt von Dialog.
+
+Italo

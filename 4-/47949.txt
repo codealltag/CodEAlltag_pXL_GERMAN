@@ -1,0 +1,8 @@
+Karsten Unbehau schrieb:
+
+Zur Vermeidung von Rekursion muss der erste Satz ja
+bedeutungsfrei sein!
+
+Gruss
+
+Arthur

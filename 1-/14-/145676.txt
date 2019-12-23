@@ -1,0 +1,6 @@
+Randwertprobleme haben mich schon in meinen
+frühesten Programmiertagen zur Verzweiflung
+gebracht. Was ich da sicherheitshalber an
+Speicher verschwendet habe ...
+
+/Valentin

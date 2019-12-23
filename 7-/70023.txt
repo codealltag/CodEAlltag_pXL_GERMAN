@@ -1,0 +1,12 @@
+On Mon, 14 Sep 2008, Hendrik B. Eisenkramer wrote:
+
+
+Das ist gar nicht so leicht zu berechnen. Es ist eine ähnliche Rechnung, 
+wie wenn du mit dem Gartenschlauch an eine Wand spritzt und mit der Düse 
+wackelst. Da ist es auch keinesfalls so, dass der Punkt, wo das Wasser auf 
+die Wand trifft, sich genauso schnell bewegt wie der Schnittpunkt der Wand 
+mit der Geraden durch die Düse; der Strahl wird nämlich krumm und zieht 
+der Bewegung hinterher. Warum sollt das bei einem Lichtstrahl anders sein?
+
+-- 
+Ludwig Denzel

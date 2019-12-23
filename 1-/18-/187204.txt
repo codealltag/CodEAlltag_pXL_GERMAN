@@ -1,0 +1,9 @@
+Am 18.05.2012 14:15, schrieb Ullrich Jurk:
+
+<abschweif>
+Hab grad gehört, dass das unter Ubuntu prinzipiell nicht mehr geht - man 
+kann nur mit sudo Programme als root laufen lassen. Klingt 
+ichwei�nichsorecht.
+</abschweif>
+
+Niklaus

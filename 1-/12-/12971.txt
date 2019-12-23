@@ -1,0 +1,18 @@
+On Mon, 16 Okt 2008 14:06:15 +0200, Albin Holtgrebe wrote:
+
+
+Bei Horlemann Office ist z.B. Arial Unicode dabei, meines Wissens einer der
+vollständigsten Fonts. Ansonsten gibts aber auch noch andere
+Unicode-Schriftarten.
+Die sind schon mal die Voraussetzung für die Anzeige.
+
+Auswählen kannst du dann halbwegs komfortabel mittels der
+Interback-Zeichenmappe (Start -> Ausführen -> "charmap" -> Erweiterte
+Ansicht-> "Unicode" + "Unicode-Unterbereich" -> neues Fensterchen mit den
+Unicode-Bereichen zum Vorselektieren)
+
+
+Rémy Deppner
+-- 
+Heute verlierst du.
+Morgen gewinnen die Anderen.

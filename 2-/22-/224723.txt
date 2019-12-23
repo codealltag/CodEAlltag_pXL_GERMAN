@@ -1,0 +1,28 @@
+Da bist Du aber im Irrtum.
+Der Relativsatz bezieht sich auf das nächst vorstehende Nomen, und das
+sind 'die Ersten', also ein Plural.
+
+Dei Irrtum gründet in der Annahme, der Relativsatz bezöge sich auf die
+Nominal-Fügung "einer der Ersten" (Genitivus partitivus übrigens), was
+freilich Singular ist.
+Es ist aber nicht an dem.
+
+Beispiel:
+Die Hunde des Mannes, der gestern bei mir klingelte...
+
+Da ist der Relativ-Anschluss Singular, wei 'des Mannes' Singular ist,
+unbeschadet dass 'Die Hunde des Mannes' Plural ist.
+Also der umgekehrte Fall zum obigen Beispiel.
+
+Beispiel:
+Die Wohnung der jungen Leute, die oft laut Party machen....
+
+Hier ist ist 'der jungen Leute' Plural, also ist auch der
+Relativ-Anschluss Plural, obwohl 'Die Wohnung der jungen Leute'
+Singular ist.
+
+Die Besonderheit des von dir beanstandeten Satzes ist lediglich, dass
+die Relation zwischen 'Er ist' und 'einer der Ersten' eine etwas
+andere ist als die zwischen 'die Hunde' und 'des Mannes' oder zwischen
+'die Wohnung' und 'der jungen Leute'.
+Das spielt aber bei der Numerus-Kongruenz keine Rolle.

@@ -1,0 +1,17 @@
+* Enno Pechtl <Xrotpt@Wytegrqi.anu> wrote:
+
+[Crossposting mit bestimmten Gruppen ausschließen]
+
+
+Wenn kein Hamster oder so dazwischenh�ngt, geht es noch besser über
+Xref, Beispiel:
+
+ =-111 Xref "de.soc.weltanschauung"
+
+
+[Querversand und Überweisung nach dcs4d]
+
+-- 
+GUGELIEREN,  vb., schwelgen: dann das ander jar war ein solch gugelieren
+bei dem guten most L. HUMML
+  UWE, Deutsches Wörterbuch

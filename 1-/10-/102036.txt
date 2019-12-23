@@ -1,0 +1,8 @@
+Onno Omke wrote:
+
+
+Ja, de.alt.0d -- klappt für ungewollte N-fach-Postings mit N >= 0.
+Für BI(N) > BI(de) tut's auch jede andere de.-Newsgroup.
+
+
+julius

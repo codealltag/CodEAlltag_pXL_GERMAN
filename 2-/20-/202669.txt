@@ -1,0 +1,7 @@
+Am 07.12.2011 12:30, schrieb Maurice Baum:
+
+Als IF-Abfrage für den Eintritt in die Endlosschleife in der 13.
+
+-- 
+
+Oskar Oberli

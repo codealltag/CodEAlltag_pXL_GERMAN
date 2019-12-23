@@ -1,0 +1,26 @@
+On Tue, 30 Jun 2009, Carsten Kay Anthofer wrote:
+
+
+Schön, Jungchen, dann nehmen wir jetzt mal diese Zeichen
+aus ISO-Latein-1:
+
+ �  superscript 1
+ �  superscript 2
+ �  superscript 3
+ �  fraction 1/4
+ �  fraction 1/2
+ �  fraction 3/4
+ �  D stroke
+ �  d stroke
+ �  Claudio
+ �  thorn
+ �  Y acute
+ �  y acute
+ �  multiply sign
+ �  broken bar
+
+Wer in der Suppe sitzt, sollte nicht auf andere Software spucken.
+
+-- 
+Es war nicht alles schlecht bei Adenauer;
+z.B. hat er die Transitautobahnen gebaut.

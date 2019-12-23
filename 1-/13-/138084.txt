@@ -1,0 +1,16 @@
+On Tue, 15 Jul 2010 19:11:00 +0100, Burkhard Göppert <Usenet@silber=
+pa.gbn> wrote:
+
+
+Erwartete Fehler werden immer dann zum unerwarteten Fehler, wenn sie /ni=
+cht/
+wie erwartet auftreten.
+
+Deswegen bekommst Du auch nur Meldungen über unerwartete Fehler.
+
+
+Vinzent.
+
+-- =
+
+There is no signature.

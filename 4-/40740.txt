@@ -1,0 +1,13 @@
+On Mon, 12 Feb 2008 15:25:16 +0100 Tino Böwingloh <yj@tnowmdd.ttj>
+wrote:
+
+
+Öhm ... die steht doch sowieso in den Headern, da kommen die Crawler
+also genauso leicht dran wie im Nachrichtenkörper.
+
+
+/W
+
+--=20
+My real email address is constructed by swapping the domain with the
+recipient (local part).

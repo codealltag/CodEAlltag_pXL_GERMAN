@@ -1,0 +1,8 @@
+Am 25.01.2011 08:56, schrieb Pierre Zölck:
+
+Ja, und vom DVI und ps Format. PDFTeX ist etwas besser, aber Formeln 
+kann man da auch nicht finden.
+
+-- 
+
+Otto Große-Boes

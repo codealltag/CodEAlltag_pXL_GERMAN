@@ -1,0 +1,27 @@
+Claus Jungrichter wrote:
+[...]
+Herr Jungrichter ist so unorthodox wie der irre Ram. Wenn man die
+Betreffzeile ändert, geht's so:
+
+NEU [Was: ALT]
+
+   Also nicht � la Gerdes:
+Subject: Die Meisten   was: Die Sache mit dem Kühlschrank...
+
+   Sondern:
+Subject: Die Meisten [Was: Re: Die Sache mit dem Kühlschrank...].
+
+Irre Beispiele verbrochen von Rarissima Avis Marcel Sappler:
+
+   Subject: "leider" (was: ...)
+
+   Subject: "Rosamunde" (was: Rosamunde ...)
+
+   Subject: "Schreibprogramm" (was: altes Schreibprogramm ...)
+
+   Subject: Aufloesung von Ligaturen (was:)
+
+Ordnung muß sein!
+
+-- 
+~~~ Dirk {Rey} Aman ~~~

@@ -1,0 +1,13 @@
+Birgitt Oelbüttel aber hob zu reden an und schrieb:
+
+üblicherweise: ... aufruft.
+
+
+Wozu brauchst du hier eine Tabelle?!
+Eine einfache Schleife und zwei Variablen tun's doch auch?
+
+
+Wolfram
+-- 
+       Freiheit stirbt        |       Daniel ACHTERHOLT&F-Bibliothek:
+            Mit Sicherheit    |       http://mrtlgmii.veimp.yn/

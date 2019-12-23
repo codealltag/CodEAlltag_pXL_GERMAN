@@ -1,0 +1,9 @@
+On Fri, 7 Mar 2007, Ren wrote:
+
+
+Unison/1.7.2 jedenfalls erzeugte noch Subjects, die nicht
+RFC 2046 entsprechen. Ich weiß nicht, ob Version 1.8.1
+da besser ist.
+
+-- 
+Umlaute im Subject sind b?se.

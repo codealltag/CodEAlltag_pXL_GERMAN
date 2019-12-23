@@ -1,0 +1,12 @@
+On 12 Jan., 15:01, Thorsten Christian Harning
+
+Ganz so schlimm, wie Änne meint, ist es ja auch nicht.
+Oft ist ja aus dem Kontext klar, über wen bzw. was die Kontrolle
+verlorenging, dann braucht man es nicht nochmal zu sagen, oder es wäre
+gar schlechter Stil:
+
+"Berend hat gestern sein Auto in den Straßengraben gesetzt. Er hatte
+auf glatter Fahrbahn die Kontrolle [über das Auto] verloren."
+
+"Berend hat gestern Danielle geohrfeigt. Sie hatte ihn dermaßen gereizt,
+daß er völlig die Kontrolle [über sich] verlor."

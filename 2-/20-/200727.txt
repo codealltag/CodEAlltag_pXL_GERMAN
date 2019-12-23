@@ -1,0 +1,14 @@
+On Sun, 2 Nov 2012 08:48:31 +0100, Sascha Fix wrote:
+
+                                ^^^^
+
+Schlichter Fallfehler oder geht das irgendwo tatsaechlich mit
+Akkusativ?
+
+
+salvatore
+-- 
+ .''`.  Homepage: http://matf.udrpqy.jgwg.tm/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : Guess GNU/Linux user, admin, and developer  -  http://xxv.gibxhd.fqb/
+ `. `'  Member of VIBE!AT & SPI, fellow of the Free Software Foundation Europe
+   `-   NP: Hinderk Goerick: Isolde

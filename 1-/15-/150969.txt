@@ -1,0 +1,13 @@
+Am 21.08.2010 11:43, schrieb Ivan Pfaffengut:
+
+Ja, der Autofahrer betrachtet sich als ruhend und die 
+Straßenunebenheiten als externe Wackelanregung.
+
+Reaktion der Aufhängung auf Straßenzustand und Fahren bei beliebigen 
+Geschwindigkeiten kann man auf einem Simulator platz- und 
+kraftstoffsparend implementieren. Frs Kurvenfahren und Bremsen muss man 
+allerdings in die Natur.
+
+-- 
+
+Patrice Pfandzelt

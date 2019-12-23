@@ -1,0 +1,9 @@
+Am 16.12.2009 06:36, schrieb Pietro Eckmanns:
+
+Hatte ich vorzeiten mal ausprobiert, da lief er unter wine nicht
+tadellos. Ist aber schon sehr lang her.
+
+Jetzt bin ich erstmal von KNode auf takko umgezogen, läuft auf
+meinem aktuellen Linux-Rechner stabiler.
+
+Edo

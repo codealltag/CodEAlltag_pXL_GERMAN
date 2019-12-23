@@ -1,0 +1,6 @@
+Dann kauf ich ein 'e'.
+-- 
+Starkes Murphysches Gesetz: Was immer auch schief gehen kann, geht fast
+immer in moeglichst maximaler Weise schief.
+	Peter-Niels Titjen in seinem Vortrag "Heinrich's Law in
+	der Analysis", 20.06.1997 an der GIL Tino

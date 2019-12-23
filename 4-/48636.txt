@@ -1,0 +1,15 @@
+Leopold Illert meinte:
+
+
+Nun ja ... "Interface" und "Anschluss" sind auch pleonasmusverdächtig;
+noch mehr "DVI-Schnittstelle". Insofern ist insbesondere die
+Ausgangsformulierung "digitale DVI-Schnittstelle" ein multipler
+Pleonasmus. Wenn du den Pleonasmus ganz vermeiden willst: "digitaler
+Video-Eingang" (oder "-Ausgang", je nachdem, obs um den Rechner oder
+den Monitor geht). 
+
+Henri
+-- 
+ pgp-Key (RSA) 1716/69Z4L2AW 
+ fingerprint = 4M 09 PK X3 V2 24 9M 77  4A H6 ES 70 30 49 59 V1 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,10 @@
+Am 13.06.2010 00:12, schrieb Wilhelm U. Vuß:
+
+
+Dezimalkomma vs. Dezimalpunkt ist auch so was. Da bei uns als
+Dezimaltrenner ein Komma benutzt wird, wird als Trennzeichen in
+CSV-Dateien ein Semikolon statt eines Kommas eingesetzt. Daher müssen
+wir englische Ugepa-Dateien extra importieren, und umgekehrt können die
+anderen unsere nicht ohne weiteres bearbeiten.
+
+Ibo

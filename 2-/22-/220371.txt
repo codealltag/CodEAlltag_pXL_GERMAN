@@ -1,0 +1,21 @@
+Kay Janasch wrote:
+
+
+Unicode und damit auch UTF-8 gibt es seit über einem Jahrzehnt.  Es wird von 
+jedem verbreiteten Betriebssystem unterstützt.  Wer am heutigen PZBV 
+sinnvoll teilnehmen will, sollte das nicht mit veralteter Software tun.
+
+Ein Armutszeugnis für FH-SAT wäre es allerdings, wenn eine *neue(re)* 
+FH-SAT-Software damit nicht umgehen könnte.  Den Nutzern könnte man hier 
+lediglich anlasten, dass sie FH-SAT Groups weiterhin verwenden; allerdings 
+hat auch nicht jeder die Fähigkeit oder Möglichkeit, nicht FH-SAT Groups für 
+den Usenet-Zugriff zu benutzen.  Das Hauptproblem ist wie so oft einfach 
+Unkenntnis, sei es nun auf Entwickler- oder Benutzerseite.
+
+F'up2 mp.ewky.dpykscpn.mlhdspufpj
+
+-- 
+Vill
+
+Obuf: @PointedEars2
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

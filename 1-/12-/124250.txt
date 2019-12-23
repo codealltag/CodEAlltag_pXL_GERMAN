@@ -1,0 +1,7 @@
+Und wenn du auf einem Computer schreibst: Mit einem "unbreakable space",
+zu deutsch einem "geschützten Leerzeichen", meist als Shift + Space
+bzw. Umschalt + Leerzeichen geschrieben - damit das Sternchen nicht aus
+Versehen mal ganz allein am Ende einer Zeile stehenbleibt.
+
+j/\a
+--

@@ -1,0 +1,11 @@
+On 20.07.2008 16:42, Bodo Juengermann wrote:
+
+
+Vielleicht ist Arial bei dir als Font für UTF-8 eingestellt?
+
+
+Ciao
+Nicola
+-- 
+ Alkohol, mäßig genossen,
+ schadet auch in größeren Mengen nicht.

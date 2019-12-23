@@ -1,0 +1,9 @@
+Rainer Neimeier wrote:
+
+
+dazu kommen noch die spitzen Klammern <> und, wo es nicht reicht noch 
+diverse Kombinationen, wie (*...*) oder /*...*/, oder auch $...$
+
+Wenn es aber um Klammerorgien geht, ist Lisp uneinholbar an der Spitze.
+
+Fritz

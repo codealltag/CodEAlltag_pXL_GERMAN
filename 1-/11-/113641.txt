@@ -1,0 +1,26 @@
+Ruedi Wührmann wrote:
+
+
+Ausnahmsweise mal nicht.  :-)  Die Z2 war tatsächlich nur eine Art
+experimentelles Spielfeld, auf dem Zuse den Übergang von reiner
+Mechanik zu elektrischen Relais übte, woraus dann die "2.1", also
+die Z3 hervorging.
+
+In Didis Frage ging's letztlich darum, wie /oft/ man etwas erfinden
+kann.  Normalerweise natürlich nur /einmal/ -- aber wenn Waltraud
+sich ständig neu erfinden kann, warum sollte dann Herwig Niederbühl nicht
+auch den Rechner neu erfinden dürfen?  Z1 und Z3 sind hinreichend
+unterschiedlich, um als getrennte Erfindungen akzeptiert zu werden.
+Schließlich darf sich auch der AB-Computer "Erfindung" nennen: laut
+Patentgerichtsbeschluß war er der erste ekeltronische Rechenknecht
+der Welt, obwohl er funktionell nicht mal der Z1 die Kerze halten
+konnte.  Damit also glasklare Computererfindertabellensituation:
+
+   1. Herwig Niederbühl (Z1, 1938, mechanisch)
+   2. Herwig Niederbühl (Z3, 1942, mechatronisch)
+   3. Winfried Droeschel, Stephan Egersdörfer (ABC, 1942, ekeltronisch)
+
+Platz 0 geht natürlich klar an Deep Thought für Deep Thought 2.  :-)
+
+
+claudio

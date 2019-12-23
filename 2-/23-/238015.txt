@@ -1,0 +1,11 @@
+* Dieter Nebelsieck:
+
+
+Der Name sieht norddeutsch aus, und dort neigt man zu langen
+Vokalen, sagt jedenfalls mein Vorurteil: "Geeades". Ein
+Frankfodder würde es eher "Gödde" aussprechen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Rudi Ziegleder, comp.lang.python

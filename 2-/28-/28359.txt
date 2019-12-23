@@ -1,0 +1,12 @@
+Diesen Buchstaben kenne ich nur als "rundes Z"; meine Mutter
+benutzt ihn stets in handschriftlichen Texten. 
+"Geschwänzte Z" ist mir auch schon untergekommen, als ich durch
+Unicode blätterte, leider habe ich vergessen, wo und in welcher
+Sprache das vorkam (Rumänisch? S�dGUSsisch?). Das sah aber anders
+aus, wie ein lateinisches Z mit einem Mittelding aus verbogenem
+Komma oder zerdrückter Cedille rechts unten dran.
+
+
+Vermutlich, weil man es den Lesern einfach machen will (ASCII
+kann jeder Computer) und sie nicht vor einen Zaun von Vierecken
+stellen.

@@ -1,0 +1,14 @@
+On 21.05.2011 21:24, Juergen Grosse wrote:
+
+
+Freilich. Die Frage ist aber eher, warum beim Problem der 'Quadratur des
+Kreises' immer nur auf die Fläche abgezielt wird, und eben nicht auf den
+Umfang. Dass Letzteres trivial ist, sollte als Begründung nicht reichen.
+
+
+Ciao
+Rosi
+-- 
+ They sentenced me to twenty years of boredom
+ For trying to change the system from within
+ [Werner Jakoby]

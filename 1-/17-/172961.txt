@@ -1,0 +1,9 @@
+* Thorsten P. Zähl:
+
+
+Das sind (Trocken-)*Zellen*. *Batterien* sind typischerweise aufladbar,
+wenn man schon internationalisiert.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Maercker's law

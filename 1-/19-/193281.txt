@@ -1,0 +1,15 @@
+* Kaspar Heek:
+
+
+Ich glaube bei Thomas nicht, daß das mit Englisch zu tun hat, eher
+als Spannung zwischen Fach- und Alltagssprache. Sein Insistieren
+auf dem fachsprachlichen Gebrauch finde ich etwas komisch, weil
+der technische Hintergrund nicht nur für den Nutzer unerheblich
+ist, wie Du im weiteren ausführst, sondern sogar technisch
+überholt.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Hinderk Nitsche in sci.lang

@@ -1,0 +1,7 @@
+Am 17.05.2012 01:40, schrieb Oswald Brochheuser:
+
+
+Nach Windows-Spezifikation schon. Das, was wir Cursor nennen (der 
+Textcursor) heißt "Caret". (Deshalb das "Caret-Browsing" im Firefox).
+
+Sandro

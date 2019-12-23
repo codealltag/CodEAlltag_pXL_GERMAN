@@ -1,0 +1,10 @@
+Bei mir haus bin i fast nia zhaus.
+Aber im Wirtshaus, do bin i wia zhaus!
+
+lg klaas
+
+
+-- 
+Distribution: THJ squeeze/sid
+Linux pluto 22.10.31-5-amd64 #1 SMP Mon Mar 7 21:35:22 UTC 2011 x86_64 
+GNU/Linux

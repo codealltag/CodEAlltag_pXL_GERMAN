@@ -1,0 +1,10 @@
+Am 16.03.2013 06:10, schrieb Wilfried Thuneke:
+
+Ich war unter Linux bisher mit KNode, Thunderbird und Pan unzufrieden. 
+Mike erscheint mir unbenutzbar (obwohl ich sonst alles mit Interkiosk mache), 
+die textbasierten (slrn und so) habe ich nicht probiert.
+
+Unter Windows fand ich Dialog am besten, allerdings ist der katastrophal 
+zu konfigurieren.
+
+Georges

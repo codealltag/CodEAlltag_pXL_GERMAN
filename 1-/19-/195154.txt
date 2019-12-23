@@ -1,0 +1,12 @@
+Warum schreibst du ihm nicht einfach einen aktiven Link hin?
+Der she dann so aus: <kgxh:/xlc.ckgyeei-jeccdmxk.rg>
+Oder auch nur so: <www.endwirk-uutqswry.dk>
+
+
+Nein, der Fehler lag bei dir, u. zw. beidesmal. 
+Bein ersten Mal fehlte der Leerraum vor der URL (s. ganz ob.) und jetzt
+hindert der Schrägstrich davor das öffnen der Site. 
+
+
+-- 
+Ülkü Carras

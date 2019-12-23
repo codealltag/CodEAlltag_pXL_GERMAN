@@ -1,0 +1,10 @@
+* Juergen Grosse:
+
+
+In normaler Alltagsintonation fehlt bei mir der Knacklaut in
+"Meßergebnis", zumindest ist er sehr schwach. Im andernthreads
+behandelten Beispiel "beachten", wo ein Vokal vorangeht, ist er
+sehr deutlich.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

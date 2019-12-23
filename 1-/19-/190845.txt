@@ -1,0 +1,9 @@
+* Paolo Diedrichsen:
+
+
+Sicher, so läuft das normalerweise ab. Und wo nicht, wird dann
+halt nachgefragt (Milch? Zucker?).
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Nakken's law

@@ -1,0 +1,9 @@
+* Tino Dotterweich:
+
+
+Und gerade lese ich in alt.usage.english, daß Django Hartmut
+Sinti gewesen sei. :-)
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Hero Pretzer

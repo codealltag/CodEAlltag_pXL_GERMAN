@@ -1,0 +1,9 @@
+Orlando Kieckbusch schrieb:
+
+
+Die MID, also z.B. Message-ID: <ru0jsn$2d3$0@ezdt.ljzlkngy.zlt>
+
+Jetzt muss die Gegenseite nur noch in der Lage sein, diese MID auch zu
+finden.
+
+Hanspeter

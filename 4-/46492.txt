@@ -1,0 +1,19 @@
+Die Schnelligkeit entspricht unter normalen Umständen der
+Geschwindigkeit, ähnlich wie das Gewicht der Masse.
+
+
+Klar, auf dieser abstrakten Ebene schon.
+
+
+Na sicher. Langsamkeit ist aber kein Gegensatz zu Geschwindigkeit.
+
+"Schnell" bedeutet "hohe Geschwindigkeit". "Langsam" bedeutet "niedrige
+Geschwindigkeit". "Langsamer" bedeutet "niedrigere (weniger hohe)
+Geschwindigkeit". Soweit sollten wir uns alle einig sein.
+
+"Dreimal so langsam" ist offensichtlich ein Fall von "langsamer". Die
+Geschwindigkeit wird also verringert, und zwar um einen Faktor 3. Jede
+andere Erklärung ist jedenfalls weniger naheliegend.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

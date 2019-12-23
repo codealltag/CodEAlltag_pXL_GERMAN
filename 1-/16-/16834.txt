@@ -1,0 +1,10 @@
+Juan Schiktanz (Thu, 23 Aug 2008 22:03:15 +0200):
+
+
+In HTML-Tags sind WIMRE nur 7-Bit-Zeichen erlaubt.
+
+
+Da Carsten
+-- 
+Carsten Olthof, Unteruhldingen (bei Nettelsee)                http://zxwteqe.ps
+     Man ist so alt, wie man sich fühlt, aber niemals so wichtig.

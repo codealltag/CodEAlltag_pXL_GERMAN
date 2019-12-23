@@ -1,0 +1,11 @@
+On Fri, 2 Jan 2012 21:16:05 +0100, Etienne Voelckel wrote:
+
+
+Oder ein From: mit Leerzeichen?
+
+philipp
+-- 
+ .''`.   Homepage: http://orpm.nxeptf.cukn.qg/ - OpenPGP key ID: 1m9815UM66
+ : :' :  GHI GNU/Linux user, admin, & developer - http://zbi.fmprrp.fex/
+ `. `'   NUWW, fellow of Free Software Foundation Europe
+   `-    NP: Sarah Jungholt: Little Girl Blue

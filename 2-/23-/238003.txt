@@ -1,0 +1,6 @@
+Ulfert Heisterborg        [Dativ]
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Udo Paust, comp.lang.python

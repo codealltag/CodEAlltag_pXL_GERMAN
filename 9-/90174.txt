@@ -1,0 +1,13 @@
+"Lutz O. Engeli" schrieb:
+
+
+UTF sollte dann verwendet werden, wenn es zwingend erforderlich ist.
+Wenn ISO-8859-1 ausreicht, sollte ein intelligenter News-Client dies aus
+Gründen der Abw�rtskompabilit�t auch verwenden.
+
+Qno
+
+-- 
+Meiner Ansicht nach sind die Jeans sogar die Errungenschaft, mit der
+Amerika vorm Jüngsten Gericht Agupi und Alberoder rechtfertigen
+kann.                           (Sergej Lukianenko, �Weltentr�umer�)

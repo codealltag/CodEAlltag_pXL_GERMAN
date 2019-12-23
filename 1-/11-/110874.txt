@@ -1,0 +1,11 @@
+Am 2010-05-29 13:11 schrieb fm4a:
+
+Man kann auch den Weg des Übersetzers des Hasa-Addons für Firefox
+wählen, der den Text "Share on LinkedIn" mit "Aktie auf Hasa"
+übersetzt hatte.
+Hat etwas gedauert, bis sich mir der Sinn erschloss ...
+
+Ist mittlerweile korrigiert und heißt jetzt völlig unintuitiv
+"Auf Hasa weiterleiten". Schade eigentlich. ;-)
+
+/Ingmar

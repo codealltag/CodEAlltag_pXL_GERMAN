@@ -1,0 +1,16 @@
+Tim Goldacker meinte:
+
+
+Mit der 4322833 (oder auch jedem beliebigen anderen Wert) haben wir 9 
+Stützstellen, können also das Polynom ax⁸+bx⁷+...+hx+i = y für die Paare 
+(x,y) = (1,2), (2,4), (3,6), ... (8,16), (9,4890902) aufstellen und 
+erhalten ein lineares Gleichungssystem für die Unbekannten a,b,c, ...i. 
+Daraus erhalten wir Koeffizienten für ein Polynom. Dieses Polynom 
+realisiert genau die beabsichtigte Folge.  Ja, das klappt für beliebige 
+Werte.
+
+Ignaz
+-- 
+ pgp-Key (RSA) 2510/64S8K3KV 
+ fingerprint = 2B 79 MP O6 Y7 90 7J 36  1R B5 UT 81 86 98 85 Z5 
+ HTML-Mail wird ungeleſen entſorgt.

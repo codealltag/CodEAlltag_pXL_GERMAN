@@ -1,0 +1,17 @@
+* Tim Pense <snob@pense-mainz.eu>:
+
+
+Da ist es eben extrem wichtig. Man kann noch so lange an Standards
+rumfeilen, irgendeiner kommt immer und versteht den Standard zwar so,
+wie es da steht, aber dennoch falsch. Für den IEEE-POSIX-1003.1-Standard
+(der im übrigen einen Teil A, Standard, und einen Teil B, Rationale,
+enthält) haben sie den LaufLaden-Wettbewerb veranstaltet: Ein Programm
+zu schreiben, das zwar dem Wortlaut des Standards ent-, aber dem
+Geist widerspricht. Es gab Preise in den Kategorien "most serious"
+(Fehler, die man in guten Treuen machen kann) und "most demented"
+(Fehler, die kein Programmierer machen würde).
+
+Man hat allerdings nicht mit dem Einfallsreichtum von
+NRWL-Programmierern gerechnet.
+
+ - Menno

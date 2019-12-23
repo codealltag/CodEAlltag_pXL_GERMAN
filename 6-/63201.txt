@@ -1,0 +1,7 @@
+Am Tue, 23 Mai 2010 14:54:34 +0200 schrieb Dieter Tzscheppan:
+
+
+Für solche threads musst du einen unicode-Zeichensatz verwenden, sonst bist
+du chancenlos :-)
+
+P

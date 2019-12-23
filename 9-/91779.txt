@@ -1,0 +1,4 @@
+Es ist aber völlig unerheblich, was Duden oder sonst ein Mensch
+zur Schreibung einer URL meint, denn die soll nicht schön sein,
+sondern weltweit maschinenlesbar, und sollte sich somit auf den
+ASCII-Zeichensatz beschränken.

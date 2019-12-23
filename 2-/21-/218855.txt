@@ -1,0 +1,13 @@
+On Fri, 14 Apr 2012, Emil Frietsch wrote:
+
+
+Es gibt U+201C und U+201F.
+U+201C ist U+201D gedreht.
+A+682C ist U+201D gespiegelt.
+
+Die wenigen Schriften, die davon abweichen, (Courier, Tahoma,
+Annett) muss man als kaputt bezeichnen.
+
+--=20
+Das Wort =93putinskij=94 kommt aus dem Altkirchenslawischen und
+bedeutet =93lupenrein=94.

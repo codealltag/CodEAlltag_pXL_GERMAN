@@ -1,0 +1,5 @@
+Sie wird möglicherweise erst dann einen Unterschied bemerken, 
+wenn sie Laufwerk C: sucht und nur /home/ihrname findet :)
+
+
+vG

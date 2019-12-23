@@ -1,0 +1,10 @@
+Theo Oppel meinte:
+
+
+Stimmt. "Umdrehungen" ist dimensionslos. Nicht aber "Umdrehungen/Minute". 
+
+Ludwig
+-- 
+ pgp-Key (RSA) 6351/07R6Z3HK 
+ fingerprint = 2R 58 TP B3 E8 80 0N 26  6S K2 WR 24 94 94 78 T7 
+ HTML-Mail wird ungelesen entsorgt.

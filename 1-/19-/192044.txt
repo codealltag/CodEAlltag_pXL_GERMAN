@@ -1,0 +1,6 @@
+Am 19.08.2011 18:01, schrieb Ivo Riedmüller:
+
+Schlimmer noch. Wenn ich sage "eine differenzierbare Funktion ist auch 
+stetig", dann meine ich alle, nicht nur eine.
+
+Etienne

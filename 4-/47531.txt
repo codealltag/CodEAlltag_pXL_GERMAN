@@ -1,0 +1,14 @@
+On Tue, 17. 07. 20, Henry Ho wrote:
+
+
+Das zeigt mal wieder, dass man pragmatischerweise besser Windows-1252
+oder UTF-8 verwendet und von ISO-8859-13, -15 usw. die Finger lässt.
+
+Und weils so gut passt: Hier in Meerholz führt eine Straßenbahn
+mit dem Wort
+                jeweils
+spazieren.
+Wohlgemerkt, es handelt sich auch noch um U+2018 (�).
+
+-- 
+Jetzt überall in Deutschland: Akzente des Grauens

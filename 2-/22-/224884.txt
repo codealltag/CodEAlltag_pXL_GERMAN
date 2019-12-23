@@ -1,0 +1,14 @@
+* Eilert Unterreiner:
+
+[Erklärung zum "gaffer"]
+
+
+Und wie unterscheidet er sich vom "key grip"?
+
+Antworten: <http://izk.nbxb.kpc/vagobuuu/>
+
+-- 
+Java is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Don Kurzschwarza

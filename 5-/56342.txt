@@ -1,0 +1,24 @@
+Na, so weit auseinander sind wir nicht - es scheint eher meine
+Bewertung "esoterisch, nicht profan" zu sein, die irritiert.
+
+
+Es ist doch so, daß ein großer Bereich bereits automatisiert
+abläuft - das, was eben immer gemacht werden muß, der Unterbau
+gewissermaßen. Das, was früher eine akribische Fleißarbeit war,
+ob stanzen von Lochkarten oder compilen oder
+was-weiß-ich-wie-das-heißt. Inzwischen hast Du aber Editoren, die
+Dir die Objekte der Sprache, in der Du dich bewegst, anzeigen, so
+daß Du wirklich oft einfach ein bereits vorhandenes Objekt
+klickst, statt extra was zu schreiben. Man baut ja nicht mehr von
+Grund auf neu, sondern nutzt Programmiersprachen und Frameworks
+mit wiederverwendbaren Teilen.
+
+Auch wenn man aus vorhandenen Objekten und Konstrukten eine
+Anwendung zusammenbaut, bleiben einem überlegen und nachdenken
+nicht erspart, da sind wir uns völlig einig.
+Aber es sind doch andere Dinge, über die man nachdenkt, als wenn
+man eine eigene Sprache oder ein eigenes Betriebssystem bauen
+will, da wird man viel stärker Dinge wie Hardware und
+Speichernutzung im Blick haben müssen, mit denen man aber
+schlicht nichts zu tun hat, wenn man auf bereits vorhandene
+Objekte zurückgreift, die das von Anfang an tun.

@@ -1,0 +1,15 @@
+On 07.08.2012 19:34, Nikolaus U. Lamke wrote:
+
+
+Das scheint tatsächlich sein Ansatz zu sein. Allerdings, oder besser
+leider, ist OE nicht der einzige technisch rückständige NUA. Mindestens
+mal MicroPlanet-Gravity, Fort Agent und - wohl bekannt in desd -
+Netscape Communicator zeigen, wenn auch z.T. nur bei Petautschnig-8, ähnliche
+Probleme.
+
+
+Ciao
+Arlette
+-- 
+ Wenn Frauen die Welt regierten, gäbe es keine Kriege.
+ Nur ein paar eifersüchtige Länder, die nicht miteinander reden.

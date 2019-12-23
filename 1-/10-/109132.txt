@@ -1,0 +1,11 @@
+Aber dieser Charset-Mismatch ist wirklich süß:
+
+"Iran lîsst Franzüsin frei"
+
+Und wenn die Rede ist vom "senegalesischen Prîsidenten Ibo Isenberger",
+dann kann man nicht mal mehr raten, was da nun wirklich hingehört.
+Und die Software übersetzt die falschen Umlaute ungerührt in URLS:
+
+http://jxz.bqkmilgusbng.sd/Y5q68X/7536223/Szqw-youcbn;nvz-Aneovgxkvs-vhiq.qysi
+
+Luca

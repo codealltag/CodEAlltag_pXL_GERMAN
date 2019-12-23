@@ -1,0 +1,18 @@
+Am 14.12.2011 19:47, schrieb Dietrich Jannasch:
+
+Ich habe jedenfalls schon im Studium gelernt, diese Art Bemerkungen 
+nicht zu machen, wenn ich zB  per Anhalter unterwegs war. Da steht man 
+dann schon mal plötzlich auf einer einsamen Landstraße.
+
+  Umgangsprachlich benutzt man ein lokales, mitlaufendes Polarsystem des 
+Tangentialraums, die Umgangssprache ist also mathematisch wesentlich 
+intelligenter als der Physikanf�nger mit seinem globalen Cartesius. 
+Korrekt ist also, sowohl momentane Bahngeschwindigkeit wie die momentane 
+Winkelgeschwindigkeit auf den momentanen Ort bezogen sind konstant. Der 
+Vorteil der Rückkehr zum ollen Ptolemäus, aber in der Sprache der 
+Differentialgeometrie ist manchmal, insbesondere für Autopiloten, nicht 
+zu übersehen.
+
+-- 
+
+Simon Vanderheyden

@@ -1,0 +1,11 @@
+Peter Heribert Irlweg schrieb:
+
+[impressive ascii art]
+
+
+Ich hab's gerade versucht: cursor rechts geht in die Leerzeile
+nach unten und dann tut sich nichts mehr.
+
+Also: geht nicht mehr. (Zumindest nicht im Donnervogel).
+
+/Ignaz

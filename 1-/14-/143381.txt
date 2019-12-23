@@ -1,0 +1,8 @@
+Ich unterscheide: 
+
+   allfällige Ausgaben -> falls Ausgaben gemacht wurden
+   eventuelle Ausgaben -> falls Ausgaben eintreten werden
+
+
+-- 
+Xaveria Irlbeck

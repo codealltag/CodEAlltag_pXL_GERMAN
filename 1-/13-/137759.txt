@@ -1,0 +1,10 @@
+[...]
+
+Tut es.
+
+
+Das war jedenfalls sicher falsch. In ISO-8859-15 hat das S mit Hatschek
+den Code A6, nicht 8A (das wäre "Vertical Tab Set") - Windows-1253
+fehldeklariert als ISO-8859-15?
+
+	venschott

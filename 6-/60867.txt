@@ -1,0 +1,8 @@
+Nico Stöberer <ruzt_@nnl.ka>:
+
+
+Das Programm AutoCAD, das ja schon seit tiefsten DOS-Zeiten existiert,
+wurde damals bevorzugt über eingetippte Befehle gesteuert. Der Befehl
+für "Letzte Aktion rückgängig" hieß "Oops"
+
+Ullrich

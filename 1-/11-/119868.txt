@@ -1,0 +1,12 @@
+Gerard-David Ilinseer wrote:
+
+
+Das ist eine einfache, reversible Verschlüsselung, um z.B. Lösungen
+nicht zu offensichtlich zu machen.  Nennt sich ROT-13 und sollte
+auch im Repertoire Deines Newsreaders (Forte Agent) vorhanden sein.
+
+Abgesehen davon: hier (deutscher SW) versteht man unter "nicht übel"
+(oder "nicht schlecht") eine Anerkennung, aber keine Überbewertung.
+
+
+sébastien

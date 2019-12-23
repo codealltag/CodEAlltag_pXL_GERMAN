@@ -1,0 +1,6 @@
+* Ueli Loder <vlyauexdsz@wio.bzn>:
+
+
+ed-, ex- und vi-Benutzer verwenden den nur wenn nötig.
+
+ - Dennis

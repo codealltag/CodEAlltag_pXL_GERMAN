@@ -1,0 +1,13 @@
+David Purkert (Sun, 23 Jan 2009 16:26:29 +0200):
+
+
+Du wohnst eindeutig in der faclhsen Gegend.
+
+[ ] Ich habe diese Diskussion gewollt.
+[x] Sie ist schon x-mal geführt worden.
+
+
+Da Maik
+-- 
+Maik Oerke, Medernberg (bei Costedt)                http://vhlksad.nn
+     Scheisse in der Lampenschale gibt gedämpftes Licht im Saale.

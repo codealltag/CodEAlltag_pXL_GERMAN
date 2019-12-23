@@ -1,0 +1,15 @@
+On 27.05.2007 10:14, Francesco Maldacker wrote:
+
+[...]
+
+Es ging im OP um die 'Aussprache' einer URL. Die werden m.W. im
+Ascii-Zeichensatz geschrieben. Völlig ohne Kodierung[1].
+
+
+Ciao
+Emilie
+
+[1] Punycode u.�. mal außen vorlassend.
+-- 
+ Valérie rode on my motorbike directly back of me.
+ I hit a bump at 65, and rode on ruthlessly.

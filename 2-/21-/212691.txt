@@ -1,0 +1,12 @@
+On Sat, 29 Jan 2013 16:18:19 +0200, Alexander Glage
+
+Nein, es beschreibt ein Verfahren, in dem auf demokratischem Weg
+Verwaltungsabläufe optimiert werden. Einer sagt, wo's langgeht (top
+down), der Rest liefert positve Rückmeldungen (bottum-up). Der Witz an
+der Sache ist, dass das ernsthaft in einen Entwicklungsvorschlag
+eingearbeitet war.
+
+
+-- 
+Viele Größe
+Niklaus Thielmann

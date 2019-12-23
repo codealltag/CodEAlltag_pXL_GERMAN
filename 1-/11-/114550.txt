@@ -1,0 +1,4 @@
+On Tue, 26 Sep 2010 07:38:07 +0200, Helmuth Maatmann wrote:
+
+
+Analog zum I²C-Bus wäre es die Nul-Kubik-Inie.

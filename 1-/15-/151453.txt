@@ -1,0 +1,17 @@
+"Ivo Aichberger" <gsxzvt@heinbrz.thf> schrieb am 26.03.2011 00:22 den
+Newsbeitrag xucj:xqfbe1$mc1$17$8@otgc.r-pvdexq.lvj
+
+
+[abcdefghijklmnopqrstuvwxyz] Der Absender bildet die zweite Anordnung nach
+einem Schlüssel wie (hier z.B.) 3 [defghijklmnopqrstuvwxyzabc] und
+schreibt seinen Text um, indem Buchstaben der 1. Reihe mit denen der 2.
+Reihe ersetzt werden. Der Empfänger muß den Schlüssel kennen, um die
+Botschaft aufgrund der 2. Reihe wieder lesbar machen zu können. Eugen
+soll wohl nur mit "1" gearbeitet haben.
+
+
+Es gibt viele Verschlüsselungstechniken, hauptsächlich nach mathematischen
+Verfahren, deshalb arbeiten viele Mathematiker als Dechiffrierer ;-) Z.B
+für die "Blumensprache" braucht man ganz andere Spezialisten...
+
+MfG, VALERIAN [Yyad_Qcu/lk/o-bemtuk.za]

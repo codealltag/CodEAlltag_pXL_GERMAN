@@ -1,0 +1,10 @@
+Am 05.07.2010 06:57, schrieb Dirk Torbahn:
+
+Wolframs Client hat auf utf-8 umcodiert, das "ä" im Header seiner 
+Antwort wird von Thunderbird auf drei verschiedene Arten zugleich 
+angezeigt, überhaupt nicht im Originaltext mit Ctrl U, als "ä" im Baum 
+und als FFED im Nachrichtenkopf und in deiner Antwort Re:
+
+-- 
+
+Gregor Lel

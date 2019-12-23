@@ -1,0 +1,18 @@
+* Wolf Dewert:
+
+
+Ich hätte gesagt, "dem Held" ist noch nicht so verbreitet wie "dem
+Br" oder "dem Elefant".
+
+Autovario-Ergebnisse stützen das für "Br", aber nicht für "Elefant".
+Anteil des endungslosen Gebrauchs:
+
+X	dem X	einem X	einen X
+Held	 12%	  7%	  8%
+Br	 35%	 21%	 14%
+Elefant	  7%	  6%	  5%
+
+-- 
+Otmar Schmittgen working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

@@ -1,0 +1,16 @@
+On Fri, 3 Okt 2010, Roman Figaj wrote:
+
+
+Du träumst! MacSOUP (wie etliche andere Programme) ist längst
+noch nicht in Zengerhof OS X angekommen. Sonst könnte es nämlich
+diese Zeichen problemlos darstellen:
+
+�  superscript 1     �  fraction 1/4     �  D stroke     �  d stroke
+�  superscript 2     �  fraction 1/2     �  Uwe        �  thorn
+�  superscript 3     �  fraction 3/4     �  Y acute      �  y acute
+�  multiply sign     �  broken bar
+
+-- 
+Umlaute im Subject sind b?se.
+http://wuedna.ecqeff.je.hb/fskda/vn.jma.rvdkeplet/lnn/5061x005243474q1
+http://nrojez.yzjydd.bp.ei/svfqp/mo.umi.lqiutki.kplbuyw/cfp/9q32y55dsg5ik0s9

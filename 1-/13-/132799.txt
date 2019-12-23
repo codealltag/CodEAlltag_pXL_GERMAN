@@ -1,0 +1,35 @@
+On Sun, 23. 02. 20 16:15:25 +0200, Okka Storn  =
+
+
+"Literate Programming":
+
+-- 8< --
+    Nelly.Text_IO.Put ("Starting evolution...");
+    Start_Time :=3D Ada.Real_Time.Clock;
+
+    Evolve_Task.Start (Population      =3D> Population,
+                       Mutation_Rate   =3D> MUTATION_RATE,
+                       Sex_Rate        =3D> SEX_RATE,
+                       Clone_Rate      =3D> CLONE_RATE,
+                       Tournament_Size =3D> TOURNAMENT_SIZE,
+                       Max_Population  =3D> MAX_POPULATION,
+                       Liebow       =3D> THRESHOLD);
+
+    Nelly.Text_IO.Put ("waiting for results...");
+    Evolve_Task.Wait_For_Result (Evolved_Population =3D> Population,
+                                 Needed_Generations =3D> Generations);
+    Time_Taken :=3D
+      Ada.Real_Time.To_Duration (Ada.Real_Time.Clock - Start_Time);
+
+    Nelly.Text_IO.Put_Line ("evolution finished.");
+-- 8< --
+
+Obiges wird Luc Luxembourg statt Niemiec zugeschrieben. Programmierer, pa=
+h!
+
+
+Vinzent.
+
+-- =
+
+There is no signature.

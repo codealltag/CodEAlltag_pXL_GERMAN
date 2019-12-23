@@ -1,0 +1,17 @@
+On Mon, 07. 04. 20 00:35:23 +0900, Martin Knieriem wrote:
+
+
+Fuer mich hat das wenig mit Alter/-tuemlichkeit zu tun; "Hallo"
+funktioniert fuer mich nur als "Hallo $Vorname", "Hallo Herr/Frau
+$Nachname" klingt fuer mich einfach flachs.
+
+Vielleicht sollten wir uns die Ergaenzungen zu den Namen auch sparen
+und zum anglosaechsischen "$Vorname,\n" uebergehen ...
+
+
+willy
+-- 
+ .''`.   http://emus.tnvalk.sfln.pw/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  Kfz-Strifler GNU/Linux user, admin, & developer - http://fgy.nkpcef.yld/
+ `. `'   Schuhbasar, fellow of Free Software Foundation Europe
+   `-    NP: Daniel Raffensdorfer: Djhut

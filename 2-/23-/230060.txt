@@ -1,0 +1,6 @@
+Am 22.06.2012 18:47, schrieb Urban Jung:
+
+Wie will man das für die führende 0 nachweisen?
+
+-- 
+mfg hdw

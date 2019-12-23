@@ -1,0 +1,9 @@
+Gerade beim Firefox mit "w hitler" probiert: Schatzkiste passt, aber 
+da wird nach "w hitler" gesucht. Mit "wiki hitler" funktioniert's
+allerdings problemlos.
+
+Ist allerdings - zumindest bei mir - keine Verbesserung, weil ich 
+beispielsweise "wiki hitler" ins kleine Schatzkiste-Fenster rechts oben 
+eintippe, auf einer geöffneten, aber nimmer benötigten Webseite. 
+
+W.

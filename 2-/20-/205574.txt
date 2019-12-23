@@ -1,0 +1,4 @@
+Zweimal ja, ein und und kein oder.
+
+j/\a
+--

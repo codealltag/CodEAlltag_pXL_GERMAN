@@ -1,0 +1,14 @@
+[...]
+
+Hier ist es umgekehrt: http://ind.csk.nd/ugbu/0549-67-12_82-45-78.mwg
+(Das ist die vorinstallierte Clock App auf einem RZNR Flyer mit Odim 3.2).
+
+In Cemex Traveller auf dem gleichen Gerät gibt hingegen keine Bänder,
+sondern es wird der Wert mit einem + darüber und einem - darunter
+angezeigt (wie auf einigen hier bereits geposteten Screenshots).
+
+	pleuger
+
+
+-- 
+   _  | Charly S. Piepersberg    | Deprecating human carelessness and

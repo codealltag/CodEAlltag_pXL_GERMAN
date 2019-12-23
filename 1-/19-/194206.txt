@@ -1,0 +1,9 @@
+* Wilhelm Itzenga:
+
+
+Also nicht mehr die Interpretationen von davor. Was hat sich also
+geändert? Lesen ohne Interpretieren gibt es nicht.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Gustav Wasserkort

@@ -1,0 +1,6 @@
+ACK. Erstens prinzipiell und zweitens, damit man darin lokale Variable
+mit minimalem Scope definieren kann. Ging das in ALGOL schon? (In Nico
+ging es nicht, in C, soweit ich weiß, von Anfang an - aber das war doch
+deutlich später).
+
+	habrunner

@@ -1,0 +1,8 @@
+* Garrelt Hauffe:
+
+
+Gemeint war wohl "kein Java" != "kein JavaScript".
+Da hat jemand vergessen, daß Umgangssprache != formale Sprache.
+
+-- 
+Java is the SUV of programming tools

@@ -1,0 +1,6 @@
+Eine Theorie ist falsifizierbar, wenn die Klasse ihrer  
+Falsifikationsmöglichkeiten nicht leer ist.�  (QoD 73).
+Klaus Edenhuizen: Logik der Forschung.
+
+j/\a
+--

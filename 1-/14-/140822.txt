@@ -1,0 +1,42 @@
+Pietro Elsenbusch wrote:
+
+
+Nein, Rentner war ich das Letzte mal vor zehn Jahren.
+
+Aber ich will Dich mal nicht länger auf die Folter spannen, die Auf=
+lösung
+lautet: Geschieden. Glückwunschadresse auf Anfrage. ;)
+
+
+Zugegeben, ich habe die allwissende Müllhalde sehr frei interpretie=
+rt:
+
+rdnung
+berbrachte an
+=BChrung
+
+Die "Design Authority" ist das ausführende Organ und sorgt für
+ die Einhaltung
+der Ordnung ("Design") und der Gesetze ("Design Rules"). Unbotsame Entwi=
+ckler
+werden spätestens im Code-Review ermahnt.
+
+Na gut, daß mit der Ladung vor den Rektor und die Ausführung d=
+er Strafen
+paßt nicht ganz. Obwohl ich mir letzteres manchmal wünsche. He=
+he. :)
+
+anchen
+
+Aber hier paßt das Gleichnis wieder: Wir verderben den Programmiere=
+rn den
+Spaß mit dynamischem Speicher, Zeigertypen und dem Querfeldein-Zugr=
+iff auf
+beliebige Objekte der Design-Hierarchie. ;)
+
+
+Vinzent.
+
+-- =
+
+Mail address temporary, use domain to filter.

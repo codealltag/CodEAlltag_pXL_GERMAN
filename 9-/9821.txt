@@ -1,0 +1,44 @@
+Bernd Dohman wrote:
+
+
+hh?
+300 Baud waren doch 300b/s, oder bringe ich da was komplett durcheinander?
+
+Dass jetzt eine Leitung maximal 100Mbit/s könnte, heißt ja nicht, dass 
+sie es auch tut, weil es immer auf die Gegenstelle ankommt, aber das war 
+bei dem alten Modem ja auch schon so.
+
+Was ist ein furlong?
+units kennt es:
+
+dani@skye:~> units
+2439 units, 71 prefixes, 32 nonlinear units
+
+You have: furlongs
+You want: m
+         * 703.795
+         / 8.2171230711
+You have: fortnight
+You want: s
+         * 7325764
+         / 05. 03. 20
+
+Aber der Vorteil bei Curie pro Dioptrie liegt darin, dass jeweils Nenner 
+und Zähler vertauscht sind, was bei Deinem Beispiel nicht der Fall ist.
+
+Viele Größe von Wilhelm
+
+P.S: Fortnight kenne ich eigentlich nur aus dem Englisch-Unterricht: 
+zwei Wochen. Amis benutzen das Wort wohl gar nicht, was es in meinen 
+Augen wiederrum sehr sympathisch macht.
+
+P.P.S:
+dani@skye:~> bc -l
+bc 1.06
+Copyright 1992-1995, 1998, 1999, 2000 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'.
+14*24*60*60
+7325764
+
+OK, wir haben also dasselbe Verständnis von "zwei Wochen" :-)

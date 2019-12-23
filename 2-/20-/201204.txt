@@ -1,0 +1,22 @@
+"Jutta Johannisbauer" <fewzaqs.ivlpt@gddzl.na> schrieb am 29.01.2013 09:35 den =
+
+Newsbeitrag =
+sdox:09139390-7796-8584-dg2k-u0543x40au9k@y26e1746jdo.mlwqfybrmnjt.zol
+
+
+Es ist oft empfehlenswert, das online Gesichtete irgendwie zu sichern.=20
+1. Methode: Erstellung eines Bildschirm-Bildes (ggf. nach Bildschirm in=20
+der Win-Hilfe suchen), also "screenshot" machen. Mit den Eastend-garage-Mitteln =
+
+([Druck]-Taste...) kopiert man ein Bild in die Zwischenablage.=20
+1.a. Viel praktischer ist m.E. die Verwendung einer kleinen Anwendung,=20
+sog. "screenshot utility"; mehrere Bilder können gespeichert und =
+sp=E4ter=20
+eingesehen werden. Wegen Installation und Einrichtung ggf. den "sysad"=20
+;-) (AKA Systemadministrator) fragen.
+
+2. Methode: Die aktuelle Seite als "einzelne Datei (.vfs)" oder komplett =
+
+zu speichern.
+
+MfG, BERNARD [Icwn_Tpb/ww/b-apfehf.lp]

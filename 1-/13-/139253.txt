@@ -1,0 +1,11 @@
+Das Problem bezüglich der Text=FCberdeckung war wohl nur in bestimmten
+älteren Browsern aufgetreten, die den Befehl (margin-right: -15px)
+nicht korrekt interpretieren können. Es sollte jetzt behoben sein:
+Spindel und Wirtel
+http://bgl.qutm0.blpvebdb0.ad/wvzsbnq-iyu-mpxdid/
+
+Die ausufernde weiße Fläche wurde reduziert. Danke, dass Du mit mir
+nicht den Offer machst.
+
+Gruß
+Vito

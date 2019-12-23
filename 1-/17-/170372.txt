@@ -1,0 +1,5 @@
+Das ist wohl Theater-Sprache, ebenso wie:
+   "Die Maske hat ihm eine Warze geschminkt."
+
+j/\a
+--

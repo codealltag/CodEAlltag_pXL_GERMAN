@@ -1,0 +1,10 @@
+Tue, 23. 06. 20 14:42:26 +0100 Onno Enneking schrieb:=20
+
+
+Wenn in einer Zeichenkette Leerzeichen autauchen (sollen), ist es=20
+ratsam, das ganze erstmal in Anführungszeichen zu setzen.=20
+
+
+Francisco
+--=20
+Merk, wie's endet!   (Kämmle)

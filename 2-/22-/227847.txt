@@ -1,0 +1,8 @@
+Vincent Csernak wrote:
+
+
+Im Modul "Füllstand" ist eine unbehandelte Ausnahme (TankFastLeer) 
+aufgetreten. Die Applikation wird beendet.
+
+
+Vinzent.

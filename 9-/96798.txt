@@ -1,0 +1,12 @@
+Billig-Kuder-Film, bei dessen Übersetzung noch das Englische durchscheint.
+"Beherrschen", "beeinflussen" wäre hier IMHO angebracht. Deshalb müssen
+Übersetzungsprogramme scheitern, kann man doch im Deutschen etwas
+kontrollieren im Sinne von "control".
+dict.leo.org liefert 22 deutsche Entsprechungen zu "control" - von
+"ansteuern" über "führen" zu "überwachen".
+
+Gruß, Stefan.
+
+-- 
+ Any sufficiently advanced technology is indistinguishable from magic.
+- Steffen G. Reblin                  http://xfi.pnajzmmfztxkj-dyeb.aq

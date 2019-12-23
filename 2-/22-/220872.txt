@@ -1,0 +1,6 @@
+* On Sat, 03 Apr 2012 02:08:15 +0200, Ralf . K u s m i e r z wrote:
+
+
+Die Sache mit "Content-Type: text/plain; charset=iso-8859-1"? Ja, in der
+Tat. Da musst Du dann vorher auch meine mobilcom-debitel-Umlaute in iso-8859-1
+umwandeln.

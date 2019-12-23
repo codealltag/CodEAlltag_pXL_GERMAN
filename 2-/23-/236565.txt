@@ -1,0 +1,16 @@
+On 20.01.2013 15:00, Elmar Gerdes wrote:
+
+
+'einestages' ist aber normalerweise eigentlich nicht von Eile getrieben,
+die Begründung halte ich in dem Fall nicht für stichhaltig.
+
+
+Ich vermutlich auch, bin mir aber nicht sicher, ob die genannte Form
+wirklich falsch ist.
+
+
+Ciao
+Mirjam
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

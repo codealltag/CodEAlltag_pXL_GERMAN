@@ -1,0 +1,9 @@
+* Ubbo Pense:
+
+
+Beim Beispiel "Shitstorm" wurde die Existenz oder Relevanz des
+entsprechenden Unterschieds (im Deutschen) in Zweifel gezogen.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Alexander Koerbel

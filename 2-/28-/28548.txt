@@ -1,0 +1,37 @@
+Das liegt nicht "am Computer", sondern ist schon eine bewußte
+Designentscheidung, bevor man das entsprechende Programm
+(genauer: die Datenbank) überhaupt baut. 
+Es kommt halt darauf an, wie genau man den Sachverhalt abbilden
+will und in welcher Form einem die Datenhaltung besser hilft.
+Natürlich spart man sich viel Abbildungsm�h und Historisierung,
+wenn man nur die heute aktuelle Version vorhält. Bei heute
+lebenden Personen, die man befragen kann zu ihrem Geburtsort, so
+daß man, falls dieser eingemeindet wurde oder aufgelöst, den
+nächstgelegenen erfragen und nehmen kann, mag das vereinfachend
+wirken. Wenn man aber die Geburts- und Sterbeorte von vor 50
+Jahren Verstorbenen vorliegen hat, wird man oft nicht so leicht
+sagen können, welcher Ort das nun heute ist. XY in der
+Sowjetunion - war das nun XY in Rußland, XY in Kasachstan oder XY
+in der Ukraine? XY in der BRD - wenn man "XY in D" schreibt,
+verwechselt man es womöglich mit XY in der DDR! XY bei Z - das
+existiert nicht mehr, war damals aber noch bewohnt. 
+Da XY in Z heute genau AB in C ist, ist ja noch ein einfacher
+Abweichungsfall, zumindest wenn man beim Aufnehmen (Daten
+eingeben) direkt nachfragen kann, etwa wenn jemand beim Meldeamt
+einen neuen Paß will. Wenns aber z.B. um Sterbeurkunden geht, ist
+nachfragen schlecht möglich, und dann ist die Gefahr gegeben, daß
+die Daten statt genau verfälscht werden.
+Zwar kann man sich so die Historisierung in die Vergangenheit
+sparen - also Ortsverzeichnisse aus Kaisers Zeiten -, aber was,
+wenn sich mal wieder wo ein Teilstaat abspaltet oder welche
+fusionieren? Will man dann die Aktualität durchhalten, muß man
+die entsprechenden Datensätze alle durchgehen und aktualisieren
+(d.h. in dem Fall: entscheiden, wo sie hinkommen, ob Änderung
+oder nicht) - oder man bekommt eben eine schleichende
+Historisierung rein, weil einige Orte nunmehr dem "alten" statt
+dem "neuen" Staat zugeordnet sind.
+
+Weswegen sie in D lieber gleich beim organisch gewachsenen Chaos
+bleiben, und der Geburtsort immer so geschrieben wird wie in der
+Geburtsurkunde, auch wenn er inzwischen längst eingemeindet ist
+und anders heißt.

@@ -1,0 +1,8 @@
+Am 02.10.2010 02:16, schrieb Nikolaus Verstege:
+
+
+Man muss halt bei solchen Formulierungen in vielen Fällen die 
+Operatorpr�zedenzregeln und die Ausführungsreihenfolge genau kennen, um 
+keine Fehler zu machen. Das finde ich nicht elegant.
+
+Waldemar

@@ -1,0 +1,5 @@
+Vor Kürbissen dürften sich wohl eher Männer fürchten.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Bernhard Zahnwetzer, comp.lang.python

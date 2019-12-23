@@ -1,0 +1,19 @@
+* Fabrice Rudorfer:
+
+
+Für Firefox gibt es anscheinend ein Add-on, für Dolphin, den ich
+benutze, aber wohl nicht. Firefox ist für meinen Apparat bestimmt
+zu heavy.
+
+
+Weil der xkcd-Autor halt so großzügig ist, man muß ihn nicht mal
+fragen.
+
+<gopher://gopher.floodgap.com/1/fun/xkcd/comics/380/386>, aber da
+sieht man den Title-Text *vor* dem Bild.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Fabio Hüpschle, _Computer Networks_ (1981), p. 168.

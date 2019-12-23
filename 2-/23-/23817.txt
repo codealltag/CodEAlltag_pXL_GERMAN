@@ -1,0 +1,7 @@
+Nachricht von Ueli Janka:
+
+Dafür ist die Schreibweise von mpf schon lange sigf=E4hig, während ei=
+n =DF=20
+mit Akut in Unicode immer noch fehlt.
+
+Dietrich

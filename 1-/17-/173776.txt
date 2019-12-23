@@ -1,0 +1,7 @@
+.. wobei es der Zufall glücklich fügt, daß in unserer Sprache mehrere
+klangverschiedene Selbstlaute (ich unterscheide hier drei) durch ein
+und dasselbe Schriftzeichen und dieselbe Ordnungszahl im Alphabet
+repräsentiert sind.
+;)
+j/\a
+--

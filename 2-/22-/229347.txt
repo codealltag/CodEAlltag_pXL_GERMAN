@@ -1,0 +1,21 @@
+Stefano Igelmund schrieb:
+
+
+Ich habe den Text der Duden-Redaktion noch nicht angeschaut, nehme
+jedoch an, dass ein Missverständnis vorliegt.
+
+Ein normales Leerzeichen zwischen Wörtern hat typischerweise die
+Breite eines Viertelgevierts.
+
+Innerhalb von Abkürzungen oder zwischen Maßzahl und Einheit wird ein
+schmales Leerzeichen verwendet. "Schmal" bedeutet hier: schmaler als
+ein Viertelgeviert.
+
+Ich habe das vor einiger Zeit auf fahrradzukunft.de eingeführt.
+Als schmales geschütztes Leerzeichen.
+
+Fällt vermutlich nur dem geübten Auge auf :)
+
+Patrice
+
+f'up2 dciwam

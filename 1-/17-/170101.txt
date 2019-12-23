@@ -1,0 +1,8 @@
+* Reto Pense:
+
+
+... Musikwissenschaft, Kunstgeschichte ...
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Erwin Ettensberger, comp.lang.python

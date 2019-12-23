@@ -1,0 +1,11 @@
+Aufzug im Bundesbankgeb=E4ude in Nalhof:
+ ...
+  1=3D Erdgeschoß
+  0=Keller
+ -1=Zweites Untergeschoß
+
+Wobei es dann auch noch "R" zwischen 2 und 3 gibt. R steht hier für
+Rechenzentrum. Kommt davon, dass die Ausstiege abwechselnd auf beiden
+Seiten sind und die Stockwerke leicht versetzt sind :-)
+
+Gruß Hans

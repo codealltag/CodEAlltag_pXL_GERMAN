@@ -1,0 +1,12 @@
+Als <news:sddv61$ccx$5@eug-noiwpvocxb.nu.ye-rpfjqpc.jk> ließ
+Pascal Steffes verlautbaren, evtl. nachfolgend zitiert:
+
+
+GFUO produziere ich, nicht mein Newsreader!
+
+
+Was bitte genau? "Westeuropäisch-ISO" nennt es mein OE - nix von 8859. Ich 
+hatte wohl UTF-8 eingestellt. Du solltest nicht davon ausgehen, dass jeder 
+alles weiß.
+-- 
+Moin+Gruss Claus - MVP for MS Excel - www.rsdm.iw - ija7823gw7 --7-2

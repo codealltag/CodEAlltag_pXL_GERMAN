@@ -1,0 +1,10 @@
+On 06.04.2012 17:11, Oswald Ram wrote:
+
+Prozedurale Sprachen, wie C, und objektorientierte, wie Java,
+sind praespezifizierend.
+
+Postspezifizierend ist lediglich die PN.
+
+Hm, da muss ich erstmal drüber nachdenken.
+
+U.

@@ -1,0 +1,15 @@
+* Luis C. Tinges <nzv-curlfw0@khp.sq>:
+
+
+Das Besondere und aus heutiger Sicht masslos Optimistische an Altavista
+war ja, dass die ganze Suchmaschine im wesentlichen aus vier Maschinen
+bestand: Crawler, Webindexer, Newsindexer und Frontend. Die dickste
+Maschine war der Web-Index, ein DEC Alphaserver 8400 mit 10 CPUs
+(34612@300MHz) und astronomischen 8 GB Memory. Man hatte schon damals
+klar das Gefühl, dass "das Web" nicht in eine einzelne Maschine
+reinpasst, aber für den Index reichten 30 GB, als Altavista rauskam.
+
+Ebenfalls grenzenlos blauäugig oder schon fast fahrlässig aus heutiger
+Sicht war die Idee, Meta-Tags auszuwerten.
+
+ - René

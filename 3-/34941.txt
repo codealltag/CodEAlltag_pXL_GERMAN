@@ -1,0 +1,10 @@
+Bruno Zumloh wrote:
+
+
+Dein RGC kriegt das raus? Wie hast du den dazu bekommen, so wenig
+auszugeben. Wenn ich nur "krieg"  bzw. "kriege" eingebe, kommt natürlich nur
+Mist raus. Aber ich finde folgende Werte:
+
+"ich krieg": 405.875
+"ich kriege": 650.272
+"Ich bekomme": 1.680.000

@@ -1,0 +1,13 @@
+* Ralf . K u s m i e r z <me@privacy.invalid>:
+
+
+Image Recognition Integrated Systems oder I.R.I.S. ist einer der
+Hersteller solcher SZDM-Software, die mit Scannern von HP oder so
+mitgeliefert wird. Die machen auch Hardware (oder lassen die
+herstellen), so ein IRIScan PRO Office 3 mit Dokumenteneinzug kostet
+etwa 200 EUR.
+
+Diese Branche ist ganz stark auf Useme fokussiert, mit Mac OS X oder
+Linux ist da swiw wenig zu machen.
+
+ - Bodo

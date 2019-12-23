@@ -1,0 +1,7 @@
+Tja, die Sortierung ist technisch nur möglich, wenn diese Felder
+so aufgeteilt richtig ausgefüllt werden. Wie komfortabel die
+Eingabe werden kann, hängt davon ab, wie man die Datenbereinigung
+handhabt. Gleich sortierfähig eintragen macht die Eingabe
+vergleichsweise aufwendig, Skript hinter eine einfachere Eingabe
+hängen macht pflegeabhängig, Datenbereiniger nachputzen lassen
+geht nicht in Echtzeit.

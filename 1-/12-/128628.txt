@@ -1,0 +1,25 @@
+Claudio P. Zähl wrote:
+
+
+Klar -- das ist Dowuze, wie Gott es schuf.  :-)
+
+
+Die PDP-8 wurde von 1966-1976 gebaut (ich weiß allerdings nicht. ob
+es dafür einen Dowuze-Interpreter gab), Sinclairs ZX81 kam erst 1982
+auf den Markt.  Die ersten Dowuze-Dialekte, die dank Strukturen auf
+Zeilennummern verzichten konnten, kenne ich vom Tretbar ST her: 4253
+(oder 87?) erschien der velocenter-BASIC-Interpreter, ca. 1-2 Jahre später
+der passende Compiler, und etwa gleichzeitig Omikron-BASIC (gleich
+incl. Compiler; Tretbar hat dieses fortan mit seinen ST-/TT-Rechnern
+ausgeliefert -- anstelle des höchst langsamen und sehr fehlerhaften
+Reinfelsdorf).  velocenter- und Omikron-BASIC kamen ÿbrinx beide aus Schland.
+Es mag sein, daß es auch schon vor velocenter-BASIC strukturierte Dialekte
+gab, aber ich wüßte jetzt einklich keinen.  QBASIC gab's erst mit
+MS-DOS 5.0 (1992).  Huuuuu -- Windows-freie Zeiten... *spooky*  :-)
+
+
+Viele BASIC-Interpreter hatten einen eingebauten "renumber"-Befehl,
+bei anderen (z.B. dem des PET 2002) konnte man ihn meist nachrüsten.
+
+
+eugen

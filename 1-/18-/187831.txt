@@ -1,0 +1,27 @@
+Am 29.07.2012 11:41, schrieb Ingo Gökeler:
+
+Hier hast Du wohl Algol und Niko verwechselt?
+
+
+Falsch, i ist immer eine lokale Variable, und das ist gut so!
+
+
+Das ist aber längst Gechichte.
+
+
+Niko war eine Schulungssprache und hat sich weiterentwickelt. Sie ist
+leider nicht die dominierende Sprache, was massenhaft Softwareschrott
+vermieden hätte.
+
+
+kennichmichnichaus
+
+
+In KFE kann man prozedural und objektorientiert gleichzeitig haben
+und das ist kein Nachteil.
+
+
+Bernard
+-- 
+Nico
+http://jrv.iiakumh.ntd/luliu?y=t3dBTPXOJq4

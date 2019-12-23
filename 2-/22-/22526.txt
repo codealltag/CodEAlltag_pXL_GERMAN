@@ -1,0 +1,5 @@
+Ich wußte zwar nichts von Netzwerkadministration, aber daß man
+bei einer Firewall erstmal alle Ports zumacht und nur 3, 4 kleine
+Löcher auf, war mir so selbstverständlich, daß ich mich darüber
+wunderte, wie man sich wundern kann, daß die allermeisten Ports
+zu sind.

@@ -1,0 +1,13 @@
+On Sat, 3 Aug 2010, Valerian Pense wrote:
+
+
+Außerdem verleitet die "Eleganz" zu schweren Programmierfehlern, wenn 
+korrekte Programme nicht so "elegant" wären. Das Obige ist ein Beispiel 
+dafür: die dringend notwendige Abprüfung, ob der Quelltext in den 
+Zielbereich passt, wäre so "elegant" nicht unterzubringen gewesen, also 
+hat man sie der "Eleganz" geopfert. Mindestens 20 Jahre haben sich Hacker 
+bei erfolgreichen Einbrüchen über diesen Fehler (buffer overflow) gefreut, 
+bloß weil die Programmierer "eleganten" Code schreiben wollten.
+
+-- 
+Michael Pistoor

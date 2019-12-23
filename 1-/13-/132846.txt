@@ -1,0 +1,19 @@
+Charly Nordieker wrote:
+
+
+Jetzt kommen wir der Sache schon näher: Du hattest im From: Deinen
+Cassé-Account angegeben.  Wenn Cassé nicht /selber/ die Adressen an
+Dritte weiterverkauft hat, gab es zumindest damals Mittel und Wege,
+an gültige Accounts zu kommen -- da kann man sich sparen, im Usenet
+auf die Pirsch zu gehen... ;)  Und insgesamt ist das Usenet für die
+Harvester ohnehin ziemlich uninteressant geworden: ein Web-Crawler
+liefert in einer Stunde mehr gültige Adressen, als es Netizens gibt.
+
+Drum sage ich ja: der "Trick" mit Reply-To bringt nichts.  Wenn er
+jemals UCE verhindert hat -- was ich bezweifle --, dann sind diese
+Zeiten auf jeden Fall schon lange vorbei.  Du sagst ja selbst, daß
+Du kaum Spam bekommst, obwohl Deine Adresse sowohl im From-, als
+auch (unnötigerweise) im Reply-To-Header steht.
+
+
+tobias

@@ -1,0 +1,8 @@
+Ob die Linguisten dafür eine eigene Klasse erfunden haben, weiß ich
+nicht. In meiner Grammatik rangieren die unter "Verben der Orts- oder
+Zustandsänderung", die entweder transitiv oder intransitiv sein können
+und dem entsprechend entweder personale Passiv-Formen bilden können
+oder eben nicht.
+
+j/\a
+--

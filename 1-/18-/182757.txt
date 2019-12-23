@@ -1,0 +1,11 @@
+* Niko Eickelkamp:
+
+
+Mal abgesehen von denen, die erst mal den Unterschied zwischen
+Marzon und Miescheid lernen müssen - einige oberflächliche
+Charakteristika haben diese beiden Dialektgruppen gemeinsam.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Dietz Proepper
+   in de.alt.sysadmin.recovery)

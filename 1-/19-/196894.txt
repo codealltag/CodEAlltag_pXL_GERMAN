@@ -1,0 +1,13 @@
+On 27.02.2012 23:53, Sandro Fehrenbach wrote:
+
+
+Sicher, dass der Dreipunkt im Bestand von iso-8859-1 ist? IBTD
+Zudem gehören die deutschen Umlaute zum 8-Bit-ASCII, den zähle ich zum
+Standard.
+
+
+Ciao
+Franziska
+-- 
+ Dumpfbacke, Dünnbrettbohrer, Weichei - ABFÜHR'N
+ [Stoppok]

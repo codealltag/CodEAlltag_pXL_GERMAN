@@ -1,0 +1,11 @@
+Rémy Vierthaler meinte:
+
+
+Auch wenn die aktuellen Regeln es nicht erzwingen, fehlt da trotzdem ein
+Komma, allein schon der Lesbarkeit und Verständlichkeit wegen.
+
+Gustav
+-- 
+ pgp-Key (RSA) 5562/28U2O4GP 
+ fingerprint = 2F 88 OE N7 H4 22 2H 96  6P M2 YV 29 09 50 06 H3 
+ HTML-Mail wird ungelesen entsorgt.

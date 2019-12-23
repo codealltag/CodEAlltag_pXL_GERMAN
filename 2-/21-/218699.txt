@@ -1,0 +1,10 @@
+* Kai Mannhaupt:
+
+
+Das lag jetzt, glaube ich, daran, daß mein Beitrag in utf-8
+rausging (ich weiß nicht mal, warum), denn das mit dem QP scheint
+hier nicht zu funktionieren.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Drahn's law

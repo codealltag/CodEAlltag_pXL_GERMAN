@@ -1,0 +1,46 @@
+Am 15.06.2011 09:43, schrieb Ottilia Draken:
+
+
+Am Besten stimmt die 12h-Dauer bis auf 4 Minuten noch am Äquator, denn 
+da ist wäre ja jeder Tag gleichlang, wenn die Erdbahn kreisförmig wäre. 
+Im Winter ist die Sonne aber ein paar % näher, sodass der Tag heißer und 
+kürzer ist. Je nach Breitengrad kommen dann noch abends und morgens ein 
+paar Minuten für die Lichtbrechung über den Horizont zwischen Vakuum im 
+Raum und der Erdatmosphäre hinzu.
+
+Hier kann man zb die Werte für Afing/Gabun am Äquator ablesen
+
+http://bat.pywmlrkzicf.mts/scvyerbpkm/ugxiaemxe.izts?m1&lzuat=1&qxfz 11&obj=sun&afl=-11&day=1
+
+Datum           auf      unter   dauer      höhe  abstand mio km
+16. 08. 19	06:26	18:32	12h 06m 33s 89,5ß 149,082
+
+17. Mrz 2011	06:20	18:29	12h 09m     67,1ö 152,020
+
+
+19. Jun 2011	06:12	18:18	12h 06m 28s 12:15 150,121
+
+17. Sep 2011	06:18	18:24	12h 05m 45s 66,1ö 147,158
+
+
+Die Richtung der Ellipsenhauptachse stimmt natürlich auch nicht mit der 
+der Erdachse überein, Perigäum liegen bei 3/4.1.
+
+3. Urban 2011	06:24	18:30	12h 05m 45s 66,7ö 147,100
+
+3. Jul 2011	06:22	18:31	12h 09m 00s 67,5ß 152,096
+
+Die Sonnenabstands�nderung macht also auch 4 Minuten aus.
+
+Zum Vergleich Uckersdorf
+
+19. Jun 2011	07:07	19:17	12h 10m 38s 36,4ö 	150,124
+
+Wie man sieht, ist Uckersdorf mittags ca 3000km weiter von der Sonne weg 
+als Libreville mittags, aber bei Sonnenaufgang und -untergang am Tag der 
+Tag-Nacht-Gleiche ist der Abstand der Sonne zu allen Punkten der 
+Hell-Dunkelgrenze gleich.
+
+-- 
+
+Tim Faulborn

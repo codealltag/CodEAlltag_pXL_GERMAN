@@ -1,0 +1,24 @@
+"Quirine Altenhof" <hyswgnlo@cusnsmocrpf.ei> schrieb am 29.12.2012 16:07=20
+den Newsbeitrag oxby:7mthv6t.60oiecx0kaadmxG%igxujnlx@eftozqhmhuj.wb
+
+
+Da hast Du meinem Vorposter geantwortet.
+
+
+SMS und Tweet sind sehr kurze (140) Textnachrichten, längere Texte=20
+werden entspr. aufgeteilt. Das ist nicht der Fall im Gecko.
+
+
+Es ist Sache der Einstellung des Newsprogramms. Mein cycle-OE kann auch=20
+lange URLs problemlos darstellen, so daß der Leser diese anklicken =
+kann,=20
+soweit er/sie ein vergleichbares modernes Programm benutzt. Dein ist=20
+"User-Agent: MacSOUP/D-2.8.3 (Mac OS X version 10.7.4 (x86))".
+
+
+Du kannst auch eine maximale (fast unendliche) Zeilenlänge einstellen, =
+
+mein Programm ist auf 72cpl (chars per line) eingestellt und w=FCrde=20
+längeren Zeilen (in der Antwort) einen Umbruch verpassen.
+
+MfG, JUAN [Suhz_Aff/ju/i-ejblhl.cs]

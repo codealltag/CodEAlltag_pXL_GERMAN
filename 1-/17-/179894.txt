@@ -1,0 +1,13 @@
+August Issleib <ps@ydzkgnm.mto>:
+[links]
+
+Zwischen
+<A B>
+und
+<"A B">
+ist ein ziemlicher Unterschied.
+Könnte es sein, dass der hier eine Rolle spielt?
+
+
+Alles auf einmal?
+Na denn.

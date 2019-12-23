@@ -1,0 +1,24 @@
+Trudi Waehlisch schrieb:
+
+
+Mehr als die Überschrift und die Aufgabe:
+
+"Kann das stimmen?
+Weil Patricia beim 100-m-Lauf schneller als Toni ist und Denis langsamer als
+Pierrette ist, ist Pierrette beim 100-m-Lauf langsamer als Patricia."
+
+ist mir über die konkrete Schulsituation nicht bekannt.
+
+Vielleicht war die erwatete Antwort:
+
+Es kann stimmen, folgt aber nicht aus der Transitivität:
+"Wenn A (immer) schneller als B und B schneller als C läuft, dann läuft
+A schneller als C".
+
+Das Wort "weil" wurde als irreführend empfunden.
+Wenn ein Kind mit "warum" fragt, dann beginnt der Erwachsene seine
+Antwort in der Regel mit "weil". Dabei wird nur gefordert, dass die
+Antwort einigermaßen plausibel ist.
+
+Gruß
+Ueli

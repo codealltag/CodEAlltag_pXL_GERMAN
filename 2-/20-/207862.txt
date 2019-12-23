@@ -1,0 +1,4 @@
+On 2012-04-22 07:14:10 +0000, Bertel Sascha Zimmermann said:
+
+
+Der alt-text des Bildes sollte auftauchen, nicht der Titel der Seite.

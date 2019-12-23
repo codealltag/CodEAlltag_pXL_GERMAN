@@ -1,0 +1,8 @@
+Gibt es eigentlich Übersetzungsprogramme die z.B. Französisch-Spanisch od. 
+Spanisch-Portugiesisch od. Italienisch-Französisch nicht über Englisch 
+übersetzen?
+Ich meine ein Programm das direkt übersetzt, und keinen Mist produziert, 
+weil es zuerst ins Englische übersetzt.
+Schließlich müsste es doch relativ einfach sein, eine lateinische Sprache in 
+eine andere lateinische Sprache zu übersetzen, da der Satzbau fast identisch 
+ist.

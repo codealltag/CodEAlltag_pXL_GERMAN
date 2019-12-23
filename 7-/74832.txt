@@ -1,0 +1,9 @@
+"Ralf . K u s m i e r z" <me@privacy.invalid> writes:
+
+
+So schlecht ist der Morsecode nicht. Ein dedizierter Huffman-Code ist
+sicher besser, aber wenn ich mich recht erinnere ist der Morsecode recht
+dicht an der optimalen Codierung für einen generischen englischen Text.
+
+-- 
+Space - The final frontier

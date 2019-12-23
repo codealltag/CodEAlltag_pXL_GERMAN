@@ -1,0 +1,14 @@
+Es kommt gar nicht auf den Satz an, sondern auf die Stringenz des
+Gedankenganges. DIE stimmt dort nicht.
+
+Das kommt wahrscheinlich davon, daß Du den Fehler in der Syntax suchst.
+Die ist abstrakt richtig, sie ist nur (siehe oben) nicht am Sachverhalt
+orientiert
+
+Der Gedankengang muß anknüpfen an den Absatz davor, welcher schließt:
+Und dann muß es sinngemäß weitergehen:
+   Von diesen Abfällen ernähren sich zahlreiche Fliegenlarven, die hier
+   als weiße Maden zu erkennen sind.
+
+j/\a
+--

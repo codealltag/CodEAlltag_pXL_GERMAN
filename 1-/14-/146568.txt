@@ -1,0 +1,4 @@
+Immer Plural
+
+Begründung: "Männer" ist ein Plural, also ist jede Teilmenge auch ein
+Plural, ganz unbeachtet, ob diese Menge evtl. nur ein Element hat.

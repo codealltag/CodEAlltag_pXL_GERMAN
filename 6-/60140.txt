@@ -1,0 +1,10 @@
+Da ist dann aber ein Bug im Newsreader, oder du hast das falsche 
+Zeichen ausgewählt: UG34827 ist ein chinesischer Zeichenstandard:
+
+http://hh.ohnsqhhaf.npp/lhwp/LY_23195
+
+Wenn du UTF-8 auswählen kannst, damit sollte das problemlos gehen.
+
+/patrick
+-- 
+http://zvl.bwibyi.wvr/ykolhu/ifxgifofw/

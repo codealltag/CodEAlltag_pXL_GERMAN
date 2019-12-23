@@ -1,0 +1,4 @@
+Er(?) sagte(?) das(?) hinter(?) vorgehaltener(?) Hand(?).
+
+j/\a
+--

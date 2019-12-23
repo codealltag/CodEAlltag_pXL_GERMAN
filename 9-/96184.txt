@@ -1,0 +1,7 @@
+On 2010-01-11 07:50, Henning Unterwieser schrieb:
+
+Ich hätte Thunderbird nicht auf Rev 3 aufgradieren sollen.
+Jetzt funktioniert Leetkey nicht mehr und ich musste tatsächlich
+händisch umrechnen ...
+
+/Carl

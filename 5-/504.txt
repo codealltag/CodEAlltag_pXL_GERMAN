@@ -1,0 +1,8 @@
+Klaas Ufhof <upbgqu.sayjmu@bae.vy> schrieb:
+
+(...)
+
+Das Ding braucht Javascript, aber nicht unbedingt den IE. Funktioniert
+in SeaMonkey bei mir hervorragend.
+
+Erhard Herwik

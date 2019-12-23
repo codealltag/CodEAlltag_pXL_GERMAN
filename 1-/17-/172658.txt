@@ -1,0 +1,10 @@
+Am 30.10.2011 17:26, schrieb Reiner Utermoehlen:
+
+Also zum Beispiel
+- die Sprache der Zeitungsschlagzeilen, aufgefächert nach Bild, Zeit,
+   Rundschau etc
+- die Sprache von Usenetartikeln und Webforenbeitr�gen
+- die Sprache von Gesetzestexten
+- die Sprache von Firmenwebseiten
+
+Pietro

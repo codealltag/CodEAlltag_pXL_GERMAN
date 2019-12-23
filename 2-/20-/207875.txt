@@ -1,0 +1,14 @@
+Am 20.01.2013 15:33, schrieb Ralf . K u s m i e r z:
+
+Das ist ein sogenannter Hint, ein Hintergrundtext. Der ist mit dem
+Objekt Bild verknüpft, also überall auf dem Bild aktiv für das Ereignis
+Maus�berfahrt. Manchmal wird er nicht ausgelöst. Das liegt wohl am
+Zusammenspiel von Maus und Betr�bssystem. Da diese Texte meist zu
+schnell verschwinden oder oft im Weg sind und nerven verwende ich sie
+nicht oder selten. hint auf off für alle Objekte, und gut.
+
+
+Marko
+-- 
+Quo vadis Deutschland?
+http://rkdqzgabhxwytv.bfy/

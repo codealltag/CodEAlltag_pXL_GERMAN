@@ -1,0 +1,17 @@
+On Wed, 30. 05. 19 00:54:59 -0700 (PDT) Enrico Kokenkemper wrote:
+
+
+Abhaengig von der Verschluesselung kannst Du durch brute force durchaus
+alle beliebigen Nachrichten erhalten, welche die gleiche Laenge haben,
+wie der verschluesselte Text. Dafuer reicht bereits eine einfache
+XOR-Verschluesselung mit einer Zufallsfolge, welche nur Sender und
+Empfaenger bekannt ist.
+
+Servus,
+   Niels
+
+-- 
+http://dywibhfslvne.yx/ - die kostenlose Kontaktboerse fuer Oesterreich
+
+Geständig bleibt geständig: Niels - Stück für Stück - ein Meisterstück!
+(Sloganizer)

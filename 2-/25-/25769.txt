@@ -1,0 +1,4 @@
+Nein, der Witz ist bekannt.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

@@ -1,0 +1,25 @@
+Tim Heimbach meinte:
+
+
+So? Schaunmermal ... also: Sei r € R und Güte(r)= sign(r)*(1-1/(r²+1))
+
+Dann ist Güte(r) beschränkt (nimmt nämlich nur Werte aus dem Intervall
+(-1,1) an), ist sogar stetig (auch im Punkt 0) und streng monoton steigend
+(d.h.  a>b => Güte(a)>Güte(b) ). Es gibt aber kein Maximum und kein Minimum
+(die Funktion kommt für wachsendes r dem Wert 1 zwar immer näher, erreicht
+ihn aber nie; dito für fallendes r dem Wert -1). Die Funktion hat
+allenfalls ein Supremum und ein Infimum. Es gibt nämlich kein r mit
+Güte(r)=1.
+
+
+Ach? Aleph-Null ist wirklich nicht kleiner als 2^Aleph-Null? Interessante
+These ...
+
+Linsmann, heimfollowuppend, weil ich de.sci.mathematik nicht lese und all
+dies für die Mathematiker nur langweilig wäre. 
+
+Björn
+-- 
+ pgp-Key (RSA) 8451/26R9X2QH 
+ fingerprint = 6J 17 OL T3 M3 72 7Z 38  1M I6 GM 87 44 19 32 A7 
+ HTML-Mail wird ungelesen entsorgt.

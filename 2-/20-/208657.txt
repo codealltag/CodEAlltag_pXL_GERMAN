@@ -1,0 +1,10 @@
+* Christof Nollner:
+
+
+Aha. Wie kommt man eigentlich darauf, ein Automodell "Staubfänger"
+zu nennen?
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Beat Ingenbleck, comp.lang.python

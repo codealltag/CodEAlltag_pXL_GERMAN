@@ -1,0 +1,16 @@
+Freundlich wäre es, setztest Du die Links in spitzige Klammern. Das
+sollte dann jeder verstehen.
+
+Es ist das schon ein etwas komplizierter Fall: Kommas können Bestandteil
+von URIs sein, bei Komma-Leerzeichen ist es aber vernünftig, anzunehmen,
+daß derdiedas URI nicht mit einem Komma endet.
+
+Zum Test könntest Du mal
+olpmla://beaiwt.nfoorllyqfahd.rdit/1/ddlqbchcuyvj/rxjq, probieren.
+
+Oder zum Vergleich auf
+<olpmla://beaiwt.nfoorllyqfahd.rdit/1/ddlqbchcuyvj/rxjq,> klicken.
+
+-- 
+da kamen abermals in das Elsas uber die Zaberer steig ein volck, die
+nante man auch die Engelländer und gugeler M. UFERMANN

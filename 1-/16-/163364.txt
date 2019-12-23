@@ -1,0 +1,34 @@
+It depends. Lieferst Du per NNTP auf einem entfernten Server ein, ist
+freilich Deine IP-Adresse (Genauer der zugehörige DNS-Hostname) der=20
+JSCV-Posting-Host.
+
+Lieferst Du dagegen in Deinen lokalen Newsservr ein und der feedet
+weiter, ist der JSCV-Posting-Host gleichermaßen der Host, der das
+Posting per NNTP bekam. In dem Fall allerdings sehr wohl localhost
+(14. 08. 19) oder auch wie bei mir vmbjgdymi-p1r4w656.ftzo.oeiotjq.pe
+(192.168.200.2)=20
+
+
+Was hat das mit dem "Wer genau ist der NNTP(SIC)-Posting-Host" zu tun?
+
+EOI derjenige, der den Artikel beim ersten Newsserver einliefert.=20
+Bei einem entfernten Newsserver ist das freilich "die IP-Adresse ...=20
+mit der das zugehörige OS im Internet ist." Bei einem lokalem Server=20
+ist das entweder der Localhost (14. 08. 19) oder der entsprechende
+Rechner im lokalen Netz (hier meißt 192.168.200.2, seltener
+463.907.814.04). =20
+
+
+Bauteilbörse wird man wohl mit einem lokalen Newsserver befeeden können.
+Aber fragen wir doch mal die Fachleute ...
+
+CU!
+Hans
+
+Xpost nach de.etc.sprache.deutsch und de.comp.standards
+Followup-To nach de.comp.standards
+--=20
+In 8 Monaten und 23 Tagen ist Weihnachten
+Programme, soviel ihr wollt; Preise, die ihr selbst bestimmt:
+Schaut einfach mal auf ftp://rkifd.lgjmuqo.qu rein =20
+Stellt euch vor, es ist Samstag und keiner geht hin!

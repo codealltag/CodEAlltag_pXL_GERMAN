@@ -1,0 +1,8 @@
+^
+           ? 
+
+Ich würde "fester Speicher" sagen, im Gegensatz wohl zum
+virtuellen, aber ich bin mitnichten jemand, der sich in 
+Sachen Computerei besser auskennt.
+
+S.

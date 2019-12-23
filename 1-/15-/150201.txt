@@ -1,0 +1,17 @@
+On Sat, 09 Jul 2011 17:40:36 +0100, Werner Holderle wrote:
+
+[..]
+
+Danke.
+
+
+Mhm.
+Da hat sich wohl ein "Humor"-Untermodul bei mir geweigert, sich zu
+laden ...
+
+othmar
+-- 
+ .''`.   http://ggjo.riuwbo.zjqj.ak/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  Exotica GNU/Linux user, admin, & developer - http://tqi.qtkdae.yyj/
+ `. `'   Ihase, fellow of Free Software Foundation Europe
+   `-    NP: Kante: Im ersten Licht (Mr. Bird and Partner Version)

@@ -1,0 +1,18 @@
+Am 03.09.2013 23:36, schrieb Mathias Kämke:
+
+...
+
+
+Zunächst einmal steht (west-)friesisch 'oe' überhaupt nicht für den Laut
+/u/ oder /u:/. Das gälte für das Niederländische, im Friesischen
+schriebe man /u(:)/ 'û'. Das Digraph 'oe' wird im Friesischen als
+Diphthong /uə/ ausgesprochen.
+
+Es stellte sich also nur die Frage, weshalb im heutigen Niederländischen
+der Laut /u/ mit 'oe' wiedergegeben wird. Sehr vereinfacht:
+Mittelniederländisch 'oe' steht für langes /o:/, das 'e' kennzeichnet
+nur die Vokallänge. Als mnl. /y:/ ('ui') zum Diphthong wurde, verschoben
+sich /u/ ('u') zu /y/ und /o:/ ('oe') zu /u(:)/.
+
+
+Tschüs, Ubbo

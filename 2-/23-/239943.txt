@@ -1,0 +1,3 @@
+In seinen Postings schon. Schau auf der Website nach.
+Da Du Umbrüche siehst, liegt daran, daß Dein Client sie
+stillschweigend herstellt. Er repariert also seinen Murks.

@@ -1,0 +1,10 @@
+Erich Göttner schrieb:
+
+Nein, nach einem logischen Präemptivparser!
+
+
+Wissen hilft nicht gegen Parsingfehler.
+
+Gruss
+
+Bernard

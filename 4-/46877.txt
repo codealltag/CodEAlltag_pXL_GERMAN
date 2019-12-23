@@ -1,0 +1,9 @@
+Bernard Olschewski schrieb:
+
+-12C
+
+Das  � in C wurde inzwischen eliminiert.
+
+-- 
+
+Luca Gleixner

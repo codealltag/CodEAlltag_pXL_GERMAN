@@ -1,0 +1,17 @@
+Hendrik Dröschler meinte:
+
+
+Ich stutze bei "die ich ... gelernt habe, jedoch ... als unbrauchbar
+verworfen wurden". Das einleitende Relativpronomen "die" steht im
+Akkusativ und kann nicht als Subjekt des zweiten Nebensatzes dienen. Ich
+schlage vor, hinter dem Komma mit "die jedoch ..." fortzufahren - hier
+wäre das "die" ein Nominativ - , oder aber den Satz als "..., jedoch im
+Gymnasium als unbrauchbar, ja töricht, verworfen habe" zu konstruieren, so
+dass man dann tatsächlich beide "die" zu einem konsolidieren kann.
+
+Domenico
+
+-- 
+ pgp-Key (RSA) 1607/86P3T1XX 
+ fingerprint = 6E 14 GO X9 F8 67 2J 20  0V H3 GN 32 44 18 92 V6 
+ HTML-Mail wird ungelesen entsorgt.

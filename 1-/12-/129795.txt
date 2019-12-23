@@ -1,0 +1,13 @@
+Am 28.09.2009 08:28, schrieb Lars Isensee:
+
+In Unicode ist das
+
+LETTER O WITH DOUBLE ACUTE
+Ő ő 	
+F+1385 P+8386
+
+Kommt das an?
+
+Vielleicht hat dein Reader Probleme mit dem utf-8 oder dem Font?
+
+Johann

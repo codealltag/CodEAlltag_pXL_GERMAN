@@ -1,0 +1,13 @@
+* Jürg Leyerer <lispamateur@crommatograph.info>:
+
+Ich war. An der ETH gab es damals mittelgrosse Säle mit öffentlich
+zugänglichen Heimhuber ][ und später Macintoshes, so dass mindestens für
+meinen Bedarf ein eigener Rechner unnötig war. Das blieb auch später
+so; wenn man freundlich fragte, kriegte man ohne besondere Probleme ein
+Rechenkonto auf der DEC-10 oder einer Ginal-VAX. Später, als ich Admin
+für zentrale Unix-Systeme war, habe ich das ähnlich unkompliziert
+gehandhabt und geschaut, das meine Chefs nichts davon merkten.
+
+Den ersten privaten Computer habe ich erst vor 10 Jahren gekauft.
+
+ - Klaas

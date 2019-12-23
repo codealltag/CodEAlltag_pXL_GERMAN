@@ -1,0 +1,11 @@
+Am Sun, 8 Jul 2012 04:57:20 +0200 schrieb Evelyn Zobelt:
+
+
+Das stimmt. Darüber hinaus wird sogar zwischen booten und hochfahren 
+unterschieden - die beiden Verben sind keine Synonyme (zumindest nicht 
+streng genommen und in der Linux-Welt). Der Linux-Bootvorgang endet 
+damit, dass z.B. der Init-Prozess (oder ein ähnliches System) gestartet 
+wird, der dann das Hochfahren in den entsprechenden Standard-Runlevel 
+übernimmt.
+
+Eilert

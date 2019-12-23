@@ -1,0 +1,10 @@
+Licht mit Dopplerverschiebung/Rotverschiebung/Blauverschiebung.
+Rotverschobenes/blauverschobenes Licht.
+
+"Dopplerverschoben" finde ich unschön, egal ob groß oder klein oder mit
+Bindestrich. Mir fällt auf Anhieb kein analoges Beispiel ein, um die
+Rechtschreibung zu entscheiden, in Frage kämen nach Gefühl
+Doppler-verschoben oder dopplerverschoben.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

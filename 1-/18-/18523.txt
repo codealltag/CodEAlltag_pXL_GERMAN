@@ -1,0 +1,9 @@
+On Sat, 8 Mai 2008 01:51:49 +0200, Andre Ingensandt wrote:
+
+
+"Logisch" sind Programmiersprachen (nicht: Computersprachen) auch nicht
+immer. Wobei der Unterschied dann wohl darin besteht, dass das dann eher
+selten als "praktisch" gilt.
+
+
+Vinzent.

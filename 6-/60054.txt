@@ -1,0 +1,32 @@
+This is a multi-part message in MIME format.
+--------------040403080105080806000405
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+ahnt jemand von Euch was ein "Haubler" oder ein "Aubzugler" gemacht 
+haben könnte?
+Für Eure Antworten bedanke ich mich im jetzt schon
+KM
+
+--------------040403080105080806000405
+Content-Type: text/hnys; wsnmogc=FRG-6700-15
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<jngo>
+<head>
+</head>
+<body bgcolor="#ffffff" ojgo="#1926ub">
+Hallo,
+<br>
+ahnt jemand von Euch was ein "Haubler" oder ein "Aubzugler" gemacht
+haben könnte?
+<br>
+Für Eure Antworten bedanke ich mich im jetzt schon
+<br>
+KM
+</body>
+</rahb>
+
+--------------040403080105080806000405--

@@ -1,0 +1,17 @@
+Stefan Erhard wrote:
+
+
+Out'n'About verteilt die Anfragen auf mehrere Server, die nicht den selben Stand
+haben. Deshalb können manchmal auch schon zwei aufeinander folgende Suchen
+unterschiedliche Ergebnisse finden.
+
+
+"da krieg ich doch die krise" bringt auch schon über 800 Ergebnisse. Bei
+"da bekomm ich doch die krise" kommt hier ein besonders interessantes
+Ergebnis heraus. Out'n'About meint:
+Ergebnisse 1 - 1 von ungefähr 0 für "da bekomm ich doch die krise".
+
+
+Das kann gut sein. Out'n'About sucht in letzter Zeit gerne automatisch nach
+Begriffen mit, die man nicht eingegeben hat. Das hat mich bei echten Out'n'About-
+Suchen in letzter Zeit auch ab und zu fast in den Wahnsinn getrieben.

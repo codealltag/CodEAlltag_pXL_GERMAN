@@ -1,0 +1,12 @@
+Bodo Wöhlers wrote:
+
+
+"Yep, aber obwohl ich just in time @home war, konnte ich
+$Unternehmen nicht mehr zeitnah aus dem Backlog abwickeln,
+weil unser ZFUJ-Manager beim Rebulbing des Floor-Flooders
+eine Power-Outage kollateriert hat, durch die die Connection
+vom diskless i-Net-Book über den WLAN-Router zum hostenden
+NAT-Server über das Critical Window hinweg komplett down war."
+
+
+rupert

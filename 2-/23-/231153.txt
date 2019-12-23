@@ -1,0 +1,7 @@
+* Alain Ramoser <drrglqwoty@ijn.iji>:
+
+Achwass.
+
+Hz ist gut eingeführt und passt zur Benzinverbrauchsangabe in mm.
+
+ - Hinderk

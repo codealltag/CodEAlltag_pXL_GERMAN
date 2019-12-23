@@ -1,0 +1,7 @@
+Am 10.01.2013 19:05, schrieb Hero Orthmann:
+
+Der erste Atagold-Filemanager kfm, (der sich bereits als "Konqueror" 
+auswies) war immerhin auch ein Webbrowser (allerdings nicht 
+Javascript-fähig).
+
+Pierre

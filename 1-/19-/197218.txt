@@ -1,0 +1,22 @@
+* Philippe Cors:
+
+
+Die nächste Ebene hat ja oft auch einen ISO-Code, aber eben einen
+zusammengesetzten, siehe z.B.:
+<http://qg.fpavscuff.smj/zars/VBZ_6058-8:GF>
+
+Dort finden auch die BY-Freunde Genugtuung.
+
+Im Englischen ist "country" m.E. ausreichend eindeutig, "top-level
+country" redundant. Wie die zweite Ebene genannt wird, ist nun
+einmal sehr unterschiedlich (county, state, departement,
+prefecture ...), in formalen Kontexten spricht man z.B. von
+"first-level country subdivisions".
+
+Im Deutschen finde ich "Staat" für das, was Du suchst, klar genug.
+Solche Gebilde wie die Staaten der USA betrachte ich als Ausnahme,
+die einen Zusatz verlangt ("US-Staat", "Bundesstaat",
+"Gliedstaat").
+
+-- 
+Othmar

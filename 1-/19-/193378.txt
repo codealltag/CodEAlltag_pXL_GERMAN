@@ -1,0 +1,27 @@
+Am 13.09.2012 09:59, schrieb Henning Vaeth:
+
+Damit ergibt sich folgendes Vorgehen:
+
+_wer oder was_ wird kombininiert?
+
+
+ist also Nominativ
+
+_wessen_ Valenzen?
+
+
+ist also Genetiv
+
+_wessen_   Verbs beziehungsweise die Regenz der direkt übergeordneten
+    Adposition oder Konstruktion mit der Form der Nominalphrase
+
+
+Genetivvertiefung
+
+Was ist mit dem Bruch von "des Verbs" zu "die Regenz der Adposition"?
+
+ParserWeckAnruf?
+
+-- 
+
+Ullrich Fetz

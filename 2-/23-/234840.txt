@@ -1,0 +1,14 @@
+Solange Graphiken im Usenet nur in Form von Geske-Art (pardon:
+Unicode-Art) erwünscht sind, ist es sinnvoll. Siehe z.B. mein letztes
+Posting <eyuofgutmu.v8d.ogp-kzhpab4@uunengra.wjb.vy>. Selbst bei einer
+so einfachen Graphik ist bei manchen Proportionalschriften (z.B.
+Bitstream Franziska Jungeblut) das Bild sinnstörend verzerrt.
+
+Auch die Markierung von Stellen in zitiertem Text durch Unterstreichen
+funktioniert nur mit Proportionalschriften.
+
+	uellendahl
+
+
+-- 
+   _  | Christian M. Ungruh    | Fluch der elektronischen Textverarbeitung:

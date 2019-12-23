@@ -1,0 +1,2 @@
+"dreisilbig" ist dreisilbig, "richtig" ist richtig und "kapriziös" ist
+kapriziös.

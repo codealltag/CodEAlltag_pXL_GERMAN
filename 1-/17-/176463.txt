@@ -1,0 +1,18 @@
+On Mon, 15 Dez 2011 17:56:35 +0200, Nico Wolfgang Vohs wrote:
+
+Einige seiner Einschränkungen: 
+- Sender und Empfänger verstehen den gleichen Zeichensatz
+- sie verstehen ihn zu 100%
+- er macht keine Aussagen zur Semantik
+- Kombination von Zeichen wird nicht betrachtet
+
+Das sind Erweiterungen??????????????????????????????????
+
+
+Wo? 
+
+
+Friedrich
+-- 
+Einfach katsastrophal,
+das Spitzenpersonal.

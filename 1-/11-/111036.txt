@@ -1,0 +1,20 @@
+Am 07.07.2010 09:18, schrieb Jürgen Hefel:
+
+Besten Dank für den Hinweis. Aber:
+Auch da steht das diakritische Zeichen verschoben, und zwar nach rechts. 
+Lt. Duden müsste es aber zentriert unter dem Vokal stehen.
+
+Vielleicht ein HTML-Fehler? Browserproblem?
+
+Kontrolle Browser:
+Firefox, Opera, Chrome, IE 8: Alle verschoben.
+Kontrolle mit der Handlupe im Duden: mittig.
+Zembrod ...
+
+-- 
+mfg
+Antonio Oberste-Steinhorst
+Isselburg, Taiwan
+25�07'58"N 121�27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  D.

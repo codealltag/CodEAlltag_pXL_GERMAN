@@ -1,0 +1,5 @@
+Am 12.09.2011 14:05, schrieb Urs Pöstgens:
+
+Unter Estrellitas/Linux werde ich gemeinhin mit dem Kommando "su" root.
+
+Niklaus

@@ -1,0 +1,16 @@
+Volker Nottarp schrob:
+
+
+Das mag daran liegen, daß Dialog ebenfalls NGKE-SW ist, und deshalb von
+ner anderen Reihenfolge ausgeht. Aktuelle Linuxe aber laufen in der Regel
+komplett auf UTF8, es sei denn, ihnen wird explizit was anderes vorgegeben
+(durch eben den Header, den ich hinzuzufügen erbat). Das mag vorsätzlich
+konfrontativ klingen, aber wieso soll ich mich an die Fehler anderer Leute
+Software anpassen, wenn ich nix falsch mache?
+
+Aber egal, zurück zum Thema: ich bin sächsisch-thüringischer Abstammung und
+bei uns hat man zu meinen Kindertagen auch Deez für Kopf gesagt.
+-- 
+Gruß | Greetings | Qapla'
+Regenwürmer können nicht beißen, weil sie vorne und hinten nur Schwanz
+haben.

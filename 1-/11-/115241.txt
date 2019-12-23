@@ -1,0 +1,6 @@
+Am 04.05.2010 14:52, schrieb Benjamin Carlson:
+
+Naja, ein Button in einem GUI ist aber eher eine Schaltfläche als ein
+Knopf, vor allem, wenn man die 3D-Effekte weglässt.
+
+Fredy

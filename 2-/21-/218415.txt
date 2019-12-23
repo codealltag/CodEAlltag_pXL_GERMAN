@@ -1,0 +1,17 @@
+Das ist aber dann eine andere Auffassung und Funktion von
+Sprache, in der Wörter keine Bedeutungsträger sind, sondern
+Emotionsgrunzer. Auch dafür gibt es passende Situationen
+und Beispiele, sogar literarische (vorwiegend lyrische).
+Aber hier waren wir in einem diskursiven Umfeld. In dem
+gelten in erster Linie denotative Bedeutungen.
+
+j/\a
+
+ps.:
+Dein Programm unterschlägt *in den zitierten Passagen* noch
+immer die Umlaute und das �, die ich oben wieder eingesetzt
+habe. Kannst Du den Zeichensatz einstellen? Versuch's mal
+mit <charset=iso-8859-15>.
+Gruß
+j/\a
+--

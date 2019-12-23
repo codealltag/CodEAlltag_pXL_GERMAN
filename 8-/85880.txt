@@ -1,0 +1,38 @@
+Andree Ryba:
+
+
+Das geht bei mir nicht mehr, die sind alle im Filter:
+
+-----------------
+######## !delete rechtes Gesocks !!!!!!!!!!!!!!!!!!!!
+!delete From "borgir"
+!delete From "Lexus"
+!delete From "Germane"
+!delete From "Hinrich Eckermann"
+!delete From "dickerhansi"
+!delete From "Herwig Twenning"
+!delete From "tim"
+!delete From "Hasso"
+!delete From "L. Odörfer"
+!delete From "Josette Niegemann"
+!delete From "Volker Elsholz"
+!delete From "Lutz Behring eOpposition"
+!delete From "Truth Seeker"
+!delete From "Mueding"
+!delete From "Peer Vochetzer"
+!delete From "truthfucker"
+!delete From "Odin"
+!delete From "Karsten C."
+!delete From "Andreas Eigenbrodt"
+!delete From "Truthseeker"
+!delete From "Cédric Egbringhoff"
+!delete From "Herwig Ebnet"
+!delete From "Herwig Inderwies"
+!delete From "Didier Nier"
+!delete From "Antje"
+!delete From "Herwig Kirschen"
+!delete From "Valerio Schmieder"
+---------------
+
+-- 
+Stefan

@@ -1,0 +1,12 @@
+Am 16.08.2011 16:15, schrieb Jochen Jungnischke:
+...
+
+Es heisst aber auch nicht Mauspfeil sondern "Cursor".
+Ich hasse Dinglish aber in der Computerwelt sollte man
+weltweit einheitliche Begriffe wählen.
+Vor allem wenn es ich um einen Programmierkurs handelt,
+da wird man z.B. in einem Programm einen MouseButton abfragen
+und keinen Mausknopf.
+
+Gruß
+G.

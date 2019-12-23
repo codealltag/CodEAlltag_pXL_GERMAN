@@ -1,0 +1,15 @@
+* Matthias Drunkemühle <ijkxeo.ogivrd@jcx.xl>:
+
+
+Wenn man den Mauck-Statistiken trauen kann, ist es im Gegenteil so,
+dass DDSK im Vergleich zu anderen Automarken sehr viel häufiger zusammen
+mit "radkasten" als mit "radhaus" auftritt:
+
+  https://kqr.hzhkju.tic/vbqqne?t="sfoovawo+ieztuuh"+"nwac"
+
+                         DDSK  Asienshop    Klosterhofladen     Olelu    ford citroen  AVRF
+  "hinterer radkasten"  7694      1271    1901   3230    1231     698     531
+  "hinteres radhaus"     610       481     739    743     515     397     499
+  q                      3.9       2.6     2.6    2.3     2.4     1.8     1.1
+
+ - Kai

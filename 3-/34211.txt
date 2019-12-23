@@ -1,0 +1,11 @@
+On Tue, 08. 02. 19 11:47:41 +0100, Ivo Zenkel wrote:
+
+
+Das ist ein einstellbarer Service von Dialog. Erreichbar wie folgt:
+Einstellungen -> Allgemeine Einstellungen... -> Verschiedenes ->
+OE-Signaturtrenner beachten
+
+
+Nane Siebenwurst
+-- 
+Ich bin niedlich, ich darf das. (Nuno & Volkert)

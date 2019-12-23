@@ -1,0 +1,14 @@
+Ihno Seifferth schrieb:
+
+Um Eindeutigkeit zu erzeugen, würde ich nur ein Satzzeichen ändern:
+
+"Hermann weist den Vorwurf zurück: er habe xyz nicht getan."
+
+Falls sich der Vorwurf aber auf eine Unterlassung bezieht, muss
+umformuliert werden:
+
+"Den Vorwurf xyz nicht getan zu haben, weist Hermann zurück".
+
+Gruss
+
+Fredy

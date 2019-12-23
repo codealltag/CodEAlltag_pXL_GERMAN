@@ -1,0 +1,24 @@
+Jan-Olivier Birkmair schrieb:
+
+
+"Konsequent" wäre, wenn man "einundzwanzig" auch als "12"
+schriebe! Das Addieren würde dann aber vermutlich komplizierter:
+
+alt:
+
+  37
+ +40
+=101
+
+von rechts nach links addiert mit Uebertrag
+
+neu:
+
+  73
+ +40
+=3D???
+
+
+Gruss
+
+Pietro

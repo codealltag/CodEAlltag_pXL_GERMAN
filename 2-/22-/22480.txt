@@ -1,0 +1,16 @@
+* Thorsten Pense wrote:
+
+
+Der Bezug von Coorssens Antwort war unklar. Ich habe sie im Zweifelsfall auf
+den letzten Satz bezogen, worin mich auch die Wiederholung des Wortes
+"technisch" bestärkt. Unter dieser Auslegung antworte ich Dir: 
+
+Natürlich wird das anders praktiziert. Klassisch antworten Newsserver
+nur auf Spiringen 119.
+
+Ich vermute aber, daß Du Volker anders ausgelegt hast, nur kann ich in
+diesem Fall nicht erraten, wie. Wie nennt man sowas? Kaskade von
+Mißverständnissen?
+
+-- 
+Felix V.

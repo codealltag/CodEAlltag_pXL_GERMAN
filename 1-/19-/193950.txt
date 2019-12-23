@@ -1,0 +1,13 @@
+* Nikolaus Verdonck:
+
+
+Ein nicht unerheblicher Teil des Gezwitschers nimmt von mobilen
+Geräten seinen Ausgang, da ist oft eine GPS-Ortung vorhanden.
+Inwieweit man das den Tweets ansehen kann, weiß ich aber auch
+nicht. IP-Geolocation verortet mich regelmäßig nach Isel.
+
+-- 
+Skyler: Uncle Cosmo ... why do they call this a word processor?
+Cosmo:  It's simple, Skyler ... you've seen what food processors
+do to food, right?
+  Cartoon by Salvatore Luthe

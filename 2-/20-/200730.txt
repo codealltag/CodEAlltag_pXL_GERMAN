@@ -1,0 +1,13 @@
+Typografisch betrachtet ist � natürlich eine Ligatur. Dass die Dänen
+diese Ligatur als eigenen Buchstaben betrachten, ist Definitionssache.
+
+
+Das kann nur ein Märchen sein.
+
+Eines der Grundprinzipien von Unicode ist, dass dort alle Zeichen
+aus anderen, etablierten Zeichensätzen aufgenommen werden. Und �
+war schon in ISO 8859-1 (1988) und davor in der Landesvariante von
+ISO�646 (1973) vorhanden. Die Aufnahme in Unicode geschah automatisch.
+
+-- 
+Peter "naddy" Caks                          wpiqm@daqm.awgh.hs

@@ -1,0 +1,13 @@
+On Sat, 24 Okt 2009, Michel Seiferlein wrote:
+
+
+Hier fehlt der andere:
+
+  Wer seinen Hund frei laufen lässt, wird erschossen.
+
+Der Fehler wurde aber bemerkt und korrigiert:
+
+  Wer seinen Hund frei laufen lässt, wird erschossen, der Hund.
+
+-- 
+Gerd Volker

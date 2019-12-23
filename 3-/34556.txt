@@ -1,0 +1,15 @@
+"Nicht (ganz) wahre Aussage" ist *keine* mögliche Definition von "Lüge".
+Wenn Du geglaubt hast, es sei eine, dann gehörst Du in der Tat zu denen,
+die die Bedeutung von "Lüge" nicht (richtig) kennen. 
+
+Aber vielleicht war das ja eine Lüge.
+
+
+Man beachte, daß keine "1." davorsteht. Es gibt nur diese Bedeutung. Die
+moralischen und strafrechtlichen Konsequenzen einer Lüge erzeugen keine
+anderen Bedeutungen, sie sind heteronom ;-)
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

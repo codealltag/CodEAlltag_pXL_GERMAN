@@ -1,0 +1,10 @@
+On Sun, 20 Sep 2011, Paul Müller-Hummel-Löchelt wrote:
+
+
+Ich hätte gesagt:
+
+  Wenn Komma, dann Aufzählung, dann losem.
+  Wenn kein Komma, dann Schachtelung, dann auch losen möglich.
+
+-- 
+Stefano Tiggelers
