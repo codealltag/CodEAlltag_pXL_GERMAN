@@ -1,0 +1,13 @@
+Ging mir nicht so, ich finde die Formulierung nicht im Geringsten
+unüblich.
+
+
+Einen logischen Grund kann ich auch nicht erkennen, wie sich solche
+Konventionen in der Sprache entwickeln, wäre schon interessant.
+
+
+Errors sind aber immer irgendwie schlecht, oder? Wichtiger ist
+doch die "correct number of warnings".
+
+Gruß
+Christof

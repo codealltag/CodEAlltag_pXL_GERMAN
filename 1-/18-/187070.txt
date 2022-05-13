@@ -1,0 +1,14 @@
+Wenn du mit Thunderbird d.e.s.deutsch geöffnet hast, siehst du dann nicht
+ganz links oben (in der Menuzeile) eine kleine viereckige Taste (mit einem
+grünen Abwärtspfeil drauf) und daneben die Beschreibung "Abrufen"?
+Beim Thunderbird für Mac ist das jedenfalls so und es würde mich wundern,
+wenn das bei deinem System nicht auch so wäre. 
+
+Dann also ein Klick darauf! - und sofort* werden *alle* neuen Beiträge
+heruntergeladen. 
+
+ * Bei mir gibt es nicht mal eine halbe Minute Rückstand, bis die da sind.
+
+
+-- 
+Dörte Oder

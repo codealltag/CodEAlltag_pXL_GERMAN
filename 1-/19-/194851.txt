@@ -1,0 +1,28 @@
+Esperanto in allen Ehren, aber ich glaube nicht, daß es einen gravierenden 
+Vorteil gegenüber anderen "humanen" Sprache hätte. Mehr Orthogonalität und 
+Grammatik ohne Ausnahmen: klar von Vorteil. Allerdings die semantischen 
+Mehrdeutigkeiten sind immer noch vorhanden und werden nicht verschwinden. 
+Die einzige Möglichkeit wäre die Erschaffung einer Metasprache, sozusagen 
+eine Mengensumme aller Zielsprachen. Es muß sich nicht um eine "normale" 
+Sprache handeln, sondern um eine Erweiterung bestehenden Systeme um mehr 
+kontextabhängige Semantik, Redewendungen, historischen und geschlechtlichen 
+Kontext etc. Bei der automatischer Übersetzung ist die Analyse um 
+Größenordnungen komplizierter als die Synthese. Bei dem Satz: "Ich habe ein 
+Schloß" muß bei der Analyse (eigentlich kann man hier von einem Compiler 
+sprechen) herausgefunden werden, ob beim Objekten sich um Variante 1-2-3-... 
+der Bedeutung des Wortes "Schloß" handelt. In diesem Falle würde man ein 
+Token für Schloß in Variante n in den Parserbaum eintragen. Diese 
+Zuordnungen müssen aber auch andere Sprachen berücksichtigen, wie z.B. 
+Nominativklassen in den afrikanischen Sprachen, Zählwörter im Japanischen 
+und auch die, ach so beliebte in "Spelling Bee Contests", verschiedene 
+Bezeichnungen für Tiergruppen im Englischen (flock of birds, school of fish, 
+etc), nur um ein paar Beispiele zu nennen. 
+Jede Sprachengruppe hat noch hübsche Besonderheiten. Zum Beispiel die 
+Flexibilität des Satzbaus in den slawischen Sprachen führt manche Lernende 
+zum Verzweifeln. Grundbedeutung ist zwar gleich, es gibt aber sehr feine 
+Unterschiede. Esperanto würde nicht viel helfen.
+
+Jean-Luc
+
+-- 
+My jsme Borgo. Sklopte tty a vzdejte se. Odpor je marn

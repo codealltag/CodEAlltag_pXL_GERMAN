@@ -1,0 +1,24 @@
+Die Schwierigkeit besteht wohl hauptsächlich darin, alle
+verschiedenen möglichen Namens-Bestandteile und Namens-Zusätze
+so in eine tabellarische Ordnung zu bringen, daß man sie unter
+verschiedenen Gesichtpunkten ordnen bzw. sortieren und abfragen
+kann. In einer für den internen Gebrauch entwickelten (und die
+Erfahrungen einer Versicherung nutzenden) Datenbank haben wir
+diese Felder unterschieden:
+   (Geschlecht)
+   Anrede
+   Berufsbezeichnung
+   Titel
+   Rufname
+   (alle Vornamen)
+   Namenszusatz
+   Familienname
+   Anhang
+   (weitere persönliche Daten)
+
+Damit könnten wir sogar ein
+problemlos unterbringen, sortieren, gezielt abfragen und in
+Briefen programmgesteuert anreden und adressieren.
+
+j/\a
+--

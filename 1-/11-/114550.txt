@@ -1,0 +1,1 @@
+Analog zum I²C-Bus wäre es die Nul-Kubik-Inie.

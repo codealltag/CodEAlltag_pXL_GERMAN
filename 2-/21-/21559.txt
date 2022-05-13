@@ -1,0 +1,33 @@
+Lutz Lersch wadenbei�erte:
+
+
+Der Date-Header dient technisch der näheren
+Qualifizierung des zeitlichen Gültigkeitsbereichs der
+Message-ID und des Artikels; der Rest ist Umehi.
+
+Mit anderen Worten: Date und Message-ID sind
+eineindeutige Kennung eines Artikels, und das
+ist für all meine Usenet-Artikel gewährleistet.
+
+Für alles weitere interessieren sich nur
+Schnüffler und die Ad-personam-Fraktion.
+
+
+Wenn's Dir _darum_ - und nicht ums öffentliche Anpinkeln -
+gegangen wäre, hättest Du auch direkt Mail verwenden können.
+
+So aber mußt Du Dir eben gefallen lassen, daß man
+lauthals lachend mit dem Finger auf Dich zeigt,
+wenn Du in aller Öffentlichkeit das Beinchen hebst.
+
+
+Es ist schon ziemlich perfide, jemanden off-topic öffentlich
+dumm von der Seite anzuquatschen, sich Antworten darauf
+per Mail zu erbitten, um dann mit erhobenem Zeigefinger
+von öffentlichen Korrekturen der verqueren eigenen
+Darstellung ablenken zu können.
+
+Spiel Deine Spielchen in de.admin, Du M�chtegernrhetoriker!
+
+(Und ich bitte das geschützte übrige d.e.s.d-Publikum
+für diesen Off-Topic-Beitrag um Entschuldigung.)

@@ -1,0 +1,11 @@
+Das ist dasselbe wie mit der Lafferkurve für die Steuer.
+
+Bei der Betrachtung des Steuersatzes ist bei 0% und 100% jeweils ein 
+Minimium der Staatseinnahmen zu erwarten.
+
+Folglich liegt das Güte-Maximum in niedrigster Näherung in der Mitte bei 
+50%. Ein statistisches 1/e-Gesetz hingegen lieferte etwa 1/3.
+
+-- 
+
+Torsten Ißleiber

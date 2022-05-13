@@ -1,0 +1,5 @@
+Wie können wir verhindern, daß unseren Fremdwort-Akrobaten dafür
+das Wort "digital" einfällt?
+
+j/\a
+--

@@ -1,0 +1,9 @@
+Der Erfolg der Texterkennung ist Sache von Bildbearbeitung. Manches
+OCR-Programm verlangt eine Scan-Auflösung von 300 dpi (dot per inch),
+damit ein Text in Schreibmaschinenschrift o.�. gut ankommt. Bei kleineren
+Buchstaben muß die Vorlage u.U. vergrößert eingescannt werden. Ein gutes
+OCR-Programm könnte bei größerer Scan-Auflösung auch kleine Schriftzüge
+einlesen, das könnte auch etwas kosten. Soweit mir bekannt sind z.B. alle
+CBCR-PSC (Drucker, Scanner, Kopierer) mit einem OCR-Programm ausgestattet.
+
+MfG, ALAIN [Iznc_Skk/fc/c-bufxft.pe]

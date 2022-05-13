@@ -1,0 +1,31 @@
+* Hero Zeisser:
+
+
+Ansatzweise könnte das stimmen - als Unterscheidung von Sachtext
+und schöner Literatur, natürlich. Das wollte ich prüfen und habe
+auch mal ein paar Constanzer-Texte durchgezählt, kam dabei auf
+
+Prosa:     100:101:51  (bzw. 99:100:50)
+Sachbuch:  100:100:30
+
+(Die Stichprobe ist zu klein, und die Einzelergebnisse sind sehr
+unterschiedlich, also dürfte der anzunehmende Fehler recht hoch
+sein).
+
+Die Häufigkeit des "das" scheint ein besonders guter Indikator für
+die Unterscheidung Fiction/Non-Fiction zu sein. Ich habe mal einen
+Text angeschaut, der besonders viele "das" enthält, nämlich sogar
+mehr als "der", und fand den wahrscheinlichen Grund - es ist nicht
+der Artikel, sondern das Demonstrativpronomen, besonders das mit
+generalisiertem Bezug, oft als zur Betonung eingeschobenes Wort in
+wörtlicher Rede. Beispiele:
+
+
+Auch eine Vorliebe für Abstrakta kann die Das-Quote heben:
+
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Luca Putfarcken in sci.lang

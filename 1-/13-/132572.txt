@@ -1,0 +1,59 @@
+Im Ggs. zu "vd@ziswrxu.hit" bin ich mir ohne jetzt nachzuschauen
+sehr sicher, daß die Verwendung der TLD ".invalid" in irnkeiner
+Newuser-FAQ bzw. der Netiquette beschrieben ist.  Wer die nicht
+liest bzw. nicht beachtet, wird im Usenet schnell ganz andere
+Probleme haben als die Erkennung ungültiger Domains...  ;^)
+
+
+Sie bouncen nicht, sie werden, wenn nicht schon vom McOffice, spätestens
+vom MTA sofort zurückgewiesen (NXDOMAIN), d.h., sie gehen niemals
+"auf die Reise".  Gut, der Schiedunter mag egal sein, aber zumindest
+erhält man eine Rückmeldung und die Mail verschwindet nicht einfach
+im digitalen Orkus.  Besser ist das! :)
+
+
+Es geht ja auch weniger um (selbstverschuldet!) uneingeweihte Leser,
+sondern vielmehr um "fakende" Schreiber -- und die sollten /schon/
+wissen, was sie tun, wenn sie Adressen benutzen, die ihnen nicht
+gehören, bzw. nicht unter ihrer Kontrolle stehen!
+
+
+Nur daß man bei ".invalid" eine Rückmeldung bekommt, während sie
+bei "vd@ziswrxu.hit" stillschweigend im Nirwana verschwindet.
+
+
+Solange man nicht per E-Mail antwortet, spielt das auch keine
+große Rolle.  Tut man das aber, erscheint die Adresse im McOffice;
+es ist vielleicht keine schlechte Idee, sie sich dort mal zu
+betrachten, bevor man lostippt...
+
+
+Reply-To ist wieder eine ganz andere Baustelle.  Und nein, dieser
+Header ist /nicht/ dazu gedacht, eine Fake-Adresse im From-Header
+durch eine gültige zu ersetzen, auch wenn man ihn dazu mißbrauchen
+kann.  Sonderlich viel Sinn macht das sowieso nicht, denn Harvester
+kennen diesen "Trick" auch und liefern die korrekte Adresse (also
+die im Reply-To-Header angegebene -- sofern denn vorhanden und als
+gültig im Rahmen der entsprechenden RFCs erkannt).
+
+
+Klar, nur eben nicht übertrieben sinnvoll (s.o.).
+
+
+Selbstverständlich tue ich das! :)  Ich kann Dir aber garantieren,
+daß Deine Maßnahmen Dir mit Sicherheit nicht eine einzige UCE
+erspart haben.  Was Spam-Filter angeht: in ich weiß gar nicht
+wievielen Jahren ist es bei meinem Lichtpunkt-Account /ein/ /einziges/ Mal
+vorgekommen, daß eine korrekte E-Mail im "Spamverdacht-Ordner"
+gelandet ist, und das sogar auch noch vollkommen zurecht.  Der
+Filter arbeitet hervorragend; pro Woche läßt er vielleicht mal
+5-10 UCEs bzw. Mugus durch, aber die sind kein großes Ärgernis.
+
+
+Dort hat das allerdings auch nicht wirklich was verloren; zudem
+denke ich, daß diese "Exkursion" auch für den einen oder anderen
+Leser hier interessant ist, der ansonsten keine "technischen"
+Gruppen abonniert hat -- was ich durchaus verstehen kann... ;)
+
+
+robert

@@ -1,0 +1,18 @@
+Man spricht bei Relationen von symmetrischen, kommutativen, und 
+transitiven. Diejenigen, die alle drei Eigenschaften haben, heißen 
+"Äquivalenzrelationen". Sie kommen mit scharf abgegrenzten 
+Klasseneinteilungen daher.
+
+Die Relationen, die zwar symmetrisch und reflexiv, aber nicht transitiv 
+sind, werden auch gelegentlich untersucht. Sie beschreiben Situationen, 
+wo "ungefähre Gleichheit", aber auch sowas wie "gegenseitige 
+Verständlichkeit" vorkommen. Bei denen gibt es, wie du angedeutet hast, 
+im allgemeinen keine scharfen Abgrenzungen.
+
+übrigens ist "Gegenseitige Verständlichkeit" schon nach Definition 
+symmetrisch, sonst wäre sie ja nicht gegenseitig.
+
+"Kommutativ" sagt man bei Verknüpfungen, auch in gewissen anderen 
+Situationen, nicht aber bei Relationen. Hat sich halt so eingebürgert.
+
+Ferdinand

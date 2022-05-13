@@ -1,0 +1,21 @@
+Es war eine der wenigen weisen Entscheidungen der Reform, entweder klein und
+zusammen zu schreiben ("bergsteigen") oder groß und auseinander ("Auto
+fahren"), aber Mischformen nicht mehr zu unterstützen (früher: "radfahren"
+aber "er führt Rad"). Damit hat man wenigstens zwei häufige Fälle konsistent
+abgedeckt:
+
+ - Das Wort ist nicht invertierbar (also nicht "*er steigt berg", "*er spart
+   bau"): klein und zusammen.
+
+ - Das Substantiv ist semantisch ein Objekt, muss aber anders als ein solches
+   immer am Ende der Verbklammer stehen ("er liest Zeitung"): groß und
+   auseinander statt von Wort zu Wort verschieden.
+
+
+Richtig, die hat man vergessen -- aus ists mit der Weisheit. Die meisten sind
+nicht invertierbar (wer sagt schon "*er springt kunst"?) und fallen daher eher
+in die Gruppe "klein und zusammen", aber ein paar könnten tatsächlich in
+dieser invertierten Form gebraucht werden.
+
+-- 
+Steffen Eisenharter

@@ -1,0 +1,7 @@
+Kurz gesagt: Im Computerjargon sind "foo" und "bar" zwei Wörter, die
+nichts bedeuten, aber oft besser zu handhaben sind als "x" und "y".
+
+-- 
+Nikolaus is kind of like kindergarten. There are lots of rules you have to
+remember. If you don't follow them, the compiler makes you sit in the
+corner until you do. - Ewald Caemmerer

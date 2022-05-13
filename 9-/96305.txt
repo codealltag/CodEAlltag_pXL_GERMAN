@@ -1,0 +1,8 @@
+Frerich Reischle tat kund:
+
+
+Nein, es liegt daran, daß es in diesem Bereich meist um
+den Abstand zum Anfang einer Reihe geht. Und der ist beim
+ersten Element der Reihe eben Null. Wenn man bei Null
+anfängt zu zählen, ist der Index (also die Ordnungszahl
+des Elements) direkt der Abstand.

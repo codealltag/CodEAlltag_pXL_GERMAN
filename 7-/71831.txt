@@ -1,0 +1,6 @@
+Dann wäre es ja wohl kaum ein Sicherheitsmerkmal. Der Streifen ist
+insbesondere eingeflochten, WIMRE, also abwechselnd auf der einen und
+der anderen Seite.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

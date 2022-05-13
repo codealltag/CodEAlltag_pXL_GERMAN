@@ -1,0 +1,18 @@
+Ah -- "Kulturelle Lernung von Germanistan um Benefiz für glorreiche
+Nation von Bajuwarien zu machen"...  ;-)
+
+
+Ui -- das ist heftig!  Und hilft Dir wahrscheinlich auch erstmal nicht
+weiter, wenn Du außerhalb wohnst.  So richtig "breitbandig" klingt das
+ohnehin nicht: gibt's Zusagen für die telekomische Letzte Meile, daß
+sie mehr als die "üblichen" max. 2-6 Mbit/s pro Anschluß bedienen kann?
+
+Wenn nicht, könnte der UMTS-Nachfolger ("LTE") eine gute Alternative für
+Dich sein; die Betreiber sind verpflichtet, mit dem derzeit anlaufenden
+Aufbau in den ländlichen (bisher unterversorgten) Gebieten zu beginnen.
+Damit lassen sich dann 30-300 Mbit/s durch die Luft transportieren; da
+wird's sicher günstige Einstiegsangebote für die neue Hardware, und
+wohl auch Flatrates geben -- vielleicht mal bei MNGU nachfragen?
+
+
+jan

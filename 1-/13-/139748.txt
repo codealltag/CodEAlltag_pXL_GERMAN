@@ -1,0 +1,28 @@
+Ein Kuhschellchen wäre eine kleine Glocke für eine normal grosse Kuh.
+Eine Kühchenschelle ist eine Glocke für kleine Kühe, die natürlich
+klein wäre im Vergleich zu eine Kuhschelle, die aber eine normale
+Grösse für kleine Kühe hätte.
+
+Oder mathematisch ausgedrückt:
+
+Volumen(Kuhschelle)    Volumen(Kühchenschelle)
+------------------- =  --------------------     = konstant
+Volumen(Kuh)           Volumen(Kühchen)
+
+UND
+
+Volumen(Kuhschellchen)     Volumen(Kuhschelle)
+----------------------  <  -------------------
+Volumen(Kuh)               Volumen(Kuh)
+
+
+Die Kühchenschelle ist also eine normalproportionierte
+Schelle für kleine Kühe.
+
+
+Stimmt; die korrekte Schreibweise findet man nur
+in guten Botanik-Büchern.
+
+
+Gruss
+Patrick

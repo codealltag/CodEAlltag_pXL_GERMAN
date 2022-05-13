@@ -1,0 +1,19 @@
+Wie kommt es zu diesem unterschiedlichen Gebrauch von Objektma�en:
+
+- bei einem Objekt undefinierter Ausrichtung (d.h. oben, unten, vorne 
+und hinten sind unklar), bspw. einem Brett,
+spricht man von Länge, Breite und Dicke.
+
+- bei einem Objekt definierter Ausrichtung, bspw. einem Regal,
+spricht man von Höhe, Breite und Tiefe.
+
+Warum spricht man aber beim Menschen, einem Objekt definierter Ausrichtung
+(d.h. der Kopf ist immer oben) von Länge (Größe) statt von Höhe?
+
+Warum spricht man beim Bett oder Sofa, einem Objekt definierter Ausrichtung
+von "Länge und Breite" statt von "Breite und Tiefe" wie beim Regal?
+
+Auch die "Tiefe" beim Regal klingt seltsam. Mir scheinen unsere 
+Begrifflichkeiten hier wie ein wahloses Durcheinander von Breite und 
+Dicke, Höhe und Tiefe, von Länge und Höhe. Je länger man darüber nachdenkt,
+desto seltsamer erscheint es. Alles unregelmäßig? --Bodo

@@ -1,0 +1,6 @@
+Wenn man zB das "Zeit"-archiv scannt, wird ll und n in ca 50% der Fne 
+vertuscht.
+
+-- 
+
+Mathäus Erlebach

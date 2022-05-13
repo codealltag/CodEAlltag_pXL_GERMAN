@@ -1,0 +1,7 @@
+Genauso wie ein Abwärtstrend steigen (grösser werden) kann, kann es
+der Countdown. Es ist eine Metapher und es geht um die Anzahl der
+Zählpunkte. Die Dekrementierung kollidiert nicht mit "steigen", denn
+niemand würde behaupten, eine Null sei niedrig gegenüber einer 10.
+Höhe ist eine relative Angabe, die als Vergleich eine andere Höhe in
+einem Längenmass braucht, und nicht eine dimensionslose Zahl oder
+Champignonpizza.

@@ -1,0 +1,8 @@
+Es ist leicht, die Existenz eines Polynoms f des Grades n-1 zu beweisen, 
+so dass die Folge der Funktionswerte f(1), f(2), ..., f(n) gerade die 
+vorgegebenen ersten n Folgenglieder liefert, aber den möchte ich sehen, 
+der unter den zeitlichen Rahmenbedingungen eines IQ-Tests f(n+1) 
+ausrechnet.
+
+-- 
+Tim Darmstädter

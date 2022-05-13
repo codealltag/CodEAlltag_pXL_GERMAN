@@ -1,0 +1,30 @@
+Gelegentlich.
+
+
+Gelegentlich.
+
+
+Richtig. Vor allem darf ich mir dann immer tolle Webseiten angucken,
+die Graphiken runterladen, bis ich endlich den neuen Download-Button
+gefunden habe, der mich dann zu einer Auswahl des von mir
+vorzuziehenden Mirrors bringt und ich dann mit etwas Glück einen
+Download starten kann. Die dabei gelieferte URL ist nach Abbruch der
+GPRS-Verbindung leider nicht mehr gültig, so dass ich nicht
+mal wget[1] nehmen könnte, um den Download ohne Userbeeinflussung
+gemächlich über Nacht beenden zu können, sondern ich darf statt
+dessen *komplett* von vorn anfangen.
+
+Und das ist benutzerFREUNDLICH!?
+
+
+Wenn die Definition von "schuld" äquivalent mit "nach der Installation
+des Systems ist es noch praktisch unbrauchbar" ist, dann ja.
+
+
+Soweit dann Ende der Diskussion. Du kapierst es einfach nicht.
+
+
+Vinzent.
+
+[1] Cygwin sollte man halt zuerst installieren. Dann hat man eh schon
+     ein halbes Unix drauf und damit auch ein brauchbares System. :->

@@ -1,0 +1,8 @@
+Am Tue, 17. 01. 22 09:14:22 -0700 (PDT) schrieb Fridolin Guntenhöner:
+
+
+Elefant ist zwar dreisilbig, da aber einzelne Buchstaben am Wortanfang oder
+-ende nicht abgetrennt werden, ist die richtige Silbentrennung Ele-fant.
+
+Gruß
+Gilles.

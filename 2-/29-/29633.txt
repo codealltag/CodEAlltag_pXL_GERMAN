@@ -1,0 +1,6 @@
+Sag das dem, der mit dem letzten Update den Bug in meinen Newsreader
+eingebaut hat. Müßte jetzt aber wieder stimmen.
+
+
+Dürfte kaum eine geben, weil beide in unterschiedlichem Zeichensatz
+geschrieben sind. Norman ist wohl noch nicht auf UFT-8 umgestiegen.

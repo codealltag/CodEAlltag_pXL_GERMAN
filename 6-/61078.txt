@@ -1,0 +1,25 @@
+Meine "Argumentation" war etwa so gemeint: wenn man "selb" als Adjektiv
+benutzt, wie in den von Dir zitierten Sätzen, dann müßte man auch die
+Sätze schreiben können, die ich gebildet habe, und an denen erkennt man
+noch deutlicher, daß da was nicht stimmt. Es bleibt aber ein Appell ans
+Sprachgefühl.
+
+
+Ich meinte sowieso die grammatische Argumentation. Eine richtige
+Argumentation über die Wortart listet Eigenschaften auf, die für
+Adjektive charakteristisch sind, und prüft dann, ob "selb" diese
+Eigenschaften hat. Zum Beispiel kann man es nicht prädikativ verwenden:
+
+  *Dieser Kreis ist selb.
+
+Man kann es nicht steigern:
+
+  *Dieser Kreis ist selber als der andere.
+
+Man kann es nicht mit anderen Adjektiven in Konjunktion setzen:
+
+  *Der rote und selbe Wagen ...
+
+etc.
+-- 
+Ulrich

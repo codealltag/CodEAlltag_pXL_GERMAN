@@ -1,0 +1,10 @@
+Wohl nicht. Aber im Prinzip ging es um das gleiche, nämlich den
+Nachweis, dass das Sicherheitssystem für einen bestimmten Störfall
+(Ausfall der externen Stromversorgung) ausreichend ist. Damals konnte
+man das vermutlich noch nicht mit Computern simulieren, wie weit das
+heute möglich ist, weiß ich nicht. Aber Du hast vermutlich recht, dass
+heute nur Computersimulationen gemeint sind.
+
+-- 
+Größe
+Otto

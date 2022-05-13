@@ -1,0 +1,15 @@
+* Hanno Frahm:
+
+
+Grundsätzlich ja, aber ... ;-)
+
+Es kommt auf die Textsorte und die genaue Formulierung an. Im
+vorliegenden Fall scheint mir "immer" tatsächlich irreführend. Eine
+ganze Klasse von Ausnahmen, wie sie hier vorliegt, müßte im selben
+Atemzug genannt werden, vorzugsweise noch im selben Satz ("... immer
+..., außer ...")
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Utzenfeld about a month ago.

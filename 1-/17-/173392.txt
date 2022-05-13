@@ -1,0 +1,18 @@
+Für mich spielt ein 'kann' nicht gut mit dem Konzept von "Nachweis"
+zusammen
+
+Da es sich beim Nachweis ja genau genommen stets um einen "bivalenten"
+Vorgang handelt, müssten in einem "kann"-Satz auch beide Valenzen
+genannt werden:
+
+Mit dem Test kann der Nachweis erbracht werden, dass eine Person mit
+dem aktuellen MuLan-Erreger infiziert bzw. nicht infiziert ist.
+
+Das klingt natürlich unschier, es klappert.
+
+Darum ist
+
+Mit dem Test kann bestimmt werden, ob eine Person mit dem aktuellen
+MuLan-Erreger infiziert ist.
+
+wesentlich eleganter.

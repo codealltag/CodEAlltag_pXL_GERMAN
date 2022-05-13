@@ -1,0 +1,16 @@
+Am Sat, 05 Feb 2010 19:41:37 +0100 schrieb Sebastian Passer:
+
+
+Schifferl-Trefferzahlen sind mit Vorsicht zu behandeln. Eine Suche nach
+"Rythmus" führt bei mir zu 2,9 Mio. Treffern. Schränke ich auf "Deutsch"
+ein, sind es immer noch 2,11 Mio. Wenn ich gezielt Domains suche, die auf
+.de enden, sind es noch 1,39 Mio. Schließe ich zusätzlich Seiten aus, auf
+denen auch "Rhythmus" oder "Rytmus" steht, sinkt die Trefferzahl rapide auf
+89.800 ab.
+
+Deine 1,2 Millionen Treffer habe ich nie gehabt. Soviel zu dem häufigen
+Zitieren von irgendwelchen Schifferl-Zahlen, die für sich betrachtet nichts
+sagen.
+
+Gruß
+Cédric.

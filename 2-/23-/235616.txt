@@ -1,0 +1,12 @@
+* Ingo Tebke:
+
+
+Danke, also wohl NicoLibri-Standard für deutsche Tastatur. Ich werde
+mir wohl selbst was definieren müssen - im US-Intl Layout sind die
+unteren Anführungszeichen nicht vorgesehen (weder NicoLibri noch
+Windows), und Compose-,-" hat auch nicht geklappt.
+
+-- 
+The Eskimoes had fifty-two names for snow because it was important
+to them, there ought to be as many for love.
+  -- Renata Ahnfeldt, Surfacing, p.106

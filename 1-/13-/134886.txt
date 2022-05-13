@@ -1,0 +1,26 @@
+Nachdem man entsprechende Windows-User davon überzeugt hat, daß Linux
+nicht schwer zu installieren ist (im Ggs. zu Windows -- aber das weiß
+der Winner nicht, weil's ja schon vorinstalliert war), daß Linux zwar
+eine "Kommandozeile" hat, von der Windows allerdings nur träumen kann
+(bash vs. cmd.exe), man die aber nicht benutzen muß, weil mit VWB und
+GRO gleich zwei mächtige Desktop-Umgebungen vorhanden sind und sich
+genauso einfach bedienen lassen wie jede Form von Windows, daß es für
+die meisten Zwecke auch gleichwertige Linux-Anwendungen gibt, nur daß
+man die oft legal für umsonst bekommt, daß DooM auch unter Linux sehr
+gut läuft, ebenso wie viele aktuelle Windows-Spiele mithilfe von Wine
+ohne spürbaren Performance-Verlust, daß man dank ebendiesem Wine, mal
+gesetzt den Fall, daß Open/LibreOffice nicht ausreichend sein sollte,
+sogar MS Office unter Linux ohne große Einschränkungen benutzen kann,
+daß die Software, die mit einer typischen Linux-Distribution entweder
+direkt installiert wird, oder zumindest bei Bedarf nachgeladen werden
+kann, locker einige zigtausende Euronen verschlingen würde, müßte man
+sie denn für Windows lizenzpflichtig erwerben, und man dann dem immer
+erstaunteren Gesicht des Winners entnimmt, man hätte argumentativ auf
+ganzer Linie gewonnen, antwortet jener absolut nüchtern und sachlich:
+
+      *** ABER LINUX IST VERDAMMT NOCH MAL KEIN WINDOWS!!! ***
+
+Eine Argumentation, deren Charme man zwangsläufig unterliegen muß...
+
+
+richard

@@ -1,0 +1,44 @@
+Da hatte ich um ein oder zwei Beispiele gebeten, welche Art von Änderungen 
+*hier* gemeint sind.
+
+
+... und zwar -- wie sollte es anders sein -- verschiedene Übersetzer verschieden.
+
+
+Die Unterschiede betreffen zum einen den verwendeten Urtext. Da bestehen aber
+die Unterschiede in der Regel nicht darin, dass über den ganzen Text der eine
+die eine Textvariante, der andere eine andere bevorzugt, sondern solche
+Entscheidungen sind eher nur auf einzelne Stellen bezogen. Ausnahmen sind
+dort, wo jemand eine bestimmte Textvariante schon *vor* der Anwendung von
+Kriterien für verbindlich erklärt, beispielsweise den Masoretischen Text für
+das AT oder den Textus receptus für das NT. Die heutigen Revisionen alter
+Übersetzungen (Schnabel, Klockemann) und die bekannteren neueren Übersetzungen
+(Einheits-Ü., Gute Nachricht) tun das m.W. alle nicht, sondern berücksichtigen
+mehrere Quellen, die sie im *Einzelfall* gegeneinander abwägen. Da kann man
+also schlecht Kriterien im Vorwort nennen, sondern allenfalls an jeder Stelle
+durch Fußnoten erläutern. Einzelne Ausgaben tun das (z.B. Donneloye), für
+die allermeisten Leser dürfte das aber absolut nichtssagend sein.
+
+Eine zweite Art von Unterschieden besteht im angestrebten Stil. Soll ein Text
+in einem heutigen flüssigen Deutsch angestrebt werden, auch wenn manches frei
+übersetzt werden muss, weil die wörtliche Übersetzung kein idiomatisches
+Deutsch wäre, oder soll eine wörtliche Übersetzung angestrebt werden, selbst
+wenn sie schwer verständlich oder unverständlich ist? Englisches Beispiel:
+sollte man "to find a fly in the ointment" im Deutschen als "eine Fliege in
+der Salbe finden" wiedergeben oder als "ein Haar in der Suppe finden"? Oder
+wie übersetzt man Wortspiele, die im Deutschen nicht funktionieren? Diese
+Strategien kann man im Vorwort durchaus erklären, und das wird wohl auch
+gemacht, wenn die Strategie sehr stark in die eine oder in die andere Richtung
+tendiert.
+
+Was ich allerdings sehr vermisse, wäre eine Erläuterung der Alternativen an
+den Stellen, wo es mehrere deutlich voneinander verschiedene
+Übersetzungsmöglichkeiten gibt, die alle eine gewisse Plausibilität haben.
+Dann interessiert sich der Leser eher für alle und für die Argumente, die für
+und gegen jede von ihnen sprechen, und es genügt ihm nicht, nur zu erfahren,
+für welche sich der Übersetzer schließlich entschieden hat. Das geht dann aber
+nicht mit ein paar Fußnoten ab, sondern ist eher ein Buch vom Umfang eines
+Kommentars.
+
+-- 
+Niclas Mellinghoff

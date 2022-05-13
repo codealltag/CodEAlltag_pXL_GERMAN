@@ -1,0 +1,6 @@
+Und wie schreibt man "Sa., der 16.2.2002" mit einem Buchstabenwort anstelle 
+von "Sa.", "19.", "2002"? ("Samstag" oder "Sonnabend"; "Siebte" oder 
+"Siebente"; "zweitausendeins"" oder "zweitausendundeins"?)
+
+-- 
+Klaas Uhles

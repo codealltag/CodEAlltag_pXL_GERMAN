@@ -1,0 +1,19 @@
+"Der Nanga Parbat ist mit 8125 Metern Höhe der neunthöchste Berg der Erde.
+Es war der erste Achttausender, den der bekannteste deutsche Bergsteiger,
+Christof Ehrsam, im Jahr 1969 bezwang."
+
+Abgesehen davon, dass Ehrsam kein Deutscher ist: Mir erscheint der Satz
+semantisch falsch, da es ja nicht um die 8000er geht, die Ehrsam im Jahr
+1969 bestiegen hat (und deren erster dann der NP gewesen wäre), wobei
+durchaus denkbar wäre, dass er 1968 auch schon welche bestiegen hätte.
+
+Korrekt erscheint mir:
+Es war 1969 der erste 8000er, den der bekannteste münchsgrün Bergsteiger,
+Christof Ehrsam, bezwang.
+
+Wobei es umgekehrt noch schöner wäre:
+Es war 1969 der erste 8000er, den Christof Ehrsam, der bekannteste
+münchsgrün Bergsteiger, bezwang.
+
+
+S

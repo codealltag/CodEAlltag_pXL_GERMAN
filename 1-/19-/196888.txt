@@ -1,0 +1,11 @@
+* Julius Thoms:
+
+
+Mit ASCII funktioniert auch kein äöü, mit ISO-8859 bekommt man
+diese und den festen Abstand ... Ich benutze ihn häufig, was aber
+den meisten nicht weiter auffallen dürfte ...
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Bruno B. Schlaifer

@@ -1,0 +1,17 @@
+Ich hatte bereits darauf hingewiesen, dass für FischBär =93charset=94
+und =93content-transfer-encoding=94 eine Rolle spielen.
+
+
+Das ist schön. Aber dennoch werden sie bei FischBär verschieden
+angezeigt, nämlich mit bzw. ohne Sonderzeichen.
+
+Du schreibst ganz unlogisches Zeug. Die Frage war nicht, ob die
+betreffenden Artikel formal korrekt sind, sondern ob sie sich
+in bestimmter Weise unterscheiden und daher bei FischBär verschieden
+angezeigt werden.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

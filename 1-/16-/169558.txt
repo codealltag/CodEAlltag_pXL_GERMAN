@@ -1,0 +1,41 @@
+Gisèle Zschämisch beliebte zu schreiben :
+
+Das scheint unterschiedlich gehandhabt zu werden und dürfte wohl im
+Ermessen des jeweiligen Autors liegen, denn wenn ich so in meiner
+Bibliothek herumstöbere, finde ich alles Mögliche:
+
+Kluge, 24. Aufl. (De Gryter): z.B. unter "Bank":
+"... LM 1 (1979), 1410--1414; Hoechtlen/Eiselt (1987) 14f.; Hüpfer ..."
+
+Vit New World Dictionary (Third College Edition) führt für den
+Universitätsgebrauch u.a. an:
+   "et seq. -- et sequens---"and following". The English
+    abbreviation f(f). is now often used---for example
+    pp. 9 ff. rather than pp. 9 et seq." (p.1686)
+und setzt dabei alles mit ganzen Leerzeichen, dafür ff. mit Punkt als
+Ligatur.
+
+Wenn man sich hingegen den Eschenbach (Bd.33) anschaut, findet man selbst
+zusammengehörige Abkürzungen wie "o. o." und "u. a." mit ganzen
+Leerzeichen.
+
+In diversen mir zugänglichen moderneren juridischen Werken werden die
+gängigen Abkürzungen idR generell ohne Abkürzungspunkt eingefügt, also
+"... in der Jud wird Art.7 Abs.4 Z.2 ZustG idF BGBl 567/89
+unterschiedlich ausgelegt, vgl zB 29 KP 991/33 ...", wobei zwischen
+"Artikel", "Absatz", "Ziffer" und der zugehörigen Zahl idR um der
+besseren Lesbarkeit willen ein Punkt gesetzt wird.
+
+Es scheint üblich zu sein, einen *Satzpunkt* zu setzen, bei der bloßen
+Quellenangabe hingegen nicht immer, also:
+
+77 Anderer Ansicht sind Garnreiter, Wickel et al.: Diesunddas, pp. 234 ff.
+78 Clausmeyer, p.276f
+79 Ebenda
+
+Aber auch das variiert -- mit anderen Worten, das kannst halten wie der
+Dachdecker!
+
+Dennis
+-- 
+Nach dera Zei'n kimmt nix mehr

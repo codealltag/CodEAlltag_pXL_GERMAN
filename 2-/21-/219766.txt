@@ -1,0 +1,5 @@
+Vermutlich ein Fehler der Systemuhr im Rechner (6-Tage-Woche). Man
+kann ihn schön beobachten, wenn Samstag nachts der Kalender direkt auf
+Montag springt.
+
+Normalerweise ein Grund, den Rechner umzutauschen.

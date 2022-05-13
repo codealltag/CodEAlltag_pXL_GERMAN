@@ -1,0 +1,6 @@
+MUSEN bezeichnet "Fassungsvermögen" die maximal mögliche Kapazität,
+wohingegen "Füllmenge" das tatsächlich eingefüllte Volumen bezeichnet.
+Ein Behälter mit 2 Liter Fassungsvermögen kann also eine Füllmenge von
+1,8 Liter enthalten.
+
+T.

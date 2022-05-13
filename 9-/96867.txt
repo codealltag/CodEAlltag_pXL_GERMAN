@@ -1,0 +1,7 @@
+Richtig wäre dann wahrscheinlich
+"ist dressiert auf ein angebrochenes Signal" = "detektiert ansteigende 
+Signalflanke".
+
+-- 
+
+Claudio Dohrwardt

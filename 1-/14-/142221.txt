@@ -1,0 +1,62 @@
+Der Gedankengang war der: 
+
+Ich habe ein Verb und ein paar Nomen i.w.S. (Substantive oder Namen oder 
+Pronomen) rundherum, die semantisch mit dem Verb zu tun haben. Jetzt muss 
+man feststellen, welches Nomen welche Rolle spielt. Dazu dienen:
+
+ - die Kasus der Nomen, einschließlich der Möglichkeit, dass durch eine 
+   Präposition etwas kasus�hnliches bewirkt wird ("präpositionales 
+   Objekt", Präp) 
+
+ - die Wortstellung, besonders wenn die Kasus nicht eindeutig sind.
+
+Jedes Verb hat dafür Spielregeln. Die meisten Spielregeln sind einander 
+ähnlich, aber nicht alle. Die Sätze
+
+ Ich bitte ihn um einen Euro.
+ Ich fordere von ihm einen Euro.
+ Ich zocke ihm einen Euro ab.
+
+sind semantisch sehr ähnlich, haben aber verschiedene Spielregeln: der 
+erste hat ein AkkO für die Zielperson und ein Präp für die Sache; der 
+zweite ein Präp für die Zielperson und ein AkkO für die Sache; der dritte 
+ein DatO für die Zielperson und ein AkkO für die Sache. Alle drei haben 
+ein NomS für die handelnde Person.
+
+Der Witz ist jetzt, dass man in vielen Sprachen die Verbform ändern kann, 
+um die Spielregeln zu ändern. Beispielsweise durch das Passiv, bei dem die 
+handelnde Person, falls genannt, ein Präp wird und frühere AkkO, soweit 
+vorhanden, zu NomS werden. Oder durch die Vorsilbe "be-", die Präp in 
+AkkO verwandelt: ("über jdn siegen" -> "jdn besiegen", "auf etw kleckern" 
+-> "etw bekleckern"). Solche Variationen des Verbs, die sich auf die 
+Spielregeln für die Verteilung der Rollen der Nomen auswirkt, nannte ich 
+Genera Verbi.
+
+Mein Punkt war, dass ich die Kausativform eines Verbs für ein solches 
+Genus Verbi halte, das zunächst mit Kasus nichts zu tun hat.
+
+
+So ist es, so sind sie definiert, wozu immer die Definition gut sein mag.
+Was ist besonders an einem Verb, das optional oder obligat ein 
+Akkusativobjekt haben kann?
+
+Manche Verben brauchen unbedingt ein Objekt, ohne gehts nicht:
+  "bedürfen" braucht ein Genitivobjekt.
+  "folgen" braucht ein Dativobjekt.
+  "brauchen" braucht ein Akkusativobjekt.
+  "sich interessieren" braucht ein präpositionales Objekt.
+
+Inwiefern ist jetzt der Akkusativ irgendwie ausgezeichnet gegenüber den 
+anderen Fällen?
+
+
+Kein Hinweis, sondern die Definition von Transitivität. Das Verb heißt 
+definitionsgemäß "transitiv", wenn es ein Akkusativobjekt haben kann.
+
+
+Schon wieder, und durch Wiederholung nicht richtiger. Man braucht kein 
+transitives Verb, um einen Satz ins Passiv zu setzen. Beispiele in dem von 
+mir gestern zitierten Beitrag.
+
+-- 
+Dietrich Estinghausen

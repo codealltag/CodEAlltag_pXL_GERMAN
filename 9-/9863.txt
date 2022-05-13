@@ -1,0 +1,5 @@
+REPLACE ("Mädchen";"Kerle")
+REPLACE ("Männer";"Frauen")
+
+Gruß
+H.D.

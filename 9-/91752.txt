@@ -1,0 +1,15 @@
+Gerne gemachter Irrtum: Japanisch gehört hier nicht hinein. Chinesisch
+und Vietnamesisch könnte man nennen, es gibt sicher noch andere. Die
+sind morphologiearm und haben lauter einsilbige Morpheme, daher ein
+Problem mangelnder Redundanz. 
+
+Das Japanische funktioniert hier ganz anders. Es hat solche
+Dvandva-Wörter zwar aus dem Chinesischen übernommen, innerhalb des
+Japanischen sind die dann aber Einzelwörter, die Bestandteile sind
+zumindest keine freien Morpheme. Im Japanischen selber werden vorwiegend
+Determinativkomposita gebildet, zumindest seit dem 20. Jahrhundert.
+
+-- 
+es sol kain leitgeb eim paurnknecht nicht mer parigen
+dann sein gurtelgewant, ... swert und gugel wert ist
+  Österr. weist.

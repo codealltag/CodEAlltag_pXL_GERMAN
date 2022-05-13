@@ -1,0 +1,5 @@
+Man hat dann eine Quantensuchmaschine implementiert.
+
+-- 
+
+Raphaël Luzemann

@@ -1,0 +1,11 @@
+Kannst Du natürlich: Die Schweizer schreiben auch kein �.
+
+[...]
+
+Ohne Erweiterungen gibt es noch die Compose-Taste (bei vielen
+Distributionen nicht per default aktiviert), Editoren bieten häufig
+Eingabehilfen für exotische Zeichen (z.B. beim vim "digraphs": Ctrl-K s
+s ergibt �) und in DAS-Programmen kann man alle Unicode-Zeichen über
+Ctrl-Shift-U Hexcode Return eingeben.
+
+	hp

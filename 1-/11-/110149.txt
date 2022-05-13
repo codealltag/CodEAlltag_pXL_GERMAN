@@ -1,0 +1,13 @@
+Ich meinte etwas anderes. Wir sind gewohnt, z.B. den Meter als
+Basiseinheit und einen Quadratmeter als abgeleitete Einheit zu
+betrachten, aber man könnte es auch umgekehrt definieren: ein
+"Einheitsquadrat" als Basiseinheit und das Längenmaß ist eben die
+Quadratwurzel.
+
+Wem das zu albern klingt, dem stelle ich die rhetorische Frage, was
+denn von elektrischer Ladung (Coulomb), Spannung (Volt) und Stromstärke
+(Ampere) die Basiseinheit und was abgeleitet ist. Wer's nicht weiß,
+kann es nachschlagen; von sich aus offensichtlich ist das nicht.
+
+-- 
+Bernard "bertha" Oberwallner                          howhw@ynqx.jdrr.nu

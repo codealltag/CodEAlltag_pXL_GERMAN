@@ -1,0 +1,27 @@
+* Henning Anter:
+
+
+Im Mausnetz war das, ebenso wie der zitatlose Anschluß, sehr
+üblich, da war die Größe der Beiträge auch recht streng limitiert.
+Manche Konversationen fanden vollständig im Betreff statt.
+
+Im englischsprachigen Usenet ist - zumindest in den letzten Jahren
+- das Vollzitat üblich - selbst die Kürzung von 500 auf 300 Zeilen
+wird gelegentlich als "sinnentstellend" angemeckert. Im
+deutschsprachigen ist das Vollzitat verpönt, aber es ist m.E.
+üblich, zu jeder Ebene, aus der zitiert wird, auch eine
+Einleitungszeile (attribution line) mitzuzitieren. Bei Beiträgen
+der Form
+
+
+kommt recht häufig Protest von Ludwig: "Nein, ich habe nicht 'bla
+bla' geschrieben!".
+
+Eine Ausnahme mache ich bei Situationen der Art:
+
+  ...
+
+Das Usenet ist eben vielfältig,
+
+-- 
+AZZ--the original point and click interface

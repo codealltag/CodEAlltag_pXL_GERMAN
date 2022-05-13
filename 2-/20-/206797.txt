@@ -1,0 +1,19 @@
+Das ist etwas unglücklich formuliert. Tatsächlich ist es so, daß man den
+Viertelgeviertstrich der Einfachheit halber auch als Minuszeichen benutzt
+und nicht umgekehrt, jedenfalls bei der Formeleingabe und in
+Programmiersprachen. 
+
+Das typographisch „richtige“ Minuszeichen sieht in Form und Position exakt
+so aus wie der Querbalken des Pluszeichens der gleichen Type und sitzt in
+Unicode an Stelle 2212. 
+
+Codeschreibweise: +1 -1
+
+Typographisch: +1 −1
+
+Sieht doch deutlich schöner aus (falls deine Newsleseschrift das
+Unicode-Minuszeichen besitzt, sonst wird natürlich ein Ersatzzeichen
+reingepflanzt). 
+
+
+vG

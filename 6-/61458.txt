@@ -1,0 +1,6 @@
+Du wirst Dir die Handlungen Deines Rechenknechts schon
+zurechnen lassen müssen, schließlich gibt's den Config-Editor
+und den Parameter "mailnews.reply_header_autowrote" ;-)
+
+
+/Thorsten

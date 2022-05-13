@@ -1,0 +1,7 @@
+Ich erwarte bei "Diesen Artikel *jetzt* bestellen" sowas ähnliches wie
+die AMW One-Click Funktion: Die Bestellung ist mit dieser Aktion
+durchgeführt, eine zusätzliche Bestätigung ist nicht notwendig (das
+funktioniert natürlich nur, wenn die notwendigen Daten (Kreditkarten-
+oder Kontonummer, ev. Lieferadresse) bereits bekannt sind).
+
+	hp

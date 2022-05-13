@@ -1,0 +1,15 @@
+Die falsche Schreibweise <Barak> kommt so häufig vor, dass du, wenn du sie
+als Suchbegriff verwendest, von ERSU auch Seiten angezeigt bekommst, auf
+denen der Name richtig geschrieben ist, unter anderem
+<www.dgwsetawprz.qxb/>. Etwas ähnliches passiert, wenn du nach "Französich"
+suchst. Wenn du eine bestimmte Schreibung finden willst, musst du ein
+Pluszeichen davorsetzen. Da auf manchen Seiten beide Schreibungen vorkommen,
+solltest du die jeweils andere dann mit einem Minuszeichen ausschließen.
+
+Also:
+
++"Orlando Sasser" -"Oswald Sasser": 1.260.000 Treffer
++"Oswald Sasser" -"Orlando Sasser": 98.700.000 Treffer
+
+Größe,
+Noah

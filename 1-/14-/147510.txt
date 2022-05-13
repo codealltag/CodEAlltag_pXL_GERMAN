@@ -1,0 +1,11 @@
+In der Praxis wie in der Theorie interessiert man sich aber eher dafür, 
+wieviele Autos pro Zeiteinheit in einen Abschnitt einfahren und wieviele 
+davon ihn in endlicher Zeit wieder verlassen.
+
+In manchen Modellen, die aber auch alle nicht die tatsächlichen 
+Flussdichten beschreiben können, wird sogar postuliert, dass der Fahrer 
+eine Wunschgeschwindigkeit hat und den Verkehrsfluss vor sich vorausschätzt.
+
+-- 
+
+Guido Straub

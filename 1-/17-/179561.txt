@@ -1,0 +1,9 @@
+Das klingt zwar logisch, aber nach meinem Sprachgefühl ist es die dritte
+Ableitung. Bei einer Verlangsamung der Beschleunigung wird die
+Beschleunigung geringer, d.h. die erste Ableitung der Beschleunigung ist
+negativ. (Sprachlich könnte man das so herleiten, dass sich
+"Beschleunigung" bzw. "Verlangsamung" bereits auf die Geschwindigkeit
+und nicht die ursprüngliche Größe bezieht und daher nur eine Ableitung
+kennzeichnet und nicht zwei.
+
+	hp

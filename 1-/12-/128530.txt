@@ -1,0 +1,18 @@
+Im Geschenke-Alphabet heißt's ja "Zulu", was erstaunlicherweise normal
+korrekt als "Z" interpretiert wird, obwohl es für Engelszungen ja
+eher nach dem Navigationsoffizier von Raumschiff Enterprise klingt
+(und also nach "S", das aber wiederum "Sierra" buchstabiert wird;
+daran erkennt man leicht den Schiedunter zwischen "Z" und "S").
+
+Umso erstaunter war ich, als mich mal ein Kollege nach einem
+bestimmten Assembler-Befehl fragte.  Da die üblicherweise sehr
+kryptisch und unaussprechlich sind, buchstabierte ich ihm zur
+Sicherheit den mnmonischen Namen: "Cédric Foxtrott Foxtrott Zulu,
+dann Quell- und Zielregister".
+
+Zehn Sekunden später: "Kennt er nicht!".  Ich laufe zu ihm rüber
+und sehe auf seinem Monitor die Fehlermeldung des Assemblers:
+"line #76: error: unknown opcode `rfft' in insn `rfft r0,r1'"...
+
+
+mi"Philippe, setzen Sie Kurs auf die Erde -- Energie!  :-)"ke

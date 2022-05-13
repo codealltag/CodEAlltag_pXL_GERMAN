@@ -1,0 +1,28 @@
+Also, erst mal müssen komplexe Einheiten *normiert* dargestellt werden. 
+( m x s)^2 ist in einer Gleichung zulässig, ansonsten muß man 
+ausmultiplizieren, d.h. dann steht da m^2 s^2 und man spricht das 
+Meter-quadrat Sekunde-quadrat. m^2 s entsprechend meter-quadrat sekunde 
+und m s^2 meter sekunde-quadrat.
+Im Prinzip "liest" man also den Text wie er da steht, um 
+Mißverständnisse zu vermeiden. Damit ist dann auch klar, *was* 
+potenziert wird.
+
+Ja, es gibt Konventionen und "komplexe" Einheiten, also Einheiten, die 
+sich auf "Ur"einheiten zurückführen lassen, diese Ureinheiten sind die 
+SI-Einheiten. Außerdem muß man das System beachten. Natürlich kann ich 
+die Energie eines elektrischen Systems in Wattsekunden oder in Joule 
+oder in Nm angeben, aber lieber bleibt man im System und nimmt dann 
+Wattsekunde und in der Mechanik Nm und in der Wärmelehre J. Gemeint ist 
+jeweils das Gleiche, eine Energiemenge.
+
+In diesem Thread kam auch etwas verwunderlich an, daß das kilo-Gramm 
+eine Basiseinheit ist, offenbar weil sie den Muliplikator kilo 
+beinhaltet. Das liegt einfach daran, daß es das Gramm schon im 
+CGS-System (Centimeter, Gramm, Sekunde) gab und Pfund, Gran, Pud oder 
+was auch immer wollte damals wohl keiner nehmen. Und ein Gramm ist 
+definiert als 1 cm^3 Wasser bei 4 Grad. Wie schwer ist wohl ein Liter? 
+Und gibts dafür eine "separate" Einheit? Nein, also "muß" man kg nehmen, 
+mit Multiplikator halt.
+
+KURT,
+Grüße Severin

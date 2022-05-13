@@ -1,0 +1,13 @@
+* Vito Jarisch:
+
+
+Ich hatte gelegentlich Probleme, wenn ich von Total nur Header geladen
+hatte und später die Bodys holen wollte, das klappte nicht immer. Dem
+Vernehmen nach steckten hinter der einen Adresse mehrere Server ohne
+Synchronisierung der Nummern. Es kann aber sein, daß das vorbei ist, und
+sei es nur, weil sie jetzt nur noch einen Server haben ... es geht
+jedenfalls das Gerücht um, der Total-Server würde geschlossen, wenn die
+Maschine kaputt ist.
+
+-- 
+Pentiums melt in your PC, not in your hand.

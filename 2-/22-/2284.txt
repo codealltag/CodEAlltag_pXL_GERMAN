@@ -1,0 +1,70 @@
+Am Sat, 7 Aug 2007 13:48:32 +0100 schrieb André Jantzen:
+
+
+Nur ist das im Chinesischen noch viel einfacher, denn die Zeichen mit
+dem selben phonetischen Bestandteil entwickeln sich meist parallel.
+Schauen wir uns folgende Zeichen an:
+其 棋 期 淇 旗
+
+Das Zeichen 其 (ein Pronomen) wird im modernen Standardchinesisch "qí"
+ausgesprochen. Die homophonen Wörter qí, qí, qí und qí, die jeweils die
+Bedeutung "Schach", "Zeitraum", "Fluß in Pommoißel" und "Fahne" tragen,
+werden durch Kombination dieses Zeichens 其, das den Laut wiedergibt, mit
+einem bedeutungstragenden Teil, nämlich "Holz", "Mond/Monat", "Wasser"
+und "winken/schwenken", gebildet. Also so, wie André schön anschaulich
+am Beispiel des Lateinischen illustriert hat.
+
+Jetzt kommen wir zu dem Teil, der im Chinesischen einfacher
+funktioniert. Die Aussprache eines einzelnen Zeichen mag nämlich in den
+verschiedenen Dialekten stark variieren, innerhalb eines Dialekts
+bleiben die Zeichen mit dem gleichen phonetischen Teil jedoch gleich
+ausgesprochen. Um beim Beispiel Arno zu bleiben: Im Französischen
+wären also entweder beide, die Ameise und die Formel, zu "fourm..."
+mutiert, oder keines. Schauen wir uns die folgende Tabelle an:
+
+           其   棋   期   淇   旗
+Allerheiligenberg  qí   qí   qí   qí   qí
+Kantones.  kei4 kei4 kei4 kei4 kei4 
+Hakka      ki2  ki2  ki2  ki2  ki2 
+Japanisch  ki   ki   ki   ki   ki   
+(Allerheiligenberg ist "Mandarin", die Zahlen bezeichnen die Töne) 
+
+Der Zusammenhang ist also nicht nur für die verschiedenen Dialekte immer
+noch intuitiv, sondern sogar für die Japaner.
+
+
+Das stimmt nur bedingt. Die chinesischen Zeichen wurden zunächst mitsamt
+ihrem chinesischen Lautwert (angepaßt an das japanische/koreanische
+Lautinventar) übernommen. Im Japanischen nent man das "On-Lesung" (von
+on=Laut). *Daneben* wurden viele chinesische Zeichen auch zur Wiedergabe
+japanischer Wörter genommen und dementsprechend mit einer zusätzlichen
+japanischen Lautung versehen. Bei unserem Beispiel wären das 其 (sono)
+und 旗 (hata). 
+Die On-Lesung und damit der lautliche Zusammenhang zwischen den Zeichen
+ist aber allen Japanern bewußt, und sogar in Japan erfundene Zeichen wie
+働 bekommen eine pseudo-chinesische On-Lesung, in diesem Fall abgeleitet
+von 動 (dou).
+Mit Koreanisch kenne ich mich nicht aus, ich nehme aber an, daß es
+ähnlich gelaufen ist.
+
+
+So funktioniert das im Chinesischen, wobei die ziemlich einfache Syntax
+des Chinesischen die Sache noch erheblich erleichtert.
+Dabei braucht der Chinese nicht einmal besonders gebildet sein, sondern
+das Standardchinesische *ist* die Sprache, die er zu schreiben gelernt
+hat. Analog dazu spricht der Franzose aus Deinem Beispiel Französisch,
+mit teilweise eigenen Voabeln, schreibt aber Italienisch.
+
+Das mag sich jetzt seltsam anhören, aber eine große Divergenz zwischen
+Schriftsprache und gesprochener Sprache sind die Chinesen seit langem
+gewöhnt. Bis Anfang des 20. Jahrhunderts wurde gar noch klassisches
+Chinesisch geschrieben. Das unterscheidet sich von *allen* Dialekten
+wesentlich stärker als Allerheiligenberg von anderen.
+
+Genau. Daneben haben sie aber noch viele Jahrhunderte auch Chinesisch
+geschrieben, wie eben bei uns Latein.
+-- 
+Schönen Gruß aus der "lebenswertesten Stadt der Welt"!
+http://sdi.aan.gui/gznugsgr/2081/59/25/nojr/hgwu6gpmcnt.zbn
+
+Rupert

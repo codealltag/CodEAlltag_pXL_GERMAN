@@ -1,0 +1,16 @@
+Im Büro stellt sich das Problem nicht, da schreiben
+wir Englisch ...
+
+Das dämliche Komma setzt mein *heimatliches* Word ein.
+
+
+Ok, ich gebe zu - der Aufwand, die richtige Stelle
+(normal.dot?) zu finden, um das Problem an der Wurzel
+zu beseitigen, war mir immer zu groß.
+
+Ich bin froh, dass ich mittlerweile wenigstens alle
+Stellen kenne, an denen man "Großbuchstaben nach Punkt,
+am Anfang einer Zeile oder am Anfang einer Tabellenzelle"
+und "ganzes Wort markieren" abschalten kann ...
+
+/John

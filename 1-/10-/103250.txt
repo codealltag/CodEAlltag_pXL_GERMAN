@@ -1,0 +1,56 @@
+Ich auch, wie aus meinem Beitrag hervorgeht, aber das Wort "Satzergänzung" 
+ist mir dabei nicht klar. Also, wir haben einen Hauptsatz ohne Nebensatz:
+
+  Gestern abend bin ich schon um neun ins Bett gegangen.
+
+oder
+
+  In der Diskussion habe ich meinem Chef Kontra gegeben.
+
+Jetzt bringe ich erst einmal meine Definition.
+
+Ich würde sagen: das Prädikat ist "bin | ins Bett gegangen" oder "habe |
+Kontra gegeben", wobei der "|" das finite Verb vom Rest des Prädikats trennt,
+um anzudeuten, dass das finite Verb woanders steht als der Rest des Prädikats.
+
+Alles, was in diesem Sinn nicht Prädikat ist, ist Subjekt ("ich"), Objekt
+("meinem Chef"), Adverbial ("gestern abend", "um neun") oder Abt�npartikel
+("schon"), wobei man darüber streiten kann, ob letzteres auch eine Art
+Adverbial ist.
+
+Ob im Einzelfall etwas, das die äußere Form eines Adverbials ("gestern abend",
+"um neun", "ins Bett") oder eines Objekts ("meinem Chef", "Kontra") hat, in
+diesem Sinne Bestandteil des Prädikats ist, kommt ganz auf den jeweiligen
+Einzelfall an und wird manchmal auch strittig sein -- das ist die
+Unterscheidung, die du gemacht und verteidigt hast und die ich jetzt nicht in
+Frage stellen will.
+
+Ein Prädikat in diesem Sinn kann wiederum gegliedert sein. Bestandteile sind
+etwa finite Verben, infinite Verbformen, Adjektive (dann heißt das finite Verb
+"Kopula") und anderes.
+
+Frage 1: Ist vielleicht das lateinische Wort "Prädikat" anders definiert und
+enthält gar nicht alles, was ich jetzt vereinnahmt habe?
+
+Frage 2: Wenn das deutsche Wort "Satzgegenstand" das Subjekt bezeichnet und
+das deutsche Wort "Satzaussage" das Prädikat nach irgendeiner Definition, was 
+bedeutet dann das deutsche Wort "Satzergänzung"? Mögliche Antworten:
+
+a) den Teil des Prädikats im obigen Sinne, der nicht das Hauptverb oder eines
+   seiner Hilfverben�) ist ("ins Bett", "Kontra")
+
+b) die Satzbestandteile außer dem Subjekt), die nicht zum Prädikat im obigen
+   Sinne gehören, also Objekte und Adverbiale.
+
+�) Könnte ich bei Bedarf definieren, lenkt jetzt aber eher ab.
+
+�) Warum eigentlich? Nennt das Subjekt doch einfach Nominativobjekt, und alles
+   wird einfacher!
+
+Roland Jany (der Vorposter) und ich hätten (b) verstanden, aber du meinst
+wohl (a). Aus dem OP scheint auch eher (b) hervorzugehen.
+
+Kann Bernadette als Grundschullehrerin v.D. da Erhellung bringen?
+
+-- 
+Uwe Niedringhausen

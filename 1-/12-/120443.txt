@@ -1,0 +1,12 @@
+Es schmeckt so gut wie es gemacht wird. Es ist nicht ein
+bestimmtes Kochrezept. Man kocht nur rote Beeren mit Zucker,
+Vanille u.s.w.: Erdbeeren, Johannisbeeren, schwarze
+Johannisbeeren, Himbeeren, Brombeeren oder eine Kombination.
+
+rd = rot
+grd = Brei
+flde = Zahne
+
+-- 
+Bernhard
+http://sjsptg.vzauipuopc.xu/			Autoflott: http://oexpns.jp/

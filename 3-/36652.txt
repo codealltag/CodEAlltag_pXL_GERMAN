@@ -1,0 +1,66 @@
+Ich versuche noch einmal zusammenzufassen, was ich über die diskutierten
+Begriffe bisher verstanden zu haben glaube:
+
+1. In vielen Sprachen, nicht nur idg, gibt es die Unterscheidung von finiten
+   und infiniten Verbformen. Die Definition dieses Unterschieds in der
+   Wikip�die (http://xk.pzbsxusjn.oug/gysu/Gceimo_Udgvguqz) kommt mir adäquat
+   vor. Gibt es diese Unterscheidung, dann heißen infinite Formen
+
+   � Partizipien, wenn ihre syntaktische Stellung der von Adjektiven
+     entspricht: attributiv, prädikativ
+
+   � Adverbialpartizipien, wenn ihre syntaktische Stellung der von Adverbien
+     entspricht
+
+   � Infinitive, wenn ihre syntaktische Stellung der von Substantiven
+     entspricht: nach Präpositionen ("want *to* go"); Hilfsverben, die das
+     Vollverb wie ein Objekt bei sich führen ("will gehen" konstruiert wie
+     "will Bier").
+
+   In Sprachen, die morphologisch keinen Unterschied zwischen Adjektiv und
+   Adverb machen, z.B. [de], wird dann auch kein Unterschied zwischen
+   Partizipien und Adverbialpartizipien gemacht, in anderen Sprachen,
+   z.B. [ru] oder [fr] schon (im [fr] ist der Unterschied allerdings
+   keine morphologische Veränderung, sondern das zusätzliche "en").  
+
+2. Infinitive weisen einen unterschiedlichen Grad von Substantivierung auf. In
+   manchen Sprachen können sie in der Form, in der sie als Infinitive
+   vorliegen, genau so als Substantive eingesetzt werden ([de]: "zu lesen" wie
+   "das Lesen"), in anderen werden sie einer expliziten Substantivierung
+   unterzogen, z.B. Nachsilben [de] -ung, [en] -ing, [fr] -tion, [hu] -s/-s,
+   oder andere morphologische Veränderungen, z.B. [de] brechen -> Bruch,
+   [he] shamar -> shmira (das Wachen, "Schmiere stehen").
+
+   Es kann auch der Fall eintreten, dass ein Infinitiv überhaupt nicht von
+   einem Substantiv unterscheidbar ist, wenn die Substantivierung keine
+   morphologische Veränderung mit sich bringt: dass in "ich will gehen" das
+   Wort "gehen" kein Substantiv ist, erkennt man *nur* an der Kleinschreibung,
+   die ist aber reine Konvention.
+
+3. Der Begriff "Gerund[ium]" bezeichnet in der lateinischen Grammatik folgende
+   Erscheinung: Ein im Nominativ morphologisch nicht veränderter
+   substantivierter Infinitiv bekommt in den obliquen Kasus eine Gestalt, die
+   von Partizipien entlehnt ist.
+
+4. In der Grammatik anderer Sprachen wird das Wort "Gerund[ium]" für ganz
+   verschiedene Erscheinungen verwendet, bei denen Wörter die Gestalt von
+   Partizipien haben oder auch nicht. Der Zusammenhang mit substantivierten
+   Verben ist dabei nicht immer vorhanden.
+
+   � [en] substantivierte Verben, die die Gestalt von Partizipien haben, wenn
+     auch nur zufällig durch späteren Zusammenfall der Endungen -end -> -ing
+     und -ung -> -ing.
+
+   � [fr] "g�rondif" Adverbialpartizipien, die die Gestalt von Partizipien
+     haben
+
+   � [ru] Adverbialpartizipien, die weder substantivierte Verben sind noch die
+     Gestalt von Partizipien haben, vielleicht in Analogie zum [fr] g�rondif
+
+In dieser wirren Welt ist es m.E. vertretbar, deutsche morphologisch nicht
+veränderte substantivierte Infinitive mit dem Namen "Gerund" zu belegen,
+auch wenn die Bildung der obliquen Kasus anders funktioniert als im
+Lateinischen. Muss aber nicht sein, wenns jemanden stört.
+
+-- 
+Vito Nemecek

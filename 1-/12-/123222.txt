@@ -1,0 +1,6 @@
+Müßte man mal eruieren, ob x86-Bits je nach Fabrikatör links- oder
+rechtsdrehend sind.  Könnte Entscheidung erleichtern, wo im Falle
+multiplen Absturzes ein Rechnergehäuse optimal zu unterfüttern ist.
+
+
+jean

@@ -1,0 +1,17 @@
+Da Korrelationen und Antikorrelationen auf statistischen Beobachtungen 
+beruhen, ist das Wort "häufig" oder "selten" hier eher fehl am Platz, 
+man geht da prinzipell von sehr großen oder unendlichen Gesamtheiten aus.
+
+Gemeint ist dann vermutlich: "treten häufig gemeinsam auf, was den 
+Korrelationskoeffizienten positiv beeinflusst". Das ist ein Ausdruck in 
+der Statistik dafür, dass in einer kausal beschreibenden Theorie 
+möglicherweise die Merkmale nicht unabhängig voneinander auftreten, 
+sondern zum Teil Ausprägungen einer gemeinsamen Ursache sind.
+
+Im täglichen Zeitungsdeutsch allerdings meint man wohl, die Bedeutung 
+des Wortes Korrelation verbraucherfreundlich erweitern zu sollen, etwa 
+in dem Sinn, dass Autisten autokorrelieren.
+
+-- 
+
+Rudolf Elbinger

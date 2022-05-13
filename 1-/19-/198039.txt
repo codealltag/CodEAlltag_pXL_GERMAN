@@ -1,0 +1,4 @@
+Die PIN-Nummer fürs E-Banking meiner AMZ darf sogar Buchstaben 
+enthalten.
+
+Siebelt

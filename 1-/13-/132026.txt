@@ -1,0 +1,6 @@
+CP/M 1.4 gabs eindeutig auf 8" (hab ich noch irgendwo rumliegen),
+aber die Göthling-Kompatiblen arbeiteten mit 5.25". 
+8"-Laufwerke hätten in die schon sehr früh standardisierten 
+Desktop-Gehäuse m.E. gar nicht reingepasst.
+
+/Winfried

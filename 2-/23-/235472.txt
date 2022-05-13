@@ -1,0 +1,9 @@
+Wann das denn nicht? Wenn \vec a nicht reicht, gibt es doch \vec a_a,
+\vec a_A und \vec A_a.
+
+
+In diesem Fall der mitzählende Student. Allerdings werden Gleichungen
+der Art A=A_A^A leicht rekursiv.
+
+-- 
+Space - The final frontier

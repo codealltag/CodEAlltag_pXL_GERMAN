@@ -1,0 +1,11 @@
+Für Word XP:
+Tieferzustellendes Zeichen schreiben, mit gehaltener
+Umschalttaste und Pfeiltaste markieren (mit Umschalt+Strg+
+Pfeiltaste rechts-links markiert man wortweise), mit
+Strg+Rautentaste tieferstellen, fertig.
+Das geht schnell.
+
+Wenn Du eine andere Version benutzt: die Hilfe erreicht man
+mit F1, dort suchst Du nach "Eingabehilfen" (glaube ich).
+
+ivo

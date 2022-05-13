@@ -1,0 +1,9 @@
+Und wieso "neuerdings"?
+
+In Analogie zum Optionseinleiter bei Unix (z.B. "EllEss minus Ell"
+für "ls -l") habe ich auch den Strich in URLs als Minus buchstabiert.
+Weil "Bindestrich" zu lang, und "Strich" mehrdeutig ist.
+
+/Mike
+PS
+Und "EllEss minus Ell" sage ich seit ca 1981. Old habits ...

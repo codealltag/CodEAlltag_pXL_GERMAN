@@ -1,0 +1,18 @@
+* Siegfried Uch:
+
+[Anführungszeichen, im folgenden: AZ]
+
+
+Hängt vom Font ab, liegt also an Dir. Deine typographischen AZ
+waren mir nicht aufgefallen, weil sie sich auf den ersten Blick
+nicht groß von "" unterscheiden.
+
+
+Alle anderen Zeichen sind mittig, das läßt sich nicht unbedingt
+übertragen. Japanische AZ:
+
+「　」　
+『　』
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

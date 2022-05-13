@@ -1,0 +1,16 @@
+* Eilt Feuerschlager:
+
+
+Bei uns steht dann im Betreff "ACTION REQUIRED". Zum Glück wird
+das Geschrei eher selten eingesetzt.
+
+"For your action" kommt mir aber sprachlich merkwürdig vor. For
+Your Attention/Approval/Assistance/Affairs/Authorization/
+Acknowledgement/Awareness finde ich noch als Vorschläge, sind
+MUSEN alle besser als "action" an der Stelle.
+
+-- 
+Java is the SUV of programming tools.
+A project done in InaB will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Maik Maskort

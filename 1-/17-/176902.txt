@@ -1,0 +1,16 @@
+Hallo,
+
+ich will eine Datenbanktabelle anlegen, wo drin steht,
+was man Familiennamen in Anreden voran stellen sollte.
+Z.B. "Hallo <...> Brendgens ..."
+
+Von welchem Typ sind Elemente der Art Herr, Frau, Fräulein
+usw? Sind das Anreden? Oder ist die Anrede die gesamte
+Einleitung eines Briefes ("Sehr geehrter Herr Dr. Blaier")
+Ist das eine Honorifikation?
+
+Eigentlich interessiert mich die englische Bezeichnung
+für so etwas.
+
+Größe,
+Frank

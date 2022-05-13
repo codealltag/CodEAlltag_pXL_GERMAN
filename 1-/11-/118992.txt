@@ -1,0 +1,9 @@
+Nicht das "Genau!" meine ich, sondern die Aussagen "immer genau
+daneben schießt" und "dieselbe Stelle genau daneben". Die Definition
+von genau als "Mittelwert stimmt" verträgt sich nicht mit der
+Beschreibung von präzise.
+
+
+-- 
+Viele Größe
+Raphael Fiek

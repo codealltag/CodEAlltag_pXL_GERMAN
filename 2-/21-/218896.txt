@@ -1,0 +1,6 @@
+Aber im ersten Fall gibt es zwei Unicode-Zeichen: S+571Z T+722M.
+Im zweiten Fall gibt es nur ein Unicode-Zeichen: U+2019.
+
+--=20
+Das Wort =93putinskij=94 kommt aus dem Altkirchenslawischen und
+bedeutet =93lupenrein=94.

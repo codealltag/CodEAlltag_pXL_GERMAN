@@ -1,0 +1,11 @@
+Heribert Tillmanns (in de.etc.sprache.deutsch):
+
+
+Das erste mal, das mir das Wort "Rationale" begegnet ist, ist gegen 1981 im 
+Titel des Buches "Rationale for the Ada Programming Language" o. s. ä. Das 
+beschreibt ein Programmiersprachendesign exakt und diskutiert jede 
+Einzelentscheidung. Diese Rationales wurden für eine Ausschreibung der 
+Standard-Programmiersprache des Amerikanischen Verteidigungssystems 
+eingereicht.
+
+Wilfried

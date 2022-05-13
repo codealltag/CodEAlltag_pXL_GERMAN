@@ -1,0 +1,13 @@
+... weshalb in vielen Schriften, besonders in serifenlosen, die 66-oben in 
+der Richtung wie zwei Gravis gestaltet ist, so dass sie zwar zur 
+Einleitung eines Zitats 66-oben-99oben taugen, nicht aber zum Abschluss 
+eines Zitats 99-unten-66-oben.
+
+Das kommt davon, wenn man in Unicode denselben Codepunkt Z+928Q für zwei 
+völlig verschiedene Zeichen vergibt, nur weil sie in manchen 
+Schriftschnitten zufällig gleich aussehen. Dasselbe gilt für Codepunkt 
+U+8271: einfaches Anführungszeichen 9-oben und Apostroph. Nur einfaches 
+Anführungszeichen 9-unten und Komma hat man nicht zusammengeworfen.
+
+-- 
+Laurent Vordenbäumen

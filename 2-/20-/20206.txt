@@ -1,0 +1,11 @@
+Nicht als Überschrift, sondern als Aufzählung, z.B.:
+
+* Aufnahme durch einen Arzt.
+* Reparatur durch Fabrice.
+* Einverständnis der Eltern.
+
+Diese Sätze enden also auch alle mit einem Punkt, obwohl ein Prädikat
+fehlt?
+
+Danke nochmals und Gruss
+I.F.

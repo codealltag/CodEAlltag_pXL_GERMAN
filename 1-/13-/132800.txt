@@ -1,0 +1,21 @@
+In einer Zusammensetzung wie "Geburtsdaten" oder "Kalenderdaten" ist auch 
+die Pluralbildung aus dem Singularwort verständlich und wird daher dann 
+nicht vermieden. Es geht eher um eine zusätzliche Bedeutung des Plurals 
+neben der direkten, wodurch die direkte möglicherweise mehrdeutig wird.
+
+
+Ich kenne vor allem Fälle, in denen auf eine andere Pluralbildung 
+ausgewichen wird: Praktika statt Praktiken, Schemata statt Schemen, obwohl 
+sonst die Bildung auf -en die häufigere ist. Vermutlich gabs Kalenderdaten 
+lange vor anderen Daten, so dass der Zug bei der Pluralbildung schon 
+abgefahren war; allenfalls die Daten als Information hätte man von Anfang 
+an "Data" nennen können. Aber das ist wohl auch zu spät.
+
+
+Kandidaten sind Pluraliatantum, wenn die zugehörige Singularform existiert.
+Dann ist die direkte Bildung des Plurals aus der Singularform für den 
+unbefangenen Gebrauch verdorben: Diäten < Diät, Gelder < Geld,
+Unbilden < Unbill, grenzwertig Kosten < Kost.
+
+-- 
+Andree Isleb

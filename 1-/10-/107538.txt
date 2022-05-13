@@ -1,0 +1,25 @@
+* Eilt Potinius:
+
+
+Eine andere wilde Spekulation wäre, daß "Mutter" zu stark emotional
+belegt ist, so daß man es nicht gerne in abstrakten Zusammenhängen
+einsetzt. Das wäre anhand anderer Zusammensetzungen mit "Mutter" zu
+prüfen. Ob die Schraubenmutter dagegen spricht, ist mir noch nicht klar,
+das ist nicht ganz derselbe Fall.
+
+Bei "Bruderknoten" und "Schwesterknoten" gibt es keinen Unterschied im
+Rhythmus, aber "Bruderknoten" klingt mir absonderlich. 
+
+Geschwisterknoten 2470
+Bruderknoten       359
+Schwesterknoten   1140
+
+sibling node     91200
+sister node       5390
+brother node      7900
+
+-- 
+GOGELN,  vb., flattern, sich (schwankend) hin und her bewegen, gaukelei
+treiben, gesticulari. zur herkunft vgl. gogel, adj., und gaukeln, vb.;
+in fast allen mundarten verbreitet, literarisch bis ins 17. jh. bezeugt;
+s. auch gugeln und gageln.                 GRIMM, Deutsches Wörterbuch

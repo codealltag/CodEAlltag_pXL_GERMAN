@@ -1,0 +1,13 @@
+On Fri, 29. 08. 22 19:12:37 +0200, Pierre Neufeldt
+
+Wieso? Sehr viele Kandidaten kommen bis zur viertletzten Frage. Selbst
+wenn sie dann keinen Joker mehr haben (und einige haben noch mehrere),
+dann hast du eine Wahrscheinlichkeit von 1:255. Wenn du nur eine
+Antwortmöglichkeit ausschließen kannst, steigt die auf 1:191 - und so
+weiter. Bei ein paar hundert Kandidaten jährlich gäbe es da sicher
+Dutzende von Millionengewinnen.
+
+
+-- 
+Viele Größe
+Philipp Nordgauer

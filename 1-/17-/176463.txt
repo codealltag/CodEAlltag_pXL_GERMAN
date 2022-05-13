@@ -1,0 +1,16 @@
+Einige seiner Einschränkungen: 
+- Sender und Empfänger verstehen den gleichen Zeichensatz
+- sie verstehen ihn zu 100%
+- er macht keine Aussagen zur Semantik
+- Kombination von Zeichen wird nicht betrachtet
+
+Das sind Erweiterungen??????????????????????????????????
+
+
+Wo? 
+
+
+Jean-Claude
+-- 
+Einfach katsastrophal,
+das Spitzenpersonal.

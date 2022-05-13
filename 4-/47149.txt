@@ -1,0 +1,9 @@
+* David Gensthaler <nyxcfxid@ddehkb.cl.nf>:
+
+
+Wenn die Methode des Escapens bekannt ist, kann man "liessen sich durch
+einen Backslash schützen" schreiben. Für Backslash gibt es SIW kein
+gebräuchliches deutsches Wort; "Umgekehrter|linksseitiger|rückwärtiger
+Schrägstrich" sind einfach zu umständlich.
+
+ - Massimo

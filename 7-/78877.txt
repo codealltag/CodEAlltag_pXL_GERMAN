@@ -1,0 +1,9 @@
+Diese Unterscheidung ist natürlich im Deutschen ebenso wichtig, nur dass 
+nicht das Partizip, sondern das Reflexivpronomen den Unterschied 
+widerspiegelt:
+
+  Ich habe mich gewaschen.
+  Ich habe mir die Hände gewaschen.
+
+-- 
+Andreas Gnott

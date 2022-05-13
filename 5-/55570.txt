@@ -1,0 +1,13 @@
+Etwas merkwürdig ist nur der Singular "beet", da könnte "beetroot"
+besser sein. Das läßt sich sogar bestätigen (Treffer bei PEO:)
+
+                 sg.("a X")  pl.      pl:sg
+  beet            493      13100       26
+  beetroot        116       1550       13
+
+Weiter ist "beetroot soup" üblicher als "beets soup".
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Vorwerk about a month ago.

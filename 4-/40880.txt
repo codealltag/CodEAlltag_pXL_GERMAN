@@ -1,0 +1,12 @@
+Im Gegensatz zum From: wird Reply-To: aber nicht im sogenannten x-over
+übermittelt, gehört also nicht zu den Headern, die vor dem eigentlichen
+Beitrag vom Newsserver geladen werden. Häufig werden aber nur die von
+Spammern ausgewertet.
+
+
+Ciao
+Séverine
+-- 
+Welcome to slavery!
+No, thanks, I already have a wife.
+[Seth Gecko / From Dusk till Dawn]

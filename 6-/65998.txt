@@ -1,0 +1,9 @@
+Und bei mir wird die Straße weder noch - da wird nur auf der Straße Salz
+gestreut. Allenfalls, wenn's klar ist: "die Straße wird gestreut". 
+
+Auch Blitz-Kiosk findet für "Straße wird gesalzen/gesalzt" keinen einzigen
+Treffer. Aha, für "Straßen werden gesalzen" immerhin 5, gesalzt auch so
+keinen. Gestreut: im Singular 7, Plural 183.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

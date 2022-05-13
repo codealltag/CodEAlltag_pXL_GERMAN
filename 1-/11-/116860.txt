@@ -1,0 +1,13 @@
+Das Umgekehrte, eine ganz unechte FAQ, habe ich auch mal gemacht: zu einem 
+Stück Software mir überlegt, was die Leute darüber wissen wollen könnten, 
+die entsprechenden Fragen formuliert und beantwortet. Das ist bei gleichem 
+Informationsgehalt *wesentlich* schneller geschrieben als eine regelrechte 
+Anleitung oder ein Handbuch, weil man viel weniger über die Gliederung 
+nachdenken muss und sich alles schenken kann, was nur der Vollständigkeit 
+halber drinstehen muss, aber nicht oder höchstens sehr selten gebraucht 
+wird. Auch kann man viel leichter die Abstraktionsebene wechseln (eine 
+Frage "wozu ist das Ding überhaupt gut?", eine andere "was muss ich tun, 
+um genau die Wirkung ... zu erzielen?").
+
+-- 
+Achim Lubbe

@@ -1,0 +1,5 @@
+Dann geh halt da hin und heb es auf, statt hier rumzumosern!
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Norman Vorbrodt, comp.lang.python

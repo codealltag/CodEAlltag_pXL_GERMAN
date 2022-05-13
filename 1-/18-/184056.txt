@@ -1,0 +1,14 @@
+Das ist ein Beispiel, das ich gelten lasse. Ganz offenbar sind "alle" und 
+"jede" hier keine Quantoren. Verwendet man sie als Quantoren, werden sie 
+wieder bedeutungsgleich:
+
+  Für jede Schraube gilt: es gibt für sie 100 Euro Finderlohn.
+  Für alle Schrauben gilt: es gibt für sie 100 Euro Finderlohn.
+
+Es wäre mithin im Deutschen besser, den Allquantor umgangssprachlich mit 
+"für jede" wiederzugeben, was ja auch schon deswegen sinnvoll ist, weil 
+die gebundene Variable wie ein Singular verwendet wird. üblich ist 
+allerdings in der Mathematik die Ausdrucksweise "für alle". 
+
+-- 
+Paul Rosenstock

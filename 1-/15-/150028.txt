@@ -1,0 +1,7 @@
+Da der Schlitten die Pistole (hoffentlich) nicht verläßt, wird er
+irgendwann von der Pistole abgebremst. Dabei geht Impuls vom Schlitten
+auf die Pistole (und damit irgendwann aufs Handgelenk) über. Allerdings
+eben etwas später als der Impuls der Explosion der Treibladung.
+
+-- 
+Space - The final frontier

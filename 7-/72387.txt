@@ -1,0 +1,8 @@
+Da kommts MBMN auf die Betonung an.
+
+Ein Einwohner von 'Neun,kirchen heißt 'Neun,kir,cher,
+
+ein Einwohner von ,Neun'kirchen heißt ,Neun'kir,che,ner.
+
+
+Ivan

@@ -1,0 +1,19 @@
+* Domenico Rahnschläger:
+
+
+Hab jetzt mal nachgeschaut, die war ja schlauer, als ich dachte.
+
+Aber Kamikaze finde ich erst dann angemessen, wenn die KI so
+ausgebaut ist, daß die Drohne möglicherweise ein Selbstbewußtsein
+entwickelt. Dann besteht aber auch das Risiko, daß sie sich
+entscheidet, den Auftrag nicht zu erfüllen. Ob Ehrgefühl oder
+Nationalismus leichter zu programmieren sind als Selbstbewußtsein?
+
+Es gibt etliche SF-Geschichten, in denen Menschen eine Bombe davon
+zu überzeugen versuchen, daß sie nicht explodieren sollte.
+
+-- 
+Java is the SUV of programming tools.
+A project done in ARO will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Gerold Maehle

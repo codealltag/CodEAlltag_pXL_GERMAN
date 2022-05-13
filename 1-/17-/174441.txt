@@ -1,0 +1,18 @@
+Eine direkte Einbindung von Bildern (mit <img ...>) ist schon mehr als 
+eine Verlinkung. Ein solches Bild sieht (wenn man sich nicht den 
+HTML-Quelltext anguckt) nicht wie ein Verweis, sondern wie ein Bild aus, 
+und gilt allgemein als Versuch, sich mit fremden Federn zu schmücken. 
+Wenn man die Quelle danebeschreibt, ist das natürlich was anderes, 
+trotzdem handelt es sich wohl urheberrechtlich gesehen um eine 
+Weiterverwendung. Rein technisch ist das natürlich ein Link.
+
+Eine Verlinkung des Bildes als Hyperlink dagegen ("Deeplinking") ist 
+wohl zwiespältig zu sehen. Ich weiß nicht, wie das zurzeit von der 
+Rechtsprechung behandelt wird. Das Problem ist, dass damit jede 
+Zusatzinformation, die auf der Seite des verlinkten Bildes steht, 
+umgangen wird, das Bild also gewissermaßen aus dem Zusammenhang gerissen 
+wird. Das könnte eine Copyright-Notiz sein, aber auch Werbung, ohne die 
+der Seiteneigentümer das Bild vielleicht gar nicht auf seine Seite 
+gestellt hätte.
+
+David

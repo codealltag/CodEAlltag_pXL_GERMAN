@@ -1,0 +1,13 @@
+Es gibt verschiedene Gegenteile, zum Beispiel ist (A2) die Negation von
+(A1), Dein Vorschlag das polare Gegenteil.
+
+Hier eine These mit drei Antithesen:
+
+(T)  Ich liebe Katzen!
+(A1) Ich hasse Katzen!
+(A2) Ich liebe Katzen zwar nicht gerade, aber ich habe kein sonderliches
+Problem mit ihnen.
+(A3) Ich liebe Hunde!
+
+-- 
+Fabrice A.

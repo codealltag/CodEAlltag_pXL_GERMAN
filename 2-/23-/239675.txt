@@ -1,0 +1,32 @@
+* Cédric Lakebrink <zs.tzlltx.wzjwug@vgfxhvgrlz.al>:
+
+
+Das stimmt nicht.
+
+Ein aktueller typischer Pkw-Dieselmotor hat einen Wirkungsgrad von etwa
+30%, ein aufgeladener von Rekordwerte bis zu 50%, *wenn er im
+günstigsten Bereich betrieben wird*. Im Auto wird er aber sehr selten
+in diesem Bereich betrieben, sondern fast immer im niedrigen
+Teillastbereich, wo der Wirkungsgrad ohne weiteres auf die Hälfte
+sinkt. Benzinmotoren haben noch schlechtere Wirkungsgrade.
+
+Dagegen hat ein aktuelles Gas-und-Dampf-Kraftwerk (GuD, Abgase der
+Gasturbine erhitzen Dampf für eine Dampfturbine) einen Wirkungsgrad von
+über 50% und erreicht diesen im Betrieb auch, weil man diese Turbinen
+im optimalen Bereich laufenlassen kann. Die ganze Kette vom Erdgas bis
+zur Leistungsabgabe am E-Motor sieht etwa so aus:
+
+  GuD-Kraftwerk                           50%
+  Generator- und Übertragungsverluste     80%
+  Akku                                    60%
+  Elektromotor                            95%
+  Zusätzliches Akkugewicht beim E-Mobil   90%
+
+  Total                                  ~20%
+
+Eventuell hat also ein guter Turbodiesel mit Ladeluftkühlung bei
+Autobahnfahrt tatsächlich einen besseren Wirkungsgrad. Aber nicht einen
+viel besseren und schon gar nicht einen um Grössenordnungen besseren.
+Im Stadtverkehr wird ein Elektroauto nicht zu schlagen sein.
+
+ - Benedikt

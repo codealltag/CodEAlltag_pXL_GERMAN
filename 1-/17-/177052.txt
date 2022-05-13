@@ -1,0 +1,5 @@
+Vielleicht entält GB2312 kein ä. Dann wirds für einen Text mit ä nicht 
+verwendet.
+
+-- 
+Rudi Dänzer

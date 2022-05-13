@@ -1,0 +1,6 @@
+Cyan, Magenta und Yellow sind zum Übereinanderdrucken gedacht. Cyan und
+Yellow ergeben Grün, weil aus dem Cyan der Blauanteil herausgefiltert
+wird. Magenta und Yellow ergeben Rot, weil in dem Licht, das von
+einem magentafarbenen Punkt reflektiert wird dann der Blauanteil fehlt.
+Cyan und Magenta ergeben ein dunkles Blau. Deshalb ist Yellow auch nicht
+einfach Gelb, sondern ein sehr helles Gelb.

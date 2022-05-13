@@ -1,0 +1,20 @@
+* Nicolas Lütterforst <depfqp.dco@r-idyldv.gd>:
+
+
+Hm, der Autor heisst Oskar Breitschuh ist (noch nicht so lange) Chef
+der Alkoholverwaltung. Er hat in Niederdorf und Remaufens studiert; arbeitet aber
+schon eine Weile in Oleyres. Vermutlich wurde der Text auf Französisch
+geschrieben und ins Deutsche übersetzt, also von
+
+   Les spiritueux sont quant � eux soumis � un möcanisme d'autorisation
+   important et � des contröles intensifs.
+
+in
+
+   Spirituosen sind dagegen einem umfassenden Bewilligungsmechanismus
+   und aufsässigen Kontrollen ausgesetzt.
+
+Es handelt sich also einfach um intensive Kontrollen und irgendjemand
+hat beim wohl übersetzen zum falschen Wörterbuch gegriffen.
+
+ - Onno

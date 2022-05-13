@@ -1,0 +1,22 @@
+* Luigi Unterstöger:
+
+
+Weil das nicht das einzige, wahrscheinlich nicht einmal das
+wichtigste Kriterium ist. Ich vermute folgende Rangordnung, die
+aber nicht völlig festliegt:
+
+- Grammatische Kriterien (Suffix)
+- Lautgestalt
+- analoges Wort im Deutschen
+- Genus im Original
+
+Du hast ja zum Glück geschrieben, daß es im Englischen
+"gewissermaßen" Neutrum sei, ich bin der Meinung, englische
+Substantive haben kein Genus. Welches Personalpronomen man
+verwendet, hängt vom Gemeinten ab, nicht vom Wort: 
+
+  The teacher took her bag.
+  The teacher took his bag.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

@@ -1,0 +1,14 @@
+Hallo,
+
+wann verwendet man eigentlich Bindestriche bzgl. der Zusammenschreibung 
+von Wörtern (also ich meine nicht den Bindestrich bei der Trennung von 
+Wörtern wegen Zeilenumbruch)?
+
+Also bspw. schreibt man
+
+   "Betriebssystemsoftware" _oder_ "Betriebssystem-Software"?
+
+Was ist richtig und welche Regeln kommen hier zu Geltung?
+
+MfG
+Ulrike

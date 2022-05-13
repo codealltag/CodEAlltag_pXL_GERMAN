@@ -1,0 +1,17 @@
+* Nicolas Zweijpfennig:
+
+
+Conradi?
+
+
+Ich weiß nicht, ob das wirklich so verwendet wird, aber ich habe ein
+einfacheres Beispiel (weil eindimensional): eine Quarzuhr, die mit hoher
+Zuverlässigkeit täglich 0,3 Sekunden vorgeht. Wenn ich sie also
+regelmäßig am 1. des Monats genau einstellte, dann kann ich die Zeit
+unter Berücksichtigung des Datums stets auf die Sekunde genau ablesen
+(die monatliche Abweichung vom korrigierten Wert ist klar unter 1
+Sekunde). Ohne Datumskorrektur ist sie also präzise, aber nicht genau?
+
+-- 
+gugelfranz,  m., spöttische bezeichnung eines mönchs
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,11 @@
+Betriebssysteme, auf den man üblicherweise Shellscripts schreibt, sind
+meistens recht tolerant, was die erlaubten Zeichen in Filenamen angeht.
+Da sind nur "/" und "\0" nicht erlaubt. Der geübte Shellscriptschreiber
+geht davon aus, dass auch alle anderen Zeichen tatsächlich vorkommen,
+insbesondere Leerzeichen, Newlines, Anführungszeichen und anderes, was
+dem weniger geübten Shellscriptschreiber Ungemach bereiten könnte.
+
+
+Damit hat er sich sicher sehr beliebt gemacht.
+
+	hp

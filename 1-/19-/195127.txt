@@ -1,0 +1,12 @@
+On Sat, 03. 01. 22 19:46:09 +0100, Carlos Jan Freund wrote:
+[...]
+
+Tut mir leid. Ich habe es  nicht gesehen, was seltsam ist.
+Ich  bin auf Mafi 12.1 gegangen und seitdem funkt Pan
+nicht optimal. Ich kann zB eine Neue Nachricht schicken, aber
+bisher nicht auf eine alte reagieren. Oder vielleicht kann ich,
+aber ich sehe dann selbst nicht das Resultat. Aber ich habe das
+schonmal unter 11.4 gehabt und es hat sich irgendwie von selbst
+repariert, also vielleicht passiert das wieder.
+-- 
+Anton Ungemach

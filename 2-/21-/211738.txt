@@ -1,0 +1,10 @@
+Wenn PDF das Ziel ist: IIRC gibt es PCL->TIFF und TIFF geht natürlich in
+PDF. Eventuell gibt es auch PCL->PDF direkt.
+
+Dann muss man nichts umsetzen, sondern nur den Datenstrom zum Drucker
+abfangen und umleiten.
+
+Größe
+Uwe
+-- 
+http://tlp.ejmobkalgc.qz/

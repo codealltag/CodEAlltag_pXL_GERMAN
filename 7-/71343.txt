@@ -1,0 +1,15 @@
+Der Mathematiker mag das vielleicht nicht zu 2 7/9 vereinfachen, der
+Schüler tut das durchaus.
+
+
+Man muss das nicht unbedingt in Dezimalstellen darstellen, und selbst
+wenn ...
+
+
+... so ist 
+  _
+2.7
+
+auch nicht ungenauer.
+
+	hp

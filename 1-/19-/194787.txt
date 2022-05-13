@@ -1,0 +1,16 @@
+Auf der anderen Seite "lock" muß auch nicht "Schloß" bedeuten.
+
+
+Glaube ich nicht. Aus eigener Erfahrung würde ich sagen, dass solche 
+Programme mehr Arbeit als Hilfe sind. Das was Übersetzer benutzen ist CAT 
+(computer aided translation). In diesem Falle hat man im Hintergrund eine 
+Phrasendatenbank die interaktiv mögliche Varianten der Übersetzung anbieten. 
+Es ist eine tatsächliche Hilfe und bei großen (technischen) Projekten die 
+von mehreren Übersetzern bearbeitet werden zwingend notwendig, damit das 
+Vokabular konsistent in allen Dokumenten ist. Als Beispielprogramm kann z.B. 
+Trados angegeben werden.
+
+Rüdiger
+
+-- 
+My jsme Borgo. Sklopte tty a vzdejte se. Odpor je marn

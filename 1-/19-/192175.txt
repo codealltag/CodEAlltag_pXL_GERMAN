@@ -1,0 +1,16 @@
+Dann vergleichst du nochmal mit gedrucktem Material. Die pdf-Skripten im 
+Netz werden gern familiär formuliert, oft von Leuten, die erstmals 
+lehrend tätig werden. Oft, aber nicht immer, verbessert sich Stil dann 
+in den nächsten vierzig Jahren erheblich.
+
+Ein guter Mathematiker muss natürlich auf die Schwammigkeit der Sprache 
+bei natursprachlich formulierten Definitionen, Sätzen und Lemmen 
+eingehen. Das generische "ein" exemplifizert man am besten an der 
+unwiderlegbaren Logik von:
+
+Der Mensch wanderte im Holozän nach Europa ein. Björn war ein Mensch. 
+Björn wanderte im Holozän nach Europa ein.
+
+-- 
+
+Dietrich Weckemann

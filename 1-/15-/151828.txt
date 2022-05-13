@@ -1,0 +1,54 @@
+So ist es auf jeden Fall mal richtig. Ob man etwas anderes auch vertreten 
+kann, darüber sollen sich andere streiten.
+
+
+Nein, die Bemerkung war inhaltlich Unfug und sollte eine ironische
+Kommentierung der neuen Rechtschreibung sein. In dieser kann man ein paar
+Kommas weglassen, die in der alten gesetzt werden mussten, aber bei jedem
+konkreten Beispiel ("Er ging[,] und sie kam.") wird einem versichert, das
+Komma sei schon immer optional gewesen. Mir ist das egal: mir genügt die
+Regel, dass mindestens Relativpronomen (oben: "welche") und Konjunktionen
+außer "und" (oben: "dass") Nebensätze einleiten, die abgetrennt gehören, wobei
+das Komma bei "ohne dass" und "so dass" natürlich nicht unmittelbar vor "dass"
+zu stehen kommt. Das reicht erstmal, um die größten Schnitzer zu vermeiden.
+
+Ansonsten: bei Unsicherheit werden erfahrungsgemäß eher zu viele Kommas als zu
+wenige gesetzt, also lieber Komma weglassen, wenn man keinen Grund weiß, eins
+zu setzen. Allerdings gibts das Gegenteil auch: vor allem Legastheniker
+schreiben gerne mal ohne Punkt und Komma und wundern sich wenn die Leser Mühe
+haben herauszufinden wo ein Satz zu Ende ist und wo der nächste anfängt wo sie
+doch beim Sprechen eine Pause gemacht hätten vielleicht wenigstens.
+
+Ein Beispiel, bei dem ich selbst oft unsicher werde, ist:
+
+  Ein Argument, das mich immer wieder ärgert, ist, dass große Nachteile in Kauf
+  genommen werden müssten, wenn man das so macht. (1)
+
+Ein Wort wie "ist" verdient es meinem Sprachempfinden nach einfach nicht,
+durch die umgebenden Kommas betont zu werden. Also versuche ich entweder
+
+  Ein Argument, das mich immer wieder ärgert ist, dass große Nachteile in Kauf
+  genommen werden müssten, wenn man das so macht. (2)
+
+oder
+
+  Ein Argument, das mich immer wieder ärgert, ist dass große Nachteile in Kauf
+  genommen werden müssten, wenn man das so macht. (3)
+
+Mein Urteil: richtig ist (1), flüssig lesbar ist (3). Wer holprigen Stil nicht
+scheut, wählt (4):
+
+  Ein Argument, das mich immer wieder ärgert, ist, dass, wenn man das so 
+  macht, große Nachteile in Kauf genommen werden müssten. (4)
+
+
+Ob -s- oder aber eines von -ss- und -�- hingehört, daran hat sich nichts
+geändert; meist gibt es gute Anhaltspunkte, aber manchmal muss man es wissen.
+Nur wann im zweiten Fall -ss- und wann -�- steht, hat sich geändert:
+neuerdings genau dann -ss-, wenn der Vokal davor kurz ist; nach bisheriger
+Rechtschreibung konnte da manchmal auch -�- stehen wie in "Fluß", "daß" oder
+"muß", jetzt "Fluss", "dass" und "muss". Diphthonge (au, ei, eu, u) werden
+nach wie vor wie lange Vokale behandelt, so dass kein -ss- folgt.
+
+-- 
+Nino Jungcurt

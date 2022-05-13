@@ -1,0 +1,14 @@
+* Albert Langenegger <hadzzg.mgheetng@achbe.rl>:
+
+Mein Professor an der Horizonte hat schon vor zirka 30 Jahren die "Dunitz
+Conjecture" formuliert, dass nämlich der erste Satz jedes wissenschaftlichen
+Artikels *mit Gewinn für den Artikel* weggelassen werden könne.
+Er hatte diese typischen "have long been"-Einleitungssätze im Visier wie:
+
+   Linear polyenes have long been the subject of quite extensive
+   studies in molecular chemistry, photo-biochemistry, and nonlinear
+   optical spectroscopy.
+
+Wir hatten darüber spekuliert, ob sich der Satz rekursiv anwenden lasse.
+
+ - Denis

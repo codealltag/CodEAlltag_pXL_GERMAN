@@ -1,0 +1,7 @@
+Du scheinst die Zeichen ^ und + verwechselt zu haben.
+
+Hinweis, da Du schon von "Bit Genauigkeit" redest: 4^16 = 2^32
+
+-- 
+A chrysanthemum by any other name would be easier to spell.
+  François Dachroth in alt.usage.english

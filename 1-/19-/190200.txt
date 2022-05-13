@@ -1,0 +1,29 @@
+Man kann die Liste der falschen Freunde mühelos verlängern. So würde ich 
+auf die neue Entlehnung "Server" für "Diener" verzichten, wo es doch schon 
+den "Pagen" gibt. Also:
+
+  englisch     deutsch
+
+  web server   der Webpage
+  web site     das Webgel�nde
+  web page     die Webseite
+
+(Wenn der Webpage gerade nichts zu tun hat, sitzt er dann auf dem Webstuhl?)
+
+Das englische Wort "web page" taucht in offiziellen Dokumenten nicht oder nur
+vereinzelt auf, vielmehr wird meist "web document" verwendet, was ähnlich aber
+nicht gleich ist. Wie wärs mit einer neuen falschen Übersetzung "Weburkunde"?
+
+Spaß beiseite. Es gibt durchaus sinnvolle deutsche Wörter, die schon verwendet
+werden und hinreichend eindeutig sind, vielleicht nicht im Sinne einer Norm,
+aber wenigstens so, dass der Gelegenheitsbenutzer etwas damit anfangen kann:
+
+  englisch     deutsch
+
+  web server   der Webserver
+  web site     der Webauftritt
+  web page     die Webseite
+  home page    die Startseite
+
+-- 
+Gilbert Dörfer

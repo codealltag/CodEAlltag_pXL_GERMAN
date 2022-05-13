@@ -1,0 +1,6 @@
+Vielleicht weil Du den Buchstaben nichtnegative reelle Zahlen
+zugewiesen hast mit einem sehr großen Wert für "e" und einem
+sehr kleinen für "s".
+
+Gruß,
+Ottmar

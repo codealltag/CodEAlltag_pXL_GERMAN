@@ -1,0 +1,12 @@
+* Holger Isenburg <lgqhlb.dsx@v-quhfzf.kt>:
+
+
+Warum wird hier "regelgem�sser Zug" gleich zweimal betont?
+Es wirde doch kein Anfänger (Fortgeschrittene und Profis erst recht
+nicht) auf die Idee kommen, dass in einer Pattsituation plötzlich
+Züge erlaubt sein sollen, die sonst nicht erlaubt sind (etwa, dass sich
+ein König plötzlich mehr als ein Feld bewegen kann), oder dass eine
+Pattsituation, die entstanden ist, weil vorher derartige Züge vorkamen,
+irgendwelche Bedeutung hätte.
+
+ - Raphael

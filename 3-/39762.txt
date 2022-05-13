@@ -1,0 +1,6 @@
+Sieglinde Gruhner tat kund:
+
+
+Kann auch sein, daß es beim ersten Suchen einen
+Index der entsprechenden Dateien gemacht hat.
+Dann geht es beim zweiten Suchen wesentlich schneller.

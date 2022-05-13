@@ -1,0 +1,10 @@
+* Dario Schaaber:
+
+
+NACK - im Fall, daß die Soldaten jemand anderes hinrichten, hätte da ein
+Objekt stehen müssen (noch wahrscheinlicher wäre "Hinrichtungen
+durchführen lassen").
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Ottmar Heibült, comp.lang.python

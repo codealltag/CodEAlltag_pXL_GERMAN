@@ -1,0 +1,4 @@
+Ich denke, die Vorstellung beim "Leistung abrufen" ist ungefähr dieselbe 
+wie die bei "Kontostand abrufen".
+
+Carl

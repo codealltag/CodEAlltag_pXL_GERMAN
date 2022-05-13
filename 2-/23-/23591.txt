@@ -1,0 +1,62 @@
+Frédéric Springstubbe:
+
+
+Weder Konjunktiv II noch Indikativ, sondern Konjunktiv I
+(gebildet aus dem Präsens-Stamm):
+
+»Er sagt, daß er morgen bei Sonnenaufgang schreiben *werde*.«
+
+Konjunktiv II kommt nur dann als Hilfsform in Frage, wenn der
+Konjunktiv I vom Indikativ nicht unterscheidbar ist; bei »werden«
+aber ist ein Unterschied erkennbar.
+
+
+Mein Gefühl empfindet das als falsch:  Bedingung im Indikativ
+passt nicht zum Schluss im Konjunktiv II.  Besser:
+
+»Er sagt, daß er morgen, wenn die Sonne aufgehen werde, schreiben werde.«
+
+
+Auch richtig, aber andere Bedeutung:  Das erweckt bei mir den
+Eindruck, dass er annimmt, dass morgen die Sonne nicht aufgehen
+wird und er deshalb auch nicht schreiben wird, also: »schreiben
+würde« ist Futur in den Konjunktiv II gesetzt.  Und weil schon
+die direkte Rede »wenn morgen die Sonne aufginge, würde ich
+schreiben« im Konjunktiv II steht, gibt es keine Möglichkeit
+mehr, sie darüber hinaus zwecks Wiedergabe in indirekter Rede in
+Konjunktiv I umzuwandeln, und es bleibt bei Konjunktiv II.
+
+
+Das Gleiche wie oben:  Indikativische Bedingung passt nicht zum
+konjunktivischen Bedingten.
+
+
+Richtig.  Bedeutung:  Wenn man ihn bittet, schreibt er, aber er
+geht davon aus, dass man ihn nicht bitten wird, also wird er auch
+nicht schreiben.  Das gleiche wie oben:  Direkte Rede schon im
+Konjunktiv II kann, indirekt wiedergegeben, nicht noch zusätzlich
+in Konjunktiv I gesetzt werden.
+
+
+Ja.
+
+
+Das sehe ich anders:  Die Aussage, die eventuell dem direkten
+Sprecher zugeschrieben werden könnte, und — damit dies nicht
+passiert —, in den Konjunktiv gesetzt wird, ist die behauptete
+Abhängigkeit des Bedingten von der Bedingung, also hier im
+Beispiel, die Behauptung, dass eine vorangehende Bitte eine
+Handlung des Schreibens zur Folge hat. Und deshalb würde ich
+sowohl das Bedingte als auch die Bedingung in den Konjunktiv
+setzen.
+
+
+Das würde bedeuten, die direkte Rede war: »Ich würde schreiben«,
+also ohne Bedingung.  Wie kann der wiedergebende Sprecher da eine
+Bedingung hinzufügen?
+
+-- 
+Bitte in die Adressierung auch meinen |Please put my full name also into
+Vor- u. Nachnamen stellen z.B.        |the recipient like
+Dietmar Jürgen <uac@example>, (Dietmar Jürgen) uac@example,
+"Jürgen, Dietmar" <uac@example>

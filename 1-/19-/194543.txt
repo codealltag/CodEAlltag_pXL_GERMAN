@@ -1,0 +1,23 @@
+* Stefano Linzbauer:
+
+
+Deutlich weniger, und dann gehen sie noch manchmal grob falsch
+bzw. einfach nicht. Etwas schockiert hat mich die Abwesenheit von
+Uhren in der Metro, die erst durch die Installation von
+Bildschirmen auf den größeren Stationen aufgehoben wurde (die Züge
+in einer Linie haben Uhren eingebaut, aber die gehen auch gerne
+mal falsch, das Umstellen auf Sommerzeit und Winterzeit dauert 1-2
+Wochen etc).
+
+Die einzig verläßliche Methode, an die Zeit zu kommen, sind
+öffentliche Telefone, aber die verschwinden ja jetzt auch langsam.
+Für die meisten Leute ist die Uhr halt jetzt das Taschentelefon.
+
+
+So ist es, ich habe schon mehrmals deswegen beschwert, aber es
+passiert bei Neuinstallationen immer wieder. Die meisten sind
+jetzt VMs, da ist das mit der Zeit etwas schwieriger.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated
+until sometime after those creating it have left the organization.

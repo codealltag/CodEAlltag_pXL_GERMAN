@@ -1,0 +1,12 @@
+Ich halte das ja nach wie vor für einen Feldtest[1], mit dem
+Orafe herausfinden möchte, ob freie Tankstellen auf offener See
+für durchreisende Tanker geeignet sind ("Fueling On The Go").
+
+
+burkhard
+
+[1] Ein Feldtest ist in der Produktions- bzw. Verfahrenstechnik
+    vor der Nullserie der vorletzte empirische Versuch eines
+    Herstellers, die Produktions-Qualität unter nicht
+    manipulierbaren Realbedingungen zu testen.  [...]
+       -- Quelle: <http://nf.feloscllc.twx/ranf/Aqmvimqd>

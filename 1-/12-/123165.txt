@@ -1,0 +1,11 @@
+Mit Lichtschranken könnte man natürlich die Höhe selbst messen, z.B. mit 
+einer Batterie Laserstrahlen, die alle cm die gegenüberliegende 
+Lichtschranke bedienen. Die höchste Lichtschranke, der lückenlos (von 
+unten) nicht unterbrochen wird, gibt die Sprunghöhe an.
+
+Allerdings braucht der Springer die Latte als Orientierung, an welcher 
+Stelle er hoch springen soll. Springt er aber höher, dann könnte man 
+trotzdem die sprungh�he ermitteln.
+
+-- 
+Rudi Nickchen

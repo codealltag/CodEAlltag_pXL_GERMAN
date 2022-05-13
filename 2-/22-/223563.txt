@@ -1,0 +1,34 @@
+Doch.
+
+
+Da bevorzugtest Du das Falsche. Paolo hat recht. 
+
+Man muß bei diesem Kongruenzproblem zwei Fälle unterscheiden:
+
+1) Die Subjektteile sind mit "und", "weder - noch", "sowohl - als
+auch" oder "wie" verbunden.
+
+2) Die Subjektteile sind mit "oder" oder "entweder - oder" verbunden.
+
+Fall 2 hast Du richtig erklärt. Hier kommt es auf den dem Verb bzw,
+Hilfsverb näherstehenden Subjektteil an, der die Person bestimmt.
+Er oder ich gehe dorthin.
+Ich oder er geht dorthin.
+
+Im Fall 1 steht das Verb in der 1. Person Plural, wenn einer der
+Subjektteile eine 1. Person ist:
+Ich und die Frau gehen dorthin. (= Wir gehen dorthin.)
+Wenn die Subjektteile eine 2. und 3. Person sind, steht das Verb in
+der 2. Person Plural:
+Du [2.P.] und deine Frau [= sie, 3.P.] habt das getan. 
+(= Ihr habt das getan.)
+
+Zum formelhaften Merken:
+
+1. + 3. Person --> 1. Person Plural 
+1. + 2. Person --> 1. Person Plural
+
+2. + 3. Person --> 2. Person Plural
+
+Eselsbrücke: Es regiert immer die "höchste" vorkommende Person, d.i.
+jene mit der kleinsten Zahl.

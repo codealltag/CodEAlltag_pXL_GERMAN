@@ -1,0 +1,14 @@
+In diesem Falle schon. Es reduziert die Anzahl der Alphabete drastisch. Es 
+werden alle Alphabete eliminiert, wo ein Buchstabe auf den gleichen 
+abgebildet ist (das gleiche Problem wie mit den Walzen, die immer getauscht 
+wurden), es sind immerhin in der Größenordnung von 26! Alphabete. Ausserdem 
+werden die Buchstaben innerhalb des Alphabets paarweise kodiert, dh. wenn A 
+-> X, dann wird X -> A.
+Es bleiben weniger als die Hälfte der Alphabete übrig.
+
+
+Abwehrleute waren keine Kryptologen, auf jeden Fall nicht alle. Und der 
+"gesunde Menschenverstand" glaubt, dass es kein Zufall ist, wenn man nicht 
+alles umstellt.
+
+Heiner

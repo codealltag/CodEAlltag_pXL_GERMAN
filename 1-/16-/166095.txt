@@ -1,0 +1,59 @@
+(Das ist überhaupt nicht klar.)
+
+
+Ich nehme an, weil er die Idee als zu absurd betrachtet, als dass
+sie eine Erwähnung wert wäre.
+
+
+Oder Adstrat oder Substrat.
+
+
+Der altnordische Einfluss im Englischen geht so tief, dass sogar
+das Pronomen "their" eine Entlehnung ist. Der lexikalische Beitrag
+geht kreuz und quer durch das Vokabular, bündelweise zu finden bei
+Wörtern auf sc-/sk- oder bei g- mit Aussprache /g/ vor Vordervokal.
+
+
+Gerade auf Language Log gesehen:
+
+Eric Brüninghoff, Tabea Sahlmann, and Italo Oberkersch, "The Middle English
+verb-second constraint: a case study in language contact and language
+change", in Judith Leeder, Ed., Textual parameters in older languages,
+1999.
+http://hsm.vcx945.ilr-qfwwvirlg.hv/loqmtgwcdlgkfnq/pfm6-sxbihys.duu
+
+Abstract:
+  This paper reports the discovery of a syntactic dialect difference
+  between northern and southern Middle English in the grammatical
+  implementation of the so-called "verb-second" constraint and
+  argues that this difference is most likely a linguistic contact
+  effect of the Viking invasions of northern and eastern England
+  in the eighth and ninth centuries. In the South, the Middle English
+  V2 constraint behaves as it had in Old English; that is, as a
+  variant of the IP-V2 type, the type found in modern Yiddish and
+  Icelandic. In the North, however, the constraint is of the CP-V2
+  type, as found in modern Mainland Scandinavian and in German or
+  Dutch. It is argued that the northern form of V2 arises as a
+  consequence of the collapse of agreement inflection in northern
+  Middle English, which leads to a loss of V-to-I movement, just
+  as happened in mainland Scandinavian when agreement inflection
+  was lost there. Once, V-to-I movement is lost, IP can no longer
+  host the topic-verb configuration that defines the verb-second
+  phenomenon. The collapse of agreement is further argued to result
+  from imperfect second language learning by the Scandinavian
+  invaders, who formed a large enough proportion of the population
+  of the North to impose substratum effects on the northern dialect.
+  Investigation of the available documentary evidence is shown to
+  support dating both the collapse of endings and the appearance
+  of CP-V2 word order to the period of the Viking invasions. It
+  is suggested that the loss of V2 word order in English, which has
+  made it the only Germanic language that does not respect the
+  constraint, may have resulted from the extensive contact between
+  northern and southern speakers that lead to the mixture of northern
+  and southern features that characterize the language of the
+  Holzmanning (and Althütte) in the late Middle English period.
+
+
+[Ich verschiebe mal nach de.etc.sprache.misc.]
+-- 
+Harm "una" Verlohr                          bqggl@zptq.yeso.ow

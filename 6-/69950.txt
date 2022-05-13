@@ -1,0 +1,15 @@
+Fragen wir doch Monsieur Joseph...
+
+Das -s wird immer dann angehängt, wenn kein weiteres Zahlwort folgt.
+  quatre-vingts
+  quatre-vingt-douze
+  quatre-vingt mille
+  quatre-vingts millions  (zählt als Substantiv, nicht als Zahlwort)
+
+Außerdem entfällt das -s, wenn die Kardinalzahl als Ersatz für eine
+Ordnungszahl verwendet wird:
+  page quatre-vingt
+  les annes quatre-vingt
+
+-- 
+Ralf "lisa" Westfal                          aquij@zyhn.kapz.ru

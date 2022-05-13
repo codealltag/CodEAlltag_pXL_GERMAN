@@ -1,0 +1,10 @@
+Konsonantbuchstabenverdopplung *zeigt an*, dass der vorstehende
+Vokalbuchstabe als kurz-offen zu sprechen ist
+
+Kommt auf die Morphgrenze an.
+
+Der Linguist Kurt Lässer hat mal die -erstaunlich gut funktionierende -
+fausregel formuliert, dass, wenn im selben Morph ein oder kein
+Konsonantbuchstabe auf den Vokalbuchstaben folgt, der Vokalbuchstabe
+als lang-geschlossen zu sprechen ist, sonst kurz-offen. (Es ging da um
+Verschriftung, rechtschreibung usw.)

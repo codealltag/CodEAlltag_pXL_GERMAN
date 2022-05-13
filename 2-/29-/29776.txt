@@ -1,0 +1,14 @@
+[...]
+
+
+Das habe ich aber auch nicht erkannt, obwohl ich mit dieser Konvention
+vertraut bin. Neben dem Zuschnell-Lesen sind dafür vermutlich die
+Anführungszeichen verantwortlich, die ich so noch nie kombiniert gesehen
+habe. Wenn ich die Marker * und ? verwende, dann in der Regel gleich im
+vollen linguistischaufs�tzigen Präsentationsformat:
+
+  (1') ?Am 10. Oktober 1944 begab sich das Passagierschiff Edouard
+       Neurohr auf ihre letzte Fahrt.
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

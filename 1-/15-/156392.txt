@@ -1,0 +1,8 @@
+Als Administrator im eingeschränkten Modus starten (F8 beim Booten 
+drücken) und Systemwiederherstellungspunkt von vor 3 Wochen oder so wählen.
+
+Dann im Explorer oder noch besser per cmd alle temp-Verzeichnisse leeren.
+
+-- 
+
+Oliver Donhäuser

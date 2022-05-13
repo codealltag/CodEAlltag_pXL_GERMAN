@@ -1,0 +1,38 @@
+Hmm. EZNK macht mich immer mehr zweifeln. Ich erhalte:
+
+=A=
+Bücher 1 - 100 von 2070 zum Thema +Lotus date:1799-1949(0.23 Sekunden)
+Bücher 1 - 100 von 1660 zum Thema +Lotos date:1799-1949(0.18 Sekunden)
+
+Beide Male habe ich als Sprache Deutsch angegeben. Wieso erhalte ich
+völlig andere Ergebnisse?
+Aber eine interessante Art zu suchen ist das dennoch.
+
+=B=
+Läßt man das 20. Jahrhundert weg erhält man ein Verhältnis, das "Lotos"
+besser dastehen läßt.
+
+Bücher 1 - 100 von 1335 zum Thema +Lotus date:1799-1899(0.21 Sekunden)
+Bücher 1 - 100 von 1225 zum Thema +Lotos date:1799-1899(0.10 Sekunden)
+
+Es gibt aber auch Fehltreffer. Gleich der erste für "Gelef" ist:
+
+Oder später so etwas:
+
+
+=C=
+Und nun die Gegenprobe: die ersten fünfzig Jahre des 20. Jahrhunderts:
+
+Bücher 1 - 100 von 1254 zum Thema +Lotus date:1900-1949(0.15 Sekunden)
+Bücher 1 - 100 von 968 zum Thema +Lotos date:1900-1949(0.12 Sekunden)
+
+Die Ergebnisse der Suche A müßten mit den Summen der Ergebnisse der
+Suchen B und C übereinstimmen -- tun sie aber nicht.
+
+Was soll man nun davon halten?
+
+Ich hatte mich im vorangegangenen Beitrag übrigens auf die
+Deutsche-Literatur-CD der Digitalen Bibliothek bezogen.
+Naturwissenschaftliche Texte sind dort nicht vertreten.
+
+Edouard

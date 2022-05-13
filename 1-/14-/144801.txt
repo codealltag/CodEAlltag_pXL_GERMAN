@@ -1,0 +1,45 @@
+Ich stimme dem zu, finde aber den Begriff "menschliche Logik" irreführend.
+So, als gelte es, eine übermenschliche Logik zu entwickeln. Es liegt wohl 
+nicht an der Logik, sondern an der Axiomatik. Gegen den Schluss
+
+  Wenn man den Begriff "Allmacht" so definiert, dass daraus auf die 
+  Fähigkeit zu in sich logisch widersprüchlichem Tun geschlossen werden 
+  kann, ist Allmacht logisch undenkbar. Wenn man den Begriff "Gott" so 
+  definiert, dass er in *diesem* Sinne allmächtig ist, ist Gott logisch 
+  undenkbar.
+
+ist absolut nichts einzuwenden. Fraglich ist, ob solche Axiomatisierungen 
+der Begriffe "Allmacht" und "Gott" irgendetwas damit zu tun haben, was 
+gläubige Menschen unter diesen Begriffen verstehen. Ich fürchte, kaum.
+
+Dafür, dass eine naive Axiomatisierung zu Widersprüchen führen kann, 
+braucht man nicht die Religion zu bemühen. Es gibt vieles, was auf den 
+ersten Blick unlogisch aussieht. Wer in der Mathematik von "Mengen" redet, 
+sieht sich der Menge aller Mengen gegenüber, die sich nicht selbst 
+enthalten -- ein sehr ähnliches Paradoxon wie das mit dem Stein, der dem 
+Allmächtigen zu schwer ist, weil er ihn mit seiner Allmacht so geschaffen 
+hat. Man *kann* daraus dem Schluss ziehen, dass der Begriff "Menge" in 
+sich widersprüchlich ist. Man kann aber auch die Axiome so formulieren, 
+dass der Widerspruch nicht mehr auftritt, wie im Axiomensystem von 
+Zermelo und Fraenkel. Der Preis ist, dass nur noch über den Teilbereich 
+Aussagen getroffen werden können, den man verstanden hat.
+
+Ich habe in der Bibel bis jetzt keine Aussage "Gott ist allmächtig" in 
+einer Form gefunden, die diese Aussage als Axiom zu benutzen gestattet. 
+Vielmehr stehen derartige Aussagen jeweils in einem bestimmten Kontext, in 
+dem sie auch dann einen Sinn haben, wenn sie nicht beliebig 
+verallgemeinerbar sind.
+
+Oder in der Physik die Komplementarität. Dort geht es weniger um Axiome 
+als um Modelle, die eben zu simpel sind, als dass sie die Wirklichkeit je 
+alleine adäquat beschreiben würden. Die Lösung ist dieselbe wie eben: man 
+muss sich in seinen Aussagen auf das beschränken, was man verstanden hat 
+und was sich bis jetzt als widerspruchsfrei gezeigt hat.
+
+über das Thema habe ich mich schon früher mal ausgelassen; ich will das 
+nicht wiederholen: 
+original MSG-ID: ietqxkhef5.quq.q604130@dbykj27.cgq.bzr-bnunwoxk.ve
+bei Goldak:      S_rX8.7898$4W6.126@xdqwqi91.beawszq.tws
+
+-- 
+Benedikt Unterste-Bahrenberg

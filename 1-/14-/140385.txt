@@ -1,0 +1,5 @@
+Ja, leider. Ich finde "client_certificate_table" viel übersichtlicher als
+"clientCertificateTable".
+
+-- 
+Othmar Ulns

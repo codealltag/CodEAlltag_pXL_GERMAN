@@ -1,0 +1,17 @@
+* Thorsten Int-Veld:
+
+
+In einem Fall läuft das Mailprogramm auf Deinem Computer, im
+anderen läuft es bei Ugogo und Du brauchst zusätzlich den Browser,
+um auf das Mailprogramm zuzugreifen. Das ist eine Schicht mehr.
+
+Aber wenn man die technischen Hintergründe nicht kennt,
+*empfindet* man das vielleicht nicht so.
+
+
+Na dann ist es doch noch viel klarer - dann kannst Du ja auch das
+Internet abklemmen, wenn Du Deine Mails liest.
+
+-- 
+Are you sure your sanity chip is fully screwed in?
+  -- Kryten to Rimmer (Red Dwarf)

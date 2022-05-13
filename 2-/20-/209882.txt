@@ -1,0 +1,24 @@
+Dänisch ist speziel. Zwar markieren wir Adjektivadverbien mit -t:
+
+  	Det var smukt talt.
+  	Das war schön gesprochen.
+
+wo "smuk" das Adjektiv ist, aber unser Neutrum wird auch mit -t
+markiert:
+
+  	Et smukt hus
+  	Ein schönes Haus
+
+Deshalb kann man nicht vom Wort allein wissen, welche Klasse es
+gehört. Noch dazu gibt es eine Menge davon, die kein -t bekommt,
+oder wo man selber wählen kann.
+
+  	Det var rigtig godt.
+  	Das war richtig gut.
+
+  	Det gik frygtelig(t) hurtigt.
+  	Es ging furchtbar schnell.
+
+-- 
+Gruß
+Simon, Dänemark

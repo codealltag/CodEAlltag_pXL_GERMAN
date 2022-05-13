@@ -1,0 +1,12 @@
+Zu dem, was die anderen schon geschrieben haben, möchte ich noch 
+hinzufügen: In Unix-Systemen gibt es sogenannte "Run-Level", erst werden 
+die niederen Dienste gestartet, dann die höheren.
+Runlevel 1,2,3. Kommunikation geht erst ab Runlevel 3. Um von Level 1 
+nach 3 zu kommen, muß das System hochfahren.
+
+Viele Größe von Philippe
+
+P.S: Nach einer langen Party, wir saßen beim Frühstück, versuchte jemand 
+mit mir zu sprechen. Ich antwortete nicht, es war auch vor dem ersten 
+Kaffee. Ein Freund meinte treffend: "Philippe ist noch im Single-User-Mode." 
+(Runlevel 1 oder 2)

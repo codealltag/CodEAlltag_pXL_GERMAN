@@ -1,0 +1,72 @@
+Hm, hm. Also ich sehe eine Notlösung als improvisierte Lösung
+eines dringlichen Problems an. Das Improvisieren mit eigentlich
+nicht ganz tauglichen Mitteln gehört mE immer dazu.
+Eine Notlösung ist eine Art Pfusch, der zumindest vorübergehend,
+manchmal auch lange, eine drängende Not behebt. 
+
+
+Ein seit nunmehr bestimmt 10 Jahren verbreiteter Workaround zum
+Problem "verschiedene Browserversionen stellen das gleiche
+CSS-Stylesheet verschieden dar" ist die Stylesheet-Weiche in
+Javascript. Das ist insofern Pfusch, als auf XML beruhendes HTML
+eigentlich statisch sein sollte und nicht abhängig von nicht
+immer möglichen Browserabfragen; das ist nicht schön, das ist
+nicht logisch, und: das ist dauerhaft, denn auch wenn 1000
+Webdesigner deswegen weinen, ändert sich am Problem nichts,
+solange von den Browserherstellern kein Standard hergestellt und
+der jahrzehntelang verbreitet ist, bis die letzten alten,
+uneinheitlichen Browser ausgestorben sind. Wenn man seinem
+Publikum eine möglichst einheitliche Optik bieten will, kann man
+sich nicht auf puristischen Code beschränken, wenn man sauberen
+Code haben will, muß man Macken in der Optik hinnehmen: das
+Problem als solches ist außerhalb der Reichweite der Coder.
+
+Was gegen die zunächst mal auf der Hand liegende Bezeichnung
+"Notlösung" spricht, ist mMn am ehsten die nicht empfundene
+Dringlichkeit des ästhetischen Problems "keine einheitliche
+Optik". Aber die nicht ganz tauglichen Mittel und die recht
+erfolgreiche Behebung des Problems hat es auf jeden Fall mit der
+Notlösung gemein.
+
+
+Ja, sie funktioniert erstmal.
+
+Ausreichend reicht nunmal für 90% der Fälle. Die restlichen 10%,
+so sagt man, machen nochmal 90% der Arbeit und werden deshalb
+meist als ökonomisch unvertretbar angesehen. "Verläßlich, zum
+vereinbarten Termin, zum vorgesehenen Preis - such Dir 2 davon
+aus".
+
+Mir selbst schweben sogar Fälle vor, in denen sich Notlösungen
+als Glücksfälle herausstellen (bei Stellenbesetzungen soll sowas
+schon vorgekommen sein). Das spricht mE dagegen, daß die
+Notlösung unbedingt vorübergehend sein muß. Man erwartet zwar,
+daß man später eine richtige Lösung braucht, aber das muß nicht
+eintreffen. Oder die Notlösung wird unerheblich, weil drumherum
+soviel zusammenkracht, daß man sowieso neu anfangen muß.
+
+"Improvisieren einer Notlösung" halte ich schon für ein übliches
+Verfahren bei dringlicher Not, sofern man angesichts der
+Situation nicht in Panik oder Lethargie verfällt.
+Für mich stellt sich angesichts der mitunter nötigen Klempnereien
+eher die Frage, ob man mit "Not" da nicht zu sehr übertreibt,
+denn wenn alles dringlich ist, ist nichts mehr dringlich, und
+wenn ständig Not herrscht, ist es keine Not mehr, sondern der
+Normalzustand.
+Einmalige Lösung eines akuten Problems stimmt insofern, als
+Improvisation vorliegen muß, und das zweite Anwenden des
+Ergebnisses der Improvisation ist keine Improvisation mehr.
+
+Man versucht Software zu perfektionieren, indem man ihre
+Herstellung industrialisiert oder zumindest auf Manufakturniveau
+zerteilt; inwiefern das zutreffende Beschreibungen sind oder
+Sprüche, weiß ich nicht. Zumindest einen Wälzer von UML-Plan hab
+ich mal gesehen, das sollte wohl Bauvergabesoftware werden. Ein
+Blogartikel titels "surviving complexity" zu diesem Thema brachte
+mich immerhin zum Grinsen.
+
+"Workaround" könnte man vielleicht mit einer abgewandelten
+Stra�enverkehrsmetapher wie Umgehung, Umfahrung oder Überbrückung
+(was schon in der Elektrik verwendet wird) eindeutschen -
+vielleicht fällt jemand noch was besseres ein. "Drumrumarbeiten"
+klingt halt etwas nuschelig.

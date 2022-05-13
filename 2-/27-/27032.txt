@@ -1,0 +1,9 @@
+Für mich (Altschreiber) nicht - jedenfalls fällt mir spontan kein gutes
+Beispiel ein, wo es was ganz anderes wäre. 
+
+
+"Das Licht muß immer an sein." Gibt es denn auch ein "ansein"? 
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Paul Zedler, comp.lang.python

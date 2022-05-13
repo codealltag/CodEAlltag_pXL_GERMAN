@@ -1,0 +1,15 @@
+Igor Kercher tat kund:
+
+
+Das ist eine Frage der Schrifttype, neudeutsch
+des Fonts. Bei Proportionalschriften wird ein
+Buchstabe mit (einigermaßen) konstantem Abstand
+hinter den vorigen geschrieben, etwas, das
+keine Schreibmaschine kann, die mir je zu
+Augen gekommen ist. Der Abstand "rechter Rand
+voriger Buchstabe - linker Rand nächster
+Buchstabe" ist also konstant. Bei Festbreitenschriften
+ist der Mitte-Mitte-Abstand der Buchstaben
+konstant. Im ersteren Fall ist der Text
+"WiW" auf dem Papier kürzer als "WWW", im
+letzteren sind sie gleich breit.

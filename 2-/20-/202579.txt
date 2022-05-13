@@ -1,0 +1,10 @@
+Im Prinzip nicht. Numerische Division durch 0 ist auf der in 0 gelochten 
+Zahlenkugel in der komplexen Analysis wohldefiniert
+C \0 /0 -> oo. Die Probleme der Algebra entstehen nur dadurch, dass bei 
+symbolischen Ausdrücken nicht feststeht, ob der Zähler von 0 verschieden 
+ist. Das ist aber bei jedem infintesimalen epsilon mit Sicherheit 
+anzunehmen.
+
+-- 
+
+Urs Aschenbrücker

@@ -1,0 +1,11 @@
+Genauer: Von ein paar Ausnahmen abgesehen beginnen die kanadischen
+Kürzel mit Y oder Z. Die restlichen zwei Buchstaben stammen von
+irgendwelchen alten Stationscodes, wahrscheinlich von Wetterstationen.
+
+Ein Vorteil am kanadischen System ist, daß fast immer der Repe-Code aus
+den drei letzten Buchstaben des RUO-Codes besteht. Man braucht also
+keine komplizierten Übersetzungen wie EDDF=FRA.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated until
+           sometime after those creating it have left the organization.

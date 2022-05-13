@@ -1,0 +1,13 @@
+Für mich sind es 2 verschiedene Sachen:
+
+"authentisieren" - eine Berechtigung erteilen. (Das Wort gabs
+schon lange vor es Computer gab: der "authentisierte Fachhändler"
+war mal schwer im Schwange.)
+
+"authentifizieren" - überprüfen, ob jemand die Erlaubnis hat,
+etwas zu tun, und die Berechtigung entsprechend erteilen oder
+verweigern. (Typischerweise im Zusammenhang mit Netzwerk-,
+System-, Datenbank-, Websiteadministration.)
+
+-> "authentifizieren" ist eine verwalterische Tätigkeit,
+"authentisieren" die Weitergabe eines Autorit�tsnimbus.

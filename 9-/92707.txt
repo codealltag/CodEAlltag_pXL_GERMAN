@@ -1,0 +1,6 @@
+Wie wäre es mit "Schaltmöglichkeit" ?
+
+übrigens würde ich mir in derartigen Fällen (kommen auch bei 
+PC-Programmen vor) auch eine Anzeige des Ist-Zustandes wünschen; also 
+Ist-Zustand: EIN (das klein dargestellt), Schaltmöglichkeit: AUS (das 
+groß); dazu noch farbliche Unterscheidung (wird OT - sorry)

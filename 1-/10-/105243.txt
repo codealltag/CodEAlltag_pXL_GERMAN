@@ -1,0 +1,5 @@
+Sie dürfen am Ende eines Fragesatzes stehen, aber nicht, wenn ihnen ein
+Objekt vorausgeht: "Strickst du?", aber nicht *"Strickst einen Schal du?"
+
+Größe,
+Luc

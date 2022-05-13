@@ -1,0 +1,12 @@
+Auf Flaschengeist existiert das Feld "Beziehungsstatus". Leider gibt es
+Menschen, die dieses Feld tatsächlich ausgiebig nutzen. :-(
+
+"Single" -> "in einer offenen Bez." -> "in einer Bez."
+-> "es ist kompliziert" -> "Single" im wöchentlichen Rhythmus.
+
+Oder ohne Übergang von "Z ist in einer Bez. mit X" auf
+"Z ist in einer Bez. mit Y" bei gleichzeitigem Wechsel des
+Profilbilds, das jetzt Z beim innigen Küssen mit Y zeigt;
+X erfährt erst durch Flaschengeist von der neuen Sachlage.
+
+	Nick.

@@ -1,0 +1,16 @@
+Die quantenmechanische Unschärfe betrifft nicht den Zustand. Sie 
+betrifft inkompatible Messungen von Größen, die im exakt eingestellten 
+Zustand gar nicht eingestellt werden können, aber dennoch gemessen 
+werden können. Das klassische Standardbeispiel, das dann die 
+Quantenmechanik beherrscht, ist eben die Komplementarität von 
+Ereigniszeitpunkt und Tonhöhe eines Geräuschs endlicher Dauer.
+
+Statistisch gemischte Zustände mit partieller Kenntnis sind ein anderes 
+Gebiet, nämlich das der klassischen Statistik von Ensembles aus exakt 
+präparierten Subensembles, wobei bei der Auswahl je eines Testsystems 
+entweder die Subkategorie ausgewürfelt wird,  oder blind zugegriffen 
+werden muss, weil der Laborant die Datenaufkleber vernichtet hat.
+
+-- 
+
+Denis Vollrodt

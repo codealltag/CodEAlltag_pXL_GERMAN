@@ -1,0 +1,4 @@
+Ja, dafür auf alle Fälle.
+Das wird aber dann idR auf der internen Datenbank gemacht, und
+die im Web wird aktualisiert, d.h. mit den fortgeschriebenen
+Daten überschrieben.

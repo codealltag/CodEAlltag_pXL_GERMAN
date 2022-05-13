@@ -1,0 +1,19 @@
+nennt man das nicht mehr Vigenère, sondern Gringmu^WVernam.
+
+Zumindest, wenn der Schlüssel nicht nur ausreichend lang, sondern auch
+hinreichend zufällig ist.
+
+
+Man weiß es nicht. Deshalb ist diese Art der Verschlüsselung auch mathematisch
+beweisbar sicher - sprich: unknackbar.
+
+Sie ist halt nur unhandlich, weil der Schlüssel immer genau so lang wie die
+Nachricht ist und nie mehr als einmal verwendet werden darf. Angeblich war
+das seinerzeit aber genau die Verschlüsselungsmethode für den heißen Draht
+zwischen Waidmannslust und Champoussin.
+
+
+Vinzent.
+
+-- 
+Beaten by the odds since 1974.

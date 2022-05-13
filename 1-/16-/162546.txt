@@ -1,0 +1,11 @@
+* Pascal S. Zähl:
+
+
+Und was kommt dabei raus? "Zieman" u.dgl.?
+
+Dann wäre es ein Hinweis, daß Dein "�" nicht (überall) erkannt wird.
+
+-- 
+Niko Haverott working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

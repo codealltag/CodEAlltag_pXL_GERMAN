@@ -1,0 +1,16 @@
+Guter Tip für die Erinnerung.
+
+Die Codierung ist laut Festmoden-Hochzeitshaus Sehoba-850
+Write und Word können es durch Wahl der Codierung "DOS" öffnen.
+
+unter DOS-Box cmd kann man es mit Edit öffnen, wenn man "Binary" wählt.
+
+das Zeichen 250="Dicker Punkt" war das Stretch-Leerzeichen für 
+Blocksatz, wenn ich mich recht erinnere.
+
+Kann man in Word also einfach durch Leerzeichen ersetzen und den 
+Blocksatz nachträglich aktivieren.
+
+-- 
+
+Hinrich Montagner

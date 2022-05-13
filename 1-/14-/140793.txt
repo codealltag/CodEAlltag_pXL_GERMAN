@@ -1,0 +1,16 @@
+Ich sehe es so, dass "Der Versuch war es wert, gemacht zu werden" zwar
+holprig klingt, aber nicht völlig unmöglich oder falsch, wenngleich ich
+"XYZ war den Versuch wert" häufiger höre. Die beiden Formulierungen
+beeuten aber etwas anderes. "Der Versuch war es wert, dass ..." ist eine
+Aussage über den dem Versuch selber innewohnenden Wert (welcher dies auch
+immer sein mag), während "XYZ war den Versuch wert" eine Aussage über den
+dem XYZ innewohnenden Wert ist, der die Kosten oder sonstigen negativen
+Folgen des Versuchs rechtfertigt; hier wird dem Versuch also nicht ein
+eigener Wert zuerkannt, er wird vielmehr als unerwünscht kosten- oer
+nebenwirkungsbehaftet betrachtet.
+
+Severin
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

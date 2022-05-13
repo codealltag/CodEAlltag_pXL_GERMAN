@@ -1,0 +1,43 @@
+Diese harmlos klingende Frage lässt sich durchaus verschieden auffassen:
+
+ - präskriptiv: Die Grammatik legt fest, wie sich Verben zu verhalten 
+   haben, und diese renitenten Modalverben widersetzen sich, indem sie 
+   sich erdreisten, die Grammatikregeln zu ignorieren.
+
+ - deskriptiv: Wir stellen fest, dass die Modalverben keine Imperative 
+   bilden, sondern sich einer solchen Bildung widersetzen.
+
+Nur wenn man die erste Deutung zugrundelegt -- die ich für die
+fernliegendere halte -- ist die Kritik berechtigt.
+
+
+Die Frage ist, ob ein Optativ oder Iussiv (es ist wünschenswert, dass 
+etwas geschieht) wirklich genau dasselbe ist wie ein Imperativ (ich 
+ordne an, dass etwas geschieht). Vergleiche:
+
+  Ach, würdest du doch endlich gesund werden!
+
+  Werde endlich gesund!
+
+Das erste kann ich auch zu jemandem sagen, dessen Zustand nur wenig 
+Hoffnung auf vollständige Genesung lässt, das zweite ist fast immer Unfug.
+
+Hier gings eher um Optative, und da ist ein Wunsch, etwas 
+könne/müsse/dürfe geschehen, auch dann denkbar, wenn man das 
+können/müssen/dürfen nicht befehlen kann.
+
+
+Auch Imperative können in Einzelfällen sinnvoll sein. Inhaltlich ist
+
+  Du schaffst das nicht, wenn du es nicht willst. Du musst es wollen.
+
+ein Imperativ, und mit Recht, denn man kann sich entscheiden, etwas zu 
+wollen. Formal ist aber der Imperativ nicht üblich:
+
+  Du schaffst das nicht, wenn du es nicht willst. Also, wolle es!
+
+Allerdings hat "wollen" hier ein Objekt und nicht einen Infinitiv, ist 
+also kein modales Hilfsverb.
+
+-- 
+Jonas Spannagel

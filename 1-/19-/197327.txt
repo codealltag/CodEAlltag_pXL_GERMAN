@@ -1,0 +1,23 @@
+Am 06.06.2012 01:40, schrieb Klaas Fielitz:
+...
+
+
+Und was ist der englische Begriff für Mauspfeil?
+So etwas wie XQueryPointer (von Urs) ist es jedenfalls nicht,
+denn damit sind die Koordinaten eines Punktes gemeint.
+Ich kenne nur so etwas wie Cursors.IBeam, Cursors.Hand
+und eben Cursors.Arrow.
+
+Angenommen, auf dem Bildschirm  ist nicht der Pfeil zu sehen
+sondern eine Hand. Dann sagt der Dozent "schieben sie mal die Hand
+1 cm nach oben". Klar kann er das sagen, aber er muss sich
+nicht wundern, wenn ein Zuhörer dann kurzfristig eine längere Leitung
+im Gehirn hat.
+
+Wer andere unterrichtet, sollte immer als erstes sich selbst
+fragen, ob er nicht etwas falsch erklärt hat.
+Pfeil ist missverständlich, denn es gibt auch einen Pfeil auf der
+Tastatur.
+
+Gruß
+P.T.

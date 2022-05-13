@@ -1,0 +1,44 @@
+Logisch.
+
+Neben der AcI-Frage geht es um den Ersatzinfinitiv, der anstelle des
+PP in wenigen Fällen - bei Modalverben und bei Verben der sinnlichen
+Wahrnehmung sowie bei "lassen" - steht.
+
+Das Verb "schicken" bildet im Perfekt keinen Ersatzinfinitiv, sondern
+ein normales PP:
+
+Ich habe ihn einkaufen *geschickt*.
+
+Anders hier:
+Ich habe einkaufen *müssen*.
+Ich habe es kommen *sehen*.
+Man hat ihn vorsprechen *lassen*.
+
+Denn:
+"Verben wie hören, sehen, lassen usw. integrieren somit einen
+Infinitivsatz in einen Satz. Dabei ist das Subjekt des Infinitivs
+nicht ein Nominativ, sondern ein vom Hauptverb abhängiger Akkusativ.
+Deshalb wird diese Konstruktion 'Akkusativ mit Infinitiv' genannt
+(lateinisch: accusativus cum infinitivo, abgekürzt AcI)."
+
+Ich bekräftige meine These, daß "schicken" kein Beispiel für die per
+se hinkende Bezeichnung AcI im Deutschen ist. "Schicken" hat ein
+notwendiges Akk.-Objekt. Daß das hinzutretende Verb im Infinitiv ohne
+"zu" steht, ist nicht zwingend, sondern verdankt sich vielleicht nur
+einer Abschleifung:
+
+Ich schicke ihn Brot einkaufen. Der Kaiser schickt ihn Kolonien
+erobern.
+Ich schicke ihn, Brot einzukaufen. Der Kaiser schickt ihn, Kolonien zu
+erobern
+Ich schicke ihn, um Brot einzukaufen. Der Kaiser schickt ihn, um
+Kolonien zu erobern.
+
+Wendet man die Sätze ins Passiv, wird dies noch deutlicher:
+
+Er wurde Brot einkaufen geschickt.
+Er wurde geschickt , Brot einzukaufen.
+Er wurde geschickt, um Brot einzukaufen.
+
+Gruß
+Selina

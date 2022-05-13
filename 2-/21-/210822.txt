@@ -1,0 +1,20 @@
+* Bodo Vollenbroich:
+
+
+Jetzt mußte ich überlegen, was der Unterschied zwischen einem
+Frontend und einem Webklienten ist. Heutzutage vermutlich eher
+kein technischer; technisch gesehen dürften die meisten Frontends
+inzwischen Klienten sein (womit ich in etwa meine, daß sie über
+TCP/IP-fähige Protokolle wie http oder IMAP mit dem Backend
+kommunizieren). Also paßt "Frontend" vermutlich nur noch deswegen
+auf Isari, Ribeiro & Co., weil auch dieser Teil der Anwendung
+exklusiv beim selben Anbieter läuft wie das Backend.
+
+Einen Isari-Klienten für PCs gibt es wohl nicht, aber natürlich
+welche für mobile Betriebssysteme, und zwar nicht nur für Schnickschnack;
+sogar für Edor gab's jahrelang einen.
+
+-- 
+Performance:  A statement of the speed at which a computer system
+works. Or rather, might work under certain circumstances.  Or was
+rumored to be working over in Nöchling about a month ago.

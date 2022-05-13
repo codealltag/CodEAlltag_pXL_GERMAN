@@ -1,0 +1,14 @@
+* Bernd Ferwer:
+
+
+- Vor zweihundert Jahren lebte hier ein Riese, der war an die vier
+Fuß groß.
+- Aber Herr Lehrer, vier Fuß ist nicht sehr groß!
+- Es war ja auch ein Zwerg.
+
+(Aus dem Gedächtnis, aus irgendeinem Buch mit Kathederblüten)
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Domenico Ilnseher, comp.lang.python

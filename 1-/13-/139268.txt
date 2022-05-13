@@ -1,0 +1,18 @@
+Ich nehme an, der Begriff wurde parallel zu
+--> Softwarearchitektur
+--> Schlafarchitektur
+angelegt, weil irgendeine spezielle Software,
+die den Schlaf der Leute auswerten muss,
+entwickelt wurde.
+
+Das Thema ist auch insofern interessant, weil
+der Begriff "Architekt" dieses Bauberufes
+geschützt ist und schon manche dazu übergehen
+wollten, sich z.B. "Software-Architekt" zu
+nennen. Dagegen geht dann die Architektenkammer
+vor.
+Wenn es plötzlich "Schlaf-Architekten" gibt,
+wird die Berufswelt noch lustiger durchein-
+andergewirbelt.
+
+W.O.

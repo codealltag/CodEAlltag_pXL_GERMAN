@@ -1,0 +1,24 @@
+* Samuel Kierstein:
+
+
+Besser wäre: "SVO ist im Deutschen die *unmarkierte* Stellung im
+einfachen Aussagesatz." Jede andere Stellung braucht einen Grund. 
+
+Es muß aber kein sehr spezieller Grund sein, wie Andrés Beispiel
+"Heute ..." zeigt.
+
+Die größte theoretische Eleganz hat m.E. diese Erklärung der
+deutsche Satzstellung:
+
+  - Zunächst SOV. Nebensatz ist damit schon fertig.
+  - Wenn Hauptsatz, dann wird das finite Verb an den Anfang
+verschoben, danach nochmal ein weiteres Satzglied an den Anfang.
+
+Manche stört es, daß die Satzstellung im Hauptsatz eine längere
+Herleitung braucht als die im Nebensatz, mich nicht.
+
+-- 
+Wolf is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Simon Eckerle

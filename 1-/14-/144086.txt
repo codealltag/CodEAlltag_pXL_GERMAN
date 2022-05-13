@@ -1,0 +1,9 @@
+Mir wurde vor kurzem erklärt, dass es eigentlich "else falle" heißen =
+müsste.
+Also wenn eine Bedingung nicht zutrifft oder einen unwahren Wert bringt, =
+
+'sonst' die andere eintrifft.
+War mir erklärlich.
+
+
+Teresa

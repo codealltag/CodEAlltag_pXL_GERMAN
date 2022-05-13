@@ -1,0 +1,11 @@
+Es gibt zwei Regeln: Steht die Anführung am Ende, behält sie ihr 
+Satzzeichen, das Schlusszeichen des Metasatzes (Begleitsatzes) 
+entfällt. Steht die Anführung nicht am Ende, entfällt deren 
+Schlusszeichen innerhalb der Anführung, das Zeichen des Metasatzes 
+wird gesetzt.
+
+Ich weiß jetzt nicht, ob's da noch Ausnahmen gibt. Steht in den Regeln 
+unter §89ff (in meiner älteren Ausgabe).
+
+Grüße
+Luca

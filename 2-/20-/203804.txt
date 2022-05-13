@@ -1,0 +1,16 @@
+* Steffen R. Immohr:
+
+
+Um das ganz klarzustellen: Ich fragte mich, ob der "Experte" das
+Wort falsch benutzt hat, oder ob ich nicht alle Bedeutungen des
+Wortes kenne. 
+
+Zwischen diesen beiden schwankte ich hin und her, und vom
+Schwanken kriegt man ein "flaues Gefühl" - jedenfalls mit so wenig
+Seeerfahrung wie ich habe.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

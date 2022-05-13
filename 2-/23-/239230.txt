@@ -1,0 +1,24 @@
+Ups. Sollte die Vordergrundfarbe sein (ich war zuerst natürlich
+gründlich und habe beides auf weiß gesetzt, dann wollte ich mich kurz
+fassen und habe das falsche weggelöscht).
+
+                      ^^^^^^^
+		      Wir reden hier eigentlich von Mail. (Ja, genau der
+gleiche Lapsus ist mir kürzlich auch unterlaufen :-/).
+
+
+Hmm, den Browser und/oder Mailer, der zwar CSS, aber keine
+HTML-Kommentare versteht, möchte ich sehen.
+
+
+Der Trick mit Vordergrundfarbe = Hintergrundfarbe hat den Vorteil, dass
+man den Text einfach durch markieren sichtbar machen kann. Bei
+Kommentaren oder display:none geht das nicht. (Ein kleiner Hinweis, dass
+da versteckter Text ist, wäre natürlich auch sinnvoll: Vielleicht die
+die Farben nicht ganz gleich, oder einen dezenten Rahmen rundherum ...)
+
+	hp
+
+
+-- 
+   _  | Torsten W. Averdung    | Fluch der elektronischen Textverarbeitung:

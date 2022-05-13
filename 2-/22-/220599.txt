@@ -1,0 +1,14 @@
+* Knut Trifellner:
+
+
+Für unsere Klubtreffen gibt es zwei Regeln:
+
+  1. Ein Treffen findet am 3. jedes Monats statt, der auf r endet.
+  2. Außerdem findet ein Treffen am 3. eines Monats selbst dann
+       statt, wenn dieser Monat nicht auf r endet.
+
+Früher war das einfacher, da gab es nur Regel 1.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Charles Brücklmeier

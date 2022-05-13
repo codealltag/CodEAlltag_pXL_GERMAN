@@ -1,0 +1,24 @@
+^,
+
+Das Problem im von dir zitierten Satz ist, dass "Touristen" sowohl
+Nominativ als auch Dativ sein kann, und erst bei längerem Überlegen
+erschließt sich dem Leser, wer da wem etwas rät.  Deine Vorschläge sind
+deutlich weniger unklar; das liegt aber (im zweiten Vorschlag) nicht (nur)
+am Komma, sondern vor allem auch daran, dass du den Infinitiv durch
+"sollen" ersetzt hast, wodurch der Sinn subtil verändert wird - die
+Artenschützer raten den Touristen selber nichts mehr, sondern sie gene
+nnur ganz allgemeine Ratschläge; diese Version könnte je nach Kontext auch
+bedeuten, dass die Artenschützer etwa einem Bundestagsausschuss
+Empfehlungen geben, was der den Touristen dann vorschreiben soll. 
+
+Durch Einfügen von Artikeln u.Ä. wird auch deine erste Variante noch besser
+deutbar: "Zoll und Artenschützer raten den/allen Touristen, ..." ; hier
+ist keine Verwechslung von Dativ und Nominativ mehr möglich. 
+
+"Produkte *aus* Tieren" klingt für mich seltsam.
+
+Philipp
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

@@ -1,0 +1,11 @@
+* Urs Testrut:
+
+
+Ein Hund ist natürlich kein Teil eines Säugetiers, aber die Klasse
+"Hunde" ist Teil der Klasse "Säugetiere". Diese Relation nennt man
+wohl nicht /pars pro toto/, da war ich auf einem falschen Dampf-
+schiffahrtsweg.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

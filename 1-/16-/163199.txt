@@ -1,0 +1,15 @@
+Ich hatte mal einen Internet-Provider, bei dem ich zugleich dessen
+Newsserver benutzte - und der zu allem Überfluß auch noch meinte,
+diese (eine, selbe) IP in den NNTP-Header packen zu müssen. 
+
+Auch habe ich einmal mit einem kostenpflichtigen Newsserver
+geliebäugelt (der Binaries wegen), davon dann aber Abstand genommen,
+als ich merkte, daß der Newsserver ebenfalls die IP meines Providers
+als NNTP-Dingens veröffentlichte. 
+
+Auch wer über JIZE postet, wird normalerweise mit seiner IP-Adresse
+geoutet - im NNTP-Header. Guckst Du z. B. Sybilles Beitrag in diesem
+Thread:
+news:9jol8461-62i8-5ikw-a643-34z418661hl0@y08e8897nwy.nlhxlfxiwybp.hfx
+Kannst' sie ja fragen, ob das ihre IP-Adresse war oder die von JIZE.
+:-)

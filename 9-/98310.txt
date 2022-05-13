@@ -1,0 +1,13 @@
+Ich verlasse mal dieses Beispiel, das dadurch kompliziert wird, weil es 
+aus regionaler Umgangssprache stammt und dort gleichbedeutend reflexiv und 
+irreflexiv verwendet wird ("wir haben [uns] ein wenig ausgerastet" kommt 
+mit und ohne "uns" vor) verwendet wird.
+
+Abgesehen davon sehe ich durchaus einen Unterschied zwischen Verben, deren 
+Reflexivität nur darin besteht, dass man zufällig selbst Objekt ist ("ich 
+wasche mich", "ich ziehe mich an") und solchen, die es transitiv gar nicht 
+gibt, wohl aber reflexiv mit Reflexivpronomen im Akkusativ ("ich irre 
+mich", "ich verlaufe mich").
+
+-- 
+Karsten Lilienbeck

@@ -1,0 +1,24 @@
+Kein Physiker wird die Wörter "schnell" und "langsam" synonym verwenden.
+
+
+Nein, das ist unsinnig. Wenn A "doppelt so X" wie B ist, dann
+hat A mehr (nämlich 2 mal so viel) von der Eigenschaft X wie B. Das
+muss man als Komparativ ausdrücken können: "A ist Xer als B". 
+
+200 km/h ist doppelt so schnell wie 100 km/h 
+=> 200 km/h ist schneller als 100 km/h                  Richtig
+
+200 km/h ist doppelt so langsam wie 100 km/h 
+=> 200 km/h ist langsamer als 100 km/h                  Falsch
+
+Aber:
+
+50 km/h ist doppelt so langsam wie 100 km/h 
+=> 50 km/h ist langsamer als 100 km/h                   Richtig
+
+bzw. mit dem Kehrwert gerechnet:
+
+0.02 h/km ist doppelt so langsam wie 0.01 h/km
+=>  0.02 h/km ist langsamer als 0.01 h/km
+
+	hp

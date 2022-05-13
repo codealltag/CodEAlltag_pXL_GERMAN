@@ -1,0 +1,14 @@
+Das verstehe ich nicht. Ich entferne den Text:
+
+Es gibt 5 Zeilen. Hier sind die ASCII-Koden:
+
+1.  32  32  95  95  95  95  95  32  32  95  32  32  32  95
+2. 124  95  95  32  95  95 124 124  32 124  32 124  32 124
+3.  32  32  32 124  32 124  32  32 124  32 124  95 124  32 124
+
+Zeile 4. und 5. stehen schön unter 3.
+3., 4. und 5. sind 1 Byte länger als 1. und 2.
+
+-- 
+Cédric
+http://sydmuu.ekgepspwdh.sv/		J.N. Köbig: http://iwohds.xu/

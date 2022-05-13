@@ -1,0 +1,10 @@
+Soweit ich weiß, wird aa als ASCII-Äquivalent für å verwendet,
+so wie ss für ß im Deutschen, entsprechend auch ae/ä, oe/ö,
+natürlich nicht ue/ü. Ist aber relativ wenig verbreitet: ein
+schwedischer Kollege hat das ö in seinem Namen mal in
+oe transkribiert - die Deutschen verstanden ihn, den meisten
+Schweden musste er es erst erklären. Gängiger ist wohl
+das einfache Weglassen der Punkte. 
+Vgl auch "nebenan" Pascal Holdenrieder ;-)
+
+/Maximilian

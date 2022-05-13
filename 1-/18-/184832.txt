@@ -1,0 +1,14 @@
+Bei manchen Leuten wäre es vielleicht nicht schlecht, wenn sie ihre
+Kommentare kommentieren würden ;-).
+
+Aber die Frage, was mit "alles" gemeint ist, bleibt. Man kann natürlich
+zu jeder Zeile (oder gar zu jedem Token) einen Kommentar dazuschreiben.
+Damit hat man dann "alles" kommentiert, nur sind leider 99% der
+Kommentare vollkommen überflüssig, weil sie nur genau das in anderen
+Worten wiedergeben, was ohnehin schon als Code danebensteht.
+Andererseits sind dann genau die Dinge, die nicht offensichtlich sind,
+nicht dokumentiert: Was soll der Code tun, wie soll er verwendet werden,
+wie sehen die Datenstrukturen aus, was hat sich der Programmierer dabei
+gedacht.
+
+	hp

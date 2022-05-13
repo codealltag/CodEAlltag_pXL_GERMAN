@@ -1,0 +1,8 @@
+* André Austenfeld:
+
+
+tinyurl habe ich so eingestellt, daß er mir die vollständige URL
+präsentiert und dann erst auf Knopfdruck weiterleitet.
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

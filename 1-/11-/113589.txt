@@ -1,0 +1,9 @@
+Bei unserer Firma heißt es "Ich deploye, du deployt, er deployt, er hat
+deployt, das Tool wird deployt".
+
+Aber eigentlich sagen wir lieber "ausgerollt".
+
+(Zum "Verteilen" sehe ich einen kleinen Unterschied: Ich würde zum
+"Deployment" auch noch die Vorbereitung der Verteilung zählen).
+
+Lars

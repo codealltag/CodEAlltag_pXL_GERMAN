@@ -1,0 +1,40 @@
+Einverstanden; es geht meistens um zukünftige Posten, aber nicht
+unbedingt. Die Entscheidung kann intern auch schon gefallen sein, und
+man weiß es nur nicht.
+
+
+So kenne ich es eben nicht (wenn ich Dich richtig verstanden habe).
+
+
+Diejenigen, bei denen jemand als XY gehandelt wird, wissen das nur
+gerüchteweise, und sind nicht diejenigen, die entscheiden, ob dieser
+Jemand wirklich XY ist oder wird. Das ist das eigentliche Problem, das
+ich mit Deiner Formulierung habe. 
+
+Nochmal einfacher: "Bei den A werden die B als X gehandelt" heißt für
+mich: "Bei den A geht das Gerücht um, die B seien X." Das heißt aber,
+daß die A es nicht genau wissen, weil das von den C entschieden wird.
+
+Ein wenig anders funktioniert: "wird als Favorit gehandelt". Die
+Formulierung besagt, daß man (die öffentliche Diskussion z.B.) jemanden
+für einen Favoriten hält - also kein Gerücht. Aber auch hier gilt:
+diejenigen, die darüber reden, sind nicht die, die bestimmen, ob
+derjenige gewinnt. Die Jury kann niemanden "als Favoriten handeln",
+sondern höchstens behandeln. Vielleicht ist dieses Beispiel erhellend.
+
+Noch ein wenig anders: "RFID wird als Zukunftstechnologie gehandelt."
+Man vermutet, daß es eine Zukunftstechnologie ist, aber das muß sich
+erst erweisen. Da ist niemand, der das bestimmt. Aber gemeinsam ist
+allen Beispielen, daß diejenigen, bei denen B als X gehandelt wird,
+nicht sicher sein können, ob B wirklich X sind. Sie werden es erst in
+Zukunft sicher erfahren.
+
+Wenn Du damit nicht einverstanden bist, gib doch mal ein paar Beispiele,
+wie Du dieses "als X handeln" so wie in Deinem ersten Satz einsetzen
+würdest.
+
+-- 
+Java is the SUV of programming tools.
+A project done in EinsA will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Gerald Seelmeier

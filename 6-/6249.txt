@@ -1,0 +1,14 @@
+Ich bin dafür, das Thema so lange zu vertagen, bis die meiner Meinung
+nach im Deutschen völlig falsche Verwendung von "transparent" im
+gleichen Fachgebiet verschwunden ist.
+"Dediziert" wird von einem Nicht-Esotheriker evtl. nicht verstanden,
+während "transparent" als sein Gegenteil verstanden wird:
+
+A: "Dann rufst du $Funktion auf und erhältst $Antwort. Der Vorgang ist
+für dich völlig transparent."
+B: "Was passiert denn da, wenn ich $Funktion aufrufe?"
+A: "Das geht dich nichts an. Wichtig ist nur, dass du $Antwort" erhältst.
+B: "Vollidiot."
+
+CU
+Franks

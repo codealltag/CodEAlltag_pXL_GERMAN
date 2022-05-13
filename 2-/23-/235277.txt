@@ -1,0 +1,6 @@
+Richtig, habe ich ganz vergessen.
+
+
+Kurrent führt dann aber zu: Alphabet Overflow � Brain Dumped.
+
+-francesca

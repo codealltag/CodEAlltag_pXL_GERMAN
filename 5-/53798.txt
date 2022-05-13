@@ -1,0 +1,13 @@
+Ivo Ihlenfeldt:
+
+
+Es ist ganz einfach:
+
+Rechtsklick im Fenster der Artikelliste auf den Kommentar des zu
+plonkenden -> Scoring und Aktionen ... -> PLONK-Regel hinzufügen. In dem
+sich öffnende Fenster das !markread durch !delete ersetzen und statt des
+Gruppennamens zwischen den rechteckigen Klammern ein * setzen. 
+Das war's auch schon, Virtuosität ist nicht erforderlich.
+
+-- 
+Urban

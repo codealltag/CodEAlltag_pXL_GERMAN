@@ -1,0 +1,15 @@
+Richtig. Ich verstehe Programme, die ich vor 20+ Jahren 
+geschrieben habe, nicht mal mehr MiT den Kommentaren,
+die wir damals übrigens ausführlich zu halten angehalten waren.
+
+Natürlich soll solche Kommentiererei nicht darin ausarten,
+dass nach jeder Zeile (mit maximal 4 Klammerpaaren ;-)
+ein Kommentar stehen muss, aber für den "normalen Leser"
+überraschende Konzepte sollte man schon erläutern. Und
+gerade der einen Verarbeitungsblock einleitende Kommentar
+kann da sehr hilfreich sein. Wenn man auch zunächst nicht 
+versteht, wie etwas im Einzelnen gemacht wird, erfährt man
+zumindest erst mal, WAS gemacht wird, und kann sich dann
+bei Bedarf in die Details der Umsetzung einarbeiten.
+
+/Gilles

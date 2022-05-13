@@ -1,0 +1,4 @@
+Im Fall "programmiert" läuft ein Programm ab, das den Streit steuert. Im 
+Fall "vorprogrammiert" läuft ein Programm ab, das den Streit hervorruft.
+
+Kurt

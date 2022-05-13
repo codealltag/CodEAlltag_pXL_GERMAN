@@ -1,0 +1,12 @@
+Beide Varianten funktionieren aber nicht mit Standard-ASCII sondern
+erfordern UTF-8. Das wäre an sich nicht weiter falsch, scheint mir aber
+etwas viel Aufwand für drei Punkte.
+
+
+Ciao
+Oana
+-- 
+ Pure Vernunft darf niemals siegen
+ Wir brauchen dringend neue Lügen
+ Die uns den Schatz des Wahnsinns zeigen
+ Und sich danach vor uns verbeugen                   [Tocotronic]

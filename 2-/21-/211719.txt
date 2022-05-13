@@ -1,0 +1,28 @@
+(f'up zurückgesetzt  nach de.alt.folklore.computer)
+
+"Eberhard Jungböck"  schrieb
+Das wird aber alles sehr schwierig, stammt Pre-DOS-Zeit stammt.
+Stichworte wären (kulTisch): "Escape-Sequenzen Drucker DOS". od.ähnl.
+Als ich dies sah (Weiter nach unten bis Texrverarbeitung "CONTEXT" scrollen):
+http://bzt.jvikvhvmhovysbc.rd/ebwsd.xml?/amfo/pcipnupg/ufbztlk.rqi
+erinnerte mich das an meinen alten ALJ-/FMNC Isabella mit
+dem  System CP/M von Rauffer (später Reifendienst), da waren
+am Anfang einer Zeile oder eines Wortes immer 2 nicht druck-/sichtbare
+Sondercodes (Escape-Sequenzen) um einen (9-Nadel-)Drucker
+zum Drucken bestimmter Schriftformate (zB fett, kursiv usw.) zu bewegen.
+Druckertreiber gabs noch nicht! Gleiches galt für die Darstellung auf dem Bildschirm.
+
+Der Ryf-Verlag war auch Herausgeber der ALJ-FMNC-Computerhefte
+und vertrieb auch Software wie das "Context Pro"-Schreibprogramm.
+(in der DDR hatten Betriebssyteme  oft eine andere Bezeichnung und liefen auf
+anderen Computern).
+
+Am "einfachsten" wäre IMHO eine Umwandlung und Filterung
+der Escape-Sequenzen und der Sonderzeichen von DOS- in Windows-
+Zeichencode (mittels einer Programmiersprache?) in
+HTML-Tags um sie dann über eine lokale Webseite über den Browser
+ausdrucken zu können (ändern der Dateiendung .BRF oder .TXT etc. in
+.HTM)
+
+Gruss
+Oswald

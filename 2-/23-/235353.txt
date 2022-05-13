@@ -1,0 +1,35 @@
+* Silvio Oeljeklaus <abbv@ezrmf-xkkup.lh>:
+
+Wir hatten im Gymnasium (alpha, beta, gamma, pi vielleicht vorher, kann
+mich nicht erinnern):
+
+  alpha, beta, gamma, delta     Winkel im 3eck, 4eck
+  Delta                         Differenzen
+  epsilon                       kleine Zahl
+  lambda                        Wellenlänge
+  mu                            Dezimalvorsilbe
+  pi                            3.14
+  rho                           Dichte
+  Sigma                         Summenzeichen
+  phi                           Winkel z.B. bei Polarkoordinaten
+  omega                         Winkelgeschwindigkeit
+  Omega                         Ohm (Widerstand)
+
+Also schon mal mehr als die Hälfte.
+
+Uni:
+
+  xi, eta, \varsigma            Analysis, phys. Chem.
+  theta                         Bestimmte Winkel, Röntgenbeugung
+  sigma, chi                    Statistik
+  Pi                            Multiplikationszeichen
+  Psi                           Quantenmechanik
+  tau                           Zeitkonstante (E-Technik)
+
+iota, kappa, omikron, ypsilon und viele Grossbuchstaben sehen
+(fast) gleich aus wie lateinische Buchstaben und wurden deshalb nicht
+verwendet. Ich erinnere mich klar, nu in Form eines v mit Schlenker
+geschrieben zu haben, weiss aber nicht mehr, wofür.
+
+
+ - Werner

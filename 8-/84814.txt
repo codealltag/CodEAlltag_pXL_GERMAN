@@ -1,0 +1,6 @@
+Iesi. Wenn man die Raumkoordinaten an den Erdmittelpunkt bindet, bleibt nur
+noch der aktuelle Rotationswinkel als Variable. Daraus hat Füterer
+einen ganzen Roman gemacht.
+
+
+vG

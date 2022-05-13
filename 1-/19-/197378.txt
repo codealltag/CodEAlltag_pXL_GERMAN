@@ -1,0 +1,26 @@
+Am 15.08.2011 19:27, schrieb Francesco Gerstlohner:
+...
+...
+
+Nein, das haben die Amis Pius getauft, ShowCaret() heisst z.B. so ein 
+Befehl.
+
+
+Das Caret wird beim Schreiben weitergeschoben, der Cursor bleibt
+zunächst wo er ist.
+
+
+In einem Zeichenprogramm braucht man einen Cursor, aber meistens kein 
+Caret, es sei denn man benutzt gleichzeitig eine Textbox.
+
+Im B�roalttag oder in einem Volkshochschulkurs ist das egal, aber in 
+einem Programmierkurs (siehe ganz oben) kann das nicht egal sein.
+
+Deshalb plädiere ich dafür, diese Begriffe so zu benutzen, wie sie die 
+Amis eingeführt haben, die waren auf diesem Gebiet nun mal federführend.
+Die Amis übernehmen gelegentlich ja auch von uns kreierte Begriffe, 
+"Gedankenexperiment" ist so ein Beispiel. Handy werden sie auch noch 
+übernehmen.
+
+Gruß
+V.H.

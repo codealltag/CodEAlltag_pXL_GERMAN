@@ -1,0 +1,14 @@
+Bitte, Fringsche Logik halte ich heute nicht aus!
+
+1) X liest primär nur mit.
+2) Auf offenkundige Provokationen reagiert W.
+------------------
+Schluß: W liest mit, um zu widersprechen.
+
+Klassischer Fehlschluß, weil keine der beiden Prämissen eine Aussage
+über die Motivation des Mitlesenden trifft. Prämisse 2) sagt aus,
+unter welcher Bedingung X *antwortet* (nicht: mitliest).
+
+Weil mit dem Fehlschluß zugleich die Prämisse für Deine weiteren
+Schlüsse in Richtung "Existenz" der NG gefallen ist, braucht man diese
+nicht gesondert zu widerlegen.

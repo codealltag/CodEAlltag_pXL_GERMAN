@@ -1,0 +1,8 @@
+Das Beispiel passt nicht. Der Wert von π ist schließlich nichts, was aus 
+einem physikalischen, sondern aus einem mathematischen Prinzip folgt.
+
+Arian
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

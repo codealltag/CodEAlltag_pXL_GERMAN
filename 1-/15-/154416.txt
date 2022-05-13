@@ -1,0 +1,8 @@
+Bestehen geringste Zweifel, dass "das" das Militär ist? Bei als Klammer 
+getrennten feststehenden Verbkonstruktionen wie "die Stirn bieten" plant 
+der Parser einen Schachtelbezug bei nachfolgenden Relativsätzen 
+vorsorglich ein.
+
+-- 
+
+Gérard Jesper

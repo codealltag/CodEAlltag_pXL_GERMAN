@@ -1,0 +1,14 @@
+* Marcus Wolleben:
+
+
+Das macht Dialog so, muß man sonst von Hand korrigieren: in der
+ersten Ebene wird "> " davorgesetzt, wo schon Quote war, nur
+">". 
+
+Warum macht man sowas? Ich denke mir, normalerweise kommt es 
+nicht drauf an, und die Alternative finde ich in der Tat häßlich
+und unübersichtlich:
+
+
+-- 
+Leon

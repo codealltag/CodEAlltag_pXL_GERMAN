@@ -1,0 +1,56 @@
+Heino Massimo beliebte zu schreiben :
+
+Zuerst einmal vorab nachfragen, was denn gewünscht wird und wie's
+aussehen soll. Und dann bittschön auch an diese Vorgaben halten. Und vor
+allem die Textverarbeitung nicht wie eine Schreibmaschine benützen, so
+mit harten Zeilenumbr�cken und mit "Leerzeichentabulatoren"!
+
+Zumindest bei den Verlagen, für die ich gearbeitet hab, wurde am meisten
+goutiert:
+
+-- *Eine* Textdatei, in der alle Teile des Haupttextes in der richtigen
+Reihenfolge bereits zusammengefügt sind, aber ohne Bilder und ohne
+Bildunterschriften.
+Im Text jeweils als einzelnen Absatz einen Hinweis, wohin ungefähr die
+jeweilige Abbildung kommen soll (also "abb_nnn" oder so) -- *genau*
+dorthin, wo der Autor sie möchte, geht's häufig eh nicht, aber auf die
+richtige Doppelseite sollte sichs meistens ausgehen.
+Einzüge nicht händisch mit Leerzeichen machen, sondern mit Tabulatoren
+oder am besten mit einem Absatzformat definieren.
+Tabellen nicht ohne vorherige Absprache mit der Tabellenfunktion von
+Hannes basteln.
+
+-- Sehr angenehm ist es, wenn Überschriften nicht im Wad formatiert
+werden, sondern -- wie früher -- am Anfang ein Hinweis "Ö1", "ß2" usw
+steht; das kann der Hersteller nämlich fast automagisch in ein Format
+umwandeln, das dem speziellen Absatz zugewiesen wird.
+
+-- Tabellen, Grafiken etc. grundsätzlich nur in Absprache mit dem
+Hersteller liefern, und bitteschön immer *einzeln* und immer *mit* den
+zugrundeliegenden Daten. Was nämlich im Eksel (oder, horribile dictu, im
+Bauernboint) und von demselben ins Wad eingebunden auf dem Bildschirm
+des Autors wunderschön klickibunti ausschaut, besteht in der Regel aus
+RGB-Farbtönen, die sich im Druck nicht sauber wiedergeben lassen -- und
+das muss entsprechend umgedengelt werden.
+
+-- Bilder nicht ins Wad einbasteln, sondern (nach Absprache mit dem
+Hersteller) einzeln, wohlsortiert und brauchbar benannt (also nicht
+"hugo442" oder "xsy23784kjf.jpg" benennen, sondern "abb_001.tif" usw.
+bezeichnen) in der richtigen (=hinreichend hohen) Auflösung und nicht
+als Dscheip�x anliefern.
+
+-- Bildunterschriften als getrennte Textdatei, aber in der richtigen
+Reihenfolge und tunlichst mit einem Hinweis auf das zugehörige Bild (am
+Anfang einer jeden Bildunterschrift ein "abb_nnn" einfügen, dann lässt
+sie sich gut zuordnen).
+
+-- Weblinks einfach in den Text hineinschreiben und im Wad bitte das
+automatische "Scharfmachen" von Webadressen ausschalten...
+
+Damit ist man in jedem Fall auf der sicheren Seite
+Und wer nicht M$ Offies verwendet, sondern was anderes, für den gelten
+mutatis mutandis (1) genau dieselben gesagten Dinge.
+
+Mathias
+-- 
+(1) Mutatis mutandis = dopo aver cambiato le mutande

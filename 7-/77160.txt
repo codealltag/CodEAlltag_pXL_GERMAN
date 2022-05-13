@@ -1,0 +1,38 @@
+Sinngemäß ist es richtig; da sich durch die Übersetzung aber die
+logische Struktur ändert, müssen alle sich auf diesen Satz beziehende
+Fragen dann eben auch entsprechend angepaßt werden.
+
+
+Du mußt einsehen, daß "Keiner fand den Beitrag nützlich." und "n
+Menschen fanden den Beitrag nützlich." unterschiedliche logisch-
+grammatische Strukturen haben. Das eine ist ein verneinte
+Existenzaussage (Es ist nicht der Fall, daß jemand existiert, der den
+Beitrag nützlich fand.) und das andere eine Aussage darüber, wieviele
+Objekte (hier Menschen) unter den Begriff "fanden den Beitrag
+nützlich" fallen.
+Deine Übersetzung bemüht extragramnmatische und extralogische Regeln,
+die dir sagen, daß, wenn 0 Menschen xy taten, dann die Existenz eines,
+der es tat, verneint werden kann. Das ist ok, solange du die logisch-
+grammatische Änderung nicht nur in einem Satz vornimmst, sondern auch
+im Kontext.
+
+Zum Vergleich muß ich mal den guten alten Kohlschmidt bemühen:
+"Der Morgenstern ist derselbe Himmelskörper wie der Abendstern."
+Mit Zusatzwissen kannst du das folgendermaßen übersetzen:
+"Die Velomobile ist derselbe Himmelskörper wie die Venus."
+Hier hat sich die Struktur des Satzes zwar nicht geändert, das
+Beispiel zeigt aber, daß scheinbar selbstverständliche Umformungen
+aufgrund extrasprachlichen Wissens überraschende Ergebnisse zeitigen
+können.
+
+
+Davon, daß ihn jemand nicht nützlich fand, war eben auf grammatischer
+Ebene nicht die Rede, deshalb lautet die vollständige Version der
+Frage "[Fanden] Sie [ihn] auch [nützlich]?"
+Wenn du die Aussage so umformst, daß sie plötzlich von Nichtexistenz
+spricht, wird die Frage sinnlos.
+
+Oder aber, man interpretiert "keiner" als Numeral, dann bleibt der
+Satz: "<numeral> Benutzer fanden diesen Beitrag nütrzlich." und die
+Frage "[Fanden] Sie [ihn] auch [nützlich]?" sinnvoll, *egal* welches
+Numeral jetzt konkret eingesetzt wird.

@@ -1,0 +1,16 @@
+Ja, klingt komisch. Aber doch nicht so komisch, dass es nicht jeder
+versteht. Und das ist in dem Fall das Entscheidende. Es gibt zudem keine
+mir bekannten Regeln für die Aussprache von URLs. Da die aber mit dem
+Minuszeichen geschrieben werden, ist es nur sinnvoll, das Minuszeichen
+auch als solches auszusprechen. Es ist vor allem richtiger als
+'Bindestrich'. Denn diese Aussprache /könnte/ bedeuten, dass das Zeichen
+'Ascii 150' verwendet werden soll. Dass eine damit geschriebene URL zum
+gewünschten Ziel führt, wage ich zu bezweifeln.
+
+
+Ciao
+Katia
+-- 
+Saying that Java is nice because it works on all OS's is like saying
+that anal sex is nice because it works on all genders.
+[Unknown from the internet]

@@ -1,0 +1,17 @@
+Kein Symbol, aber ein Index. Spricht man von Kodierung nur bei Ikonen 
+und Symbolen, nicht aber bei Symbolen? Warum?
+
+Ist das Problem beim Kaffe nicht eher die Tatsache, dass ein 
+physikalischer Prozess keine Nachrichten aussendet, und dass du deshalb 
+diese Begrifflichkeit hier nicht anwenden willst?
+
+
+Was sind in dieser Diskussion eigentlich Nachrichten? Als Mathematiker 
+kann ich es mir ja einfach machen und halt sagen, eine Nachricht ist 
+eine endliche Zeichenfolge über ein Alphabet (was wiederum eine 
+beliebige endliche Menge ist), und eine Kodierung einer Nachricht ist 
+eine invertierbare Funktion, die Zeichenfolgen auf irgendwelche anderen 
+Zeichenfolgen abbildet. Aber das ist wohl nicht das, woran bei Kaffee 
+und Zungenkuss gedacht wird.
+
+Oswald

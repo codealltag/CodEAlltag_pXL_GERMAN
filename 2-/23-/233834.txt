@@ -1,0 +1,4 @@
+Wenn zuvor ein "Send"-Button zu druecken ist,
+ist es ein Nachkommen, das vorkommt.
+
+N.J.

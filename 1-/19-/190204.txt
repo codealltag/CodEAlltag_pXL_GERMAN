@@ -1,0 +1,9 @@
+Weil der ferne (der Server) typisch in der Hierarchie
+über dem lokalen (dem Client) steht.
+
+Master-Slave darf man ja nicht mehr sagen, aber
+Client-Server ist noch erlaubt. (Ja, ich weiß, dass das
+ein anderes Komzept ist - aber die hierarchische
+Einstufung oben-unten haben sie gemeinsam.)
+
+/Gunter

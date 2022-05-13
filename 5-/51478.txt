@@ -1,0 +1,7 @@
+Nur das ASCII-Zeichen Gravis (`) wird benötigt. Der Akut (�) ist kein
+ASCII-Zeichen und wird isoliert nie benötigt. Wer Shell-Programme u.�.
+schreibt, wird den Gravis sicher auch finden, wenn er mit AltGr
+geschrieben werden muss.
+
+-- 
+Jetzt überall in Deutschland: Akzente des Grauens

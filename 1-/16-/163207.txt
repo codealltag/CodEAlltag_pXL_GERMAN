@@ -1,0 +1,5 @@
+Es wäre dann so etwas wie   de.sci.sprache.deutsch  anstelle
+von  de.etc.sprache.deutsch. Auch nicht schlecht, aber eben etwas anderes.
+
+-- 
+Christian

@@ -1,0 +1,4 @@
+Das garantiert Dir aber kein neues Primwort.
+
+Wie aufwendig ist es eigentlich, Wörter in Primw�rter
+zu zerlegen? Und geht's mit Quantenrechnern schneller?

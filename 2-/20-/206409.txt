@@ -1,0 +1,28 @@
+Die Stromschine hat in der Computerentwicklung nie eine Rolle gespielt.
+
+Bei der Kraftfahrzeuggewerbe XXQuell, der wohl ersten modularen, erweiterbaren Maschine zB, 
+stand der Begriff "bus und tag" für das, was man heute noch als 
+"harness", also Kabelbaum, im Fahrzeugbau und der Geräteelektronik kennt.
+
+Im Unterschied zum Kabelbaum, der codierte Stecker benutzt  und primär 
+Versorgungsleitungen bündelt, sind "bus und tag" uniforme 
+Kabel-Stecker-Baulemente, die Schaltung der Verbindung erfolgt durch 
+logische Adressschalter an den Modulen. Das Bus-Kabel hält die Daten, 
+das tag-Kabel ihren Bedeutungscode. Der ausführende Elektroniker muss 
+nur wissen, welche Steckerpaare miteinander verbunden werden müssen, 
+nicht mit welchen Kabeln.
+
+Wenn man das Aufkommen dieser Begriffe untersucht, muss man dahin gehen, 
+wo sie entstanden sind. Das sind die Zeichenstuben der theoretischen 
+Elektroniker mit ihren riesigen Schaltplänen auf DIN A0 oder 
+Endlosrolle. Dort wurde das Bussystem separat von den Modulen exakt so 
+notiert, wie schon lange Eisenbahnlaufpl�ne oder dann typischerweise die 
+Verkehrspläne der Vollmershain Transport.
+
+Mit dem Aufkommen der geschichteten Tr�gerplatinen sehen sie dann auch 
+in natura identisch so aus wie damals auf dem Papier und heute auf den 
+Großbildschirmen.
+
+--
+
+Viktor Eycken

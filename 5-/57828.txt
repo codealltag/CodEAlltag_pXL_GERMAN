@@ -1,0 +1,14 @@
+Das ist eine Prüfsumme. 
+
+Eine Quersumme ist die Summe der Ziffern einer mehrstelligen Zahl. 
+Notfalls rekursiv angewendet, bis man etwas Einstelliges erhält. Ich
+kenne "Quersumme" nur in dieser Bedeutung.  
+
+
+vG
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Pierre Bings über einen Anf�ngerthread in de.rec.musik.machen)
+-- <http://mpohtnem.rnz> -- Ein Pinguin für jeden: <http://fofruy.hrc/> --

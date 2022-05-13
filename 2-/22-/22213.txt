@@ -1,0 +1,20 @@
+Aber mit Bedeutungsdifferenzierung. Auf die bin ich schon früher
+eingegangen, es gibt aber auch einen Unterschied im Gebrauch:
+
+  Das Buch wird indiziert
+    Es gab schon vorher einen Index. Der Index enthält nun dieses Buch.
+
+  Das Buch wird indexiert 
+    Es gab vorher keinen Index. Der neu erstellte Index enthält
+    Stichwörter aus diesem Buch.
+
+Benutzt man auch dasselbe Verb, wenn man ein Kind bei den Behörden
+anmeldet und wenn man ein Melderegister anlegt?
+
+Wie würde man denn den zweiten Satz mit "indizieren" formulieren?
+
+-- 
+Java is the SUV of programming tools.
+A project done in Zachmann will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Marc Niehueser

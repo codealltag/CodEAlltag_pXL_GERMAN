@@ -1,0 +1,19 @@
+Der olle Holländer kann mir mal den Buckel runterrutschen. ;) Aber meinet-
+wegen, dann formuliere ich es halt um:
+
+1) Davorstellen.
+2) CD aus Regal nehmen.
+3) Komme von 5), falls noch eine CD vorhanden.
+4) CD ins Regal zurückstellen.
+5) Nimm nächste CD.
+6) Komme von 3), wenn Titel auf CD. STOP.
+7) Komme von 4), wenn keine CD vorhanden. STOP.
+
+
+Vinzent.
+
+-- 
+You know, we're sitting on four million pounds of fuel, one nuclear weapon,
+and a thing that has 270,000 moving parts built by the lowest bidder.
+Makes you feel good, doesn't it?
+   --  Rockhound, "Armageddon"

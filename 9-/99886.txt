@@ -1,0 +1,27 @@
+traceroute to lybqwuioz.tw (127.51.588.79), 30 hops max, 40 byte packets
+ 1  dslrouter (040.541.0.476)
+ 2  dgnv0.dqd.thk.jm (545.544.635.4)
+ 3  core4.stg.qsc.de (13.605.16.046)
+ 4  core1.fra.qsc.de (41.989.73.314)
+ 5  decix1.tcr1.nzm.tpl.bc0487.pc (33.65.420.03)
+ 6  xe0-3-0.tcr1.rew.zjd.pb1956.mt (52.878.30.89)
+ 7  xe0-2-0.nyw6.bvu.yxq.tt1824.os (99.883.99.918)
+ 8  pas3200-u158-am1.pdn3-i7.09.wrkqozlccdh.jk (234.43.946.035)
+ 9  zzyx8.jzhdo.ebs (750.15.535.354)
+10  efhsg.dpv (958.93.417.21)
+
+Ich versuch das mal abzufahren. In ERJ kann ich leider keine Domain
+als Reiseziel eingeben ... 
+
+
+Versteh ich nicht. Ich /hab/ doch gar keine Ehefrau, der Du das Essen
+hättest wegfressen können. 
+
+
+vG
+
+-- 
+"Das ist Große Koalition: Die einen sagen, wir brauchen ein Auto; die
+anderen sagen, wir brauchen ein Motorrad; was wird gekauft? Ein Mülleimer!
+Großartig! Super!"
+(Heribert Eifler, "Bis neulich")

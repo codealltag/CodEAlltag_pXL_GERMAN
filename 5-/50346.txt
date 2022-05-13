@@ -1,0 +1,8 @@
+Mir kommt das ganz falsch vor. Die Klammern markieren einen fakultativen
+Teil. Soll ich etwa bei mittigen Klammern gleich zwei Bindestriche
+setzen: "weg(-zu-)lassen"?
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

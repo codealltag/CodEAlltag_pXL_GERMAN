@@ -1,0 +1,8 @@
+"Logisch" ist natürlich ein dehnbarer Begriff, aber m.W. steht auch 
+die 23 dort nur aus sehr spielspezifischen Gründen. Die Werte für die 
+Farbspiele haben hingegen durchaus einen mathematischen Hintergrund, 
+der nur bei den wenigen genannten Zahlen kaum klar werden kann - 
+niedrigere Werte als 18 gab es mal bei den Vorläufern des Skatspiels.
+
+Gruß,
+Timo

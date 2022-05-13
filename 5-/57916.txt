@@ -1,0 +1,14 @@
+Ah, Du hast Marks Frage wohl dahingehend aufgefaßt, ob man von
+einer gegebenen Quersumme wieder auf die Zahl kommen kann, von der
+sie berechnet wurde.  Das geht natürlich nicht, weil die Quersumme
+keine bijektive Funktion ist.  Aber natürlich kann man die Quersumme
+von 8 berechnen (sie ist bekanntlich 8).  Der Fehler lag wohl an
+der Formulierung "mehrziffrige Zahldarstellung" des "Studienrates",
+denn tatsächlich genügt bereits eine einstellige natürliche Zahl zur
+Quersummenberechnung.
+
+
+lukas
+
+PS: Und jetzt widersprich mir nicht, Waltraud!  Ich hab' mir alle
+    Mühe gegeben, Deine mathematische Ehre zu retten!  ;-)

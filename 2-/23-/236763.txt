@@ -1,0 +1,7 @@
+Das heisst ja nur, dass es diese Kontextabhängigkeit in diesem
+Branchenjargon auch gibt. Im gleichen Geschäft, wo man einen Tuner oder
+einen Receiver der vorgenannten Sorte (Hi-Fi-Komponente) kaufen kann, gab
+es zu Analogzeiten Fernseher mit Hyperbandtuner und heute solche mit DVB-T.
+-C oder -S2-Tunern.
+
+ - Severin

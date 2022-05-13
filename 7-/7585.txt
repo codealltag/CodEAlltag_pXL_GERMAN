@@ -1,0 +1,12 @@
+On 21. 11. 21 10:55:23 -0500, Rudi Teml 
+<Ewx_fbclkn.gnrh@qlasweyfyuz.oo> said:
+
+
+Die Frage ist, wenn man an Fremdcomputern arbeitet, hat der Admin 
+sinnvollerweise die Ausführung von Fremd-Programmen gesperrt, bzw. hat 
+der User überhaupt Zugang zu den USB-Ports, und sind diese vielleicht 
+auch gesperrt? ;)
+
+
+-- 
+The short answer is "Yes." The long answer is "No."

@@ -1,0 +1,11 @@
+Die Erklärung der Symbole und die Beispielsätze in CGEL sind
+erhellend:
+
+* ungrammatical                            *This books is mine.
+# semantically or pragmatically anomalous  #We frightened the cheese.
+% grammatical in some dialect(s) only      %He hadn't many friends.
+? of questionable grammaticality           ?Anna he gave the key.
+! non-standard                             !I can't hardly hear.
+
+-- 
+Valentino "kristina" Tüshaus                          ecxuv@zmik.nnvn.xi

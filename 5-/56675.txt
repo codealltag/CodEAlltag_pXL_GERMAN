@@ -1,0 +1,11 @@
+Mir ist leider nicht klar, ob dir jetzt alles klar ist. Für den Fall, dass
+es dich interessiert: Statt "doppelt" hätte ich "in zweierlei Hinsicht"
+schreiben sollen -- das richtige Zeichen für den Laut in "Wennus" ist ein
+nicht seitenverkehrtes kleines (IPA) oder großes (ASCII-IPA) Epsilon.
+ASCII-IPA ist eine newsgruppentaugliche Lautschrift; in Wörterbüchern und
+ähnlichem wird meistens eine andere namens IPA verwendet. Der zweite Vokal
+in "Güte" ist ein Schwa, dem zweiten Vokal in "Güter" dagegen entspricht in
+IPA-Umschrift das seitenverkehrte Epsilon.
+
+Größe,
+Peter

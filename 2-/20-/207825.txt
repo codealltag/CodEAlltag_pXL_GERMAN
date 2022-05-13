@@ -1,0 +1,18 @@
+On Wed, 9 Feb 2013 20:13:45 +0200, Folkert Eikenroth
+
+� 119 Absatz 3 [deutsche] Abgabenordnung
+
+"Ein schriftlich oder elektronisch erlassener Verwaltungsakt muss die
+erlassende Behörde erkennen lassen. Ferner muss er die Unterschrift
+oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder
+seines Beauftragten enthalten; dies gilt nicht für einen
+Verwaltungsakt, der formularmäßig oder mit Hilfe automatischer
+Einrichtungen erlassen wird. Ist für einen Verwaltungsakt durch Gesetz
+eine Schriftform angeordnet, so muss bei einem elektronischen
+Verwaltungsakt auch das der Signatur zugrunde liegende qualifizierte
+Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die
+erlassende Behörde erkennen lassen."
+
+-- 
+Viele Größe
+Ulfert Kitzeder

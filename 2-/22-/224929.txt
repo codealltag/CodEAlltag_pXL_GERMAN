@@ -1,0 +1,17 @@
+Doch, da haben die Erbrechenden Landtratten dann doch mal recht.
+
+Die Wasserwellen gehorchen einer nichtlinearen Wellengleichung, darum 
+sind die Täler auch breiter als die Kämme.
+
+Eine Welle bricht, wenn bei zunehmender Wellenhöhe die cahrakteristische 
+Geschwindigkeit des Kamms die des Wellentals übertrifft und die vordere 
+Flanke zur Stufe entartet.
+
+Bei stetig abnehmender Wassertiefe geschieht das sozusagen automatisch 
+durch Abnahme der Phasengeschwindigkeit, die allein von der Wassertiefe 
+abhängt. Energie und Impuls konzentrieren sich dann in den 
+überschlagenden Brechern.
+
+-- 
+
+Edmund Dangel

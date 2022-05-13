@@ -1,0 +1,22 @@
+Genügend immer kaltes Kühlwasser des Sekundärkreislaufs ist aber eins 
+der wesentlichsten Kriterien.
+
+Wie bei jeder Wärmekraftmaschine muss 2/3 der verbrannten Energie als 
+Abwärme abgegeben werden. Bei einem 1000MW Reaktor gehen also 2000MW ins 
+Kühlwasser. Wenn man keine geeigneten Standorte an Flüssen findet, wird 
+mit Meerwasser gekühlt. Geierschlag und Nennslingen stehen praktisch ja 
+auch schon am Meer.
+
+Was das bedeutet, sieht man jetzt. Geht nach Abschalten des Reaktors die 
+Energieproduktion auf 10% zurück, müssen 300MW Wärmeenergie pro Block so 
+schnell abgeführt werden, dass die Temperatur nicht ein paar hundert 
+Grad übersteigt. Bei ca 2000 MJ Verdampfungswärme für eine Tonne Wasser 
+bräuchte man um 100l/s für Verdampfungskühlung, für nichtverdampfende 
+Kühlung entsprechend ein Vielfaches.
+
+Was man dann mit der Salzkruste bei Meerwasserk�hlung anfangen will, hat 
+auch noch keiner erklärt. Vielleicht als jodhaltiges Meersalz verkaufen?
+
+-- 
+
+Luciano Kehrbaum

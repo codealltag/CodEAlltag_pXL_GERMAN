@@ -1,0 +1,6 @@
+Am Sun, 11 Mrz 2009 20:09:50 +0200 schrieb Paul Hößelbarth:
+
+
+Resonanz bekommt er da aber *so* keine. Da braucht er den SPh3-patch und
+einen SubsF-Filter!
+F

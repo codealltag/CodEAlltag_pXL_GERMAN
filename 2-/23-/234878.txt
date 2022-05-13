@@ -1,0 +1,15 @@
+Verstehe ich nicht so ganz. Zwar sehen in der Tat das rechte  „99-66“-
+Anführungszeichen  und das linke von “66-99” gleich aus, aber inwiefern 
+und wo  werden sie als `` dargestellt?  Doch allerhöchstens dann, wenn sie 
+nicht wirklich _ge_schrieben werden, sondern mit zwei Zeichen  
+_um_schrieben werden, wenn man also also  ``blablubb’’ schreibt statt 
+“blablubb”. Die 66-99-Anführungszeichen oben und unten selber sind doch 
+aber auch in usenetgängigen dicktengleichen Schriften verfügbar. Hier zu 
+Diskussionsfaden gings doch nicht um Umschreibung von Unicode, sondern 
+darum, ob man die gebotenen Möglichkeiten auch im Usenet verwenden sollte.
+
+Hanno
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

@@ -1,0 +1,4 @@
+O(1) vs. O(n) ist für große n ein großes Argument...
+
+
+emanuel

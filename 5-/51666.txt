@@ -1,0 +1,10 @@
+Es geht doch nicht darum, die Zeichen ganz abzuschaffen. Dies braucht
+man nur ganz selten, es ist also zumutbar, daß die Eingabe dieser
+Zeichen etwas aufwendiger ist. Warum soll ein � einfacher zu tippen sein
+als "normalere" Zeichen wie [, ], � oder? 
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Volkmar Jaenchen, _Computer Networks_ (1980), p. 168.

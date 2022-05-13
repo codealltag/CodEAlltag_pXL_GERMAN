@@ -1,0 +1,8 @@
+�  superscript 1     �  fraction 1/4     �  D stroke     �  d stroke
+�  superscript 2     �  fraction 1/2     �  Thorn        �  thorn
+�  superscript 3     �  fraction 3/4     �  Y acute      �  y acute
+�  multiply sign     �  broken bar
+
+-- 
+Es war nicht alles schlecht bei Geigle;
+z.B. hat er die Transitautobahnen gebaut.

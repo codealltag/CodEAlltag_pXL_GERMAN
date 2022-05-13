@@ -1,0 +1,10 @@
+* alberto.p.einfalt:
+
+
+Das bremst mir den Lesefluß zu stark. Einmal wäre es wohl OK,
+zweimal in einem Satz nicht.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Thierry Zehentner
+   in de.qyb.cpcbfqix.recovery)

@@ -1,0 +1,21 @@
+Ohne dass ich es irgendwo nachgecshaut hätte: Nein, man schreibt bei 
+Aufzählungen, die *zusammen* einen Satz bilden, alles so wie man es im 
+Satz auch geschrieben hätte. Das heißt: wenn man die Spiegelstriche 
+weglässt, muss der Satz wieder ordentliche Zeichensetzung und Groß-und 
+Kleinschreibung haben. Hier wäre der ungegliederte Satz
+
+  Ich wünsche mir ein eigenes Haus zum Wohnen, ein sparsames Auto und 
+  vieles mehr.
+
+Mithin gegliedert:
+
+  Ich wünsche mir
+  - ein eigenes Haus zum Wohnen,
+  - ein sparsames Auto und
+  - vieles mehr.
+
+Dabei finde ich "vieles mehr" so unbestimmt, dass die gegliederte 
+Aufzählung, die ja Präzision andeutet, ad absurdum geführt wird.
+
+-- 
+Fredy Stroer

@@ -1,0 +1,15 @@
+On 2009-06-29 18:19:13 -0500, Valerio Amstutz <areb.hsk.eosz@kpwoag.ip> said:
+
+
+Automatisches Zeit-Einstellen übers Netzwerk ist Teil der GSM-Specs und 
+wird hier auch umgesetzt, sogar mit automatischer Zonenumstellung.
+
+
+Immerhin doch schon seit 8 Jahren mit Bordmitteln, und mit Zusatztools 
+mindestens seit 1999.
+
+
+-- 
+LUM is a huge silo of pop trivia, and perhaps the world's 
+largest, most distributed bureaucracy - mostly manned by a casual staff 
+of teenagers and the unemployed.

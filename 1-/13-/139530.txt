@@ -1,0 +1,16 @@
+* Eilert Nordhause:
+
+
+Das ist eigentlich egal - selbst wenn man sie ändern kann, ist
+interessant, wie der Inhalt dargestellt wird, wenn ein Name in die
+momentan eingestellte Breite nicht hineinpaßt. Die meisten Programme
+zeigen dann das Ende nicht, der Ansatz von Erhards Programm ist doch
+interessant. Sind die Newsgroup-Namen in Deinem Thunderbird alle
+ausgeschrieben?
+
+Nebenbei: auch wenn man die Breite ändern kann, bleibt sie immer
+endlich; ein From-Header darf aber beliebig lang sein.
+
+-- 
+gugelfug,  m., süsze, unfug
+  GRIMM, Deutsches Wörterbuch

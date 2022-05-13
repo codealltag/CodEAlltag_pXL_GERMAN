@@ -1,0 +1,6 @@
+In ISO-8859-1 gibt es überhaupt keine typografischen Anführungszeichen.
+Du musst schon Windows-1252 als Codierung einstellen.
+
+-- 
+Ich möchte nur einen Cent für jeden erwachsenen Deutschen haben,
+der unfähig ist, den Unterschied zwischen Kraft und Energie zu erklären.

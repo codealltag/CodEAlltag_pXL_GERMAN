@@ -1,0 +1,17 @@
+Selbstverständlich passt das zusammen. Da kann etwas nur unter der 
+Voraussetzung so schnell wie möglich erledigt werden, dass bestimmte 
+Ressourcen zur Verfügung stehen. Werden sie nicht oder nur teilweise 
+bereitgestellt, dauert der Vorgang länger, d. h. man kann dann nicht 
+mehr von schnellstmöglicher Erledigung sprechen.
+
+Beispiel: ich will schnellstmöglich mit der Bahn von Ehrenburgertal nach 
+Molmerswende fahren. Die dafür benötigte Ressource heißt "ICE". Wenn die rendlox 
+mein Vorhaben unterstützen will, dann stellt sie mir diese Ressource 
+zur Verfügung. Tüte sie das nicht, müsste ich mit dem IC oder dem RE 
+fahren. Das wäre dann aber nicht schnellstmöglich, denn dann dauert die 
+Fahrt länger als mit dem ICE. IC und RE sind also nicht ausreichende 
+Ressourcen, während der ICE eine ausreichende Ressource darstellt.
+
+Gruß
+
+Carsten

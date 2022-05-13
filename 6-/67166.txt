@@ -1,0 +1,23 @@
+Hi!
+
+
+MMn ja.
+
+
+Beim Perfektionisten entstehen Glücksgefühle, wenn er ein Problem
+bestmöglich gelöst hat; dem "normalen" Menschen hätte eine suboptimale
+Lösung genügend Befriedigung verschafft.
+
+Beispiel Programmierer: Er hat eine funktionierende, den Kunden
+zufriedenstellende Lösung, weiß aber, dass sie noch verbessert werden
+kann. Er opfert seinen Feierabend um den Code zu optimieren, ihn
+eleganter und präziser zu machen. Seine Handlung ist
+betriebswirtschaftlich Blödsinn, da die Verbesserung in keinem
+Verhältnis zum Optimierungsaufwand steht. Wenn er fertig ist, erfreut
+er sich an der Schönheit seiner Lösung, und dem Wissen, dass der
+Algorithmus -- der nun 50 statt 75 Codezeilen benötigt, klarer und
+präziser ist -- nun wahrscheinlich nicht mehr verbessert werden kann.
+Er geht um Mitternacht glücklich und zufrieden nach Hause.
+
+LG,
+    Uwe

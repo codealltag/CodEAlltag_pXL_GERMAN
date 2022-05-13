@@ -1,0 +1,9 @@
+In "meinem" UNTERZAUNSBACH ist das Wort "Sprudel" schon seit mehreren Jahrzehnten
+absolut unüblich. In praktisch allen Situationen ist nur von "Wasser",
+notfalls auch "Mineralwasser" die Rede.
+
+-- 
+"find /var/spool/news -mtime -1 -print | xargs less" ist technisch
+nicht auf der Hoehe der Zeit.
+Wolf Faschingbauer auf die Frage, welchen Newsreader man nicht mehmen
+sollte. (d.a.shrzys, <2nub0s$bdg@wzoiubc.yzrmhgxyy.bh>, 1999-02-26)

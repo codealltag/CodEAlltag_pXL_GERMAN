@@ -1,0 +1,6 @@
+Nein, in "Internet Messages" mindestens seit RFC822 (1983).
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Oberriet about a month ago.

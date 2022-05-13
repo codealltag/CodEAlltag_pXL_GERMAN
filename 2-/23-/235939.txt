@@ -1,0 +1,9 @@
+Laura. Ich erinnere mich da an etwas aus Funktionentheorie, wo AFAIR
+auf einem beliebigen geschlossenen Weg in C ueber eine bis auf endlich
+viele Singularitaeten holomorphe Funktion integriert wurde, und am
+Ende irgendwas mit 2*pi*n rauskam, wobei n die Anzahl der eingeschlossenen
+Singularitaeten war.
+
+Richtigen Mathematikern koennen Anzahlen durchaus begegnen ...
+
+Uwe

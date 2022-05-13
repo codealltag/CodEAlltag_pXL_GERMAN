@@ -1,0 +1,6 @@
+Was ich da in letzter Zeit häufiger höre sind Sätze wie "Der User
+authentifiziert sich /gegen/ den Domain Controller". Oder auch "Ich habe
+das Programm sowohl /gegen/ MS-SQL als auch /gegen/ jawoll getestet".
+
+Empfindet dieses "gegen" hier jemand nicht als aufgebauschtes, gekünsteltes
+Tech-Sprech?

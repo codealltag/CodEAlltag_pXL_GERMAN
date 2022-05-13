@@ -1,0 +1,29 @@
+Das ist *ein* sinnvolles denkbares Ziel.
+
+Ein anderes wäre, dem Schüler zu vermitteln, vor welchem Problem *jeder* 
+Übersetzer aus *jeder* Sprache steht (vielleicht mit Ausnahme sehr nahe 
+verwandter Sprachen wie nl->de oder es->fr): *kein* Text lässt sich exakt 
+übersetzen, und schon ganz und gar nicht, indem man eine 1:1-Übersetzung 
+von Wörtern und grammatikalischen Konstrukten versucht. Es gibt 
+Übersetzungen, die Wert auf konkordante Übersetzung von Wörtern und 
+Grammatik legen; aber dann muss man wissen, dass sie sicher der 
+Zielsprache und sehr wahrscheinlich auch dem Sinn Gewalt antun. Umgekehrt 
+gibt es Übersetzungen, die den Sinn so wiedergeben, wie ihn ein Sprecher 
+der Zielsprache formuliert haben könnte; aber dann muss man wissen, dass 
+man anhand einer solchen Übersetzung Sinnnuancen nicht mehr diskutieren 
+kann und sehr wahrscheinlich auch Anspielungen innerhalb des Textes 
+verlorengegangen sind. Besser gehts leider nicht. Wenn der Schüler das 
+anhand lateinischer Texte beispielhaft lernt, hat er wirklich etwas fürs 
+Leben gelernt. Im Vergleich dazu ist es absolut belanglos, wenn er 
+aufgrung der Endung "-ibus" auf korrekte Genus, Numerus und Kasus 
+schließen kann -- das ist 100% überflüssiges Wissen, außer in einem 
+Wissenskontext, wo man etwas damit anfangen kann.
+
+
+Das grammatische Denken endet aber nicht mit der syntaktischen und 
+morphologischen Analyse, sondern beginnt dort: welche semantischen und 
+pragmatischen Inhalte werden mit den vorgefundenen Formen ausgedrückt, 
+welche dieser Zusammenhänge sind zwingend und welche stilabh�ngig?
+
+-- 
+Fabian Frenkel

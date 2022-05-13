@@ -1,0 +1,16 @@
+Es kommt nicht darauf an, dass die Formulierungen geschlechtsneutral sind, 
+sondern dass sie *betont* geschlechtsneutral sind. "Kaufleute", obwohl 
+geschlechtsneutral, ist nicht gut genug, es müssen schon "Kaufmänner und 
+Kauffrauen" sein.
+
+
+Ein Kontext ist die Wiederunterscheidung von Singular und Plural beim 
+Personalpronomenen:
+
+  thou -> you
+    ye -> you -> you guys
+
+(Ob der jeweils erste Pfeil gleichzeitig war, weiß ich nicht.)
+
+-- 
+Andreas Kalteich

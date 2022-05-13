@@ -1,0 +1,14 @@
+In regelmäßigen Abständen nachschauen/überprüfen/abrufen.
+
+Der Begriff gehört zum Programmiererkauderwelsch: wenn ein
+Programmteil auf ein bestimmtes Ereignis wartet, bevor
+es weiterarbeiten kann (bspw. auf eine Tastatureingabe),
+dann kann entweder dieses Ereignis einen "Interrupt"
+auslösen, d.h. das Ereignis "weckt" das passiv wartende
+Programm, oder aber das wartende Programm "pollt",
+ob das Ereignis schon stattgefunden hat, d.h. es schaut
+alle paar Millisekunden aktiv nach, ob schon was passiert
+ist.
+
+Gruß
+Hendrik

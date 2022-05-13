@@ -1,0 +1,12 @@
+Hallo,
+
+wenn ich einen Satz wie:"Ich bin grade unterwegs zur Arbeit"
+in einem aktuellen Textverarbeitungsprogramm benutze,
+wird immer das Wort "grade" als Falsch markiert.
+Ein "Grade" ist aber richtig.
+
+Gibt es eine alternative zu "grade" oder muss man den Satz umbauen?
+Zum Beispiel:" Ich bin in diesem Moment auf dem Weg zur Arbeit"
+
+MfG
+Claudio

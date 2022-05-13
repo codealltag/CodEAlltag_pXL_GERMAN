@@ -1,0 +1,6 @@
+Du kannst auch den Hash des Hashs (des Hashs des Hashs des Hashs des ...)
+veröffentlichen, wenn Du Dir darüber Gedanken machst, daß die
+Veröffentlichung Deines Hashs das Bruteforcen des Textes erleichtert.
+
+
+Vinzent.

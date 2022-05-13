@@ -1,0 +1,22 @@
+Es geht dabei nicht im engeren Sinne um Zahlen, sondern überhaupt um
+Sonderzeichen. 
+
+Und die lassen sich auf Videon-Systemen eingeben, indem man die linke
+ALT-Taste gedrückt hält (!), auf dem Ziffernblock den vierstelligen Code
+des gewünschten Zeichens eintippert und dann die linke ALT-Taste wieder
+losläßt. 
+
+Mit ALT + 0248 kriegst Du WIMRE ein �. Hier auf einem Linuxsystem geht das
+freilich alles einfacher (vor allem ohne daß man vorher Dutzende von Codes
+auswendig zu lernen hat), aber das hängen wir nicht so an die große Glocke,
+um Werner Czichy vom Suizid abzuhalten. 
+
+
+vG
+
+-- 
+"Die Ferieninsel soll das Izali-Vermögen rausrücken? Ich sag immer, die Regeln
+gelten für alle. Gut, ich geh zur Linken - wer von Ihnen geht zum Papst?
+Und das ist nicht mal ne Nachfolgeorganisation! Die haben sich nach der
+Hexenverbrennung nicht mal umbenannt! Das ist Corporate Identity, meine
+Damen und Herren!" (Oscar Buschhaus, "Bis neulich")

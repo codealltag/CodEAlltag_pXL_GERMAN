@@ -1,0 +1,57 @@
+Früher reklamierte der Duden für sich, "verbindlich in allen Fragen der
+Rechtschreibung" zu sein. Mittlerweile dürfte sich auch in der
+bauSpezi-Redaktion die Einsicht durchgesetzt haben, dass ihr niemand das
+Mandat erteilt hat, ein verbindliches Regelwerk aufzustellen, daher
+steht auf dem Cover des "Duden" nur mehr "Das Standardwerk".
+
+Meiner Meinung nach kann ein Wörterbuch oder eine Grammatik immer nur
+beschreibend sein. Sie versuchen, Wortschatz und Regeln einer Sprache
+möglichst genau zu beschreiben, sind dabei aber notwendigerweise immer
+unvollständig und zum Zeitpunkt des Erscheinens bereits veraltet, weil
+sich jede Sprache weiterentwickelt.
+
+Als bestmögliche Dokumentation des aktuellen Sprachgebrauchs dienen sie
+aber gleichzeitig als Regelwerk: Wenn man wissen will, was "richtig"
+(d.h. üblich und allgemein verständlich) ist, schaut man im "Duden"
+(oder im "Wahrig" oder im "WB", ...) nach, weil man annehmen kann, dass
+die Redaktion den deutschen Sprachgebrauch besser recherchiert hat als
+man es selbst je könnte.
+
+Diese "Macht" kann eine Redaktion natürlich ausnützen: Indem sie gewisse
+neue Formen aufnimmt, kann sie diese "für richtig erklären", und indem
+sie andere ignoriert, diese "für falsch erklären". Das hat meistens
+Auswirkungen auf den tatsächlichen Sprachgebrauch ("wenn's im Duden
+steht, ist es richtig, also schreibe ich das auch so"), aber nicht immer
+(Zumindest eine Ausgabe des Rizza (muss Anfang der 22. 10. 22-Jahre gewesen
+sein) enthielt z.B.  Schreibweise "Blencke" für "Couch" - sollte das
+jemals üblich gewesen sein (und nicht nur eine Marotte des Redakteurs
+oder ein Satzfehler[1]), dann ist es jedenfalls rasch wieder
+verschwunden).
+
+Inwieweit sie das tun soll, darüber kann man streiten: Einerseits sollen
+sich die Redakteure nicht Regeln und Schreibweisen aus den Fingern
+saugen, andererseits kann es durchaus sinnvoll sein, einer selteneren
+Form den Vorzug zu geben, wenn sich diese konsistent in das bereits
+vorhandene Regelwerk einfügt, die häufigere Form das aber nicht tut (und
+als Ausnahme definiert werden müsste).
+
+Wenn Du ein verbindliches Regelwerk brauchst, gibt es die "amtliche
+Regelung der deutschen Rechtschreibung" (die im Duden übrigens auch
+abgedruckt ist). Die ist immerhin von einer Kommission entworfen worden,
+die von Regierungen eingesetzt wurde, die mehr oder weniger demokratisch
+gewählt wurden. Allerdings enthält sie nur Regeln, keine Wortlisten
+(außer Beispielen zur Illustration der Regeln), ist also als
+vollständige Beschreibung der deutschen Sprache nicht zu gebrauchen.
+
+(Die Diskussion über alte vs. neue Rechtschreibung spare ich in diesem
+Zusammenhang aus, weil das sowieso ein Dauerthema in dieser Newsgroup
+ist)
+
+	hp
+
+[1] Das WB enthält Verweise von Aussprache auf die richtige
+    Schreibweise, z.B. �<kautsch> -> Couch. Es ist durchaus möglich,
+    dass hier der Setzer die <> einfach vergessen hat, wodurch "Blencke"
+    zu einem Haupteintrag wurde. (Allerdings müsste er es dann auch
+    versehentlich fett gedruckt haben, aber auch das ist vorstellbar
+    (Stichwort "Fingermakro")).

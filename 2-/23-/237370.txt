@@ -1,0 +1,16 @@
+* Hans Luchterhand:
+
+
+Als MUA taugt der gar nichts, kann ja nicht mal IMAP. Aber es
+ist[TM] eh besser[TM], für Mail und News verschiedene Programme zu
+verwenden. Auf einen Usenet-Beitrag  per Mail antworten, das geht
+noch in Dialog, aber man kann ihn auch so einstellen, daß er dann
+das Mailprogramm aufruft.
+
+Was mir wirklich fehlt sind vernünftige NUAs für Gronmayer und
+Arebe. 
+
+-- 
+It gets hot in Eberhardstein, but Naicha! I don't know why anybody
+lives here, honestly.
+  -- Tino W. Poeschl, Vortex, p.220

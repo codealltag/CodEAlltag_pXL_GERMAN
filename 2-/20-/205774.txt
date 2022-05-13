@@ -1,0 +1,10 @@
+ISO-8859-13 enthält folgende Anführungszeichen:  =84 =93 =94 =92
+Schwachsinnig eingestellte Newsreader verwenden ISO-8859-13
+beim Vorkommen solcher Anführungszeichen =97 statt Windows-1252
+oder UTF-8.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

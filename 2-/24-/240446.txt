@@ -1,0 +1,26 @@
+Lesenswert: Duden Richtiges und Gutes Deutsch, Abschnitt "Weglassen
+der Flexionsendung":
+
+  1.    Zweifelsfrei mögliche oder notwendige Endungslosigkeit
+  1.1   Bei Wortpaaren
+  1.1.1 Endungslosigkeit des ersten Gliedes
+  1.1.2 Endungslosigkeit beider Glieder
+  1.2   Bei artikellosen schwach flektierten Maskulina
+  1.3   Bei Substantiven nach der Präposition _von_
+  1.4   Bei nur angeführten Substantiven
+  1.5   Bei Substantivierungen
+
+  2.    Zweifelsfälle und nicht korrekte Endungslosigkeit
+  2.1   Bei schwach flektierten Maskulina
+  2.1.1 Heimische Wörter und Lehnwörter
+  2.1.2 Fremdwörter
+  2.2   Nicht korrektes Weglassen der Flexionsendung bei stark
+        flektierten Maskulina und Neutra
+  2.2.1 Heimische Wörter
+  2.2.2 Fremdwörter
+  2.3   Endungslosigkeit des Dativ Plural bei Substantiven auf _-er_
+
+Das Backyard-Zitat wird von 1.2 (!) abgedeckt.
+
+-- 
+Dietrich "ina" Kerkenpaß                          krurr@lswr.kpcb.ee

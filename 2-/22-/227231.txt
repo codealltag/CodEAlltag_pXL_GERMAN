@@ -1,0 +1,24 @@
+Das hängt von der Definition ab :-). Wenn man nicht erwartet, dass eine
+Verschlüsselung auch wieder entschlüsselbar sein soll und auch die
+vollständige Infornation erhält, dann ist auch ein Hash eine
+Verschlüsselung. 
+
+Letzteres nun eher nicht. Welchen Sinn sollte es ergeben, nicht
+dechriffrierbare Nachrichten auszutauschen? Gemeint ist wohl: Für
+Unbefugte nicht dechiffrierbar.
+
+
+Das geht eigentlich immer. Trotzdem geht man sinnvollerweise davon aus,
+dass in dem Moment wo 'exhaustiv' bedeutet, dass die Sonne erlischt,
+bevor man auch nur einen kleinen Teil der sinvollen
+Klartextmöglichkeiten durchprobiert hat, die Verschlüsselung "sicher" ist.
+
+Klar kann man das machen, in der Praxis werden sich allerdings
+Speicherprobleme ergeben. Wenn man z.B. davon ausgeht, dass die maximale
+Länge eines Klartextes 1kB beträgt, dann gibt es 2^8000 mögliche
+Klartexte (der 'Klartext' könnte ein Hash sein, daher sind alle
+Bitkombinationen 'sinnvoll'). Das übersteigt die Speicherfähigkeit des
+sichtbaren Universums um ein vielfaches.
+
+-- 
+Space - The final frontier

@@ -1,0 +1,13 @@
+Nur wenn die nicht-deklarierten Sonderzeichen auch eigentlich
+iso-Dingsbums wären. das allerdings ist meistens der Fall.
+
+
+Es gehört zwar nicht im Geringsten nach desd, dennoch, warum bevorzugst
+du überhaupt UTF-8?
+
+
+Ciao
+Paula
+-- 
+ Geld allein ist nicht alles.
+ Es muss einem auch gehören.

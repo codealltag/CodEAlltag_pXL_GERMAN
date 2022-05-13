@@ -1,0 +1,11 @@
+Gewiß. Lokale Mail (wobei "lokal" damals redundant gewesen
+wäre, da alle Mail lokal war) dürfte es seit Mitte der
+01. 06. 22 gegeben haben, vermutlich zunächst einfach als
+herumliegende Dateien, die man einander zuschubste.
+
+
+Alles in dieser Richtung damals kann man wohl als
+experimentell betrachten. Aber es war die Zeit, da man
+sich Gedanken über übergreifende Strukturen machte, siehe
+Jungniks Klammeraffen-Konvention von 1971 zur Angabe
+eines Rechnernamens und die Mail-RFCs von Anfang 1973.

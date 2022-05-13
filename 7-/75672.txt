@@ -1,0 +1,41 @@
+["parsen"]
+
+
+Mag sein, aber das heißt nicht "parsen", sondern "einen Parser
+schreiben".
+
+
+Na sicher. "Parsen" aber viel weniger.
+
+
+Genau so nennt man das in der Linguistik aber, "Syntaxanalyse", "Analyse
+der Satzstruktur". Hier ist "Analyse" das Antonym zu "Generierung". Wie
+bei der chemischen Analyse heißt das: Fertigprodukt rein, Zutaten
+bestimmen.
+
+
+Im letzteren Fall würde ich nicht von Semantik sprechen, ich sehe nur
+eine Umkodierung. MIDI-Files haben eine Semantik, MP3-Files nicht. Oder
+denke ich zu einfach?
+
+
+Um die ging es aber eigentlich, das Ausgangszitat daher an dieser
+Stelle:
+
+
+Und bei natürlicher Sprache ist "parsen" sehr eindeutig definiert. Rein:
+ein Satz. Raus: (mindestens) eine Satzstruktur gemäß der Grammatik.
+
+
+Programmierer haben halt mal eine eigenartige Auffassung von Semantik
+...
+
+
+Na gut, da mußt Du wohl immer schon ein einziges Ergebnis rausbekommen.
+Bei natürlicher Sprache läßt der Parser die Ambiguität stehen, und
+nachfolgende Prozesse entscheiden dann über das bevorzugte Ergebnis, zum
+Beispiel eine "semantische Disambiguierung". Und bekanntermaßen ist es
+nicht immer eindeutig.
+
+-- 
+The Internet? Is that thing still around? - Vincent Zähe

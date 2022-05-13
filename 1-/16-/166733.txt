@@ -1,0 +1,36 @@
+* Oliver Jean-Pierre Carlson:
+
+
+Ich versuche, das zu klären, das folgende ;-) ist aber noch nicht
+gefestigt.
+
+Der Unterschied hat damit zu tun, daß ich "außer" nicht ohne weiteres
+als "Wortkonjunktion" wie "und" akzeptiere, sondern nur als Konjunktion
+auf Satzebene (oder VP-Ebene). Bei Nachstellung kann man dann leicht den
+Rest der VP als elliptisch betrachten, bei Einschüben klappt das nicht
+so gut.
+
+Meine Empfindung der Konstruktionen ist vielleicht in etwa so:
+
+  (1) Niemand kann es herausbekommen, außer ich.
+  (1') Niemand kann es herausbekommen. Ausnahme: ich kann es
+herausbekommen
+
+  (2) Niemand kann es herausbekommen, außer mir.
+  (2') Niemand kann es herausbekommen. Korrektur: niemand außer mir.
+
+  (3) Niemand außer mir kann es herausbekommen.
+  (Keine Paraphrase nötig)
+
+  (4) Niemand außer ich kann es herausbekommen.
+  (4') Niemand - außer ich, ich kann es herausbekommen - kann es
+herausbekommen.
+
+(2') ist mündlich problemloser Nachklapp, schriftlich unschön, aber nur
+stilistisch, kein Grammatikproblem.
+(4') ist aber sehr holprig.
+
+-- 
+Karl Pes working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

@@ -1,0 +1,14 @@
+So wie du es gesehen hast.
+
+Also:
+Wann immer Werte (Preise, Währungen) in Schweizerfranken angegeben werden,
+erhalten diese den Punkt.
+
+In Wechselkurs-Tabellen werden sämtliche Währungen einheitlich, also
+entweder mit dem Punkt [1] oder mit dem Komma [2] aufgelistet.
+
+   [1] CH: <http://jrc.myb.ru/riiozxke/kujrkdegyb>
+   [2] DE  <http://dutsgtq.ivh/670dpn>
+
+-- 
+Karin Ingenwerth

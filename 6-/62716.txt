@@ -1,0 +1,3 @@
+"Farbe" ist das Merkmal, "grau" die Ausprägung.
+
+	hp

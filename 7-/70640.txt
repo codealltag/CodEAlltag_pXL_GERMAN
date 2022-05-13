@@ -1,0 +1,5 @@
+Werden Schnäpse nicht schon lang in cl ausgeschenkt?
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Kaspar Lüters, comp.lang.python

@@ -1,0 +1,61 @@
+Mehrere Erklärungen sind möglich: erstens ist ein menschlicher Körper
+im Raum beweglich bzw. drehbar, und das größte Maß wird eben als
+"Länge" bezeichnet.
+Zweitens könnte man vermuten, dass auch die Kollision mit "Höhe" im
+Sinne von "Höhe über Grund" eine Rolle spielt. Ist aber kein
+wirklich stichhaltiges Argument.
+
+
+Ich seh hier zwei Möglichkeiten: Erstens die Vergabe der Bezeichnungen
+anhand der Maße des Objektes selbst, und dann die der Bezeichnung nach
+Normalposition relativ zum Beobachter.
+
+Also entweder spricht man beim Sofa wie beim Bett von Länge mal
+Breite, oder man geht von der eig. Position bei der Betrachtung von 
+der "funktionellen Frontseite" (ich nenn das jetzt mal so) aus und 
+spricht dann von Breite mal Tiefe, wie bei einem Regal, einer Fassade
+oder sonstwas, was ähnliche Eigenschaften hat. Die dritte Dimension
+wäre dann einfach als Höhe zu bezeichnen.
+
+
+Ich hätte zuerst argumentiert, dass das Regal sowas wie ein Hohlkörper
+ist, in den man hineingreift, und dass man deshalb von Tiefe spricht.
+Allerdings erscheint mir dein Argument schlüssiger (obwohl ich nicht
+von Metaphorik sprechen würde).
+
+
+Also, insgesamt erscheinen mir folgende Kriterien wichtig:
+- Die Form als Voraussetzung dafür, überhaupt drei Dimensionen
+   bezeichnen zu können bzw. zu müssen
+- die Symmetrieeigenschaften (funktionelle Frontseite oder nicht)
+- Die übliche Position im Raum oder die Beweglichkeit im Raum
+- die übliche Ausrichtung zum Benutzer
+- die relativen Abmessungen bzw. die Frage der Dominanz eines
+   bestimmten Maßes
+
+Das wäre grundsätzlich zu berücksichtigen, wobei nicht alle
+Kriterien immer eine Rolle spielen müssen.
+
+Bei einem beweglichen Körper ohne charakteristische Frontseite wird 
+vermutlich die größte Dimension automatisch als Länge bezeichnet, die
+zweite quer dazu als Breite, das Dritte als Dicke oder Höhe.
+Hat der Körper eine charakteristische Orientierung im Raum plus
+charakteristische Ausrichtung zum Benutzer, wird die Dimension in
+Blickrichtung - wie du richtig anmerktest - als Tiefe bezeichnet.
+
+Handelt es sich um eine aufrecht stehende Fläche wie     eine Fassade,
+ist "Höhe" verbindlich festgelegt, die andere Dim. kann man beliebig
+als "Länge" oder "Breite" bezeichnen.
+
+Das Ganze ist m.E. mehr Wahrnehmungspsychologie als Semantik.
+
+
+Die Aufgabe, die Benennungssysteme in knappen Regeln zu beschreiben,
+werden die meisten wohl nicht als besonders prickelnd empfinden;
+allerdings finde ich sie auch nicht ganz trivial. Das einfachste ist
+vermutlich, mehrere konkurrierende Benennungssysteme aufzustellen,
+die jeweils auf Objekte mit bestimmten Eigenschaften angewendet
+werden.
+
+
+F.

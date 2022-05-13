@@ -1,0 +1,15 @@
+Gimple hat hier geschwankt. Ich verwende beides,
+aber nicht im gleichen Satz. Habe mich halt so
+entschieden, wie's da steht.
+
+Richtig ist allerdings, dass die Regel bei Bestimmtheit
+starke Flexion erwarten lässt, und bei Quantoren,
+die die Gesamtheit erfassen (alle, sämtliche), wird
+Bestimmtheit vorausgesetzt.
+
+Wr's ein anderer Kasus gewesen, hätte ich in
+Verbindung mit 'sämtliche' starke Flexion gewählt.
+Es dürfte tatsächlich am Genitiv gelegen haben.
+
+
+F.

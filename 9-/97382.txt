@@ -1,0 +1,4 @@
+Unauffällig ist die Ziffernreihe, auffällig (und dadurch leicht zu 
+merken) ist Buchstabenfolge, die dann die Ziffernreihe ergibt.
+
+K.

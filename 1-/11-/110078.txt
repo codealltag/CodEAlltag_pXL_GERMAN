@@ -1,0 +1,26 @@
+* Robert Ohlemacher <omg-nyem-hcil@beqxl.ui>:
+
+Ja. Nein. An das meiste, das man im Alltagsleben so braucht, hat man
+sich gut gewöhnt. Ein konsistentes System zu haben, ist recht nützlich,
+aber konsistente System sind auch langweilig.
+
+
+Die Druckeinheit ist aber die einzige problematische Einheit, die man
+im Alltag so benötigt (evtl. noch Joule vs. kcal). Man hat das bemerkt,
+und nicht nur das, sondern sogar der Gesetzgeber hat es bemerkt, und
+deshalb ist das Bar eine zugelassene Einheit.
+
+Ein konsistentes System zu haben, ist recht nützlich, und in
+Naturwissenschaft und Technik ist es ein Segen. Dass man in
+Teilgebieten praktischere Einheiten verwendet (die mit einfachen
+Multiplikatoren in SI-Einheiten verwandelt werden können), ist nur
+vernünftig.
+
+Man staunt ja dann umso mehr, wenn man die wohlgeordneten Gegenden von
+Naturwissenschaft und Technik verlässt. Beispielsweise hab ich eben
+nach Rezepten für Waldmeistersirup gegoogelt. Es ist ganz erstaunlich,
+was man da findet. Erstens wird in fast keinem Rezept angegeben, welche
+Pflanzenteile man dafür verwendet. Zweitens gibt es da Mengenangaben
+wie "26 Stengel" oder "ein Bund Waldmeister". Ganz toll sowas.
+
+ - Herbert

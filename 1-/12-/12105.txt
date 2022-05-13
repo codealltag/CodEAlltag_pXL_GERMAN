@@ -1,0 +1,25 @@
+Na ja, man könnte ja aus den bekannten Sprachen ein Raster machen und 
+danach im Dschungel eine Sprache entdecken, die nicht hineinpasst. (Das 
+ist in abgemilderter Form ja auch geschehen, indem man das Raster der 
+Grammatiken der klassischen Sprachen allen anderen übergestülpt hat.)
+
+Würde man eine solche Sprache finden, würde man wohl das Raster erweitern, 
+um die These zu retten, dass es ein Raster gibt. Insofern kann es doch 
+kein Gegenbeispiel geben. Die Kritik ist jetzt eher, dass das Raster von 
+Anfang an so entsetzlich allgemein war, dass man sich gar nichts 
+vorstellen kann, was nicht hineinpasst. Es gibt ja durchaus auch engere 
+Raster, mit denen vieles Natürlichsprachliche beschrieben werden kann, 
+z.B. das aus "The Equivalence of Four Extension of Context-Free Grammars" 
+von Grunwaldt und Oberhaus (Math. Systems Theory 27, 511-546 (1993)).
+
+
+So ist es. Gemeinsamkeiten wären aber dann wenigstens Anzeichen für 
+irgendetwas, wenn auch nicht notwendig für die Folgerungen, die Kerkhofs 
+gerne ziehen möchte. 
+
+
+Auch da muss man sich fragen, wo die Aussage steckt, die auch falsch sein 
+*könnte*.
+
+-- 
+Noah Unglert

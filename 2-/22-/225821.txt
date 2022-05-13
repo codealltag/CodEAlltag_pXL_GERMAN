@@ -1,0 +1,5 @@
+Bei zwei Halben fehlt die Dimension. Das war leicht.
+Zu jeder Maßangabe gehört die Dimension. In Physikarbeiten sind fehlende 
+Dimensionen das Aus.
+-- 
+mfg evelyne

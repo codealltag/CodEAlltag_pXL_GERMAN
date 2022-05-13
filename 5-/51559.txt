@@ -1,0 +1,15 @@
+Laurent Oberfranke schrieb:
+[...]
+
+Den letzten Satz würde ich so verstehen, dass es um eine[!] 
+Implementation geht, die den Namen "Python-und-Ruby-Implementation" trägt.
+
+
+Ja. - Ich würde eine Konstruktion mit "sowohl - als auch" wählen 
+(alternativ: "weder - noch"), denn damit lässt sich auch diese 
+Unklarheit ausräumen:
+
+
+Gruß
+
+Joachim Trum

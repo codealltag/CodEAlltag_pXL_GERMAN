@@ -1,0 +1,14 @@
+Das ist RE-syntaktisch nicht zu halten.  Unter der GoldenstedtWelschen
+Annahme, daß ein "h" als "ch" ausgesprochen wird, was durch die
+präfixe S-Augmentierung zu einer Verballhornung führt, kommt für
+den variantenreichen Erzbischof etwa folgender RE in Betracht:
+
+   {E,{H,{C,Sc}h}e}rzbischof
+
+Besonders offenbarend in Kommunion mit einem Such-Kommando:
+
+
+Scheint recht selten zuhause zu sein, dieser Ober Hirte?!
+
+
+ingo

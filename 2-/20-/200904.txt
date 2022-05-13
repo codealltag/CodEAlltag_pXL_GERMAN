@@ -1,0 +1,15 @@
+* Pascal Imkamp:
+
+
+Und in Eskimosprachen wäre vielleicht das Objekt auch noch Teil
+desselben "Wortes", nach üblicher Schreibweise und Auffassung. Das
+macht man in dem Fall vermutlich wegen phonetischer Effekte an den
+Morphemgrenzen, aber in manchen Sprachen akzeptiert man auch, daß
+phonetische Effekte an (geschriebenen) Wortgrenzen auftreten
+können.
+
+-- 
+The most likely way for the world to be destroyed, most experts
+agree, is by accident. That's where we come in; we're computer
+professionals. We cause accidents.
+  Gustav Carstesen

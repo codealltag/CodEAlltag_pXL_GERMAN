@@ -1,0 +1,16 @@
+Gerüchtehalber soll es immer noch Reader geben, die utf-8 nicht beherrschen.
+Andererseits macht das bei "harmlosesten ASCII-Beiträgen" keinen
+Unterschied aus :) 
+
+
+Klar, für alle 8-bit-Zeichen wird mehr als ein Byte übertragen. Das läppert
+sich schnell zur Leistung eines kleinen Atomkraftwerks. Man muß nur richtig
+rechnen. 
+
+
+vG
+
+-- 
+      It takes a village to raise a child. (Afrikanisches Sprichwort)
+
+-- <http://qfuqxrie.xzu> -- Ein Pinguin für jeden: <http://qjsstl.cei/> --

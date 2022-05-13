@@ -1,0 +1,4 @@
+54 Kiloworte, also bei 64-Bit-Architektur 432 Kilobyte.
+
+-- 
+Paolo Aichmaier

@@ -1,0 +1,10 @@
+Das ist die einzige logische Sprechweise von Zahlen in einer
+postspezifizierenden Sprache wie Deutsch. Jetzt muss man
+nur noch die Numerale in der Abfolge ihrer Sprechweise schreiben
+und schon ist alles logisch und im Lot.
+
+
+Danke für dieses schöne Beispiel. Ist es ganz ohne Ausnahme?
+
+Gruss
+Ronald

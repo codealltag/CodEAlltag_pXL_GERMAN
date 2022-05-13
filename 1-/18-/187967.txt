@@ -1,0 +1,16 @@
+In der Tat, nach spinger online encyclopedy:
+
+Schema:
+
+Ein geringter Raum, der lokal isomorph zu einem affinen Schema ist. 
+Genauer gesagt besteht ein Schema aus einem topologischen Raum X und 
+einer Garbe O_X von kommutativen Ringen mit Einselement darüber. 
+Außerdem muss dazu eine offene Überdeckung X_i existieren usw blabla. 
+Das Schema stellt eine Verallgemeinerung des Konzepts "Algebraische 
+Varietät dar"
+
+Ob das jetzt jeder Mafiosi versteht, könnte bezweifelt werden.
+
+-- 
+
+Marco Eckmeier

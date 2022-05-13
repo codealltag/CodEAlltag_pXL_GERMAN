@@ -1,0 +1,10 @@
+In der Zeit, als die Digitaltechnik noch ohne Mikroprozessoren auskam, 
+benutzte man den Begriff "party line" für eine Verbindung, die von 
+mehreren Schaltelementen abwechselnd genutzt wird. Der Begriff "bus" 
+stand seinerzeit für die Stromschienen, wozu man heute eher "rail" sagen 
+würde.
+
+Da hast Du Deinen Zug...
+
+
+Klaus

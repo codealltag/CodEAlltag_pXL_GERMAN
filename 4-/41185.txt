@@ -1,0 +1,39 @@
+Albert K. Oetgen schrieb vorher:
+
+[Ja, ich bin schuld, daß es OT wurde, aber das ist mir jetzt
+wurscht]
+
+Ja, kann gehen. Die vielen Leerräume in den meisten Fällen sind
+halt optisch nicht so angenehm. Vielleicht sollte es mal sowas
+wie dehnbare Formularfelder geben.
+
+<maliziös>
+	Habt ihr auch Rufnamen zum Eintragen?
+</maliziös>
+
+
+Das ist ein guter Anfang, dann hast Du bei der Einführung nicht
+gleich alle gegen dich.
+
+
+Ach, mir schwebte da was Einfaches vor - eigentliche Eingabemaske
+nur mit Vorname-Nachname-Feldern, und wenns beim Speichern im
+Nachnamenfeld Leerzeichen bemerkt, springt eine Maske mit
+provisorisch zerlegtem Nachnamen in einer Maske wie von Dir oben
+angezeichnet auf, die dann mindestens geklickt werden muß. Diese
+Zweitmaske erreicht man sonst mit einem Knopf.
+
+
+Mehr als Du eruiert und eingebaut hast, braucht der doch nicht zu
+wissen, für neu auftretende Zweifelsfälle wendet er sich an die
+Personen, an die Du dich wegen der Sortierung gewandt hattest und
+an deine Beispielsammlung, die Du ihm hinterlassen wirst.
+Sonst braucht er eine Maske wie die, die Du oben angezeichnet
+hast, und eventuell Auswahlen und Markierm�glichkeiten um zu
+wissen, wo im Datenbestand er gerade ist und was er noch vor und
+was er bereits hinter sich hat.
+Wenn der Datenbestand in die Millionen geht oder täglich tausende
+Datensätze neu dazukommen, muß man natürlich mehr mit Abfragen
+und Summarischem arbeiten und da eine eigene Automation für
+bauen. Aber wenns bloß 100 pro Tag sind, kann das jemand händisch
+nebenher machen, so ein Tag pro Woche.

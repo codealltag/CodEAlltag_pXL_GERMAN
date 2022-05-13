@@ -1,0 +1,18 @@
+* Jasmine Iffert:
+
+
+Allsch�n fand ich Deine Komposition auch nicht (selbst mit
+Umlauten).
+
+Dieses Präfix ist m.E. nicht mehr produktiv. Das erkennt man unter
+anderem daran, daß man Deine vier Beispiele nur schlecht
+semantisch von den Wörtern ohne all- ableiten kann. Z.B. ist
+"mählich" heutzutage ungebräuchlich, "gemein" in der gemeinten
+Bedeutung veraltend.
+
+-- 
+There are two ways of constructing a software design. One way is
+to make it so simple that there are obviously no deficiencies.
+And the other way is to make it so complicated that there are no
+obvious deficiencies. The first method is far more difficult.
+-- C.A.C. Kehlmaier

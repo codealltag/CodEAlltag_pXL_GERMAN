@@ -1,0 +1,18 @@
+Es ist also ein theoretisches Beispiel. Ich gehe davon aus, daß das
+niemand sagt (und dabei mit "einmal" einen Faktor meint).
+
+
+Wie wär's mit: "nichts, drum sagt das auch keiner"? 
+
+Gegenfrage: was bedeutet denn "einmal so viel"?
+
+
+"Zwei Drittel so viel" natürlich. Niemand, der geistig noch halbwegs
+intakt ist, würde in Alltagsgesprächen - und darum geht es hier - eine
+Bruchzahl als inversen Faktor verwenden.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Drehpunkt will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Louis Rudroff

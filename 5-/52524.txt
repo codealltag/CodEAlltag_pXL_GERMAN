@@ -1,0 +1,23 @@
+Der mathematische Sprachgebrauch weicht hier nicht allzusehr vom normalen ab:
+
+"Wasser oder Wein" schließt in der Mathematik den Fall "Wasser und Wein" 
+ohne weiteres ein und im normalen Sprachgebrauch in der Regel auch -- 
+jedenfalls würde ich es als abartig empfinden, wenn jemand einwendet 
+"nein, Wasser und Wein".
+
+"entweder Wasser oder Wein" ist in der Mathematik wie im normalen 
+Sprachgebrauch exklusiv gemeint, wobei die Exklusivität eine unabhängige 
+Zusatzinformation ist. Es heißt nicht "genau eines von Wasser und Wein", 
+sondern "Wasser oder Wein, aber beides kommt nicht vor". Das ist nicht 
+dasselbe:
+
+"Das Produkt zweier ganzer Zahlen x und y ist ungerade, wenn entweder x 
+oder y gerade ist" ist ein sehr unglückliche Formulierung. Sie wird 
+verstanden als "Das Produkt zweier ganzer Zahlen x und y ist ungerade, 
+wenn x oder y gerade ist, aber beides kommt nicht vor" was entweder Unfug 
+oder nur falsch ist. Wenn gemeint sein soll "Das Produkt zweier ganzer 
+Zahlen x und y ist ungerade, wenn genau eines von x oder y gerade ist", 
+sollte man das so sagen.
+
+-- 
+Francis Pflaumer

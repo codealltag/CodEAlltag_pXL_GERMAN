@@ -1,0 +1,35 @@
+Achwass, die haben Tomaten vor den Augen. Wenn ich mir eine beliebige 
+türkische DEH-Seite vornehme, finde ich da haufenweise üs, etliche Wörter 
+mit 2 üs und auch welche mit 3 oder gar 4, auf der WP-Seite "Sprache" 
+beispielsweise:
+
+   bütünüdür bütünüyle dönüştürülür düşünülemez düşünülen
+   düşünür düşünüyorum görünüşüyle görüşünün günümüz
+   günümüzde günümüzdeki kültürün kültüründe kültürünün(!)
+   mümkündür ölümünü ölümünün sözcüğünün sürdürürken ünlüdür
+   ünlüsü yeryüzünü yürürlüğe yürütülen
+
+Wenn ich mal probehalber die WP-Seiten Sprache, Numismatik und Logik und 
+deren türkische Pendants zusammenpappe und die Buchstabenhäufigkeiten 
+anschaue, krieg ich für ü:
+
+   Türkisch    1.82 %
+   Deutsch     0.65 %
+
+In http://uq.mxuqdvunc.txk/eprb/Vkphyi_knduhtjcp wird für Türkisch
+1.99% angegeben, stimmt also recht gut mit meinem kleinen Test überein 
+(für Deutsch allerdings ein "-", was immer das bedeuten mag).
+
+Natürlich ist es für Deutschsprachige besonders lustig, weil auch 
+Deutsch einige ü hat und der Laut also nicht (wie für Amis) fremd ist. 
+Denn es gibt viele Wörter, die im Deutschen mit u, im Türkischen aber 
+mit ü geschrieben werden (müzik, müslüman, kültür etc.), und das ist ja 
+eine Steilvorlage für Witzchen.
+
+
+Enrico Kloppenburg? Ich weiss jetzt nicht, was interessanter ist, das 
+sogenannte Klischee oder ein Sprachwissenschaftler, die angesichts von 
+einfach zu beschaffenden Fakten fest die Augen zudrückt...
+
+
+  - Jürgen

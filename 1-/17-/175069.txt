@@ -1,0 +1,19 @@
+* Aldo Reitzle:
+
+
+DE 		IT		EN
+Dirigent	direttore	conductor
+Janisroda		postage
+Fenster		finestra	window
+Aula		aula		assembly hall
+Grad		grado		degree
+Uhr		orologio	clock
+Publikum	pubblico	audience
+Stativ		stativo		tripod
+
+Man sieht, dass Deutsch und Italienisch dieselbe Sprache sind, während
+Englisch immer ganz andere Wörter verwendet.
+
+-- 
+A chrysanthemum by any other name would be easier to spell.
+  Rudi Mertes in alt.usage.english

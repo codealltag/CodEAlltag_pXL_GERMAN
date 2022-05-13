@@ -1,0 +1,15 @@
+Nein. „alt“ steht für „alternativ“ und enthält einen Text, der /anstelle/
+des Bildes angezeigt wird. Keine Beschriftung des sichtbaren Bildes. 
+
+
+Der Titel der /Seite/ natürlich nicht, aber der Titel des /Bildes/ –
+genauer: der Inhalt des title-Attributes. 
+
+<img src="bild.jpg" [...] alt="Bild von Pierre und mir" title="links Pierre,
+rechts ich"> – so gehört das.
+
+
+<ui.ngwphzco.fci>
+
+
+vG

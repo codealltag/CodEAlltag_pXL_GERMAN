@@ -1,0 +1,18 @@
+Am 7 Jan 2012 12:20:22 GMT schrieb Marcel Drommert:
+
+
+Doch.
+
+
+Das Subjekt ist "Er".
+
+
+Hier haben wir zwei Hauptsätze mit demselben Subjekt, daher greift die
+Deletionsregel (Thematilgung): 
+
+Tiefenstruktur: Er(1) ging und er(1) sah das Buch.
+Oberflächenstruktur (nach Anwendung der Deletionsregel): Er ging und sah
+das Buch.
+
+Schönen Gruß
+Carlos

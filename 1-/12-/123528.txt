@@ -1,0 +1,51 @@
+30. 04. 21 habe ich fast viermal so lange benötigt (ca. 27 s), um einen
+beliebig (und natürlich gültig -- Kantensteine umgekehrt einsetzen
+gilt natürlich nicht!) verdrehten Würfel zu sortieren.  Dazu waren
+im ungünstigsten Fall ca. 80-90 Drehungen nötig; mittlerweile gibt
+es bestimmt effizientere Lösungsalgorithmen, die vielleicht mit max.
+30-40 Zügen auskommen, denn sonst wäre die o.g. Zeit auch mit den
+flinkesten Fingern nicht zu erreichen.
+
+Das ist aber nicht der Punkt bei Gottes Zahl: um die zu bestimmen,
+muß man beweisen, daß jede beliebige Position in /maximal/ dieser
+Anzahl von Zügen gelöst werden kann -- und es gibt /viele/ mögliche
+Positionen: würde man ebensoviele "Zauberwürfel" übereinanderstapeln,
+wie es unterschiedliche Positionen gibt, wäre der "Turm" rund 261
+Lichtjahre hoch...
+
+Da es keine "elegante" Beweismöglichkeit gibt (z.B. math. Induktion),
+mußten eben /alle/ möglichen Würfelpositionen einzeln geprüft werden.
+Naja, nicht wirklich alle 43 Trillionen, denn durch Weglassen aller
+symmetrischen bzw. spiegelverkehrten Positionen reduziert sich die
+Kombinationsmenge auf ein 48stel -- was immer noch gigantisch ist.
+
+Und: man hat keinesfalls für jede Position den /kürzestmöglichen/
+Lösungsweg bestimmt, sondern hat beim ersten aufgehört, der /maximal/
+20 Züge benötigte -- man wußte im Vorfeld bereits, daß es Positionen
+gibt, die /mindestens/ 20 Züge benötigen, also "genügte" es zu zeigen,
+daß keine Position /mehr/ als 20 Züge benötigt.
+
+Den "menschlichen" Würfel-Lösern hilft das übrigens nichts, denn es
+gibt keinen Lösungsalgorithmus, der mit höchstens 20 Zügen auskommt.
+Oder besser gesagt: es gibt zwar einen (das wurde durch Gottes Zahl
+ja bewiesen), aber die schiere Anzahl seiner unterschiedlichen Fälle
+würde jedes menschliche Gehirn überfordern.
+
+
+Äpfel, Birnen.  Davon abgesehen: würde man ihm pro Zug nur 50 ms(*)
+Antwortzeit zubilligen, wäre er gegen die Keral-Farm, der ebenfalls
+nur 50 ms Antwortzeit zugebilligt würden, zweifelsfrei schanzenlos.
+Er würde wahrscheinlich nicht mal bis zum 80. Zug kommen und folglich
+schon in weniger als acht Sekunden "ermatten", weil er im äußerst
+rechenaufwendigen Mittelspiel meistens wohl nur suboptimale Züge
+finden würde.
+
+(*) Warum gerade 50 ms Bedenkzeit?  Um zu gewinnen, muß man den
+    Gegner "matt setzen", und das erfordert -- eine "brauchbare"
+    Spielstärke vorausgesetzt -- gerne schon mal 80 Züge.  Durch das
+    Zeitlimit von acht Sekunden sind das zehn Züge pro Sekunde, und
+    da ein Zug aus zwei Halbzügen besteht, verbleiben 50 ms pro Zug,
+    um innerhalb der Zeitvorgabe eine "typische" Partie zu beenden.
+
+
+louis

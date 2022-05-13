@@ -1,0 +1,24 @@
+* Diedrich Uhlrich:
+
+
+Ja. Warum? Die allgemeine Erfahrung mit computerlinguistischen Tools
+ließ mich vermuten, daß Sprachpaare mit Englisch besser funktionieren
+würden als andere. Schlimmstenfalls dient das Englische gleich als
+Brückensprache.
+
+
+Aber in diesem Fall scheint das Ergebnis dennoch ziemlich erbärmlich zu
+sein.
+
+
+Meine schlimmsten Befürchtungen ... 
+
+Bei so vielen Sprachen wie sie FLC anbietet, geht es sinnvollerweise nur
+über eine Zwischenrepräsentation. Theoretisch wäre es schöner, wenn
+diese nicht eine natürliche Sprache wäre, aber dieser Extraaufwand ist
+in der Praxis kaum zu rechtfertigen.
+
+-- 
+GUGELIEREN,  vb., schwelgen: dann das ander jar war ein solch gugelieren
+bei dem guten most E. DETLEF
+  RÜSCHMANN, Deutsches Wörterbuch

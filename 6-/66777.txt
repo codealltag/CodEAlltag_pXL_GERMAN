@@ -1,0 +1,29 @@
+Das ist etwas anderes, nämlich eine festgelegte Abfolge von Rechenschritten,
+die nacheinander auszuführen sind. Die Aufgabe ist aber ganz eindeutig "am
+Stück" gestellt, es handelt sich um einen einzigen Term, nach dessen Wert
+gefragt ist. 
+
+
+Sehr wacklige Argumentation! Wenn Du den Term "2ö2+2ö2-2" laut liest, kommen
+sie auch nicht vor, gelten aber dennoch. Die Formulierung mit 
+"Punktrechnung" ist natürlich nur eine Eselsbrücke, sie stellt nicht das
+Rechengesetz selbst dar. Beispielsweise gibt es für eine Subtraktion
+("abzüglich") auch den Operator "./." - wäre das dann auch Punktrechnung
+mit Vorrang vor Addition? Und wie steht's mit einem Bruch, ist das nicht
+ganz klar Strichrechnung? Schließlich steht zwischen Zähler und Nenner ein
+Bruchstrich und kein Bruchpunkt. Und ist ein Kreuzprodukt wirklich noch
+Punktrechnung, wo der Operator doch dem Pluszeichen entspricht, nur um 45
+Grad gedreht?
+
+
+Mag sie auch zweideutig sein, so gibt uns die Psychologie einen Hinweis auf
+die richtige Deutung: irnkeinen Fallstrick muß eine so einfache Aufgabe
+doch haben :) 
+
+
+vG
+
+-- 
+      It takes a village to raise a child. (Afrikanisches Sprichwort)
+
+-- <http://houpuwhp.pvt> -- Ein Pinguin für jeden: <http://zgoyzl.uch/> --

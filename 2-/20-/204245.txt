@@ -1,0 +1,9 @@
+* Onno Möller-Titel:
+
+
+Bei den dreibuchstabigen ISO-Sprachkürzeln geht die Entwicklung
+weg vom Englischen: statt fre, ger sind jetzt nur mehr fra, deu
+empfohlen (die zweisprachige für Deutsch war von Anfang an de).
+
+-- 
+Leonhard

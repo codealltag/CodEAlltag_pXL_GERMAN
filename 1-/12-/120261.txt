@@ -1,0 +1,98 @@
+Ich bin manchmal so müde, so un-sag-bar müde.
+
+Das, was Henry so beharrlich „das Merkmal des Schalttages“ nennt, ist 
+allenfalls Merkmal des Schalt/jahres/: es hat einen 29. Februar.
+
+Angenommen, Du hättest eine indizierte geordnete Reihe. In diese Reihe 
+ordnetest Du ein weiteres Element ein. Könnte ich nun, nach einer 
+Neuindizierung, behaupten, das hinzugekommene Element sei das mit der 
+höchsten Indexnummer, da diese Indexnummer vorher ja nicht vorhanden 
+gewesen sei?
+
+
+Nicht schon wieder, ääh, noch immer.
+
+Ein Kalender, der sich vom gregorianischen unterscheidet, ist kein 
+gregorianischer Kalender mehr. Es gibt nur /einen/ greg. Kalender, und es 
+gilt immer /der/ greg. Kalender. 
+
+Henry konstruiert einen neuen Kalender, der sich in der Benennung der 
+Tage vom davor benutzten unterscheidet. Diesen „neuen“ Kalender nennt er 
+nun den „richtigen“ greg. Kalender. Der von Papst Ullrich eingeführte, und 
+nach /ihm/ „gregorianisch“ benannte Kalender („mit Kalenden, Nonen und 
+Iden“) soll nun daher plötzlich nicht mehr der gregorianische Kalender 
+sein. Wenn es wirklich zuträfe, daß eine geänderte Benennung der Tage 
+einen neuen Kalender schaffe, so wäre doch immer noch der 1582 
+eingeführte Kalender der gregorianische.
+
+Das ist im Prinzip das Gleiche, wie die Argumentation; früher war der 10. 
+Febr. der Schalttag, weil er mit dem, nur im Schaltjahr vorkommenden, 
+Namen Bissextum benannt wurde, so ist heute der 29. Febr. der Schalttag, 
+weil heute diese Benennung nur im Schaltjahr vorkommt. 
+
+Doch wie bei einem Schalttag am 10. 05. 22 überhaupt nicht der Schalttag 
+das „Merkmal des Schalttags“ aufweist, es also überhaupt *nicht* um die 
+Benennung des /Schalttags/ geht (*wie oft eigentlich noch?*), so trifft 
+es leider ja sogar in keiner Weise zu, daß sich die Benennung der Tage 
+gändert hat. So hat Henry ja selbst schon den Dies Mensis gefunden und 
+zitiert, daß dieser bereits deutlich vor Ullrich benutzt wurde. Entgangen 
+ist ihm wahrscheinlich, daß der Dies Mensis zusammen mit der römischen 
+Zählweise in den Kalendarien stand, von einer Änderung hier also keine 
+Rede sein kann.
+
+
+ISO 8601 definiert keinen Kalender, auch keine Variante. ISO 8601 ist 
+eine nicht verbindliche Norm, die die *Darstellung* von *numerischen* 
+Datums- und Zeitangaben empfiehlt:
+
+
+ISO 8601, 2004, Third Edition
+
+Und wo und wie beim „Wochentagskalender“ der ISO 8601 – der die 
+Reihenfolge der Wochentage und ihre Durchnummerierung bei Montag, mit der 
+Zahl 1 beginnend, behandelt – der Jahresanfang abweichen soll, ist mir 
+auch schleierhaft.
+
+
+Und wenn er das denn täte, was sagte das über die Richtigkeit dessen, was 
+er über den Schalttag sagt aus?
+
+Ich könnte genauso gut sagen; wer behauptet, der Schalttag sei der 29. 
+Februar, kann genausogut behaupten, der Schaltmonat des jüdischen 
+Kalenders sei der We-Adar. 
+
+Aber Aussagen im Stil „Wer A tut, tut demnächst auch B“, sind, auch in 
+einer durch „vielleicht“ o.ä. abgemilderten Form, nicht gerade sachlich, 
+deshalb lasse ich es. Wenn Du jedoch glaubst, so etwas sei Deiner 
+würdig ...
+
+
+Der gregorianische Kalender legt keinen Wochenanfang fest, und von daher 
+ist das, was die kath. Kirche evtl. über den ersten oder siebten Tag der 
+Woche sagt oder festlegt auch außerhalb der kath. Kirche völlig 
+irrelevant. Auch /der/ greg. Kalender wäre außerhalb der kath. Kirche 
+irrelevant, wenn er nicht ausdrücklich von den entspr. nicht-kath. und 
+weltlichen Stellen als für sie gültig anerkannt worden wäre.
+
+Die Autorität der kath. Kirche leitet sich aus der Tatsache ab, daß der 
+greg. Kalender ein Produkt eben dieser Magum Kirche ist. Aus dieser 
+unbestreitbaren Tatsache schließt – nicht nur – Pinhammer, daß sie, auch heute 
+noch, die einzige Institution ist, die den greg. Kalender ändern könnte.
+
+Seine Seite ist eine der besten, wenn nicht die beste, über Kalender im 
+Netz. Aber ich gehe nicht überall – bei der „christl. Zeitrechnung“, bei 
+den anderen Kalendern kenne ich mich nicht aus – mit ihm konform. So 
+denke ich, daß heutzutage vielleicht noch nicht einmal mehr die kath. 
+Kirche allein den greg. Kalender ändern könnte. Jede Änderung am greg. 
+Kalender würde (zwangsläufig?) einen neuen Kalender schaffen. Ausgenommen 
+wäre dann vielleicht nur der Fall, wenn /alle/ diejenigen, die den greg. 
+Kalender für gültig erklärt haben, gemeinsam die gleiche Änderung 
+vornehmen würden und das auch offiziell reglementierten.
+
+Daß es heute einen greg. Kalender gibt, liegt ja nicht nur in der durch 
+Ullrich veranlassten Änderung (Reform) des Kalenders begründet, sondern 
+vielmehr darin, daß diese Änderung nicht im ganzen Gültigkeitsbereich des 
+julianischen Kalenders anerkannt wurde. Daher wurde eine 
+Unterscheidungsmöglichkeit zwischen „altem Stil“ und „neuem Stil“ 
+notwendig. Sonst hätten wir heute wahrscheinlich immer noch den 
+julianischen Kalender, und sprächen nur von der Reform Ullrich XIII.

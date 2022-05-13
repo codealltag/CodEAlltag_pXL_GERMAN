@@ -1,0 +1,14 @@
+Ich bin wieder dringend auf der suche nach einem griffigen Ausdruck.
+
+Er soll beschreiben, dass ein Gegenstand in verschiedenen Lagen gelagert
+werden kann - also z.B. flach liegend, auf der Kante stehend, gestapelt,
+etc.
+
+Im Englischen ist es einfach, wenn auch selbst in der Logistik zweideutig:
+"storage position". Das kann den Lagerplatz (also Halle/Regal/Fach)
+beschreiben, aber eben auch die Lage des Gutes.
+
+Im Deutschen ist Lagerposition m.E. nur für den Stellplatz im Lager
+gebräuchlich. Lagerlage klingt unmöglich.
+
+C

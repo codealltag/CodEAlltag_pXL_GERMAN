@@ -1,0 +1,11 @@
+Jens Bußkamp <dphqqxbixpu@vivonyxqdnhgr.zxen>:
+
+Statt Vortext ist Titelei für den ersten Teil (einschließlich
+Inhaltsverzeichnis und Vorwort) nicht ungebräuchlich. Einen ähnlich
+eindeutigen Begriff für Haupt- und Endteil kenne ich nicht.
+
+Englisch gibt es Front matter, body matter und back matter;
+Übersetzungen sollten sich eigentlich in der Fachliteratur zum
+Buchdruck/Buchwesen finden lassen.
+
+Jean-Paul

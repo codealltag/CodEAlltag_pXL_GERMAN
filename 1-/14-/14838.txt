@@ -1,0 +1,7 @@
+Da kann man sich streiten SJJ ist von FVGJ und die haben da immer
+versucht so zu programmieren daß auch Fehler von seiten der
+User ausgebügelt werden so zeigt SJJ alles was nach dem
+begin  kommt als Anhang an obwohl es nicht korrekt mit einen
+end  beendet wurde.
+
+Nikolaus

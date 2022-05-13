@@ -1,0 +1,43 @@
+Ich will das Formale vom Inhaltlichen trennen.
+
+Formal besteht kein Widerspruch. Wenn sich Dromedare durch Einh�ckrigkeit 
+gegenüber Kamelen im Allgemeinen auszeichnen, die Einh�ckrigkeit aber kein 
+wesentliches Merkmal von Kamelen ist, können beide im Grund dasselbe sein, 
+eben bis auf diejenige Eigenschaft, die definitionsgemäß den Unterschied 
+ausmacht.
+
+Ob dise Festlegung inhaltlich sinnvoll ist, ist eine andere Frage. Worauf ich
+hinauswollte, ist, dass ein vielschichtiges Modell nicht handhabbar ist, noch
+dazu mit einem schichtentrennenden Kriterium "gegenseitige Verständlichkeit",
+das in fast jedem praktisch vorkommenden Fall kontrovers diskutiert werden
+wird.
+
+Aber man muss ja nicht das Kind mit dem Bade ausschütten, wie ich es getan
+habe. Ein zweischichtiges Modell ist wahrscheinlich sinnvoll:
+
+ (1) Eine Sprache ist eine Menge von Äußerungen, die einer Sprachnorm
+     genügen. Zur Sprachnorm gehört mindestens Vokabular, Syntax und die 
+     Zuordnung von Semantik zu lexikalisch und syntaktisch richtigen 
+     Äußerungen, allerdings noch mehr.
+
+ (2) Eine Sprachmenge ist eine Menge von Sprachen.
+
+Punkt (1) *allein* erlaubt schon die Bildung von Obersprachen, 
+Teilsprachen und überlappenden Sprachen; darauf kann man nicht verzichten. 
+überregionales Deutsch (etwa verstanden als ein Deutsch, das solche 
+Regionalismen enthalten kann, die in ganz Deutschland verstanden werden) 
+ist also eine Sprache; die Menge der deutschen Standard-, Regional- und 
+Lokalsprachen ist eine Sprachmenge.
+
+Ob man über (1) hinaus an Sprachen weitere Anforderungen stellen will, 
+etwa über gegenseitige Verständlichkeit, ist Geschmacksache. Werden solche 
+Anforderungen nicht erfüllt, dann ist eben die Sprache uninteressant, 
+ebenso wie in der Mathematik die Menge, die aus der Sinusfunktion, der 
+Zahl 51 und meinem rechten Daumen besteht, uninteressant ist, ohne dass 
+man ihr deswegen den Mengenstatus aberkennen muss.
+
+Welche Sprachmengen man "Sprachfamilien" nennen will, sollte sich wiederum 
+nach nachvollziehbaren linguistischen Kriterien richten.
+
+-- 
+Lothar Weisnich

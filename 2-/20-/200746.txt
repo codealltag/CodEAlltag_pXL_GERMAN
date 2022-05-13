@@ -1,0 +1,11 @@
+So haben wir es auch in der Schule gelernt. Von innen nach außen wird
+die Form immer komplizierter. Was fürs Schreiben (von Hand) und Lesen
+meiner Meinung nach eine gute Regel ist. Einziger Nachteil ist, dass man
+beim öffnen der ersten Klammer schon die Verschachtelungstiefe wissen
+muss, aber bei maximal 3 Ebenen geht das, und wenn man mehr braucht,
+muss man sowieso Klammerntypen mehrfach verwenden.
+
+	hp
+
+-- 
+   _  | Siebelt N. Ohlenbostel    | Deprecating human carelessness and

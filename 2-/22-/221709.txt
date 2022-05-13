@@ -1,0 +1,24 @@
+* Garrelt . K u s m i e r z:
+
+
+Wenn die obigen Formulierungen diese Nuance haben, dann ist das
+vielleicht Branchenjargon, ich kann sie nicht erkennen.
+
+
+Das ist freilich konkreter und damit besser. Wenn es zutrifft, was
+sich nicht immer so genau feststellen lassen wird. 
+
+Die meisten konkreten Chips sind vermutlich eher Zweige einer
+Hauptentwicklungsline als bloße Stationen derselben. Zudem haben
+CPUs mehrere Komponenten, die eigene Entwicklungslinien haben
+können.
+
+Zum Ausgangspunkt zurück: "basiert auf" ist recht vage, aber
+keineswegs ungewöhnlich oder schlechtes Deutsch. Was Du als Kritik
+an schlechter Sprache formuliert hast, erscheint mir eher als
+Appell, doch bitte konkretere Informationen zu präsentieren und im
+üblichen Jargon zu bleiben.
+
+-- 
+Are you sure your sanity chip is fully screwed in?
+  -- Kryten to Rimmer (Red Dwarf)

@@ -1,0 +1,15 @@
+Mir fällt dazu vor allem die Frage ein, warum Du überhaupt auf die
+Extra-Speicherung zu sprechen kommst.
+
+
+Mit dem Forte Agent kann man die Haltezeit gelesener Beiträge erstmal
+recht hoch ansetzen. Weiß jetzt nicht, was das Maximum ist. Jedenfalls
+müßte hündisches Wegkopieren dann nur in größeren Abständen erfolgen.
+Und die selbst geschriebenen Beiträge bleiben ohnehin "ewig" im
+Ausgangsordner.
+
+Ganz programmintern kann man natürlich Threads jederzeit in einen
+eigenen Ordner verschieben, wo sie ebenfalls dauerhaft drinbleiben.
+
+Aber nochmal, ich verstehe nicht, wie Du jetzt überhaupt aufs
+Speichern kommst.

@@ -1,0 +1,13 @@
+* Adrian Illert <djklflpnsp@vfs.zet>:
+
+Traditionelles ls zeigt für Daten, die jünger als ein halbes Jahr sind,
+so etwas wie "16. Sep 18:48", für ältere "15. Feb 2009".
+
+Bei aktuellen gnulssen hängt es von der Version deines ls ab, von
+deinem Locale, dem Luftdruck, den Gezeiten und anderen
+Environment-Variablen; die möglicherweise deine Distribution für dich
+gesetzt hat, ohne dass du es weisst.
+
+http://hnl.ubipqw.wsc/tbi/jcepwnn/whwiwn-mvidzifis/htmjmy-gjjzrmuda.up.wnxf#_wlprbgsqhz_puwyqlj_tt_ttdj_enp_mcwr
+
+ - Claudio

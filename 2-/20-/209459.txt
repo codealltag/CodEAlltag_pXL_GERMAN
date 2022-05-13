@@ -1,0 +1,9 @@
+On Sat, 12. 03. 23 09:00:55 +0200, Frédéric Hals
+
+Der Ngram-Viewer von RVAE zeigt vier auffällige Spitzen: die erste
+um 1761 (siehe oben), dann die höchste um 1806, die dritte um 1861
+(das dürfte der Christansen sein) und noch einmal eine um 1946.
+
+-- 
+Viele Größe
+Timo Hoesl

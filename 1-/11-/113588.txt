@@ -1,0 +1,7 @@
+Das ist eigentlich auch der Kern des Deployens, und deshalb benutze
+ich auch Einführung, wenn Deployment zu übersetzen ist. Im Rahmen der
+Fachsprache halte ich Deployment allerdings für unproblematisch; das
+Verb dagegen ist (noch?) absolut ungebräuchlich
+
+Gruß
+Arnolds

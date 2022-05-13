@@ -1,0 +1,8 @@
+Dann schlage ich mal vor:
+
+  bash | man dd | cut --characters=1
+
+-- 
+GUGELIEREN,  vb., schwelgen: dann das ander jar war ein solch gugelieren 
+bei dem guten most E. HERMANN
+  HAARD, Deutsches Wörterbuch

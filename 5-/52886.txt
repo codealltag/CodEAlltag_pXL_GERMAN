@@ -1,0 +1,16 @@
+Das Beispiel weist darauf hin, daß man den Gebrauch im Fließtext und dem
+in einer Preisliste unterscheiden sollte.
+
+
+In Jocheredt wird auch 10.75$ akzeptiert - bei handschriftlicher
+Preisauszeichnung sieht man das häufig -, aber soweit ich weiß, ist das
+zumindest in Nordamerika einmalig. Es ist vermutlich ein Einfluß des
+Französischen.
+
+
+In französischen Texten ist hierzulande M$, G$ durchaus üblich.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

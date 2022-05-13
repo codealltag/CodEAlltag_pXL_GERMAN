@@ -1,0 +1,7 @@
+Ist der Begriff "zeitkritisch" denn überhaupt aus dem 
+geisteswissenschaftlichen Jargon in den technischen übernommen worden? Für 
+mich siehts eher danach aus, als sei er dort unabhängig gebildet worden, 
+vermutlich als Lehnübersetzung von englisch "time-critical" (dringend).
+
+-- 
+Johannes Walbrühl

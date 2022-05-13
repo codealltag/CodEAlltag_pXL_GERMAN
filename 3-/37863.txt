@@ -1,0 +1,72 @@
+Mir ist nicht klar, warum du einen Eigennamen gelten lässt, aber
+Gelegenheitsbildungen als Kunstprodukte abqualifizierst. Aber naja...
+
+
+Ist doch nicht so schwierig. Man suche sich ein Kompositum, in dem
+an der Wortfuge ein möglichst langes Auslautcluster und ein
+möglichst langes Anlautcluster,  eventuell mit einem Fugen-s-
+dazwischen, zusammenstoßen.
+
+Es gibt bestimmte Gesetzmäßigkeiten, nach denen sich die
+Konsonanten an Silbenanfang und Silbenende kombinieren
+lassen. Es gibt da nach Kategorisierung der Konsonanten nach
+ihren phonetischen bzw. phonotaktischen Eigenschaften (Plosiv,
+Frikativ, Nasal, Liquida, Spirant) so schätzungsweise 2 bis
+max. 3 Dutzend Muster, nicht mehr.
+
+
+Auslautcluster nach dem Muster Liquida + Plosiv + S + T
+wie in "Herbst" sind schon das Maximum. Ein anderer Vierer wäre
+noch *Ernst*, ebenfalls auf -st. Das kommt sonst nur im
+Verbauslaut vor, wo Stamm und Flexiv -st aufeinanderfolgen. Alle
+anderen möglichen Muster sind kürzer (Liq + Sp, Liq+Pl, N+Pl,
+Liq+Pl+Pl, N+Sp+Pl - Beispiele: Kalb, Rand, Karst, Kunst/Wanst,
+Obst, etc.).
+*Angst* hat übrigens nur drei, nicht vier Konsonanten. -ng- ist
+ein velarer Nasal.
+Die auf -st auslautenden Einsilber sind übrigens Ausnahmen der
+Lautentwicklung, hier sind schwache Vokale entfallen[*].
+
+Hinter einer Vierer-Auslautkombi kommt wohl kaum noch ein Fugen-s
+vor. Zumal zu komplizierte Wortfugen auch noch ganz klar durch
+alternative Fugenmorphe aufgelöst werden ("Ärzte-" statt "Arzt",
+usw.) Vermutlich findet man - wenn überhaupt - im Schweizerdeutschen
+am ehesten noch mehr Beispiele, aber vermutlich keine längeren.
+
+Längere Anlautcluster als 3 Konsonanten sind mir von Wörtern 
+*deutscher* Herkunft nicht bekannt: Spirant + Plosiv + Liquida
+(str-, spr-, etc.). Zw- ist ebenfalls ein Dreier.
+Fasst man mal eine Affrikata als Plosiv plus homorganen Frikativ
+auf, geht höchstens noch eine Liquida dahinter, man
+kommt auch nicht auf mehr als drei Laute: Pfriem, Pflock.
+
+Griechische Fremd- und Lehnwörter haben nur etwas ungewöhnliche
+("undeutsche") Verbindungen, aber keine längeren: Skr-, Skl-, Pn-,
+Sph- (=Sf-), Mn-, Tm-, ??). Bei Latein sieht's auch nicht besser aus.
+
+
+Mir fielen für's Deutsche da noch Verbindungen mit *selbst-* vorne
+ein, und dann braucht's halt noch ein möglichst langes Anlautcluster
+hinter der Wortfuge. Bau dir den Rest mit "selbst-" selbst:
+
+selbstpfl..., selbststr...,
+
+Mehr als 7 insgesamt ist zumindest aus dt. Elementen nicht zu holen,
+wenn ich jetzt nix übersehen habe. Theoretisch wäre ein Achter
+denkbar, wenn man ein Wort mit Fugen-s (Herbsts-kkk...) findet,
+aber sowas wird wohl artikulationstechnisch einfach gemieden, wenn
+die Auslaut-Vierer schon durch Ausfall eines Vokals entstandene
+Ausnahmen sind.
+
+
+So, vermutlich habe ich jetzt einigen den Spaß an der Suche
+verdorben...
+
+
+Größe
+Kurt
+
+
+[*]
+Mohrrübe: Einf. in d. Phonetik des Deutschen.
+Oppendorf: U. Lehbrink 1977, 1. Aufl.

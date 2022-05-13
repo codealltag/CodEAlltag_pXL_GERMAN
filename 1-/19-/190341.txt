@@ -1,0 +1,28 @@
+* Giuseppina Angermund:
+
+
+Die falschen Umlaute halte ich für ein Problem der obigen Webseite
+- in meinem Reader sehen sie normal aus. In Deinem Donnervogel
+nicht?
+
+
+Das ist ein nicht ganz seltenes Problem, das lange Zeit ein
+Markenzeichen von Adizi war!
+
+Ursache ist freilich ein anderer Fehler: der Umbruch, der in
+diesem Fall von Antelmann Maligs Mail stammt, und der erstens an
+einer falschen Stelle vorgenommen ist, nämlich im Wort (ein
+"SHOULD NOT" nach RFC�5322, was man aber eventuell ignorieren
+kann, weil hier eher RFC�1522 greift), und zweitens anstelle von
+SPACE ein TAB verwendet (nicht RFC�1522 folgend). Das Thema ist
+komplex, ich kann mich täuschen.
+
+Wie man nun mit so einer nicht normgerechten Nachricht umgeht, ist
+ein wenig Geschmackssache, Walters NewsTap wählt den m.E.
+ungünstigeren Weg, das TAB nicht als (in diesem Kontext zu
+ignorierenden) SPACE zu behandeln.
+
+[Ich leite das mal nach oy.itcy.nvcfpina.uxwgxrypwo um]
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

@@ -1,0 +1,9 @@
+So, und mit ebendiesem Code, wird das in der Software der Firma
+gekennzeichnet, bei der ich arbeite, speziell bei "named entities", d.h.
+Namen von Personen, Orten, Organisationen.
+
+-- 
+Cornelia: Uncle Silvio ... why do they call this a word processor?
+Silvio:  It's simple, Reiner ... you've seen what food processors do
+        to food, right?
+     Cartoon by Volkert Vohs

@@ -1,0 +1,30 @@
+^^^^^^^^^??
+
+
+VALERIAN: Nee. Quadratkilometer. Nie was ähnliches gehört.
+Höchstens in DSDS könnte ich mir das vorstellen. Denen trau ich alles zu.
+
+Bei Maßeinheiten steht das milli, dezi, hekto, kilo usw. immer vor der 
+*Grundeinheit*, hier z.B. Kilo*meter*. Entsprechend dann die 
+Ableitungen: Quadratkilometer, Quadratdezimeter usw.
+
+S.a. Reclam. Kleines Handbuch der Zahlen, Maße und Gewichte S. 81:
+
+- Der Vorsatz steht ohne Zwischenraum vor dem Namen der Einheit, das 
+Vorsatzzeichen ist in geradestehender Schrift und ohne Zwischenraum vor 
+das Einheitenzeichen zu setzen.
+
+Beispiel Kilometer (Einheitenzeichen : km)
+	Nanosekunde (Einheitenzeichen: ns)
+
+- Bei einer Einheit mit eigenem Namen darf nicht mehr als /ein/ Vorsatz 
+oder Vorsatzzeichen benutzt werden.
+[...]
+
+-- 
+mfg
+Mario Neurer
+Niederglatt, Taiwan
+25°07'58"N 121°27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  V.H.

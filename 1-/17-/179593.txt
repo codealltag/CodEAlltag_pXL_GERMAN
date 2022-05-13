@@ -1,0 +1,17 @@
+Was ich bezweifele.
+
+Denn die angegebene physikalische Einheit ist umgekehrt proportional zur 
+Beschleunigung und mit inkompatiblen Einheiten gewürzt.
+
+s/(km/h)=h*s/km ~ 3600 s^2/1000m
+
+ZB bei
+10s/(100km/h) = 10 s * 3600 s^2/100000 m = 0.36 s^2/m
+=1/3,53 Erdbeschleunigung,
+weil ja heute, seit Einführung der Digitalphotographie in einem 
+angelsächsischen oder ostasiatischen Land, Brüche mit 
+Dezimalbruchnennern in Mode gekommen sind.
+
+-- 
+
+Uwe Schlüßel

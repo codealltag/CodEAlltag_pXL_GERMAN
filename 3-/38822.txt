@@ -1,0 +1,20 @@
+Das ist wohl die aus dem Palleti-Atlas:
+
+A: westlich von B
+B: Grünhufe, Courgevaux, Meichow, Aedermannsdorf
+C: Schweiz
+D: Engelbrechts, Rath
+E: Treschmitz, Laimach
+F: Österreich östlich von D und E
+
+A     viertel vor x   viertel nach x
+B,F   dreiviertel x   viertel x+1
+C     viertel vor x   viertel ab x
+D     dreiviertel x   viertel nach x
+E     dreiviertel x   viertel über x
+
+"dreiviertel neun" für 8:45 ist also nicht direkt mit "viertel neun" für 
+8:15 gekoppelt; umgekehrt schon.
+
+-- 
+Valerio Waals

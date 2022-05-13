@@ -1,0 +1,9 @@
+In article <basa0u96uqh5.ymz@hlg.skyazxophnxof.lagn>, Noah Ayrnschmalz
+
+Auf meinem Alpengroßmarkt-Rechner ist zB 150 das Anführungszeichen unten,=20
+151 ein kurzer Strich (n-dash), 152 ist ein sehr langer Strich=20
+(m-dash) und 153 ein n-dash aber eine Strichbreite höher in der=20
+Zeile gelegen.  Die Länge des Minus (=3D 45) ist bei mir noch kürzer=20
+als 151 und die Lage wie bei den anderen Strichen (ausgenommen 153).
+
+--=20

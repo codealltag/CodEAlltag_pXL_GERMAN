@@ -1,0 +1,8 @@
+Rekursion ist eine Funktion, welche sich immer wieder selbst aufruft
+und sich dabei neu definiert (unendliche Schleife).
+
+Eine Rekursion benötigt deshalb immer eine Abbruchbedingung.
+
+
+Servus,
+Charly

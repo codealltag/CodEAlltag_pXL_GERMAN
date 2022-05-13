@@ -1,0 +1,18 @@
+Das ist ja nicht mal ein vollständiger Satz, geschweige denn ein Text
+von 20-30 Seiten. Das liest sich eher so:
+
+    Im Jahr 1991 wird die erste Internetverbindung mit einer 19.2
+    kbit/s-Standleitung hergestellt.
+    ...
+    Im Jahr 2004 wird eine weitere Standleitung mit 2n Mbit/s zu
+    Baltin-Pflanzen hergestellt, die alte Standleitung mit n Mbit/s bleibt als
+    Ausfallsleitung weiter in Betrieb. Ein für 2007 geplanter Upgrade
+    wird verschoben, weil ... Dieser Upgrade wird 2009 durchgeführt.
+
+Im Normalfall mit deutlich mehr Prosa dazwischen, so dass man sich nicht
+immer im Klaren darüber ist, in welchem Jahr man sich gerade befindet
+und ob man noch im historischen Rückblick oder schon im Ausblick auf die
+Zukunft ist. Dass im Deutschen sowohl das Passiv als auch das Futur mit
+"werden" gebildet wird, macht das auch nicht leichter.
+
+	hp

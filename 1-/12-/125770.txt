@@ -1,0 +1,3 @@
+Mir kommt nur die Version ohne Komma korrekt vor. (Und mehrdeutig.)
+
+Valentin

@@ -1,0 +1,12 @@
+Genau; heißt "Nenner Ableitung Zähler" denn nun
+"Nenner nehmen - davon die Ableitung und dann mal Zähler" oder
+"Nenner mal die Ableitung vom Zähler"? Vielleicht gibt's ja auch
+dafür ne Merkregel...
+
+Gruß,
+Jan
+
+P.S.: Ich merk mir die Quotientenregel aus genau diesen
+Gründen überhaupt nicht, sondern leite sie, wenn ich sie
+mal brauche, als Produkt- und Kettenregel her, die ich
+mir glücklicherweise merken kann.

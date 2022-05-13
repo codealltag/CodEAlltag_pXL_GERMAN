@@ -1,0 +1,20 @@
+Na, dann lag ich ja richtig: das ist ein WLAN-Router von Knusperlädle.
+Laut Datenblatt erfordert er zwecks IP-Verbindung _zwingend_ ein
+DSL- oder Kabelmodem -- hast Du sowas?  Wenn ja: s.o.!  Und wenn
+nicht: wo willst Du ihn denn dann funktionsgebend "anstöpseln"?!
+
+Ah..  Idee!
+
+Wenn Dein Laptop über eine Ethernet-Schnittstelle verfügt, kannst
+Du den Router natürlich WAN-seitig daran anschließen, und ggf. in
+einen freien USB-Port des Laptops einen 802.11n-fähigen WLAN-Stick
+stecken.  Dann liefert der Laptop über Deinen jatho-UMTS-Stick dem
+per CAT5-Kabel angebunden WLAN-Router den erforderlichen Internet-
+Zugang, den Du dann drahtlos über den WLAN-Anschluß nutzen kannst.
+Vorteil: Du kannst den Router nutzen und mußt ihn nicht wegwerfen!
+
+Berichte aber *niemals* im Usenet über dieses Netzwerk-Setup, sonst
+landest Du schneller im Net-Digest, als Du schauen kannst...!  ;^)
+
+
+joël

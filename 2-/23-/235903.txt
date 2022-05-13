@@ -1,0 +1,4 @@
+Bei "nachfüllen" erwarte ich, dass mindestens die Hälfte der 
+angestrebten Füllmenge bereits drin ist.
+
+Urs

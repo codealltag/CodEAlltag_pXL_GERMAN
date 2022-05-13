@@ -1,0 +1,26 @@
+Umgangsprachlich "weil" drückt in der Tat die fast zu 100% übliche 
+Verwechslung oder Verwischung von notwendiger und hinreichender 
+Bedingung durch Transfer der Logik in die Kausalit�tbeziehungen in Raum 
+und Zeit aus.
+
+Wenn nach deinem Sprachgefühl (und den aller anderen vermutlich)
+
+XY war nicht anwesend -> ich hatte Ruhe
+
+mit "weil" passend umschrieben ist, so ist das streng logisch mit 
+Sicherheit falsch, weil ja alle anderen Ruhestörer auch noch abgestellt 
+werden müssen, die Bedingung also nur notwendig aber nicht hinreichend ist.
+
+"Weil" als Implikation greift in der Relation logisch nur dann, wenn 
+Ruhe vor XY gemeint war, XY also auch rechts von -> vorkommt. In der 
+Sprache vermeidet man diese Genauigkeit absichtlich, in der Mathematik 
+ist es für die Schüler ein echter Anlass zum Kopfzerbrechen.
+
+Noch bei den Erstsemestern in Mathematik bemerkt man diesen speziellen 
+Mangel an eingebauter logischer Präzision in der deutschen Sprache, so 
+dass für die Beweistechniken diese sprachliche Ebene erst im Studium 
+noch entwickelt werden muss.
+
+-- 
+
+Gabriel Glocker

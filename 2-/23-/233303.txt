@@ -1,0 +1,10 @@
+* Reinhard Thiesmann:
+
+
+Na, hoppla, das hätte ich nicht verstanden. Gut, im Kontext
+vielleicht zusammengereimt, aber von der anderen Redewendung ist
+es so weit entfernt, die wird da bei mir erst mal nicht aktiviert.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Eilert Kloock

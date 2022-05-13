@@ -1,0 +1,9 @@
+Das gleiche Problem gibt es auch beim Booten des Linux-Kernels. Der
+Kernel befindet sich auf einer SCSI-Festplatte, dafür braucht man
+einen Treiber. Der Treiber jedoch ist Bestandteil des Kernels, welcher
+leider auf der Festplatte liegt. Zur Lösung werden die BIOS-Routinen
+verwendet um erstmal nur den SCSI-Treiber als initrd-File zu laden.
+
+Auf dein obiges Sprachproblem bezogen bringt wohl jeder Ausländer
+bereits ein BIOS mit einfachem Deutsch standardmäßig mit. Das ist
+genetisch determiniert (sagt zumindest Knut Kortzfleisch).

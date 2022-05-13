@@ -1,0 +1,26 @@
+[Followup-to ignoriert]
+
+
+Unzweifelhaft hast du richtig beobachtet, dass das kleine b in
+altdeutscher sowie in lateinischer Schreibschrift sich nicht
+deutlich voneinander unterscheiden. Sehr wohl aber unterscheiden
+sich fast alle Kleinbuchstanem der Kurrentschrift von den Kleinbuchstaben
+der Druckschrift - aber nicht alle Kleinbuchstaben der lateinischen
+Schreibschrift. Das Schreibschrift-a ist schwer vom Druckschrift-a
+zu unterscheiden, jedenfalls an der Tafel, an der ein Mathematiklehrer
+irgendetwas vorrechnet; sehr wohl aber ist das Kurrentschrift-a vomn
+Druckschrift-a leicht zu unterscheiden. Gleiches gilt für andere
+Buchstaben (d, e...). Und (Überraschung!) man kann das Kurrentschrift-b
+auch vomn Druckschrift-b unterscheiden.
+
+Und genau dieser Unterschied ist das, was man mit der Konvention
+"Vektoren mit Kurrentschrift bezeichnen" in handgeschriebenen Texten
+erreichen will - man kann dann die Vektoren deutlich erkennen.
+Ich kenne nun aber keine Konvention, dass man bestimmte mathematische
+Größen mit lateinischer Schreibschrift, andere mit deutscher
+Schreibschrift benennt.
+
+Mit anderen Worten: du hast ein Scheinproblem durchaus korrekt
+beschrieben, einer Lösung dieses Problems bedarf aber niemand.
+
+Richard

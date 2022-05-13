@@ -1,0 +1,23 @@
+Ja.
+
+
+Selbst das würde auf einer dreispurigen Autobahn funktionieren, wenn die
+Lkw alle schön konstant 90 auf der rechten Spur fahren, die Pkw konstant
+120 auf der mittleren und die MRW[1] konstant 250 auf der linken Spur.
+Dann würde jede Sekunde je ein Lkw, ein Pkw und ein Mrw vorbeifahren,
+die Kapazität auf allen drei Fahrspuren wäre gleich.
+Aber natürlich spielts das nicht. Auf der dritten Spur fahren natürlich
+nicht alle 250, sondern manche wollen halt nur "gemütlich" 150 fahren,
+oder gar nur mit 130 den überholen, der vor ihnen auf der zweiten Spur
+nur 110 statt 120 führt. Und auch der konstanteste 3.Spur-Picker muss
+irgendwann von der Autobahn wieder runter und damit die anderen zwei
+Spuren kreuzen. Und solche dauernden Geschwindigkeitsänderungen und
+Spurwechsel machen meine Milchmädchenrechnung natürlich zunichte - darum
+habe ich das *theoretisch* ja so betont. Bei einer Geschwindigkeit, die
+alle Verkehrsteilnehmer leicht halten können und wollen, gibt es wenig
+Grund für Geschwindigkeitsänderungen und Spurwechsel und man kommt dem
+Ideal des gleichmäßigen Flusses näher.
+
+	hp
+
+[1] Menschenrechtswagen

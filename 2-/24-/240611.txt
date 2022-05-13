@@ -1,0 +1,10 @@
+Imap macht aber jedesmal einen Abgleich mit dem Server. Aber lassen
+wir das, das führt zu weit.
+
+
+Gruß Nico
+
+-- 
+Contrary to public opinion Germans do not know 
+everything, they just know everything better"                                                              
+   === http://sji.tssvaqwjexrsmnup.qu ===

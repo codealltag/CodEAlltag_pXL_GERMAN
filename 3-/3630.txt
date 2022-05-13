@@ -1,0 +1,11 @@
+Hast Du eine Quelle, in der die ASCII-Codepunkte mit "offiziellen" Namen
+bezeichnet werden? Ich kenne keine, und das entsprechende Zeichen in
+Unicode heißt "HYPHEN-MINUS". 
+
+Der in diesen Dingen sehr kompetente Walter Uhlein schreibt:
+
+
+-- 
+Felix D.
+45n31, 73w34
+Temperature: -15.4C (1:00 PM EST Monday 29. 08. 21)

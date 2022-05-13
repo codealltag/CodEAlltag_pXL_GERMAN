@@ -1,0 +1,30 @@
+Das Lustige ist:
+Selbst die Fachwelt kann die Begriffe nicht auseinanderhalten.
+In den meisten Dokumenten findet man die Begriffe synonym
+verwendet. Ich bezweifle auch, dass die Begriffe genau
+so, wie wir sie verwenden wollen, geschaffen wurden.
+
+
+"Ausweis vorzeigen" für authentisieren und "Ausweis prüfen"
+für authentifizieren finde ich gut und passend.
+
+"authentisieren" wäre dann die Behauptung einer Identität und
+gleichzeitiges Anbieten eines Beweisverfahrens für diese
+Behauptung. Dies kann durch Vorlegen eines bestimmten Zertifikats
+erfolgen (Bild im Pass, der von einer anerkannten Stelle herausgegeben 
+wurde; RSA oder DSA Zertifikat einer anerkannten CA. Anerkannt meint
+hier: Vom Authentifizierer anerkannt)
+
+"authentifizieren" wäre demzufolge die Überprüfung dieser Behauptung.
+überprüft wird, ob der Herausgeber des erhaltenen Zertifikats zur
+Gruppe der "anerkannten Herausgeber von Zertifikaten" (trustet CA)
+gehört und ob der Überbringer beweisen kann, dass er die, im
+Zertifikat beschriebene Person ist. (Bei einem Pass beweisst er das,
+wenn er mit dem Bild übereinstimmt, bei elektronischen Zertifikaten
+indem er nachweist, dass er im Besitz des zughörigen Schlüssels ist.
+Falls die herausgebende CA Schlüssel nur auf HSMen herausgibt, beweist
+der "Authentisierungwillige" den Besitz des HSM und damit die
+behauptete Identität.)
+
+Gruss
+Benjamin

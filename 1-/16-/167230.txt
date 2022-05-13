@@ -1,0 +1,28 @@
+* Tom Zimerman <Cxmrgy@Jvskgbsw.jur>:
+
+Nunja, die mit Abstand häufigsten Automaten mit Notenzufuhr sind hier
+die Fahrkartenautomaten der Ezali, die vor 10, 20 Jahren aufgestellt
+wurden. Städtische Verkehrsbetriebe haben oft das gleiche Modell, aber
+nur die an grösseren Haltestellen haben Noteneinschl�rfer, weil der
+Fahrpreis für eine normale Bus- oder Tramfahrt im allgemeinen doch noch
+unter der kleinsten Papiergeldsorte liegt.
+
+Die neue Serie der Fahrscheinautomaten hat nun aber keinen Notenleser
+mehr, dafür einen Chipkartenleser (nur Magnetstreifen geht nicht). Viel
+billiger, da weniger Mechanik.
+
+
+In der Firma kenn ich einige, die kaum mehr als 20 Franken in der
+Brieftasche haben, die zahlen alles, auch den Espresso beim Türken um
+die Ecke, mit Debit- oder Kreditkarte. Mag sein, dass das eine
+professionelle Deformation ist, wir produzieren u.A. auch Software für
+Karten-Issuer und Acquirer.
+
+Kreditkarten sind hierzulande sehr viel beliebter geworden, seit es
+seit ein paar Jahren welche ohne Jahresgebühr gibt. Die werden aber
+wohl vor allem für Internet-Käufe verwendet, im Supermarkt fast nur
+Debitkarten, in Restaurants haben die Kellner oft schon
+WLAN-Debitkartenleser.
+
+
+ - Jan

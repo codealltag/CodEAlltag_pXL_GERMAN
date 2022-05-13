@@ -1,0 +1,50 @@
+Am 21.01.2011 15:03, schrieb Lars Unterloh:
+
+...
+
+Hmmm, nun ja ...
+
+
+... schon besser, da sind Bilder. Und diese Graphen scheinen mir dann 
+aber doch deine These, die (wenn ich es richtig verstanden haben sollte, 
+falls nicht, korrigiere mich bitte) lautete, es bestehe ein positiver 
+Zusammenhang zwischen durchschnittlichem Preis/Kurs und Volatilität, 
+eher _nicht_ belegen.
+
+Betrachten wir den ersten Graphen: Hier ist my (die Drift) konstant, 
+während für sigma (die Volatilität) drei verschiedene Werte 
+durchgerechnet werden. Der (von der Volatilität unabhängige) 
+Durchschnittspreis wird durch die grüne Kurve dargestellt. Bei niedriger 
+(gelb), mittlerer (rot) und hoher (blau) Volatilität schwanken die Werte 
+mit unterschiedlich starken Ausschlägen um den gleichen Durchschnitt.
+
+Dass am dargestellten des Graphen der blaue Wert am höchsten ist, ist 
+purer Zufall, hätte man den Graphen bei 0,6 oder 0,8 Zeiteinheiten 
+abgeschnitten, stünde am Ende der heftigere Ausschlag des blauen Wertes 
+nach unten.
+
+Der Durchschnittswert hängt allein von my ab, sigma bestimmt nur die 
+Stärke der von ihm abweichenden Ausschläge in beide Richtungen.
+
+
+Da beim zweiten Graphen die Volatilität für alle drei Kurven die gleiche 
+ist, kann er für die These einer Abhängigkeit des Preises von der 
+Volatilität auch nicht viel hergeben. Aus dem größeren Abstand zwischen 
+grüner und blauer Kurve, verglichen mit dem zwischen blauer und roter 
+Kurve, lassen sich keine Schlüsse ziehen, denn er ist lediglich der 
+Tatsache geschuldet, dass wir hier absolute Werte haben. Bei einem 
+logarithmischen Maßstab wären die Entfernungen ungefähr gleich.
+
+
+Kein Widerspruch. Das aber betrifft jetzt die irrealen Kurse in der 
+realen Welt jenseits mathematischer Modelle.
+
+Das ließe sich auch anhand des ersten Graphen deutlich machen: Neu 
+hinzutretende Markteilnehmer verallgemeinern die rasanten 
+Kurssteigerungen zwischen Zeiteinheit 0,8 und 1,0. Nach dem Modell 
+sollten die Kurse bald auch wieder unter die grüne Kurve sinken können, 
+tatsächlich aber explodieren sie, da eine Fortsetzung des Trends 
+zwischen 0,8 und 1,0 erwartet wird.
+
+
+Tschüs, Philippe

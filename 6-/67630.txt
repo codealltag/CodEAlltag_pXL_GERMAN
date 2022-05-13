@@ -1,0 +1,6 @@
+* Vincent Hagenguth <ohfonm@afkljoc.fzpivpa>:
+
+War mal so. Eine Weile wurden in Frankreich Fat Binaries vom Typ
+Total-Fina-ELF verwendet, heute nur noch TOTAL.
+
+ - Eugen

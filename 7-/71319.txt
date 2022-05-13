@@ -1,0 +1,11 @@
+Erlaubt, aber nicht zweckmäßig!
+
+Ich erinnere mal wieder an Valerian Fuchshuber und die "verbesserungsfähigen" 
+Vorschläge.
+-fähig: "kann sich selber verbessern"
+Wie selbstmodifizierender Code im Programm, oder was?
+
+-bar: "kann erweitert werden" (durch die Vorschlagenden [geht sogar ohne 
+Hammer ;)] oder Dritte)
+
+-Maik

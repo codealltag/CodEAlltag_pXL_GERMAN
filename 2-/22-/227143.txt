@@ -1,0 +1,13 @@
+annehmen, daß es beispielsweise für gewisse mathematische Verfahren 
+keine einfache Lösung gibt, weil bisher niemand eine gefunden hat. 
+Diese Annahme /kann/ falsch sein, dessen ist man sich aber durchaus 
+bewußt.
+
+Das einzige _beweisbar_ sichere Verschlüsselungsverfahren ist, wie Du 
+richtig bemerkt hast, tatsächlich nur der OTP.
+
+Aber Du wolltest den Text ja auch nicht verschlüsseln, insofern ist 
+das alles ziemlich irrelevant.
+
+
+Vinzent.

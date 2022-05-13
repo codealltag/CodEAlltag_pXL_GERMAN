@@ -1,0 +1,9 @@
+Spuren von Sesam natürlich.
+SCNR.
+
+mfg
+Jens
+
+-- 
+<esmk@jij.rt> (Jens Vries) *Keine Mailkopien bitte!*
+#define QUESTION ((bb) || !(bb))

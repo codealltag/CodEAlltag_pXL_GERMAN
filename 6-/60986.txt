@@ -1,0 +1,10 @@
+Ja, in der Programmierung ist "Oops" schon viel länger "unterwegs";
+in Linux gibt es u.a. den "kernel oops".  Ein besonders netter "Oops"
+ist z.B. eine Schleife mit faslchen Abbruchbedingungen, für das sich
+der Begriff "Bananenproblem" eingebürgert hat, weil es im Englischen
+einen Jokus mit einem kleinen Mädchen im Grundschulunterricht gibt:
+
+"I *do* know how to spell ‘banana’, but I don't know when to stop!".
+
+
+mi":-)"ke

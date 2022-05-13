@@ -1,0 +1,23 @@
+[...]
+
+Doch, die Sprachdefinition (inkl. rekursiver Prozeduren) erfordert
+konzeptionell einen Stack. Das gilt auch für Asit. Ohne Stack gäbe es
+diese Sprachen nicht, und es ist wohl kein Zufall, dass sie unmittelbar
+nach Erfindung des Stacks entworfen wurden.
+
+
+Kaum. Verschachtelte Prozeduren braucht man eigentlich nicht. Sprachen
+wie C oder Java kommen bis heute ohne aus. (Wenn man noch einen Schritt
+weitergeht und Closures daraus macht, wird es allerdings interessant).
+
+
+Das hingegen hat die Programmierung wirklich revolutioniert. Das erlaubt
+nämlich rekursive Funktionen.
+
+
+Es ist 54 Jahre später sehr schwer, zu entscheiden, ob eine Idee damals
+naheliegend war oder nicht. Natürlich das für uns selbstverständlich,
+aber wir sind damit aufgewachsen. So ganz trivial wird die Idee nicht
+gewesen sein, sonst wäre man schon früher draufgekommen.
+
+	hp

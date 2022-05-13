@@ -1,0 +1,12 @@
+Es gehört zur Essenz der logischen Implikation, dass der
+Vordersatz nicht wahr sein muss. Die Implikation ist sogar immer
+wahr, wenn der Vordersatz falsch ist.
+
+A -> B ist aequivalent zu -A v B.
+
+(Gelesen: A impliziert B, ist genau dann wahr, wenn gilt: Non-A
+oder B)
+
+Gruss
+
+Remmer

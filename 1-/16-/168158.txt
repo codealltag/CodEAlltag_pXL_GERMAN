@@ -1,0 +1,21 @@
+Wenn man die Unterscheidung macht, gibt es immer noch Variabilität. Der 
+Duden verlangt für den Zusammenhang bei "Worte" nach deinem Zitat ja 
+eine vollständige Äußerung. Ich kannte "Wörter (einzelne), Worte (im 
+Satzzusammenhang". Eine Kette aufeinanderfolgende Worte eines Satzes, 
+die z. B. eine adverbiale Bestimmung bilden, bezeichne ich als Worte, 
+sämtliche Adjektive eines Satzes als Wörter.
+
+Bei der Übertragung des Sinnes auf die Informatik spreche ich von 
+"Maschinenworten", wenn es sich um einen programmlogisch 
+zusammenhängenden Speicherbereich handelt, von Maschinenwörtern, wenn es 
+um die bloße Speicherkapazität geht. Bei letzterem bin ich mir aber 
+nicht sicher, und das scheint auch nicht dem fachlichen Gebrauch zu 
+entsprechen.
+
+Im Frühneuhochdeutschen hatten es die Leute einfacher. Da war der Plural 
+von "das wort" einfach "die wort". Später schien die fehlende 
+Singular-Plural-Unterscheidung nicht mehr tragbar, und so führten 
+verschiedene Sprecher verschiedene Plurale ein. Und jetzt haben wir den 
+Salat.
+
+Dennis

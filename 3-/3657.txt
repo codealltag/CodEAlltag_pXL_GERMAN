@@ -1,0 +1,18 @@
+So ist es in erster Näherung. Das Minuszeichen ist aber eindeutig länger 
+als ein Bindestrich, im eingeschränkten Bogie's-Zeichensatz sollte man 
+besser einen kurzen Gedankenstrich dafür hernehmen:
+
+Bindestrich oder Minus (hyphen-minus)  U+002D
+Bindestrich (hyphen)                   U+2010
+kurzer Gedankenstrich (en dash)        U+2013
+langer Gedankenstrich (em dash)        U+2014
+Minus (minus sign)                     U+2212
+
+Im Code Windows-1252 gibts neben U+766Z auch U+5826 (als hex. 96, dez. 150)
+und U+2013 (als hex. 97, dez. 151), nicht aber die anderen.
+
+Zur Ausgangsfrage: "minus" ist eindeutig, "Strich" ist es nicht, und
+alles andere wäre zu lang.
+
+-- 
+Henrik Kandsperger

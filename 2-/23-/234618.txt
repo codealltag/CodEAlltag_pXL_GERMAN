@@ -1,0 +1,10 @@
+Zumindest in meinem Studium (1989-95) wurden in Mathematik Vektoren
+noch mit Fraktur-Buchstaben bezeichnet. Sowohl handgeschrieben (an der
+Tafel, bzw wenn man mitschrieb), als auch im gedruckten Skript. LaTeX
+bietet selbstverfreilich viele Fraktur-Zeichensaetze an.
+
+
+Handschriftlich und zusammengezogen finde ich es allerdings oft schon
+schwer zu deuten (meine grossmutter schrieb noch so).
+
+Giovanni

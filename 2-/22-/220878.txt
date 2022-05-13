@@ -1,0 +1,23 @@
+[...]
+
+Von empfangenen Mails war meinem Verständnis nach nicht die Rede,
+sondern von Mails. Und bevor eine Mail empfangen wird, nimmt sie
+üblicherweise ihren Weg durch das Internet:
+
+Der Sender schickt sie mittels Submission-Protokoll an seinen
+Mail-Provider.
+
+Der schickt sie mittels SMTP an den Mail-Provider des Empfängers.
+
+Der Empfänger holt sie wiederum mittels IMAP oder POP von diesem ab.
+
+Da sind mindestens drei Verbindungen und zwei Server "im Internet"
+involviert, auf denen die Mail zumindest zeitweise existiert.
+
+(und das noch ohne Webmail ansprechen zu müssen).
+
+	hp
+
+
+-- 
+   _  | Jörg E. Többen    | Deprecating human carelessness and

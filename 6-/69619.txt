@@ -1,0 +1,9 @@
+Nun, ein Liter Erdöl verseucht eine Million Liter Trinkwasser,
+und ein Fußballfeld ist (zwischen den Torwartstars) ungefähr
+3.5*10^-18 Parsec lang und zwischen den Links- und Rechtsaußen-
+stars etwa halb so breit, was so ca. 3.4*10^-23 Astronomischen
+Einheiten entspricht.  Die Umrechnung auf kubische Maße sollte
+folglich trivial sein.
+
+
+peter

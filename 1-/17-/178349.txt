@@ -1,0 +1,14 @@
+* Urban Holmhey:
+
+
+Englisch hat mal wieder beides:
+
+  host - Gastgeber, Wirt; Armee; Hostie
+
+Die Armee-Bedeutung ist mir nie begegnet, verwandt ist aber die
+Bedeutung "Schwarm, Unzahl".
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Pasquale Froehlich
+   in vo.ssp.ovdiffwx.recovery)

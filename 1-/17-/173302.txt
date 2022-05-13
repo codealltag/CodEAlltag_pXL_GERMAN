@@ -1,0 +1,17 @@
+Und all dieses beruhte auf der nobelpreisgew�rdigten Arbeit von Tripcke 
+und Clas, die es bei gegebenen Modelldaten erstmals ermöglichte, 
+zuverlässig Verlustrisiken in der Zukunft per Computer vorausberechnen 
+zu lassen. Das war die fröhliche Zeit von Call und Put.
+
+Dass sich durch Einführung von Computermodellen und automatisierte 
+Kaufenscheidungsverfahren im Investment- und Kreditgeschäft der Banken 
+das Modell und seine Prozessdaten verändern würden, können Politiker, 
+Volks- und Betriebswirtschaftler natürlich so wenig vorhersehen, wie die 
+Ingenieure und Politiker, die davon ausgehen, dass ein Kernkraftwerk, 
+das in den letzten 30 Jahren noch nicht explodiert ist, dieses auch in 
+den nächsten Jahrzehnten sicher ist - selbst wenn man es an neue 
+Betreiber am Neuen Markt verkauft.
+
+-- 
+
+Patrik Muncker

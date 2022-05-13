@@ -1,0 +1,18 @@
+Es ist das Verschulden eines technisch korrekt eingestellten Programms,
+wenn ein anderes Programm diese korrekte Einstellung falsch oder gar
+nicht interpretiert? Meinst du nicht, dass du da Ursache und Wirkung
+verwechselst?
+
+
+Auch hier fehlt es letztlich an Logik. Wenn /ich/ - warum auch immer ich
+das überhaupt tun sollte - tatsächlich auf 'quoted-printable' umstellte,
+ich she dennoch weiterhin fehlende Umlaute in Zitaten derer, die -
+völlig zu recht - bei 8bit blieben.
+
+
+Ciao
+Sieglinde
+-- 
+ Help a man when he is in trouble and he will remember you
+ when he is in trouble again.
+ [Pearls of Scottish wisdom]

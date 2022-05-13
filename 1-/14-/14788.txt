@@ -1,0 +1,14 @@
+Indem, weil ich vergaß, nach dem Kopieren des Strickmodenecke Resultats das
+angloamerikanische Komma zu entfernen. Also:
+
+englisch = 3,750
+deutsch = 3750 oder 3.750 oder 3 750
+schweizerisch = 3'750
+   und
+USA: $1.45
+Frank: 1,45 $
+usw.
+
+-- 
+Kriegk, René
+(französisch: René KRIEGK)

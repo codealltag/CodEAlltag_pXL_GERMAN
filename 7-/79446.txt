@@ -1,0 +1,33 @@
+Es stimmt nicht.
+<mathekorinthenkacke>
+Wenn es eine endliche Anzahl der Welten gibt, dann kann natürlich eine 
+davon die beste sein. Wenn es eine unendliche Anzahl gibt, dann gibt es 
+eine abzählbare Anzahl (Mächtigkeit aleph 0), oder auch eine nicht 
+abzählbare Anzahl (Mächtigkeit c) dieser Elemente. Die höheren 
+unendlichen Mächtigkeiten lassen wir erstmal aussen vor, da wir einen 
+R^n Weltraum annehmen, auch bei R^R wäre die maximale Mächtigkeit c.
+
+Bei der abzählbaren Anzahl existiert eine Abbildung Welten -> N, bei der 
+nicht abzählbaren eine Abbildung Welten -> R.
+Jetzt weisen wir jeder der Welten einen Wert, den wir Güte nennen. Wir 
+können das Problem jetzt eingrenzen und nur für die Funktion über die 
+reele Zahlen lösen, da N � R.
+Wenn die Güte einer Welt keine unendliche Güte ist, dann ist die 
+Funktion Güte(x), xR beschränkt und besitzt demzufolge Extrema, im 
+speziellen mindestens ein Maximum und ein Minimum. Q.E.D.
+
+</mathekorinthenkacke>
+<mathe & philosophie kackerei>
+So, es kann natürlich sein, dass ein(e) höhere(s) Wes[e,i]n in 
+seiner/ihrer unendlichen Güte eine Welt nach eigenem Vorblid erschaffen 
+hat, die dann auch eine unendliche Güte besitzt. Rein mathematisch 
+hätten wir einen Problem. Da die Funktion Güte(x) in diesem Falle nicht 
+beschränkt ist, hätten wir ein Maximum in der Unendlichkeit. Für 
+unendliche Zahlen existieren aber keine größer-kleiner Relationen. 
+Demzufolge ein Paradies unendlicher Güte wäre gleichzeitig eine 
+unendlich abgründige Hölle.
+</mathe & philosophie kackerei>
+
+halleluja und schal�mchen allerseits
+
+Gustav

@@ -1,0 +1,8 @@
+Also, wenn es sich z.B. um ein gemeinschaftlich gepflegtes Wiki handelt, 
+dann sehe ich da überhaupt keine Probleme, sowas einfach ungefragt zu 
+korrigieren. Man nimmt ja keine Veränderung des Inhalts vor.
+Ich mache da auch einfach so Tippfehler raus oder markiere Code als 
+Code, weil das sonst unschöne Aufzählungen bewirkt, was eigentlich 
+Kommentar im (Perl-)Code war.
+
+Viele Größe von Heiko

@@ -1,0 +1,7 @@
+Nein, nicht ganz. Wenn Du eine Datei aufspielst, die bewirkt, dass das 
+Gerät sofort nach dem Einschalten abstürzt (Software eben), dann kann 
+Otto Normaluser das nicht mehr reparieren. Deshalb ist es sinnvoll, 
+selber gemachte Karten auf die sd-Karte zu kopieren (sofern vorhanden), 
+denn die kann man entnehmen und somit das Gerät am Absturz hindern.
+
+Viele Grüße von Benjamin

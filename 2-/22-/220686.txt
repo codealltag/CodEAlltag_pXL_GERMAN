@@ -1,0 +1,10 @@
+Hallo,
+ich stolpere über diesen Satz.
+
+A, B und C sind für ihre niedrigen Preise und _lange_ 
+Zahlungsfristen berüchtigt. (gemeint: für lange)
+A, B und C sind für ihre niedrigen Preise und _langen_ 
+Zahlungsfristen berüchtigt. (gemeint: für ihre langen)
+Oder soll man "für" bzw. "für ihre" wiederholen?
+Sind alle 4 Alternativen völlig korrekt?
+Gibt es andere Vorschläge?

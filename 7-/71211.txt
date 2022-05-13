@@ -1,0 +1,23 @@
+1.Sd5 *ist* Matt in 2.
+
+Ich hätte es so konstruieren sollen, daß nur thematische
+Matts auftreten :-) (Das Thema gibt immer der Komponist vor.
+Selbst wenn der Löser es nicht kapieren sollte, was beim
+modernen Zweiger oft passiert :-)
+Also nochmal, das Thema lautet: Wenn Schwarz eine Linie verstellt
+(Turm oder Läufer), muß Weiß die gleiche Linie im Mattzug
+verstellen, sonst hat Schwarz ein Fluchtfeld. (Hat sogar einen
+eigenen Kurznamen, das Thema.) Tb8# ist ein "Zufallsmatt",
+was nur auf Zufallszüge des Sd1 ausgeführt werden kann, und
+in einem Turnier würde das als Mangel der Aufgabe gelten. 
+
+übrigens, diese "nichtdrohenden Matts" können sogar illegale
+Züge sein! Stelle dir zwei weiße Springer vor, die beide auf
+c7 mattsetzen können, aber Schwarz fesselt mit seinen Zügen
+einen der beiden. Dann wären die jeweils illegalen Züge
+ebenfalls "nichtdrohende Matts" im Problemjargon. Obwohl es
+nicht einmal droht, daß der Zug ausgeführt wird :-)
+
+-- 
+Theodor Verhaag <:-BU0    ms0d132@blp-ldsdwoh.qf
+Nur Schufte schuften - Genie genießt.

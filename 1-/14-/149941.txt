@@ -1,0 +1,55 @@
+[Followup-To: de.etc.sprache.misc]
+
+
+Das ist ein Beispiel, in dem das Deutsche mehr Unterschiede macht.
+Im Gegensatz dazu steht im Deutschen bei
+
+  Unser Gast parkt sein Auto vor eurer Garage.
+
+das Geschlecht nicht fest; im Englischen wäre "his/her car" unterschieden 
+worden. In der Praxis ist der Unterschied minimal, weil in jedem Kontext 
+das natürliche Geschlecht der Beteiligten früher oder später offengelegt 
+wird, wenn man nicht einen Eiertanz drumherum vollführt -- im Englischen 
+wie im Deutschen.
+
+Worauf ich hinauswollte ist, dass grammatikalisches Geschlecht in der 
+Sprache mit der Gelegenheit, das Geschlecht der bezeichneten Personen zu 
+offenbaren, viel weniger korreliert sind, als man denken sollte. Nehmen 
+wir etwa die folgenden Eigenschaften von Sprachen:
+
+A Grammatikalisches Genus: Substantive werden in Klassen eingeteilt, die 
+  die morphologische Form anderer Wörter beeinflussen, die sich auf das 
+  Substantiv beziehen, z.B. von Adjektiven oder Zahlwörtern.
+
+B Genus/Sexus-Korrelation: Es gibt nicht nur grammatikalische Genera, 
+  sondern für Personen gibt es einen deutlichen Zusammenhang (nicht 
+  notwendig ohne Ausnahmen) zwischen dem Geschlecht der Person und dem 
+  Genus des Substantivs.
+
+C Bei Pronomen wird zwischen "er" und "sie" unterschieden.
+
+D Diese Unterscheidung wird auch im Plural gemacht. 
+
+E Bei vielen Substantiven, die Eigenschaften (Tätigkeit, Herkunft, ...) 
+  von Personen beliebigen Geschlechts beschreiben, gibt es 
+  unterschiedliche Wörter in Abhängigkeit vom Geschlecht. Das ist nicht 
+  notwendig so konsistent, dass es wirklich alle oder gar keine solchen 
+  Substantive betrifft, aber es gibt eine Tendenz.
+
+B => A ist klar; D => C is naheliegend. Aber andere Beziehungen zwischen 
+diesen Eigenschaften von Sprachen bestehen nicht. Damit hat jede Sprache 
+mit einem anderen Muster solcher Eigenschaften *andere* Probleme, wenn 
+sprachlicher Geschlechterbezug aus irgendeinem Grund vermieden werden 
+soll.
+
+Ein paar Beispiele von Sprachen:
+
+                     de    da    en    fr    ru    hu    he    sw
+gramm. Genus          X     X           X     X           X     X
+Genus/Sexus-Korr.     X                 X     X           X
+er/sie (Sing.)        X     X     X     X     X           X
+er/sie (Plural)                         X                 X
+Subst. geschl.spez.   X     X           X     X     X     X
+
+-- 
+Roman Eichhammer

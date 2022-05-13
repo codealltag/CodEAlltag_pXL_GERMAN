@@ -1,0 +1,47 @@
+Nein, du hast mich missverstanden. Auch wenn Eindeutigkeit gegeben
+ist, ist der Satz im Sinn der klassischen Logik nicht unlogisch. Er
+ist erfüllbar.Du kannst mit den Mitteln der klassischen Logik keinen
+Widerspruch ableiten. Und nur etwas, das ein Widerspruch ist (z.B. "A
+und nicht-A") oder etwas , aus dem man mit Mitteln der klassischen
+Logik einen Widerspruch ableiten kann, ist nach dem Begriff der
+klassischen Logik unlogisch.
+Was uns an dem Satz stört, ist das Gefühl, er könne gar nicht wahr
+sein. Aber er ist logisch gesehen in Ordnung. Dass die Beziehung "...
+ist Vater von ---" nicht reflexiv und nicht transitiv ist, spielt in
+der klassischen Logik keine Rolle.
+
+
+Das ist falsch gerechnet, aber nicht unlogisch im Sinn der klassischen
+Logik (Prädikatenlogik erster Stufe). Außerdem sind deutsche
+Schulabgänger in mathematik besser als österreichische ;-)
+
+
+=2E..
+
+Nein. Es ist auch
+
+"Wenn Reginald 20. 02. 23 gestorben ist, dann ist Reginald 20. 02. 23
+20. 02. 23 gestorben" nicht unlogisch.
+
+(A --> -A) ist erfüllbar, auch wenn uns das *in irgend einer Hinsicht*
+kontraintuitiv vorkommen mag.
+
+A  (A --> -A)
+-----------------
+W     F
+F      W
+
+q.e.d.
+
+Bei allen von mir zitierten Beispiele mag man geneigt sein zu agen:
+aber das *kann* gar nicht wahr sein.
+Aber im Sinn der klassischen logik sind sie nicht unlogisch.
+
+Das da sind Beispiele für Unlogisches:
+
+"Reginald starb 20. 02. 23 und es ist nicht der Fall, dass Reginald 20. 02. 23
+Chr. starb"
+"Wenn der Stock in der Erde steckt, geht die Sonne auf. Der Stock
+steckt in der Erde, also geht die Sonne nicht auf."
+
+lg Beat

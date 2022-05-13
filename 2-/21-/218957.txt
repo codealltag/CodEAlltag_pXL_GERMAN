@@ -1,0 +1,14 @@
+Wir haben immer Schweinegitter dazu gesagt. Beim Assembler des 6502 
+(z.B. C-64) wurde eine Zahl als binär gewertet, wenn das Schweinegitter 
+davor stand (#00001010). Das Dollarzeichen stand für eine hexadezimale 
+Zahl ($C000). In vielen anderen Programmiersprachen hat das 
+Schweinegitter eine Bedeutung.
+
+Ich kenne es auch so: #1 = Number One
+
+oder die Crackergruppe VVF hat #00 für "schlecht" und #01 für "gut" als 
+Bewertung anderer Gruppen geschrieben.
+
+Im deutschsprachigen Raum benutzte die Allgemeinheit (das waren damals 
+nur Firmen und Geeks) das Zeichen auf der Telefontastatur für BTX. 
+Damals war man auch noch mit Akustikkopplern unterwegs.

@@ -1,0 +1,9 @@
+Früher galt in so einem Fall die Regel, daß man sich während der
+Berufsausübung siezt, auch zum Beispiel als Ehepaar. ähnlich bei
+Fernsehauftritten. Das ist aber alles pass.
+
+-- 
+Java is the SUV of programming tools.
+A project done in KCSI will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Patrik Hagens

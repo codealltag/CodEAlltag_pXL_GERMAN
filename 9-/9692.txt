@@ -1,0 +1,28 @@
+Meine Güte, freilich werde ich bei einer begrenzten Anzahl relevanter=20
+Stellen ganze Zahlen meinen.=20
+
+
+Wesentlich ist die Übertragung in Form einer Zahl, die die aktuelle=20
+Auslenkung der Schwingung beschreibt. Wie stark die in beiden Achsen=20
+quantisiert ist, und ob sie das überhaupt ist, ist wurscht.=20
+
+Wenn du es schaffst, pro Sekunde unendlich viele Zahlen aus unendlicher=20
+Wertemenge  ein beliebiges Signal fehlerfrei übertragen zu lassen, ist=20
+es immer noch ein Digitalsignal. Wichtig ist nur, daß abstrakte Zahlen=20
+übertragen werden und nicht die konkrete Größe.
+
+Das Wesentliche am Digitalsignal ist nicht die Quantisierung, sondern=20
+die Übertragung als Zahlenwert (der seinerseits freilich wiederum in=20
+einer analogen Größe kodiert sein muß, z.B. als Impulsfolge). Die=20
+Quantisierung ergibt sich nur notwendigerweise aus der Beschränkung=20
+sowohl der übertragbaren Wertemenge als auch der Anzahl der=20
+Übertragungen pro Zeitintervall.=20
+
+
+vG=20
+
+
+--=20
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://kwpafjyv.kiw>

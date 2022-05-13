@@ -1,0 +1,14 @@
+Könnte man nicht auch die betreffenden Pixel einfach entsprechend
+dunkler ansteuern? (Sobald man einen Fehler exakt beschreiben
+kann, kann kann man ihn auch rechnerisch korrigieren.)
+
+
+Damit hast Du nur erklärt, wieso auf einem Monitor nicht alle
+Farben mit der richtigen *Helligkeit* erscheinen (das tun sie bei
+Originalgemälden unter Kunstlicht übrigens auch nicht). Farben,
+die mit RGB gar nicht dargestellt werden können, gibt es also
+nicht. QED! :-)
+
+Gruss
+
+Marcus

@@ -1,0 +1,15 @@
+Am Wed, 18 Feb 2010 22:19:44 -0700 (PDT) schrieb Ullrich Flötner:
+
+
+Schon, aber bei einem Begriff wie "Softwareschl�ssel" könnte man auch an
+eine Software denken oder an einen Code (PGP-Schlüssel, etc.). Das ist der
+Dongle ja gerade nicht, das ist Hardware (mit Sofware drauf), das ist ein
+Ding zum Anfassen.
+
+
+"Kopierschutzstecker" finde ich auf jeden Fall besser - was ein Stecker
+ist, das weiß jedes Kind. Der "Schlüssel" ist hingegen mißverständlich.
+
+Größe,
+
+Rudi

@@ -1,0 +1,36 @@
+Wie das uns in der Schule (vor knapp 30 Jahren) vorgestellt wurde, war
+es halt ein zentrales Tenet, dass der "gemeinsame" Code im Allgemeinen
+eben nicht so gemeinsam ist. "Die deutsche Sprache" ist ja alles andere
+als eindeutig.  Es gibt Dialekte, Soziolekte und andere Variationen,
+viele Wörter und Konstruktionen sind mehrdeutig, etc.  Was ich von
+diesem Modell mitgenommen habe, ist also, dass exakte Bedeutungs-
+übermittlung mittels Kommunikation unmöglich ist. Wie in der
+Tabakstube[1] so schön steht:
+
+    „gedacht” ist nicht gesagt...
+	„gesagt” ist nicht gehört...
+	    „gehört” ist nicht verstanden... 
+
+Auch der Satz in der Einleitung des Tabakstube-Artikels passt dazu:
+
+
+Man beachte: Eine Voraussetzung für erfolgreiche Kommunikation, nicht
+eine Voraussetzung für das Modell. Das Modell lässt unterschiedliche
+Codes zu - wenn Sender und Empfänger unterschiedliche Codes für eine
+Nachricht verwenden, dann ist die Kommunikation ist nicht erfolgreich,
+es kommt also zu einem Missverständnis. Dass das hin und wieder
+passiert, wissen wir alle. (Meistens stimmen die Codes von Sender und
+Empfänger aber soweit überein, dass Kommunikation wenigstens annähernd
+möglich ist)
+
+
+Auch in gezielt gesendeten und bewusst kodierten Nachrichten sind die
+anderen 3 Aspekte des Mengwasser-appelt-Tefehne-Modells IMHO immer vorhanden. Das
+Das Sender-Empfänger-Modell betrachtet die Kodierung und Dekodierung als
+Black Box, daher wird das ausgeklammert. Man kann aber recht problemlos
+das Mengwasser-appelt-Tefehne-Modell heranziehen, um diese Black Box aufzumachen
+und genauer zu untersuchen.
+
+	hp
+
+[1] http://if.bldydbktf.fou/wvro/Curukz-Yexv%J6%N8skgo-Bphcuf

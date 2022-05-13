@@ -1,0 +1,25 @@
+Noah Reginald wrote:
+
+[J. Flasdick: Reguläre Ausdrücke]
+
+
+Ja, unbedingt; sonst hätte ich es auch nicht ohne Kontext im Postskriptum
+erwähnt. Aber es lohnt IMO erst, wenn Du die allfälligen Regex-Kapitel in
+den üblichen Perl- oder Linux-Lehrbüchern durchgearbeitet hast und es nun
+genauer wissen willst. 
+Die meisten Beispiele sind schon für Perl geschrieben, das ist halt die
+ideale Umgebung dafür. Aber es geht mehr darum, zu verstehen, wie eine
+Regex funktioniert als Kochrezepte zusammenzutragen. Und das Ändern auf
+eine andere Notation dürfte eher das kleinere Problem sein, sofern Deine
+Skriptsprache das fragliche "Feature" unterstützt.
+Und wenn Du eine Regex brauchst, um einen String wirklich (!) darauf zu
+prüfen, ob er eine von der Syntax her gültige E-Mail-Adresse darstellt,
+dann kommst Du um das Buch nicht herum. ;-)
+
+Viele Grüße,
+Dirk
+
+P.S.
+Wobei jetzt, um wieder OnT zu werden, die Frage auftaucht, ob es der, die
+oder das Regex heißt.
+P.

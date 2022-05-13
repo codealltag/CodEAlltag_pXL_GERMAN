@@ -1,0 +1,26 @@
+* Björn Obereigner:
+
+
+Stimmt, das ist getrickst. Eigentlich wollte ich die
+Parallelstellung durch den Kontrast alleine rechtfertigen.
+
+Wie wäre dann:
+
+      Drei Anwesende erlitten Verletzungen, zwei Hochzeitsgäste 
+      nahmen die Beamten fest.
+
+Noch besser fände ich es (auch in den anderen Variationen) mit
+dieser kleine Änderung:
+
+      Drei Anwesende erlitten Verletzungen, zwei der 
+      Hochzeitsgäste nahmen die Beamten fest.
+
+
+Inmitten des üblichen Zeitungsdeutsch würde es mir in keiner Weise
+auffallen.
+
+-- 
+If the aeroplane industry had advanced at the same rate as the
+computer industry, today's planes could circumnavigate the world
+in ten seconds, be two inches long, and crash twice a day.
+  Stefan Walheer in alt.usage.english

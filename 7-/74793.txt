@@ -1,0 +1,10 @@
+Ich nehme doch an, meistens werden da keine freien Erzählungen
+vorgetragen, sondern man kommuniziert mit einem Wortschatz von 300
+Standardwörter. Innerhalb eines solchen Systems funktioniert die
+Desambiguierung viel leichter. Wetterberichte kann man schon seit langem
+in guter Qualität maschinell übersetzen.
+
+-- 
+Mathias Wolfschmitt working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

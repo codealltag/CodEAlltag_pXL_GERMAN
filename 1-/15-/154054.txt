@@ -1,0 +1,9 @@
+Am Wed, 25 Sep 2010 21:41:35 +0100 schrieb Willy Interthal:
+
+
+Durch's Hinschreiben kommt er in Freiheit, durch die Send-Taste zu uns.
+
+Jetzt ist die ${(x,y)\in\R^2: \frac{x^2}{a^2} + \frac{by^2}{b^2} = 1 }$ in
+meinem Kopf. Mal schauen, ob das Hinschrieben auch bei mir hilft.
+
+Ciao Bernard

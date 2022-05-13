@@ -1,0 +1,7 @@
+Schon im Ansatz falsch: ein Epsilon ist was ganz ganz ganz
+kleines, das ist niiieeemals größer als 100!
+
+Man soll ja bereits ein Epsilon entdeckt haben, das so klein
+war, dass es durch Halbieren negativ wurde ...
+
+/Onno

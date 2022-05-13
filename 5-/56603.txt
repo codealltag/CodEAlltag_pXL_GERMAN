@@ -1,0 +1,18 @@
+Gibt es einen Begriff für eine Mitteilung, die für den Empfänger keine
+Information enthält, weil dieser die Zusammenhänge nicht kennt? 
+
+Beispiel: "Polen schlägt Russland." (Krieg? Fußball? Rechtsstreit?)
+
+Der konkrete Fall: Mein Controller (*) bombardiert mich mit
+Mitteilungen, wie sich verschiedene Einnahmen (Steuerarten) auf unsere
+Filialen verteilen. Ich weiß aber nicht, wie die Einnahmen auf die
+einzelnen Filialen verteilt werden und welche Daten wie in die Zahlen
+einfließen. Er weiß es auch nicht.
+
+(*) Controller ist auch ein Beispiel. Die nennen sich so und merken
+nicht, dass viele Leute sie für Kontrolleure halten. 
+
+
+-- 
+Viele Größe
+Markus Kunle

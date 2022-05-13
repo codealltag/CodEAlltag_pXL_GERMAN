@@ -1,0 +1,13 @@
+Ich erlaubte es mir, vereinfachend zu verkürzen.
+
+
+Unter anderem, ja. Das ist bei symmetrischen Verfahren aber ein 
+grundsätzliches Problem und nicht spezifisch für OTP. Einziger 
+Unterschied dort ist die Länge des zu übermittelnden Schlüssels.
+
+
+Z.B. weil der sichere Kanal zum Zeitpunkt der Kommunikation nicht 
+(mehr) oder nicht schnell genug zur Verfügung steht.
+
+
+Vinzent.

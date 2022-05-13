@@ -1,0 +1,17 @@
+Wenn Du nicht volle Punktzahl bekommen hast, hätte ich mich über das
+fehlende d) beschwert!  :-)
+
+Aber mal im Ernst: ein PC, den ich mir Mitte der 90er zusammengestellt
+hatte (Pentium-66 auf Lietzenbeck-Hauptplatine mit SCSI-Platte von VHNS an
+32 von 128 unbezahlbaren MB RAM, in einem sehr dezenten Blech-Dressing
+mit lecker Weinhalle QIC-Tape nebst brillantem Vitaminchen 17"-Monitor -- all
+das für damals schlappe 7000.- DM), bootete nur über a)-c) gemeinsam,
+und das auch noch über diverse Stages und unter Zuhilfenahme des EPROMs
+und RAMs sowohl des Rechners als auch des SCSI-Controllers, wobei der
+tatsächliche Plattentreiber irgendwo auf der von ihm kontrollierten
+Platte lag und später ins RAM des SCSI-Controllers geladen wurde --
+vom Linux- oder Win3.x-Bootloader -- aber wir wollen's ja mal nicht
+zu kompliziert machen für den "Anfang"...  ;-)
+
+
+ernst

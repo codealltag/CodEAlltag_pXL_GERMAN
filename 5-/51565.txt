@@ -1,0 +1,13 @@
+Entfernen wäre falsch; als tottaste ist die akzenttaste wichtig.
+Ich würde mir sogar noch zusatzfunktionen als circonflexe, hacek, 
+cedille, trema usw. wünschen, so dass die mitteleuropäischen sprachen 
+mit lateinischem zeichensatz ohne klimmz�ge einzugeben sind.
+Was wir dagegen nicht brauchen, ist die funktionalität, dass ein in der 
+luft schwebender akzent herauskommt, wenn danach ein leerzeichen oder 
+ein unpassender buchstabe getippt wird. Die einzelnen akzente werden nur 
+von programmen gebraucht, die dann daraus akzentbuchstaben 
+zusammenbasteln, die im zeichensatz nicht vorkommen. Dazu wird aber die 
+eingabem�glichkeit über die tastatur nicht gebraucht. Sinnvoll wäre es 
+also, wenn die tottaste gar nichts tut, wenn danach kein passender 
+buchstabe angeschlagen wird, oder allenfalls ein melodisches zwitschern 
+abgibt.

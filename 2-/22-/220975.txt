@@ -1,0 +1,24 @@
+* Eckhard B. Nakken:
+
+
+Wenn man "Mail macht", dann beschäftigt man sich mit den
+empfangenen Mails - liest sie und schreibt Antworten. Die Mails,
+die man liest, liegen meist entweder auf dem eigenen PC oder aber
+auf einem Server, zu dem man sich über das Internet verbindet; die
+Frage, die mich interessiert, war, wieviele Leute im zweiten Fall
+sagen würden, die Mail liege im Internet. Ich vermute, eine
+Minderheit.
+
+Die Antworten schickt man durchs Internet zum Empfänger. Das
+Bewußtsein, daß sie dazu durchs Internet gehen, dürfte stärker
+ausgeprägt sein als dasjenige, daß der Server, der die Mails in
+der mobilen oder Webanwendung zur Verfügung stellt, im Internet
+steht, aber dieser Zustand dauert üblicherweise ja nur Sekunden,
+da lohnt es sich kaum, davon zu sprechen, die Mail "sei im
+Internet". Eher ist sie "im Internet unterwegs". 
+
+Alles MUSEN natürlich.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

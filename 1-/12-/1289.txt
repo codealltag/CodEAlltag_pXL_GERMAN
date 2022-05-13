@@ -1,0 +1,16 @@
+Wie scheibe ich vom Ausdruck her und orthografisch richtig eine
+Preisangabe in folgendem Kontext:
+
+" ... optische Auslesegeräte, die Zehntausende von Euro kosten ..."
+" ... optische Auslesegeräte, die einige Zahntausend Euro kosten ..."
+" ... einige Zehntausend Euro teure Auslesegeräte ..."
+" ... Zenhntausende von Euro teure Auslesegeräte ..."
+
+Meine Fragen: wie schreibe ich das jeweils korrekt? Und handelt es
+sich bei den drei Varianten um stilistisch einwandfreie
+Formulierungen? Mir kommen nacg mehrmaligem lesen alle drei Varianten
+unsicher und etwas komisch vor.
+
+Ich bitte um eure Kommentare, danke.
+
+Lilly

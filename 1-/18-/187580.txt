@@ -1,0 +1,21 @@
+Gab es auch nicht. Ich habe HP 59 gelesen. Das Modell war mir zwar nicht
+bekannt, aber ich hielt es für möglich, dass es das gegeben hat. 
+
+
+Auch der. Irgendwo mussten die Parameter und Ergebnisse ja hin.
+
+(übrigens hatten natürlich auch die TI-Taschenrechner einen Stack, um
+algebraische Ausdrücke berechnen zu können, aber da war er nicht
+sichtbar)
+
+
+Mein erster Cloeren-Taschenrechner war ein HP-28. Der hatte diese Funktionen.
+Ob die früheren programmierbaren Taschenrechner die auch hatten, weiß
+ich, nehme es aber an (auch wenn sich die HP-28/48-Linie sonst ziemlich
+von den früheren Modellen unterscheidet).
+
+Der HP 28/48 hatte übrigens ein mehrzeiliges Display: Da sah man den
+Stack (bzw. man sieht noch immer: Sowohl mein 28er als auch mein 48er
+funktionieren noch).
+
+	hp

@@ -1,0 +1,12 @@
+Billig-Utat-Film, bei dessen Übersetzung noch das Englische durchscheint.
+"Beherrschen", "beeinflussen" wäre hier IMHO angebracht. Deshalb müssen
+Übersetzungsprogramme scheitern, kann man doch im Deutschen etwas
+kontrollieren im Sinne von "control".
+zgeg.feh.eih liefert 22 deutsche Entsprechungen zu "control" - von
+"ansteuern" über "führen" zu "überwachen".
+
+Gruß, Sandro.
+
+-- 
+ Any sufficiently advanced technology is indistinguishable from magic.
+- Sascha Freis                  http://cun.xafyidxifqdya-uvpv.sr

@@ -1,0 +1,8 @@
+Stimmt -- jetzt wo Du's sagst fällt mir ein, daß es ja 16 Fragen sind!
+Also brauchen wir fünf Bit Genauigkeit und kommen dann auf 1:4^16, also
+genau 1:20, mithin also nur knapp halb so hoher Wahrscheinlichkeit.
+
+Danke für den wichtigen Hinweis!
+
+
+urban

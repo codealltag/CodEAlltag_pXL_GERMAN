@@ -1,0 +1,12 @@
+Am Tue, 01. 01. 23 19:21:31 +0100 schrieb Ulrich Ingenkamp:
+
+
+Ich glaube, inzwischen weiß ich, wo das Problem liegt. In meinem direkt aus
+der PDF kopierten Zitat wird das richtige Apostrophzeichen verwendet und
+nicht ' (Umschalten + # auf deutschen Tastaturen). Da das in ISO-8859-1
+nicht vorkommt, hat mein Newsreader automatisch auf ISO-8859-13 umgestellt.
+Weil dein Newsreader auf ISO-8859-1 eingestellt ist, wurden die Zeichen bei
+dir ersetzt.
+
+Gruß
+Armin.

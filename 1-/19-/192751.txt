@@ -1,0 +1,6 @@
+Orientiert sich Aquanaut bei seinen Vorschlägen eigentlich nur an den 
+vorgefundenen Texten aus seiner Datenbank (und schlägt häufiger 
+gefundene "ähnliche" Texte vor), oder benutzt es dafür manuell gepflegte 
+sprachspezifische Regeln? Ich dachte immer, nur ersteres.
+
+Thorsten

@@ -1,0 +1,33 @@
+Das ist *eine* Fehlbedeutung von "logisch", in meinen Augen eine nicht 
+allzu schlimme. Natürlich gestattet die Logik beliebig komplexe Regeln, 
+während hier eher einfache gemeint sind. Aber Alternativen haben dasselbe 
+Problem: "konsequent" etwa heißt ja nur "folgerichtig" ohne eine Aussage, 
+ob die Regeln, denen man konsequent folgt, einfach oder komplex, zeitlich 
+konstant oder ständig wechselnd, zweckdienlich oder wilkürlich sind, und 
+man kann auch ganz konsequent jede Entscheidung durch Würfeln treffen.
+
+Daneben gibt es unter Programmierern die Bedeutung "logisch" als Gegensatz 
+zu "phys(ikal)isch", besonders in der Hintergrundspeicherverwaltung. In 
+diesem Sinne wird es allmählich durch das wohl bessere "virtuell" ersetzt, 
+aber "logical volumes" und ihre wörtlichen Übersetzungen spuken noch 
+allenthalben herum.
+
+Und "physikalisch" als falsches Wort, wo "physisch" gemeint ist, gehört 
+wohl auch in die Liste.
+
+
+Nicht nur dieses, sondern viele Vorkommen von "Kontroll-", wo "Steuer-" 
+gemeint ist. Und wenn die Rebellen Teile des Landes "kontrollieren", dann 
+nicht, indem sie Überprüfungen vornehmen wie der Schaffner im Zug oder das 
+Gesundheitsamt in der Frittenbude -- genau das bedeutet aber das Wort 
+"Kontrolle" im Deutschen.
+
+
+Ich hätte "Nebenwirkung" für die normalerweise gemeinte Bedeutung 
+gehalten. Wenn in der Programmierung eine Prozedur tut, was sie soll, 
+dabei aber fehlerhafterweise globale Variable zerschießt, würde ich nur 
+diese Nebenwirkung als "side effect" bezeichnen, nicht aber die 
+intendierte Wirkung.
+
+-- 
+Garrelt Schönhardt

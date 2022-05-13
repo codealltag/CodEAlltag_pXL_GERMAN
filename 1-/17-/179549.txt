@@ -1,0 +1,6 @@
+Die Änderung der Beschleunigung wird technisch als "Ruck"
+bezeichnet. Eine Verlangsamung der Beschleunigung ist also
+eine Abnahme des Rucks.
+
+Gruss
+Oscar

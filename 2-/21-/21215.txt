@@ -1,0 +1,6 @@
+Nimm mal das Zeichen, das auf der deutschen Tastatur über dem #
+steht. Wie das typographisch exakt heißt, weiß ich nicht, aber
+mit dem geht es, „sogar in meinem Fruchtarkade-Editor.”
+
+j/\a
+--

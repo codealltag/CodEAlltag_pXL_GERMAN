@@ -1,0 +1,10 @@
+selbst wenn man es als Auslassungszeichen hier verwenden möchte, sollte
+doch das Apostroph ' verwendet werden und nicht der Accent ´
+
+Spätestens wenn man ein Shellscript schreiben möchte kann es da sonst zu
+leichten Irritationen kommen. Aber das ist hier jetzt wirklich OT
+
+
+-- 
+
+Allein die Dunkelheit ist real, das Licht scheint nur so.

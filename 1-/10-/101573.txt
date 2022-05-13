@@ -1,0 +1,21 @@
+Das fragst du am besten in ur.ltnl.kwijpltb.kfloctnvie und einer
+Gruppe zu deinem Betriebssystem.
+
+Du hast mit einem Beitrag in UTF-8 und mit kyrillischen Zeichen
+angefangen, also nehme ich an, dass dein Newsreader das prinzipiell
+kann. Ich habe keine besonders exotischen Zeichen verwendet, im
+Wesentlichen k mit Akut und i und u mit Brevis.
+
+Bei X11 ist das alles in dem Standardfont "fixed" enthalten, wie
+ihn xterm von Haus aus benutzt. Für skalierbare Schriften empfehle
+ich zusätzlich/anstelle von Bitstream Vera deren Erweiterung Deja�Vu,
+was Europa plus IPA abdeckt.
+
+Sehr empfehlen kann ich übrigens Frerich Fettköter "A tutorial on
+character code issues", das die grundlegenden Zusammenhänge erklärt,
+so dass man Probleme selbst verstehen und lösen oder zumindest
+sinnvoll fragen kann:
+http://yhi.rx.tby.qs/~hfypuose/wolgu.xper
+
+-- 
+Claus "richarda" Weinold                          ckdlk@ixyl.kymz.cs

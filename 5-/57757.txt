@@ -1,0 +1,47 @@
+Und genau da besteht MUSEN der einzige Unterschied: "nur scheinbar" reicht 
+aus, "nur anscheinend" wirkt blass, weil "anscheinend" überhaupt keine 
+Konnotation des *falschen* Scheins mitbringt. Da müsste man schon 
+"anscheinend, aber auch nur anscheinend" sagen, um dasselbe auszudrücken 
+wie "nur scheinbar".
+
+Und bei der Konnotation liegt wohl auch der Schlüssel zum Problem. Es gibt 
+Aussagen, die werden direkt ausgedrückt, und andere, die schließt der 
+Hörer nebenbei aus der Wortwahl oder dem Satzbau. Letztere sind wenig 
+geeignet, um den Kern der Informationen zu transportieren. Ein Beispiel 
+aus der Mathematik, das ich schon öfters gebracht habe:
+
+  Jede ganze Zahl ist entweder gerade oder ungerade.
+
+Der Kern der Aussage ist "jede ganze Zahl ist gerade oder ungerade" und 
+die Wortwahl "entweder" lässt durchblicken, dass sie nicht beides sein 
+kann.
+
+  Die Summe zweier ganzer Zahlen ist ungerade, wenn entweder die eine oder 
+  die andere gerade ist.
+
+Hier wäre die analoge Interpretation "Die Summe zweier ganzer Zahlen ist 
+ungerade, wenn die eine oder die andere gerade ist, und beides kommt nicht 
+vor" schlicht falsch. Vielmehr soll hier plötzlich das "entweder" zum Kern 
+der Information gehören. Solche verqueren Sätze bauen nur Leute, die auf 
+"kommst du heute nicht?" mit "nein" antworten statt mit "doch", weil sie 
+meinen, die normale Sprache müsse wie die mathematische Formelsprache -- 
+nicht die mathematische Umgangssprache! -- jedes Informationsdetail 
+entweder enthalten oder nicht enthalten. So ist es aber nicht: es gibt 
+Informationen, die schwingen mit, aber wenn man sie mitteilen will, muss 
+man sie direkter nennen.
+
+Zurück zum Thema. Wenn ich sage
+
+  Mein Zahnarzt ist scheinbar jünger als ich.
+
+mag -- wenigstens dort wo "scheinabr" nicht durchweg als Synonym von 
+"anscheinend" gebraucht wird -- die Information "er ist aber älter" 
+mitschwingen, aber zur Mitteilung des Sachverhalts, dass er älter ist, 
+taugt der Satz nicht. Im Gegensatz zum Satz:
+
+  Mein Zahnarzt ist nur scheinbar jünger als ich.
+
+Der sagt eindeutig etwas über das Alter des Zahnarztes aus.
+
+-- 
+Leonhard Denschlag

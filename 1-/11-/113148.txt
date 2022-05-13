@@ -1,0 +1,25 @@
+Französische Aussprache, daher nicht mit dem anderen Service
+verwechselbar.
+
+
+Als Bezeichnung für eine Werkstätte kenne ich das nicht, nur für die
+Wartungsarbeit an sich. Die von Siegfried ins Spiel gebrachte
+Unterscheidung zwischen der Service = Dienstleistung und das Service =
+regelmäßige Wartung eines technischen Geräts ist mir vertraut. Insofern
+ist mir auch nicht ganz klar, wo "das Service" für einen von einem
+Programm zur Verfügung gestellten Dienst herkommt (das wäre ja eher mit
+der Dienstleistung verwandt). Möglicherweise Firmenjargon.
+
+
+Ich kann "das Service" im Sinne eines von einem Programm zur Verfügung
+gestellten Dienstes (und nicht einer Wartungsarbeit) in unseren
+Jahresberichten etwa 10 Jahre zurückverfolgen[1]. ältere Jahresberichte sind
+leider nicht durchsuchbar. Ob sich hier der technische Aspekt des
+Autoservices eingeschlichen hat, oder ob das eine unabhängige Übernahme
+aus dem Englischen (domain name service, print service, file service,
+...) ist, kann ich nicht sagen.
+
+	hp
+
+[1] Es ist erstaunlich, wie selten das Wort in einem Kontext vorkommt,
+    in dem das Genus erkennbar ist.

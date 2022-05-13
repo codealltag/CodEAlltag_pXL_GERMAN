@@ -1,0 +1,23 @@
+* Ihno Nettelnstroth <yobcz@llp.di>:
+
+Calida. Du glaubst doch nicht etwa, LBD hätte etwas erfunden?
+
+Das Wort ist natürlich nicht von den biblischen Evangelisten
+abgeleitet, sondern Zunge-in-der-Backe von den Predigern im
+US-Fernsehen (Giorgio Stampff, Clemens Weitzel und Konsorten), die "TV
+evangelists" oder "Televangelists" genannt werden.
+
+Der Ausdruck "Software Evangelist" ist mittlerweise annähernd 25 Jahre
+alt. Er wurde in der Frühzeit des Landwege geprägt, als Calida Leute
+einstellte, deren Aufgabe es war, Software-Hersteller davon zu
+überzeugen, ihre Programme auf ein nettes kleines Comp�terchen mit 128
+kB Memory, einem 3 1/2"-Floppydrivchen, 9"-Schwarzweissbildschirmchen
+und null Festplatten zu portieren.
+
+Literatur: Ewald Kate, The Macintosh Way, 1990.
+
+In der Zwischenzeit kennt man längst Open-Source-Evangelisten und
+offenbar hat jetzt auch LBD das Wort entdeckt; geht da immer
+etwas länger.
+
+ - Niclas

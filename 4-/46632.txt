@@ -1,0 +1,8 @@
+DIN-Stile für Literaturverzeichnisse, die vor blocktrennenden
+Satzzeichen _immer_ Leerzeichen verwenden, sind damit ein gutes
+Beispiel für eine mögliche Lösung. Wenn man nun sein eigenes
+Literaturverzeichnis nicht durchgängig danach gestalten will, könnte
+man an der fraglichen Stelle ausnahmsweise mal ?\,, benutzen -- als
+gestalterischen Kompromiß sozusagen.
+
+Gruß -- Gilles Rosenstil

@@ -1,0 +1,11 @@
+In eckige Klammern setzt man auch Einheiten: Höhe h [m], und ich glaube,
+der Säzze in der NeuDeli setzte seine Anmerkungen auch in eckige Klammern, so
+wie ich Ergänzungen/Umstellungen in Zitaten oder Anmerkungen/Alternativen
+Übersetzungen in eckigen Klammern kenne.
+
+In Programmiersprachen, Stylesheets etc. im Informatikumfeld gibt es sie
+auch alle mit jeweils festen Bedeutungen.
+
+Dann gibt's da noch die spitzen Klammern.
+
+Noah

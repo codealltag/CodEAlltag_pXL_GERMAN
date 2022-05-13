@@ -1,0 +1,21 @@
+* Friedhelm Goevert:
+
+
+Die erste Zeile ist wohl als Überschrift, Themenangabe gedacht. Störend
+ist somit nur, daß die zweite Zeile klein anfängt. Mit diesem Schild
+hätte ich kein Problem:
+
+	Ethylenpipeline
+	Stoppt den Wahnsinn
+
+Nochmal deutlich besser natürlich
+
+	Ethylenpipeline:
+	Stoppt den Wahnsinn!
+
+P.S.: Da mir Ethylen in seiner Monoform nicht sonderlich vertraut ist,
+las ich zuerst "Ethanolpipeline" und wunderte mich doch sehr über solche
+lokalen Gebräuche.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

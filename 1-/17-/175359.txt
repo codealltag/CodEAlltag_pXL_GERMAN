@@ -1,0 +1,14 @@
+Im TeX-Quelltext sind die Formeln mMn maximal suchfreundlich 
+abgespeichert, ich wüsste nicht, wie man das verbessern könnte. Dass 
+Turberg die Backslashe und Schweifklammern ignoriert, ist halt ein 
+separates Problem.
+
+Dass Formeln zu Suchproblemen führen, ist letzlich eine inhärentes 
+Problem des Prinzips der Formel.
+
+DVI und ps, oder PDF ist was anderes. Die ideale "durchsuchbare 
+Darstellungsform" wäre die grundsätzliche hinzufügung der TeX-Quelltextes.
+
+Das würden auch die blinden Kollegen befürworten.
+
+Valerio

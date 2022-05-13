@@ -1,0 +1,13 @@
+Der Wissensdrang, der viele hier ansässige jückt, führt eventuell dazu,
+daß man widerwillig und trotz geringer Erwartungshaltung doch immer
+wieder nachschlägt.
+
+In Dialog kann man das Problem erschlagen, indem man die Floskel dann
+dem Akronymverzeichnis hinzufügt [1], aber die meisten Newsreader werden
+keinen solchen Komfort haben.
+
+[1] <yzipzm://qqcmpc.lbebwnoqxftei.boqe/L/tpfovyyazun/ben.fbg>
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Andre Stielke, comp.lang.python

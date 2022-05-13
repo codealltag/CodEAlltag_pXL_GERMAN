@@ -1,0 +1,46 @@
+Eigentlich gehören alle dazu. Hexeditoren mal ausgenommen.
+
+
+Deswegen hinkt der Vergleich auch so unheimlich. Kommentare sind keine
+Gebrauchsanleitung (auch: Anwenderdokumentation), auch wenn manche
+Exemplare der Programmiererzunft das gern so sehen. Kommentare dienen der
+ausführlicheren Erklärung von Konzepten, sofern man sie den begrenzten
+Mitteln der Programmiersprache nicht ausdrücken kann.
+
+
+Auch der Nicht-Kommentarteil ist in einer abstrakten, dem Computer erst
+einmal nicht verständlichen Sprache geschrieben. Warum wohl?
+
+
+Kommentare mögen kein semantischer Bestandteil der Sprache sein, sind aber
+durchaus ein syntaktischer Teil der Sprache, mithin immer noch Bestandteil.
+
+
+Was sind Kochrezepte anderes als Algorithmen? Sie mögen weniger formal sein
+(abgesehen von Jakof, der mit "117 g Zucker"[1] doch recht formal war),
+nichtsdestotrotz sind sie in keine andere Kategorie einzuordnen als die
+Anleitung zum schriftlichen Dividieren. Und solche Anleitungen richten
+sich meist an Menschen.
+
+
+Die nennen wir "Anwender". Du schaust Dir das Elektroschema Deines
+Fernsehers auch nicht an und kannst ihn trotzdem "anwenden". Ein solches
+Schema ist aber durchaus ein gutes "Kommunikationsmittel", wenn man das
+Ding reparieren möchte.[0]
+
+Natürlich sollte man die Sprache dafür verstehen, aber das unterscheidet
+Programmiersprachen nicht von natürlichen Sprachen.
+
+
+Schon eher, ja.
+
+
+Auch ein Kochbuch richtet sich nur an Köche. Aus meiner beschränkten
+Sicht dient es also keineswegs dazu, um Re- bzw. Konzepte zwischen
+Menschen auszutauschen, weil ich mein Essen ja beim Lieferdienst bestelle.
+
+
+Vinzent.
+
+[0] Don't try this at home, kids.
+[1] Aus dem Gedächtnis.

@@ -1,0 +1,12 @@
+Richtig, das ist eine sprachliche Falle. In diesem Kontext heißt 
+"falsifizieren" soviel wie "als falsch nachweisen" und ist das Gegenteil 
+zu "verifizieren". Mit der Bedeutung "fälschen" hat das nichts zu tun. 
+(Gefälscht wird in der Wissenschaft eher zwecks Verifikation.)
+
+In diesem Thread habe ich auch das Wort "falsifizierbar" sehr schlampig 
+benutzt. Es soll nicht heißen "kann falsifiziert werden" (ist mithin 
+falsch), sondern "ist eine Aussage von einer Art, dass eine Falsifikation 
+denkbar ist".
+
+-- 
+Tino Cortsen

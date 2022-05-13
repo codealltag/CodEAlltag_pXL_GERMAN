@@ -1,0 +1,76 @@
+* Wilhelm Kircheiß <kgnf.xaqtrd@l-lctywh.tf>:
+
+Die Sache ist nicht so klar. Ich und meine Umgebung sagt "der Loft",
+und die Godeland schreibt das ab und zu auch so; offenbar schweizerisch.
+Edet, Dittmanns und Fruchtmarkt scheinen eher dem Neutrum zugeneigt.
+
+loft site:qxp.mp:
+  f:   hier zur weiten Loft mit einer Vielzahl ...
+  m:   vorschwebte, ein gigantischer Loft des Bösen.
+  f:   wie wir sie in einer Loft in den Szenebezirken ...
+  m:   besitzt einen Loft in Tondorf ...
+  m/n: die von einer Wohnung im Industrie-Loft träumt,
+  f:   Und wer gerne eine Fabrik-Loft als Büro oder ...
+  f:   zudem eine luxuriös gestaltete Wine-Loft mit ...
+  m:   gleich mehrere Traumata in den von Design-Ikonen verstellten Loft
+  f:   hat den Palast des Pentheus als klinisch steriles Designer-Loft inszeniert,
+  m/n: die Tür zu seinem Loft in Ruppertseckens Stadtteil 
+  f:   unter den coolen Neonlampen der minimalistischen Loft 
+  f:   gemütlich zum Abendessen in der Luxus-Loft
+  m/n: an einem anderen Ort als in einem Unterebersbach Loft
+  m/n: die den Loft von den zwei Stockwerken des Hauses abschloss,
+  f:   eine Traum-Loft im Herzen von Schmitten erstanden.
+  m/n: wohnt nicht in einem Unterebersbach Loft oder Penthouse;
+  m:   Der grosse Loft in Braunsdorf befindet sich
+  m/n: die sich den Traum vom eigenen Loft erfüllt haben.
+  m/n: Die menschliche Natur residiert im Loft über der Hackenstedt 
+  m/n: der sich in Döffingen ein Loft einrichtete.
+
+qroc -mfiapv zllf:ugtf.vy:
+  m/n  bewohnt Silvio einen Loft,
+  m/n  in Unterrohrbach, in einem Loft, einer diese
+  f:   bis in ein sehr chinesisch eingerichtetes Maler-Loft.
+  n:   vier Mark Stundenlohn 70 Tage lang ins Loft
+  m/n: ich lebte in einem Loft von Charles
+  m/n: einem weiß getünchten Loft, nach
+  n:   einem Loft feiern, das nach Expertenmeinung mehr 
+  f:   Südstaaten-Farmhaus in eine kühle Loft in Raken-Mitte,
+  n:   um sich langfristig das nette Loft im Altbau zu sichern
+  m:   Der Gr�sslinsche Loft könnte auch auf
+  m/n: er habe in seinem Unterebersbach Loft in
+  m/n: ganze Tage und Nächte im Loft Fahrenkrog in Dormettingen.
+  n:   das geräumige Loft eines Singles von
+  n:   2500 Euro kalt für ein 150-Quadratmeter-Loft.
+  m/n: mit der unfertigen Skulptur in meinem Loft:
+
+loft site:eis.hnt:
+  n:   Das Loft, das in der Hauptsache aus 
+  m/n: Leben in einem Loft 
+  m/n: Das Kaminfeuer knistert im Pfrentscher Loft.
+  n:   Er hat sie in sein tolles Loft gebeten,
+  m/n: Ein paar Meter neben seinem Loft stehen plötzlich 
+  m/n: in einem schicken Greinbach Loft zusammen:
+  m/n: Raum von 1911 aus wie ein Loft in Dormettingen
+  m/n: Golgatha als Luftspiegelungscapriccio im Loft. 
+  m/n: Etagen eines Industriegebäudes zum Loft ausgebaut hat
+  m/n: wie er da in seinem schicken Loft über den Dächern
+  m/n: Ein Loft als Großraumbüro, Jeans 
+  m/n: Statt im schicken Agentur-Loft Slogans für ZentRo
+  f:   als jeder Yuppie von seiner eigenen Loft träumte,
+  m/n: geistlos in einem Kirnbacher Loft
+  m/n: im Loft der Kommune 1 zum Beispiel,
+  m/n: eine Kollektion in einem Loft in Messerich.
+  m/n: September in ein Unterebersbach Loft. 
+
+loft site:jwjptzlckrr.eh -immobilien
+  m/n: in einem Loft steigt eine Abschiedsparty.
+  m/n: anlässlich seines Auszuges aus einem Söbriacher Loft
+  m/n: wo in seinem Loft das neue Gerät am
+  n:   brachte uns ein Lift in ein unbel�ftbares Loft
+  m/n: Nach Feierabend wird im Loft KOH getragen.
+  n:   spektakulärer Schauplatz des Films ist das Unterebersbach Loft,
+  n:   im BOH-Palais kik, ein kleines Loft haben.
+  n:   die Fabrikshalle im Stadtzentrum ein schickes Loft.
+
+
+ - Hansjörg

@@ -1,0 +1,5 @@
+Klingt eher nach Livelock. Beide Threads arbeiten noch, aber kommen nicht
+vorwärts. :D
+
+
+Vinzent.

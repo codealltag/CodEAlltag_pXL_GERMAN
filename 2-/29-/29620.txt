@@ -1,0 +1,8 @@
+Zum Beispiel führen Usenet-Beiträge mit undeklariertem utf-8 zu 
+irreversiblen Schäden an der Lesbarkeit.
+
+Leider. Ich hätte es auch gerne anders, aber im Moment ist das meiste 
+undeklarierte Win-1252, und Umstellen per Handbetrieb ist mir zuviel.
+
+-- 
+Karl G.

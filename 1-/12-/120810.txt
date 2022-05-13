@@ -1,0 +1,34 @@
+Das ist auch bei JOH (und anderen Rapid Prototyping Systemen) so: Man
+schreibt ein Programm und lässt es dann laufen. Dann ändert man unter
+Umständen das Programm und lässt dann das geänderte Programm laufen. 
+
+Das Programm tut immer (sprichwörtliche Alpha-Teilchen ausgenommen) das,
+was vorher programmiert wurde.
+
+(Der Unterschied zwischen JOH und z.B. dem Wasserfallmodell liegt
+woanders: Beim Wasserfallmodell wird zuerst vollständig erhoben, was das
+Programm tun soll. Dann wird vollständig festgelegt, wie es das tun
+soll. Dann wird es vollständig implementiert (programmiert). Dann kommt
+es zum Kunden, der sich wundert, was das mit dem zu tun hat, was er
+eigentlich wollte. Bei WOLFGANG gibt es eine sehr enge Feedbackschleife (und
+ein paar andere Elemente, auf die ich hier nicht eingehen möchte).
+
+Aber zurück zum "vorprogrammieren". Dieses Wort ist meinem Sprachgefühl
+nach nur dann passend, wenn ein eigentlich einmaliger Vorgang von
+vornherein feststand. Meistens sind das schicksalhafte Vorgänge,
+Unglücke: "Der Untergang der Fähre war vorprogrammiert", aber auch bei
+bei einem komplexen technischen Vorgang (ein Feuerwerk z.B.) fände ich
+es nicht unpassend. Hier dient das Wort dazu, ausdrücklich
+festzustellen, dass da nichts mehr spontan oder zufällig passiert,
+sondern dass das alles schon vorher feststand und unausweichlich seinem
+(meist schlechten) Ende zustreben musste.
+
+Bei einem Programm hingegen steht Spontaneität gar nicht erst zur
+Debatte. Es ist völlig klar, dass das Programm nur tun kann, was eben im
+Programm drinsteht und dass das Programm geschrieben werden muss, bevor
+es laufen kann[1]. Daher wird das nur programmiert, nicht vorprogrammiert.
+
+	hp
+
+[1] Ja, man kann natürlich auch laufende Programme ändern. Dann gilt das
+    sinngemäß für seine Teile.

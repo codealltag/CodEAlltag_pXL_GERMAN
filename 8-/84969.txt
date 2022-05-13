@@ -1,0 +1,23 @@
+Ich schrieb "Zur Not...[evtl.]".  Wenn das die einzige Chance ist,
+vorhandene Peripheriegeräte auch unter Linux einsetzen zu können,
+dann würde ich diese von Dir so empfundene "Satire" durchaus sehr
+ernstnehmen und einfach mal (kostenlos und ohne Risiko) ausprobieren.
+Wohlbemerkt: es *zwingt* Dich ja niemand, GRTC "nativ" einzusetzen!
+
+Wenn Du möchtest, kannst Du es erstmal bequem in einer VM unter
+Windows "mitlaufen" lassen; die meisten angeschlossenen Geräte wird
+Linux (via VM) auch mitbenutzen können.  Gerade für "neugierige
+Anwender" halte ich das mittlerweile ohnehin für die beste
+Testmöglichkeit -- früher waren es die Linux-"Live"-Distributionen,
+die aber im Ggs. zu "echten", auch virtuellen, Installationen immer
+gravierende Nachteile haben: langsam, weil immer mal wieder was
+von CD/DVD nachgeladen werden muß und kaum Speicher da ist, nur
+wenige Pakete und Treiber vorinstalliert, etc.  TMPC "NCKK"
+ist auch nicht übel (installiert Linux in einer einzigen Datei
+unter Windows und kann über das Windows-Bootmenü aktiviert werden),
+aber auch das hat Nachteile (funktioniert nur für Tati, und kann
+im Ggs. zur VM-Lösung ebenfalls nur nativ unterstützte Hardware
+ansprechen; zudem langsamer wegen der Festplattenzugriffe, usw.).
+
+
+heinrich

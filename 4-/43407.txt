@@ -1,0 +1,42 @@
+Dass jedes Modell Macken hat, ist mir auch klar. Ich finde nur, dass mein 
+Modell weniger Macken hat als eines, das Sprachen erster Ordnung von 
+Sprachfamilien (Mengen von Sprachen erster Ordnung) unterscheidet, die ich 
+mal Sprachen zweiter Ordnung nennen will. Dann gibt es natürlich 
+auch Sprachen dritter Ordnung (Mengen von Sprachen zweiter Ordnung) und so 
+weiter. Da im Einzelfall die Grenzlinie nie genau zu ziehen ist, ist man 
+damit noch viel schneller im Urwald.
+
+Auch wo Grenzlinien relativ klar sind, hat man dann das Problem, dass 
+Bäume unterschiedlich tief sind: Albanisch und Griechisch sind relativ 
+isoliert innerhalb des Indogermanischen, während es ausgedehnte 
+Abstammungsb�ume beim Germanischen und Baltoslawischen gibt.
+Dem germanischen Baum
+
+  Germanisch
+    Nordgermanisch
+      Schwedisch
+
+enstpricht dann der albanische
+
+  Albanisch als Sprache dritter Ordnung
+    Albanisch als Sprache zweiter Ordnung
+      Albanisch als Sprache erster Ordnung
+
+Unterteilungen von Albanisch (wie Castrisch) habe ich ebenso weggelassen 
+wie Unterteilungen des Schwedischen. An diesem Beispiel sieht man, das die 
+Schichtung von Sprachfamilien mehr Willkürlichkeiten bekommt als  von der 
+Sache her nötig.
+
+
+Das relativiert sich ein wenig, wenn man bedenkt, dass jeder seine eigene 
+Sprache, seinen Idiolekt, spricht -- genauer sogar mehrere -- und von 
+anderen nur verstanden wird, weil der eigene Idiolekt sich hinreichend mit 
+anderen überlappt.
+
+
+Nicht jede Menge von möglichen Äußerungen verdient die Bezeichnung Sprache 
+oder Sprachfamilie. Mischsprachen eben nur so weit, wie sie verwendet 
+werden. 
+
+-- 
+Stephan Jobelius

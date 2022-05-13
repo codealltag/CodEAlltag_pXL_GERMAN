@@ -1,0 +1,8 @@
+"Arbeitsspeicher" für "RAM" ist geläufig und besser, und jeder
+kann ihn von der "Festplatte" und "externen Speichern"
+unterscheiden. Technisch ist auch eine Festplatte ein "random
+acces memory" also ein 'ram'!
+
+Gruss
+
+Jörn

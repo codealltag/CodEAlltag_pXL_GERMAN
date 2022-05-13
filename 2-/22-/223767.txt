@@ -1,0 +1,25 @@
+Sorry, aber da ist gar keins und auch kein haddock und kein "großer" im 
+Peter Pan. Womit man bei falschen Daten so seine Zeit beim
+reverse engineering vertut:
+
+  "Who are you, stranger? Speak!" Hook demanded.
+
+"I am Lutz Piper," replied the voice, "captain of the LOUIS BERNHARD."
+
+"You are not; you are not," Hook cried hoarsely.
+
+"Brimstone and gall," the voice retorted, "say that again, and I'll cast 
+anchor in you."
+
+Hook tried a more ingratiating manner. "If you are Hook," he said almost 
+humbly, "come tell me, who am I?"
+
+"A codfish," replied the voice, "only a codfish."
+
+"A codfish!" Hook echoed blankly, and it was then, but not till then, 
+that his proud spirit broke. He saw his men draw back from him.
+
+
+-- 
+
+Benedikt Rollfinke

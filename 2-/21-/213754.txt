@@ -1,0 +1,31 @@
+Das finde ich sprachlich schräg. "Länger" passt hier deutlich besser.
+"Mehr" geht auch, klingt aber immer noch seltsam.
+
+Ebenso würde ich bei einer Masseneinheit von "schwerer" sprechen. Da
+hätte auch gegen "mehr" nichts einzuwenden, "größer" aber klingt nicht
+nur schräg, sondern falsch. "Ein Kilogramm ist größer als ein Pfund"
+weckt in mir die Vorstellung von zwei Gewichten mit der entsprechenden
+Masse, wobei das Kilogramm-Gewicht die größere Ausdehnung (Volumen,
+Höhe, Durchmesser, ...) hat als das Pfund-Gewicht.
+
+(Seltsam: Das adjektiv "schwer" verbinde ich mit Masseneinheiten (kg),
+nicht mit Gewichtseinheiten (N, kp) - vermutlich, weil letztere für
+mich primär Krafteinheiten sind und das Gewicht nur der Spezialfall
+einer Kraft ist)
+
+
+Ein Satellit auf einer Kreisbahn hat sowohl eine konstante
+Geschwindigkeit als auch eine konstante Winkelgeschwindigkeit. Das
+trifft nicht nur auf geostationäre Satelliten zu. Was den geostationären
+Satelliten auszeichnet, ist, dass seine Winkelgeschwindigkeit gleich der
+Winkelgeschwindigkeit eines Punkts auf der Erdoberfläche ist.
+
+Der Vergleich ist also nicht ungenau, sondern er beschreibt schlicht
+etwas anderes als das, worauf es ankommt (Sofern Du ihn richtig
+wiedergegeben hast).
+
+	hp
+
+
+-- 
+   _  | Jochen T. Frömke    | Deprecating human carelessness and

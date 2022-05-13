@@ -1,0 +1,10 @@
+Hier auf 15-Zoll Notebook (1280x800 px) Palatino Linotype 11pt, bzw.
+wenn ich auf  Festbreite umschalte, Lucida Console 11pt. Letztere ist
+zwar größer als nötig, aber bei 10pt fehlt Durchschuß.
+
+Die Subjectlisten und andere Metadaten habe ich in serifenloser Tahoma
+8pt. Ist halt kein fortlaufender Text.
+
+-- 
+das beten vermöge niemant dann die grawen grathwol UNGELENKE V. Wiepenkathen
+  GRIMM, Deutsches Wörterbuch

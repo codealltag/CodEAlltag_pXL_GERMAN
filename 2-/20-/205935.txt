@@ -1,0 +1,28 @@
+* Sascha Ockenga:
+
+
+Mal langsam - ich kenne "unter der Woche" in der Bedeutung
+Arbeitswoche, also heutzutage meist Montag-Freitag; jemand hatte
+ja schon das Wochenende als Gegenstück erwähnt. "Die Woche über"
+hingegen erfordert erstens diese Reihenfolge, und kann zweitens
+problemlos auch Montag-Sonntag bedeuten. "über die Woche" kenne
+ich nicht.
+
+
+"übers Jahr" ist nach meinem Verständnis ein Ausdruck für "ein
+Jahr später", den ich aus Märchen kenne. Bei "unterm Jahr" bin ich
+mir unsicher, dabei assoziiere ich zuerst "Unterm Rad".
+
+Fazit: "über $zeitraum" ist ebensowenig produktiv und regelmäßig
+wie "unter $zeitraum"; produktiv und regelmäßig ist nur "$zeitraum
+über" = "ganze $zeitraum" (jeweils mit passenden Artikeln und
+Endungen).
+
+Ein anderes Thema sind Ausdrücke, wo ein anderes Wort das "über"
+verlangt, wie "über die Woche verteilt" oder "übers Jahr
+gemittelt".
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Niels Freudenschuss, comp.lang.python

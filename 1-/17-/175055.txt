@@ -1,0 +1,18 @@
+* Roman Inhet-Panhuis:
+
+
+In Deinem Zitat ist es sehr übersehbar, weil rausgek�rzt.
+
+Bei dem Verweiswort handelt es sich doch sicher um "es", also:
+
+ ... daß es uns gelungen ist, das Projekt abzuschließen. (zwingend)
+ ... daß uns gelungen ist(,) das Projekt abzuschließen. (optional)
+
+(Wobei ich es im zweiten Satz ebenso vermissen würde wie im ersten.)
+
+Die ersten drei Beispielsätzen in � 75(3) enthalten "es", die anderen
+"damit" oder "das". In � 77(5) findet man noch "du", "wir", "daran",
+"so, "dies" u.dgl., aber "ist" ist ganz bestimmt kein Verweiswort.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

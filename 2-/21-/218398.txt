@@ -1,0 +1,78 @@
+Hier ist sie: (Quelle: "Gutsquelle")
+
+"Die seit April 2002 gültige empirische Formel in Form einer 
+Zahlenwertgleichung zur Berechnung des Windchill mit metrischen 
+Einheiten und einer in 10 Meter Höhe über dem Erdboden gemessenen 
+Windgeschwindigkeit lautet:
+
+     WCT = 13{,}12 + 0{,}6215 \cdot T_a- 11{,}37 \cdot v^{0{,}16} + 
+0{,}3965 \cdot T_a \cdot v^{0{,}16} \!
+
+     WCT – Windchill-Temperatur in Grad Celsius
+     Ta – Lufttemperatur in Grad Celsius
+     v – Windgeschwindigkeit in Kilometern pro Stunde
+
+Mit Einheiten des angloamerikanischen Maßsystems (für 33 Fuß Höhe über 
+dem Erdboden):
+
+     WCT = 35{,}74 + 0{,}6215 \cdot T_a - 35{,}75 \cdot v^{0{,}16} + 
+0{,}4275 \cdot T_a \cdot v^{0,16}
+
+     WCT – Windchill-Temperatur in Grad Fahrenheit
+     Ta – Lufttemperatur in Grad Fahrenheit
+     v – Windgeschwindigkeit in Meilen pro Stunde
+
+Zu beachten ist dabei, dass sich die Formeln nicht für eine komplette 
+Windstille beziehen und man bei Windgeschwindigkeiten unter 1,34 m/s 
+einen Wert erhält, der sich über dem der Lufttemperatur befinden kann. 
+Dies hat seine Ursache in der isolierenden Wirkung der hautnahen 
+Luftschicht, die sich bei vollständiger Windstille erwärmt, ohne vom 
+Wind weggetragen zu werden. Die dann wahrgenommene Lufttemperatur ist 
+aufgrund dieser wärmeren Körperhülle höher als die tatsächliche 
+Umgebungstemperatur in einiger Entfernung zur Hautoberfläche. Für derart 
+niedrige Windgeschwindigkeiten ist die Formel allerdings nicht ausgelegt 
+und die entsprechenden Ergebnisse sind unzuverlässig. In der Regel wird 
+der Gültigkeitsbereich der Formel daher erst für Windgeschwindigkeiten 
+über 5 km/h veranschlagt.
+
+Die Ursprünge dieser Gleichungen, die Probleme in ihrer Umsetzung und 
+Exaktheit sowie alternative Herangehensweisen werden in den folgenden 
+Abschnitten dargestellt.
+Windchill-Temperatur 	10 °C 	5 °C 	0 °C 	−5 °C 	−10 °C 	−15 °C 	−20 °C 
+−25 °C 	−30 °C 	−35 °C 	−40 °C 	−45 °C 	−50 °C
+10 km/h 	8,6 	2,7 	−3,3 	−9,3 	−15,3 	−21,2 	−27,2 	−33,2 	−39,2 
+−45,1 	−51,1 	−57,1 	−63,0
+15 km/h 	7,9 	1,7 	−4,4 	−10,6 	−16,7 	−22,9 	−29,1 	−35,2 	−41,4 
+−47,6 	−53.7 	−59,9 	−66,1
+20 km/h 	7,4 	1,1 	−5,2 	−11,6 	−17,9 	−24,2 	−30,5 	−36,8 	−43,1 
+−49,4 	−55,7 	−62,0 	−68,3
+25 km/h 	6,9 	0,5 	−5,9 	−12,3 	−18,8 	−25,2 	−31,6 	−38,0 	−44,5 
+−50,9 	−57,3 	−63,7 	−70,2
+30 km/h 	6,6 	0,1 	−6,5 	−13,0 	−19,5 	−26,0 	−32,6 	−39,1 	−45,6 
+−52,1 	−58,7 	−65,2 	−71,7
+35 km/h 	6,3 	−0,4 	−7,0 	−13,6 	−20,2 	−26,8 	−33,4 	−40,0 	−46,6 
+−53,2 	−59,8 	−66,4 	−73,1
+40 km/h 	6,0 	−0,7 	−7,4 	−14,1 	−20,8 	−27,4 	−34,1 	−40,8 	−47,5 
+−54,2 	−60,9 	−67,6 	−74,2
+45 km/h 	5,7 	−1,0 	−7,8 	−14,5 	−21,3 	−28,0 	−34,8 	−41,5 	−48,3 
+−55,1 	−61,8 	−68,6 	−75,3
+50 km/h 	5,5 	−1,3 	−8,1 	−15,0 	−21,8 	−28,6 	−35,4 	−42,2 	−49,0 
+−55,8 	−62,7 	−69,5 	−76,3
+55 km/h 	5,3 	−1,6 	−8,5 	−15,3 	−22,2 	−29,1 	−36,0 	−42,8 	−49,7 
+−56,6 	−63,4 	−70,3 	−77,2
+60 km/h 	5,1 	−1,8 	−8,8 	−15,7 	−22,6 	−29,5 	−36,5 	−43,4 	−50,3 
+−57,2 	−64,2 	−71,1 	−78,0
+Anmerkung: Bei blauen Feldern besteht die Möglichkeit, dass es innerhalb 
+von 30 Minuten oder weniger zu Erfrierungen kommt. Der Bezug zur 
+Erfrierungsgefahr bezieht sich auf das Erreichen einer Hauttemperatur 
+von −4,8 °C, ab welcher für etwa 5 % der Menschen Erfrierungen auftreten."
+
+Wer versteht das schon? Ich nicht.
+
+Und hier findest Du einen "Windchill"-Rechner
+
+
+http://rgx.taqdxmhnwdvpnpi.gl/umhfczyw.jnv
+
+Gruss
+Alois Grevsmühl

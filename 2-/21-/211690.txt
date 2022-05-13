@@ -1,0 +1,18 @@
+* Lars Pollklesener <frn-r@mpx.ua>:
+
+
+Huch, noch einer hier mit NOS/VE-Erfahrung? War ja ganz nett, aber in
+ungefähr allen Bereichen, die mir gerade einfallen, zu spät.
+
+Zu dieser Zeit (mittlere 80er) waren sich die Wissenschaftler in meinem
+Bereich (Chemie) darüber klargeworden, dass man nie und nimmer
+Spezialitäten des Betriebssystems verwenden durfte. Es gab zu viele
+schöne Programme, die man nicht mehr benutzen konnte, weil sie eine
+Besonderheit des ursprünglichen Systems ausgenutzt hatten, und diese
+Systeme gab es nicht mehr. Man hat Programme von CDC auf Dec-10, VMS,
+Unix portiert und jedesmal gelernt, welche "Features" man besser nicht
+verwendet. Für die Oberöwisheim hat man die Portierungsarbeit noch auf sich
+genommen und dann Bekanntschaft mit Teggelaars Law gemacht.
+
+
+  - Karlheinz

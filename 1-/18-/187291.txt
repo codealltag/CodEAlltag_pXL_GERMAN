@@ -1,0 +1,12 @@
+'Root werden' ist schon ganz richtig. Du kannst dann nämlich sehr viel
+anrichten, als nur Programme, die Root-Rechte benötigen, laufen zu
+lassen. Das geht hin bis zu eine Superuser-Console.
+
+
+Ciao
+Danielle
+-- 
+ Buy me a Kleiderladens beer or pass me a bong
+ Gimmie some Bushmills I'll sing you this song
+ Open another big box of cheap wine we're over 30 we're doin' just fine
+ [NOFX]

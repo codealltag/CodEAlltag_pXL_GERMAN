@@ -1,0 +1,30 @@
+Etwas raffinierter ist es schon. 
+
+Das Ding hat neben dem Objektiv eine Infrarotkamera eingebaut, die das 
+projizierte Bild aufnimmt. Zum Lieferumfang gehört ein Zeigestock 
+(um genau zu sein, sogar zwei in unterschiedlichen Längen) mit 
+Infrarotsender an der Spitze. 
+
+Zudem ist der Beamer per USB-Leitung mit dem bildsendenden Rechner 
+verheiratet. 
+
+Zeigt man nun mit dem Zeigestock irnkwo ins Bild und drückt auf einen 
+in dessen Griff angebrachten Knopf, dann wird dieser unsichtbare 
+Lichtblitz von der Kamera registriert, und der der Beamer tut gegenüber 
+dem Rechner so, als sei er eine USB-Maus, und schickt dorthin eine Info 
+"Mausklick da-und-da" ab. 
+
+Man kann also bleistiftsweise die projizierte Oberfläche einer Software 
+direkt am Bild handhaben. Für Softwareschulungen und ähnliches ist das 
+(entschuldigt den zeitgemäßen Ausdruck) der Hammer, aber auch für 
+Kraftpunkt-Vorstellungen sehr, sehr praktisch - ich kann direkt am Bild 
+Hervorhebungen vornehmen und ähnliches, als stünde ich vor einem 
+Wendeblock - H, einer Flipchart. 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://horcmfcy.mkv>

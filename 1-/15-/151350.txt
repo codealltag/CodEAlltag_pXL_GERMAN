@@ -1,0 +1,14 @@
+Hier: nix. Möglicherweise ist bei Furthmühle mal wieder irgendwas defekt. 
+
+Ich meine mich dunkel zu erinner, dass du schon häufiger ma den Ratschalg
+bekommen hast "benutze einen newsserver und einen Newsreader, nicht
+ausgerechnet Furthmühle". Falls diese Erinnerung nicht trügt, schließe ich
+mich dem von anderen gegebenen Ratschlag an. Falls sie trügt und dir das
+noch niemand gesagt hat, mögest du es bitte hiermit als durch mich
+nachgeholt ansehen.
+
+Manfred
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

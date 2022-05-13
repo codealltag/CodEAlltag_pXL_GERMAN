@@ -1,0 +1,24 @@
+* Cornelius Ilzhöfer:
+
+
+Um es zu diskutieren, braucht man wenigstens minimalen Kontext:
+
+
+Das lese ich als:
+
+  Der eine [Bleisetzer], den es noch gibt, [tut das], meinst du?
+
+Oder so:
+
+  Wenn Du schreibst: "Der Bleisetzer", meinst Du: "Der eine
+  Bleisetzer, den es noch gibt"?
+
+In Kurzform:
+
+  s/(Blei-)Setzer/eine Bleisetzer, den es noch gibt/
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Paolo Heylmann in sci.lang

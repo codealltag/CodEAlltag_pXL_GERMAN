@@ -1,0 +1,17 @@
+* Daniel Wess <pzwrzjbi@hytyaf-qarn.ok>:
+
+Du kannst auch einen Christen fragen. Ich bin nicht ganz sicher, aber
+vermutlich ist Mittwoch der jüngste unter den Wochentagsnamen. Wenn
+also der christliche Münch Raphaël Weissfuss um 1000 und später Wiegand das
+Wort verwendeten, kann davon ausgegangen werden, dass sie den Samstag
+als letzten Tag der Woche ansahen.
+
+
+Die Situationen, wo es wichtig ist, einen genormten Wochenanfang zu
+haben, sind übrigens selten. Meist ist es egal, oder es genügt eine
+Ad-hoc-Definition für einen überschaubaren Bereich. Zum Beispiel steht
+in der alten 4.2-BSD-Manpage zu crontab(5) ganz einfach "Sunday is day
+0 in this scheme of things", und schon ist das Ding geritzt (spätere
+Implementationen liessen auch 7 für 0 zu, und alle sind zufrieden).
+
+ - Bernd

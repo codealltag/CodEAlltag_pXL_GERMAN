@@ -1,0 +1,29 @@
+Vergleichen wirs mal mit dem Englischen -- die schreiben ja alles klein.
+Im Englischen gibts ja dieselbe *logische* Verschachtelung, jedoch in 
+sequentieller Anordnung:
+
+  die von den in dieser kurz nach dem zweiten Weltkrieg gebauten Siedlung
+  lebenden Menschen dringend benötigte Verkehrsanbindung
+
+lässt sich ziemlich 1:1 ins Englische übertragen, wo es aber
+sequentialisiert wird, so dass die inhaltlich zusammengehörigen Wörter    
+beieinanderstehen, wobei ihnen Zusatzinformationen folgen, statt dass sie
+diese umklammern:
+
+  the transport connection urgently needed by the people living in this
+  conglomeration established shortly after WWII
+
+Damit ergibt sich mehr von der logischen Gliederung aus den Wörtern 
+selbst, ohne dass man Querbezüge zu weit entfernten Wörtern herstellen 
+muss. Außerdem gibt es keine Substantivierungen in unserem Sinne (der 
+Kleine -- *the little; das Lesen -- *the read); allerdings gibt es eher 
+mehr Wörter, die unverändert mehreren Wortarten angehören können. Oft sind 
+trotzdem die Wortarten und damit die Funktion der Wörter im Satz mit 
+weniger Kontext zu ermitteln. Wo aber mal im Englischen geschachtelt und 
+von der Mehrdeutigkeit hinsichtlich der Wortarten Gebrauch gemacht wird, 
+ist der englische Satz genauso unübersichtlich:
+
+  Do you know that fat people eat accumulates?  (Beisp.: R. Hanssmann)
+
+-- 
+Oskar Lüdeking

@@ -1,0 +1,11 @@
+M.E. ging es Aurelia darum, ein Fremdzitat zu kennzeichnen. Da hat sich 
+AFAIK das Pipe-Zeichen (|) eingebürgert. Das >-Zeichen, bzw. deren 
+mehrere, markieren üblicherweise Zitate im aktuellen Faden.
+
+
+Ciao
+Rose
+-- 
+  Mein Auto hat man demoliert, es hängt ein Zettel dran,
+  Von meiner Freundin, die mir sagt, was ich sie alles kann.
+  [J.B.O.]

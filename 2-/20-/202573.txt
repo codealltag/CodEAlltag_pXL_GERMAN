@@ -1,0 +1,14 @@
+* Heimo Nargang:
+
+
+Naja, "es ist", wir geraten da in eine Rekursion. Es gibt wohl für
+das Englische ein Grammatikmodell, nach dem es gar keine
+Substantivkomposita gibt, sondern jedes Wort, sobald es ein
+Substantiv modifiziert, implizit in ein Adjektiv konvertiert wird
+(vereinfacht gesagt). Ich halte das für eine unnötige Vermehrung
+von Entitäten, wüßte jedenfalls nicht, was dieses Modell besser
+erklärt als eins mit N-N compounds.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Ulfert Nievindt

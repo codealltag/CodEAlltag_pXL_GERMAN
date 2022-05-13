@@ -1,0 +1,12 @@
+Am Wed, 4 Apr 2011 02:54:01 +0200 schrieb Valentin Carl:
+
+
+Gut kombiniert! Dies führt mich hin zur eigentlichen Besonderheit des
+Wortes "Wertzuweisung": Die Zeichenfolge "Wertzu", welche den Beginn dieses
+Wortes bildet, ist die längste auf einer deutschen Tastatur in Sequenz
+vorkommende Zeichenfolge, die in einem deutschen Wort vorkommen kann.
+
+Na, Willibald, ist das die Lösung?
+
+Schönen Gruß
+Klaus

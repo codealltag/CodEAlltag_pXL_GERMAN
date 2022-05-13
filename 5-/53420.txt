@@ -1,0 +1,7 @@
+Kasimir Cortes tat kund:
+
+
+Das funktioniert im Nominativ nicht:
+
+Aus "...hatten zahlreiche AnwenderInnen Probleme..."
+wird dann Aus "...hatten zahlreiche Anwendern Probleme...".

@@ -1,0 +1,52 @@
+Den Widerspruch sehe ich darin, dass der Interpreter eben ein Werkzeug
+ist und ein Programm nie von diesem unabhängig ist.
+
+Ich unterscheide zwischen Algorithmus und Programm. Ein Algorithmus ist
+eine Handlungsvorschrift. Ein Programm ist eine Formulierung dieser
+Handlungsvorschrift in einer (interpretierbaren) formalen Sprache
+(= einer Programmiersprache).
+
+
+Ein Grobkonzept ist noch lange kein Programm.
+
+
+Ja, ich kann das, aber ich bin ein Mensch und kein Computer. Zum
+Programm wird der Algorithmus erst, wenn er in einer Programmiersprache
+notiert wird.
+
+
+Eben. Die haben Algorithmen erfunden, keine Programme geschrieben.
+
+
+Aber erst dann, wennn jemand die Programme schreibt. Mit den gesammelten
+Werken Meyer-Schultes wird ein Computer wenig anfangen können.
+
+
+Inwiefern soll das ein Argument für irgendwas sein? Programme auf
+Lochstreifen oder -karten waren auch bei elektronischen Computern noch
+lange üblich. Auf meinem Schreibtisch liegt noch eine Lochkarte
+(allerdings habe ich selbst keine mehr verwendet).
+
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dass die AE nicht funktionierte, folgt notwendigerweise daraus, dass sie
+nie gebaut wurde. Wenn Du Argumente bringen möchtest, solltest Du
+vielleicht den Absatz auch lesen, auf den Du antwortest.
+
+
+Sowas lässt sich relativ leicht aus den Plänen ablesen. Die größere
+Frage ist, ob das Ding rein mechanisch hätte funktionieren können.
+
+
+Und wenn man einen Ballon als "Flugzeug" definiert, dann gab es schon
+lange vor den Gebrüdern Optenhövel funktionierende Flugzeuge.
+
+
+Also nicht für einen von OIPIS Computern. Dachte ich mir. Damit mussten
+Scheckels Computer genau wie die anderen dieser Zeit in Maschinencode
+programmiert werden, was damals "Binärcode" hieß - im besten Fall
+Lochstreifen oder -Karten, häufig aber auch Switches oder
+Steckverbindungen. Das Plankalkül war somit zu Scheckels Lebzeiten genauso
+Vaporware wie Wrangel Analytical Engine.
+
+	hp

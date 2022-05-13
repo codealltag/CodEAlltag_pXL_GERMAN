@@ -1,0 +1,1 @@
+Kein Wunder, wenn man bedenkt, daß ASCII nur Zeichencodes bis 127 definiert.

@@ -1,0 +1,22 @@
+Dazu braucht es zum einen die Erweiterung 'Signature Switch' und zum
+anderen eine Textdatei mit den Signaturen, die jeweils mit % getrennt
+werden. Etwa n der Form:
+
+sig 1
+%
+sig 2
+%
+sig 3
+
+etc.
+
+Abgesehen davon, ein funktionieren sollender Signaturtrenner benötigt
+ein Leerzeichen am Ende, also '-- ' und nicht '--' wie bei dir gerade.
+
+
+Ciao
+Ruth
+-- 
+ 5 kleine PKTM wurden kontrolliert,
+ Ein Polizist nahm's zu genau, da war'n sie noch zu viert.
+ [Die Toten Hosen]

@@ -1,0 +1,13 @@
+Klar, aber das ist je keine Grund, es nicht laufend zu verbessern, um
+mehr Anwendungsbereiche zu erschließen. Aufgrund dieser Schlagwortsuche
+können wir zum Beispiel ähnliche Texte suchen, oder eine automatische
+Zusammenfassung erstellen.
+
+
+Nach bestimmten, vorher bekannten Wörtern zu suchen ist ja trivial und
+was ganz anderes. In dem Szenario ist die Erkennung gesprochener Sprache
+bei weitem das größte Problem, am Telefon verschärft.
+
+-- 
+gugelfranz,  m., spöttische bezeichnung eines mönchs
+  GRIMM, Deutsches Wörterbuch

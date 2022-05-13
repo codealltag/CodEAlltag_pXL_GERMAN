@@ -1,0 +1,9 @@
+Am Fri, 10 Jul 2009 16:57:53 +0200 schrieb Niko Jäneke:
+
+
+FF3.5 prblemlos.
+Hängt aber von den Einstellungen ab. Ich hab "Anwendungen starten"
+ausgeschaltet,dann kommt der Requester mit der Frage, was er tun soll,
+Standardanwendung vorgeschlagen. Bei mir mplayerc.exe
+
+K

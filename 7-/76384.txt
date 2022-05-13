@@ -1,0 +1,21 @@
+Bei anderen "Freemailern" ist POP/IMAP und ein gewisses Speicherkontingent
+kostenlos (incl. Spamfilter), dafür muß man deren Werbepartner ab und zu
+mal "zu Mail" kommen lassen, was sich aber ggf. gut filtern läßt.  Für
+keine Werbung und unbegrenzten Speicher (was einklich Unfug ist, weil
+Sendmail üblicherweise so konfiguriert ist, extrafette E-Mails erst gar
+nicht zu anzunehmen) bezahlt man dann einen "kleinen" monatlichen Obulus.
+
+
+*örks*  Wer tut denn sowas?  Das ist doch kein NAS!  Es ist notfalls
+unzuverlässig, und es ist überhaupt sicherheitstechnisch eine echte
+Katastrophe, persönliche Daten bei "fremden Leuten" zu hinterlegen!
+Bei E-Mail mag das noch akzeptabel sein, aber bei Backups?  *grusel*
+
+Aber bei DOS und Windows hat das ja auch noch nie einen gestört:
+wenn's nach dem Reboot nicht besser wird, wird eben neu installiert,
+die Viren und Trojaner danach wieder eingespielt, und die nächste
+Redmonder Version ist seveso viel sicherer und stets ja auch schon
+für die nahe Zukunft angekündigt -- sozusagen recht zeitnah...  ;-)
+
+
+nino

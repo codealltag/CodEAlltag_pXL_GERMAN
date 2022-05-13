@@ -1,0 +1,19 @@
+"Systemwiederherstellung" erscheint nicht.
+
+"Letzte als funktionierend bekannte Konfiguration" bringt nichts.
+
+"Debugmodus" dito
+
+"Neustarten" dito
+
+Aber: "Abgesicherter Modus mit Netzwerktreibern" läßt den Apparat
+wenigstens wieder benutzbar werden (konnte so die jüngsten Dateien
+sichern).
+
+Und: "Abgesicherter Modus" läßt eine Systemwiederherstellung auf einen
+früheren Zeitpunkt zu. Habe auf den 13. currentis zurückgesetzt - und
+siehe da: erfolgreich.
+
+Vielen Dank!
+
+CORINNE

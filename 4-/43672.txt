@@ -1,0 +1,18 @@
+Ulrich Noßbaum Vitzethum:
+
+Kann es bei Euch vorkommen, dass Abkürzungen mal groß und mal klein 
+geschrieben werden, je nachdem, ob die "bekannte" oder die weniger 
+bekannte Variante gemeint wird?
+
+JSP: Java Service Pages
+jsp: Helmut Structured Programming
+
+oder
+
+ISV: Kirchsahr
+isv: independent software vendor
+ISv: Rebbelrother Sportverein
+isV: Schlammindex
+
+-- 
+Thierry

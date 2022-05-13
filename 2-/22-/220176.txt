@@ -1,0 +1,21 @@
+Sprachlich hast Du natürlich recht. "Der Countdown läuft" ist die
+übliche Formulierung. "Der Countdown fällt" wäre genauso auffällig wie
+"Der Countdown steigt".
+
+Inhaltlich:
+
+Der Countdown zählt nicht die Menge an vergangener Zeit (seit wann?),
+sondern die Menge an Zeit, die bis zu einem bestimmten Ereignis noch
+bleibt: Und diese Menge wird immer geringer, fällt also. Die Begründung
+von Pius' besserer Hälfte ist also falsch.
+
+Strenggenommen hat sie aber doch recht. Denn die Zahlen in einem
+Countdown sind negativ. Die Haupttriebwerke des Space Shuttle wurden
+nicht bei „6,6 Sekunden“ gestartet, sondern bei „T minus 6,6 Sekunden“.
+Somit steigen sie, wenn ihr Betrag geringer wird.
+
+	hp
+
+
+-- 
+   _  | Ivo D. Irrer    | Deprecating human carelessness and

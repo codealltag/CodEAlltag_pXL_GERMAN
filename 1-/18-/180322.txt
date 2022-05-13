@@ -1,0 +1,42 @@
+Ich denke, das hast du verstanden. Was du aber nicht verstanden
+zu haben scheinst ist der Unterschied zwischen einem Fachwort und einem
+Wort aus der Umgangssprache. In der Technik ist der Ruck ist eine
+wohldefinierte physikalische Grösse mir der Dimension m/(s hoch 3)
+In der Umgangssprache bedeutet Ruck etwas anderes. Aber das gilt auch
+für die Geschwindigkeit oder die Beschleunigung. Ein relativ zu meinem
+Standort ruhender Gegenstand hat umgangssprachlich _keine_
+Geschwindigkeit. Also nicht die Geschwindigkeit Null sondern keine.
+Ein unbeschleunigter Gegenstand hat umgangssprachlich nicht die
+Beschleunigung Null sondern keine. Entsprechend der Ruck.
+Fachsprachlich muss man aber sagen: der Gegenstand hat die
+Geschwindigkeit/Beschleunigung/Ruck Null, aber das ist eben
+nur fachsprachlich sinnvoll.
+
+  übrigens gibt es die translatorischen Bewegunggr�ssen Geschwindigkeit,
+Beschleunigung und Ruck auch für den rotatorischen Fall. Sie heissen
+dort Winkelgeschwindigkeit, Winkelbeschleunigung und Winkelruck und wer
+glaubt, dass das Drumherum um diese physikalischen Grössen bereits im
+19. Jahrhundert vollumfänglich bearbeitet worden wäre, dem sei
+die folgende Patentanmeldung aus Oberpilsbach aus dem Jahre 2001 zu studieren
+nahegelegt:
+
+<http://wbwlybwmdk.nakr.ih/OfylmscIcc/inkfbptatk?qbxgai=qrl&geiho=SV282330189577G>
+
+Der Begriff Winkelruck befindet sich u. a. oben auf Seite vier.
+(Man kann das ganze Dokument runterladen, wenn man rechts oben im
+Browser "Volldokument laden" anklickt und die Zeichen abtippt)
+
+  Die Patentschrift handelt von der Optimierung des Winkelruckverlaufes
+eines Schienenfahrzeuges beim Durchfahren einer Kurve mit sich
+änderndem Winkel. Sehr wichtig beim Bau von Achterbahnen.
+Ein Schienenfahrzeug durchführt einen Kreisbogen darauf folgt eine
+Gerade. Wenn man jetzt an den Kreisbogen einfach das
+Geradenstück dranflanscht, hat man an dieser Stelle einen
+Diracstossartigen Verlauf des Querrucks was Material und Insassen
+gefährdet. In der Patentschrift wird der Aufbau des �bergangbereichs
+beschreiben. (Nordsternweg) Früher hat man solche Übergangsbögen als
+Klothoide ausgeführt. Der Nordsternweg berücksichtigt  zusätzlich
+noch den Schwerpunkt des Fahrzeugs.
+
+Gruss
+Ulrich

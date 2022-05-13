@@ -1,0 +1,15 @@
+Es gibt im Deutschen allerdings sehr wohl Minimalpaare, bei denen man  
+streiten kann, ob hier die Vokalqualität oder die Quantität 
+ausschlaggebend ist: kann/Kahn, Kamm/kam, Wonne/wohne, krumme/Krume. Zwar 
+wechselt in allen Fällen auch der Vokal von offen zu geschlossen und 
+gleichzeitig von lang zu kurz. Aber bei a, o und u gibt es im Gegensatz 
+zum e/ä (jedenfalls soweit ich sehen kann) nur die Kombinationen 
+kurz+offen bzw. lang+geschlossen (beim e/ä gibt es mindestens 
+Minimaltripel wie Segen:Sägen:Seggen). Insofern ist es Definitionssache, 
+ob in diesen Fällen die Qualität oder die Quantität phonemisch ist.
+
+Ralf 
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

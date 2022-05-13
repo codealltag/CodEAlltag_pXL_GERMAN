@@ -1,0 +1,21 @@
+Altschreib schreibt ja keineswegs jedes stimmlose s zwischen zwei Vokalen
+als ss, sondern nur das nach kurzen Vokalen - siehe "grüßen", "fleißig"
+usw. Bei Altschreib musste man dreistufig unterscheiden:
+
+a) ist die Frage ss/ß überhaupt relevant oder steht da nur ein einfaches s
+   (um etwa zwischen "das" und "dass" zu unterscheiden, oder zwischen 
+   "Spaß" und "Gras")
+
+b) Wenn ja: steht das ss/ß zwischen zwei Vokalen? 
+
+c) Wenn ja: ist der vorangehende Vokal kurz oder lang? (m.a.W. die
+   Unterscheidung langer und kurzer Vokale ist auch bei Altschreib schon
+   relevant gewesen).
+
+Bei Neuschreib fällt nun (b) einfach weg.  
+
+Tom
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,21 @@
+Nein, die logische Struktur des Satzes ist nicht geändert (Du denkst
+vielleicht an die vorgeschlagene Umformulierung der Art "alle fanden den
+Text unnütz"). 0 durch "keiner" zu ersetzen, dient bei mir nur dazu, das
+von der merkwürdigen Formulierung verwirrte Sprachgefühl
+wiederzubeleben.
+
+Das Problem ist nicht die logische Struktur des ersten Teils,
+sondern die Bedeutung von "auch". Dieses Wort kann man nur verwenden,
+wenn eine Aussage bereits für ein Objekt zutrifft, und das ist im
+besprochenen Beispiel nicht der Fall. Es besagt also:
+
+  0 von 3 Personen fanden den Text nützlich. Mindestens eine Person fand
+  ihn nützlich, sind Sie eine weitere?
+
+Und dazu sagt der Mathematiker "indirekter Beweis" (die Annahme, der
+Satz sei richtig, führt zu einem Widerspruch).
+
+-- 
+binsaugnesseln, hummelsk�l, m�nchspfeffer, gugelk�pf, minbr�derm�ntz
+FISCHART
+  GRIMM, Deutsches Wörterbuch

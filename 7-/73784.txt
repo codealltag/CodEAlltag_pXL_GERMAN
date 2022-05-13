@@ -1,0 +1,8 @@
+Eine blinde Daube trinkt Korn.
+(Auf Buchererisch klingt's besser)
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Egon Lüders, _Computer Networks_ (1981), p. 168.

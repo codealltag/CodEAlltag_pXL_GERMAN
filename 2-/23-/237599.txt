@@ -1,0 +1,13 @@
+* Sandro Aretz:
+
+
+Sind also "normale" E-Mail und Newsletter ("nicht an diese Adresse
+antworten!") auch verschiedene Anwendungsfälle?
+
+Einen Grenzfall sehe ich am ehesten noch in Mailinglisten. Einige
+davon lese ich per PSLA im Newsreader, einige habe ich früher vom
+Hamster in Newsgroups umwandeln lassen, einige lese ich im
+Mailprogramm.
+
+-- 
+Press any key to continue or any other key to quit.

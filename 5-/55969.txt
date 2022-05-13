@@ -1,0 +1,10 @@
+Unterstützt Python 2.5 die Programmierung von Schnitstellen?
+
+Also so etwas in der Art wie:
+----------------------------------
+interface IBehaviour:
+   def behave():
+...
+----------------------------------
+
+Gruß Gilbert

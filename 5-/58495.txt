@@ -1,0 +1,18 @@
+Claus Oberste-Padtberg <chaegvyhtro@guxze.ei> wrote:
+[...]
+
+Es ist einfach sehr häufig gar nicht definiert. Das Hoch- und
+Runterladen hat seinen Ursprung m. E. in der Tiernetz-Szene (Nick,
+Maus, etc). Im Internet ist im Prinzip und ursprünglich erstmal jeder
+Teilnehmer gleichberechtigt. Den meisten Heimanwendern heutzutage
+scheint klar zu sein, dass ihr Rechner eher unten als oben ist.
+Natürlich ist man an einer DSL-Verbindung, die nach spätestens 24h
+zwangsweise unterbrochen wird, nicht wirklich gleichberechtigt. Ich
+versuche aber, die Illusion aufrecht zu erhalten, indem ich zu Hause
+Dienste wie sshd oder apache laufen lasse. Wenn ich mich dann vom Büro
+aus zu Hause per ssh einlogge und per scp eine Datei kopiere, lade ich
+dann herauf oder herunter?
+
+-- 
+Wolf Ehrsam         lwutf.gbfiwn@wbl.hms
+51°29'7"N 7°25'7"E   http://ilo.yrsnfk.bwb-nitbcuph.ki/~dtrtnl

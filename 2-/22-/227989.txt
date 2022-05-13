@@ -1,0 +1,18 @@
+Es ist ein Unterschied zwischen Mathematik und Journalismus, den ich im
+vorgerückten Alter erst lernen musste. Mathematiker verliert man als Leser,
+wenn man etwas Unbegründetes schreibt; normale Menschen verliert man, wenn man
+nicht sagt, wozu das gut sein soll, was man schreibt. Es gibt natürlich bei
+beiden Ansätzen sinnvolle Mischformen, aber ich versuche mir den
+journalistischen Ansatz zunehmend zu eigen zu machen: wenn ausführlich
+begründen, dann so:
+
+Ich habe die Meinung X. Die entscheidenden Gründe dafür sind Y1, ..., Yn
+(nicht mehr als vier, und die werden apodiktisch formuliert und nicht gleich
+begründet). Und dann erst die Details, mit denen Y1, ..., Yn begründet werden,
+falls nötig.
+
+Gibts eigentlich schon lange ("executive summary"), aber manche
+begriffsstutzigen Menschen brauchen Jahrzehnte, um es zu lernen.
+
+-- 
+Lukas Weingarten

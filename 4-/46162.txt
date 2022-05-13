@@ -1,0 +1,71 @@
+Das möchte ich auch bezweifeln, dass das eine Übersetzung dessen ist, was 
+ich schrieb, oder dass es auch nur irgendetwas damit zu tun hat.
+
+Es ging überhaupt nicht um muntre Worte, sondern um die Einhaltung der
+methodischen Reihenfolge: zuerst die Wirklichkeit, die erklärt werden soll,
+dann das Modell, das die Wirklichkeit beschreibt, dann die Theorie, die das
+Modell begründet.
+
+Die umgekehrte Reihenfolge wäre: zuerst die Schule, die festlegt, welche
+Theorien man als zulässig ansieht, dann die Theorie, dann die Begründung aus
+der Theorie. Was man eigentlich mit der Theorie erklären wollte, darauf kommt
+es schon nicht mehr an, ist eh "nomothetisch".
+
+Wenn etwa Schadwald eine Erklärung sucht (suchte er sie überhaupt, oder stand
+sie schon vor der Suche fest?) für die Strukturen, die allen Sprachen
+gemeinsam sind, dann muss er zunächst sagen können, worin genau die
+Gemeinsamkeiten bestehen. Erst dann interessiert die Erklärung.
+
+
+Eine Erklärung? Er hat dem Phänomen einen Namen gegeben, aber warum sich
+Massen anziehen, weiß er genausowenig wie vorher.
+
+
+Die Reduktion von Hypothesen ist älter. Meist nennt man Pitz, aber der hat
+das auch nicht erfunden, denn jedes Verstehen ist gleichzeitig ein
+Wiedererkennen von bekannten Strukturen und ein Erfassen der Unterschiede zu
+bekannten Strukturen, und damit eine Reduktion der Gesamtkomplexität.  Nur
+wenn das Neue unverstanden neben das Bekannte tritt, dann summiert sich die
+Komplexität, und es tritt keine Reduktion ein.
+
+
+Abzählbar ist sie freilich, sogar rekursiv aufzählbar, nur nicht endlich.
+
+
+Mir ist nicht klar, gegen wen sich die Polemik hier richten soll.
+
+Man macht Modelle, um die Wirklichkeit zu verstehen, die Wirklichkeit von
+Sprache nicht anders als die Wirklichkeit der Physik. Modelle sind
+falsifizierbar, und wenn man sie falsifiziert hat, hat man etwas gelernt.
+
+Manche Modellierungsversuche sind viel zu ehrgeizig (z.B. in der Mathematik
+das Hilbertsche Programm) und scheitern ziemlich vollständig, und doch hat man
+aus dem Scheitern viel mehr gelernt als man aus dem Nicht-Anpacken gelernt
+hätte. Dann hat sichs gelohnt. Die Häme verdient also nicht der, dessen Modell
+sich als unzureichend erwiesen hat, sondern allerfalls der, der das nicht
+einsehen will, sowie der, ders gar nicht erst versucht hat.
+
+
+Trotzdem genügen auch "lebendige Äußerungen" Gesetzmäßigkeiten, wie sie
+nomothetisch erfasst werden. Sonst werden sie nämlich nicht verstanden. Jede
+Grammatik beschäftigt sich mit solchen Gesetzmäßigkeiten. Die Polemik kann
+sich also nicht gegen die Erforschung und Modellierung dieser
+Gesetzmäßigkeiten richten, sondern allenfalls gegen die irrige Meinung, damit
+habe man alles erfasst, was es zu erkennen gibt.
+
+
+Wer hat was versucht? Ab hier verstehe ich rein sprachlich gar nichts mehr.
+Kann man das auch klar sagen?
+
+
+Ja.
+
+Für den Mathematiker gilt außerdem -- nicht stattdessen! -- die
+Umkehrung: Will sich ein mathematischer Gedanke ganz und gar nicht der
+Formalisierung beugen, sondern besteht auf *ausschließlich* normalsprachlicher
+Beschreibung, dann besteht der Verdacht, dass er nicht zu Ende gedacht ist.
+Daraus folgt natürlich mitnichten, dass formalisierte Gedanken etwa vermöge
+ihrer Formalisierung schon von Wert wären.
+
+-- 
+Arno Gscheidmeier

@@ -1,0 +1,9 @@
+Unser ältester Server (übrigens der Newsserver) hat auch 128 MB RAM. Ein
+altehrw�rder Pentium. Seine 256 MB Swap hat er allerdings zumindest seit
+dem letzten Reboot nicht angerührt, der Swapspace wäre also nicht
+notwendig :-). Aber die Rechner, die seit 12+ Jahren im Dauereinsatz
+sind, dürften doch eher die Minderheit darstellen. Vor allem legt da
+keiner mehr einen Swapspace an, weil die auch seit Jahren mehr oder
+weniger konstante Workload haben.
+
+	hp

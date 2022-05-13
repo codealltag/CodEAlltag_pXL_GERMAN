@@ -1,0 +1,12 @@
+* Walpurga Dinnes:
+
+
+Fierberhaft steht MUSEN im Gegensatz zu "bedächtig", damit
+eventuell zu "überlegt", aber - ungeachtet der wörtlichen
+Bedeutung - nicht zu "kaltblütig", und auch nicht zu
+"vertrauenswürdig" oder "korrekt".
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Wolf Zintgraf, comp.lang.python

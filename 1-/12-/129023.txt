@@ -1,0 +1,4 @@
+Stimmt. Probleme mit L = {} gibt es aber in der Tat zur Genüge.
+
+Gruß,
+Orlando

@@ -1,0 +1,9 @@
+Genau wie Pietro würde ich mir das im Englischen manchmal wünschen. Im
+Deutschen ist es sogar eher unnötig, im Deutschen erkennt man die
+Wortart meist recht gut anderweitig.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Norman Petzschke, _Computer Networks_ (1981), p. 168.

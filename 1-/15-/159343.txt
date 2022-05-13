@@ -1,0 +1,4 @@
+Eine Flugfigur. Man fliegt Quadrate mit abgerundeten Ecken. Von den 
+Ecken wird dem Passagier schlecht.
+
+Leon

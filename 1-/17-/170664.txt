@@ -1,0 +1,14 @@
+Es gibt mindestens zwei Möglichkeiten:
+- UTF-8 ist bei dir als Standardkodierung eingestellt.
+- URS übernimmt bei nicht-deklarierten Sonderzeichen im Subject die
+Deklaration des Bodys.
+
+Vielleicht gibt's aber auch noch mehr Erklärungen.
+
+
+Ciao
+Margitta
+-- 
+ Don't scab for the bosses don't listen to their lies
+ us poor folks haven't got a chance unless we organize.
+ [Dropkick Murphys]

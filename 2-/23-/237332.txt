@@ -1,0 +1,13 @@
+* Marcel Wüest:
+
+
+Ich finde, Du vermischst da Form und Bedeutung. 
+
+Als höfliche Anrede - für eine oder mehrere Personen - wird die
+3.Person Plural benutzt. Um sie von der Verwendung für
+dritte Personen abzugrenzen, schreibt man sie groß.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Carlo Pruze, comp.lang.python

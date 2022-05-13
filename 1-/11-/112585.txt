@@ -1,0 +1,9 @@
+Aber spätestens, wenn die badende Nilpferdkuh trächtig ist, versteht
+man das Rekursions-Prinzip -- mehr kann eine Definition /auch/ nicht
+leisten, und tatsächlich können Beispiele manchmal viel hilfreicher
+sein als abstrakte Worthülsen.  Etwa die "Matrioschka" für den "Lauf
+des Lebens".  Prinzipiell hast Du natürlich recht, aber "Rekursion"
+ist schon was Besonderes...  :-)
+
+
+ulrich

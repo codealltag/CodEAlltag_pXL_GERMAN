@@ -1,0 +1,4 @@
+Not a good example, as the o is short in the upper case and long in the 
+lower one.
+
+Wolf

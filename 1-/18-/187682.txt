@@ -1,0 +1,7 @@
+Nixen bixen. Dialog macht fette Schrift bei Text, der mit Sternen
+umgeben ist. Auch kursiv und unterstreichen mach es ganz schön.
+Man wählt sogar, ob die Formatzeichen gezeigt werden sollen.
+
+-- 
+Gruß
+Antonio, Dänemark

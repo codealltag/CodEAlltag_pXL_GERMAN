@@ -1,0 +1,11 @@
+Da nur nach Postleitzahlen zu sortieren ist, spielen S�tterlinziffern 
+wohl eher eine untergeodnete Rolle.
+
+Bei Sendungen aus dem Ausland, die öfter mal hier ohne Postleitzahl 
+eintrudeln, dauert dann die Zustellung regelmäßig eine Woche länger und 
+erreicht uns dann mit einem freundlichen Aufkleber, den Absender um die 
+Verwendung der maschinenlesbaren vollen Adresse zu bitten.
+
+-- 
+
+Friedrich Imm

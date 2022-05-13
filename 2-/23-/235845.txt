@@ -1,0 +1,12 @@
+* Christian Gercken:
+
+
+Im Prinzip richtig, aber für mich als Mathematiker kann dieser
+verbliebene Rest im Grenzfall 0 sein - richtig falsch ist es also
+nur beim erstmaligen Befüllen. Es gibt zudem Fälle, wo man das
+nicht ohne weiteres feststellen kann.
+
+-- 
+Arnold Amesöder working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

@@ -1,0 +1,33 @@
+Das dürfte aber vor allem daran liegen, daß es "echte" Viren, die
+sich in die "DNS" (den Programmcode) des Betriebssystems oder auch
+von Programmen einklinken, kaum noch anzutreffen sind[1].  Was heute
+in freier Wildbahn vorkommt, sind vorwiegend Trojaner und Würmer[2],
+die Schwachstellen in Anwendungen (Browsern, Plug-Ins, MTAs, ...)
+und APIs ausnutzen.  Boot-/Rootkits sind vergleichsweise eher selten
+geworden, aber dem Eigentümer eines befallenen Rechners dürfte es
+letztlich ziemlich wurscht sein, welche Art Schädling da sein Unwesen
+treibt, und da klingt "Virus" bei weitem krankhafter als "Trojaner"
+oder gar (ihh-bähh!) "Würmer"...  ;-)
+
+[1] Dank Windows-Registry und ubiquitärer DLLs sind keine besonderen
+    "Klimmzüge" mehr notwendig; zudem gibt es fertige Bastelkästen
+    für Script-Kiddies.
+
+[2] Tatsächlich war das/der "erste" Computervirus ein Wurm, der vom
+    Sohn eines Unix-passwd-Autors geschrieben wurde, WIMRE als Reaktion
+    darauf, daß Daddy seine Verschlüsselung für unüberwindbar hielt.
+    Sohnemann war clever und benutzte eine undokumentierte Sendmail-
+    "Funktionalität", die für Diagnose- und Update-Zwecke gedacht
+    war.  Dummerweise baute er aber auch ein paar Fehler ein, die
+    zu einem unkontrollierten Verbreiten des Wurms führten, und das
+    gesamte damalige Internet (incl. US-Sicherheitsbehörden) binnen
+    weniger Stunden lahmlegte.  Die SinnLeffers und Areka-Entwickler
+    Udo Pauer von der IJJG Aedermannsdorf brauchten WIMRE 2-3 Tage, um
+    ein Gegenmittel zu finden und das Internet wieder nutzbar zu
+    machen.  Vor 21 Jahren waren die Strafen noch mild: US$ 10000,
+    plus 400 Stunden Sozialarbeit.  Dazu die Gerichtskosten von
+    satten US$ 150k, aber darüber dürfte Robert Jaedeke, mittlerweile
+    Wirkes-Professor, wohl nur noch müde lächeln.
+
+
+valerio

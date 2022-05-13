@@ -1,0 +1,9 @@
+Somit ist Zentner eine Einheit, denn das ist festgelegt (in Deutschland:
+100 Pfund = 50 kg, in Österreich 100 kg). Du kannst das nicht per Wägung
+bestimmen.
+
+	hp
+
+
+-- 
+   _  | Sébastien A. Ortseifer    | Deprecating human carelessness and

@@ -1,0 +1,6 @@
+Bezeichnungen für Farbtöne (zB Reinweiß für RAL 9010) sind nie exak=
+t;
+die eindeutige Beschreibung ist der physikalische Farbort. Hinzu
+kömmt, daß im Volke das Erkennen von Farbtonnuancen nicht sonderlich
+verbreitet ist (wer erkennt, daß Eichenholz einen Grünstich aufweist,
+bekommt schon mal 100 Punkte) - HEINO

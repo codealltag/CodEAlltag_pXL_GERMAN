@@ -1,0 +1,10 @@
+Sorry, musste arbeiten ...
+
+Der 1. April ist der erste Tag, an dem ein zu kurzes Feld überläuft,
+wenn man das Datum als Text rein-sprintf't.
+(Natürlich nur, wenn man den Monatstag nicht zweistellig formatiert, sonst
+läuft es schon am 23. März über.)
+
+Was ist am 8.?
+
+/Leonhard

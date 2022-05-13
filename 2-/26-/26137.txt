@@ -1,0 +1,15 @@
+Dass sowohl ein Sternchen wie ein Anführungszeichen fehlen
+könnten, an diese Möglichkeit - dass sich nämlich in einem
+einfachen Nebensatz gleich zwei Fehler (einmal Satzzeichen,
+einmal Schriftauszeichnung) eingeschlichen hätten -, daran 
+dachte ich tatsächlich nicht.
+
+
+Richtiggestellt hast Du's nicht, denn nach wie vor ist unklar, 
+wo Du das öffnende Anführungszeichen haben willst: 
+
+- ..., "ein *Programm* einzuspielen"?
+- ..., ein "*Programm* einzuspielen"?
+- ..., ein *Programm* "einzuspielen"?
+
+D.

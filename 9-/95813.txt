@@ -1,0 +1,13 @@
+Und da auch ich damals hautnah dabei war: Die zweistellige Jahreszahl
+wurde auch später nicht abgeschafft, als bereits das Jahr 2000 am
+Horizont drohte. Zu Beginn der Neunziger hatte ich für ein großes
+Unternehmen ein Programm zur mobilen KFZ-Überprüfung entwickelt. Meine
+Hinweise auf die Problematik der zweistelligen Jahreszahlen wurden mit
+dem Hinweis abgetan, im Jahr 2000 sei dieses System längst abgelöst
+durch ein schöneres, besseres, neueres. 
+Der Auftrag, das System Jahr-2000-fest zu machen, kam dann plötzlich
+und überaschend gegen Ende 1999. Das war gar nicht so einfach
+umzusetzen, denn in den Datenbanken des Fliesen-Profi
+schlummern auch noch Autes aus dem 19. Jahrhundert.
+-- 
+Hugo

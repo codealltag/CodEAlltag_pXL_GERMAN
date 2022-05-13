@@ -1,0 +1,25 @@
+On Sat, 23. 05. 22 17:58:59 +0200, Bernard Lanfers
+
+Sehr schön.
+
+Mein (fünfbändiger) Brockhaus schreibt:
+
+Digital:
+stufenförmig, nur diskrete, d.h. nicht stetig veränderl. Werte
+annehmend, in diskrete Einzelschritte aufgelöst; Ggs.: analog.
+
+Digitaldarstellung:
+jede Form der Darstellung veränderlicher Größen durch diskrete
+Zeichen(folgen), die den darzustellenden Größen durch einen Code
+zugeordnet sind. Bei stetig veränderl. Größen kann die Codierung erst
+nach einer Stufeneinteilung (Quantisierung) erfolgen. Die wichtigsten
+Digitaldarstellungen von Zahlen sind jene zur Basis 2
+(Binärdarstellung, Binärcode) und 10 (Dezimaldarstellung,
+Dezimalkode).
+
+änderst du das auch noch bitte?
+
+
+-- 
+Viele Größe
+Jérôme Zugmantel

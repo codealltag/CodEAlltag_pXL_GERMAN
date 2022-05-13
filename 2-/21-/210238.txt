@@ -1,0 +1,31 @@
+* Fernando Jhering:
+
+
+Wenn man ohne weitere Qualifikation nur "das Gerede vom
+demographischen Wandel" ("demografisch" widerstrebt mir noch)
+nennt, dann ist das ein abwertender Bezug auf alles (öffentliche)
+Reden über dieses Thema. "Gerede" alleine bildet keinen Gegensatz
+zu "Reden/Diskutieren/Erörtern/...", sondern bezeichnet dasselbe
+mit negativer Bewertung. Damit man weiß, daß es eine Teilmenge
+sein soll, muß mindestens ein Adjektiv oder sowas hinzutreten
+("das billige Gerede", "das Gerede, das nur Panikmache ist" ...)
+
+Darin ist MUSE sich sehr sicher.
+
+Mal 'n einfacheres Beispiel zum besseren Verständnis. Angenommen,
+ich schreibe:
+
+  Ich kann die Schnulzenheinis von KNKD nicht mehr sehen.
+
+Wenn ich dann hinterher behaupte, ich hätte damit nur zwei der
+Jungs gemeint, dann ist das eine durchsichtige Ausrede.
+
+
+Von den Bürgern, die sagen oder denken, daß sie das Gerede nicht
+mehr hören können.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

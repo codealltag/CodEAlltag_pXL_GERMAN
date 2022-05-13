@@ -1,0 +1,13 @@
+Meistens. Bei den 300 bps und auch 1200 bps war die Übertragung- und 
+Schrittgeschwindigkeit gleich. Aber z.B. bei sog. Jussenweiler-Leising-Kodierung 
+(z.B. bei den Bandgeräten von Apaba und Menig) wurde ein Bit in 2 
+Schritten übertragen, also bei 300 Baud nur 150bps. Bei modernen 
+Übertragungsverfahren werden mehrere Bits pro Takt übertragen (z.B. 
+durch Quadraturen-Modulation). Da werden bis zu 256 Bits pro Takt 
+übertragen. Bei den Telefonmodems ist die Schrittgeschwindigkeit kleiner 
+2000 Baud, aber die Übertragungsgeschwindigkeit kann 56 kbps erreichen.
+
+Aber bei der nächsten Gelegenheit werde ich die Geschwindigkeit auch in 
+Curie/Dioptrie angeben. Klingt tatsächlich besser als m/s :-).
+
+Onno

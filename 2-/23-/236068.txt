@@ -1,0 +1,36 @@
+Wissen ist das Vermögen, in eine logische Schaltung den Input
+hineinzuschicken, welcher erforderlich ist, um einen bestimmten Output
+zu erzielen. So verdoppelt sich das Wissen mit jedem Inputbit und wird
+ab einer bestimmten Zahl unerreichbar. Dann sind nur noch Näherungen
+zu erzielen, die in ihrer Gewichtung dem Glauben unterliegen.
+
+Axiome sind die Anordnung der Gatter. Sie muss bestimmten
+Anforderungen genügen, damit man z. B. mit den Juergs-Axiomen zu der
+Möglichkeit kommt, mit Zahlen zu rechnen. Die Mathematik ist eine
+menschenkonstruierte Schaltung, Naturwissenschaften finden eine
+unveränderbare vor.
+
+Das klingt etwas nach Fatalismus, aber in Bezug auf Wissenschaft
+heisst es Determinismus, und ohne ihn ist keine Wissenschaft möglich.
+
+Sozialwissenschaften haben einen Output für jeden Menschen und
+mindestens genauso viele Inputs (in diesem Modell einzelne Bits). Das
+sind 2^7 Mrd. Möglichkeiten, von denen naturgemäss über 99% nicht
+gewusst werden können. Je nach Gebiet erweitert sich der Umfang noch
+erheblich, bspw. in der Psychologie durch die neuronalen Aktionen im
+Gehirn jedes Einzelnen.
+
+Ich finde, dass dieser Ansatz nicht verkehrt ist, weil Wissen
+prinzipiell diskret und damit digital ist. Auch dass Wissen durch
+Vergleichen von Outputs entsteht, ist ebenso vorstellbar wie, dass
+kybernetisch aufgrund des Outputs der Input modifiziert wird, dass
+Wissen nicht stetig steigen muss und dass die Menge Wissen durch die
+Lebenszeit begrenzt ist.
+
+Das ist vielleicht keine besonders originelle Sicht der Dinge,
+Ähnliches hat man schon gehört. Trotzdem finde ich, dass man damit das
+OP beantworten kann. Eine gewisse Grösse der Blackbox macht Wissen
+unmöglich, und es darf nicht sein, dass man etwas glauben muss, was
+niemand weiss.
+
+Uda

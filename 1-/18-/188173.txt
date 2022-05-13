@@ -1,0 +1,8 @@
+Nein. Aber in "Starship Titanic" muss der versehentlich ausgelöste
+Selbstzerstörungsmechanismus immer wieder in Unterhaltungen verwickelt
+werden, damit er vergisst, wo er beim Countdown (beginnend bei 1000)
+gerade ist. Er fängt dann wieder von vorne an (ich glaube, einmal zählt
+er auch aus Versehen aufwärts).
+
+-- 
+Wolfgang

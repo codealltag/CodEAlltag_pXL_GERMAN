@@ -1,0 +1,4 @@
+.    .
+Nein, nur über erster und letzter Ziffer: 0,142857
+
+C.

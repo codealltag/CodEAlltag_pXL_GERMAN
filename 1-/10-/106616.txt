@@ -1,0 +1,34 @@
+Eine, und in vielen Fällen die wichtigste, Ursache dürfte die erhöhte 
+Aufmerksamkeit sein (Kinderwagen-Beispiel).
+
+Außerdem erwartet man bei zufälligen Ereignissen intuitiv *mehr* Zufall 
+als es der reine Zufall wäre. Beispiel: Man bittet ein Person, eine 
+längere Folge von Ziffern von 0 bis 9 möglichst zufällig zu nennen, d.h. 
+so, dass man keine Regelmäßigkeit erkennt und dass man aus der 
+Vorgeschichte nicht schließen kann, welche nächste Zahl mit höherer oder 
+niedrigerer Wahrscheinlichkeit als 1/10 auftreten wird. Die meisten 
+Menschen liefern dann intuitiv eine Folge, in der zwei (oder gar drei) 
+aufeinanderfolgende gleiche Ziffern viel seltener vorkommen als alle zehn 
+(bzw. hundert) Stellen, wie es bei wirklich zufälligen Folgen der Fall wäre.
+
+Ebenso kommen eben auch rein zufällig verteilte (Poisson-verteilte) 
+Ereignisse manchmal zufällig auch geballt vor, werden aber nicht so 
+empfunden. Aus der Statistik: In einem Zeitintervall, in dem 
+durchschnittlich 1 Ereignis auftritt, treten bei zufälliger Verteilung k 
+solche Ereignisse mit der Wahrscheinlichkeit p auf:
+
+    k      p
+---------------
+    0   0,368
+    1   0,368
+    2   0,184
+    3   0,061
+    4   0,015
+    5   0,003
+    6   0,0005
+
+d.h. in jedem 1683. Intervall liegen sechs oder mehr solche Ereignisse und
+sogar in jedem 53. vier oder mehr.
+
+-- 
+Stephan Treurniet

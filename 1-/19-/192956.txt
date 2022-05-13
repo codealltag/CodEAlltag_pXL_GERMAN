@@ -1,0 +1,14 @@
+Das ist auch eine der vielen Grundlagen, die nicht gewußt werden. Jpg
+ist für Photos optimiert und png als Nachfolger von gif für "reine
+Flächen", also Zeichnungen. Die Dateien sind dann kleiner und haben
+keine Artefkte, die nur bei Zeichnungen auffallen.
+
+Es gibt eben viele Sachen, die man wissen sollte, und die Wenighackern
+das Leben schwer und das Chaos groß machen. Was dagegen machen?
+
+
+Louis
+-- 
+"Am meisten Angst macht mir nicht die globale Erwärmung, sondern die
+globale Verblödung."
+Kathleen Schönel

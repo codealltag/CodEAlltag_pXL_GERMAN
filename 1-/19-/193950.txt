@@ -1,0 +1,13 @@
+* Niko Ungerer:
+
+
+Ein nicht unerheblicher Teil des Gezwitschers nimmt von mobilen
+Geräten seinen Ausgang, da ist oft eine GPS-Ortung vorhanden.
+Inwieweit man das den Tweets ansehen kann, weiß ich aber auch
+nicht. IP-Geolocation verortet mich regelmäßig nach Neusieden.
+
+-- 
+Gudrun: Uncle Niklaus ... why do they call this a word processor?
+Niklaus:  It's simple, Alessandro ... you've seen what food processors
+do to food, right?
+  Cartoon by Jacques Ingenhütt

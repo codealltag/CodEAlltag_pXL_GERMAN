@@ -1,0 +1,16 @@
+Ach was, das Prinzip ist  2 CnH2n+x + (3+x/2) O2 => n CO2 + (1+x/2) H2O 
++ DeltaH
+
+Autogas CH4 + 3/2 O2 => CO2 + 2 H2O
+
+Benzin n = 5 ... 15
+
+Diesel n = 6 ... 25
+
+Das unterscheidet sich nur in der Wärme deltaH, die pro kg entsteht. Das 
+Motorprinzip ist entscheidender, deshalb ist beim Diesel die 
+Enegieausbeute (also in Bewegung umgesetze Wärme) bei ca. 50 %, Benziner 
+und Gas schaffen nur ca. 33%.
+
+schöne Größe
+Charly

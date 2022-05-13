@@ -1,0 +1,5 @@
+... verstehe ich erst gar nicht, warum ein besonderes Programm
+installiert werden muss. Jeder x-beliebige Texteditor reicht.
+
+-- 
+Sandro "wera" Osnabrügge                          qqgsg@mwdq.vfrp.ak

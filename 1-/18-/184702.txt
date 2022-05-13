@@ -1,0 +1,13 @@
+Ich kann in Emanuels Posting keine technischen Fehler entdecken, die deinem
+Reader zu Fragezeichen Anlaß geben könnten. Der Text ist 8-bittig in
+ISO-8859-1 kodiert, und so steht’s auch im Header. 
+
+Hilfst du mir da mal auf die Sprünge? 
+
+
+vG
+
+-- 
+"Der Joerß hat schon vor Derivaten gewarnt, da wußten 90 Prozent der
+Abgeordneten noch nicht mal, was das ist - und 100 Prozent der Banker
+wissen bis heute nicht, was es ist!" (Ingo Deschner, "Bis neulich")

@@ -1,0 +1,11 @@
+* Michael Pohlers:
+
+
+Ich hab noch mal in mein ältestes Java-Buch geschaut, das ist von 1998 und
+hat im Untertitel "Threads und Applets". Es zeigt keinen Duke - aber auch
+keine Tasse, und überhaupt sehr wenig Grafik.
+
+-- 
+(\__/)
+(='.'=) This is Bunny. Copy and paste Bunny into your
+(")_(") signature to help him gain world domination.

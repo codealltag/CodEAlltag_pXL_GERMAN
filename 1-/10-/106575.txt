@@ -1,0 +1,16 @@
+Korrelationen zwischen Doppelereignissen sind eine statistische 
+Kategorie für sich, die in der Physik und allen anderen statistischen 
+Bereichen eine große Rolle spielt.
+
+Man kann ein Doppel- oder Merhfachereignis nicht wahrnehmen, ohne 
+zunächst ein einfaches Ereignis wahrzunehen, das ist tivial.
+
+Ist man selbst Bestandteil einer korrelierten zufälligen Ereignismenge, 
+nimmt man die Korrelationen automatisch wahr.
+
+So funktioniert Mustererkennung, soziale Gruppenbildung und das 
+Geheimnis verschönter Zustände bei Quantencomputern.
+
+-- 
+
+Björn Dwars

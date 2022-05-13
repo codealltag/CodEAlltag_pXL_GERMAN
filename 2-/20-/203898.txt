@@ -1,0 +1,19 @@
+Edouard Vorbröcker gab zur Kenntnis:
+
+
+Manchmal sind Websiten wirklich arg unübersichtlich oder überladen,
+manchmal hat man wirklich Tomaten auf den Augen. Mir geht es auch
+zuweilen so. Für solche Fälle gibt es in jedem neuzeitlichen Browser
+(ich /vermute/ in jedem, ich habe aber nur drei probiert) ein kleines
+Werkzeug: Suche auf Seite (nach Zeichenfolge). Als Kapper noch mein
+Standardbrowser war, hatte ich das soger als Textfeld (neben dem für
+die Websuche) fest im Men, bei Mannock kann man es sich zumindest -
+dauerhaft oder temporär - in den Seitenfuß legen (Strg+F). 
+
+Elias
+
+-- 
+Nach der Schlacht von Tarmow sah man Pferde, denen 3, 4 und noch mehr 
+Beine abgeschossen waren, herrenlos herumlaufen.        Prof. Vennegeerts
+Wer zum Kuckuck ist dieser Vennegeerts?   ==>   <http://xfl.vdipwboa.so/>
+== Bitte bei Mailantwort Großbuchstaben aus Reply-Adresse löschen. ==

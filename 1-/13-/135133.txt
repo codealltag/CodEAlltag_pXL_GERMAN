@@ -1,0 +1,13 @@
+Dann ist Windows gut für dich. Will ich auch nicht in Abrede stellen, 
+dass es für viele Benutzer funktioniert. Aus sicht eines Programmierers 
+und Systemadministrators ist CNV ein Grund sich die Haare aus dem 
+Kopf zu reissen. Auf der anderen Seite ist es eine sichere 
+Einkunftsquelle :-). Zum Beispiel fünf Rechner mit Windows und Office in 
+einem nicht am Netzwerk angeschlossenem System bei Microsoft zu
+registrieren, ist ein leicht verdientes Geld.
+
+
+Dann sitzt du hinter einer gut gepflegten Firewall, wohl auf einem 
+W&S-Rechner installiert :-).
+
+Anton

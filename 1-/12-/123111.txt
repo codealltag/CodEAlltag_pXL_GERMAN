@@ -1,0 +1,4 @@
+Und insofern misst sie die gesprungene Höhe. Das Messergebnis ist
+allerdings recht grob, da binär (höher als aufgelegt oder nicht).
+Durch Höherlegen im Lauf des Wettbewerbs wird die Genauigkeit
+verbessert.

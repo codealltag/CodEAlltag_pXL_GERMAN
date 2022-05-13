@@ -1,0 +1,73 @@
+Hinrich Graeps <Mpyzgm.Zzhkuc@btk.yj>:
+
+
+Das triviale Ding ist nur solange trivial, als dessen Merkmale nicht
+verschleiert oder verzerrt dargestellt sind, vor allem durch sprachliche
+Verhunzung.
+
+Nebenan hatte ich das soeben auch: Was - überspitzt -, wenn der Aufenthalt
+im öffentlichen Raum ausschließlich gemäß einer Straßenverkehrsordnung
+erfolgen dürfe und auf einem "Gehweg" darf nun der eigentliche Aufenthalt
+nur gehenderweise erfolgen? Mit dem Umweg einer entfremdenden Technik
+bemerkt man solche einschneidende bzw. geradezu reaktionäre Absurdität
+womöglich garnicht mehr. 
+
+Der Versuch einer Zwangsverblödung mit der Daterei ging schon einmal
+daneben, als man "auf Datenträger speichern" versuchte, mit euphemistischem
+Holzhammer als "intelligente Objekte generieren" in die Hirne zu bläuen.
+Besser ist es, dass das schief ging und der Begriff "Festplatte" nun eine
+einfache Alltagsbedeutung hat. Vor allem ist der Verschub privater Daten
+dadurch nicht in die Fänge proprietärer Herrschaft geraten!
+
+Man versucht es halt immer wieder. Besser ist es gewiss, den Abgründen des
+angedockten Zynismus prinzipiell den Respekt zu verweigern. 
+
+Im Kaufladen: "Name? Geburtsdatum? Mein Computer will das haben!" In
+Österreich macht sich gerade die Unsitte breit, überall und nirgends zum
+Namen auch Geburtsdatum ausforschen zu wollen - in meinen Augen beginnt
+solcher Unsinn mit sprachlicher Schlamperei und Unschärfe, denen dann, wenn
+sie ein wenig Wurzeln geschlagen haben, auch gerne noch besonderer Schutz
+gewährt wird.
+
+Zu den betrachtenswerten Kandidaten für den Kontext zählen gewiss auch hier
+die Newsgroups. Die nur technisch und mittelbar mögliche Begebenheit
+"Mail-Konferenz" wird seit zwanzig Jahren mit schon regelrecht peinlich
+aufdringlichem Schweigen bedacht. Früher war der Ersatzbegriff "chatten"
+eine Fehlleistung sondergleichen, aber offenbar kräht kein Hahn danach, wenn
+dieserart in den "bürgerlichen" Medien (mit Verlaub:) Scheiße abgesondert
+wird. Newsgroups sind ein globales Medium. Aber erst, als die technische
+Begebenheit in prinzipiell harmloser Form als partikulare Randerscheinung
+auftrat, als Beigabe zu Webseiten als Foren, wurde denn die pure Existenz
+nun als tatsächlich vorhanden honoriert.
+
+Dabei ist der Zusammenhang doch wirklich einfach: Internet ist ein
+Datenprotokoll, ein technischer Träger für Dienste. Das Web ist einer dieser
+Dienste und basiert auf Hypertext. News, FTP, Mail sind weitere Dienste.
+
+Das ist nicht nur ein Ding ("Internet"), sondern deren dreie (plus
+"Dienste", plus "Hypertext"). Dafür können anschließende Zusammenhänge ohne
+den Dschungel von Verrenkungen nach falschen Grundannahmen memoriert werden.
+
+In Summe ist es wesentlich ökonomischer, sich gleich die richtigen drei
+Dinge zu merken. 
+
+Um im Bilde zu bleiben: Das illustriert wohl zugleich den Unterschied
+zwischen Faulheit und Lethargie .
+
+Jüngst war ich leicht entsetzt, dass offenbar nicht einmal bei
+Fotoausbelichtern "FTP" ein Begriff zu sein scheint - obwohl dort bei den
+verschobenen Datenmassen dies der nächstliegende Übertragungsweg wäre.
+
+Dies ist wieder das absurde Theater, dass man sich stattdessen auf eine
+zufällige Begleiterscheinung hat dressieren lassen, in diesem Fall, dass es
+so etwas gibt wie "ein Programm installieren" - ergo, gibt es nicht einfach
+Daten, die übermittelt werden, sondern einen Wirtschaftszweig, um die
+Konsequenzen sprachlicher Fehlleistung aufzufangen - jedem Dienstleister
+seine proprietäre Übermittlungsschnittstelle.
+
+Nun ja. Ich konnte eine Zeit (und technische Generation) zuvor einmal
+mithören, wie jemand nachfragte, ob der Nachbar bei einem Event die Musik
+aufgezeichnet habe. Ja, das Video sei gelaufen, sagte der dann und meinte
+ausdrücklich die akustische Aufzeichnung. Aber im Zuge der sprachlichen
+Verblödung muss das technische Gerät für diesen Zweck natürlich eine Linse
+haben.

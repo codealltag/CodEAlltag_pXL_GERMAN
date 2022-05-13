@@ -1,0 +1,6 @@
+Dann kannst Du bestimmt eine Quelle nennen (Medizinlexikon), die
+"Ereignis" definiert und es begrifflich von der "Krankheit" scheidet,
+d. h. erklärt, wann ein Ereignis nun Krankheit ist/wird, und wann
+nicht.
+
+Mein Medizinlexikon kennt "Krankheit", hat aber kein Lemma "Ereignis".

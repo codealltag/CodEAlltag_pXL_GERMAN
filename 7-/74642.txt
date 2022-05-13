@@ -1,0 +1,8 @@
+WARNUNG  WARNUNG  WARNUNG  WARNUNG  WARNUNG  WARNUNG
+
+Da meldet Meghari:
+   In den HTTP-Daten der angeforderten Seite wurde
+   ein Virus oder ein unerwünschtes Programm gefunden.
+
+j/\a
+--

@@ -1,0 +1,5 @@
+Fredi Luers tat kund:
+
+
+Klar. Bei jedem Brute-Force-Ansatz muß man auch automatisch
+sinnvolle von sinnlosen Texten trennen können.

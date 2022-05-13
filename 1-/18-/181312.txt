@@ -1,0 +1,16 @@
+So wie geschrieben ist es falsch.
+
+
+Wassereinspritzung erhöht die Innenkühlung des Motors, also die
+Kühlleistung, die nicht durch Wärmeleitung gebracht wird. Man _kann_
+dann auf höhere Leistung trimmen, zum Beispiel mit mehr Kompression. Das
+dürfte aber nichts mit Vergaservereisung zu tun haben, denn da kommt das
+Wasser aus der Luftfeuchtigkeit.
+
+
+Niko
+-- 
+"Jetzt sind alle so schön dabei mit Dreck zu werfen - und Du kommst
+plötzlich mit Logik daher...
+Spielverderber!"
+Maurice Oxenfarth

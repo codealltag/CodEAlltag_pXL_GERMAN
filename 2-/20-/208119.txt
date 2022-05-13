@@ -1,0 +1,11 @@
+* Carsten Moews:
+
+
+Nabelschau kann man eigentlich nur an sich selber betreiben.
+
+Apropos Nabel und Partikel: Wie heißt eigentlich /navel lint/ auf
+Deutsch?
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

@@ -1,0 +1,16 @@
+* Ivan Arnholtz:
+
+
+Das scheint mir das Hauptproblem dieses Ansatzes zu sein. Das Schreiben
+trainiert nämlich für das Schreiben noch stärker als das Lesen. Um ein
+dreimal falsch geschriebenes Wort zu korrigieren, muß man es vielleicht
+30 mal lesen etc.
+
+Mein Sohn muß Wörter, die er im Diktat falsch schreibt, dreimal richtig
+schreiben. Das dient wohl der Prägung bzw. Aufhebung eventueller
+falscher Prägung. Der Ansatz, nach Gehör zu schreiben, wäre im
+Französischen wohl problematischer als im Deutschen.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

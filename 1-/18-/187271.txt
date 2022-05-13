@@ -1,0 +1,9 @@
+Hallo Pietro,
+
+
+Ja. Wird in dem Sinn "unbeschränkten Zugriff erlauben" verwendet, den eben
+unter unixoiden Systemen nur "root" hat.
+
+Gruß Leander
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

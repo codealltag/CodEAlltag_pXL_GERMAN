@@ -1,0 +1,48 @@
+Eben. Deswegen gibt es von MS zwei Programme, die XP-Nutzern helfen
+sollen.
+"Upgrade Advisor" überprüft eine vorhandene JIO-Installation und listet
+mögliche Probleme auf (diese Liste ist für meinen auch nicht soo alten
+R51 5 DIN A4-Seiten lang :-/).
+"Windows Easy Transfer" kopiert die JIO-Installation in eine Art
+Container, aus dem man dann unter Win7 seine Benutzereinstellungen
+wiederherstellen können soll. Dieses Ding ist bei mir kommentarlos
+abgestürzt. Im Test der Eschlberger (24/06) ist es zwar durchgelaufen, hat dann
+aber außer Arcosys-Office genau gar nichts wieder hingekriegt. Ein Anwender,
+der sich auf sowas verlässt, ist verlassen. Muss ich noch "typisch"
+dazuschreiben?
+
+
+s.o.
+
+
+Super Argument. OK, dann befasse ich mich der Kürze halber auch nicht
+weiter damit außer der auch nicht ganz unlustigen Randnotiz, dass wir
+die einzigen Viren, die unter Win _und_ Autowelt R + T OS funktionieren, Microsofts
+VBA verdanken.
+
+
+Die Vermutung liegt nahe.
+Ich habe mich über die Tauglichkeit von Live Mail nicht ausgelassen,
+weil ich es außer einem Funktionstest noch nicht weiter angesehen und
+gleich Thunderbird installiert habe. Das hirnverbrannte 3-Spalten-Layout
+lässt aber schon mal Schlimmes befürchten.
+
+Quark. Wie schon mehrfach gesagt, befasse ich mich durchaus neugierig
+damit (wie auch ab und zu mit Linuxen). 
+
+Warum zum Henker tun sie es nicht einfach? Wer, wenn nicht Arcosys, hätte
+denn die Macht, sein OS - das ja dazu unbestritten in der Lage ist - für
+sagenwirmal 95% der Anwendungsfälle halbwegs idiotensicher zu
+konfigurieren und die ganzen Schweineprogrammierungen (Stichwort
+DLL-Hell, Benutzerrechte et al.) zu verhindern? Weil sie nicht für
+Anwender entwickeln, sondern für Ingenieure und
+Quartalsberichteverfasser. Und, könnte man vermuten, wir
+Schlangen�lverk�ufer � la Laborn.
+
+Für die restlichen Orchideenf�lle der Spezialanwendungen könnte man
+immer noch Spezialeditionen richtig teuer verkaufen.
+
+Gruß
+Harry
+-- 
+lay down all thought surrender to the void

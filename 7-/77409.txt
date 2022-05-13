@@ -1,0 +1,47 @@
+Kann sie nicht, oder ist es einfach schlechter Stil, weil die deutsche
+Sprache reichhaltige Mittel zum Umgang mit leeren Mengen bereithält?
+Ich tendiere zu letzterem, eben weil die 0 oft gar nicht
+auszuschließen ist.
+
+
+Wo steht das, bitte?
+Ich respektiere gern dein Sprachgefühl, aber ich denke, daß du hier
+ganz falsch liegst.
+
+
+Es ist eher ein syntaktischer Marker, der ein
+Mengenzugehörigkeitskriterium einleitet: "Alle, die noch nicht das
+Formularblatt 17/00 abgegeben haben, melden sich in Zimmer 139."
+
+
+Nein, auch im ersten Fall brauchst du Weltwissen. Um von "0 von 3
+fanden den Beitrag nützlich." zu "Keiner fand den Beitrag nützlich."
+zu kommen, muß man bestimmte, wenn auch triviale Dinge wissen.
+Verständlicherweise formt man, seinem Sprachgefühl folgend, das
+häßliche "0 fanden ..." um in "keiner fand ...", aber, wie schon
+gesagt, dann darf man sich eben nicht wundern, wenn die Frage nicht
+mehr paßt.
+
+
+Oder eine Information, die mit der Frage offensichtlich nichts zu tun
+hat, außer daß beide sich auf die Wahl beziehen.
+
+
+Ja, ebent. Es wird impliziert, braucht aber nicht so zu sein. Genau
+das ist ja bei IBBE der Fall. Man impliziert und suggeriert daß
+jeder Beitrag am Ende irgendjemandem nützlich vorkgekommen sein wird.
+Und eine andere Instanz als diejenige, die das impliziert, setzt die
+Zahl derjenigen ein, von denen man *gegenwärtig* weiß, daß er ihnen
+tatsächlich nützlich vorkam.
+(Daß der Programmierer voraussehen konnte, ja, mußte, daß dieses "0
+von ..." auftreten wird, ist eine andere Sache.)
+Der Leser macht sich vielleicht nicht bewußt, daß aus dem Computer
+verschiedene Instanzen zu ihm sprechen. Die eine, die ungeschickt und
+faul die Schablone "N von M Benutzern fanden den Beitrag interessant.
+Sie auch?" vorgegeben hat, und die andere, die konkrete Instanzen
+dieser Schablone erezugt.
+
+Ich finde es aber auch ein bißchen borniert, diese Schablone und damit
+die Logik der Aussage, auf die sich das "auch" bezieht, nicht erkennen
+zu *wollen*. Ein bißchen dünkelhaftes Mißverstehen-Wollen ist das
+schon.

@@ -1,0 +1,34 @@
+FULL ACK. ich gehe noch weiter und behaupte einmal, dass man für
+natürliche Sprachen Begriffe gar nicht definieren kann. Zunmindest
+nicht in dem Sinn, in welchem üblicherweise von Definitionen
+gesprochen wird. Diesen Sinn würde ich wie folgt eingrenzen:
+
+1) X gibt den genauen Sinn des Ausdrucks A aus der Sprache L an
+2) X "veröffentlicht" diese Definition
+3) Ab nun hat A den wohldefinierten Sinn in L
+
+1) und 2) kann jeder Sprachbenutzer nach Belieben machen, nur hapert
+es bei 3). Es hält sich niemand an die Definition. X hat L in keiner
+Weise verändert, indem er die Definition gestrickt und veröffentlicht
+hat.
+
+Daher glauibe ich, dass das reden von Definitionen an der Realität
+natürlicher Sprachen vorbeigeht. Vielleicht mit einer Ausnahme.
+Stellen wir uns vor, Ü schlägt eine Definition bspw. von "Junggeselle"
+im Deutschen vor, und er schlägt vor
+
+"Etwas ist ein Junggeselle gdw es a) menschlich, b) männlich, c)
+heiratsfähig und d) unverheiratet ist." Vermutlich würde diese
+Definition von allen Sprachteilnehmern akzeptiert. Aber weshalb? --
+Weil "Junggeselle" ohnehin exakt diese Bedeutung im Deutschen hat.
+Weshalb die Definition also akzeptiert würde, liegt einfach daran,
+dass sie trivial ist. Übrigens würde auch durch eine allgemeine
+Akzeptanz dieser Definition das Deutsche nicht verändert werden.
+
+Ich denke daher, dass Definitionen in natürlichen Sprachen entweder
+wirkungslos sind, weil sich nur 2 oder 3 Sprachteilnehmer an die Def.
+halten, oder übertflüssig sind.
+
+Was denkt ihr?
+
+Holger

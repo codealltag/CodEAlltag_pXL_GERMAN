@@ -1,0 +1,21 @@
+* Ivan Apelt:
+
+
+Das ist eine allgemeine Beschränkung von Komposita: auf das
+modifizierende Element, im Deutschen also jedes Glied außer dem
+letzten, besteht kein "Zugriff", weder für Modifikatoren noch für
+Referenten wie z.B. Pronomen. So kann der Satz
+
+  Sie ist luftatmend, manchmal auch etwas anderes.
+
+nicht die gleiche Bedeutung haben wie:
+
+  Sie atmet Luft, manchmal auch etwas anderes.
+
+
+Wenn man das ändern will, setzt man gemeinhin ein Komma:
+
+  eine kühle, Luft atmende Person
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

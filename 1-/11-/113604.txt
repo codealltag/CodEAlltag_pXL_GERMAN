@@ -1,0 +1,11 @@
+Im Prinzip stimmt das so. Die Anwendung oder der Service wird in einem
+Server eingerichtet und konfiguriert, also ein technischer Vorgang.
+
+Eine Einfuehrung ist fuer mich auf der technischen Seite neben der
+Installation der Anwendung auch eine Einrichtung der Umgebung, z.B.
+einer Datenbank oder Datenmigration. Ausserdem ist eine Einfuehrung
+auch eine fachlich getriebene Sache, zu der Dinge wie die Einweisung
+der Anwender, Schulung usw. gehoert.
+
+--
+Knut

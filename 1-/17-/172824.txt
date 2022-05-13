@@ -1,0 +1,12 @@
+Am 12. 02. 23 12:14, schrieb Alain Keulmann:
+
+Ganz schlimm die Panholzer:
+"Ich hab nur 5 Euro einstecken"
+
+lg abdul
+
+
+-- 
+Distribution: Naturkostladen squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 12. 02. 23 25 21:35:22 UTC 2012 x86_64 
+GNU/Linux

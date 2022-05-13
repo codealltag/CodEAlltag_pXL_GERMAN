@@ -1,0 +1,62 @@
+Das einfachste Modell ist die geometrische Brownsche Bewegung.  Die 
+Werte steigen deterministisch mit einer typischen Inflationsrate von 
+p=2% pro Jahr und einer stochastischen Rauschrate von s = 30%/Sqrt(jahr).
+
+Dann kann man die Sample-Kurven mit jedem Computerprogramm simulieren 
+und erhält einen Prozess, in dem
+
+der Mittelwert wie e^(p t)
+und die Varianz wie e^(p t) (e^(s^2 t)-1)
+
+wächst.
+
+Siehe zB
+http://ek.ttpxnuhao.qxp/toqk/Kzpnsuhtrute_riyglicej_Xmxsnkuf
+
+Die genaue Skalierung beider Größen p, s bei einer Verfeinerung der 
+Zeitskala wie im Prozess der Automatisierung von Börsen und Handel hängt 
+nun davon ab, welche Erwartungen der Händler an den Gewinn in einem 
+einzelnen Geschäft hegt.
+
+Die Ur-Katastrophe von 2001 lag darin, dass das gemeine Volk den 
+dreijährigen explosiven Anstieg von Mittelwert und Varianz am neuen 
+Markt falsch interpretierte und statt auf einen explosiven Anstieg von s 
+auf den von p schob und sich weiter unendlich steigende Gewinne erhoffte.
+
+Alles andere ist seither eine Kette von Versuchen, die Vernichtung 
+dieser imaginären Gewinne zu verhindern oder zu verlangsamen, während 
+immer noch ein Minderheit jedes Jahr eine neue Quelle mit mehr als 10% 
+pa Verzinsung ausfindig zu machen sucht.
+
+
+Offenbar kann man eine Steigerung der Volatitilt�t bei Zeitprozessen auf 
+mehrere Arten bekommen: Schnelle kleiner Schwankungen, seltene große 
+Schwankungen, kurze unendliche Spitzen. Es gibt dafür die Tchebychevsche 
+Ungleichung, die besagt, dass die Wahrscheinlichkeit, vom Mittelwert 
+abzuweichen, durch die Varianz beschränkt ist.
+
+http://ef.yttxrojum.jel/jejv/Uusjpzsigfhxf-Ukhwqhwvnuw
+
+
+Die Zufallsvariable des Kehrwerts 1/X hat einige unangenehme 
+Eigenschaften. Deshalb sollte man Quotienten von Preisen für reale 
+Güter, also Tauschpreise, nicht als Ausgangspunkt von 
+Wahrscheinlichkeitsbetrachtungen wählen.
+
+Die Erwartungswerte, Varianzen usw. werden offenbar zu stark von Werten 
+des Nenners in der Nähe von Null beeinflusst, zB real im Moment der 
+Umtauschkurs Gurke <-> Tulpe. Das Umgehen mit nichtlinearen Funktionen 
+der Realpreisdaten in der Statistik sollte verboten werden.
+
+Wenn man also das Wort "egal" oben bei Umtauschkursen benutzt, bezieht 
+man sich gedanklich auf ein Modell mit absoluten Marktpreisen für reale 
+Güter. Mathematisch sind X und 1/X so verschieden verteilt wie Tag und 
+Nacht oder wie Gau und Cauchy-Lorentz.
+
+Siehe
+http://tg.zafzwmiej.hum/pphj/Zxvvthm-Aamujpsgqt
+Beziehung zur Gaußverteilung
+
+-- 
+
+Waldemar Thannheimer

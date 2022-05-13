@@ -1,0 +1,14 @@
+Meinen ersten Pr�zisionschronometer, der noch keine Datumsanzeige hatte, 
+habe ich präzise ungenau auf Vorgehen von +1 s/d einreguliert.
+
+Am ersten des Monats um Mitternacht stellt man dann die Zeiger genau auf 
+00:00:00.
+
+Damit konnte ich beim Vergleich mit einer genau auf 0 s/d einregulierten 
+Uhr gleicher Präzision zusätzlich zur Zeit auch den Tag des Monats 
+bestimmen, was in abgelegenen Gegenden nützlich sein konnte, wenn man zB 
+stündlich genaue Sendungen im Radio hat.
+
+-- 
+
+Karl Kammerling

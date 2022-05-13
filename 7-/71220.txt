@@ -1,0 +1,13 @@
+Den Teil finde ich nicht sonderlich irritierend, das funktioniert
+genauso wie "Zw�lfhundertf�nfzig". Wirklich schwierig ist "37 Sekunden
+und zwölf Zehntel". Wenn man schon Ganze Einheiten davor hat, sollten
+die folgenden Bruchteile kleiner als Eins sein. Genauso verquast wäre
+"Zweitausendzw�lfhundertf�nfzig". Wenn ich sowas sage, dann in derselben
+Absicht wie "Es ist zwanzig Minuten vor fünf nach dreiviertel halb
+sieben".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Tana will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Karsten Roithner

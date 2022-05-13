@@ -1,0 +1,9 @@
+Nein, so: Berechne die Mehrwertsteuer (7,5%) von Fr. 1.02
+
+      Rechenaufgabe (Lösung) = 1,02/100*7,5 = 0,0765
+
+Resultat: Die Mehrwertsteuer beträgt Fr. 0.08 (aufgerundet) 
+                                         ====
+
+-- 
+Xenia Taenzler

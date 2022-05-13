@@ -1,0 +1,39 @@
+* Achim Hayner:
+
+
+Warum jetzt Bauspezi? Ah, vielleicht war Dir nicht bewußt, daß man beim
+Oeser Wortschatz flektierte Formen auch einzeln abfragen muß. Das
+ist anders als beim Kovu-Korpus, wo lemmatisiert wird.
+
+lohn...e   108     25
+lohn...er   42      9
+lohn...es  111     17
+lohn...en   50     10
+lohn...em    0(!)   3
+          ------------
+           833     26
+
+Insgesamt ein ähnliches Ergebnis, 5:1
+
+Nochmal kurz schauen, ob die typischen Begleitnomen sich unterscheiden.
+
+lohnend:     
+  Investition, Ziel, Alternative, Aufgabe, Beute, Versuch, Geschäft
+lohnenswert: 
+  Ziel, Wagnis, Aktion, Aufgabe, Ansatz
+
+Keine deutliche Tendenz, außer, daß "lohennd" überwiegt, wenn es darum
+geht, daß bei etwas Geld herauskommt. Im Abstrakten gehen beide
+durcheinander, da sollte der Anteil von "lohnenswert" also noch höher
+sein als 1:5.
+
+
+Gerade deshalb leiden einige hier so darunter. Bei einem Wort, das kaum
+jemand benutzt, ist es nicht so wichtig, ob es häßlich, unlogisch oder
+sonstwas ist. Aber so vor Augen bzw. Ohren geführt zu bekommen, wie
+schwach das Sprachgefühl der meisten, inklusive Medienprofis, ist, macht
+einen ja gerade bekümmert.
+
+-- 
+gugelfug,  m., süsze, unfug
+  GRIMM, Deutsches Wörterbuch

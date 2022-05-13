@@ -1,0 +1,9 @@
+Sicher am ehesten in der Form "alles außer Port 80, X und Y ist zu". Das
+Protokoll selber wird selten geprüft werden. Solange ein Newsserver auf
+Port 80 antwortet, wird man da technisch also kein Problem kriegen.
+
+Eine andere Möglichkeit ist noch, daß jemand vielleicht kein Programm
+installieren und auch kein USB-Gerät anschließen darf.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

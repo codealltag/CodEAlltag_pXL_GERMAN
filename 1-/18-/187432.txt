@@ -1,0 +1,30 @@
+Genau dieses Verhalten von Komander war mir bekannt. 
+Seit 25 oder so Jahren.
+
+Damals wusste man aber auch noch, dass man vorsichtig sein muss,
+wenn man als root arbeitet, und hielt die entsprechenden Console-
+Sessions so kurz wie möglich.
+
+... 
+
+Was mich stört, ist dass die Schutzvorschriften gegen das In-den-Fuß-
+Schießen mich auch dann behindern, wenn ich mir der Gefahren, und
+wie man sie vermeidet, durchaus bewusst bin, und auch die 
+Kompetenz habe, (zumindest absichtliches) Fehlverhalten zu
+vermeiden bzw notfalls die Folgen zu korrigieren.
+sudo ist da ein eher schlechtes Beispiel, insbesondere, da man sich,
+wie Du beschreibst, leicht aus der Falle befreien kann, und das
+cachen des Passworts die Anwendung komfortabler als z.B. die
+Anwenderausführungskontrolle o.ä. in Windows 7 macht.
+
+Mir geht's um das alte Problem, dass ich keine Steaks essen darf,
+weil Babies keine Zähne haben.
+
+Und was das mit dem Gruppenthema zu tun hat, weiß ich auch nicht mehr.
+Zum Titel des Threads passt es aber noch - da geht's doch um Computer
+in der Kirche, oder? ;-)
+
+/Mathäus
+
+
+/Mathäus

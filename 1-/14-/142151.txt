@@ -1,0 +1,24 @@
+Tja, die Regeln für die ominöse Liste.
+
+Was genetisch nicht verwandt ist, kommt nicht rein, klar. Aber was ist der 
+feine Unterschied zwischen morphologischer Verwandtschaft und anderer 
+genetischer Verwandtschaft? Etwa so: Wenn die Kausativform einen eigenen 
+Wörterbucheintrag hat, ist sie nicht morphologisch verwandt, weil sie ja 
+nicht eine *Form* des Grundwortes ist. Aber gibt es einen Grund, warum die 
+Wörterbuchmacher es so und nicht anders machen? In hebräischen 
+Wörterbüchern findet man mal dies, mal jenes: "hirqid" (tanzen lassen), 
+der Kausativ von "raqad" (tanzen), steht in manchen Wörterbüchern als 
+extra Eintrag, in anderen unter der gemeinsamen Wurzel RQD. In deutschen 
+Wörterbüchern stehen Kausative immer getrennt, auch wenn sie ganz 
+regelmäßig gebildet sind. Aber man könnte auch "setzen" als eine Verbform 
+von "sitzen" auffassen und daher dort einordnen. Von der Willkür und den 
+Sitten der Wörterbuchmacher hängt doch die Grammatik nicht ab.
+
+Meist war das Kriterium: wenns leidlich regelmäßig ist (setzen < sitzen) 
+kommts auch dann rein, wenn es nicht rein "morphologisch" ist (prellen < 
+prallen, obwohl prellen eher von "prall" kommt); bei häufigen Wörtern 
+(stellen < stehen) werden mehr Augen zugedrückt als bei selteneren.
+Ganz systematisch geht nicht.
+
+-- 
+Mirko Ziehms

@@ -1,0 +1,15 @@
+Folgender Dialog:
+
+A: "Geh bitte die Äpfel ernten!"
+B: "Soll ich alle ernten?"
+
+im Gegensatz zu
+
+A: "Geh bitte die Äpfel ernten!"
+B: "Soll ich alles ernten?"
+
+In welchem Zusammenhang würde man hier "alle" und in welchem "alles" 
+verwenden?
+
+Viele Größe,
+Emil

@@ -1,0 +1,5 @@
+Danke. Nach Deinem Hinweis habe ich es auch aus meinem
+Kleinen Lexer rausgebl�ttert.
+
+j/\a
+--

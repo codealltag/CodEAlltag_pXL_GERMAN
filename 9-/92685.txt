@@ -1,0 +1,27 @@
+Guten Abend,
+
+ich suche ein 'Gegensatzwort' zu 'Ist-Zustand', allerdings passt der mir
+bekannte 'Soll-Zustand' hier nicht.
+
+Hintergrund ist ein touch-screen-basierte Schalttafel zur Steuerung der
+Deckenfluter im neubezogenen Büro. Darauf sind schematisch die
+Leuchtkörper abgebildet, mit wechselnder Aufschrift. Angezeigt wird
+jeweils der Zustand, in den geschaltet werden kann.
+- Ist das Licht eingeschaltet, steht auf dem Schalter 'Aus'
+- Ist das Licht ausgeschaltet, steht auf dem Schalter 'Ein'
+
+Angezeigt wird also nicht der Ist-Zustand, sondern der '?'.
+'Sollzustand' passt m.E. deswegen nicht, weil das Licht bewusst
+eingeschaltet wurde und somit 'Ein' gleichzeitig Ist- und Sollzustand
+beschreibt.
+
+Gibt es ein hier zu Ist-Zustand passenden Gegenbegriff? Welcher
+naheliegende Begriff will mir nicht einfallen?
+
+
+Ciao
+Isolde
+-- 
+ wir halten uns an regeln
+ wenn man uns regeln lässt
+ [Budoland: Haifisch]

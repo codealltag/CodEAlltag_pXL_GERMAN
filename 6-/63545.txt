@@ -1,0 +1,20 @@
+Habe ich mir gerade mal geholt und schreibe momentan auch damit.
+Ebenfalls unterschiedliche Breiten, außerdem wird (im Gegensatz zu
+Zefaka) Unicode genauso falsch angezeigt wie bei Courier. Und die
+Pünktchen auf den Umlauten sind nur ein Strichelchen. Mag aber an der
+Grafikkarte liegen. Ich stell wieder auf Courier um.
+
+
+Da könnte man streng mathematisch eigentlich schon von doppelter
+Datenmenge reden. ;-)
+
+
+Ich meine eher die Unart, nur wegen eines Umlautes gleich ein
+UTF-Posting abzusondern, die in letzter Zeit um sich gegriffen hat.
+
+Natürlich könnte mein OE auch die Unicodes konvertieren, genauso könnte
+aber auch der sendende Client erkennen, daß das Posting ohne UTF
+auskommen kann und den charset gleich auf iso-8859 umschalten.
+
+Viele Größe
+Oliver, jetztabernichtmehrofftopiczuseinversprechend

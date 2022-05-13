@@ -1,0 +1,25 @@
+Es kommt darauf an, was du mit "Buchstabe" meinst. Auf deutschen 
+Tastaturen sind "ß" und die Umlaute "äöü" als eigene Taste drauf, im 
+Gegensatz etwa zum französischen "é" oder "ç", die beide als 
+Tastenkombinationen erzeugt werden müssen (meines Wissens auch auf 
+französischen Tastaturen). Im Setzkasten eines Druckers sind (bzw waren, 
+als Setzkästen noch benutzt wurden) sie als eigene Buchstaben drin - 
+sowohl die Umlaute und dasß als auch, in französischen Setzkästen  "ç", 
+das "î" usw. als eigene Buchstaben drin - siehst du die als Buchstaben 
+oder als Varianten an?  Wie es in Skandinavien insoweit mit dem "ø" oder 
+dem "å" aussieht, weiß ich nicht - haben die eigene Tasten?
+
+In der Sortierreihenfolge wird das ä manchmal wie das a einsortiert,, 
+manchmal als ae, manchmal zwischen a und b (letzteres ist die Version, die 
+ich persönlich am sinnvollsten finde). Das ß wird i.A. als ss einsortiert, 
+wobei ich gar nicht weiß, ob es da eine definierte Reihenfolge im, Falle 
+"Maße" vs. "Masse" gibt; spontan würde ich "ß" hinter "ss" einsortieren. 
+Man sieht also, dass sowohl die Umlaute als auch das ß einen gewissen 
+Zwitterzustand zwischen Ligatur und Buchstabe darstellen, wobei die 
+Umlaute eher Buchstaben, das ß eher als Ligatur wahrgenopmmen wird. 
+
+Lutz
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

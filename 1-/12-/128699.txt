@@ -1,0 +1,27 @@
+*g*  Nö, das wär dann doch etwas /zu/ einfach!  Ich habe Anfang
+der 25. 08. 22 an einer 4051 und einer 4052 programmiert; da würde
+ein Terminal nix nützen, weil es bei denen keinen Video-Output
+gab (nur DVST mit grünem Phosphor).  Das waren feine Maschinen
+(besonders die 4052!), und das darauf laufende Lupp-BASIC
+mit seiner einfachen I/O- und Grafikeinbindung war echt super.
+
+Z.B. konnte man alle I/O-Befehle (PRINT, INPUT, ...) und auch
+Grafikbefehle (MOVE, DRAW, VIEWPORT, ...) optional mit einem
+Geräte-Parameter versehen.  Wenn man also clever war, schrieb
+man nicht einfach "PRINT ...", sondern "PRINT @D ..." wobei "D"
+eine Variable war.  Mit dem Wert D=32 ging die Ausgabe dann auf
+den Bildschirm, mit 1 auf den Plotter (geiles Teil!), und mit 51
+auf den Drucker.  Auf dieselbe Weise konnte man auch Eingaben
+wahlweise von Tastatur oder von Band (QIC -- und das schon 1976!)
+einlesen.  Dazu Grafik quasi ohne Auflösungsbegrenzung etc. pp.
+
+Wie geagt: tolle Kiste, voll stabil (Gehäuse aus 3 mm Stahlblech)
+und für die damalige Zeit irre schnell.  Dafür auch nicht "ganz"
+billig: die 9825 kostete neu knapp 30 TDM, die 4052 gebraucht (!)
+1981 fast das Doppelte (da war allerdings der Plotter dabei, und
+die Speichererweiterung auf 64 KB).  Eine ganz gute Beschreibung
+(mit Details zur HW/SW, und sogar Videos) habe ich hier gefunden:
+<http://phu.rcvpsnxptnnbibskj.azo/gjvhudnx/qwhvldemw.zxer>.
+
+
+juan

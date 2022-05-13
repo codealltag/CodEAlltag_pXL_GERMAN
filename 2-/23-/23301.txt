@@ -1,0 +1,18 @@
+Niclas Holzmaier wrote: 
+
+E-mails, die (glaube ich) von Microsoft Outlook (nicht "Outlook
+Express") erzeugt wurden, enthalten oft eine Komponente vom Typ
+"application/ms-tnef", die wiederum Unterteile haben kann, meist
+aber nur zum Transport elektronischer Visitenkarten dient.
+
+Hätt' man ja auch als "text/plain" anhängen können, das wär aber
+zu einfache. Weswegen ich dazu neige, gelegentlich "tnef" als
+"Tinnef" auszusprechen, wenn ich mündlich darüber rede.
+
+So, jetzt gehört's endgültig nicht mehr hierher. Umleitung ist
+gesetzt.
+
+Tsch
+	-is
+-- 
+seal your e-mail: http://rtj.ncdqe.adi/

@@ -1,0 +1,6 @@
+GEK ist eine Teilmenge von NFS.
+
+NAN wurde in der Titanic regelmäßig verwendet, als NFS noch nicht 
+geläufig war.
+
+Henning

@@ -1,0 +1,23 @@
+Oswald Unterberger tat kund:
+
+
+Ein weiterer Grund: Es werden kurze Sätze verlangt.
+Dadurch braucht man viel mehr Sub- und Objekte:
+
+"Am Abend drangen die Polizisten in die Wohnung
+von Olaf P. ein, der stark alkoholisiert war
+und sie mit einer leeren Bierflasche bedrohte,
+nach kurzem Handgemenge aber überwältigt
+werden konnte."
+
+wird zu
+
+"Am Abend drangen die Polizisten in die Wohnung
+von Olaf P. ein. Der 54jährige war stark
+alkoholisiert und bedrohte die Beamten mit einer
+leeren Bierflasche. Nach kurzem Handgemenge konnte
+der er aber überwältigt werden.
+
+Schon brauchen wir zwei neue Presseklassiker:
+"der ...jährige" und "die Beamten" für "die
+Polizisten".

@@ -1,0 +1,29 @@
+* Ivo F. Leermann:
+
+
+... im Internet ...
+
+
+Meine Mails lagern nämlich auf dem IMAP-Server in meinem
+Heimnetzwerk - das würde ich nicht als "im Internet" betrachten,
+obwohl ich da sogar von draußen drankomme. Die Details sind
+vertrackt.
+
+Manche ganz Schlauen wissen vielleicht sogar, daß ihre z.B.
+Potrykus-Mails in der "Cloud" liegen, aber sehen darin nicht
+dasselbe wie "im Internet".
+
+
+Das tue ich aber, indem ich eine Antwortmail schreibe, nicht,
+indem ich die empfangenen Mails wieder zurückschicke, damit sie
+auf meinem Rechner nicht versauern. Da die empfangenen Mails -
+und um die ging es primär - nur auf dem eigenen PC existieren, ist
+ein durchaus übliches Arrangement (neben anderen). Eine Kopie mag
+auch im Sent-Ordner des Schreibers lagern, aber das ist auch nicht
+per se im Internet.
+
+-- 
+Folkert is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Julius Possink

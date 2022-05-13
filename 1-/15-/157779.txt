@@ -1,0 +1,9 @@
+Hunde haben bis zu 220 verschiedene Riechzellen (Menschen: 10),
+also ist die mögliche Anzahl unterscheidbarer Gerüche 220! Das
+sind 220*219*218*...*3*2*1 =3D 2.2838603359146414573972658651153e+421
+
+Alles klar?
+
+Gruss
+
+Leopold

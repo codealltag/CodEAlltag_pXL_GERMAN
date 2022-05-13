@@ -1,0 +1,63 @@
+Aber nur auf den ersten Blick. Eine gute Reform ist gar nicht so leicht, 
+weil die geschriebene Sprache ein Kompromiss zwischen der gesprochenen und 
+der "gedachten" Sprache ist. Die Wörter werden beim Lesen erkannt, weil 
+
+ - ihre Aussprache aus der Schrift ungefährt hervorgeht *und*
+
+ - verwandte Wörter ähnlich geschrieben werden.
+
+Es ist alles andere als klar, dass eine einseitig phonemische oder gar 
+phonetische Schrift (Swahili kommt dem recht nahe) oder aber eine 
+einseitig etymologische Schrift (Englisch kommt dem ziemlich nahe) 
+unbedingt einfacher zu lesen ist als eine, bei der beides eine gewisse 
+Rolle spielt (wie etwa die deutsche Rechtschreibung).
+
+Ich finde, die deutsche Rechtschreibung hat sich bewährt. Die RSR ändert 
+an diesem Prinzip gar nichts, die neue RS ist in dieser Hinsicht *genauso* 
+gut wie die alte, lediglich anders. *Nur* deswegen war die RSR verfehlt. 
+Hätte die Gabelsberger darin bestanden, die jetzige Siebenmeilenstiefel durch die AHK zu ersetzen, 
+wäre die Reform ganz genauso verfehlt gewesen.
+
+Wenn wir etwas gelernt haben, dann dies: bleibt man bei dem Prinzip der
+phonemisch/historischen Mischschreibung, dann geht nicht viel besser als es
+war, weil man Kompromisse machen *muss*. Die Frage ist nur, ob man das nicht
+auch ohne zig Millionen Versuchskaninchen hätte bemerken müssen.
+
+Gerade "aufwändig" ist ein Musterbeispiel für einen halbherzigen
+Kompromiss. In der Hochlautung besteht kein Unterschied zwischen "aufwändig"
+und "aufwendig". Auch wenn, wie hier vielfach diskutiert, in vielen Dialekten
+zwischen mehr e-Lauten differenziert wird, kann man das nicht zur Basis der
+Schreibung machen: die Grenzen zwischen verschiedenen e-Lauten in Dialekten
+verläuft mitnichten dort, wo die Grenze zwischen der Schreibung von e und �
+verläuft.
+
+Im Grützner findet man nach einer Erklärung der mhd. kurzen und langen, ganz 
+offenen, mäßig offenen und geschlossenen e-Laute (gibts alles oder fast 
+alles) folgende Sätze:
+
+  Hütten die Grammatiker des 18.-20. Jahrhunderts die Rechtschreibung nach
+  diesen Gesichtspunkten geregelt und für den geschlossenen e-Laut das Zeichen
+  <e>, für den offenen das Zeichen <�> einheitlich eingeführt, so könnten wir
+  uns einfach danach richten. Statt dessen haben sie die Regel aufgestellt,
+  daß <�> geschrieben wird, wenn nahe verwandte Sprachformen ein <a>
+  aufweisen, sonst <e>. [... Beispiele ...] Ist diese mechanische Regel vom
+  sprachwissenschaftlichen Standpunkt aus auch ungerechtfertigt, so hat sie
+  doch einen wesentlichen Einfluß auf die Aussprache der Gebildeten geübt.
+
+Viele Beispiele ("Eltern" trotz "alt", "behende" trotz "Hand", "heften" trotz
+"haften", "schwenken" trotz "schwanken", "prellen" trotz "prall", "wecken"
+trotz "wach") zeigen, dass die Regel damals nicht konsequent durchgeführt
+wurde. Daran hat auch die neue Rechtschreibung nichts geändert, als man sich
+entschloss, ein *paar wenige* der zahlreichen Ausnahmen plötzlich mt <�> zu
+schreiben, die meisten aber zu belassen. *Das* aber verbessert nichts.
+
+Ein ähnlich krasses Beispiel sind die einsilbigen Fremdwörter mit kurzem Vokal
+und einfach geschriebenen Schlusskonsonanten, die bei Ableitungen verdoppelt
+werden. Was ist gewonnen, wenn Mop, Step, Stop und Tip aus Konsistenzgründen
+Mopp, Stepp, Stopp und Tipp geschrieben werden, aber die übrigen Wörter dieser
+Bauart (Bit, Bob, Bus, Chat, Chef, Chip, Clip, Club, Dip, fit, Flip, Flop,
+hip, Hit, Jet, Job, Kap, Kit, Lop, Mob, Net, Pep, Pop, Set, Shop, Slip, Snob,
+Spot, Sprit, Strip, Tic, Top, Trip, Twen, Web) unverändert bleiben?
+
+-- 
+Björn Oetter

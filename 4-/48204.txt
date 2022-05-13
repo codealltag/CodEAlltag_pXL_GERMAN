@@ -1,0 +1,13 @@
+Du meinst also, die wüßten zwischen "&deg;" und "&ordm;" genauso wenig
+zu wählen? Kann sein, obwohl der Name "deg" hilft, sofern man den
+englischen Namen des gesuchten Zeichens kennt. "Ordm" ist an sich wenig
+hilfreich.
+
+Gerade erlebe ich eine zu dem Thema passende Anekdote: ein renommiertes
+internationales Verlagshaus hat uns um eine Softwarekonfiguration
+gebeten hat, bei der der Name der größten Stadt der Schweiz auch dann
+erkannt wird, wenn er statt mit ü oder u mit ϋ (griechisches ypsilon mit
+Dialytika) geschrieben ist.
+
+-- 
+Pentiums melt in your PC, not in your hand.

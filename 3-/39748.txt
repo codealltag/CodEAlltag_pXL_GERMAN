@@ -1,0 +1,17 @@
+Das Modell klingt einleuchtend. Und es fehlt manchmal wirklich ein Wort 
+für den Schritt 4. Für die Wahl der Authentisierungsmechanismen spielt es 
+eine große Rolle, wer mit welchen Mitteln authentifiziert. Beispiel: Der 
+Werksausweis der Firma FUWF braucht nur dem Werkschutz von FUWF bekannt zu sein, 
+es sei denn, man will sich damit auch anderswo als Werksangehöriger von FUWF 
+ausweisen können; dann muss er andere Merkmale haben.
+
+(Deswegen setzen sich persönliche Zertifikate in der elektronischen 
+Kommunikation relativ schleppend durch: die 
+Authentifizierungsgelegenheiten sind zu selten, in denen genau diese 
+Authentisierung passt.)
+
+Durchsetzen wird sich diese Sprachregelung wohl nicht, obwohl sie sinnvoll 
+wäre.
+
+-- 
+Ronald Näfe

@@ -1,0 +1,9 @@
+Solange Du keine bibliothekarische Sortierung brauchst, kannst Du
+ja immer noch auf den Primitivfall "Nachname ein Feld"
+ausweichen. Gegebenenfalls dann noch ein separat einzugebendes
+Feld mit der korrekten Briefanrede.
+
+Diese beiden sind gleich, dafür reicht ein Feld.
+
+
+Das macht Aufteilung erforderlich.

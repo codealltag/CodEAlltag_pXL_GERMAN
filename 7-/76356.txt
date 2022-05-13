@@ -1,0 +1,10 @@
+Schau an, was der PROMPT-Translator aus dem Original zaubert:
+
+
+Ich bin beeindruckt: s/des(.*)Wellenbrechers/aus\1Maulwurf/,
+und die Übersetzung ist praktisch perfekt!
+
+Sowohl Tante Francesco Brandstätter, als auch Yachtprofi Babelfisch meinen:
+
+
+günter

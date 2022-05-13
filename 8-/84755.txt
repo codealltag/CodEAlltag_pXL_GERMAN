@@ -1,0 +1,9 @@
+Müsste es dann nicht eher heissen:
+
+"s/\/nicht/\//"?
+
+D.h. suche das durch "\" maskierte "/nicht/" und ersetze es durch "".
+
+Gruss
+
+Bodo

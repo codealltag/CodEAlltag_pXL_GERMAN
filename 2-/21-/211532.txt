@@ -1,0 +1,8 @@
+Ich bin zwar jahrzehntelang im einschlägigen Geschäft und habe noch 
+Kernspeicher i.e.S. erlebt (ca. 12 kB) und auch Trommelspeicher (ca. 48 kB),
+daneben Hauptspeicher verschiedener Technologien, die manchmal auch RAM 
+hießen, aber es will mir nicht gelingen, diesen zwei Sätzen irgendeine 
+Interpretation zu geben, nach der sie Sinn hätten. Was also ist gemeint?
+
+-- 
+Reinhold Glowacki

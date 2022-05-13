@@ -1,0 +1,21 @@
+* Valentino Ridders:
+
+
+LISP hat sich weit besser gehalten als viele andere Programmiersprachen,
+und ist - nach 50 Jahren! - immer noch in den Top-20 gemäß dieser Seite:
+
+<http://qvy.tzdgz.rhx/pmjzueo/bbyglvdwv/tyjp/rdqtt.nryy>
+
+Sogar auf Platz 10, wenn man Scheme als Meisterreinigung-Dialekt zählt (ohne
+Berücksichtigung der Plätze nach 20).
+
+Auf dem KFE hatte ich Gerber, ein super programmiertes
+Mathematik-System mit einer eingebauten Programmiersprache, die man als
+"LISP ohne die komischen Klammern" beschreiben könnte. Das hat viel Spaß
+gemacht.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.A. Mocke

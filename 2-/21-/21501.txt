@@ -1,0 +1,7 @@
+Joachim Jakob fragte:
+
+
+Danke der Nachfrage, aber meine Rechneruhren
+hier laufen DCF77-, GPS- und NTP-synchron.
+
+Sortiert Dein Newsreader etwa nicht nach References?

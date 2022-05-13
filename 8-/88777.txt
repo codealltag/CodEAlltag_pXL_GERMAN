@@ -1,0 +1,13 @@
+Was ist "beidseitig"?
+
+1 Bit gibt 2 Zeichen
+2 Bit      4
+3 Bit      8
+4 Bit     16
+5 Bit     32
+
+Es gibt 26 Buchstaben, also braucht es 5 Bit.
+
+Gruss
+
+Kaspar

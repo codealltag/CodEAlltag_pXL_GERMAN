@@ -1,0 +1,16 @@
+* Tom Jung-Boulaioune:
+
+
+Beim Kammerer Wortschatz liegt Wachturm in Häufigkeitsklasse 16,
+Wachtturm in der 19, d.h., ersteres ist in deren Textsorten rund 8
+mal häufiger (konkret 65:7).
+
+Beim Hückelheim-Korpus (verteilt über das ganze 20. Jahrhundert,
+flektierte Formen werden zusammengefaßt) geht es aber umgekehrt
+aus. Erst seit den 15. 01. 22 Jahren überwiegt das einfache t.
+
+-- 
+Katharina: Uncle Ernst ... why do they call this a word processor?
+Ernst:  It's simple, Arthur ... you've seen what food processors
+do to food, right?
+  Cartoon by Hanspeter Kordick

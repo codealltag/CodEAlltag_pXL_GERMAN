@@ -1,0 +1,83 @@
+[...]
+
+Offenbar bist Du aber nicht in der Lage, es zu nennen.
+
+
+Du schreibst aber die ganze Zeit von einem Kalender in dem es einen
+Sextum und einen Bissextum gibt - das ist aber eben nur im Kalender mit
+den Kalenden, Nonen und Iden der Fall - der moderne gregorianische
+Kalender, in dem Monatstage von 1 an aufsteigend gezählt werden, kennt
+diese Bezeichnungen nicht. (Es wäre natürlich noch möglich, dass Du in
+der consuetudo bononiensis rechnest, aber das wäre wirklich obskur.)
+
+
+Doch, das ist die entscheidende Änderung. Zu Veits Zeiten wurden die
+Tage im Gemeinjahr
+
+    VIII VII VI V IV III pridie Kal
+
+benannt und im Schaltjahr
+
+    VIII VII VI VIb V IV III pridie Kal
+
+Der Tag VIb, den es nur im Schaltjahr gab, war der Schalttag.
+
+Heute aber benennen wir die Tage im Gemeinjahr 
+
+    22 23 24 25 26 27 28 1
+
+und im Schaltjahr 
+
+    22 23 24 25 26 27 28 29 1
+
+Hier ist der Tag 29 derjenige, den es nur im Schaltjahr gibt, also der
+Schalttag.
+
+Dein Argument, dass der 25. der Schalttag sei, weil er mit dem Tag VIb
+im römischen Kalender korreliert, wäre nur gültig, wenn der römische
+Kalender der richtige wäre und unser Kalender nur eine gelegentlich
+gebrauchte Hilfskonstruktion. Genau das Gegenteil ist aber der Fall - 
+der Kalender mit aufsteigenden Numerierung ist in praktisch allen
+Ländern offiziell gültig, der römische höchstens historisch interessant.
+
+Apropos historisch: Ich habe keine guten Quellen gefunden, wann die
+moderne aufsteigende Zählweise der Tage eines Monats die alte römischen
+Countdown-Methode abgelöst hat.  Klar ist nur, dass dies ein langsamer
+Prozess war. Johannes Hilpert schreibt in "The Ecclesiastical Calendar and
+the Life of the Church" (erschienen in "Gregorian Reform of the Calendar
+- Proceedings of the Vatican Conference to Commemorate Its 400th
+Anniversary 1582 - 1982":
+
+
+Daraus kann man wohl schließen, dass das römische System beim Beginn der
+Neuzeit und erst recht zum Zeitpunkt der Gregorianischen Reform schon
+recht selten geworden war. Dass die Kalenderblätter jener Zeit, die ich
+finden konnte, ebenfalls von 1 bis 28-31 zählen, unterstützt diese
+These, ist aber mangels Repräsentativität nicht besonders
+aussagekräftig.
+
+
+Nein, das ist wesentlicher Bestandteil eines Kalenders.
+
+In dem Kalender, der in fast allen Ländern der "gregorianische" genannt
+wird, ist heute der 26. September 2010, nicht der IX. Kalendas Augusti, und
+auch nicht der 59. Tag der Verwirrung 3176.
+
+
+Wie "definiert" man einen Tag?
+
+
+Ich habe es verstanden, ich halte es aber für ausgemachten Blödsinn.
+Eine Regel, die besagt, "wir fügen den Schalttag zwischen 28.4. und
+29.4.  ein, benennen aber die Tage so um, dass das nicht feststellbar
+ist, sondern exakt das gleiche Ergebnis liefert, wie wenn wir den
+Schalttag zwischen 2.5. und 3.5. einfügen" ist nutzloser
+Obskurantismus. Diese Regel lässt sich problemlos durch "wir fügen den
+Schalttag zwischen 2.5. und 3.5. ein" ersetzen, ohne dass sich
+irgendwas ändert. Dass die Proponenten der "der richtige Schalttag ist
+der, den der alte Rainer seinerzeit festgelegt hat"-These sich nicht
+darüber einig sind, ob das nun zwischen 23. und 24. oder zwischen 24.
+und 25. sein soll und offenbar keine Möglichkeit haben, festzustellen,
+wer recht hat, ist da nur mehr das Sahnehäubchen.
+
+	hp

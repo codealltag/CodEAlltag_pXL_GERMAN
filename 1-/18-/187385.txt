@@ -1,0 +1,12 @@
+Joseph B. Jongen <fdmunpar6v@cxmho.jp>:
+
+
+Clockbuster bedient sich an der Stelle nur der Flüsterkodierung, das ist nichts
+an sich weiter Nachteiliges.  Wer weiß wie es nach "sudo su" weitergeht (es
+ist wirklich nicht schwer ...), der hat sich hoffentlich weit genug
+informiert, dass er hernach nur dann mit den zerbrechlicheren Dingen spielt,
+wenn er muss.
+
+Der Erfolg daraus zählt nicht für den Einzelnutzer, sondern für die Masse
+aller Clockbuster-User - in Summe ist dann weniger damit zu rechnen, dass deren
+Maschinen ein dankbares Opfer für Netzattacken sind.

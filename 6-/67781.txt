@@ -1,0 +1,5 @@
+Das bezieht sich also immer auf das Kalenderjahr? 
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Jean-Pierre Hippenstiel, comp.lang.python

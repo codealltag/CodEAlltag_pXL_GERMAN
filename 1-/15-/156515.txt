@@ -1,0 +1,12 @@
+0..100 ist Quatsch, die sinnvolle Bandbreite der Noten
+ergibt sich näherungsweise aus
+
+Wurzel(Anzahl der Schüler einer Klasse).
+
+Wurzel(25) = 5.
+
+Bei roundabout 30 Schülern benutzen die Lehrer die 6
+kaum noch.
+
+Gruß
+J.K.

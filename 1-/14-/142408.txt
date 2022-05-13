@@ -1,0 +1,80 @@
+Hallo Severin
+
+Danke für diesen wertvollen Hinweis.
+
+Zufälligerweise habe ich gerade drei Lexikons ausgeliehen:
+ein Akkadisch Lexikon, das zweite ein Hebräisch Lexikon
+und das dritte ein Ugarit-Lexikon. Ich bin mich da gerade erst
+am einarbeiten. "käläv" zu finden ist ein schöner Test.
+
+Das Akkadisch-Lexikon ist so gegliedert: Am Anfang steht eine Liste
+der konsonantischen Wurzeln die mit ihren vokalisierten Erweiterungen
+verbunden werden. hat man diese gefunden, so sucht man im zweiten Teil
+des Lexikons nach dem vokalisierten Wort. Glücklicherweise ist alles
+in Lateinschrift gehalten.
+
+Die Wurzel wäre: KLV
+Unter KLV findet sich nix, auch unter KLB Fehlanzeige. Also direkt in
+die Wortliste. Hier findet man:
+kalbu(m)   -- dog
+kalbatu(m) -- female dog, bitch (das erinnert mich an Willy Weickert/
+                           im Orient: "du Sohn einer Hündin" hab
+                           ich da des öfteren lesen müssen und
+                           konnte mir nicht zusammenreimen warum
+                           das jetzt eine Beleidigung sein soll.
+                           Naja, ich war erst 12.
+kalbanis   -- like a dog
+
+Was bedeutet das eingeklammerte (m)? Plural?
+
+daneben noch
+kalumu(m)  -- Lamb
+kalumbtum  -- female Lamb
+
+An anderer Stelle in diesem Faden erwähnte Charles die Wurzel RQD.
+Vielleicht funkionierts damit. Einen Eintrag für die Wurzel gibt
+es tatsächlich. RQD --raqadu
+Im lexikalischen Teil dann
+
+raqadu(m) -- to dance, skip.
+
+Also ist (m) doch kein Plural.
+
+Funktioniert weitestgehend
+---
+Jetzt bewege ich mich 700 Jahre später und 1000 km weiter östlich:
+Ugaritisch. Das Lexikon ist nach Wurzeln geordnet:
+
+KLB: liefert dog(?) [mit Fragezeichen versehen]. cf: C. eiberger,
+       Arab. kalb
+       Also nicht belegt und wohl nur zurückgerechnet.
+
+RQD: gibts nicht, aber dafür RQS mit emphatischem "S": to swoop
+      cf: Arab. raqasa: to dance
+
+Emphatisches S und D scheinen in einem Lautverschiebungsverhältnis
+zu stehen.
+---
+Drittes Lexikon. weitere 600 Jahre später und 500 km südlich
+Hebräisch:
+Die Artikelüberschriften des Lexikons sind leider in Quadratschrift,
+dafür ist der Text auf deutsch.
+
+Der erste Buchstabe ist vermutlich das hier: kaf -- כ
+der zweiter das hier: lamäd -- ל
+der dritte sieht aus wie der erste: ida -- ב
+zusammen: כלב
+
+Aber andersherum geschrieben. also בלכ
+
+(Nach ca einer Stunde suchen gefunden.)
+Dort Hinweise auf ähnliche klingende aramäische, arabische,
+äthiopische und assyrische Wörter mit gleicher Bedeutung; Hund.
+
+Ich halte jetzt die Herleitung aus dem jiddischen oder direkt aus
+einer semitischen Kontaktsprache des Germanischen
+für plausibler als die Herleitung von "klaffen".
+"Kläffer" wäre dann Volksetymologie.
+
+Gruss
+Gregor

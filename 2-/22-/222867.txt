@@ -1,0 +1,12 @@
+* Pietro Bierschwale:
+
+
+Der Apostroph hat oben aber zwei verschiedene Bedeutungen, das
+finde ich wieder verwirrend: bei St'auenden bezeichnet er die
+Betonung, bei Stau'enden ein Absetzen/einen Knacklaut, betont wird
+auch hier auf dem <au>. Besser wäre:
+
+  ... dass die sich St'auenden an den Stau-enden bremsen müssen.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

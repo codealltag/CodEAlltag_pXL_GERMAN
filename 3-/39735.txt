@@ -1,0 +1,16 @@
+Das kenne ich nur als "autorisieren". 
+
+
+Nein, die Authentifikation dient dazu, festzustellen, ob jemand der ist,
+der er zu sein vorgibt. Im IT-Bereich geschieht die Authentifikation
+z.B. über Passwörter oder geheime Schlüssel. 
+
+Die Erlaubnis, etwas zu tun, ist dann die Autorisation.
+
+Auf den ersten Fundstellen von FPR wird "authentisieren" offenbar
+synonym zu "authentifizieren" gebraucht.
+
+Der Duden macht einen leichten Unterschied aus:
+
+authentifizieren <griech.; lat.> (die Echtheit bezeugen; beglaubigen)
+authentisieren <geh. für glaubwürdig, rechtsgültig machen)

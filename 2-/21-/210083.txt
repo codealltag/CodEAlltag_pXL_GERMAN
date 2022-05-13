@@ -1,0 +1,8 @@
+Es gibt auch mindestens zwei Maßbegriffe, nach denen alle gleich schlau 
+sind. Ansonsten gelten ganze Zahlen als Prototypen von Größen, die sich 
+perfekt zur Äquivalenzklassenbildung eignen, da sie nicht stetig 
+deformierbar sind. Darauf beruht wohl der Zählvorgang.
+
+-- 
+
+Ullrich Jagusch

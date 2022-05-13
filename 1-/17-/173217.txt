@@ -1,0 +1,13 @@
+Am 31. 03. 23 08:46, schrieb Dr. Valerius:
+/ Kühe haben, Gott sei Dank, anderes zu \
+\ tun                                   /
+  ---------------------------------------
+         \   ^__^
+          \  (oo)\_______
+             (__)\       )\/\
+
+
+-- 
+Distribution: Kohlrusch squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 31. 03. 23 13 21:35:22 UTC 2012 x86_64 
+GNU/Linux

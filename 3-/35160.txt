@@ -1,0 +1,17 @@
+Da hatte der Plotter wohl einfach keinen Bindestrich im Zeichensatz.
+Oder das Ding hat eine automatische Texterg�ngung, die nur dann
+sinnvoll funktioniert, wenn man die Wortbestandteile einzeln eingibt.
+Ein Bindestrich stört dann nur. Und mit mehr als drei einzugebenden
+Zeichen ist der Verkäufer an der Tastatur dann schon befordert. Oder
+es dauert einfach zu lange.
+
+Sonst kriegst du bei nach "Spa..." dreihundert Möglichkeiten
+angezeigt. Das ist dann nicht wirklich ergonomisch.
+
+
+Mit ein wenig Überlegung lassen sich so einige technische Gründe
+für den Niedergang der Rechtschreibung ausmachen (was nicht heißt,
+dass es keine anderen gäbe).
+
+
+F.

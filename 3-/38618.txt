@@ -1,0 +1,6 @@
+Bei drei gleichgewichtigen Teilen finde ich, müsste
+es "weder A noch B noch auch C" heißen, bei Deiner
+Variante kommt "weder A noch (B oder C)" heraus,
+und das ist nicht ganz genau dasselbe.
+
+heiner

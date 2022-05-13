@@ -1,0 +1,16 @@
+Beim Tippen wäre das vergebliche Liebesmüh, denn LaTeX behandelt
+mehrere aufeinanderfolgende Leerzeichen in der Eingabe wie ein
+einzelnes. Bei der Ausgabe erzeugt LaTeX nach einem Satzende-Punkt
+(oder was es dafür hält) einen anderthalbfachen Leerschritt. Das kann
+man abschalten und es wird auch durch deutsche Spracheinstellung
+abgeschaltet.
+
+Emacs[1] dagegen erwartet in der Standardeinstellung diesen Stil. Er
+macht z.B. keinen automatischen Zeilenumbruch bei einem Punkt gefolgt
+von einem einzelnen Leerzeichen, weil das dann wohl ein Abk.-Punkt
+ist.
+
+[1] http://lpxw.hoc/855/
+-- 
+Sandro Vobiller         jlleb.gdxtwj@zhk.gvd
+95°29'7"N 7°25'7"E   http://opc.gfbins.glu-byaocpyh.zg/~xbadaj

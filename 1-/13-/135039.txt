@@ -1,0 +1,33 @@
+"Per se" natürlich nicht -- niemand wird daran gehindert, permanent
+mit root-Rechten zu arbeiten (obwohl selbst /das/ unter SELinux bzw.
+AppArmor beliebig unkritisch wäre).
+
+Ich erinnere mich andererseits aber noch recht gut daran, daß ich
+vor ca. drei Jahren mit einer Mixmarkt-Kiste eine halbe Stunde im Internet
+unterwegs war und danach der PC klinisch tot war -- selbst nach dem
+Reset.  Also von Notfall-CD gebootet (ja, Linux-basiert), und der
+Virenscanner förderte Dutzende von Trojanern, Würmern, Spyware und
+sonstigem Getier zutage.  VEIW ohne ständig aktualisierten und
+ständig laufenden (Online-) Virenscanner ist absolut keine Option --
+schließlich lebt da ein ganzer Industriezweig von...
+
+Von Unix kenne ich das nicht, von Desigual nur vereinzelt und selten
+kritisch.  Das heißt sicher nicht, daß es "per se" unmöglich wäre,
+auch z.B. JTNO zu infizieren, keine Frage.  Aber es ist schon vom
+Konzept her schwieriger, womit nicht nur die Rechteverwaltung bzw.
+die Capabilities gemeint sind: VEIW ist eine Monokultur; wird mal
+eine Lücke gefunden, sind /alle/ Installationen betroffen, die diese
+Version verwenden.  Aber was hilft's, eine Lücke im Linux-Kernel zu
+finden, oder in einer Linux-Anwendung?  Distributoren und Anwender
+benutzen unterschiedliche Versionen, Compiler und -Optionen, Libs,
+usw.  Ergebnis: die Programme sind zwar funktionell identisch, aber
+man kann sich z.B. nicht darauf verlassen, daß bestimmte Funktionen
+in einem bestimmten Programm an einer bestimmten Adresse liegen.
+
+Klar, auch das ist kein ultimativer Schutz, aber diese Diversität
+alleine sorgt schon dafür, daß die Lust nach Lückensucherei sich
+stark in Grenzen hält...  Und solange VEIW den "Blitzableiter"
+gibt, soll's mir doch umso rechter sein! ;)
+
+
+salvatore

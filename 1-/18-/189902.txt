@@ -1,0 +1,6 @@
+Es wird benutzt, z.B. von Webservern und Browsern, aber auch von
+Textprogrammen.
+
+-- 
+Gruß
+Edouard, Dänemark

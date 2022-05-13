@@ -1,0 +1,7 @@
+Es muss natürlich heißen: "b - a" ist die Zahl mit der Eigenschaft a + 
+(b - a) = b.
+
+Das ist nicht zirkulär, sondern die Definition, und sie benutzt die 
+Tatsache, dass es so eine Zahl gibt.
+
+Lars

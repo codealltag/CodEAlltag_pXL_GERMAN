@@ -1,0 +1,42 @@
+Ja, ich weiß auch nicht, was das soll, ich könnte es mir
+allenfalls so erklären, daß man zuzeiten mit "Struktur" noch
+nichts anzufangen wußte. Heutzutage aber schon.
+Da mir Latein irgendeine Hilfe in Mathematik oder Philosophie
+(gab es nur kurz im Angebot, es wurde Logik behandelt) gewesen
+wäre, kann ich nicht behaupten. Vielleicht hat mich die
+Erfahrung, daß es bei Latein schonmal geklappt hatte, nach langer
+langweiliger Büffelei denn doch mal was Interessanteres, nämlich
+Zusammenhänge, sehen zu können, nicht abgeschreckt, bei Chemie
+ebenfalls mit dieser langwierigen Methode vorliebzunehmen. 
+Aber das mit der Logik bei einer natürlichen Sprache ist so ein
+Traum, an dem sich nach den Lateinlehrern noch so einige
+KI-Verrückte die Zähne ausgebissen haben.
+Man kann es nur annehmen, daß die Sprachen eine gewisse Logik
+haben, zeigen ist mW noch niemand so recht geglückt.
+Weswegen ich "Sprachlogik" genauso für ein Nullargument halte wie
+"dann versteht man Fremdwörter besser". Denn beides wäre auch
+durch andere lebende Fremdsprachen leicht zu erreichen.
+Aber das hatte ich ja in einem früheren Beitrag schonmal gesagt,
+daß es mich befremdet, daß da stets die Wünsche, die an den
+Lateinunterricht herangetragen werden, so hochgejubelt werden,
+und keiner mal das erwähnt, was es _wirklich_ bringt, nämlich zum
+Beispiel:
+
+
+Strukturen, ja. Und das Analysieren von fremden Strukturen (z.B.
+5 Meter Fremd-VBA-Code). Mit derartigem umgehen zu können, daran
+gewöhnt man sich durch den Lateinunterricht.
+
+
+Ich denke schon, daß diese Fähigkeit durch den Lateinunterricht
+in seiner eigentümlichen Form (viel Grammatik; übersetzen, nicht
+sprechen) besser trainiert wird als durch andere Fächer.
+Es sind dadurch, daß es eine natürliche Sprache ist, eben zum
+Teil auch _unregelm��ige_ Strukturen, anders wie bei formalen
+Sprachen. Dadurch wird man gezwungen, mehr aufs Detail zu achten,
+weil das nicht unbedingt vorhersagbar ist.
+Eine Sprache mit einigermaßen elaborierten Texten und nicht ganz
+einfacher Grammatik ist halt hinreichend komplex, um
+Strukturerkennung zu üben. Nebenbei bekommt man eine Infusion
+Geschichte und erkennt, daß früher nicht alles besser war. Das
+sollte man mMn auch nicht unterschätzen.

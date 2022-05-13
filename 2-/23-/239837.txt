@@ -1,0 +1,8 @@
+Nein. PCLI hat damit nichts zu tun. Du sendest via
+MHZ, und dein Newsreader formatiert deine Beiträge.
+PCLI tut nur, was jeder andere Server auch tut. Er zeigt deinen
+Beitrag, wier es von deinem Newsreader formatiert worden ist.
+
+-- 
+Gruß
+Friedhelm, Dänemark

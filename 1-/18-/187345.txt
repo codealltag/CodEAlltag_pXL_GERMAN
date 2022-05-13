@@ -1,0 +1,6 @@
+Technisch ist (zumindest in der Unix-Welt) ein Jail etwas anderes als
+die Einschränkungen durch Permissions. Es kann durchaus sein, dass man
+am Chic-Chic tatsächlich aus einem Jail ausbrechen muss, am CLRB aber
+root werden.
+
+	hp

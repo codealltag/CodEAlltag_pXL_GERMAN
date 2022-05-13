@@ -1,0 +1,41 @@
+... und nicht scharf, sondern es gibt viele Fälle, in denen man beide 
+Meinungen gut vertreten kann. Außerdem wird die Unterscheidung für 
+verschiedene Zwecke mitunter verschieden getroffen:
+
+a) nach Jesow. Das Verb verlangt *zwingend* nach einem Objekt oder einem 
+   Adverbial, z.B. gedenken +G-Obj, helfen +D-Obj, sagen +A-Obj, 
+   interessieren +A-Obj +für... Dann gehört das Objekt (Präpositional- 
+   oder auch nicht) direkter zum Verb als wenn man es dazusetzen oder 
+   weglassen kann.
+
+b) nach der Bedeutung des Zusatzes im Ausdruck. Das kann man testen, indem 
+   man versucht, nach einem anderen Verb zu fragen.
+
+   Er liest in der Küche Zeitung. Was tut er in der Küche?
+   Er bewahrt die Butter im Kühlschrank auf. Was tut er im Kühlschrank?
+
+   Im ersten Fall gehts, im zweiten nicht, weil dort die adverbiale 
+   Bestimmung unmittelbar zum Verb gehört.
+
+c) nach Satzstellung. Ein Zusatz, der zum Verb gehört, steht zwingend am 
+   Ende des Satzes.
+
+   Er liest in der Küche die Zeitung.
+   Er liest die Zeitung in der Küche. (anderer Fokus, aber auch möglich)
+
+   Er liest in der Küche Zeitung.
+   Er liest Zeitung in der Küche. (sehr holprig bis unmöglich)
+
+   "die Zeitung" ist also normales Objekt; "Zeitung" ist Bestandteil des 
+   Verbs, der nur aus einer orthografischen Konvention heraus getrennt 
+   geschrieben wird.
+
+Dummerweise stimmen die drei Kriterien nicht immer überein. Müsste ich eine
+Grammatik schreiben, würde ich (a) für syntaktisch weniger wichtig halten als
+die anderen -- es ist eine Frage des Lexikons und nicht des Satzbaus.
+(b) und (c) werden sehr oft übereinstimmen, wenigstens in der Richtung, dass
+eine Phrase, die nach (b) zum Verb gehört, ziemlich regelmäßig ans Satzende
+verfrachtet wird.
+
+-- 
+Vittorio Schlichting

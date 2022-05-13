@@ -1,0 +1,5 @@
+Man kann die Gleichmächtigkeit zweier Mengen zeigen, ohne auf einen 
+Begriff der "Mächtigkeit" zu rekurrieren. Z.B. indem man eine Bijektion 
+angibt.
+
+Torsten

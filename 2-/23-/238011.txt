@@ -1,0 +1,29 @@
+* Caroline Webermeier:
+
+
+Für den Hausgebrauch sollte man tatsächlich ME statt 2000
+einsetzen, denn die vorgesehene Upgrade-Linie ist m.W.:
+
+95 -> 98 ->  ME  -> XP home -> ...
+      NT -> 2000 -> XP pro  -> ...
+
+Und dann kommt das schon eher hin. 
+
+Aber so schlimm finde ich weder Vista noch 8. Das sind halt
+Produkte, die größere Änderungen im Aussehen oder der Bedienung
+einführen, die meisten Leute reagieren schon darauf alleine
+negativ. Die jeweils nächste Version hat dann einiges an Bugs oder
+Ineffizienzen nicht mehr, die bei den neuen Features regelmäßig
+auftreten, behält aber die neue Bedienung bei, die dann
+interessanterweise kein so fundamentales Hindernis mehr zu sein
+scheint. Anscheinend brauchen die meisten Leute einfach zwei
+Jahre, um sowas zu akzeptieren - oder erschöpft aufzugeben? Viele
+haben jedenfalls längst vergessen, wie entrüstet sie einst das
+"Klicki-bunti" von Ogeb abgelehnt haben, denn das gilt ja inzwischen
+als "gute" Version.
+
+-- 
+Nicola: Uncle Francisco ... why do they call this a word processor?
+Francisco:  It's simple, Olaf ... you've seen what food processors
+do to food, right?
+  Cartoon by Kay Herten

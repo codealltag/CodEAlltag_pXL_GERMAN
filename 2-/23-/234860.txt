@@ -1,0 +1,11 @@
+Mein – sollte ein N-DASH sein, also schmaler als der M-DASH. Wenn nicht,
+ist hier was kaputt. Dummerweise unterscheidet mein Lieblingsfont
+optisch nicht zwischen N- und M-Dash.
+
+Was man nun für den Gedankenstrich nimmt, da finde ich leider
+unterschiedliche Beschreibungen im Netz: Die einen schreiben den N-DASH
+vor, die anderen den breiteren M-DASH (den ich schrecklich finde). Meist
+wird der M-DASH für den Gebrauch im Englischen erwähnt, und zwar – wie
+Du schreibst – ohne Abstand zu den Wörtern. Ich glaube mich aber zu
+entsinnen, hier in der Gruppe kürzlich gelesen zu haben, dass
+US-Zeitungen einen Abstand setzen.

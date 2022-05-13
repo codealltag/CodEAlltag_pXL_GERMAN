@@ -1,0 +1,7 @@
+Schönes Beispiel: sie haben sehr ähnlichen semantischen Inhalt ("jetzt 
+habe ich es plötzlich verstanden") aber durchaus verschiedenen 
+pragmatischen ("wieder was gelernt" vs. "anders als ich bisher dachte").
+Reicht das dann für Synonyme?
+
+-- 
+Leander Dausacker

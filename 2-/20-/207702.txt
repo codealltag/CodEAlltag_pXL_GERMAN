@@ -1,0 +1,18 @@
+Ein anderes Beispiel ist die in der Softwareentwicklung beliebte 
+Energieeinheit "milestone", also das Produkt von
+
+  1 mile  = 1609 m
+  1 stone = 6.35 kg · g = 62.29 N
+
+also
+
+  1 milestone = 100 kJ
+
+Damit wird die Erhöhung des Energieverbrauchs der Softwareentwickler durch 
+Programmierarbeiten gemessen.
+
+(Die Herleitung stammt nicht von mir, aber ich finde die Originalarbeit 
+nicht mehr.)
+
+-- 
+Gerard Ueberdieck

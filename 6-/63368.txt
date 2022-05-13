@@ -1,0 +1,16 @@
+Das Analogon zu Deiner Aussage ist, daß ein 50$-Schein etwas fundamental
+anderes ist als die äquivalente Geldmenge in ELEA-Münzen, weil nur letztere
+von einem bestimmten Getränke-Automaten akzeptiert werden.  Das magst Du
+gerne glauben, aber es stimmt einfach nicht (und zwar unabhängig davon,
+ob es auch Automaten gibt, die problemlos 50$-Scheine akzeptieren).
+
+
+Wer redet denn von Turing-Vollständigkeit?  Ich sagte, der Mensch sei
+die "ultimative" Turing-Maschine, und der Turing-Test dient dazu, zu
+überprüfen, inwieweit "normale" Turing-Maschinen schon mit dem Menschen
+mithalten können.  Sollte jemals eine Turing-Maschine den Test bestehen,
+darf man allerdings maSgW davon ausgehen, daß sie auch Turing-vollständig
+sein wird.  ;-)
+
+
+wilhelm

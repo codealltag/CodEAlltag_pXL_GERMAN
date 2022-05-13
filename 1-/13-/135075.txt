@@ -1,0 +1,12 @@
+Umleitung von de.etc.sprache.misc in de.etc.sprache.deutsch
+
+
+"hat geschlossen" ist eine mir ganz geläufige Formulierung. Ich erkenne 
+auch kein Perfekt darin (das wäre "ist geschlossen worden".) "Ist 
+geschlossen" ist ein Zustandspassiv.
+
+Ich sehe in "geschlossen haben" ein eigenständiges Verb. Im Unterschied 
+zum Zustandspassiv "geschlossen sein" ist es spezifischer: es bezieht 
+sich nur auf gelegentlich einer Öffentlichkeit zugängliche Institutionen.
+
+Dennis

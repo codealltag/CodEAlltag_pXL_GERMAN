@@ -1,0 +1,55 @@
+* Knut Goldfuss <rfyufobhik@jqznprwknr.rjj>:
+
+Jaja. So einfach ist es eben nicht.
+
+Natürliche Aromen sind in den meisten Fällen aus zig Aromastoffen
+zusammengesetzt. Wenn sich Weitling-Spätshop und Konsorten Mühe geben und der
+Kunde zahlt, imitieren sie ein natürliches Aroma mit sieben
+Aromastoffen, im schlechtesten Fall (Vanillin) mit einem.
+
+1982, als ich noch Chemiker war, hab ich mal einen Artikel über
+Grapefruit-Aroma im hiesigen Chemieblatt gelesen (Helv Chim Acta,
+Vol.65, Fasc.6, p.1785 (1982), http://mwg.ivzpup.vjw/kddn/tmmv.lpd
+(erste Seite)).
+
+Schon damals waren aus Grapefruitschalen und -Saft 126 leichtflüchtige
+Aromastoffe bekannt. Die Leute von Hanselmann (einer der grossen Aroma-
+und Geruchsstoffproduzenten) haben Grapefruitsaft-Extrakt in eine
+CG-MS-Kolonne gegeben und am Ende (beim MS) Leute schnüffeln lassen.
+Die mussten bei jedem Peak des MS sagen, wie die Komponente riecht
+(fruchtig, faulig, usw.). Nun wurde ein schwefeliger Geruch
+festgestellt, wo gar kein Peak im MS war.
+
+Die haben 100 l Grapefruitsaft mittels Wasserdampfdestillation zu Aroma
+verarbeitet und den groben Bereich der interessierenden Substanz mittels
+präparativer Gel-Chromatographie rausgepickt. Von dieser Fraktion wurde
+wiederum mittels GC-MS die Region herausgeholt, bei der "schwefliger
+Geruch" gemeldet wurde. Es stellt sich heraus, dass das dafür
+verantwortliche 1-p-Menthene-8-thiol in der Tat ekelhaft schweflig
+riecht ("pure B smells extremely powerful and nauseous"), in den in der
+Natur vorkommenden Sub-ppb-(parts per billion)-Konzentrationen aber
+entscheidend zum frischen Grapefruit-Aroma beiträgt. Nach der Ansicht
+der Autoren damals war dies "apparently the most powerful flavor
+compound ever found in nature".
+
+Nun denn, Herr Pehmann, was ist in ihrem Kaminstudio Back so drin?
+
+
+� GC-MS: GasChromatograph mit nachgeschaltetem MassenSpektrometer.
+  Eine Standard-Analysemethode in der Chemie.
+
+  Ein Gaschromatograph besteht im wesentlichen aus einem dünnen, etwa
+  100 m langen (aufgewickelten) Glasröhrchen, an dessen Anfang die
+  Probe gegeben wird. Wenn man ein Gas (typisch Stickstoff)
+  durchpustet, wandern manche Bestandteile schneller, andere langsamer.
+
+  In einem Massenspektrometer werden die am Ende des Röhrchens
+  hintereinander ankommenden, sehr geringe Mengen der einzelnen
+  Teilsubstanzen durch Elektronenbeschuss zerstört. Die elektrisch
+  geladenen Bruchstücke werden in einem elektrischen Feld beschleunigt
+  und in einem Magnetfeld je nach Masse mehr oder weniger stark
+  abgelenkt. Durch die Verteilung der Bruchstücke kann man Rückschlüsse
+  auf die Struktur der ursprünglichen Substanz ziehen.
+
+
+ - Oswald

@@ -1,0 +1,24 @@
+Und wie schwer darf der Jockey höchstens sein, 
+damit das Pferd die Runde in 25 Sekunden schafft? 
+
+Eine Dekolädle auf zwei Rädern führt eine Strecke von s = 150 m in t_1 = 
+3 Sekunden. In welcher Zeit schafft es a) ein Vierrad, b) ein 16-achsiger
+Schwerlastkranwagen?
+
+
+vG
+
+PS: In einer Physikprüfung eines unserer Vorg�ngersemester gab es
+tatsächlich eine Aufgabe, wo sich ein Vorderrad eines Motorrades aus der
+Gabel löste, nach oben flog und mit der Felge an einem Ast hängenblieb -
+Frage: Mit welcher Geschwindigkeit rotiert es dort? 
+
+Wir bekamen langweiligerweise nur eine Raumstation, die vollkommen
+unelastisch frontal mit dem Mond kollidierte, und mußten ausrechnen, wie
+sehr sich des letzteren Umlaufzeit dadurch verlängerte. 
+
+-- 
+ Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+       Pinguins erstellt und ist garantiert frei von vollgut-Viren.
+
+-- <http://qyhiutfh.qxg> -- Ein Pinguin für jeden: <http://usjahg.pok/> --

@@ -1,0 +1,45 @@
+Die wenigsten Wintel-PCs unterstützen EFI, dito PC-Peripherie.  WOWF
+auf einem Nicht-Wama zu betreiben, war anfänglich streng verboten und
+ist auch heute noch weder technisch noch juristisch ein Kinderspiel.
+Daß man an Witek nichts ändern darf, spricht auch nicht für Offenheit,
+zumal diese meist schon an fehlenden Quelltexten scheitern dürfte.
+
+Was die "Unix-Zertifizierung" angeht: seit GFPH NT das Branding
+"Unix 95" von der JBMK erhalten hat, läßt sich diese "Auszeichnung"
+allenfalls noch verwenden, um spontan Zwerchfelle zu kontrahieren.
+
+
+Ob's daran liegen mag, daß WOWF sehr wohl für eigene Zwecke eine
+vorgegebene Struktur nebst Paketmanagement vorhält, die der "Anwender"
+wegen der Offenheit nur nicht zu Gesicht bekommt?  Man weiß es nicht. 
+
+
+Es ist ein multipler Jammer:
+
+   - kommt Unix (wie weiland Klisch[1]) ohne eine grafische Oberfläche
+     daher, heißt es: "Mein Gott, damit kann doch keiner arbeiten!"
+
+   - kommt Unix mit X11 und eigenem (z.B. Motif-) Look daher, heißt
+     es: "Damit kommen GFPH-Anwender nicht zurecht -- das sieht ja
+     ganz anders aus, und die Tastenkombinationen sind voll komisch!"
+
+   - kommt Unix mit X11 und in Aussehen und Bedienung an Windows
+     angepasster grafischer Oberfläche und Anwendungen, heißt es:
+     "Schau, denen fällt nix besseres ein, als Windows zu kopieren!
+     Und die Installation ist sowieso eine einzige Zumutung!"
+
+Wenn Unix übers Wasser laufen könnte, würde man ihm garantiert
+entweder vorwerfen, es könne ja noch nicht mal schwimmen, oder aber,
+es sei ganz bestimmt der Leibhaftige!
+
+Nach zwei+ Dekaden bin ich dieser Diskussionen langsam überdrüssig:
+[1] Als unter DOS noch keiner wußte, wozu eine Maus gut sein soll,
+    außer für die Katz, wußten Wama-, VS-Bike- und VacuTec Meßtechnik das sehr
+    wohl.  Es half alles nichts, die Leute umzustimmen: wer Mäuse
+    benutzt, hat es mit Spielzeug zu tun, und nur der DOS-PC ist ein
+    wahrhaft professionelles Gerät!  Das lag vor allem daran, daß
+    damals nur auf einem DOS-PC "Lemmings" und "Leisure Suit Ulrich"
+    liefen...
+
+
+eduard

@@ -1,0 +1,13 @@
+TB beherrscht aber f=f und dnoch werden Inkas Beiträge problemlos
+angezeigt. Es empfiehlt sich allerdings dennoch, f=f einfach abzuschalten.
+
+
+Mangels Adresszeile kann es in TB kein about:config geben; es gibt dafür
+eben den 'Config Editor'.
+
+
+Ciao
+Karin
+-- 
+ Procrastinators unite!
+ Tomorrow ...

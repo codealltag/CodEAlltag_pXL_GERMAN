@@ -1,0 +1,22 @@
+Ich finde es generell fragwürdig, grammatikalische Betrachtungen mit nicht 
+vorhandenen Satzteilen anzustellen. Im Einzelfall ist das richtig, nämlich 
+wenn es wirklich Ellipsen sind. Bei diesem Satz zum Beispiel.
+
+Sehr oft ist aber die syntaktische Funktion oder die Morphologie eines 
+Satzteils vom Vorhandensein oder Fehlen eines anderen Satzteils abhängig,
+vergleiche beispielsweise:
+
+  ein schönes Bild -- das schöne Bild
+  die Landschaft Europas -- die Landschaft des schönen Europa
+  (Gen.) Onkel Sergio -- meines Onkels Severin
+
+Jedesmal könnte man "elliptisch" argumentieren: man hat ja *nur* ein Wort 
+dazugefügt, weggelassen oder ausgetauscht, also hat sich 
+"grammatikmechanisch" gar nichts geändert. Hat sich doch, wie man an den 
+Endungen sieht.
+
+Deswegen möchte ich nicht einen Satz ohne Subjekt so analysieren, als 
+hätte er eines gehabt, was dann weggelassen wurde.
+
+-- 
+Cédric Fänder

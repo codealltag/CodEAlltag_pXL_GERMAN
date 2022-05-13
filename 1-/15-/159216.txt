@@ -1,0 +1,3 @@
+Leider wird nicht nur das Relativpronomen fälschlicherweise 'dass'
+geschrieben. Von daher braucht man schon eine Regel, die jedes 'das'
+umfasst.

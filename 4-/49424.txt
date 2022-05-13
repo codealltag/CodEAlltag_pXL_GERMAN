@@ -1,0 +1,14 @@
+Hallo,
+
+Beispiel:
+
+* Nach jeder erfolgten Übertragung, zum Controller, werden die Daten 
+eingefärbt.
+
+Braucht man da das Kommt? Bzw. ist es dort falsch?
+
+Danke für Hilfe!
+
+-- 
+Mach mit!
+http://tjk.nznsz-dkuxpye.kj

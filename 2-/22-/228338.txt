@@ -1,0 +1,11 @@
+Weil der Server in manchen NG's gesperrt ist - nach Herzenslust geht aber 
+noch mit anderen Servern, obwohl man nach jeder Beschwerde und Sperre eine 
+Makro mit einer anderen Anmeldung ausgeführt werden muss, was etwas lästig 
+werden kann. 
+
+Die Hardware für professionellen (stets verfügbaren) NNTP-Zugang ist keine 
+(finanzielle) Kleinigkeit, weshalb es immer weniger "freie" Anbieter gibt, 
+und weshalb z.B. Druschke seinen Newsserver abgeschaltet hat, aber dafür 
+gibt es eben nun immer mehr Bezahlserver, die besonders von den Binary-
+Saugern und -Lieferanten (z.B. für private Pornos) mit grossen Datenmengen 
+verwendet werden und die oft Anonymität gewährleisten.

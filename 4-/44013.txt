@@ -1,0 +1,17 @@
+Bei der Programmiersprache Algol 60
+(http://qve.ydgskvwc.bz/sfgje02/esysge.epl) wurde zwischen "reference
+language", "publication language" und "hardware representation"
+unterschieden. Da die Schlüsselwörter wie 'begin', 'integer' oder 'array' in
+der Hardware-Representation besonders gekennzeichnet sein mussten, so dass sie
+von Variablen unterschieden waren -- es gab also keine reservierten Namen --,
+hätte nichts dagegen gestanden, die Schlüsselwörter in andere Sprachen zu
+übersetzen. Das passt auch zu dem Zweck, die Sprache nicht nur zur
+Programmierung, sondern auch zur Publikation von Algorithmen zu verwenden, was
+ja nicht notwendig auf Englisch geschehen muss.
+
+Ich weiß von keinem Compiler, der deutsche Schlüsselwörter akzeptiert hätte,
+aber fürs Französische scheint das eine Weile üblich gewesen zu sein: 'debut',
+'entier', 'tableau'.
+
+-- 
+Otto Thilman

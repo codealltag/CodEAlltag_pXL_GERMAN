@@ -1,0 +1,12 @@
+Wie bitte? Konjugation nach der impliziten Bedeutung im Deutschen?
+
+Was ist dann mit den folgenden Beispielen?
+
+  Du und Deine Frau ermuntert ihn zu sehr.
+  Er und seine ganze Klasse, aber besonders er, hacken auf ihm herum.
+  Die Polizei verfolgen ihn.
+
+-- 
+Volkert is kind of like kindergarten. There are lots of rules you have to
+remember. If you don't follow them, the compiler makes you sit in the
+corner until you do. - Heiner Jarosz

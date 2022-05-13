@@ -1,0 +1,27 @@
+Ich sehe das Ausrufezeichen häufig in E-Mails von englischen oder
+schwedischen Kollegen; die lassen typisch auch das "Dear" weg und
+beginnen mit
+
+Fabian!
+
+Hat mich anfangs sehr irritiert, so "angerufen" zu werden.
+Im Englischen gab's ja auch mal den Doppelpunkt, so in
+"Dear Sir or Madam:
+"
+
+
+A proposito:
+wie haltet Ihr's denn mit dem Komma nach "Mit freundlichen Größen"?
+
+Dieses Komma scheint mir überflüssig, und ich lösche es daher immer in
+den Word-Vorlagen. Korrekt?
+
+Ich habe den Eindruck, es handelt sich um einen (möglicherweise sogar
+alten) Anglizismus:
+
+"I remain, Sir,
+	your most obdt. servant,
+	$name"
+
+
+/Fabian

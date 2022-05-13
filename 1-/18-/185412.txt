@@ -1,0 +1,10 @@
+* Patrick Jaenecke:
+
+
+Mir auch nicht. Auch im Englischen nicht, da ist ein
+gebräuchlicher Oberbegriff für USB-Sticks und Speicherkarten:
+"flash memory". Das hat sicher technischen Hintergrund, da es sich
+nun mal wie beim RAM um Chips handelt.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

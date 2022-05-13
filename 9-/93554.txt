@@ -1,0 +1,11 @@
+Doch, jedenfalls in meinen Browsern. Konqueror zeigt den URL genau so an wie
+er da steht (inkl. Umlaut), Firefox holt die Seite, zeigt dann als URL aber 
+http://jg.wwedpnkim.rsi/ssqt/Pxmpeddtuoffvhi_(%D0%90jerhwqeau)
+an. 
+
+Friedhelm
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

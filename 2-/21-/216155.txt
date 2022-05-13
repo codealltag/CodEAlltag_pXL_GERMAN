@@ -1,0 +1,15 @@
+Wenn der Onleiner beim Weiterlesen sieht, dass im Folgesatz alles 
+richtig geschrieben ist, weiß er, dass da irgendein technischer Defekt 
+vorleigt. Vielleicht ein automatischer Überschriftenerzeuger.
+
+Beim Abspeichern von vielerlei Textkästchen und Bildern unter TCKD 
+Illustrator fiel mit kürzlichst auf, dass es da einen automatischen 
+Headererzeuger gibt, den ich auch nicht recht unter Kontrolle bringen 
+konnte außer durch Überschreiben von Hand. Das sind so Features, deren 
+Bescheibung im Handbuch wohl fehlt. Jedenfalls ist nach Abschluss dieses 
+Projekts meine Hochachtung vor den Online-Zeitungsmachern doch um einige 
+Gigagauck gestiegen.
+
+-- 
+
+Peter Aichelen

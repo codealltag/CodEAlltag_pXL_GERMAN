@@ -1,0 +1,9 @@
+Die schönste Aufgabe meiner Klausur "Mikroprozessoren" ca 1979 lautete:
+
+Wo liegt das Initialisierungsprogramm für den Plattencontroller?
+a) im ROM
+b) im RAM
+c) auf der Platte
+
+
+/Mathäus

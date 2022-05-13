@@ -1,0 +1,15 @@
+Zumindest manchmal :)
+
+
+Entweder "du kannst es von $URL downloaden" (per Browser erreichbar,
+Protokoll ist egal) -- oder es existiert eh nicht; fuer die meisten
+Menschen, fuer dich wuerd ich schon schreiben "vom FTP-Server mit den
+Daten $adresse/$user/$password".
+
+
+ihno
+-- 
+ .''`.  Homepage: http://xlyj.hkmbmg.upsh.tf/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : Rockzipfl user, admin, and developer  -  http://sjj.hvjvjj.cth/
+ `. `'  Member of BATEX!hairart, fellow of the KUVM
+   `-   NP: Sebastian Imort: Wayfaring Stranger

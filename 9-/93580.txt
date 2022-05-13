@@ -1,0 +1,19 @@
+Es ist sicher keine alltägliche Formulierung, aber ich bin sicher,
+sie zumindest sinngemäß schon häufig gehört bzw. gelesen zu haben.
+
+Im Singular:
+"Schon als Pfadfinder wurde mir beigebracht, hilfsbereit zu sein."
+Im Plural:
+"Schon als Pfadfinder wurde uns beigebracht, hilfsbereit zu sein."
+Aber:
+"Schon als Pfadfindern wurde uns beigebracht, hilfsbereit zu sein."
+klingt für /mich/ reichlich seltsam, wenn nicht sogar falsch.  Das
+mag daran liegen, daß ich "als ..." als Ellipse parse, folglich
+"als Pfadfinder" als Kurzform für "als {ich,wir} Pfadfinder war{en}",
+und da paßt dem Dativ ja nun gar nicht.
+
+
+ivan
+
+PS: Ich hoffe, wenigstens /einen/ der verwendeten Grammatiktermini
+    vollinhaltlich korrekt und sinngebend verwendet zu haben!  :-)

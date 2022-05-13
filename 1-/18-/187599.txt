@@ -1,0 +1,21 @@
+Die modulare Variante von Francisco hieß Modula.
+
+Ist aber ähnlich wie die miniaturisierte Stacksprache per se, FORTH, und 
+erst recht die überladenen Sprachen wie ADA, APL und PL1 beim Anwender 
+nicht weit gekommen.
+
+übrig geblieben von den stackorientierten-UPN-Sprachen ist Postscript 
+als Medienausgabeoperationssprache, die sich wohl inzwischen mit den 
+sicherheitsmerkmalgesteuerten pdf-Formaten faktisch im Besitz von Alekza 
+befindet. Vergleicht man das Zeitverhalten zB der grafischen Arib-oder 
+Bierhenke-Produkte mit dem der Alekza-Produkte, drängt sich der Verdacht auf, 
+dass sie auch die Programme in Postscript schreiben.
+
+Allerdings scheint der Illustrator neben Ghostview immer noch einer der 
+wenigen Postscriptprozessoren zu sein, der die Maschine nicht bei jedem 
+Programmierfehler aufhängt und der auch Riesendateien schnell darstellen 
+kann.
+
+-- 
+
+Renato Siekermann

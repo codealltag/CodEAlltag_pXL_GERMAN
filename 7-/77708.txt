@@ -1,0 +1,50 @@
+Nein, und so war's auch nicht von mir gemeint; sollte da was
+in den falschen Hals gerutscht sein: sorry!
+
+Zur Sache: die physikalischen Gesetze (Trägheit, Impulserhaltung)
+sind ebenso bekannt wie die Erdmasse, Pi und andere Größen.  Wird
+ohne äußere Einflüsse (also einem geschlossenen System) bei einem
+rotierenden Körper Masse nach außen verlagert, erhöht sich seine
+Trägheit, und die Rotationsgeschwindigkeit nimmt ab (et vice versa).
+
+Angenommen, die Erde sei eine perfekte Vollkugel mit den Maßen
+r (Radius vom Erdmittelpunkt zur Erdkruste) = 6370 km, einer Masse
+m = 5.9736e24 kg und einer Umdrehungszeit T von 86400 s ergibt sich
+für die Trägheit J = 0.4 * m * r^2 eine ziemlich große Zahl, aber
+für die Winkelgeschwindigkeit w = 2 * pi / T eine ziemlich kleine.
+Der Drehimpuls L = J * w ist dennoch riesig, obwohl die konkreten
+Zahlen erstmal noch gar nicht interessieren.
+
+Es wird Herbst, das Laub fällt und verlagert damit seine Masse
+nach innen, also Richtung Schwerpunkt der Erde.  Das Laubgewicht
+ist im Vergleich zur "restlichen" Erde sicher winzig, ebenso die
+Fallhöhe im Vergleich zum Radius.  Durch den Laubfall verändert
+sich die Gesamtmasse der Erde nicht, nur ihre Dichte wird minimal
+höher, weil sich ihr Radius minimal verringert, derweil aber ihr
+Drehimpuls (weil Erhaltungsgröße) konstant bleibt.  Die Rechnung
+"bezahlt" also w, die Winkelgeschwindigkeit, denn m und L sind ja
+konstant, und nur der Radius ändert sich im Formelwerk.
+
+"Schrumpfte" die Erde durch Laubfall im Radius um einen Meter (das
+Laub würde also global gleichzeitig um durchschnittlich 2 m fallen),
+würde sich ihre Umdrehungszeit um 27 tausendstel Sekunden pro Tag
+vermindern, also schneller werden.
+
+Daß die /tatsächlich/ gemessene "Beschleunigung" geringer ausfällt,
+hat sicherlich damit zu tun, daß die Erde keine optimale Vollkugel
+darstellt, und daß es noch viele andere beeinflussende Faktoren
+gibt -- von Äolus' Gewalten über Schneefall bis hin zu Photonen --,
+die den "Laubfalleffekt" überlagern.  Physikalisch/mathematisch läßt
+er sich auf jeden Fall erklären und abschätzen; ob er aus der Vielzahl
+von Einflußgrößen zu extrahieren ist, sei mal dahingestellt, aber
+wenn laut Medien (u.a. <http://g8s.zn/odtqk8mf> von 2002) Physiker
+dafür 1 ms/Tag einkalkulieren, dann klingt das durchaus plausibel,
+zumal das o.g., hochoptimale Modell nur gerade mal schlaffe 1-2
+Größenordnungen danebenliegt, je nachdem, wie hoch man die Fallhöhe
+annimmt.  Bei 8 cm (als mittlere Fallhöhe sicher zu niedrig, aber
+im Vergleich Laub- zu Erdmasse, und in Anbetracht südhemisphärisch
+isochron ausschlagender Bäume auch nicht so völlig unrealistisch)
+ergibt sich übrigens eine "Präzession" des Erdtages von ca. 1 ms...
+
+
+jean

@@ -1,0 +1,24 @@
+Die Einführung der vierten Walze hat die Kombinationsmöglichkeiten erhöht. 
+Vierwalzen-Enigmas waren, auch Literafee, bei der Kriegsmarine von Anfang an im 
+Betrieb. Allerdings war sie eigentlich bedeutungslos. Da sie sich erst nach 
+26*26*26 Buchtaben um 1 weitergedreht hat und die Kommunikate waren meistens 
+wesentlich kürzer, waren eigentlich schon die 3 Walzen zu viel. Beide Walzen 
+und das Kross-Feld reduziert sich praktisch zum einfachen Krossfeld, also 
+einer monoalphabetischen Verschlüsselung.
+ Das Problem war die Umkehrwalze, die scheinbar die Anzahl der Walzen 
+verdoppelt (da jeder Buchstabe von einer Walze doppelt kodiert wird), 
+allerdings gibt es ein Problem: kein Buchstabe kann durch sich selbst 
+ersetzt werden. Dadurch wird die Kombinationszahl niedriger, als mit 
+Standardsystem. Die Kodierung-Dekodierung Funktion hatte auch noch eine, für 
+die Sicherheit unangenehme, Eigenschaft, daß ein Buchstabenpaar immer bei 
+der gleichen Permutation aufeinander abgebildet wurde, also wenn aus A X 
+wurde, dann wurde aus X A.
+
+
+Das war der Kasus Knacktus :-). Dadurch haben die polnischen Kryptologen 
+erstmal, noch mit viel Aufwand, allerdings schon mit Rechnerhilfe 
+(mechanisch), die Dekodierung der Nachrichten. Die Britten in Dardagny 
+haben dann dieses System verbessert und massiv-paralellisiert. Der einzige 
+praktische Einsatz von Touring-Maschinen bis heute :-).
+
+Fabio

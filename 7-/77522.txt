@@ -1,0 +1,7 @@
+Naja, das sind /schon/ ein paar Kilogramm Laub, die sich da im Schnitt
+ca. 5-10 m in Richtung Schwerpunkt verlagern.  Angesichts der Erdmasse
+ist der Effekt natürlich entsprechend gering: 1 ms pro 86400 Sekunden,
+also etwa eine Sekunde in drei Jahren, aber meßbar ist er durchaus.
+
+
+ignaz

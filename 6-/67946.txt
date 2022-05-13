@@ -1,0 +1,11 @@
+Die zusätzliche Regel lautet, dass es auf den folgenden Vokal nicht 
+ankommt, sondern nur auf den ersten Vokal. "zwischen Kurzvokal und Vokal" 
+ist also zu ersetzen durch "nach Kurzvokal".
+
+Besser ist es allerdings, den Passus "zwischen Kurzvokal und Vokal" zu 
+ersetzen durch "zwischen Kurzvokal und Vokal, wobei es jedoch auf den 
+zweiten Vokal nicht ankommt", um dem Charakter einer *zusätzlichen* Regel 
+gerecht zu werden.
+
+-- 
+Francisco Vriesen

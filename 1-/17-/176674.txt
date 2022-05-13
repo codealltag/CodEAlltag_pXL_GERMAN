@@ -1,0 +1,6 @@
+Vier gleichzeitig gedrückte Tasten sollte jede Tastatur richtig
+erkennen. Bei "Gaming"-Tastaturen wird gelegentlich mit der Anzahl der
+erkennbaren gleichzeitig gedrückten Tasten Werbung gemacht, offenbar
+braucht man für manche Spiele "Akkorde".
+
+	hp

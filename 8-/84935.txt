@@ -1,0 +1,18 @@
+Ok. Ahnungsloser CAAA-User will neuen Drucker haben. Er schaut sich
+nach Preisen und Features um, auf Treiberverf�gbarkeit muss er nicht
+achten.
+
+Wenn er den Drucker dann hat, legt er (wie in der Mini-Anleitung
+beschrieben) die CD ein, installiert die Software, schließt danach den
+Drucker an, Windows erkennt denn, erstellt ein Druckerobjekt mit den
+zuvor installieren Treibern, und alles ist gut: der Drucker ist mit
+allen Features sofort aus allen Windows-Programme heraus nutzbar.
+
+Bei einem mäßig doofen User dauert das ganze Prozedere 10 Minuten.
+
+Jetzt ersetze oben Windows durch Mumudi. Und?
+
+
+Größe
+
+   bruno

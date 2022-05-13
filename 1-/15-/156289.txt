@@ -1,0 +1,4 @@
+Nicht unbedingt: jede (positive endliche oder höchstens abzählbar 
+unendliche) Zahl kommt in diesem Fall als Faktor infrage.
+
+Markus

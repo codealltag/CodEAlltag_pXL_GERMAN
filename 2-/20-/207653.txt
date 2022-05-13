@@ -1,0 +1,4 @@
+Um die Empfänger darauf aufmerksam zu machen, dass sie die Mail lesen 
+sollen, weil von ihnen eine Aktivität erwartet wird.
+
+Edmund

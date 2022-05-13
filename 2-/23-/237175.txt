@@ -1,0 +1,46 @@
+Thunderbird kann die 3 Panes (Frames, Subfenster wie immer Du die nennen
+willst) auf 3 Arten anordnen:
+
+ Classic View:
+
+    +----+---------------------------+
+    +----+---------------------------+
+
+ Wide View:
+
+    +----+---------------------------+
+    +--------------------------------+
+    +--------------------------------+
+
+ Vertical View:
+
+    +----+----------------+----------+
+    +----+----------------+----------+
+
+Nur im Vertical View kann Message Content schmaler sein als Message
+List. Message List besteht aber aus mehreren Spalten, deren breiteste
+(Subject inkl. Threadbaum) allein schon breiter sein muss als für die
+lesbare Darstellung von Fließtext sinnvoll ist. Daher hat man bei den
+beiden anderen Views nur die Wahl zwischen unlesbarem Text und
+unlesbarer Thread-Darstellung, wenn beim Umbruch die gesamte Breite von
+Message Content ausgenützt wird.
+
+(Vertical View ist ok, aber nur auf genügend breiten Bildschirmen
+brauchbar)
+
+
+Logisch und lesbar ist nicht das gleiche. Von einem MUA, der
+format=flowed zu beherrschen vorgibt, erwarte ich, dass er mir den Text
+lesbar formatiert.
+
+
+Du denkst nicht weit genug. Wenn der Benutzer die gewünschte Zeilenlänge
+einstellen kann (mit einem sinnvollen Default), dann ist es keine
+Bevormundung. Als Bevormundung empfinde ich eher das, was Thunderbird
+macht.
+
+	hp
+
+
+-- 
+   _  | Ivano R. Niebauer    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,4 @@
+Umgekehrt geben manche Leute den Energiebedarf
+elektrischer Verbraucher in Watt pro Stunde an.
+
+U.

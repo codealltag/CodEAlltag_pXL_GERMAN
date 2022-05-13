@@ -1,0 +1,7 @@
+ISO-8859-1 enthält nichts dergleichen. Dein Newsreader weiß das
+anscheinend und hat daher utf-8 gesendet.
+
+-- 
+Eckhard C.
+45n31, 73w34
+Temperature: -13.6°C (5:00 PM EST Monday 04. 07. 22)

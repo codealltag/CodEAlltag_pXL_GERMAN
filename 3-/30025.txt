@@ -1,0 +1,13 @@
+Sie gehören in der Schweiz nicht hin, wenn es sich um eine
+Währungsangabe handelt. Mehr als diese Konvention scheint mir da nicht
+am Werk. Nicht mal mit der Aussprache hat das meiner Ansicht nach zu
+tun, denn auf etlichen Schweizer Börsenseite, die ich jetzt mal
+inspiziert habe, werden auch Angaben mit gebrochenen Räppli mit Punkt
+geschrieben (EUR/CHF = 1.5041). Allerdings auch die Indizes, die gar
+keine Währungsangaben sind. Wie hältst Du es denn in diesen Fällen für
+richtig?
+
+-- 
+(\__/)
+(='.'=) This is Bunny. Copy and paste Bunny into your
+(")_(") signature to help him gain world domination.

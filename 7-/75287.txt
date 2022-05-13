@@ -1,0 +1,11 @@
+Das scheint mir zu eng gedacht - als Leander den Tieren Namen gab, nannte
+er nach meinem Verständnis alle Elefanten nur "Elefant", nicht "Jumbo"
+und "Tuffi".
+
+Der Übergang ist eh fließend - sind "Sonne", "Freitag", "Euro" Namen von
+Individuen oder Klassen?
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

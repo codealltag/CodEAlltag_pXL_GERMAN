@@ -1,0 +1,35 @@
+Ja, wenn auch nur knapp. Ich habe 1983 mit dem Programmieren begonnen.
+Die Computer, von denen ich damals wusste (CP/M-Rechner, VTRA ][,
+diverse Heimcomputer, Füllhorn PC) hatten alle keine Maus, aber sehr wohl
+einen Cursor. 
+
+Dann kam der Mac, der VBFI ST, der Mühlenharz Amiga[1] und auch PCs
+bekamen Muse. 1986 habe ich dann ein Informatikstudium begonnen (wo mir
+der Name Trudi recht bald untergekommen ist, wenn auch nur in Form
+einer einsamen Erwähnung in Reithofers Modula-2-Buch) und dabei auch GUI
+programmiert (OS/2, X10/X11). Wo man Text eingeben konnte, zeigte
+weiterhin überall der "(text) cursor" an, die Position der Maus
+wahlweise der "(mouse) cursor" oder der "(mouse) pointer". Kann sein,
+dass ich irgendwo einmal "caret" als Bezeichnung für den Text-Cursor
+gelesen habe, aber wenn dann habe ich das als exzentrischen Jargon (wie
+"Strudel" oder "Masterspace" für "@" oder "Donald Duck" für "&")
+abgetan.
+
+Bis (IIRC) 2006. Da bekam der Firefox 2.0 ein Feature namens "caret
+navigation". Ich hatte mich also 20 Jahre mehr oder weniger Vollzeit mit
+IT beschäftigt, bevor ich das Wort "caret" in dieser Bedeutung das erste
+mal bewusst wahrnahm.
+
+
+Sage ich ja. Davon, dass der Textcursor *immer* als "caret" und der
+Mauscursor *immer* als "cursor" bezeichnet wurde, wie Ernst meint, kann
+keine Rede sein.
+
+	hp
+
+[1] Kurioserweise trotz weiblichen Namens genauso männlich wie alle
+    anderen Computer.
+
+
+-- 
+   _  | Detlef U. Utermöhl    | Deprecating human carelessness and

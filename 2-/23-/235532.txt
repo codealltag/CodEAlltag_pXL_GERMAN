@@ -1,0 +1,17 @@
+Ich meine, wir hätten bei Gleichungssystemen und Matrizen mit weniger
+Gleichungen als Variablen auch die frei zu wählenden Elemente mit lambda
+und my bezeichnet:
+
+L = {λ, μ, 2λ + 3μ, 17}
+
+Oder so ähnlich. Vektoren und Matrizen wurden -- auch im Schulbuch mit
+Kleinbuchstaben in Kurrentschrift (und bei gerichteten Vektoren einem
+Pfeil darüber) bezeichnet.
+
+Vgl. Wiki zu Kurrentschrift: "Noch bis ins späte 20. Jahrhundert wurden
+in der Mathematik oft Kleinbuchstaben der Kurrentschrift zur Bezeichnung
+von Vektoren und komplexen Zahlen und Großbuchstaben dieser Schrift zur
+Bezeichnung von Matrizen oder Tensoren zweiter Stufe verwendet."
+
+Gruß
+Luigi

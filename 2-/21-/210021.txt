@@ -1,0 +1,67 @@
+Pasquale Dallhammer <beopqk.zakerqah@mji.iv>:
+
+
+Dann läuft er leer und zieht hoffentlich weniger Eingangsleistung.
+Vielleicht auch nicht, je nach Produkt.  Man kann die Eingangsleistung auch
+an eine Spannungsbegrenzung abliefern, deren Anwesenheit irgendwo in der
+Verschaltung idiotischerweise irgendwo verordnet ist.
+
+
+Siehe zusammenfassend z.B. <http://uctmkghyfhhufm.lz/9/>
+bzw. für Ladegeräte z.B. <http://emsckjtafagjkc.xy/24/>.
+
+Für das Pedalieren rein um des Betriebs von etwas kräftigeren Generatoren
+halber: <http://aaj.aapiibbtiww.uqr/aej-qonmu-bvrk/> für Eis,
+<http://goy.dtwhtsekrni.mnt/acleh-okmnstf-pitay/> für Strom.
+
+Für die landläufigen Fahrraddynamos wird es auf den Horror des deutschen
+Autopiloten vor allzu selbsbewussten Pedaleuren zurückgehen, dass die
+abgegebene Leistung auf
+
+3 W (!)
+
+beschränkt wurde. Der Rest des Planeten hat sich damit synchronisiert, von
+den Geräten her, die üblicherweise erwerbbar sind.  Irgendwie muss sich die
+massentonnagenverseuchte Verschwendungssucht ja distinguieren können.
+
+Unterdessen, mit neuerem Gerät, sind aber 3 W mit LED-Leuchten schon recht
+hell, das reicht, im in stockfinsterer Nacht im Schritttempo den Berg
+hochzukriechen.  Mit Halogenfunzeln war das noch zu schwach, mit klassischen
+Glüstrümpfen sowieso.  Dafür, um mit einem Affenzahn im Finstern über
+verwurzelte Waldwege zu brettern, wird es aber nicht reichen.
+
+Für die einzubringende Leistung gilt der Wirkungsgrad, und der ist bei
+unterschneidheimerischen Edelprodukten (von den Trendsettern für dieses Gerät - der Rest
+der Industrie hat später nachgezogen) in etwa um die 50 %, bei besseren
+Geräten von anderswo leicht darüber, aber auch bei Billigstausstattung wird
+der Nabendynamo besser abschneiden als die Seitenläuferdynamos mit Reibrad,
+wie zuvor üblich.
+
+So kann man überschlägig um die 10 W in Relation setzen zu dem, was als
+Leistung für den Vortrieb aufgebracht wird.  Auch nur leichtes Training
+vorausgesetzt, wird die erst bei 50 W anfangen, dies als nennenswert zu
+bezeichnen.
+
+So kann man davon ausgehen, dass man beim Nabendynamo überhaupt nicht
+mitbekommt, ob da ein Normalverbraucher Strom zieht oder nicht.  Man kann
+aber die Stromquellencharakteristik des Generators ausnutzen, um mehr als 3
+W abzugreifen, mit Serienschaltung weiterer Verbraucher (also nicht per
+Parallelschaltung wie bei Spannungsquellen wie Batterie und Steckdose).
+
+Auch die Verluste an einer einfachen Radnabe, ohne Dynamo, sind in etwa in
+derselben Dimension, 5 W kann man da auch rechnen.  Ob da ein Generator
+mitläuft, wenn es ein guter ist, oder nicht, ist also schon wieder egal.
+
+Zur sogenannten Leistungsrückgewinnung bei jenen eigenartigen
+Nicht-Mopped-Nicht-Fahrrad-Pedelecs (*) muss bedacht werden, dass per
+Auslegung des Hilfsmotors solch hohe Ströme nicht werden fließen können, mit
+denen eine nennenswerte Leistung wiedergewonnen werden könnte.  Die
+Rückgewinnung wird wohl eher symbolisch bleiben - den katastrophal mickrigen
+Radius dieser Geräte wird das nicht sonderlich beeindrucken.
+
+(*) Für die Strecken hier in der Umgebung bin ich, wenn schon, dann auf
+richtige Geräte angewiesen.  Mit dem Kompromissverschnitt von Hälften von
+Geräten kommt man da vielleicht über den ersten Hügel, über den zweiten dann
+aber nicht mehr wirklich.  Besser also, man hält die eigene Kondition bei
+Laune, oder, wenn es dagegen triftige Argumente gibt, lacht man sich gleich
+einen Benzinverpuffer an.

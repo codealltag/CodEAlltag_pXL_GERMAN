@@ -1,0 +1,15 @@
+2 gilt teilweise. Es gibt mindestens 3 Möglichkeiten, ein "�" zu
+sortieren (die auch in der Praxis eingesetzt werden):
+
+a) So wie "ae": Madrigal, Mai, maestoso
+
+b) So wie "a", wenn zwei Wörter aber bis auf den Umlaut gleich sind, 
+   kommt "�" nach "a": Kim, März, Marzipan.
+
+c) Zwischen "a" und "b": Schweiggart, ..., Mai, ...., valerio
+
+Bei c) ist Definition 2 eindeutig erfüllt, bei b) würde ich das auch noch
+so sehen (die Regel ist zwar komplex, behandelt "�" aber als Einheit)
+und bei a) ist die Definition eindeutig nicht erfüllt.
+
+	hp

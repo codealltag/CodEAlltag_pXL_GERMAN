@@ -1,0 +1,10 @@
+Zur Verwechselungsvermeidung bei PC-Tastaturnutzern könnte man den linken
+Schrägen ja auch einfach "AltGr-ß" nennen (ausgesprochen: "Alter Greis").
+
+Für PC-Unixer hätte das zudem den sprachlichen Vorteil, wild gewordenen
+Programmen nicht mehr plump per Ctrl-\ "ein SIGKILL schicken" zu müssen,
+sondern man könnte dann viel eleganter und sozialverträglicher formulieren:
+"Ich kontrolliere mal eben den Alten Greis!".
+
+
+burkhard

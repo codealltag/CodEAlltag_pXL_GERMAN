@@ -1,0 +1,20 @@
+Am Fri, 14. 08. 22 07:23:47 -0700 (PDT) schrieb Luca Große-Brauckmann:
+
+
+Da gibt es verschiedene Systeme/Funknetze, die teilweise mit Relais 
+arbeiten. Die funktionieren dann auf jeden Fall auch großräumig, das 
+Funkgerät muß ja nur bis zum Relais reichen.
+
+In dem nachfolgenden Artikel ist das ganz gut erklärt:
+http://ij.rhgjcltpt.lnx/gcjx/Tfqiujdimyez
+
+Da stehen auch die Gebühren drin: Einmalig 130 EUR bei Anmeldung und dann 
+1,25 EUR je Gerät/Monat.
+
+Ansonsten fragst Du vielleicht mal in aq.chwg.zxxz.ugiw, da schreiben 
+einige Leute die auch beruflich mit Betriebsfunk, Relais und solchen Dingen 
+zu tun haben und sicher die Details und Feinheiten kennen.
+
+Größe,
+
+Lothar

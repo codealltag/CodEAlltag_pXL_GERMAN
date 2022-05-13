@@ -1,0 +1,12 @@
+Nicht notwendigerweise. Einige NUA stellen Text in * in der
+Bildschirmansicht in *fett* dar, solchen in / als kursiv und den
+zwischen _ als unterstrichen.
+http://jrm.iom.ml/~ijazot/weoukm.FBD
+
+
+Ciao
+Ulla
+-- 
+ Bildung ist das, was die meisten empfangen,
+ viele weitergeben und die wenigsten haben.
+ [Willibald Katerndahl]

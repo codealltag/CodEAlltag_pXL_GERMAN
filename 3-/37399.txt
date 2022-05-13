@@ -1,0 +1,20 @@
+Was im Deutschen geht, ist:
+
+  Ich bin gut im Das-kleinste-gemeinsame-Vielfache-Bilden.
+
+Das ist aber stilistisch sehr holprig und eine andere Konstruktion als
+im Englischen, auch wenn es sich fast gleich anhört.
+
+
+Du hast dargelegt, daß die Funktion oder Verwendungsweise anders ist. Ob
+es sinnvoll ist, deswegen die Form anders zu nennen, ist eine separate
+Frage. Auch für viele andere Formen sind die Gebrauchsweisen in
+verschiedenen Sprachen verschieden.
+
+Letztlich hat sich die Bezeichnung "gerund" im Englischen historisch
+durchgesetzt, das "Gerundium" für die deutsche Grammatik nicht. Da die
+Verwendung auch nicht identisch ist, sollte man es ruhig dabei belassen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Rolf Illenseer, comp.lang.python

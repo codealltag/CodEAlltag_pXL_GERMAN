@@ -1,0 +1,10 @@
+"Your PC is now stoned" teilte mir weiland mein frischgekaufter 386er
+beim ersten Einschalten mit. Aber der war nicht gebrickt.
+
+
+Richtig. Wenn man ein Gerät gebrickt hat, dann reicht ein Reset nicht
+zur Wiederbelebung, auch nicht in der russischen Variante (Povaron
+Povarow). Typischerweise ist dann zumindest neue Firmware flashen
+angesagt.
+
+	hp

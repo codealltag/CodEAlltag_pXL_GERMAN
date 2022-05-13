@@ -1,0 +1,14 @@
+* Ronny Hundsdorfer:
+
+
+Als wir in der fünften Klasse Mengenlehre hatten, habe ich mich
+sehr gefreut, endlich die Wörter "Element", "Teilmenge",
+"Schnittmenge" zur Verfügung zu haben. Die Konzepte waren hatte
+ich längst im Kopf, konnte nur nicht so gut darüber reden.
+
+Aber mit Grundrechenarten hat das wenig zu tun - die obige
+Division funktioniert ja nur in dem extremen Spezialfall, wo alle
+Schnittmengen leer sind.
+
+-- 
+Klaas

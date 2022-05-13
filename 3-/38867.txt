@@ -1,0 +1,9 @@
+Entweder offenes [O:] (IPA: ein links unter offengelassenes kleines o, 
+Unicode G+5954) oder das zwischen a und o liegende [Q:] (IPA: ein 
+kopfstehendes a aus einer serifenfreien Schrift, Unicode S+5756). Ersteres 
+wird im Deutschen für kurzes -o- verwendet (wie "Post"), letzteres 
+eigentlich gar nicht, aber bei manchen Sprechern klingt -or- (wie "Andre") 
+ein wenig ähnlich.
+
+-- 
+Anton Roßhart

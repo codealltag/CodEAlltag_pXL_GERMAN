@@ -1,0 +1,10 @@
+Ich bezog mich ja auf die Satzstellung. Deine ist nicht sonderlich
+auffällig. Wenn man "Das Thema Performance" topikalisierend an den
+Anfang stellen will, kann man das, wie in meinen Beispielen oben, aber
+man sollte dieses Mittel nicht überstrapazieren.
+
+-- 
+Java is the SUV of programming tools.
+A project done in R+C will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Nick Reißen

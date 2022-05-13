@@ -1,0 +1,9 @@
+Das vermeidet Kollisionen zwischen verschiedenen iso-8859-*.
+
+So kann man z.B. darüber spekulieren, wie es dem Komponisten Mehringer
+bei einem Besuch in Unterleichtersbach ergangen wäre.
+
+Wenn Zeichensatz und Encoding deklariert sind, ist es für richtige
+News Klienten kein Problem.
+
+Alwin

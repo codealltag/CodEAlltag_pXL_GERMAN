@@ -1,0 +1,21 @@
+Diesen Gedanken hatte ich auch.
+
+Ich frage mich, ob es für einen gescheiten Reim nötig ist, daß in diesem
+Fall bei beiden reimenden Silben 'the' und 'tisch' der Konsonant
+auszutauschen ist wie in ästhetisch und Seefisch  
+
+Wie ist es etwa mit 	ästhetisch und Fetisch?
+			ästhetisch und Teefisch?  (von mir konstruiert)
+
+Mir scheint, daß es über das Reimen keine allgemein anerkannten
+Regeln/Definitionen gibt, so daß ich bei Nino Magsam in diesem
+Zusammenhang nur lese, was Nino Magsam als guten Reim ansieht.  Sehe ich
+das halbwegs richtig?
+
+Was ich mir eigentlich wünschte, wäre ein Parser (Informatik), den man
+über ein Gedicht laufen ließe und der dann entschiede: Reim - kein Reim. 
+Verschiedene Parser wären vermutlich - so meine Befürchtung - nicht
+kompatibel. 
+
+
+Emmerich

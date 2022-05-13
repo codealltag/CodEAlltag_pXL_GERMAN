@@ -1,0 +1,23 @@
+Es gibt mehrere mathematische Definitionen. Die axiomatische (um die es 
+hier wohl ursprünglich gegangen ist), kümmert sich nicht um die 
+Interpretation als Kardinal- und Ordinalzahlen, es geht nur darum, mit 
+ihnen zu rechnen.
+
+Es gibt auch eine Definition aus der Mengenlehre, bei denen die 
+Interpretation der natürlichen Zahlen als Ordinal- und Kardinalzahlen 
+klar hervorgeht. Allerdings ist da der Begriff der Menge 
+abstrakt-axiomatisch definiert, so das auch hier kein Bezug zur realen 
+Welt da ist. Diesen Bezug muss die Naturwissenschaft herstellen.
+
+
+Das Wort "Anzahl" ist Naturwissenschaft. Das Bilden des Nachfolgers ist 
+Mathematik.
+
+Es ist wie in der Physik. Die Axiome, die die Bewegung von Körpern 
+beschreiben, und die Gesetze, die man daraus folgert, das ist Mathematik 
+(meist "theoretische Physik" genannt). Die Behauptung, irgendwelche 
+Objekte der Erfahrungswelt verhielten sich so, dass diese Axiome (und 
+damit auch all ihre Konsequenzen) auf diese Objekte zuträfen, das ist 
+Physik (Experimentalphysik).
+
+Hanno

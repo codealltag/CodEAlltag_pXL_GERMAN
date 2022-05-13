@@ -1,0 +1,11 @@
+Wie setzt man den Satzpunkt in einem Satz mit Zitat in Anführungszeichen:
+a) Dieser Satz ist ein Beispiel, ich zitiere dazu Herrn Neureither: 
+„heute ist schönes Wetter.“.
+b) Dieser Satz ist ein Beispiel, ich zitiere dazu Herrn Neureither: 
+„heute ist schönes Wetter.“
+c) Dieser Satz ist ein Beispiel, ich zitiere dazu Herrn Neureither: 
+„heute ist schönes Wetter“.
+
+Variante a erscheint mir seltsam, obwohl es mein Verstand verlangt. 
+Variante c würde bedeuten, daß ich den Satzpunkt im Zitat selbst 
+jedesmal händisch entfernen muß, ein wenig umständlich.

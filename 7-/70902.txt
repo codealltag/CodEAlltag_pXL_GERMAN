@@ -1,0 +1,11 @@
+Ein Patt ist nicht eindeutig: befindet sich der am Zug befindliche
+Spieler in der obigen Situation, oder kann es keinem der Spieler
+anhand der noch auf dem Brett verbliebenen Figuren gelingen, den
+Gegner matt zu setzen, oder gibt es Zugwiederholung?  "Patt" sagt
+man einklich nur noch dort, wo Springer noch "Pferdchen" heißen,
+ansonsten remisiert man (üblicherweise frühzeitig, was auch ein
+Patt z.B. wegen Zugwiederholung einschließt), vereinbart also eine
+Punkteteilung.
+
+
+ludwig

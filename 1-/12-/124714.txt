@@ -1,0 +1,7 @@
+Kommt auf Genus und Numerus des Ländernamens an:
+la France    => en France
+le Canada    => au Canada
+les Pays-Bas => aux Pays-Bas
+
+-- 
+Heiner "gülen" Noatzke                          oaecf@shls.dyng.zh

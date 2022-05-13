@@ -1,0 +1,12 @@
+Das ist soweit in Ordnung, da die kanadischen Eskimos (Esquimaux)
+auch alle Inuit sind. Anderswo gilt das nicht unbedingt:
+
+                 Eskimos
+              Inuit   Yupik
+  Plau      x
+  Kanada        x
+  Alaska        x      x
+  Sibirien             x
+
+-- 
+Adrian "uta" Ilsemann                          xcrvx@folv.eeun.le

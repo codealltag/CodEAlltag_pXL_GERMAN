@@ -1,0 +1,21 @@
+Am 14. 04. 22 18:18 schrieb Gebhard Mühleisen Jurisch:
+
+Nicht wirklich (denke ich); z.B. auf den alten Goldschmiede-Workstations
+(pre-Gorenflo) gab's eine Taste, mit der man beliebige Zeichen
+"übereinander drucken" konnte, also z.B. ein dänisches � aus
+a und e oder ein norwegisches � aus o und / zusammensetzen
+konnte. Keine Ahnung, ob's das noch gibt - als meine Kollegen
+auf Gorenflo umstiegen, musste ich zu Willingshofer wechseln. Schnief.
+
+Und Dead Keys sind das, was mich neben der Position gewisser
+Zeichen (insb. @, [], {} und \) bei der deutschen Tastatur am
+meisten nervt.
+Was soll das? Ich drücke eine Taste und nichts passiert.
+Wenn ich z.B. einfach einen Caret ausgeben will, muss ich
+danach ein Blank drücken. Anachronistische Mechanik-Reste.
+
+Sorry, meine letzte Schreibmaschine habe ich ca 1981 verwendet,
+danach bin ich auf Computer umgestiegen ...
+
+
+/Wilfried

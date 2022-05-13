@@ -1,0 +1,13 @@
+Unsere Servernamen etc. sind so aufgebaut, dass die ersten beiden
+Buchstaben die Funktion angeben, die nächsten beiden den Ort und dann eine
+laufenden Nummer. Von daher liest bei uns schon jeder MJ-LY-77. Ein
+Kolleger schien auch tatsächlich ein Problem damit zu haben, aber ich
+glaube, ihm war's dann auch zu doof deswegen eine Welle zu machen.
+
+Bye
+
+  alex
+
+-- 
+Marriage - nature's way of stopping people fighting
+with strangers.

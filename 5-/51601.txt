@@ -1,0 +1,14 @@
+Sieh es als umgekehrte Ligatur. In einer Ligatur werden zwei Buchstaben
+zu einer Type zusammengeklebt, hier wird ein Buchstabe mit zwei Typen
+gesetzt (die zufällig noch beide so aussehen wie ein anderer Buchstabe). 
+
+Ungefähr so, wie man in den 10. 05. 22-Jahren in LaTeX \3 statt � geschrieben
+hat: Zwei Zeichen, um einen Buchstaben darzustellen.
+
+Das bringt mich auf eine Idee: Ist "ll" vielleicht erst durch
+Schreibmaschine und (unpassende) Bleitypens�tze aufgekommen? War das
+früher wirklich ein eigener Buchstabe mit eigenem Schriftbild, der dann
+durch technische Unzulänglichkeiten durch die ähnlich aussehende Sequenz
+aus zwei l ersetzt wurde?
+
+	hp

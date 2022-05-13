@@ -1,0 +1,14 @@
+Am Tue, 05. 05. 22 19:58:05 +0200 schrieb Igor Niefind:
+
+
+Pizzas (ab Du16), Pizzen (ab Du18), Pizze (Du25);
+Globusse (ab Du1), Globen (ab Du1);
+Albums (Du1-Du13), Alben (ab Du6);
+Atlanten (ab Du1), Atlasse (ab Du7)
+Kaktusse (ab Du1), Kakteen (ab Du1)
+Razzias (ab Du1), Razzien (ab Du8)
+
+Du = Duden; Zahl = Auflage
+
+Gruß
+Ulf.

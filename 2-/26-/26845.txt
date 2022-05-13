@@ -1,0 +1,35 @@
+B i t t e   m a l   F a r b e   b e k e n n e n :
+    Wie ich Georg Bernolz Auftritt finde
+---------------------------------------------------
+K u r z   u n d   k n a p p   von -2 bis +2:
+       [-2]   [-1]          [+1]   [+2]
+---------------------------------------------------
+
+Ich mag ihn nicht      |    ich mag ihn
+       [  ]   [  ]           [  ]   [  ]
+
+Seine Urteile waren schon immer überwiegend
+sachlich unzutreffend  | sachlich zutreffend
+       [  ]   [  ]           [  ]   [  ]
+
+Seine Urteile waren schon immer überwiegend
+in der Form überspitzt |    angemessen
+       [  ]   [  ]           [  ]   [  ]
+
+WAS er DIESMAL gesagt hat,
+war sachlich falsch    |  war zutreffend
+       [  ]   [  ]           [  ]   [  ]
+
+WIE er es gesagt hat,
+war plump              |   war geschickt
+       [  ]   [  ]           [  ]   [  ]
+
+Da er diesen Anlaß genutzt hat,
+war ungehörig          |   war angemessen
+       [  ]   [  ]           [  ]   [  ]
+---------------------------------------------------
+-- 
+Bei 4096 Möglichkeiten sind wir alle sehr neugierig
+auf die häufigsten Korrelationen.
+j/\a
+--

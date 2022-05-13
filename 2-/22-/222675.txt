@@ -1,0 +1,5 @@
+Hallo,
+wenn ich deinen Link anklicke, erkennt mein Thunderbird das 
+@-Zeichen und versteht darunter eine E-Mail-Adresse.
+Was muss ich in den Thunderbirdeinstellungen oder du in 
+deinem Link ändern?

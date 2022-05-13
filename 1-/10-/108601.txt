@@ -1,0 +1,12 @@
+"Niemand" ist wohl untertrieben. Ich habe meine Diplomarbeit 1973 selbstredend
+in den Computer (damals eindeutig ein Wort für Leute, die ihn nicht benutzen,
+die anderen sagten "Rechner" oder "Anlage") eingegeben und ausgeben lassen, um
+korrigieren zu können, ohne neu tippen zu müssen.  Damit war ich keineswegs
+der erste; allerdings habe ich das Programm selbst geschrieben, kommerzielle
+Programme wirds wenig gegeben haben, und für Programmaustausch � la Public
+Domain waren die Netze zu lokal. PCs gabs damals in Deutschland noch kaum,
+wohl aber Großrechner mit Vielbenutzersystemen, die man dafür hernehmen
+konnte.
+
+-- 
+Bernhard Rethwisch

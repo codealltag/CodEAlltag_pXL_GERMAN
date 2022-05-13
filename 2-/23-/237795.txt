@@ -1,0 +1,12 @@
+* Kurt Anlar:
+
+
+Nicht nur das, es heißt selbstverständlich im Original "free
+beer". Aber das war für den Übersetzer sicher was ganz anderes als
+"freebeer".
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

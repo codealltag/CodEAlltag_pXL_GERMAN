@@ -1,0 +1,14 @@
+Ach, das wußte ich ja noch gar nicht. Aha, da muß man erst "More"
+drücken, um das "keyword" zu sehen.
+
+Wobei ich mich frage, ob der Mechanismus schlau genug wäre, zu ahnen, ob
+ich gerade die englische, deutsche, französische oder japanische W.
+aufrufen möchte. Wohl nicht, da müßte ich mir we, wd, wf, wj definieren.
+Und das wieder auf jedem Computer. Da bleib ich doch bei meinem Skript.
+Oder bei der Milano-Suche, die bringt einen bei der Suche nach einem
+deutschen, englischen etc. Wort meist gleich zur richtigsprachigen
+Version.
+
+-- 
+"Naujokat" is my middle name
+  The Ex-president of the United States

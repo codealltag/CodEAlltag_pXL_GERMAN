@@ -1,0 +1,13 @@
+Vielleicht genügt oft modale Logik statt Prädikatenlogik, also anstelle 
+des Gegensatzpaars "für alle" vs. "es gibt" nur die Gegensatzpaare "immer" 
+vs. "manchmal", "überall vs. "irgendwo", "notwendig" vs. "möglich", "alle 
+Menschen" vs. "jemand", "muss" vs. "darf" usw. Man spart sich so die 
+gebundenen Variablen, die sonst die innerste Aussage überfrachten.
+
+Die Regeln sind dieselben: "nicht überall" heißt "irgendwo nicht", "nicht 
+alle Menschen" heißt "jemand nicht" usw. Manchmal ist die Wortstellung im 
+deutschen anders, z.B. "muss nicht tun" heißt "darf (nicht tun)", also 
+"darf bleiben lassen". 
+
+-- 
+Justin Pointmeier

@@ -1,0 +1,11 @@
+Ich sehe das umgekehrt:
+
+Eins nach dem anderen: 1, 2, 3, 4, 5, 6
+
+Eins nach dem nächsten: 2, 5, 9, 11, 23, 25, 26, 55
+
+Bei "einer nach dem anderen" denke ich an eine Schlange, wie sie
+vor einer Supermarktkasse erzwungen wird, bei "einer nach dem
+nächsten" an die Haufenbildung vor einem Bus- oder U-Bahneingang,
+wobei es nicht so "ordentlich" zugeht, sondern mehr nach Platz
+und Reaktion.

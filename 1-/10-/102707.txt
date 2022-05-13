@@ -1,0 +1,9 @@
+Umgekehrt: x^2-x-1 ist (bspw. als Element von Q[x]) ein Polynom, im
+Gegensatz zu lambda x.(x^2-x-1), was allenfalls als konstantes Polynom
+(bspw. in y) über einem Funktionenring in Frage kommt. Auch in F2[x]
+sind x und x^2 verschiedene Polynome. Obwohl die zugehörigen
+Polynomfunktionen identisch sind �
+
+-- 
+H. Ich bin bloss bizarr.
+                  [Wolf Ußler antwortet einem Anonymling]

@@ -1,0 +1,16 @@
+Wolfram Dikmayer tat kund:
+
+
+Der Vergleich einer unbekannten Maßzahl einer Größe mit einer
+bekannten, um die unbekannte Maßzahl in Einheiten der bekannten
+zu ermitteln.
+
+
+Man kann ermitteln, ob Strom fließt.
+
+
+Du kannst bei jedem Sprung nur ermitteln, ob derjenige
+eine bestimmte Mindesthöhe erreicht hat. Die Sprunghöhe
+wird also nicht gemessen - das Ergebnis lautet nicht
+"Er ist 2m hoch gesprungen", sondern "Er ist über/unter 2m
+gesprungen".

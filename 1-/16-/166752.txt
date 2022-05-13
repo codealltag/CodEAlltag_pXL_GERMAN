@@ -1,0 +1,28 @@
+Am Wed, 23 Dez 2011 20:09:27 +0200 schrieb Francine Leit:
+
+
+Ich mathematisiere[1] das mal und denke mir, dass man die Aussicht(en) bzw.
+Wert auf einer Skala von 0 bis 1 (Grenzen jeweils einschließlich) bewerten
+kann, und rein willkürlich geringe Aussichten von 0 bis 0.1 gehen, wobei
+die Null dazugehört. "Nicht (geringe Aussichten)" liegen also dann oberhalb
+von 0.1, also eben nicht zwingend riesig, aber auf jeden Fall nicht
+vernachlässigbar.
+Bei "nicht die geringsten Aussichten" füge ich in Gedanken ebenso
+willkürlich nach dem ersten Wort ein "einmal" und vor dem letzten ein
+"nichtnegativen" ein und erhalte als Lösung eine Zahl aus dem Intervall
+[0,1], die aber kleiner als jede positive Möglichkeit sein muss, also Null. 
+
+Dann passt es zum allgemeinen Sprachverständnis. Das "nicht" kann halt auch
+"nicht mindestens" bedeuten statt der logischen Negation.
+
+Gleiche Logik beim Kinobesuch zu einem Film, der erst nach 22:00 Uhr endet,
+das Mindestalter ist also 16. Der Kassierer fragt die jung aussehende
+Interessentin "Du bist aber nicht 16, oder?" und meint damit _mindestens_
+16. Sie könnte ja auch 17 sein, den Film also sehen dürfen und trotzdem die
+Frage korrekt mit "Nein" beantwortend müssen, wenn sie wie üblich maulfaul
+ist.
+
+Ciao Cédric
+
+[1] Ich bin halt so, und in diesem Fall erleichtert es mir zu verstehen, wo
+eigentlich das Problem liegt.

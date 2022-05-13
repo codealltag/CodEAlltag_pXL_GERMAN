@@ -1,0 +1,10 @@
+MULTICS machte alles über Paging. Das Paging wurde komplett von der 
+Hardware abgewickelt. Es war in einem Programm (auch in Assembler) gar 
+nicht möglich, eine Kernspeicher- bzw. RAM-Adresse direkt anzugeben: man 
+hat direkt im Filesystem adressiert. Man konnte z.B. Eine Datei 
+vollschreiben, indem man ein Array angelegt hat, das mit der 
+Startadresse der Datei losging und dann in das Array Zahlen 
+reingeschrieben hat. File-IO gab es, aber nur in simulierter Form, um 
+traditionelle Programmiermethoden und -sprachen zu unterstützen.
+
+Ingmar

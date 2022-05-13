@@ -1,0 +1,11 @@
+Aha. Wenn ich annehme, dass die Lebensdauer der Reaktoren höchstens 100
+Jahre beträgt und die Leistung etwa 1 GW, dann sprechen wir von einem
+Gesamtenergieaussto� von etwa 9 PWh oder eben 9*10^9 kWh, umgerechnet
+also 306 Milliarden Euro. Das verteilt auf eine geschützte Endlagerdauer
+von 10^5 Jahren sind also etwa 3 Millionen Euro pro Jahr für den Betrieb
+einer Endlagerstätte. Wer soll das denn glauben? Alleine der letzte
+Castor-Transport war zehnmal so teuer.
+
+
+-- 
+Space - The final frontier

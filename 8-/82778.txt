@@ -1,0 +1,37 @@
+Fredy Altjohann schrob:
+
+
+Ich finde, Dialog ist eine der besten Alternativen für Windows überhaupt.
+Besonders toll fand/finde ich die Offline-Funktion. Damals[TM] hatte ich zu
+Hause nur Modem, da habe ich die Artikel fürs Wochenende zu Hunderten an
+der Uni runtergeladen und dann zu Hause in aller Ruhe gelesen. Leider hatte
+er nur rudimentäre Mailfunktionalität.
+
+Thunderbird erachte ich eher ungeeignet zum Newsreadern, in einigen
+Bereichen fehlen ihm wichtige Funktion, es sei denn man installiert eine
+Reihe von Erweiterungen, in anderen nervt er. Zwar ist er hier unter
+Windows noch zum Mailen im Einsatz, doch als ich vor ein paar Jahren für
+Arbeitsanwendungen nach Linux migriert bin, habe ich mich gegen TB
+entschieden. Denn erstens binden sich KMail und KNode sehr gut in die
+gesamte Umgebung ein (sowohl optisch als auch funktional, z.B. Adressbuch
+und PGP) und zweitens sind sie nicht so träge wie die KFS-Progs.
+
+Und auch wenn slrn oder tin mehr bzw. bessere Funktionen haben sollten, ist
+mir KNode uff jedsten lieber, weil man ihn einfacher bedienen kann als ein
+Konsolenprogramm (z.B. kopieren/einfügen, Drag & Drop etc.).
+
+Die Versionen von BDW sind sicher noch deutlich besser geworden, aber damit
+muß ich noch warten, bis die Entwickler einen bösen Bug im RSS-Reader
+beseitigt haben (wenn man einen Artikel löscht, wird nicht der nächste
+automatisch ausgewählt. Bei 200 Nachrichten pro Tag ist der somit wegen des
+extremen Mausschupsaufwandes unbenutzbar).
+
+
+Achso, und als Sowieso-und-überhaupt-Grund gegen TB und z.B. auch Pan stelle
+ich an, daß sie auf GTK basieren. Und CHOLSCHREIBER ist einfahc nur häßlich. :o)
+
+
+Mei, sann mir off-topic gwoan.
+-- 
+Gruß | Greetings | Tmrpk'
+Ich hasse Graffiti, ich hasse alle italienischen Gerichte!

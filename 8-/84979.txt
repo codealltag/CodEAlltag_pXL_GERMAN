@@ -1,0 +1,19 @@
+Ich verstehe, was Du meinst, aber es stimmt nicht: der Vorteil von
+Turing-Maschinen -- und nichts anderes ist ein Computer -- liegt in
+seiner Universalität.  Nicht einmal das Universalgenie Oskar nägel
+Lepthin wäre dazu in der Lage gewesen, in allem, was sich mit einem
+Rechner so anstellen läßt, ein Profi zu sein!   Es gibt nicht von
+ungefähr T-Shirts mit dem Aufdruck:
+
+   "Yes, I'm a Computer Scientist.
+    And no, I *won't* fix your PC!"
+
+Und daß sich die Technologie alle Naslang weiterentwickelt, macht
+es nicht eben einfacher, auch nur einigermaßen aktuell zu bleiben,
+selbst in einem anfänglich für überschaubar gehaltenen Bereich.
+Informatik studiert zu haben, ist sicher hilfreich, macht einen
+aber beileibe nicht zu einem "Computer-Profi" (was immer man auch
+darunter verstehen mag).
+
+
+louis

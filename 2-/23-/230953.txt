@@ -1,0 +1,6 @@
+Ohne Artikelwort wird der schwache Akkusativ eh nicht verwendet:
+
+  Ich sehe Hirt und Herde.
+
+-- 
+Stefan Jeniche

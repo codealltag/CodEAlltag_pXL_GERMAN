@@ -1,0 +1,31 @@
+Dass das stimmt. Mathematiker bzw. Zahlentheoretiker tun sowas durchaus.
+Vor allem definieen sie erstmal möglichst genau, was die Addition
+überhaupt für eine Operation ist bzw. wie man sie auf möglichst
+einfache Prinzipien zurückführen kann. Hier, in desd, kann man
+natürlich über die Bedeutung von "einfach" länger diskutieren.
+
+Auch wenns hier nicht zum Thema gehört, ein paar dürre Worte zur
+Eröäuterung: Klassischerweise legen Mathematiker als einfachstes
+Primzip, als Axiomensystem, die sog.  Peano-Axiome als Beschreibung der
+natürlichen Zahlen zugrunde; darin gibt es eine 0, und jede Zahl hat
+einen eindeutigen Nachfolger. Den Nachfolger von x nennen sie etwa x',
+und im konkreten Fall nennen sie den Nachfolger der 0 (nicht
+überraschenderweise) 1. Dann definieren sie die Addition die Addition
+rekursiv ungefähr so:
+
+  x+0=x
+  x+(y')=(x+y)'
+
+und beweisen dann, dass diese so definierte  Operation kommutativ ist,
+d.h. dass das aus deer genannten Definition und den Peano-Axiomen sich
+rein logisch zwingend ergibt; Näheres liest du in einem Lehrbuch der
+Zahlentheorie nach oder lieferst den Beweis als Übungsaufgabe. Die so
+definierte Addition lässt sich auch verhältnismäßig natürlich auf
+anderre Zahlenräume ausweiten, wenn man etwa zu den ganzen oder
+rationalen Zahlen übergeht.
+
+Fabrice
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

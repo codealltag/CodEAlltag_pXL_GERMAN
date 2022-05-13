@@ -1,0 +1,7 @@
+Hoffnungslos!
+
+--=20
+=B9  superscript 1     =BC  fraction 1/4     =D0  D stroke     =DE  Thorn
+=B2  superscript 2     =BD  fraction 1/2     =F0  d stroke     =FE  thorn
+=B3  superscript 3     =BE  fraction 3/4     =DD  Y acute
+=D7  multiply sign     =A6  broken bar       =FD  y acute

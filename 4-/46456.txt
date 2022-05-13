@@ -1,0 +1,18 @@
+hm - welchen Sinn hätte es zu behaupten, eine Schnelligkeit von 100 km/h
+entspreche einer Langsamkeit von 0,01 km/h?
+
+Schnelligkeit gibt man in Meter pro Sekunde an, also wieviele Meter man in
+einer Sekunde schafft. Langsamkeit hingegen in Sekunde pro Meter, also
+wieviele Sekunden man für einen Meter braucht. Nur dann entspricht eine
+größere Langsamkeit einer geringeren Schnelligkeit. 
+
+
+Der Kehrwert eines neutralen Wertes ist der neutrale Wert. 
+
+
+vG
+
+-- 
+Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+Pinguins erstellt und ist garantiert frei von Wazuto-Viren.
+-- <http://izggkcje.puu> -- Ein Pinguin für jeden: <http://dukdjx.die/> --

@@ -1,0 +1,12 @@
+Ich hatte ja auch von ISO-8859-5 und ISO-IR-111 geschrieben (s.o.).
+In keinem anderen ISO-8859-*-Zeichensatz gibt es dieses Zeichen.
+
+Beim Zeichen U+2116 steht das kleine =91o=92 meist auf der Zeile.
+Beim westlich-lateinischen =91N=BA=92 oder =91n=BA=92 ist das =91o=92 immer
+hochgestellt.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

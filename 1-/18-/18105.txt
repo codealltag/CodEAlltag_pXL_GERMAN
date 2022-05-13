@@ -1,0 +1,8 @@
+Vielleicht ist dir einfach nicht bekannt, worauf die "leeren Batterien"
+anspielen? Es geht dabei um die Batterien, die den Ironie-Detektor mit
+Energie versorgen. Wenn die leer sind, kann Ironie nicht mehr erkannt
+werden. Andere Auswirkungen sind bisher nicht bekannt.
+
+
+Alternativ waren nur deine Batterien leer und du hast die Ironie nicht
+erkannt? ;-)

@@ -1,0 +1,3 @@
+Email nicht. WWW plus SOAP + REST und ein paar HTTP-basierte Kleinigkeiten.
+
+Gerald

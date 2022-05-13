@@ -1,0 +1,14 @@
+So hoch nun auch wieder nicht.
+
+Nimm einen Faden mit einer Länge von 100 Zentimetern. Der ergäbe eine 
+Quadrat mit einer Seitenlänge von 25 Zentimetern und damit einer Fläche 
+von 625 Quadratzentimetern.
+
+Nun lege ihn als Kreis aus. Du erhältst einen Kreis mit einem Radius von 
+100 Zentimetern durch 2 Pi, also ca. 15,9 Zentimetern. Quadriert und mit 
+Pi multipliziert erhältst du eine Fläche von ca. 795,8 Quadratzentimetern.
+
+Da waren Ägypter und Babylonier schon ein wenig näher dran.
+
+
+Tschüs, Ignaz

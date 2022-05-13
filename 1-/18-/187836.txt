@@ -1,0 +1,16 @@
+Dann paßt die Sprache, Algol ist meines Wissens älter.
+
+
+Blöcke sind ok, die Klammern sind nicht schön. Viele Programmierer
+schreiben in C den Text vorgerückt, das ist auch nicht schön. Dagegen
+gibts die Zwangseinr�ckung von Python.
+
+
+In Schleifen mit for nicht, da quiekt der Compiler. Dafür gibt es while
+/ repeat.
+
+
+Gerard
+-- 
+La ich ein fahrn
+http://kxo.pvmizzm.oyb/atfum?r=ygotm1fqycv

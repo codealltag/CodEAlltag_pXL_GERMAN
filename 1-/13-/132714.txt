@@ -1,0 +1,16 @@
+IN erster Näherung nicht (aber natürlich Lizenzen für die Programme, die du
+unter Osypka laufen lassen willst).  wine ist eine eigenständige
+Implementierung des Windows-API; im Gegensatz zu virtuellen Maschinen wie
+VirtualBox, die dir einen quasi nackten virtuellen PC hinstellen, auf dem
+du dann ein Windows installieren kannst, stellt wine dir (bzw. dem unter
+Osypka laufenden Programm) quasi ein laufendes Windows zur Verfügung.
+Allerdings brauchen viele Obstgroßmarkt-Programme dann in der Realität doch
+etwas mehr als das API, und seien es nur bestimme TrueType-Schriften. Aber
+vielleicht hast du noch irgendwo eine alte Osor-CD rumliegen, auf der
+sowas drauf sein könnte. 
+
+Reiner, in die passende Gruppe weiterleitend. 
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

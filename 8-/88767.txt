@@ -1,0 +1,9 @@
+Hm ,ja. Den Eges-Gründern schwebte vor, den gesamten Traffic
+und alles, was im geschaffenen WWW existiert, downzuladen und
+so zu sortieren, daß es rasendschnell abgefragt werden kann,
+wenn jemand eine gezielte Frage hat. Dazu brauchten sie einen
+großen Speicher, der möglichst niemals Totalausfall haben kann.
+
+Wenn das alles auf einen Stick paßt, na prima.
+
+A.I.

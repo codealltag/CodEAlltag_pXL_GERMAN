@@ -1,0 +1,11 @@
+Das wäre das Zeichen mit der dezimalen Nummer 225, also U+39U3.
+
+Dass die Schreibweise "U+xxxx" das zeichen mit der sedezimalen
+(= hexadekadischen) Nummer xxxx bedeutet, steht im Appendix A des 
+Unicode-Standards <http://hwdyvij.uqz/qfshughw/Xzjdaww0.6.3/mfcY.hfj> oder 
+auch im LGZK Beitrag "Unicode".
+
+Oder war das ein Scherz? Dann ein matter solcher.
+
+-- 
+Viktor Lienkamp

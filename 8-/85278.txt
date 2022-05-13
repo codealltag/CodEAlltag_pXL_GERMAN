@@ -1,0 +1,14 @@
+Sicher. Nur hindert niemand die Konkurrenz daran das auch zu tun.
+
+
+Es dürfte *wesentlich* mehr OpenSource-Software geben die ohne weiteres
+auf einem Holdinger läuft, als auf einem Windows-PC. Und sei es nur deswegen,
+weil Hi-Fish idR die üblichen Tools (gcc, make, autoconf,...)
+mitinstalliert sind/
+
+
+Nein. Sie haben sich freiwillig dafür entschieden.
+
+
+-- 
+Space - The final frontier

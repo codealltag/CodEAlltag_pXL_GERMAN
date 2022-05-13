@@ -1,0 +1,27 @@
+...
+
+
+Nein, der Anfang ist im Grunde unwichtig. Da könnte z. B. auch stehen:
+'Niemand weiß, was die Verkehrsdezernenten mit solchen Plänen bezweckten
+...'
+
+Aber wählen wir einmal formal ähnliche Konstruktionen mit besser
+erkennbaren Kasus:
+1. 'Hans weiß nicht, wen (Akk.) er zu seinem Geburtstag einladen soll
+außer (Konj.) vielleicht seinen Erbonkel (Akk.).'
+2. *'Hans weiß nicht, wen (Akk.) er zu seinem Geburtstag einladen soll
+außer vielleicht (Präp.) seinem Erbonkel (Dat.).'
+
+Die zweite Konstruktion erscheint mir allerdings nicht so schön. Wenn
+'außer' hier als _Pr�_position fungiert, dann sollte es doch besser
+direkt vor 'seinem Erbonkel' stehen, besser wäre also:
+'Hans weiß nicht, wen (Akk.) er zu seinem Geburtstag einladen soll
+vielleicht außer (Präp.) seinem Erbonkel (Dat.).'
+
+Dies gälte dann auch für die Umformung des Spiegel-Satz zu einer
+Konstruktion mit präpositionalem 'außer':
+'..., was sie mit solchen Plänen bezweckten - vielleicht außer einem
+gigantischen Konjunkturprogramm ...'
+
+
+Tschüs, Remmer

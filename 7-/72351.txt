@@ -1,0 +1,9 @@
+Ich finde hier das Wort "aufaddieren" angebracht: das Ergebnis ersetzt 
+anschließend einen der Operanden, meistens den größeren. Für 
+Programmierer:
+
+ Addieren:     + 
+ Aufaddieren:  +=
+
+-- 
+Francesco Clot

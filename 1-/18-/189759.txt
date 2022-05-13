@@ -1,0 +1,9 @@
+Ich denke eher, dass dein Buchstabenzusammensetzungzuwortenund 
+s�tzenprogramm im mp3- modus "äußerste Kompression" läuft. Da werden 
+dann schon mal begründete, ausführliche Fehlermeldungen wie "worauf 
+bezog sich diese offensichtliche Merkwürdigkeit eigentlich?" als "was 
+soll das?" ausgegeben.
+
+-- 
+
+Dominik Wrasmann

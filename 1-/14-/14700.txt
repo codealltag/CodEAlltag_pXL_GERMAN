@@ -1,0 +1,19 @@
+Glaub mir einfach - ich weiß das alles, aber Du weit nicht, was mein
+Skript macht. Ich kann ja mal überprüfen, ob mein Skript der
+Spezifikation entsprechend funktioniert. Wenn ja, wirst Du in der
+"Hamster"-Zeile nicht gezählt, sondern nur diejenigen, bei denen der
+Hamster sich "ergänzend" in eine noch leere Zeile eingetragen hat.
+Beispiel: <news:t8nhhi$zts$4@uzbgj.vrmnx.qfp>. Eine Extrastatistik für
+Hamsterbenutzung ist in meinem Programm nicht vorgesehen. 
+
+So, Testlauf erfolgreich, funktioniert wie vorgesehen - was nicht heißen
+soll, daß es ideal funktioniert. Pech für einige Leute ist, daß ich
+X-Newsreader nur dann beachte, wenn der User-Agent leer war, wirklich
+leer, also auch hamsterfrei. 
+
+<news:0criv9A1sumxtT3@zzg.vkfqeywmbl.lvp> 
+<news:d5kv66.5pwf85w.8@mwl.xstvfbz.mk>
+
+-- 
+gugelgans,  f., alberne gans, schelte:
+  GRIMM, Deutsches Wörterbuch

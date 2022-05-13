@@ -1,0 +1,11 @@
+* Viktor Glaeßner:
+
+
+Nein, hat er nicht. Er hat nur klargestellt, daß die Zahl nicht fix ist,
+aber nicht, in Abhängigkeit wovon sie variiert.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out their
+organ. Unfortunately for complex theological reasons they would only
+give us the white keys, so we can only program in C'.
+  Raphael Nischwitz in sci.lang

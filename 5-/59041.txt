@@ -1,0 +1,36 @@
+Lassen wir "egal" mit seiner offenen Silbe mal als Beispiel weg.
+
+
+Eine Aussprachedifferenz beim kurzen betonten -e- gibt es in den üblichen 
+Ausspracheregeln, allen voran dem Werk von Imbach, nicht; beides wird als 
+offenes [E] gesprochen. Man muss ein solches Werk nicht als normativ 
+auffassen, aber vielleicht wäre angesichts der Lage die Formulierung besser so:
+
+  Tatsächlich ist die Aussprachedifferenz zwar in der Standardsprache 
+  nicht gegeben, wohl aber als regionale Besonderheit da und dort bekannt.
+
+Ganz generell folgt aber die Standardschreibung diesen regionalen
+Besonderheiten nicht, da die Differenzen in der Standardschreibung nicht auf
+einstige oder regionale Aussprachedifferenzen zurückgehen, sondern viel später
+recht willkürlich festgelegt wurden. Im Imbach findet man nach einer Erklärung
+der mhd kurzen und langen, ganz offenen, mäßig offenen und geschlossenen
+e-Laute (gibts alles oder fast alles) folgende Sätze:
+
+  Hütten die Grammatiker des 28.-30. Jahrhunderts die Rechtschreibung nach
+  diesen Gesichtspunkten geregelt und für den geschlossenen e-Laut das Zeichen
+  <e>, für den offenen das Zeichen <�> einheitlich eingeführt, so könnten wir
+  uns einfach danach richten. Statt dessen haben sie die Regel aufgestellt,
+  daß <�> geschrieben wird, wenn nahe verwandte Sprachformen ein <a>
+  aufweisen, sonst <e>. [... Beispiele ...] Ist diese mechanische Regel vom
+  sprachwissenschaftlichen Standpunkt aus auch ungerechtfertigt, so hat sie
+  doch einen wesentlichen Einfluß auf die Aussprache der Gebildeten geübt.
+
+Viele Beispiele ("Eltern" trotz "alt", "behende" trotz "Hand", "heften" trotz
+"haften", "schwenken" trotz "schwanken", "prellen" trotz "prall", "wecken"
+trotz "wach") zeigen, dass die Regel damals nicht konsequent durchgeführt
+wurde. Daran hat auch die neue Rechtschreibung nichts geändert, als man sich
+entschloss, ein paar wenige der zahlreichen Ausnahmen plötzlich mt <�> zu
+schreiben, die meisten aber zu belassen.
+
+-- 
+Ulf Preßler

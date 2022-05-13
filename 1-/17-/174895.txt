@@ -1,0 +1,21 @@
+* Volkmar Vit <sotrxd.ezbwua@xjh.bn>:
+
+Ich hatte geschrieben "*ohne zu überlegen* richtig anwendet". Ich kenne
+die Regeln, die neuen jedenfalls, aber da ist kein Automatismus, ich
+müsste mir bei jedem ss-Wort überlegen, wie mans schreibt.
+
+Das war mir bei den Übersetzungen, die ich für Neefs gemacht habe,
+zu mühsam. Ich hatte mir eine Wörterliste zusammengestellt und die
+LaTeX-Quelltexte damit bearbeitet. Die Korrektorin hat dann ein paar
+weitere ss angestrichen und ich habe die Wörterliste erweitert.
+
+
+Natürlich, aber einige Bücher und so zirka alles andere, was man so
+liest, hat kein �. wenn man etwa gleich häufig "gross" wie "groß"
+liest, bildet sich kein Gefühl für das richtige Wortbild heraus. Eine
+Zeitlang hatte ich das "ClassGerman"-Addon für Ekotar im
+"Schweiz"-Modus in Gebrauch, dann waren auch eiqmoir.jm und
+cv.skrwpvfle.cpt �-frei.
+
+
+ - Edmund

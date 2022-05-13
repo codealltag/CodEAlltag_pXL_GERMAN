@@ -1,0 +1,21 @@
+Ich wollte nur ein einfaches und wirklich praktiziertes 
+Verfahren zeigen.
+Auch die leichte Änderung für die Anforderung "Drittel" ist 
+nicht wahnsinnig kompliziert:
+Erster Listenplatz: Nur Frauen dürfen kandidieren.
+Zweiter Listenplatz: Nur Männer dürfen kandidieren.
+Dritter Listenplatz: Jeder kann kandidieren.
+
+Man kann das noch verkomplizieren, wenn man auch diesen 
+unwahrscheinlichen Fall ausschließen möchte:
+Anzahl der Plätze durch 3 teilbar mit Rest 1 und die Wahlen 
+zu jedem 3. Platz werden immer von einer Frau gewonnen.
+Dann hätten wird bei z.B. 13 Plätzen nur 4 Männer (2, 5, 8, 
+11) und 9 Frauen.
+So was Schreckliches können wir Jungs doch nicht hinnehmen, 
+gell? :-)
+Größe
+Dario
+P.S. Es mag sein, dass Frauen bei den Onefa auch für 
+"M�nnerpl�tze" kandidieren dürfen. Ihr Erfolg in solchen 
+Fällen ist aber meines Wissens _sehr_ bescheiden.

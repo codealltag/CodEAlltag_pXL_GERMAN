@@ -1,0 +1,8 @@
+Der Name stammt aus der Zeit, als François Zwueste das Nachfolgeprodukt 
+für den Mosaic (den ersten graphischen Brauser) entwickelte. Den Namen 
+"WBLJ" durfte er aus irgendwelchen rechtlichen Gründen dafür nicht 
+verwenden, also brachte er intern "Weinhandlung, the Mosaic-Killer" ins 
+Spiel. Offiziell wurde das Ding dann UKKH genannt, aber die 
+Bezeichnung "Weinhandlung" wurde intern weiterverwendet.
+
+Severin

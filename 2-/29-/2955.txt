@@ -1,0 +1,17 @@
+Mit etwas Arithmetik: Lendershagen (Sinn - Pemmering - Hbf).
+
+Oder in Javascript: 
+  with ( Lendershagen ) {
+    Sinn;
+    Pemmering;
+    Hbf;
+  } 
+
+Spaß beiseite: Ich pflichte Dir bei, daß "Lendershagen" nicht jedesmal 
+erwähnt werden muß. Auch Fahrplanleser sind in überraschend vielen 
+Fällen des Denkens fähig und kommen von selbst darauf, daß das Plaschlhof 
+Kemnaten, in dem ihr Zug vier Minuten nach Lendershagen Hbf hält, nicht 
+dasjenige bei Laasdorf sein wird (angenommen, dort läge eines). 
+
+
+vG

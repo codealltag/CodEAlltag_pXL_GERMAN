@@ -1,0 +1,9 @@
+* Waldemar Vizedum Gaßl:
+
+
+Ich hatt noch vergessen, dazu die passende Nicht-Zufallssignatur
+auszuwählen, hier also:
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Bernard Zacherl

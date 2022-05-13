@@ -1,0 +1,8 @@
+Stimmt.
+
+Mathematisch gesehen Äquivalent ist folgendes:
+a => b
+<=>
+nicht b => nicht a.
+
+Viele Größe von Diedrich

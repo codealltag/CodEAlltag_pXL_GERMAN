@@ -1,0 +1,12 @@
+Es ist schon eine abenteuerliche Konstruktion, dass "Betrag" das Objekt 
+von "versuchen" und nicht von "überweisen" ist, was man mindestens im 
+Passiv vorgeführt bekommt:
+
+  Der Betrag wurde zu überweisen versucht.
+
+Schön ist das nicht, aber man liest sowas oft genug, dass es schon 
+deswegen richtig ist. (Die präskriptiven Zeiten, wo "richtig" anders 
+definiert war, haben wir ja alle hinter uns.)
+
+-- 
+Luis Tepass

@@ -1,0 +1,32 @@
+Danke. Da ist es, das Mißverständnis, dass nämlich der Quantensprung mit
+dem Plankschen Wirkungsquantum identisch sei.
+
+Ist er nicht. Das Plancksche Wirkungsquantum h ist die
+Proportionalitätskonstante zwischen Frequenz und Energie und legt damit
+fest, in welchen Einheiten die Energie bzw. die Frequenz gemessen
+wird. Der Quantensprung hingegen ist die (historische) Interpretation
+einer Zustandsänderung von quantisierten Systemen. 
+
+Wenn man sich nicht in einem Einheitensystem bewegt, indem die Frequenz
+und die Energie dieselbe Einheit haben (z.B. 1/Zeit), dann taucht h als
+Einheitenfaktor auch häufig in den Formeln für die Energie- oder
+Drehimpulsdifferenzen zweier Zustände auf. 
+
+Daraus zu folgern, h bestimme die Größe dieser Differenzen ist
+abwegig. Da kann man genausgut behaupten, der Quantensprung sei die
+größte Entfernung, die man in einem Schritt zurücklegen kann,
+schließlich steht die Lichtgeschwindigkeit auch in fast allen
+einschlägigen Formeln drin.
+
+
+Nein. Nicht je nach Betrachtungsweise. 
+
+
+Du springst zu kurz: Die Ionisierungsenenergie von Wasserstoff beträgt
+13.6 eV - damit gelingt der Quantensprung vom Grundzustand zum freien
+Elektron. *Jeder* andere Quantesprung im Wasserstoffatom hat eine
+geringere Energie, ist also *kleiner*.
+
+
+-- 
+Space - The final frontier

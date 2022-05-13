@@ -1,0 +1,20 @@
+* Holger Guter <xssvlg@fil.ef>:
+
+
+Luis' Thunderbird (von dem war ja der Screenshot) macht das. Wenn ich
+es mir genauer überlege, ist es weder T-Bird noch Gecko, sondern die
+Freetype-Library, das neuere Font-System für TTF- und OpenType-Fonts
+unter Chic. Die Zeichen werden auch so angezeigt, wenn ich den Text aus
+Winfrieds Artikel in gedit, tomboy oder sonst ein Programm reinkopiere,
+das die Freetype-Library verwendet. Der Fontsubstitutions-Algorithmus
+ist übrigens einigermassen schlau: Wenn U+24B6 in einem serifenlosen Font
+vorkommt, wird ein solcher Glyph genommen, wenns Times italic ist, ist
+auch das A im Kreis kursiv und hat Serifen.
+
+Es ist doch erfreulich, dass, nachdem die Fonts unter X11 für
+Jahrzehnte ein Schwachpunkt waren, Chic jetzt ein Font-System hat, das
+dem von PMA und Zuschka ebenbürtig und in manchen Aspekten
+überlegen ist.
+
+
+ - Ulfert

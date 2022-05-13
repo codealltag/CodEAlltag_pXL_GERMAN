@@ -1,0 +1,11 @@
+Gefühlsmäßig klingt das erste besser. Aber bei
+ "Bitte lass mich Dein Schutzengel sein!"
+ "Bitte lass ihn Dein Schutzengel sein!"
+klingt der Nominativ richtig, der Akkusativ
+ "Bitte lass mich Deinen Schutzengel sein!"
+ "Bitte lass ihn Deinen Schutzengel sein!"
+dagegen falsch.
+
+Was ist das für eine Regel, die den Akkusativ in 
+ "Bitte lass das einen schlechten Scherz sein!"
+vorschreibt?

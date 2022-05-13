@@ -1,0 +1,56 @@
+Das meinte ich, als ich zuvor schrieb:
+
+  Normalerweise haben grammatikalische Begriffe, die für als eine Sprache 
+  verwendet werden (Objekt, Partizip), in den verschiedenen Sprachen eine 
+  ähnliche syntaktische Funktion. Bei "Gerund" ist das anscheinend nicht 
+  der Fall.
+
+Hier mischt sich eine semantische Funktion (Substantivierung des Verbs) 
+mit einem morphologischen Mittel dafür (oberflächliche Ähnlichkeit zum 
+Partizip Präsens). Damit kann man den Begriff "Gerund" entweder nur für 
+Sprachen verwenden, bei denen einige Formen des substantivierten Verbs 
+tatsächlich Ähnlichkeiten mit Formen des Partizips Präsens aufweisen, oder 
+man definiert sich den Begriff für eine andere Sprache passend anders.
+
+
+Ich habe die Liste eigentlich in der Erwartung gemacht, bei vielen 
+Sprachen viele verschiedene Mechanismen zu finden; stattdessen findet man 
+*immer* Infinitive. Weil nur ein nicht idg Beispiel dabei war, noch eines:
+
+    [hu] Jobb adni, mint venni.
+
+Auch das mit Infinitiv. Ein Stück weit ist das tautologisch, weil der 
+Infinitiv ja als die Form definiert ist, die bei solchen Gelegenheiten 
+verwendet wird. Die Preisfrage ist vielmehr, ob es sich bei diesen 
+Infinitiven wirklich um Substantive handelt. "Geben ist seliger als 
+Nehmen" muss ja nicht als "Das Geben ist seliger als das Nehmen" 
+verstanden werden, sondern vielleicht auch auch als "Zu geben ist seliger 
+als zu nehmen" mit Infinitiven, die keine Substantive sind.
+
+In [de], [la], [ru] und [hu] wird dekliniert. In [de] sieht man die 
+Deklination nur im Genitiv und klingt entsprechend geschraubt ("wegen 
+unerlaubten Betretens"), ist aber möglich. In [la] ist es das diskutierte 
+Gerund. In [ru] habe ich nichts darüber gefunden, ob man Infinitive 
+deklinieren kann -- vermutlich nein, so dass ein stärkerer Verbcharakter 
+vorliegt. In [hu] kann der Infinitiv eine Possessivendung bekommen ("adnia 
+kell" = sein Geben muss sein, d.h. er muss geben); ob andere 
+Substantivsuffixe ("adnikor" = beim Geben?) möglich sind, weiß ich nicht.
+
+In [de], [en], [fr] und [hu] gibts Artikel. In [de] können substantivierte 
+Verben ohne weiteres mit Artikel stehen, in [en] und [fr] nicht, in [hu] 
+weiß ich es nicht.
+
+In [de], [fr], [la], [ru] und [sw] gibts grammatikalische Geschlechter von 
+Substantiven. In [de] und [sw] liegt das Geschlecht des substantivierten 
+Verbs fest und ist für alle Verben gleich. In den anderen Sprachen kann 
+ich keinen Satz konstruieren, bei dem das Geschlecht des substantivierten  
+Verbs aus der Kongruenz der anderen Wörter hervorginge. Gehts denn in [la]?
+
+Langsam finde ich die sprachübergreifende Diskussion spannend. Nur wenn 
+man die Gemeinsamkeiten und Verschiedenheiten ansieht, lässt sich sagen, 
+ob "Gerund" zu den Begriffen gehört, die in unterschiedlichen Sprachen 
+eine hinreichend ähnliche Bedeutung haben können, dass ein gemeinsamer 
+Begriff angemessen ist.
+
+-- 
+Berthold Steggemann

@@ -1,0 +1,27 @@
+* Francesco Osterwinter <anglorhdxgosfrou@doxengj.dx>:
+
+
+Nein, das stimmt in mehrfacher Hinsicht nicht.
+
+Erstens, und das ist ein prinzipieller Grund, kann man mit drei
+Grundfarben bloss alle Farben innerhalb eines Dreiecks im CIE-Diagramm
+erreichen, siehe z.B.
+http://fm.ujbmqfwuf.iaj/stbv/MBN-Evopfounbbaglbqr. Dazu ist ausserdem
+zu sagen, dass das Rihu-Normfarbsystem eine Norm ist, dass aber
+vermutlich viele Personen Farben wahrnehmen können, die ausserhalb
+dieses Systems liegen.
+
+Zweitens sind natürlich reale Farben unvollkommen. Bei der subtraktiven
+Farbmischung ist es sehr schwer, aus Y, M und C nur schon etwas
+zusammenzumischen, das einem neutralen Dunkelgrauton nahekommt - meist
+kommt aber etwas bräunliches oder violettes raus. Auch wenn man den
+neutralen Ton erwischt, ist das Resultat noch lange nicht so schwarz
+wie das Schwarz aus der Tube oder aus der Tintenpatrone.
+
+Man hat sich einfach daran gewöhnt, dass das, was Vierfarbendrucke und
+RGB-Monitore so hergeben, das Mass der Dinge ist, aber es hat schon
+seinen Grund, dass K�nstlermalk�sten mehr als 4 Tuben enthalten, und
+warum bei sehr hochwertige Kunstreproduktionen 8 oder 12 Farben
+verwendet werden.
+
+ - Timo

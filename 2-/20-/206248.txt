@@ -1,0 +1,74 @@
+Hallo Ludwig!
+
+Ludwig Strassburger schrieb:
+(...)
+
+Die Erklaerung dafuer stand unmittelbar nach dem von Dir zitieren
+Satz.
+
+Ich plaediere dafuer, es bei solchen Begriffen nicht so genau zu
+nehmen, wobei Genaunehmen im Kontext dieser Diskussion bedeuten
+sollte, jede Abkuerzung krampfhaft auszuschreiben und dann evtl.
+noch zu uebersetzen, um bei etablierten Begriffen anhand des
+Ergebnisses (hier z.B. "Digitaler-Teilnehmeranschluss-Anschluss")
+Sinn bzw. Unsinn ihrer Bedeutung zu hinterfragen.
+
+(...)
+
+Ja. Bis vor ein paar Jahren hat sich auch kaum jemand dran
+gestoert, dass das "LCD-Display" ausgeschrieben eigentlich
+"Liquid Crystal Display"-Display bedeutet. Hinweise darauf
+vernahm ich schon in den 80ern, aber umgangssprachlich sass
+das "LCD-Display" fest im Sattel. Bis vor einigen Jahren.
+
+Heute spricht einem bspw. Thierry Czyborra bei der Verwendung
+des Begriffs "LCD-Display" fast schon die Faehigkeit zum
+Denken ab. Und auch im RL bricht mittlerweile eine Flut kluger
+Menschen ueber einen herein, die einem bei jeder Gelegenheit
+erklaeren moechten, dass "LCD-Display" falsch ist. So aendern
+sich die Zeiten.
+
+In meinem Umfeld ist "LC-Display" mittlerweile etabliert und
+"LCD-Display" sollte man vermeiden, wenn man sich nicht bei
+jeder dritten Erwaehnung eine Grundsatzrede zum Thema
+Doppelmoppelung anhoeren moechte. Aehnliches gilt fuer
+"PIN-Nummer", "HIV-Virus" und "ISBN-Nummer". Und bei all
+diesen Begriffen gibt es auch akzeptierte Alternativen:
+
+"das LCD-Display" -> "das LC-Display"
+"die PIN-Nummer" -> "die PIN"
+"das HIV-Virus" -> "das HI-Virus"
+"die ISBN-Nummer" -> "die ISBN"
+
+Du siehst: Eine einheitliche Bildungsvorschrift gibt es nicht.
+Der "richtige" Begriff wird im Einzelfall etabliert und das
+wird gerne uebersehen. So ist "die PI-Nummer" ebenso unueblich
+wie "die ISB-Nummer" oder "das HIV".
+
+Aber wie bereits erwaehnt, gibt es fuer den "USB-Bus" keine
+wirklich befriedigende Loesung, wobei wir mal aussen vor lassen,
+dass es sich dabei topologisch eigentlich nicht um einen Bus
+handelt. Aber sagt man nun
+
+  "ein USB-Geraet kommuniziert mit dem USB-Controller ueber den USB-Bus"
+
+oder
+
+  "ein USB-Geraet kommuniziert mit dem USB-Controller ueber den US-Bus"
+
+oder
+
+  "ein USB-Geraet kommuniziert mit dem USB-Controller ueber den USB"?
+
+Persoenlich ziehe ich den Schluss, dass man es mit dem Hinterfragen
+etablierter und eindeutiger Begriffe nicht uebertreiben sollte. Ich
+wuerde auch in Zukunt einfach "USB-Bus" schreiben und mir dabei keinen
+abbrechen, nur um einen vermeintlichen Widerspruch aufzuloesen, der
+es eigentlich nicht wert ist, so genau hinterfragt zu werden. Und wenn
+mich dann jemand fuer dumm haelt: na und?
+
+Aber sowohl beim LCD-Display als auch beim USB-Bus weiss doch jeder,
+was gemeint ist. Und ja: Das gilt auch fuer die BIOS-Batterie :D
+
+Gruss,
+Hinrich

@@ -1,0 +1,50 @@
+Wird es das?
+
+Der Gegensatz bietet sich doch an: man kann dieselben Gedanken in
+verschiedenen Sprachen ausdrücken, also ist der Gedanke als solcher nicht von
+der Sprache abhängig. Damit ist zunächst mal denkbar, dass verschiedene
+Menschen verschiedene Gedanken in verschiedenen Sprachen ausdrücken, wie das
+ja auch geschieht. Das geschieht aber nicht unabhängig voneinander, sondern
+derselbe Mensch hat meist ähnliche Gedanken unabhängig davon, welche Sprache
+er benutzt, und er benutzt immer wieder dieselben Sprachen unabhängig davon,
+welche Gedanken er ausdrückt. Da ist es eine legitime Frage, ob es auch eine
+Korrelation zwischen Gedanken und Sprachen unabhängig von den Menschen gibt,
+die die Sprache für ihre Gedanken benutzen.
+
+Nun heißt hier "unabhängig" natürlich nicht wirklich unabhängig, weil es ohne
+die Menschen weder Gedanken noch Sprache gibt, sondern es heißt nur
+statistisch korreliert: man beobachtet vielleicht unter den Äußerungen in
+einer Sprache überdurchschnittlich oft Gedanken einer bestimmten Art,
+verglichen mit Äußerungen in einer anderen Sprache, und sucht dann die Ursache
+dafür.
+
+Stellt man die Frage so, sieht man sofort die methodischen Probleme:
+
+ - Wie stellt man Gedanken unabhängig von Sprache dar, um sie zu vergleichen?
+
+ - Wie rechnet man gemeinsame Einflüsse von außen heraus (ein regelmäßiges
+   Problem in der Statistik)? (Vielleicht reden ja Eskimos öfter über Walfang
+   als Usbeken, ohne dass das an ihrer jeweiligen Sprache liegt.)
+
+ - Wie bewertet man die durch die Sprache unvermeidlich hereingetragene
+   Information? (Wenn jeder deutsche Satz ein Tempus hat, aber nicht jeder
+   chinesische, so kann ich ja nur keineswegs folgern, dass den deutschen
+   Sprechern die Angabe von Zeiten besonders wichtig ist, wenn das in der
+   deutschen Sprache nun mal so verlangt wird.)
+
+Ich fürchte, was dann noch übrig bleibt, ist schrecklich wenig verwertbares
+Ausgangsmaterial. Die Beispiele aus dem Artikel bleiben wohl alle oder fast
+alle in diesem Filter hängen. Und für das bisschen Rest braucht man Kriterien,
+wo es sich um einen Einfluss der Sprache auf das Denken und wo um den
+umgekehrten des Denkens auf die Sprachentwicklung handelt. Und diese Kriterien
+sollten falsifizierbar sein, sonst darf man alles behaupten. Na ja.
+
+
+Eben das ist der letzte Absatz.
+
+
+langue. Sonst hat die Frage kaum einen Sinn, wenigstens keinen, zu dem die
+Beispiele etwas beitragen.
+
+-- 
+Ingo Loechle

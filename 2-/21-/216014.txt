@@ -1,0 +1,7 @@
+Ja, das ist das Verhältnis zwischen seinen Preisen auf unterschiedlichen 
+Märkten. In der überwiegenden Zahl der Fälle ist der Log davon -oo, oder 
+genauer -log oo.
+
+-- 
+
+Florian Russbült

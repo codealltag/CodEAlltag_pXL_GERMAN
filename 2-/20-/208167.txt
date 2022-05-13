@@ -1,0 +1,11 @@
+Hr mir bloß auf. Wir mußten für einen Kunden automatische SMS
+generieren, in deren Text u.a. eine Anzahl in runden Klammern
+stehen konnte: "bla (1) bla". Für 0 bis 7 und 9 kein Problem.
+Viele Handys stellen allerdings die Zeichenfolge 8) als
+Brillen-Smiley dar. Das gab Ärger.
+[] und {} gingen aus anderen Gründen nicht, blieb also <>
+als Ersatz für ().
+<1>, <2>, Herzchen>, <4>, ...
+Noch mehr Ärger.
+
+	Ignaz.

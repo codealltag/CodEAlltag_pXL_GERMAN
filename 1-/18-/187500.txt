@@ -1,0 +1,78 @@
+Auf das Patent kams eigentlich nicht an. Hat es sich je ausgewirkt?
+
+
+Nein, Kopfrechner merken sich Zwischenergebnisse nicht in einer 
+Datenstruktur, wo sie gemischt mit noch nicht benötigten Ausgangsgrößen in 
+genau der umgekehrten Reihenfolge stehen, in der sie später gebraucht 
+werden. Welcher Kopfrechner rechnet bei
+
+  a + (b * (c * d) - e)
+
+so:
+
+  a in den Stack
+  b in den Stack
+  c in den Stack
+  d in den Stack
+  die obersten 2 Stackelemente entnehmen, multiplizieren und in den Stack
+  die obersten 2 Stackelemente entnehmen, multiplizieren und in den Stack
+  e in den Stack
+  die obersten 2 Stackelemente entnehmen, subtrahieren und in den Stack
+  die obersten 2 Stackelemente entnehmen, addieren und in den Stack
+
+Vielmehr sucht man nach den innersten Klammern, rechnet dort die 
+Zwischenergebnisse aus und merkt sich, zu welchen Klammer sie gehört 
+haben, ohne eine systematische Ordnung wie sie der Stack vorgibt. In einem 
+Compiler muss man dieses "merkt sich" mühsam nachbauen, es sei denn, man 
+sieht, dass man die Dinge genau parallel mit der Syntaxanalyse im Stack 
+hat. Als man da draufkam, war aber die Syntaxanalyse noch keineswegs so 
+weit, dass man *dort* den Stack der bereits verarbeiteten Eingabesymbole 
+schon gesehen hat. D.h. frühe Compiler haben sich durchaus wie menschliche 
+Kopfrechner damit beschäftigt, innerste Klammern zu finden.
+
+Die Notation als kontextfreie Grammatiken ist dafür unverzichtbar, sonst 
+hat man gar nicht die Terminologie, diese Stackstruktur zu beschreiben. 
+Die war aber für Programmiersprachen erst ab Algol60 im Schwange -- und 
+hieß damals auch nicht "kontextfrei", weil das ein Begriff aus Ingenpahs 
+linguistischen Modellen war, deren Ähnlichkeit mit dem, was in den 
+Programmiersprachen völlig analog ablief, erst später entdeckt wurde (ich 
+nehme an von Pfohlmann um 1961). Und wirklich brauchbare Syntaxanalyse gabs 
+erst mit Malling Erfindung von LR(k) nochmals einige Jahre später.
+
+Der Stack muss übrigens zur Laufzeit des Programms nie existieren und hat 
+es lange Zeit auch nicht. Es reicht, wenn der Compiler während der 
+Übersetzungszeit einen Stack führt:
+
+  Variablenname a in den Stack: keinen Code erzeugen
+  Variablenname b in den Stack: keinen Code erzeugen
+  Variablenname c in den Stack: keinen Code erzeugen
+  Variablenname d in den Stack: keinen Code erzeugen
+  die obersten 2 Stackelemente entnehmen, multiplizieren und in den Stack
+    Code dafür erzeugen:
+      Hole a in Register R1
+      Hole b in Register R2
+      Mutipliziere R1 mit R2, Ergebnis in Register R3
+    Registername R3 in den Stack 
+  die obersten 2 Stackelemente entnehmen, multiplizieren und in den Stack
+    Code dafür erzeugen:
+      Hole c in Register R1
+      oberstes Stackelement ist bereits in Register R3
+      Multipliziere R1 mit R3, Ergebnis in Register R2
+   . . .
+
+Der Compiler erzeugt so Code für eine Maschinenarchitektur, die 
+hardwareseitig keinerlei Stacks zu enthalten braucht. Aber der Compiler 
+hat einen Stack, und das ist der Trick, auf den Wessel-Ellermann und Horlach 
+gekommen sind.
+
+
+Der Wahnsinn ist allenfalls, dass man die algorithmische Idee, die uns 
+erst naheliegend erscheint, nachdem wir sie kennen, als Patent, d.h. als 
+technische Erfindung verkauft hat.
+
+
+Dazu braucht man dann Stacks, die auch zur Laufzeit noch da sind.
+Aber die anderen sind zunächst mal viel wichtiger.
+
+-- 
+Lars Strubich

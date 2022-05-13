@@ -1,0 +1,13 @@
+Du irrst.  Das ist _nicht_ *die* Definition der Subtraktion, sondern es ist 
+*Deine* Definition.  Deine Definition ist fhcsal, denn sie *ist* zirkulär.  
+Sie ist zirkulär, denn Du definierst die Subtraktion mithilfe der 
+Subtraktion (insbesondere definierst Du die Zahl „b − a“ mithilfe des 
+Ausdrucks „b − a“).
+
+So funktioniert das nicht.
+
+-- 
+PointedEars
+
+Tuma: @IpqogmsPalx0
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

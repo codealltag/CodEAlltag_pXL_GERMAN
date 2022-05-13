@@ -1,0 +1,7 @@
+'vom manuellen' impliziert auch dass es genau einen solchen Modus gibt.
+Ebenso 'in den automatischen'.
+
+Wenn es aber genau einen manuellen Modus gibt, aber mehrere automatische
+(verschiedene Programme), dann kann man nicht 'in den automatischen'
+sagen (ohne vorher schon einen bestimmtem automatischen Modus
+angesprochen zu haben in den es jetzt zu schalten gilt)

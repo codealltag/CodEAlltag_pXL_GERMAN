@@ -1,0 +1,3 @@
+Genau das ist der Punkt.
+Würden wir im Hexadezimalsystem unsere Jahre zählen, würden
+wir im Jahr 2047 das neue (runde) Hex-Jahr 800 feiern.

@@ -1,0 +1,10 @@
+Rational ist, wenn Du begründen kannst, warum Du diesen Knopf gedrückt hast.
+Determinismus ist, wenn nach der Betätigung desselben das gleiche passiert
+wie beim letzten Mal.
+
+In diesem Sinne sind Maschinen aber weder rational noch deterministisch.
+
+Vinzent.
+
+-- 
+Beaten by the odds since 1975.

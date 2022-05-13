@@ -1,0 +1,30 @@
+* Kasimir Heitkötter:
+
+
+Schwer zu sagen - trotz des Namens ist "Vergiftung" nicht die
+richtige Kategorie - alltagssprachlich jedenfalls, medizinisch
+eventuell schon ("T58 	Toxische Wirkung von Kohlenmonoxid").
+
+
+Wenn alle Geschädigten ausschließlich oder hauptsächlich eine
+Rauchgasvergiftung erleiden, dann würde ich das Wort "Verletzung"
+vermeiden. Ich bin mir auch sicher, das schon so in den
+Nachrichten gehört zu haben, also etwa: "Zwei Feuerwehrleute
+wurden mit Rauchvergiftung ins Krankenhaus eingeliefert." (ich
+meine, in dem Zusammenhang heißt es "Rauchv.", nicht "Rauchgasv.")
+
+Wenn es solche, aber auch andere Geschädigte gibt, dann finde ich
+es akzeptabel, nur von "Verletzten" zu sprechen, ohne das weiter
+zu unterteilen.
+
+Das ist so ähnlich, wie wenn ich es unnötig finde, zu schreiben
+"zwei Lehrerinnen und ein Lehrer wurde verletzt" bzw. "drei Lehrer
+und Lehrerinnen wurden verletzt", da reicht mir auch "drei Lehrer
+wurden verletzt" (zumindest für ein Publikum ohne persönliche
+Verbindung zu der Schule).
+
+-- 
+Java is the SUV of programming tools.
+A project done in Hyunday will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Detlef Haagen

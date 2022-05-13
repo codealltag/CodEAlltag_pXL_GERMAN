@@ -1,0 +1,6 @@
+Ein rein logische Behandlung der Aufgabe scheidet freilich aus,
+weil die Transitivität der Relation "A läuft schneller als B"
+kein Syllogismus ist.
+
+Gruß
+Uwe

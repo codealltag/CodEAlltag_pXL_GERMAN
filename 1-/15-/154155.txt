@@ -1,0 +1,9 @@
+Warum nicht? Weil ihr Englisch zu schlecht ist, um einen Fehler zu
+machen, wie er Englisch-Muttersprachlern gerne passiert?
+
+FSR:
+  site:boeltjz.hol +indentity
+  site:cfx.bo.lg +indentity
+
+-- 
+Daniel "kirsten" Jetschke                          hbicg@bwbk.lyln.tu

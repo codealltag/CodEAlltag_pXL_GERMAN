@@ -1,0 +1,41 @@
+Nein, überhaupt nicht, dieser Nebensatz ist ja extern und enthält nicht
+das, was fraglich ist. Die übliche Formulierung packt den Gegenstand der
+Fraglichkeit in einen Nebensatz. 1:1 umgestellt lautet Dein Satz dann:
+
+  Ich halte es für fraglich, ob der Gebrauch von Personennamen für
+  Wetterereignisse stilistisch ist, wenn ...
+
+Fehlt da nicht was? 
+
+  ... stilistisch gut/passend/einwandfrei/... ist, ...
+
+Jetzt ist der Gegenstand der Fraglichkeit explizit genannt: ist dieser
+Gebrauch gut oder nicht? einwandfrei oder nicht? Denn diese Bedeutung
+von "fraglich" besagt: "Ist etwas so oder nicht so?". Es eröffnet eine
+Disjunktion.
+
+Man könnte meinen, daß Du "stilistisch" hier gebrauchst wie die
+Linguisten "grammatisch". Wer den Gebrauch von "grammatisch" für "der
+Grammatik entsprechend" nicht kennt, könnte argumentieren, jeder Satz
+sei grammatisch, nämlich grammatisch richtig oder grammatisch falsch. 
+
+
+Das ist viel besser - wegen des "passend". Der Nebensatz mit "wenn" hat
+dabei keinen Einfluß.
+
+In Deiner ursprünglichen Formulierung fehlt gerade das Wort, auf das
+sich "fraglich" bezieht, nämlich "passend", "Trefflichkeit" oder
+dergleichen. "Stilistisch" ist nur ein Attribut des eigentlich
+fraglichen Gegenstands.
+
+Beispiel aus dem DWDS-Korpus:
+
+Nach Deinem Muster könnte man sagen: 
+
+  ... die literarische Emanzipation vor der wirtschaftlichen und
+  politischen ist chronologisch fraglich.
+
+Das erscheint mir stilistisch nicht einwandfrei, wiewohl verständlich.
+
+-- 
+Hero R.

@@ -1,0 +1,23 @@
+* Ernest Hülskemper Zant:
+
+
+Ich bin mir ziemlich sicher, daß er nicht "irrt", sondern seinen
+Standpunkt darlegt. 
+
+
+Und im Englischen umgekehrt, daher ist es der Verständlichkeit
+dienlich, sie als Tausendertrennzeichen nicht zu verwenden.
+
+Ich schreibe schon lange privat immer den . als Dezimaltrenner.
+
+
+Siehst Du, Du weit es selber!
+
+Schlimm finde ich, daß verschiedene Sprachversionen von Excel in
+Hinsicht auf den Dezimaltrenner inkompatibel waren (ziemlich
+sicher noch mit Version 2003, danach hoffentlich nicht mehr? Lange
+nicht probiert). ähnliche Probleme übrigens hatten (oder haben?)
+sie bei der Interpretation von ".csv"-Dateien.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

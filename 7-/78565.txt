@@ -1,0 +1,10 @@
+Albin . K u s m i e r z schrob:
+
+
+Ja, jetzt. Aber ich verschicke UTF-8, du iso. Wenn Deine Fragot mir
+antwortet, dann übernimmt sie meinen Text 1:1 ohne ihn umzuwandeln. Das
+Resultat ist dann, daß meine UTF-8-Umlaute als Ã und noch ein weiteres
+Zeichen erscheinen.
+-- 
+Gruß | Greetings | Qapla'
+Lieber Kies in der Tasche als Sand im Getriebe.

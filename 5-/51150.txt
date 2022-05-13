@@ -1,0 +1,38 @@
+Wie stehst Du zu "Sch wird wie ein Buchstabe behandelt"?
+
+Was ein Buchstabe ist, dafür gibt verschiedene Definitionen. 
+
+1. Was im Alphabet aufgesagt wird
+
+2. Was bei alphabetischer Ordnung als eine Einheit sortiert wird
+
+3. Was zusammenhängend geschrieben wird, meist in dem Sinne, daß man es
+nicht vertikal teilen kann
+
+4. Was einen eigenen Codepunkt in einem Zeichensatz hat
+
+Etliche Kandidaten erfüllen einige, aber nicht alle dieser Kriterien. So
+gilt für die deutschen Zeichen �, �, � zwar 3 und 4, aber nicht 1 und 2.
+
+ähnlich französisch � oder �.
+
+Dann gibt es als Grenzfall Zeichen, die aufgelöst werden können, so wie
+frz. �, oder dt. �, die man auch als oe schreiben kann. Noch besser ist
+das Beispiel �, denn es muß unter gewissen Umständen aufgelöst werden.
+Allerdings gilt für das � ohnehin 2. nicht.
+
+Kriterium 2. halte ich insgesamt für ein schlechtes, weil es zu viele
+Sonderfälle gibt, so wie es früher üblich war, in Namensregistern Sch
+und St als eigenen Eintrag zu behandeln, aber nur am Wortanfang, oder
+wie die Sonderbehandlung von Mc- bei schottischen Namen.
+
+Heutzutage wird auch in der Informatik die Sortierung als "Collation"
+getrennt von der Liste der Zeichen behandelt, das heißt, die Sortierung
+berücksichtigt eben manchmal mehr als einen Buchstaben, oder behandelt
+Varianten desselben Buchstabens verschieden ("E vor e", "e vor �").
+
+-- 
+Claire: Uncle Fritz ... why do they call this a word processor?
+Fritz:  It's simple, Elias ... you've seen what food processors do
+        to food, right?
+     Cartoon by Carlos Fröchtenicht

@@ -1,0 +1,12 @@
+Das ist zwar richtig (genau wie die Bezeichnung für HTML-Kodierungen von
+Sonderzeichen), aber eine Entität ist allgemein einfach ein "Dingsbums"
+(neudeutsch: "Noppsi"), also ein "Stück Datenkuchen", für das man gerade
+keinen geeigneteren Begriff parat hat (und den es häufig auch gar nicht
+gibt).  Beim Versuch, den Unterschied zwischen einer "Entität" und einem
+"Objekt" zu erklären, regnet's normalerweise recht viel Glatteis...  :-)
+Wobei "Objekt" ganz allgemein zu verstehen ist, z.B. als die Menge aller
+Daten, die bestimmte Kriterien erfüllen und dadurch eine Entität bilden,
+die für die weitere Bearbeitung relevant ist.
+
+
+niklaus

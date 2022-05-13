@@ -1,0 +1,15 @@
+* Theo Noël tat kund und zu wissen:
+
+
+Das Problem ist, dass man deinen von meinem Klartext in der
+Verschlüssselung nicht mehr unterscheiden kann. Wenn man nur den
+verschlüsselten Text hat, können beide Texte drinstecken, man benötigt
+nur unterschiedliche Schlüssel zum Entschlüsseln.
+Es könnte auch gleichzeitig jeder andere beliebige Text sein.
+Jetzt entscheide mal, welcher der richtige ist ...
+
+Das gilt aber nur für den von David genannten Spezialfall der
+Vigenère-Verschlüsselung, dem sog. One-Time-Pad.
+
+Gruß,
+Nikolaus

@@ -1,0 +1,15 @@
+* Eugen Niekerke:
+
+
+Das fiel mir am meisten auf, da kann es sich nur um einen Fehler
+handeln. 
+
+Es gibt etliche Sprachenpaare, wo die Unterscheidung schwierig
+ist, gerade bei kurzen und nicht immer normgerechten Texten wie
+Tweets, z.B. Tschechisch/Slowakisch, aber Französisch/Italienisch
+sollte nicht dazugehören.
+
+-- 
+Performance:  A statement of the speed at which a computer system
+works. Or rather, might work under certain circumstances.  Or was
+rumored to be working over in Zschachenmühle about a month ago.

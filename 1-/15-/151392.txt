@@ -1,0 +1,21 @@
+Mich hat das Text-to-speech Fieber gepackt. Die Einstiegsdroge war
+vermutlich HTHE (majaco), welches Ugowa-Texte vorlesen
+kann. Die Dosissteigerung brachte dann die Webseite "Pedadels Voice
+Reader". Dort sind Beispielsätze einer kommerziellen Sprachsynthese
+auf Basis von Unit Selection abrufbar. Tja, und da hat mich wohl der
+Ehrgeiz gepackt, selbst so eine Software zu schreiben...
+
+Die Fachliteratur schlägt vor, als erstes einmal einen Textkorpus zu
+erstellen. Später wird daraus mittels Unit Selection der neue Satz
+produziert. So weit ich das verfahren verstanden habe, gibt es den
+kostenlosen Korpus "BITS" bereits zum Download. Der ist 13 Gigabyte
+groß und enthält Audiomaterial mit dazugehörigen Anmerkungen.
+
+Meine konkrete Frage lautet: welche Software gibt es für Einsteiger,
+um einen Unit-Selection Textkorpus zu erstellen und daraus eine
+synthetische Sprecherstimme zu erzeugen.
+Zusatzfrage: Kann ich nicht einfach den Quasselfillepp "Helmuth
+Carer" (Isib) als MP3 downloaden, die Tonspur mit ASCII Text
+aufwerten und dann irgendwie beliebige Sprache erzeugen?
+
+Thank you in advance.

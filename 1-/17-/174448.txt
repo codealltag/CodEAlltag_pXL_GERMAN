@@ -1,0 +1,12 @@
+Meine Rede, sogar wörtlich.
+
+
+Nein, Link ist schon vorbei. Jetzt gehts um direkte Einbindung: der Seite 
+mit Bild ist ohne Blick in den HTML-Quellcode nicht anzusehen, ob das Bild 
+aus der gleichen Quelle stammt wie der Text.
+
+
+Doch, davon war die Rede. Stand bei mir als Zitat noch drin. Bitte lesen.
+
+-- 
+Rudolf Hintner

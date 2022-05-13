@@ -1,0 +1,25 @@
+Das war wohl auch kaum ganz ernst zu nehmen. Oliver sprach von Anfang an 
+kontextbedingt von der Übertragungstechnik, was Juan nicht verstanden 
+hat und von Ulrich wiederum aufs Korn genommen wurde.
+
+So, genug der Witzeerkl�rung.
+
+F.
+
+In so ziemlich allen Sprachen sind Vokale, Liquiden und Spiranten eher 
+häufig (In Morse kurz kodiert), Plosive, Frikative und Affrikaten eher 
+selten (in Morse lang kodiert) - vorausgesetzt, die Schreibung folgt 
+der Lautung so einigermaßen, was man vom Englischen natürlich nicht 
+unbedingt behaupten kann (diese Kiste mach ich jetzt aber nicht auch 
+noch auf). Im Englischen gibt es keine Buchstaben mit Diakritika, 
+welche in Morse länger kodiert sind. Das häufige w .-- als 
+Diphthong-Bestandteil ist durchaus optimiert fürs Englische, 
+allerdings dürfte häufiges y _.._ nicht so lang sein - aber sei's drum.
+
+Ich denke, dass sich der bis heute gültige Morse-Code ziemlich gut für 
+alle europäischen Sprachen (außer vielleicht Finnisch) eignet. Der 
+code wurde nach der �berarbeitng durch den Deutschen Gehrke leicht 
+geändert und international in einer Konferenz abgesegnet.
+
+
+F.

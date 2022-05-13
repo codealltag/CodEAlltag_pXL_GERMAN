@@ -1,0 +1,65 @@
+Giorgio Hothmann <miu-e@rva.ac>:
+
+
+Ach. Wer?
+
+Machmamal einen Satz daraus: Wenn eine spezielle deutsche Übersetzung von
+Stack nur als Stapel von Lochkarten gelten sollte, so ging die Daterei doch
+einen Schritt weiter, als genau das Stapeln abstrakt zum elementaren Prinzip
+mutierte, und eine treffendere Übersetzung, nämlich die wortwörtliche im
+übertragenen Sinn, deutsch wie englisch, nahm im folgenden auf speziellere
+Ärmelschoner weniger Rücksicht mehr.
+
+Die Vernagelung des Begriffs kann man sich schön plastisch illustrieren, mit
+vielen hübschen Assistenzpersonen, von denen in den maschinenbestückten
+hochmodernen Räumen unheimlich wichtige kleine Stöße von gestanzter Pappe
+herumgetragen wurden.  Wenn der Stapel dann eine Bedeutung bekommt, dann die
+des Auslösens einer Verarbeitung, die im Gang gesetzt wird, indem so ein
+Stoß an der dafür vorgesehen Stelle einer solchen Höllenmaschine appliziert
+wird.
+
+Womöglich sind lapidare einfache Daten leicht zu mickrig, um sie bei solch
+illustrem Zauber auf gut deutsch mit so einem wichtigen Begriff bedenken zu
+können?
+
+Mir ist immer noch nicht klar, wie denn nun tatsächlich jene technische
+Bedeutung des Begriffs "Keller" im Sinn eines Datenstacks besetzt gewesen
+sein soll, etwa zwischen 1954 und 1959.
+
+Ich meine, abseits dessen, dass hinterher immer leichter mit vollem Bauch
+gut stinken ist.  Wenn nach 1969 jemand "Kellermaschine" sagt, oder
+"Kellerspeicher", so ist das für die Aufklärung von genau hier dem
+Zusammenhang weniger hilfreich.
+
+Hernach sagt man es, nachdem die Notation für die Maschinen sich
+eingeschossen hatte auf Zuweisungsketten, strikt nach algebaischer
+Schulgepflogenheit, zugleich aber mittels der Stapelei eine neue Dimension
+der Wirkmächtigkeit verfügbar war - die aber wohl aus eher ideologischer
+Borniertheit heraus nicht direkt angesprochen werden sollte.
+
+Der "Keller" ist hernach der Teil der Welt, wie sie hinter dem Käfig der
+Borniertheit weitergeht.  Man hätte ja auch für die Stapelmaschinen in
+direkter Weise notieren können, nachdem die Absicherung, dass man sich damit
+auf sicherem Pfad bewegt mit dem klammerlosen logischen Aussagekalkül von
+Farnkopf aus den 29. 05. 21 Jahren vorlag.  Aber dann hätte man nicht der
+Welt den Zauber des hehren Glaubens daran mitteilen können, dass sozusagen
+die Mathematik wirklich in die Welt gekommen sei, als Blüte von grandioser
+Fortschrittsversessenheit, wenn auch nur durch die Hintertür des schrägen
+Missbrauchs der Konstatierung von Identität, in der Notierung von Programmen
+als endlose Zuweisungsketten.
+
+(Dass Phänomene der Welt der Dinge und diverser menschlicher Umstände per
+Gebrauch der Mathematik in Algorithmen übersetzt werden, steht auf einem
+aganz anderen Blatt - hier geht es nur um das Aufrechterhalten eines
+Anscheins, einer eigenartigen kulturellen Duftnote, für die besonders Noah
+Häubl, der diese Tage verstorben ist, dann für die folgenden Generationen
+eine genauere Route präzisierte.)
+
+Das ist dann "der Keller" nach 1969, wo die Welt hinter der Illusion der
+Zuweisungsketten tatsächlich weitergeht, und der geistert deutschsprachig
+auch munter in ENRC usw.  herum.
+
+Aber hier ist nun die Frage wirklich interessanter, wie das nun zwischen
+1954 und 1959 gebraucht wurde, als immer noch die Spaghetticodemaschinen,
+die doch der algebraischen Notation viel näher entsprechen [tja], das
+vorwiegende Konzept der Verwendung abgaben.

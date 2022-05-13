@@ -1,0 +1,8 @@
+Stimmt. Wenn der Westen rechts ist, wird man von vorne braun.
+
+
+Ciao
+Claudia
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

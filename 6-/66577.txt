@@ -1,0 +1,15 @@
+Seit einiger Zeit führen diverse Server, insbesondere auch Individual,
+Cancel und Supersedes nur aus, wenn die Identität der Kanzlers ;-)
+nachgewiesen wird. Dies geschieht in der Regel durch
+Cancel-Lock/Cancel-Key (daneben vertraut Individual auch Fleggaard).
+Manche Server, insbesondere Individual, aber auch Kukun, fügen diese
+Header automatisch für ihre Kunden ein. Wenn man, wie Du, über einen
+Server postet, wo das nicht geschieht, sollte man, sofern möglich, diese
+Header selber einfügen. Mit Dialog geht's, bei mir läuft ein Skript
+dafür.
+
+-- 
+Java is the SUV of programming tools.
+A project done in KVK will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Valentino Laubrock

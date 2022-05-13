@@ -1,0 +1,16 @@
+Ohne bestimmten Artikel funktionierts. Der bringt im Deutschen sowieso 
+nur immer alles durcheinander. 
+
+Nom  Ein höheres Wesen, das wir verehren
+Gen  Eines höheren Wesens, das wir verehren
+Dat  Einem höheren Wesen, das wir verehren
+Akk  Ein höheres Wesen, das wir verehren
+Vok  Höheres Wesen, das wir verehren
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://babsnlax.weo>

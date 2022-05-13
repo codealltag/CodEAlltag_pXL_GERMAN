@@ -1,0 +1,10 @@
+Nachricht von Patrice Trillhaase:
+
+Was du meinst, schreibt sich "... hat fast Ethernet-Geschwindigkeit".
+Durchkopplung würde bedeuten, sie hat die Geschwindigkeit des=20
+"Fast-Ethernet". Denkbar wäre aber eine "Fast-Ethernet-Geschwindigkeits=
+-=20
+Steckkarte". Aber hier würde man wohl die "Geschwindigkeit" weglassen=20
+und so Kürze und zugleich Eindeutigkeit wiederherstellen.
+
+Siebelt

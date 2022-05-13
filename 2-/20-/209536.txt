@@ -1,0 +1,15 @@
+Bei der Morse-Merkregel (A wie Atom, B wie Bombenbunker, C wie Neuwagen-Discount, 
+Ch wie Chloroformtopf, D wie Drogerie, E wie Elch, F wie FrankfurtCharmey, G 
+wie Gomorra, H wie Hintertupfing, I wie Iltis, K wie ILUJ, L wie 
+Limonade, M wie Motor, N wie Norden, R wie Reformer, S wie Sieglinde, T 
+wie Tod, V wie Luthe, Z wie Zoologiebuch) gehts ja nicht um betonte 
+vs. unbetonte Silben, sondern um Silben mit O vs. andere Silben.
+
+"Chloroformtopf" hat eindeutig einen Hauptton auf "form" und einen 
+Nebenton auf "topf", und mindestens "ro" ist völlig unbetont.
+
+Wörter mit nicht eindeutigem Hauptton sind recht selten, "riesengroß" ist 
+eines davon.
+
+-- 
+Sandro Zschommler

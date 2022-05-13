@@ -1,0 +1,21 @@
+Ich sehe sie nicht als vollkommen tautologisch an, weil nicht alles verboten
+ist, was nicht ausdrücklich erlaubt ist.
+
+
+"Property" und "owner" definieren sich aber gegenseitig: "property" heißt ja
+"was jemandem gehört" und "owner" heißt "jemand, dem etwas gehört". Deswegen
+sagt die Formulierung nichts anderes aus als "gehören demjenigen, dem sie
+gehören" und ist so tautologisch wie "Ich bin der Bruder meines Bruders"
+oder "Mein Bruder ist mein Bruder". Solche Aussagen können sinnvoll sein,
+weil der durchschnittliche Leser bzw. Hörer instinktiv davon ausgeht, dass
+sie es sind. "Was passiert ist, ist passiert" wirkt zum Beispiel erstaunlich
+unauffällig, und selbst "Er ist der Sohn seines Vaters" versteht man noch
+ohne Probleme. Obwohl ich "are the property of their respective owners"
+schon oft gelesen habe, wirkt es auf mich aber immer noch unnötig
+uninformativ und ungelenk, vielleicht auch weil man eine tautologische
+Verstärkung auf dieser Stilebene nicht erwartet. Deswegen würde ich "are the
+property of" durch "may not be used without the express consent of"
+ersetzen.
+
+Größe,
+Bernard

@@ -1,0 +1,7 @@
+-12C
+
+Das  � in C wurde inzwischen eliminiert.
+
+-- 
+
+Ulrich Verhaegh

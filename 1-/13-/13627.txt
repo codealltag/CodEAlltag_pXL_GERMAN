@@ -1,0 +1,31 @@
+Wenn du unter "Biografie" die gesamte Vorgeschichte alles dessen 
+verstehst, was sich je im Hirn abgespielt hat, besonders in der jüngsten 
+Vergangenheit, dann wird man die schlechten Zufallszahlen einer solchen 
+Biografie anlasten können. Ich meinte eher "Biografie" in dem Sinne, dass 
+die Zahl irgendeine Bedeutung für die Person hat, die sie für andere 
+Personen nicht hat.
+
+Zwei Beispiele:
+
+ - Probanden, die einziffrige Zufallszahlen (0..9) nennen sollen, werden 
+   seltener zwei gleiche Ziffern nacheinander nennen als 10%, weil die 
+   Wiederholung auf sie "zu wenig zufällig" wirkt.
+
+ - "Glatte" Zahlen (z.B. Vielfache von 10, Zahlen mit nur wenigen 
+   verschiedenen und kleinen Primfaktoren) wirken weniger zufällig als 
+   "krumme" und werden deswegen seltener genannt.
+
+ - An Zahlen, die man schon einmal im selben Experiment genannt hat (aber 
+   nicht sehr kurz zuvor), kann man sich unbewusst erinnern und nennt sie 
+   noch einmal; das kann auch dann passieren, wenn die erste Nennung 
+   wirklich zufällig war. So etwas ließe sich testen, indem man etwa den 
+   Probanden echte Zufallszahlen von außen und von ihm frei erfundene 
+   Zahlen durcheinander nennen lässt.
+
+Wären diese Nichtzuf�lligkeiten in der Biografie begründet?
+
+
+S.o.
+
+-- 
+Henning Unterburger

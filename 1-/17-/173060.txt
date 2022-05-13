@@ -1,0 +1,14 @@
+Am 28. 05. 22 13:12, schrieb Dr. Treixler:
+
+
+< So a Topfn >
+  ------------
+         \   ^__^
+          \  (oo)\_______
+             (__)\       )\/\
+
+
+-- 
+Distribution: Perlenshop squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 28. 05. 22 10 21:35:22 UTC 2011 x86_64 
+GNU/Linux

@@ -1,0 +1,5 @@
+Klar, manche ein falsches und manche ein richtiges.
+
+-- 
+Rekursion 
+  siehe -> Rekursion

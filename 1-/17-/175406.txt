@@ -1,0 +1,5 @@
+Ich glaube, Du hast eine sehr enge Vorstellung davon, was eine
+"Nachricht" ist und diese Vorstellung stimmt nicht mit der Verwendung
+des Begriffs "Nachricht" im Modell überein.
+
+	hp

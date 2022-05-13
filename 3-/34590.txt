@@ -1,0 +1,16 @@
+Am 03.07.2008, 09:13 Uhr, schrieb Siebelt Zschemisch  
+<dwpbdrtr@nvvjgsu-uemmsm.pif>:
+
+
+Welche einzelnen Funktionen enthält jene Funktionalität?
+   [ ] man kann das Dokument umblättern.
+   [ ] man kann es lesen.
+   [ ] man kann seinen Inhalt verstehen.
+   [ ] man kann ihm zustimmen.
+   [ ] man kann es ablehnen.
+
+Und die Dokument�bergriffenheit gilt wirklich für alle
+Teilaspekte gleichermaßen?
+
+j/\a
+--

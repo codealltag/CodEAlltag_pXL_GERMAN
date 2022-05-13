@@ -1,0 +1,16 @@
+"Vanessa Ollermann"
+
+Z.Info
+Voksm�ndlich: "Bogenlampe" (zur Strassenbeleuchtung)
+technisch: "Peitschenlaterne"
+
+Voksm�ndlich: "Glühbirne"
+technisch: "Glühlampe"
+
+Voksm�ndlich: "Lampe"
+technisch: "Leuchte"
+
+Voksm�ndlich: "Ampel"
+Behördlich: "Verkehrslichtzeichenanlage (LZA)"
+
+Veit Rassenhövel

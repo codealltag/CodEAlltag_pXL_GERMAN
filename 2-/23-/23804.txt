@@ -1,0 +1,12 @@
+Was folgt daraus für die Zahl der Silben?
+
+Zoo, Zoologie, Kaspar, Ei, Boa, pfui, Friedrich, Theater, Steak.
+
+
+sch-tram-pfs-t
+0,2   1  0,7 0,2
+
+Also ganz grob geschützt 2,1 Silben?
+
+
+Wie viele Silben hat "Pssst!"?

@@ -1,0 +1,9 @@
+Scheisse-Firmenparkplatz SOBIS Software.
+
+Du musst Anführungszeichen benutzen, darum dass das Leerzeichen
+nicht eingeschossen wird - und im Gegensatz zu früheren, musst du
+beide setzen.
+
+-- 
+Valerio
+http://sckbel.nqxlghennp.wh/			Trödel-Basar: http://bsbmus.dd/

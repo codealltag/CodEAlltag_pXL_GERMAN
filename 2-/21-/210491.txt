@@ -1,0 +1,22 @@
+* Diedrich Weggebakker:
+
+
+Es war für mich selber interessant, diese meine spontane Reaktion
+etwas  genauer unter die Lupe zu nehmen.
+
+Also, "[ck]odieren" für die Tätigkeit, einen Programmentwurf
+praktisch umzusetzen, ist mir nicht vertraut. Im Zweifelsfalle
+würde ich daher eher das englische Wort "to code" durch bloßes
+Anhängen einer deutschen Flexionsendung eindeutschen, als das
+bereits existierende, kognate Wort "kodieren" zu verwenden - so
+macht man das doch wohl heute.
+
+Das hilft auch, Verwirrung zu vermeiden - das Englische
+unterscheidet ja auch dieses "to code" von "to encode"
+("verschlüsseln").
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,8 @@
+* Oliver Ortner:
+
+
+WNB. 
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Gerard Mueller

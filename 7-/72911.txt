@@ -1,0 +1,8 @@
+Und bevor man die Absolutzahlen mit Deutschland vergleicht, teile man
+sie durch 6. Ja, nach der Bevölkerungszahl sind es eher 4, aber in den
+USA gibt es deutlich mehr Kinder, rund 20% der Bevölkerung ist max. 14
+Jahre alt gegenüber 14% in Deutschland.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Frank Volnhals, comp.lang.python

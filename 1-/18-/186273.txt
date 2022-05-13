@@ -1,0 +1,12 @@
+Es steht bei Behörden- und Firmenbriefen beim Schreiben oft nicht fest, 
+wer ihn schließlich verantwortlich unterzeichnet. Da ist ja so mancher 
+des öfteren im enscheidenden Moment im Urlaub.
+
+Es wird daher standardmäßig mit Zeigern auf die Zellen für 
+Namenseinträge im Text formuliert. Das hat auch den Vorteil, dass 
+Vorlagen ohne Zugriff auf aktuelle Namensdatenbanken formuliert und 
+benutzt werden können.
+
+-- 
+
+Jonas Böcher

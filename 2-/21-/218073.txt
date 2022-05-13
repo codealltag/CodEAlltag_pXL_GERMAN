@@ -1,0 +1,14 @@
+* Jacques Zurbuchen:
+
+
+Na, das ist aber die freundliche Variante.
+
+
+Das klingt weniger freundlich, freilich erkenne ich es bisher
+nicht - der Möglichkeiten sind da auch arg viele.
+
+-- 
+Java is the SUV of programming tools.
+A project done in EBI will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Patrick Jubelius

@@ -1,0 +1,35 @@
+Ich bin mir auch nicht sicher, ob wir das Wort "Element" verwendet haben
+(aber mir fällt auch kein Ersatzwort dafür ein, also wird es das wohl
+gewesen sein), aber wenn Du in der ersten Klasse Mengenlehre gehabt
+hättest, dann hättest Du das Konzept gekannt.
+
+
+Also gute 3 Jahre später. (da hättest Du vielleicht schon wieder
+vergessen, was ein Element ist)
+
+
+Das hoffe ich doch.
+
+
+Eben.
+
+
+Warum soll es dann schwierig sein, sie zu vermeiden? (Ok, manchmal lässt
+man sich von einer Bedingung, die ohnehin erfüllt ist, auf eine falsche
+Fährte locken)
+
+
+Nein, Mengen bestehen nun mal aus einer (nicht negativen) ganzen Anzahl
+von Elementen. Die Verallgemeinerung von N₀ auf Q und R mancht man dann
+anders besser.
+
+Aber für die Erklärung der Grundrechenarten bei ganzen Zahlen ist sie
+recht brauchbar - auch für die Erklärung des Dezimalsystems. Auch
+Hella hat ja mittlerweile angegeben, dass sie die Division so erklärt
+hat (nur hat sie den Zusammenhang zwischen ihrer Erklärung und der oben
+angegebenen "Langformulierung" offenbar selbst nicht gesehen).
+
+	hp
+
+-- 
+   _  | Ingolf H. Zeckler    | Deprecating human carelessness and

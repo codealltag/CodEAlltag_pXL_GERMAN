@@ -1,0 +1,7 @@
+Jeder Befehl besteht aus 2 Teilen: einem Beschreibungsteil und
+einem Startteil. Der erste ist eindeutig durch seinen Wortgehalt,
+der zweite einfach dadurch, dass er auf den ersten folgt.
+
+Gruss
+
+Severin

@@ -1,0 +1,21 @@
+{(x,y)\in\R^2: \frac{x^2}{a^2} + \frac{by^2}{b^2} = 1 }
+
+In dieser Formel wuerde ich durch b kuerzen
+und Dir stattdessen die folgende Formel vorschlagen:
+
+{(x,y)\in\R^2: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 }
+
+(Ja, ich kann TeX- und LaTeX-Code immer noch auswendig lesen,
+auch wenn ich mich vor 20 Jahren und 11 Monaten
+aufgehoert habe, mich damit zu beschaeftigen.)
+
+
+-- 
+
+Steffen Heuber
+Informationssysteme
+DPI (DNBGhauptsache)
+Universität Tabakstüble
+Rüsbergstraße 84 9972 Luising  
+Telefon: +73-2-27203-3719  Fax: +00-8-26690-4997
+www.yzd.kepc.cp.wn

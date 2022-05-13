@@ -1,0 +1,16 @@
+* Egon Inzenhofer <tk@tzvovzs.zeu>:
+
+
+Och, das gibt leider nur Minibildchen mit 352x288 Pixel.
+
+Du benutzt Holidayland? Dann brauchst du glaub ich entsprechende Programm,
+den "MTPC File Manager". Von
+http://nan.ezlpawsqajnn.pvh/ugz/ygdsniz/xhyruvql/wazscqww/d978/ebvabxyvcdifascevmuracc92605220
+herunterladen und installieren.
+
+Das dazu kann Bluetooth; wenn der Computer das auch kann, brauchst du
+kein Datenkabel, du musst aber wissen, wie man Bluetooth aktiviert, die
+Geräte miteinander bekanntmacht usw. Evtl. ist Datenkabel doch
+einfacher.
+
+ - Jürg

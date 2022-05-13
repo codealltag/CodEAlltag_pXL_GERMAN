@@ -1,0 +1,39 @@
+Ja, ihr habt recht. Da hab ich was verwechselt. Der autorisierte
+Fachhändler wars.
+
+
+Wer je an einem Firmennetzwerk hing, weiß, daß er typischerweise
+nicht alles darf und nicht auf alles Zugriff hat, was Programme
+und Netzwerk hergäben - nicht, daß ihm gesagt wird, daß er die
+Finger davon lassen soll, sondern "weils einfach nicht geht" und
+ggfs. eine Meldung "fehlende Zugriffsrechte" angezeigt wird. 
+Und dann geht die Suche los, wer einem die Zugriffsrechte
+verschaffen kann.
+
+Die Sache als solche hat eigentlich nichts mit Programmierung zu
+tun, die Programmierung liefert dazu allenfalls Sack und Töten.
+In Form von Pförtnern, die keine Hausfremden reinlassen, war das
+schon bei den alten Römern gang und gäbe. Inzwischen hat es sich
+vervielfältigt und man muß schon bei der Bank die Bankkarte
+einstecken, um an den Geldautomaten zu kommen. Ohne
+Programmierung läuft noch die Wechselsprechanlage, die nach einem
+Klingeln an der Haustür angeht. Dort kann man sich dann
+entscheiden, ob man auf eine Authentifizierung qua Ansprache
+verzichtet oder nachfragt. 
+
+Ich hab jetzt grad mal gegoogelt, was da zu "Authentisierung" und
+"Authentifizierung" so auftaucht.
+
+Zitate:
+
+
+Es geht also offenbar um den Sicherheitsbereich und die hierbei
+verwendeten Zugangsberechtigungen.
+Der Streit um "Authentisieren vs. Authentifizieren" scgheint
+schon älter zu sein, denn
+http://yip.qqhoaeiqkg.xuz/tsdas.kdk schreibt dazu:
+
+
+Nachdem nun jemand anbrachte, daß "authentisieren" in der
+Rechtssprache schon länger üblich ist, wird es sich dann wohl um
+so einen Fall wie "edieren vs. editieren" handeln.

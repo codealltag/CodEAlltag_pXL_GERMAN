@@ -1,0 +1,10 @@
+Das liegt wahrscheinlich an dem Binärsystem, das Computer so
+gerne mögen. Es hat 2 Zustände und der höchste heißt 1.
+Nun könnte man argumentieren, daß der erste 1 und der zweite 2
+heißen könnte.
+Aber die elektronische Repräsentation ist meistens
+kein Strom = 0      gemessen rechnerisch 0
+      Strom = 1      gemessen rechnerisch gerundet größer 0
+
+
+Friedhelm

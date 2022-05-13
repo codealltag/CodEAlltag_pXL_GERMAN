@@ -1,0 +1,22 @@
+Du versteckst Text, indem du seine Hintergrundfarbe auf weiß setzt? 
+Funktioniert nur, wenn derIe EmpfängerIn als Textfarbe Weiß verwendet. 
+
+Die Steganographie ist heute schon /etwas/ weiter :-) 
+
+In HTML könntest du mit Kommentaren arbeiten: 
+
+	<p>viele Grüße <!-- und Küsse --><br/>
+	Dein Karl </p>
+
+Aber besonders gute Browser wie der Internet Exploder haben so was durchaus
+mal angezeigt, je nach Mondphase und Ölpreis. Also arbeitet man doch lieber
+mit CSS, aber richtig: 
+
+	<p>viele Grüße <span style="display:none">und Küsse</span><br/>
+	Dein Karl </p>
+
+(ohne Garantie dafür, daß IEs vor Version 8 /das/ beherrschen.) 
+Das sieht derIe EmpfängerIn nur noch, wenn erIe in den Quelltext schaut. 
+
+
+vG

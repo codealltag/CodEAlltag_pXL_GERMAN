@@ -1,0 +1,19 @@
+* Pius Rölfing:
+
+
+Dann hättest Du tunlichst "Das Schlimme an sich" geschrieben, denn
+ohne "an sich" hat "das Schlimme" nicht diese Bedeutung. Es hat
+vielmehr die Bedeutung "das, was schlimm ist". Wenn Du einen
+Unterschied zu "das schlimme Ding" siehst, erläutere ihn bitte.
+
+Kleinschreibung wäre möglich in dieser Konstruktion:
+
+  Die schlimmen sind ja die häufigen
+  "Dieses Geschäft wird Video überwacht"-Schilder.
+
+Das geht also gerade dann, wenn das "Ding" nur an der Stelle
+weggelassen ist, aber nicht im ganzen Text.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Igor Mehlinger

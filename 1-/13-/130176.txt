@@ -1,0 +1,31 @@
+Es heißt meinem Sprachverständnis nach gar nicht Strick, sondern Faden,
+Schnur, Saite oder etwas ähnlich Dünnes. "Kette" heißt es auch nur im
+Sinn von "auf einen Faden aufgefädelte Objekte" (wie bei einer
+Perlenkette), nicht im Sinne einer aus Kettengliedern zusammengesetzten
+Kette (das wäre chain). Beim /character string/ sind die Zeichen ähnlich
+den Perlen aufgefädelt. Das mag zwar ein hübsches und unmittelbar
+eingängiges Bild sein, ein Fachbegriff ist es trotzdem. Und - wie ja
+offensichtlich ist - dem Excel-Poweruser, der die "String"-Taste
+malträtiert - unverständlich.
+
+
+Abseits des Computers dürften in der Tat nur recht wenige Leute von
+Zeichenfolgen reden. Ob nun "Engelszungen" (ein Wortspiel von mäßiger
+Qualität) oder nicht.
+
+
+Doch, natürlich wäre es einer. Dafür muss es auch nicht Schlüsselwort
+einer Programmiersprache sein, die Verwendung in der IT in einer
+spezifischen Bedeutung reicht aus (können auch gerne mehere unterschiedliche
+Bedeutungen sein - wir sind da großzügig). Und wenn ich so darüber
+nachdenke: Ja, "Zeichenfolge" ist ein IT-Fachbegriff.
+
+
+Das sind für mich primär mathematische Fachbegriffe. Soweit sie in der
+IT verwendet werden (passiert in meinem Umfeld kaum, was möglicherweise
+- neben den "älteren Rechten" der Mathematik - zu meiner Einschätzung
+beiträgt) sind es aber definitiv IT-Fachbegriffe, denn die Definition
+von "Realzahl" und "Ganzzahl" in der IT unterscheidet sich erheblich von
+der Definition in der Mathematik.
+
+	hp

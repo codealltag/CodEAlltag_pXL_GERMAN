@@ -1,0 +1,14 @@
+* Uwe Staak:
+
+
+Als theoretisches Konzept ist das normalerweise ja sogar richtig.
+
+Die Sprachpraxis ist aber wieder anders. Ich glaube nicht, daß
+Otto-Normaluser von ihrer Mail sagen würden, sie sei "im
+Internet", selbst wenn sie tatsächlich dort ist (und gerade bei
+Otto-Normalusern ist sie das ja oft).
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Jens Tempelhahn, comp.lang.python

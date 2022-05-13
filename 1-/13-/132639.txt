@@ -1,0 +1,24 @@
+Zunächst mal Danke, daß Du reagiert hast -- das tun bei weitem
+nicht alle, um nicht zu sagen: die wenigsten.
+
+Ich find's auch gut, daß Du Dich entschlossen hast, statt einer
+".invalid"-Adresse einen "reply-fähigen" Account zu wählen, der
+auch tatsächlich von Dir gelesen wird.  Zwar hätte ich wohl der
+Kürze wegen gleich "@aqg.mbx" (bzw. "@ejk.hc") statt den Alias
+"@ywjmx-rfjxgjoc-omeek-tiiodmwu.ot" gewählt, aber okay, das ist
+eher Geschmackssache.
+
+Ah ja, aber den Vornamen würde ich ausschreiben: "Armin" liest
+sich einfach netter als "A.".  Das kannst Du einfach in Deinem
+Newsreader ändern, denn es betrifft ja lediglich Deinen Namen
+und nicht Deinen E-Mail-Account (also <pdighyliazq@...>).
+
+
+Es empfiehlt sich schon, wenigstens 4-6 mal am Tag die Mailbox
+abzufragen; ich nehme an, daß man das in Thunderbird auch
+dementsprechend einstellen kann.  Oder man benutzt eben ein
+anderes POP3-fähiges Mail-Programm, wenn einem Thunderbird
+nicht so gut gefallen sollte -- die Auswahl ist ja riesig!  :)
+
+
+ingmar

@@ -1,0 +1,27 @@
+Nein: (8,12)
+
+
+Es ist keine Kommazahl, sondern ein Paar (m,w) \in N x N.
+
+Man will z.B. ausdruecken, dass in einem Wurf Kaninchen 3 Maennchen
+und 2 Weibchen sind. Dann schreibt man kurz "(3,2) Kaninchen".
+
+0,1 ist also nicht das Kuerzel fuer "weiblich", sondern
+fuer eine einelementige Menge, die exakt ein Weibchen enthaelt.
+
+Die Anwendung auf die Personalliste ist IMHO eine kauzige Anwandlung,
+die halt eine in diesem Bereich uebliche Terminologie verwendet.
+
+Wenn man jemanden anmachen will, schafft man das immer. Bei "m" 
+und "w" koennte ihm jemand boeswilliges nationalen Chauvinismus 
+vorwerfen, dass es typisch deutsche Bezeichnungen sind.
+Die unangreifbar korrekten Symbole o+ und o-> (jeweils um 90/45
+Grad gedreht zu denken) hat man halt nicht im Standardzeichensatz.
+
+Roger
+
+
+PS: ich stelle in verschiedenen Kontexten immer wieder fest, dass bei
+Gleichberechtigung auf 50+w/50-m Wert gelegt wird, waehrend 
+auf Gleichbepflichtigung gerne verzichtet wird, und den "m" die klare 
+Mehrheit ueberlassen wird.

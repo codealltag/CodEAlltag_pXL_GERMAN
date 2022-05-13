@@ -1,0 +1,4 @@
+Um das zu verstehen, muß man zunächst wissen, was Rekursion ist. 
+
+
+vG

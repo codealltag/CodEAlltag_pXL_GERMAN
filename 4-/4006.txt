@@ -1,0 +1,16 @@
+The message <tjxdvh35f70o$.u4jvyehuzrf$.hzp@40vanm.otd>
+from Christoph Meulenkamp <hjmoofx@gsk.rl> contains these words:
+
+
+Ja freilich ist das "�" schön; besonders das handgeschriebene ist das
+Veilchen in der grünen Wiese. Leider blieb es jahrelang ein Waisenkind.
+Bloß ein Prozent aller mechanishen, elektrischen und elektronischen
+Schreibmaschinen verfügten über diese Taste und, gemeinsam mit Umlauten,
+fehlt es auch an vielen anderen Stellen. In unserem Forum wird es
+unschön unter utf-8 als " ß" dargestellt obwohl es mit
+charset=ISO-8859-1 ohne weiteres als "�" erscheint.
+Mein Beitrag war nur ein Vorschlag zur besseren Wiedergabe im
+elektronischen Zeitalter. Ob es die Anwender von UTF-8 kümmert wie und
+ob es auf anderen Bildschirmen schön aussieht bezweifle ich.
+Gruß
+Samu

@@ -1,0 +1,5 @@
+A3= 420x297, A2= 594x420, A1= 840x594, A0= 1188x840 mm.
+Handelsübliche Drucker könnten eine A4-breite (210) Papierrolle bedrucken,
+die Papierführung kann u.U. problematisch werden.
+
+MfG, CHRISTIAN

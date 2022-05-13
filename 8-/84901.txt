@@ -1,0 +1,21 @@
+Doch, genau so ist es. Ein Arbeitsgerät soll fehlerfrei arbeiten und die
+Arbeit machen, zu der ich / der Benutzer es benutzen will und nicht
+einfach einen Arbeitsgang vereiteln, das Ergebnis meiner gewünschten
+Arbeit verändern oder gar nciht funktionieren. Und genau deswegen sollte
+der Benutzer sich sein Werkzeug von verschiedenen Herstellern aussuchen
+können und die offensichtlichen Mängel des Platzhirsches kennen.
+
+Oder konkret: Wenn auf der Bohrerschachtel draufsteht; 10mm SDS-Bohrer,
+dann erwarte ich, das dieser Bohrer in meine SDS-Bohreraufnahme paßt und
+10mm Löcher bohrt. Und nicht einen Bohrer, der einen zu kleinen Schaft
+hat (man muß erst eine zusätzliche Schicht aufschweissen, damit er paßt)
+und 13mm Löcher bohrt. Nur leider ist es in der IT-Welt so, das die
+meisten Benutzer gar nicht wissen, das es passende, normgerechte Bohrer
+gibt, weil sie von Leuten wie dir davon mit saublöden Sprüchen
+abgehalten werden. Prinzip Bl�dmarkt...
+
+-- 
+Antworten auf öffentlich gestellte Fragen bitte NUR öffentlich. 
+Mein Postfach (email) wird wird nur 2 mal im Monat entm�llt. 
+Außerdem wohne ich nicht im Rechner, Antworten könnten ein paar Tage 
+dauern.                                              Größe von P.G.B.

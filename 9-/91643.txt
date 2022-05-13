@@ -1,0 +1,9 @@
+Ist Technikersprache. Schalter, Ventile und Fahrstuhltüren äffen und 
+schließen im Programmablauf. Da weder das Steuerprogramm noch die Türen 
+dabei aktiv werden, wird einfach nur das generische Ereignis 
+beschrieben. Wenn dagegen ein konkretes Ereignis vorliegt, sagt der 
+Erzähler natürlich, "die Lifttür öffnete sich".
+
+--
+
+Sascha Daiß

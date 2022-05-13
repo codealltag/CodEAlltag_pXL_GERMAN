@@ -1,0 +1,11 @@
+Wird leider seit langer Zeit nicht mehr weiterentwickelt. Und läuft
+nicht auf Linux.
+
+Die Einstellungen von 4D sind allerdings arg unübersichtlich, die vielen
+Rädchen zum dran drehen sind wie mit der Gießkanne über die diversen
+Menus verstreut.
+
+obdesd: Schreibt man "zum dran drehen" oder "zum Dran Drehen" oder "zum
+dran Drehen" oder anders? nach alter, nach neuer Rechtschreibung?
+
+Sven

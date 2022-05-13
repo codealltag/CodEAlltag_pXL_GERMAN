@@ -1,0 +1,6 @@
+Dann werden wir wohl auch bald "der Sonne" (oder "Der Sonn"?) sagen, so
+wie die Länder mit traditionell stärkerem Sonnenschein?
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Pasquale Teubert, comp.lang.python

@@ -1,0 +1,6 @@
+Mit anderen Worten; unter Unix war das Prinzip der Keymaps bis zum 
+Auftauchen von X(11) nicht bekannt? Die diversen Terminals hatten doch 
+bestimmt nicht identische Tastaturen?
+
+
+Wollte ich damit auch nicht zum Ausdruck bringen.

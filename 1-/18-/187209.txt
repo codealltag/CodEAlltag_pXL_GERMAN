@@ -1,0 +1,5 @@
+Ach so, ich kann sowas wie "sudo passwd root" schreiben?
+
+Na dann...
+
+Marc

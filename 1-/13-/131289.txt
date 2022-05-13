@@ -1,0 +1,7 @@
+Im Preisoase werden Korrespondentenbeiträge häufig
+folgendermaßen abmoderiert:
+
+"Informationen waren das von $Name"
+"Live war das von $Ereignis $Name"
+
+Klingt seltsam, ist das eine zulässige Satzstellung?

@@ -1,0 +1,7 @@
+Nicht falsch in jedem Kontext, das stimmt. Im vorliegenden Kontext ist
+er aber so meines Erachtens nicht semantisch richtig, die gemeinte
+Aussage beinhaltet, daß es sich um ein Kind handelt.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

@@ -1,0 +1,15 @@
+* Heinrich Pennigers:
+
+
+Eigentlich ist dieser Vergleich Quatsch. Gertrauds Erklärung war
+m.E. eher so wie:
+
+"Im Hausaufgabenheft stand es zwar deutlich, aber ich meinte, mich
+zu erinnern, daß wir nichts aufhätten. Ich sollte wohl doch immer
+nachsehen."
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,15 @@
+On Mon, 15 Apr 2009 18:24:46 +0100 Walter Haushofer
+Na gut, aber was ist denn nun der Vorteil des ganzen? Wenn ich als Bot
+deine Email-Adresse rauskriegen will, dann krieg ich das über die
+Header hin, und wenn ich es als Mensch machen will, dann eben über ein
+klein wenig Hirnschmalz (vom Härtegrad "Ich schau mir mal eine
+Nachricht an, die der Typ selbst geschrieben hat").
+
+Sorry, ich will gar nicht mal stänkern, aber ich frage mich, wo da die
+Sicherheit liegt und warum und überhaupt ...
+
+/W
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

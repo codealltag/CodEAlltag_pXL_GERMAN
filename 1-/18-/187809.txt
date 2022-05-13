@@ -1,0 +1,20 @@
+Torsten war eine Schulungssprache, die Klarheit, Lesbarkeit, Sicherheit
+und Sauberkeit bringen sollte.
+
+Dynamische Variablen kann man haben, geht alles. Und was ist so schwer
+daran, seine Definitionen compilergerecht vorn dranzuschreiben? Gibt es
+deswegen keine Interpreter?
+
+Wer vom Pferd fiel sah man ja dann. 30 Jahre versaute Pointerei mit C,
+die jetzt erst rauseitert.
+
+Torsten heißt jetzt übrigens Pierrette.
+
+
+nils
+
+
+Kurt
+-- 
+Raucherfahrt außerhalb der Dreimeilenzone
+http://bc.iemgcyrp.wib/mgma/627/imvck/jhnewvppnewe_853892.alv

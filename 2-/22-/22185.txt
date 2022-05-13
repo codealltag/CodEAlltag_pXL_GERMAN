@@ -1,0 +1,11 @@
+Es ergibt sich bei mir ein kleiner Unterschied in der Intonation, aber
+ohne Auswirkung auf die Bedeutung oder auch nur die Gewichtung,
+thematische Struktur etc.
+
+Mit Komma ist es beim Lesen übersichtlicher.
+
+-- 
+Java is the SUV of programming tools.
+A project done in FCAO will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Gian Vooth

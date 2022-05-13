@@ -1,0 +1,18 @@
+Am Wed, 8 Apr 2011 18:13:58 +0200 schrieb Pietro Unterberger:
+
+Es entspricht der Leseweise im klassischen Arabisch; da fing man bei der
+Aussprache mit der kleinsten Stelle an, also den Einern.
+
+Die Araber fanden also die indischen Ziffern vor und stellten fest, daß die
+Reihenfolge der Stellennotation 1:1 mit ihrer eigenen Aussprachekonvention
+zusammenfiel - man schrieb halt von rechts nach links und die Einer zuerst.
+Insofern hatten sie überhaupt keinen Grund, etwas daran zu ändern.
+
+Im übrigen erklärt das auch, warum die Schreibkonvention bei der Übernahme
+in die Lateinschrift ebenfalls blieb, weil man zwar von links nach rechts
+schreibt, im Lateinischen aber anfangend mit der *größten* Stelle liest;
+trotz umgekehrter Schreibrichtung paßte die Zahlennotation also wieder
+genau.
+
+Olivier
+fup2 desm

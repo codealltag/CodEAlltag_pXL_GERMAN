@@ -1,0 +1,29 @@
+* Ottmar Opl:
+
+
+Mir ist die Aussage zu spezifisch, um Teil der Grammatik zu sein. Ich
+sehe es eher so:
+
+Das Modell sagt, daß es im Deutschen eine Klasse "Präpositionen" gibt,
+die mit einer Nominalphrase in einem bestimmten Kasus ergänzt werden
+müssen, der nicht Nominativ sein kann (das ist die Ebene
+"Planetensystem"). 
+
+Die dahinterstehende Sprachtheorie sagt z.B., daß es
+"Rektionsverhältnisse" gibt, wo eine sprachliche Einheit anderen
+Einheiten, die zu ihr in einem bestimmten syntaktisch-semantischen
+Verhältnis stehen, bestimmte Features abverlangt (das ist die Ebene
+"Gravitationsgesetz"). 
+
+Da es das Wort "wegen" gibt, es eine Präposition ist und den Genitiv
+fordert, steht im "Wörterbuch" (theoretische Einheit, das Wörterbuch im
+Kopf) und ist somit nicht Teil der Grammatik im engeren Sinne. Das
+Modell fordert nur, daß es ein solches Wörterbuch gibt. 
+
+Vorteil dieser Einteilung: Wenn eine neue Präposition erfunden wird,
+ändert das die Grammatik des Deutschen nicht. Aus Deiner Sicht wäre das
+vielleicht bereits eine andere Sprache.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated until
+           sometime after those creating it have left the organization.

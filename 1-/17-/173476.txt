@@ -1,0 +1,20 @@
+Da hilft kein Zittern und kein Zagen:
+Nach der von mir gepflegten Nomenklatur ist es der Form nach ein
+Modalsatz und dem Inhalt nach ein "Inhaltsatz": Er enthält oder
+erklärt den Inhalt des Prädikats im übergeordneten [Haupt-]Satz.
+
+
+Aber so neutral sind sie auch wieder nicht: Sie leiten zu jeweils
+spezifischen Modalitäten hin. Du schreibst es ja selbst:
+
+
+Doch. Es soll oder kann, je nach Gusto, nachgewiesen werden,
+   daß XYZ oder
+   daß XYZ nicht
+bzw.
+   ob XYZ [oder ob nicht].
+
+Ich bleibe also dabei:
+
+j/\a
+--

@@ -1,0 +1,6 @@
+In der Mathematik braucht man Konsistenz. Die Summe aller geraden
+Primzahlen größer 2 sei S. Die Summe aller geraden Primzahlen ist dann
+2+S. Nun gilt: 2+S = 2. Somit ist nur ein Wert von S sinnvoll.
+
+-- 
+Cornelius

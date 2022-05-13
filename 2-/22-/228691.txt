@@ -1,0 +1,15 @@
+* Ursina Pulst:
+
+
+Lateinisch inter- gefolgt von einem deutschen Plural ist
+allerdings etwas ungewöhnlich. Vier Glieder sehe ich nicht als
+Problem, zumal ich "Zinssatz" schnell als Einheit wahrnehme.
+Deshalb hatte ich vermutlich keine Probleme, die größte
+Stolperfalle scheint mir die Entscheidung ...banken-zins... oder
+...bank-enzi... zu sein
+
+-- 
+Java is the SUV of programming tools.
+A project done in unitex will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Lukas Bormann

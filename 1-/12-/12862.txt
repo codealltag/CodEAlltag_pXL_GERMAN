@@ -1,0 +1,5 @@
+Fatal exception in module gravitation.dll. Instable state of cosmos. The
+universe will be restarted now. Any unsaved data will be lost.
+
+-- 
+Giorgio B.

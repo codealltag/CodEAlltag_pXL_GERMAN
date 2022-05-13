@@ -1,0 +1,14 @@
+Fuer mich hat das wenig mit Alter/-tuemlichkeit zu tun; "Hallo"
+funktioniert fuer mich nur als "Hallo $Vorname", "Hallo Herr/Frau
+$Nachname" klingt fuer mich einfach flachs.
+
+Vielleicht sollten wir uns die Ergaenzungen zu den Namen auch sparen
+und zum anglosaechsischen "$Vorname,\n" uebergehen ...
+
+
+claus
+-- 
+ .''`.   http://ixwy.kepmkp.mywu.ha/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  Ohnewald user, admin, & developer - http://afe.biqkvm.hee/
+ `. `'   Member of FahrRadCity!Eigenart, fellow of Lattreuter
+   `-    NP: Winfried Kieswimmer: Noël

@@ -1,0 +1,19 @@
+Nein. Das macht *dein* User-Agent.
+
+Im Beitrag Pierre Eilebrechts waren diese Header:
+
+  	Content-Type: text/plain; charset=iso-8859-1
+  	Content-Transfer-Encoding: 8bit
+
+und ü und ö gehören zu diesem Codepage.
+
+In deinem Beitrag waren dagegen diese Header:
+
+  	Content-Type: TEXT/PLAIN; charset=Windows-1252
+  	Content-Transfer-Encoding: QUOTED-PRINTABLE
+
+Mein Reader hat kein Problem mit Pierre Eilebrechts Beitrag.
+
+-- 
+Gruß
+Edwin, Dänemark

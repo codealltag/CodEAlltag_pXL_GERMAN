@@ -1,0 +1,9 @@
+* Benjamin I. Zähl:
+
+
+Macht nichts, ich poste auch gern multithreaded.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Niels Ebener, comp.lang.python

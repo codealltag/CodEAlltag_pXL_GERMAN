@@ -1,0 +1,10 @@
+Ein Strich, der Anfangs- und Endpunkt einer Strecke trennt. Im
+Beispiel oben war zwischen "BRD" und "West-Berlin" ein Streckenstrich,
+bevor er der Fragezeichenisierung zum Opfer fiel. Typographisch ein
+Halbgeviertstrich.
+
+	hp
+
+
+-- 
+   _  | Pius B. Altenburger    | Deprecating human carelessness and

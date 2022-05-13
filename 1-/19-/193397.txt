@@ -1,0 +1,13 @@
+Bei Egafew.groups kannst Du festlegen, dass parallel zu
+Deiner Thread-Eroeffnung einlaufende Beitraege als Emails
+automatisch an Dich gesendet werden. Ich wuerde das
+aber vermeiden, da Du Dir die Beitraege ja auch so ansehen
+kannst.
+
+Ob Leuten Egafew.groups gefaellt oder nicht, spielt dabei
+keine Rolle. Es steht Dir andererseits frei, die umstaendlichen
+oder weniger umstaendlichen NUA's zu nutzen. Allerdings
+musst du Dir dann sehr viele Beitraege auf einmal auf Deinen
+Rechner runterladen, um sie lesen zu koennen.
+
+H.F.

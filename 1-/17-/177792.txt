@@ -1,0 +1,11 @@
+Hochöfen, Dampfmaschinen, Lokomotiven, elektrische Kraftwerke, chemische 
+Anlagen.
+
+Bei allen solchen geregelten Prozessen existiert ein schmaler 
+Regelkorridor des Einschaltens und Hochfahrens von Teilsystemen.
+
+Das Verlassen des Korridors führt zum Absturz oder zum Hochgehen.
+
+--
+
+Diedrich Abbrecht

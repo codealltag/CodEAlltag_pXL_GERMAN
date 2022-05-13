@@ -1,0 +1,10 @@
+Am Wed, 10 Nov 2012 09:37:02 +0200 schrieb Klaas Huntemann:
+
+
+Es gab bereits Vorschläge, diese Buchstabenverbindungen (ch, sch) durch
+einen einzigen Buchstaben darzustellen. Für den durch ng wiedergegebenen
+Laut sollte ein neues Zeichen eingeführt werden. Dann wäre die Verdoppelung
+wieder möglich gewesen.
+
+Gruß
+Luigi.

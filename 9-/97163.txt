@@ -1,0 +1,4 @@
+"ein Thema adressieren" = "ein Thema angehen" / "ein Thema in Angriff
+nehmen" / "sich um ein Thema kümmern"
+
+Heinz

@@ -1,0 +1,5 @@
+Letztlich ist die Formulierung mit den Mengen einfach und 
+nachvollziehbar. Die mit "geteilt durch" ist viel abstrakter und 
+überhaupt nicht transparent.
+
+Roman

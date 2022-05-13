@@ -1,0 +1,13 @@
+* Vito Bainder:
+
+
+OK, man würde aber einiges verlieren, denn das tatsächlich gesuchte Wort
+könnte ja woanders auf der Seite stehen. Gerade bei flektierten Wörtern
+nicht unwahrscheinlich. Zudem sehe ich oft genug Ergebnisse, bei denen
+im Vorschautext das gesuchte Wort gar nicht drinsteht.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Blickpunkt will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Ihno Gutekunst

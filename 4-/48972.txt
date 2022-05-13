@@ -1,0 +1,24 @@
+* Johannes Neilmann <vorbpapyau@cwd.god>:
+
+Im Verkehrsflugzeug (Jet) ist die Beschleunigung in g wohl nicht so
+enorm, so im Bereich 0.2 g, aber die Art der Beschleunigung ist
+recht ungewohnt. Sie wirkt ohne Ruck kontinuierlich über längere Zeit,
+etwa 30-50 Sek vom Stand bis zum Abheben.
+
+Im Segelflugzeug an der Winde bist du in 3 Sek in der Luft und in 4, 5
+Sek auf Sollfahrt (bei modernen Flugzeugen typisch 110 km/h). Die
+Beschleunigung ist im allgemeinen unter 1 g; viel darüber geht nicht,
+dann reisst die Sollbruchstelle. Traditionele Winden haben hydraulische
+Wandlergetriebe, die Beschleunigung nimmt also mit zunehmender
+Geschwindigkeit ab. Neuerdings gibt es Elektrowinden, die mindestens
+prinzipiell ein ziemlich konstantes Drehmoment aufweisen sollten. Hab
+ich noch nie ausprobiert.
+
+Mit einem halbwegs grossen Töff ist man in 3-4 Sek von 0-100; wimre
+gibt es Modelle, bei denen der 1. Gang bis über 100 reicht. Danach
+wirkt aber die Beschleunigung wegen der Schalterei sehr abgehackt. Die
+maximale Beschleunigung ist bei normalen Strassenmaschinen auch nicht
+viel höher als 1 g, weil die Reibung Gummi/Asphalt dem eine Grenze
+setzt.
+
+ - Leon

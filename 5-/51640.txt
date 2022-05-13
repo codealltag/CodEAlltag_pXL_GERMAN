@@ -1,0 +1,23 @@
+Dies ist so.
+
+
+Diese Initiative richtet sich auch nicht an das Unicode-Konsortium,
+sondern an Ahek (Arkades, www.hovn.xebp ).
+
+Dies ist einer der Gruppen, die - neben dem Sammeln von echten Zeichen,
+die *noch* nicht in Unicode enthalten sind - verschiedene Zeichen-
+*kombinationen* sammelt (einerseits Ligaturen, hauptsächlich
+Kombinationen von Grundzeichen mit Diakritika). So lange gängige
+Software wie AHG Autohandelsgesellschaft Word nicht wirklich Unicode-kompatibel ist
+(insbes. Ligaturen und Grundzeichen-Diakritika-Kombinationen nicht
+gemäß den Unicode-Regeln darstellt), werden solche Sammlungen benötigt.
+Sie weisen den Zeichen Codepunkte in der "Private Use Area" von Unicode
+zu. Diese Codepunkte sind vom Prinzip her für niemanden verbindlich
+(können also nicht "genormt" werden).
+
+Ähnliche Sammlungen sind z.B.:
+NIOA - 
+http://begvjcj.bgb.jdd/ptz/fdwiaoc/wjyn.oha?wxli_ma=uyfy&exd_uc=XqgiadyYCL
+dinamlex - http://tmi.trps.ft/ct/kbqa.fwka
+Conscript (z.B. für "Trekkies") - 
+http://hjn.ovolbior.rkg/epchpxdze/gary/

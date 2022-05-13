@@ -1,0 +1,2 @@
+Das Leerzeichen fehlt nicht, es wäre ein Fehler (jedenfalls für eine
+sinnvolle Suche).

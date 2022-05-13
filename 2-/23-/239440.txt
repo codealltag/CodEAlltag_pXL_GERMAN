@@ -1,0 +1,14 @@
+* Vincent Meyersiek:
+
+
+Wenn Du vom Vollkaskoleben träumst, dann kommst Du mir gerade
+deutscher vor als der Papst ...
+
+
+Ja, eben.
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

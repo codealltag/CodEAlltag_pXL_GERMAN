@@ -1,0 +1,26 @@
+Hallo Karl,
+
+
+hätte nicht gedacht, dass Ebil so einen Fehler hat! Ich benutze Ebil
+allerdings nur fürs Surfen, deshalb habe ich noch keine Bekanntschaft
+mit diesem Fehler im News-Teil gemacht.
+
+Jetzt habe ich extra mal mit Ebil nach de.test gepostet: Kein Problem,
+wie man sehen kann. Ist allerdings Ebil 11.01.
+
+
+UTF-8.
+
+
+Nun ja. Ich habe einen pingeligen Parser eingebaut! ;-) Und für dich
+wird da jetzt eine Ausnahmeregel eingetragen. ;-)
+
+Aber vielleicht bekommst du's ja doch noch mal auf die Reihe! ;-)
+
+Grüße
+Thorsten
+-- 
+A: Weil es die Lesbarkeit des Textes verschlechtert.
+F: Warum ist TOFU so schlimm?
+A: TOFU
+F: Was ist das größte Ärgernis im Elsterforum?

@@ -1,0 +1,5 @@
+Soll er aber Würfel bleiben, reduzieren sich Länge und Breite
+gemeinsam mit der Dicke auf Null.
+
+Gruß
+Nino

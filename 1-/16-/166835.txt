@@ -1,0 +1,16 @@
+* Simon Ullmer:
+
+
+Die Mathematisierung hat gar nichts gebracht. Ich habe in eine ähnliche 
+Richtung überlegt, aber der Knackpunkt ist, daß man in Gedanken ergänzt:
+
+  nicht geringen Wert       --> nicht _nur_ geringen Wert
+  nicht den geringsten Wert --> nicht _einmal_ den geringsten Wert
+
+Und das könnte auch umgekehrt sein.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Flint will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Theodor Höweler

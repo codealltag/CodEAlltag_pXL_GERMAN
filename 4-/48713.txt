@@ -1,0 +1,8 @@
+Es ging um zweifach-doppelte pleonastische Redundanzen, da müßte es
+schon mindestens eine ISBN-Buchnummer oder Internationale ISBN-Nummer
+sein. Die Internationale ISBN-Buchnummer käme dann als Tripel in Frage -
+sowas wirst Du aber kaum finden.
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Ivo I. Gokeler

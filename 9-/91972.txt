@@ -1,0 +1,10 @@
+* Philippe Ullbrich <ddlzec@iam.rd>:
+
+
+Das wäre überaus erstaunlich, denn diese gut abgehangene Version von
+slrn, die ich verwende, unterstützt utf-8 bloss rudimentär beim Lesen,
+kann aber nicht selber utf-8-Artikel generieren. Es war NewsTap aufm
+iPhone, das zwar unnötigerweise, aber dennoch völlig korrekt utf8
+produziert hat.
+
+ - Jacques

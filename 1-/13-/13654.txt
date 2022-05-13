@@ -1,0 +1,12 @@
+Es gibt verschiedene "Gegenteile". (A2) ist die Negation von (A1), Dein 
+Beispielsatz das polare Gegenteil.
+
+Hier ein Beispiel einer These mit drei Antithesen:
+
+(T)  Ich liebe Katzen!
+(A1) Ich liebe Katzen nicht gerade, aber sie stören mich auch nicht.
+(A2) Ich hasse Katzen!
+(A3) Ich liebe Hunde!
+
+-- 
+Niclas G.

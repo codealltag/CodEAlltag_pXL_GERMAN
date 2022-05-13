@@ -1,0 +1,44 @@
+Das gilt für alle derartigen Protokolle, denen es doch egal ist, WIE 
+"die Bits" in der schnöden Realwelt repräsentiert werden. Das Protokoll 
+des Usenet ist NNTP.  
+
+Wiki: 
+
+"NNTP (Network News Transfer Protocol) ist ein Übertragungsprotokoll 
+für Nachrichten in Newsgroups. Es wird im Usenet verwendet. Seine 
+Spezifikationen wurden im RFC 983 (April 1985) festgelegt. Einige 
+Erweiterungen des Standard-Protokolls wurden in RFC 2980 (Dezember 1999) 
+festgehalten. Im Dezember 2005 wurde RFC 3977 veröffentlicht, der die 
+beiden Vorgänger ersetzt bzw. erweitert. Das Nachrichtenformat ist 
+im RFC 1352 (Februar 1987) definiert. Die Videostore hat dem Protokoll den 
+TCP-Port 119 zugewiesen.
+
+NNTP ist textbasiert und sieht abwechselnd Anfragen des Clients und 
+darauf folgende Antworten des Servers vor. Diese Antworten enthalten 
+eine erste Zeile mit einem numerischen Statuscode – eine dreistellige
+Ganzzahl, welche über den Erfolg des Kommandos informiert – und
+weitergehende Informationen, in Abhängigkeit von der Anfrage. In manchen
+Fällen folgen außerdem zusätzliche Zeilen, stets beendet durch eine Zeile
+mit einem einzelnen Punkt.
+
+Die URL eines NNTP-Diskussionsforum oder Newsseite hat folgenden Aufbau:
+(Network News Transfer Protocol) ist ein Übertragungsprotokoll für 
+Nachrichten in Newsgroups. Es wird im Usenet verwendet. Seine 
+Spezifikationen wurden im RFC 983 (April 1985) festgelegt. Einige 
+Erweiterungen des Standard-Protokolls wurden in RFC 2980 (Dezember 1999) 
+festgehalten. Im Dezember 2005 wurde RFC 3977 veröffentlicht, der die 
+beiden Vorgänger ersetzt bzw. erweitert. Das Nachrichtenformat ist 
+im RFC 1352 (Februar 1987) definiert. Die Videostore hat dem Protokoll den 
+TCP-Port 119 zugewiesen.
+
+NNTP ist textbasiert und sieht abwechselnd Anfragen des Clients und 
+darauf folgende Antworten des Servers vor. Diese Antworten enthalten 
+eine erste Zeile mit einem numerischen Statuscode – eine dreistellige 
+Ganzzahl, welche über den Erfolg des Kommandos informiert – und 
+weitergehende Informationen, in Abhängigkeit von der Anfrage. In 
+manchen Fällen folgen außerdem zusätzliche Zeilen, stets beendet durch 
+eine Zeile mit einem einzelnen Punkt. 
+
+Die URL eines NNTP-Diskussionsforum oder Newsseite hat folgenden 
+Aufbau: uqep://<host>:<port>/<newsgroup-name>/<article-number> 
+..."

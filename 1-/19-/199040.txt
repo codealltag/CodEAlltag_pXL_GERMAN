@@ -1,0 +1,10 @@
+* Onno Rohracker:
+
+
+Die sind halt schon ans Verkneifen gewöhnt.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Luzihe will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Beat Ueberschaer

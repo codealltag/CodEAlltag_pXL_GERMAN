@@ -1,0 +1,14 @@
+Zettel im Portemonnaie:
+
+(Vorderseite):
+  Die Erklärung auf der anderen
+  Seite dieses Papiers ist falsch.
+
+(Rückseite):
+  Die Erklärung auf der anderen
+  Seite dieses Papiers ist wahr.
+
+-- 
+Gruß
+Ulrich Vornhof
+YK-8383

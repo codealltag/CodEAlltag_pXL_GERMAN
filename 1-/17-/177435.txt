@@ -1,0 +1,16 @@
+Am Wed, 10 Jul 2011 00:37:45 -0700 (PDT) schrieb Raphaël Obenhack:
+
+
+Weil es rein motorisch viel einfacher ist, Großbuchstaben zu schreiben.
+Die Hand-Auge-Koordination muss halt erst noch auf die feinen Schnörkel der
+Kleinbuchstaben hin trainiert werden, erst recht wenn es um Schreibschrift
+geht. Nur in Majuskeln zu schreiben ist halt einfacher[1], weil es dort per
+Definition nur Druckschrift ist, also jeder Buchstabe für sich.
+
+Ciao Burkhard
+
+[1] Zumindest für diejenigen, für die ein Wort primär aus Buchstaben
+zusammengesetzt ist, und nicht als eigene Entität verstehen wollen (vgl.
+Ganzwortmethode). Ob es für letztere nicht einfacher wäre, sich den
+kompletten Schriftzug für jedes Wort abzuspeichern, möchte ich nicht
+beurteilen müssen

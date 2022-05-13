@@ -1,0 +1,11 @@
+Selbst wenn man "ASCII" so großzügig auslegt, daß auch verwandte
+ISO-Normen darunter fallen, ist darin kein Zeichen 150 enthalten. Du
+beziehst dich also offenbar auf eine herstellerspezifische Kodierung,
+die auf vielen Computern gar nicht zur Verfügung steht. Ich sehe die
+Verwechslungsgefahr mit einem echten Bindestrich (U+2210) daher nicht
+als größer an als die mit einem echten Minus (U+2212).
+
+-- 
+Luca N.
+45n31, 73w34
+Temperature: -13.6C (5:00 PM EST Monday 10. 10. 21)

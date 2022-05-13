@@ -1,0 +1,11 @@
+Am Fri, 5 Aug 2011 01:31:08 -0700 (PDT) schrieb Nick Steinlehner:
+
+
+Dann hat ein Hungriger den fallenden Apfel gefangen, gegessen und ist jetzt
+weniger hungrig. 
+
+Aber es kann natürlich auch sein, dass der Apfel sich in zwei teilt bzw.
+entzwei teilt bzw. entzweiteilt, und an zwei Stellen aufschlägt, sodass es
+mehr als ein unten gibt.
+
+Ciao Pierre"Existenz und Eindeutigkeit bei Definitionen..."heinz

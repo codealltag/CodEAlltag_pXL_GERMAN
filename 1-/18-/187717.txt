@@ -1,0 +1,11 @@
+* Fredy Engelage:
+
+
+Eier und Sülze; Eier, Speck und Sülze; Eier, Speck, Würstchen und
+Sülze; Sülze mit Speck, Würstchen und Sülze; Sülze mit Ei, Sülze,
+Sülze, Speck und Sülze; ...
+
+-- 
+Performance:  A statement of the speed at which a computer system
+works. Or rather, might work under certain circumstances.  Or was
+rumored to be working over in Jeggen about a month ago.

@@ -1,0 +1,16 @@
+Nur von dem Windowssystem. Ich kann die Zeichen auch in
+Thunderbird schreiben.
+
+
+Das verstehe ich gar nicht.
+
+1. Hast du NumLock aktiviert?
+2. Benutzt du die numerische Tastatur?
+3. Haltest du die Alt-taste die ganze Zeit nieder?
+4. Drückst du auch das Null?
+
+Bei mir kann ich kein Zeichen schreiben, wenn ich mit AltGr
+versuche.
+
+-- 
+Gruß, John

@@ -1,0 +1,14 @@
+* Gerlinde Eimermacher:
+
+
+Andererseits ist "oder" ein äußerst seltenes Wort innerhalb von
+Komposita [1]. Aber ich weiß auch, daß das auf der niedrigen Ebene
+der Schrifterfassung nicht unbedingt hilft.
+
+[1] Hier hatte ich zuerst "innerhalb Komposita" stehen, fand das
+beim Nachlesen dann aber schwer verständlich.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Otto Thybus, comp.lang.python

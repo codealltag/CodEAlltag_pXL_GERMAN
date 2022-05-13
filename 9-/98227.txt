@@ -1,0 +1,3 @@
+Warum?
+Ich dachte bisher, der Teil hinter dem Semikolon müsse prinzipiell als
+eigener Satz stehen können.

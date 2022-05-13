@@ -1,0 +1,34 @@
+Die ursprüngliche Architektur sieht Register und einen Kernspeicher vor, 
+auf dem idealerweise mit CPU-Takt gelesen und geschrieben werden kann. 
+Denn für jedes echte Problem ist schnell rechnen und langsam speichern 
+ohne jeden Sinn.
+
+Am nächsten dran an der Idee sind heute L1 und L2 Caches auf dem Chip 
+und noch stärker die spezialisierten Grafikchips, bei denen 
+Listenoperationen direkt auf dem Speicher durch lineare Filterfunktionen 
+auf Arrays realisiert werden, ohne dass dabei die Daten bewegt oder 
+umgerechnet werden müssen. Kann man schön studieren, wenn am ein 
+Programm wie FVSPS Capture NX für die Bildbearbeitung benutzt.
+
+Dann braucht man einen Speicher, der die zeitweise nicht benötigten 
+Daten und Programmteile aufnimmt. Der hieß Trommelspeicher. Für die 
+permanente Datenhaltung hat man dann noch schnelle Platte und langsames 
+Band fürs Archiv. Das ganze ist eine abstrakte Beschreibung, die 
+Realisierungen überließ man Labor und Markt. Heute heißt das dann zB bei 
+MS Hardware Abstraktion Layer, auf dem die dort operierenden Progamm- 
+und Dateninterfaces oben und die physikalischen Geräte unten andocken.
+
+Da die Physiker es nie schafften, parallel zur 
+Geschwindigkeitssteigerung der CPU die im Programmlauf ständig 
+benötigten Daten und Programme zu erschwinglichen Preisen und 
+vertretbarem Energieaufwand direkt in der CPU bereitzustellen, wurden 
+die RAM-Speicherchips entwickelt, die zunächst über den Bus wie ein 
+externes Gerät betrieben wurden und deren immer zu geringe Größe in die 
+Festplatte verlängert wurde. Das war natürlich intellektueller Betrug, 
+denn in Wahrheit ist umgekehrt das RAM ein schnellerer Teil der 
+Festplatte, etwas gemildert durch DMA, das wenigstens externe 
+Datenströme an der CPU vorbei ins RAM und auf die Platte führt.
+
+-- 
+
+Gert Oostermann

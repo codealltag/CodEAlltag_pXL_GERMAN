@@ -1,0 +1,6 @@
+Das könnte auch eine Datei mit einigen Seitenvorsch�ben ohne Text 
+dazwischen sein. Druckt man die aus, so erhält man A4-Papier zum 
+Selbstbeschreiben.
+
+-- 
+Diedrich Rethwilm

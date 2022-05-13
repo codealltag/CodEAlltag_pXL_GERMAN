@@ -1,0 +1,10 @@
+Es handelt sich nicht um ein Header, sondern um ein bestimmtes
+Zeichen, das in gewisse Newsreadern eine bestimmte Funktion hat,
+nähmlich einen Abschnitt zu verborgen.
+
+Mit Ctrl-Shift-S wird der Abschitt in meinem Newsreader wieder
+sichtbar, aber das ist spezifisch für Dialog.
+
+-- 
+Gruß
+Karlheinz, Dänemark

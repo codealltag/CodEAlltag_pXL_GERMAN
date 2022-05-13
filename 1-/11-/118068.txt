@@ -1,0 +1,4 @@
+Stimmt. Ein Synonym for "Das ist praktisch ausgeschlossen" war immer 
+"Die Wahrscheinlichkeit dafür ist kleiner als Epsilon-halbe".
+
+Ulf

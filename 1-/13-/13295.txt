@@ -1,0 +1,10 @@
+Achim Eberl tat kund:
+
+
+????
+
+
+Im Kontext der Zeilenreich hat diese Regel schon einen Sinn:
+Es wird ja eine vorhergegangene Regel geändert. Da
+ist es immer besser, die geänderte Regel hinzuschreiben
+als die alte einfach rauszunehmen.

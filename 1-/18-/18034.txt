@@ -1,0 +1,5 @@
+Hey, das ist meins!
+(Zumindest wenn es darum ging, dass der User die Meldung in der
+Statuszeile nicht gelesen hatte ...)
+
+/Oskar

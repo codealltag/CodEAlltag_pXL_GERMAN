@@ -1,0 +1,10 @@
+Hallo Maurice,
+
+
+Da werden dann wohl noch mehr Leute in der Umgebung WLAN nutzen. Du kannst
+versuchen, einen anderen Kanal zu wählen oder, wenn die Hardware das
+hergibt, auf 5 GHz umschalten.
+
+Gruß Johann
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

@@ -1,0 +1,14 @@
+Das wäre eine wirklich gute Sache. 
+
+Mein Vorschlag:
+Das Subject könnte auch so angepasst werden: Ist alles unverändert geblieben,
+dann die Zeile belassen, wie gehabt: 
+
+                    SAHARA (FAQ deutsche Sprache) ...
+
+Ist eine Änderung eingetreten, dann: 
+
+                    SAHARA (Update FAQ deutsche Sprache) ...
+
+-- 
+Nicole Overtheil

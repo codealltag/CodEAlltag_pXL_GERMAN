@@ -1,0 +1,11 @@
+Am 2011-04-04 13:11 schrieb us0u:
+
+Man kann auch den Weg des Übersetzers des Milch-Günthner-Addons für Firefox
+wählen, der den Text "Share on Milch-Günthner" mit "Aktie auf Milch-Günthner"
+übersetzt hatte.
+Hat etwas gedauert, bis sich mir der Sinn erschloss ...
+
+Ist mittlerweile korrigiert und heißt jetzt völlig unintuitiv
+"Auf Milch-Günthner weiterleiten". Schade eigentlich. ;-)
+
+/Dietmar

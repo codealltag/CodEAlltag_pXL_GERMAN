@@ -1,0 +1,82 @@
+Eine Definition ist _niemals_ *falsch*; es sei denn, sie ist in sich 
+widersprüchlich. Sie mag ungebräuchlich (das ist obige eben nicht) oder 
+unzweckmäßig sein, oder sich von anderen Definitionen unterscheiden.
+
+Aber das, gebe ich zu, ist ein Nebenschauplatz, ebenso wie der von Dir 
+hier ausführlich besprochene:
+
+
+was ich durchaus mit großem Interesse gelesen haben. Aber er tut in 
+dieser Diskussion wenig zur Sache. Crone kann gemeint haben, was er 
+wollte; daß sich physikalische Begriffe von der ursprünglichen Bedeutung 
+(egal, ob sie allgemeinsprachlich war oder im Sinne eines Erfinders war) 
+entfernten, dafür gibt es Dutzende Beispiele. Und was man heute unter 
+"Masse" versteht, dürfte wohl unstrittig sein. Lästiger sind Termini wie 
+"Drehmoment", was sich im Deutschen auf eine andere Größe bezieht als 
+"angular momentum" im Englischen.
+
+
+Nicht ganz: Masse ist ein Begriff, für *eine* der allgemeinsprachlichen 
+Bedeutungen von "Gewicht". Und eine andere ist eben die "Gewichtskraft".
+"Gewicht" kommt von wiegen; und die eigentlichen Me�gr��e beim Wiegen 
+ist früher wohl ausschließlich und heute überwiegend die Kraft (bzw. das 
+aus ihr resultierende Drehmoment). Nicht umsonst war es selbst, als klar 
+war, daß Masse und Kraft verschiedene Dinge sind, lange Zeit üblich, die 
+Einheiten so zu dimensionieren, daß die Zahlenwerte von der 
+Gewichtskraft und der Masse eines Körpers auf der Erde üblicherweise die 
+gleichen sind.
+
+"Gewicht" im Sinne von "Gewichtskraft" hat sich eben nicht vom 
+allgemeinen Sprachgebrauch entfernt. Der allgemeine Sprachgebrauch 
+unterscheidet eben kaum zwischen (schwerer) "Masse" und "Gewichtskraft"; 
+der fachsprachliche muß es dagegen tun.
+
+
+Ich gebe voller Respekt zu, daß Du mir im Finden von derben 
+Bezeichnungen für Deinen Gegenüber überlegen bist. Ich bin mir 
+allerdings nicht ganz sicher, ob sich diese Überlegenheit auch auf das 
+Finden von zur Sache dienenden Argumenten erstreckt.
+
+Um die These zu belegen, das Gewicht sei für *den Physiker* (also nicht 
+den Etymologen, nicht den Kaufmann, nicht den Naturhistoriker...) eine 
+skalare und keine vektorielle Größe, braucht man keine langen Texte über 
+Crone. Dazu reichen schlichtweg Zitate aus neuzeitlichen 
+Physiklehrbüchern.
+
+
+Sicher. Nur hängen diese Mindestanforderungen davon ab, was man unter 
+Physik versteht: sieht man Physik als Stimulator zur Selbstbefriedigung 
+von Dozenten an (was durchaus nicht selten ist), kommt man vielleicht zu 
+ähnlichen Schlüssen wie Du; sieht man dagegen Physik als Werkzeug zur 
+Beschreibung von Naturphänomen an, wird man wohl kaum zur Beschreibung 
+eines Wurfes ernsthaft einerseits den Luftwiderstand kommentarlos 
+weglassen, aber andererseits Änderungen der Gravitation, geschweige denn 
+relativistische Effekte berücksichtigen wollen.
+
+
+"Güte" ist mehrdeutig. Die ART mag vielleicht von ihrer gedanklichen 
+Tiefe "besser" sein als die Newtonsche. Aber es ist falsch anzunehmen, 
+die ART würde in diesem Beispiel Lösungen der Aufgabe liefert, die die 
+Newtonsche nicht liefern würde. Wenn das so wäre, könnte man den ganzen 
+Newtonkram ja in den Ausguß kippen. Aber es gibt ja zum Glück das 
+Korrespondenzprinzip, das hier besagt, daß für hinreichend kleine 
+Gebiete in der Raumzeit die ART in die Newtonsche übergeht.
+
+Noch zwei Anmerkungen zur Sprache:
+
+
+Ich habe im Physikstudium *keine* vom allgemeinsprachlichen Gebrauch 
+abweichende Definition von "Wurf" kennengelernt. (Du magst es anders 
+erlebt haben, siehe oben: ein Lehrbuchzitat mit einer anderen Definiton 
+genügt). Dagegen diente der aus dem Alltag bekannte Wurf sowohl in 
+Experimental- als auch in theoretischer Physik als Übungsbeispiel; 
+anfangs ohne, später mit Berücksichtigung des Luftwiderstandes.
+
+
+Hat jetzt nicht mit unserer Diskussion zu tun und wir hatten das schon 
+mal: mein *sprachliches* Empfinden sträubt sich, wenn man diesen 
+Ausdruck allgemein für Bewegung im Gravitatationsfeld gebraucht. "Fall" 
+assoziere ich mit einem instationären Phänomenen; physikalisch ist 
+beides freilich analog.
+
+-kut

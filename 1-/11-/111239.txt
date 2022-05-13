@@ -1,0 +1,8 @@
+Es geht noch besser: Mir ist mal ein Formular in einen Kurs
+mitgebracht worden, in dem ein rd. 15 cm breites Feld für das
+Geburtsdatum vorgesehen war. Darüber teilten sich die Felder "Name",
+"Geburtsname" und "Vornamen" (man beachte den Plural!) dieselbe
+Breite.
+
+Gruß
+P.L.

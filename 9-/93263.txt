@@ -1,0 +1,9 @@
+Carlo Book (in de.etc.sprache.deutsch):
+
+
+Das wäre dann aber kein abstrakter sondern ein konkreter Superstandard. Ich
+dachte eher an ein System von Regeln, die alle drei Standards beschreiben,
+und von denen man die Einzelstandards durch Ableitungsregeln gewinnen kann.
+
+
+Justin

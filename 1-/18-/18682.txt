@@ -1,0 +1,37 @@
+Darum geht es doch gar nicht.
+
+
+Man hat also beabsichtigt, aber nicht bezweckt, daß es vom Computer
+verstanden wird?
+
+
+Ein Patent soll ja auch nicht vom Computer ausgeführt werden. Das ist eben
+der Unterschied zwischen Algorithmus und einer Implementation desselben.
+
+
+Natürlich soll Code lesbar sein. Es ist nur nicht dessen primärer Zweck.
+Ich wiederhole mich ungern, aber wie ich schon vorher schrieb: Nur weil man
+beim Autofahren die Geschwindigkeitsbegrenzung einhalten soll, ist das
+nicht der Zweck eines Autos. Ich schreibe Programme nicht, um sie an die
+Wand zu hängen, damit jeder sie lesen kann, sondern, um sie durch einen
+Compiler oder Interpreter zu schicken, damit ein Computer sie ausführt. Das
+ist das primäre Ziel (und damit der Zweck) jedes Programms.
+Das bedeutet aber natürlich nicht, daß Programme nicht so geschrieben sein
+sollten, daß sie nachher auch von Menschen möglichst einfach verstanden
+werden können. Nach der Beschreibung deines Verständnisses von
+Programmierung klingt es aber eher, als sei die Ausführbarkeit durch einen
+Computer nur ein netter, aber eigentlich uninteressanter Nebeneffekt der
+Programmierung.
+
+
+Deshalb heißt es ja auch, daß Computer generell nicht das tun, was sie
+sollen, sondern das, was man programmiert. ;-)
+
+
+Natürlich versteht er sie. Was er nicht versteht, ist die Sprache, in der
+Menschen vor der Implementierung besprechen, wozu das Programm gut sein
+soll und welche Aufgabe es erledigen soll. Der Programmierer hat nun die
+Aufgabe, diese Anforderungen in eine Sprache zu konvertieren, die auch der
+Computer versteht. Der Computer weiß dann, was er tun soll, aber natürlich
+nicht, warum. Das kann in einer Programmiersprache auch nicht formuliert
+werden.

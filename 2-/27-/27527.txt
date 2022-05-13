@@ -1,0 +1,9 @@
+In der original indonesischen Reißbeck-Suppe ist "Huhnfleisch" drin. Ob das
+sich auf die einzelne Packung bezieht, oder ob eine ganze Charge mit
+einem einzigen Huhn auskommmt (Stichwort Nachtigallenzungenpasteten),
+ist mir nicht bekannt.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing ut, not when the bugs are removed.

@@ -1,0 +1,18 @@
+Auf Ebene des Schulstoffs ist eine Funktion einfach eine mathematische
+Vorschrift, die jedem Wert x eindeutig einen Wert y zuordnet. Ich
+vermute mal, daß dir diese Erklärung nicht genügt hat. 
+
+Da in der Schule gerade die Kurvendiskussion viel zu abstrakt
+behandelt wurde, also ohne Beispiele dafür, was "Funktionen"
+in der Realität abbilden, welche Bedeutung herausgehobene Punkte 
+wie lokale Minima/Maxima oder Wendepunkte haben, ist eine
+andere, sehr bedauerliche Tatsache.
+
+Neben der fehlenden Anschaulichkeit des Mathematikunterrichts (die dann
+wohl auch zu fehlendem Interesse der Schüler führt) finde ich
+auch, daß zu wenig fächerübergreifende Verbindungen hergestellt werden
+(bspw. zwischen Physik und Mathematik, zwischen Geschichte und Deutsch).
+Aber gut, das ist ein anderes Thema.
+
+Gruß
+Thomas

@@ -1,0 +1,39 @@
+Dieser Artikel konzentriert sich auf "Schwachstellen" der deutschen
+Sprache, ignoriert aber die Schwachstellen der englischen. Sein Beispiel
+"New Technology Project" ist zum Beispiel im Englischen doppeldeutig.
+Deutsch zwingt dazu, sich für eine Bedeutung zu entscheiden. Das ist auf
+der Ebene der Semantik ein Vorteil, mir ist nicht klar, warum der Autor
+anscheinend damit zufrieden ist, diese vor allen deutschen Varianten zu
+bevorzugen.
+
+Solche Skopus-Probleme gibt es in absolut jeder Sprache. Das umgeht man
+durch geschickte Formulierung, oder verläßt man sich auf Weltwissen.
+
+Der einzige "Nachteil", den ich erkenne, und zwar vorwiegend für den,
+der Deutsch als Fremdsprache lernt, ist die Verwendung so vieler
+unterschiedlicher Konstruktionen. Beispiel: Adjektiv-Attribute stehen
+vorne, präpositionale Attribute hinten. Sowas ist im Englischen zwar
+reduziert, aber auch nicht verschwunden. 
+
+Für meine Frau ist es unverständlich, daß man die beiden folgenden
+einfachen Sätze unterschiedlich konstruieren soll:
+
+  I pick up the paper.
+  I pick it up.
+
+Für sie gehört "pick up" zusammen, also sagt sie "I pick up it."
+
+Im Japanischen ist die Syntax unglaublich stringent: alle näheren
+Bestimmungen stehen immer vor dem Bestimmten, ob nun ein Adjektiv oder
+ein ganzer Satz: 
+
+  Ringo  wo   taberu asoko  no   kawaii  hito
+  Apfel (obj) essen  dort (attr)  s  Mensch
+
+  Der se Kerl dort, der einen Apfel it.
+
+Auch das führt bei einigen Kombinationen natürlich wieder zu
+Skopus-Problemen.
+
+-- 
+Grahl--the original point and click interface

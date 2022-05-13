@@ -1,0 +1,10 @@
+France Urbany tat kund:
+
+
+Das ist nur aus systematischen Gründen so. Genaugenommen
+ist eine einstellige Zahl noch ein Sonderfall: Da kann
+man nämlich in der Tat von der Quersumme auf die
+ursprüngliche Zahl kommen.
+
+
+Neinnein.

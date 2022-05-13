@@ -1,0 +1,16 @@
+Darauf kommt es nicht an, sondern daruaf, welche Bedeutung der
+Date-header hat. Und komm nicht mit der Behauptung, die Uhrzeit in
+deinem Header stimme - kann sie nicht, wenn die Zeit deines Vorposters
+auch nur annähernd korrekt ist. 
+
+Schlussfolgerung: deine Artikel sind, wenn man's streng sieht, 
+rfc-widrig. Und da du ja auch sonst Leuten gern die rfc-widrige
+Konfiguration etwa ihres sendmail um die Ohren haust ... :-þ
+
+Theodor, wg. Verfehlung des Gruppenthemas in diesem Thread nach Hause
+umlenkend (wer beklagte doch neulich, dass in desd über alles und jedes
+geredet werde,, nur nicht über die deutsche Sprache?)
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

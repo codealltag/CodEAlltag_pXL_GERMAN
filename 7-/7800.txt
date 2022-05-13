@@ -1,0 +1,24 @@
+Ja. Und wenn es sich, wie dein Kommentar nahelegt, um zwei=20
+unterschiedliche Implementation handelt und nicht um eine gemeinsame=20
+Implementation von JFI und Ekadod, dann gibt auch nur die Plural-=20
+Version den Sachverhalt korrekt wieder.
+=20
+
+Nein.=20
+
+Die Fälle sind insofern schlecht vergleichbar, als es sich bei der=20
+Implementation um ein einzelnes Subjekt handelt, zu dem die Aufzählung=20
+lediglich eine Erweiterung darstellt, bei dem Beispiel "Ralph und Peggy"=20
+jedoch um zwei direkte Subjekte.=20
+
+  Ralph und Alexander spielen.
+  Die Ralph-und-Peggy-Geschwister spielen. (Das können auch acht sein.)
+  Das Ralph-und-Peggy-Geschwisterpaar spielt.
+
+
+vG
+
+--=20
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://cfqhanhl.zit>

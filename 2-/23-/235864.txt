@@ -1,0 +1,12 @@
+Englisch ist durch Artikelwörter ganz gut strukturiert. Nur wenn
+man diese wie in der �berschriftensprache weglässt und auch sonst
+elliptisch formuliert...
+
+
+... verkompliziert sich das Parsing.
+
+
+Das Komma irritiert.
+
+-- 
+Paul "ute" Bürcky                          oyksq@ngzw.qwrq.ak

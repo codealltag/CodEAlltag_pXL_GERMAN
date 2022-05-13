@@ -1,0 +1,16 @@
+Nein.
+
+Die überabzählbar vielen Welten seien mit den reellen Zahlen <=0 und >=1 
+durchnumeriert; das sind überabzählbar viele Nummern. Die reelle Zahl gebe 
+auch die Güte an. Möglich seien die Welten <=0. Dann ist 0 die eindeutig 
+bestimmte beste mögliche und 1 die eindeutig bestimmte schlechteste 
+unmögliche.
+
+Außerdem war die Existenz von letzterem gar nicht verlangt.
+
+
+Die Verallgemeinerung meines Beispiels, damit dieser Fall auch abgedeckt 
+ist, wird als Übungsaufgabe gestellt.
+
+-- 
+Samu Imberge

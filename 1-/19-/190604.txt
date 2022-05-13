@@ -1,0 +1,22 @@
+Du setzt hier "fern" unter Anfuehrungszeichen, im EDV-Deutsch fehlen
+diese meist; mir behagt der Begriff nicht, weil 'fern' fuer mich eine
+grosse Entfernung ausdrueckt, was jedoch beim Zugriff 'von aussen'
+weder gegeben sein muss [0] noch den Punkt trifft [1].
+
+Hat jemand Alternativen?
+
+(Und als naechstes haette ich gern Alternativen zum neumodischen
+"teilen", ich frag mich immer, warum die Leute Links oder Bilder oder
+wasauchimmer auseinanderschneiden wollen wie einen Kuchen.)
+
+
+jürgen
+
+[0] etwas wenn ich mich ueber ssh auf meinem N900 einlogge, das vor mir
+    liegt
+[1] Zugriff von "woanders" statt direkt am Geraet
+-- 
+ .''`.   Homepage: http://sdox.ioejas.nwbm.ns/ - OpenPGP key ID: 0x8649AA06
+ : :' :  Broedis user, admin, & developer - http://qor.hbzgls.lfv/
+ `. `'   Member of Krispin!formaggino, fellow of Jagdfeldzentrum
+   `-    NP: Bettina Jacobsmeyer: Joining You

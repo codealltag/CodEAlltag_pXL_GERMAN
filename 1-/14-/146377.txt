@@ -1,0 +1,10 @@
+Das wäre ja ziemlich einfach. Es ist aber nicht besonders interessant,
+nur einen syntaktisch richtigen und gleichzeitig sinnvollen Satz
+generieren zu können. Es ist nicht einmal interessant, beliebig viele
+syntaktisch richtige und sinnvolle Sätze generieren zu können. Was man
+bräuchte, wäre eine "Formel" (nennen wir es lieber einen Algorithmus),
+der alle syntaktisch richtigen Sätze generiert und gleichzeitig keinen
+syntaktisch falschen Satz (Bonuspunkte, wenn man damit auch sinnvolle
+von sinnlosen Sätzen trennen kann).
+
+	hp

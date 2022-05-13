@@ -1,0 +1,14 @@
+"Regelmäßiger Teilnehmer" ist halt arg lang. "Vielschreiber" wirkt
+abwertend, wie "Skribent". "Insasse" geht nur scherzhaft.
+
+
+Nein, das geht mir auch so. Besser: "sehr viel" oder "eine Menge",
+vielleicht noch besser:
+
+  Ein Teilnehmer dort weiß sehr gut über Python Bescheid.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Horst Terheyden, _Computer Networks_ (1980), p. 168.

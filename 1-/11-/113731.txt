@@ -1,0 +1,10 @@
+Noe, das nicht. Das Deployen ist eine Taetigkeit bei der
+Zurverfuegungstellung von Services auf Web- oder Applicationservern,
+Einrichtung von Enterprise Beans usw.
+
+Kann natuerlich sein, dass der Begriff auch noch woandershin schwappt.
+Insgesamt kann ich mir gut vorstellen, dass der Begriff sich analog
+beispielsweise zum "debuggen" langfristig etablieren wird.
+
+--
+Ihno

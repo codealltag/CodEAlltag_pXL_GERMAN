@@ -1,0 +1,11 @@
+* Vera Michalsky:
+
+
+Den Obenauf Maximen folgend schließe ich daraus, daß er nicht
+aus Holz besteht.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Balan will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Burkhard Oostinga

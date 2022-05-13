@@ -1,0 +1,13 @@
+Jein; die (Quer-) Summe *ist* anfänglich 0, und die einzelnen Ziffern
+werden jeweils zur vorherigen Summe aufaddiert.  Die Quersumme von 123
+berechnet sich also nicht als "1 plus 2 ist 3, plus 3 macht 6", denn
+das ist eine Optimierung, weil 0 neutrales Element der Addition ist.
+Genaugenommen muß es also heißen "0 plus 1 ist 1, 1 plus 2 ist 3, 3
+plus 3 ist 6".  Besteht eine Zahl nur aus einer Ziffer, wird eben auch
+nur diese auf die 0 addiert.
+
+
+Wildwuchernde Grüße?  ;-)  (Rolf: Diese Abk. ist mir unbekannt...)
+
+
+rolf

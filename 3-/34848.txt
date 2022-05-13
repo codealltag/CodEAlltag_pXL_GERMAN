@@ -1,0 +1,9 @@
+Dieses Risiko geht man tatsächlich ein - wir haben trotzdem eine Lösung
+parat - wir setzen in diesem Falll ein untrennbares Leerzeichen (espace
+ins�cable) zwischen das mehrteilige Zeichen und das vorangehende Wort.
+Es gibt Textverarbeitungsprogramme, die dieses Leerzeichen automatisch
+setzen.
+-- 
+A+
+
+Fabio

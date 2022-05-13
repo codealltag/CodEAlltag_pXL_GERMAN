@@ -1,0 +1,13 @@
+Damit lande ich dann auf einer Seite, die mich erst nach Israel locken,
+mir danach kostenlos Frauen anbieten, sowie Ersatzluftfilter, Ölfilter
+und Luftsansaugsystemkits andrehen möchte -- das ist doch nicht seriös, 
+sowas!
+
+
+raymond
+
+PS: Schwieriges Wort: "Luftansaugsystemkits"...!  Zur Übung schreibe ich
+    jetzt 100mal "Luftansaugsystemkits":
+    10 FOR I=1 TO 100
+    20 PRINT "Luftansaugsystemkits"
+    30 NEXT I

@@ -1,0 +1,20 @@
+Kann es sein, dass du da was velwechserst? Früher - als es noch nach der
+Kirche ging - begann die Woche mit dem Sonntag (denn der Samstag, der
+Sabbat, war der Tag, an dem $DERDAOBEN sich ausruhte). So z.B. Walthemate
+Wörterbuch:
+
+Dazu passt auch die Bezeichnung "Mittwoch", denn nur wenn die Woche
+sonntags beginnt, ist Mittwoch wirklich der mittlere Tag der Woche. DIN
+1355 und ISO 8601 haben aber den Montag als ersten Tag der Woche definiert
+(passt mMn auch gut zum Begriff "Wochenende" für Sa+So). 
+
+Die internationale Norm ist hier zu finden:
+http://epc.oux.nhl/faa/hmsjbka/hzmt/nulz_rltncl_gesg_yeztrxmtc/jxnxnc_rysk_utlarghow_qqavm/shmp_emr_izlw_niwqar.umn
+
+daraus
+
+Clemens
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

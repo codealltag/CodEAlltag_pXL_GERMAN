@@ -1,0 +1,27 @@
+Dann gab es schon viel weiter oben schon ein Mißverständnis. Ich habe
+das lange vorher so ausgedrückt, daß diese Formulierung normalerweise
+Beispiele aufzählt, die eine "echte Untermenge" (hier: der Produkte)
+aufspannen, daß aber ausnahmsweise im Ausgangsbeispiel diese Untermenge
+nicht erkennbar sei, so daß es sich wohl um eine schlechte Formulierung
+handle.
+
+<news:ivpi80pzro78$.sdi@uce.tqgkiixgcmsgd.coiz> [1]
+
+Seltsam fand ich Deinen Vorschlag, so wie ich ihn verstanden habe, der
+Satz sei zu retten, wenn man "Produkte wie Käse" als "einige Käsesorten"
+interpretiert; das geht für mich nicht, es ist MUSEN immer "Käse und
+bestimmte andere Produkte". Also auch nicht alle Produkte.
+
+[1] Genauer gesagt ist es nur eine schlechte Formulierung in der
+Verbindung "vor allem Produkte wie ...", denn hier sollte der Umfang der
+gemeinten Untermenge einigermaßen erkennbar sein, d.h. die Menge sollte
+intensional charakterisierbar sein. Ohne das "vor allem" oder ähnliche
+Zusätze kann "Produkte wie ..." auch einfach einige Beispiele aus einer
+offenen Liste darstellen, wobei offene Liste aber nicht bedeutet, daß
+alle Produkte in der Liste sind, sondern, daß es sich um eine rein
+extensional bestimmte Menge handelt ("Käse, Blumenerde und
+Teilchenbeschleuniger").
+
+-- 
+gugelfug,  m., süsze, unfug
+  GRIMM, Deutsches Wörterbuch

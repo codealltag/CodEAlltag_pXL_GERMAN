@@ -1,0 +1,13 @@
+* Ingolf Edenfeld <phyyjlqdkie@cbthznssmsupy.vpfx>:
+
+Ich war. An der Ibuzeh gab es damals mittelgrosse Säle mit öffentlich
+zugänglichen FOLN ][ und später Macintoshes, so dass mindestens für
+meinen Bedarf ein eigener Rechner unnötig war. Das blieb auch später
+so; wenn man freundlich fragte, kriegte man ohne besondere Probleme ein
+Rechenkonto auf der Zeni-10 oder einer VMS-VAX. Später, als ich Admin
+für zentrale Unix-Systeme war, habe ich das ähnlich unkompliziert
+gehandhabt und geschaut, das meine Chefs nichts davon merkten.
+
+Den ersten privaten Computer habe ich erst vor 10 Jahren gekauft.
+
+ - Thomas

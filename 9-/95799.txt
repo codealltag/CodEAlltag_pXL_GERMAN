@@ -1,0 +1,46 @@
+In welchem Kontext lernt(e) man das? 
+
+Ich erinnere mich, dass im Mathematikunterricht ungefähr in der 8. oder 9. 
+Klasse bei den Anfangsgründen der Algebra geschachtelte Klammerausdrücke
+durch solche Stilmittel strukturiert wurden, aber nach meiner
+(zugegebenermaßen dunklen) Erinnerung wurden sie in umgekehrter Hierarchie
+verwendet, d.h. die runden Klammern ganz innen, eckige weiter außen. also
+"{a*[3b+(7c*d-5e)*f+g]-5}*23h", was dann als Hausaufgabe ausmultipliziert
+werden sollte. Nachdem alle verstanden hatten, wie die Klammern
+zusammengehören und dass auch ohne unterschiedliche Schreibweise eindeutig
+durch Abzählen festzustellen ist, welche öffnende und schließende Klammer
+zusammengehören, schlief sowas schnell wieder ein - später wurden nur
+runde Klammern verwendet, bzw. die anderen Klammern bekamen je nach
+mathematischem Kontext einen anderen Sinn (Abrunden usw.); Mathematiker
+haben ja nie genug Zeichen ... 
+
+Heute wird sowas, soweit ich bei meiner Tochter sehen konnte, im
+Mathematikunterricht nicht mehr gelehrt, und auch zu meiner Zeit wäre ein
+Verstoß gegen die Hierarchie - also  ([{}]) statt {[()]} - nicht
+beanstandet worden, wofern man das nur konsistent durchgehalten hätte,
+wohl aber (zu Recht!) so etwas wie ([)]
+
+Im Kontext deutscher Belletristik kenne ich keine solche Konvention, wie du
+sie annimmst; in diesem Umfeld sind geschachtelte Klammern auch eher
+selten. Der hier zu Gruppe bekannte "ASch" verwendete in seinen Texten
+gern mehrfach verschachtelte Einschübe - die aber immer durch noch eine
+runde Klammer eingeleitet werden, ggf. werden dann eine Vielzahl von
+Einschübern durch ")))))" geschlossen. 
+
+Im Kontext von allgemeinverständlichen nichtbelletristischen Texten -
+Sachbücher, Zeitungen, Zeitschriften etc. - kenne ich eine Konvention, wie
+du sie beschreibst, ebensowenig wie aus dem Kontext technischer
+Fachliteratur. Mag sein, dass im Kontext philologischer oder allgemein
+geisteswissenschaftlicher Fachliteratur so verfahren wird, wie du
+beschreibst - da kenne ich mich nicht näher aus.
+
+Wie auch immer - wenn du geschachtelte Klammern verwendest und die
+Klammerstufen in dieser Art stilistisch kennzeichnen willst, solltest du
+in einem Text konsequent bei einer Hierarchie bleibenn - entweder immer 
+([{ oder immer {[(, aber nicht einmal hü und einmal hott.
+
+Knut
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

@@ -1,0 +1,21 @@
+"Konsequent" wäre, wenn man "einundzwanzig" auch als "12"
+schriebe! Das Addieren würde dann aber vermutlich komplizierter:
+
+alt:
+
+  37
+ +64
+=3D101
+
+von rechts nach links addiert mit Uebertrag
+
+neu:
+
+  73
+ +64
+=3D???
+
+
+Gruss
+
+Mathäus

@@ -1,0 +1,14 @@
+* Julius Labs:
+
+
+Meiner Ansicht nach bezieht sich Udas Kommentar auf das
+Ergebnis des von ihr gequoteten Codes. Das wäre dann enttäuschend
+im Hinblick auf TeX, denn das o in № sollte meines Wissens immer
+unterstrichen sein. 
+
+Nur in einigen asiatischen Fonts (Chinesisch, Japanisch, nicht
+aber Koreanisch) finde ich an derselben Unicode-Position ein
+Zeichen, das wie "No." aussieht.
+
+-- 
+ASML--the original point and click interface

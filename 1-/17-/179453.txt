@@ -1,0 +1,44 @@
+[...]
+
+Ja, da steht 6,0. Und die Einheit steht auch dabei (etwas
+verklausuliert): Sekunden pro Geschwindigkeitsänderung von 0 auf 100
+km/h. Das stimmt schon so.  Aber das ist eben nicht die Beschleunigung,
+sondern der Kehrwert davon.
+
+Wäre die Einheit m/s, dann müsste hier als Wert 4,6 stehen, nicht 6.0.
+Die Einheit muss zum Wert passen.
+
+
+Hier ist es sonnig und sehr schwül.
+
+
+Ja, natürlich.
+
+
+Das musst Du denjenigen fragen, der es so hingeschrieben hat. Der hat
+sich hoffentlich was dabei gedacht, nicht die Strecke anzugeben, die man
+in einer Stunde zurücklegt, sondern die Zeit, die man die für 100 km
+braucht. Das kann durchaus sinnvoll sein und ist mir z.B. im
+Elektronikbereich schon begegnet ("5 ns/m").
+
+Physikalisch sind beide Angaben natürlich gleichwertig. Es gibt keinen
+Grund, warum man die "Geschwindigkeit" (Weg/Zeit) angibt und nicht die
+"Langsamkeit" (Zeit/Weg). Hat sich halt so eingebürgert. Es gibt einige
+wenige Größen, für die beide Varianten üblich sind (z.B.
+Widerstand/Leitwert oder Winkelgeschwindigkeit/Kreisfrequenz), aber im
+Allgemeinen hat sich jeweils eine der beiden durchgesetzt und wird
+allgemein verwendet, während der Reziprokwert nicht einmal einen Namen
+hat (die "Langsamkeit" habe ich erfunden), gerade weil die Bildung des
+Reziprokwerts so einfach ist, dass man (zumindest als Physiker) darüber
+kaum nachdenken muss.
+
+
+Ja, es lässt sich ableiten, aber es steht nicht da. Natürlich 2h/100km
+das gleiche wie 50km/h, aber im ersten Fall ist der Wert "2" und die
+Einheit "h/100km" und im zweiten Fall ist der Wert "50" und die Einheit
+"km/h". Das eine ist die Geschwindigkeit und das andere der Kehrwert
+davon. Wenn Du in die Formel s = v * t für v (2h/100km) einsetzt, dann
+kommt Unsinn heraus. Aber Du könntest es in t = s * 1/v für 1/v
+einsetzen.
+
+	hp

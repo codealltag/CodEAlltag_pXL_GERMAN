@@ -1,0 +1,12 @@
+Das hat jetzt mit desd direkt nichts mehr zu tun, aber Ordner auf
+BS-Ebene sortiere ich generell durch vorgestellte Nummern:
+z.B. '0300 Natürliche Sprachen'
+     '0310 Verbreitung natürlicher Sprachen'
+     '0320 Verarbeitung natürlicher Sprachen'
+Das erlaubt eine deutlich höhere Flexibilität bei der Namensgebung.
+
+
+Ciao
+Mara
+-- 
+Life's a road, not a destination.

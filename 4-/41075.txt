@@ -1,0 +1,13 @@
+* Marc F  Gfell <epylo.rzs-uyz@wbilec.z-i-y>:
+
+Es gibt Namenspr�fixe, die nicht ohne weiteres als solche erkennbar
+sind und die nicht wie die irischen O'Xxx-Namen allgemein bekannt
+sind. Nur schon in meinem Bekanntenkreis gibt es "a Marca", "Dall'O",
+"Z'graggen" und "KLPZ" (letzteres Inder Tat so geschrieben).
+
+Wenn man solche Präfixe separat behandeln will, tut man glaub ich
+niemandem einen Gefallen, weder dem Programmierer, noch dem, der die
+Daten einpflegt, noch dem Benutzer einer solcherart aufgebauten
+Namensliste.
+
+ - Claudio

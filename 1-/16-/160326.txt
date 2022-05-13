@@ -1,0 +1,27 @@
+Es ist das gängige Paradigma der Quantenphysik. Ein Atomkern zerfällt 
+spontan, unvorhersehbar, unanbhängig von seiner Vorgeschichte.
+
+Die Zeit zwischen der letzten Beobachtung mit Zustand "intakt" und dem 
+Zeitpunkt des Zerfalls ist exponentialverteilt.
+
+Betrachtet man eine große Zahl unzerfallener Kerne zugleich, beobachtet 
+man daher eine exponentiell abnehmende Anzahl im Zustand 1 und daher 
+auch eine exponentiell abnehmende Anzahl von Zerfällen pro Sekunde.
+
+Es handelt sich dabei um die Reduktion statistischer Gesetze der großen 
+Zahl auf die das Individuum steuernden Wahrscheinlichkeitsgesetze. Deren 
+Kenntnis befähigen zur Kontolle und optimalen Steuerung von 
+Zufallsprozessen wie Ver�ffentlichungsfluten, Verkauf von 
+Finanzprodukten, Winterreifen und E10.
+
+Es ist bekannt, dass selbst Physiker meist das Bild des mittleren 
+Verhaltens der großen Zahl bevorzugen, weil das für die meisten 
+technischen Anwendungen reicht.
+
+Es reicht aber nicht, um Wahrscheinlichkeitsaussagen zB über die 
+Sicherheit eines einzelnen Kraftwerks oder die Crashwahrscheinlichkeit 
+einer Finanzwette in einem gegebenen Zeitraum zu machen.
+
+-- 
+
+Theodor Coen

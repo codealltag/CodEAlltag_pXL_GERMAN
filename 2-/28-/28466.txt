@@ -1,0 +1,18 @@
+Das Problem der Behörde scheint der neu eingeführte Begriff
+"Geburtsland" zu sein. Denn die Landesbezeichnung hinter dem
+Geburtsort hat lediglich den Zweck, den _Ort_ genau zu bestimmen.
+Damit ist natürlich die jeweilig aktuelle Version sinnvoll.
+Für die Kennzeichnung der Person ist die Nationalität gedacht.
+Also etwa
+Name: Schwenty
+Vorname: Italo Steffen
+Geburtsort: Farnersberg, Tschechien.
+Nationalität: Österreicher.
+
+In diesem Beispiel taucht das Umbenennungsproblem
+allerdings auf der Ortsebene auf: Italo würde womöglich
+die Form "Fachelberg" statt "Farnersberg" vorziehen. Die Frage ist
+für ihn jedoch durch Versterben unwichtig geworden (falls
+sie ihm je wichtig war).
+
+Otmar

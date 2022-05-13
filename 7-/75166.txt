@@ -1,0 +1,6 @@
+Man hört "around" oder "about", aber nicht beides, wenn es sich um
+eine voraussichtigte Zeitangabe handelt.
+Im Satz "I expect to be about around five", sorgt das Wort "about" die
+Anwesenheit hervorzuheben und betrifft die Zeitannäherung gar nicht.
+--
+Ottmar

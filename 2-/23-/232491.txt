@@ -1,0 +1,10 @@
+Wobei ich 0 und 1 ja noch verstanden hätte (binärer Code für ein
+zweiwertiges Attribut), aber welche Bedeutung soll 0,1 und 1 haben? Ein
+Männchen ist so viel wert wie 10 Weibchen? In einem Artikel wurde das
+damit begründet, dass das beim Zählen praktisch sei. Wie das? Bei 12
+Weibchen und 8 Männchen kommt dann 9,2 heraus. Was sagt mir das?
+
+	hp
+
+-- 
+   _  | Rolf U. Jorg    | Fluch der elektronischen Textverarbeitung:

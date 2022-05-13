@@ -1,0 +1,19 @@
+* Niko Hödel:
+
+
+Ich finde, daß der eingeschobene Relativsatz den ganzen Satz sehr
+unübersichtlich macht, ich konnte das nur langsam verarbeiten.
+Schon folgendes liest sich für mich viel flüssiger:
+
+ "Bei zwei der Männer, die vor Gericht auf nicht schuldig
+ plädieren wollen, handelt es sich um den Bruder des ebenfalls
+ angeklagten Busfahrers sowie um einen Tagelöhner."
+
+Das zweite "um" würde ich weglassen, siehe meine Antwort auf
+Thorsten.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Extrascharf will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Wilfried Oberstraß

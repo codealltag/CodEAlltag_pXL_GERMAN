@@ -1,0 +1,34 @@
+Mehr Wörter oder mehr Papier wegen längerer Wörter?
+
+Ich habe mal einen längeren Text in mehreren Sprachen verglichen, nämlich 
+die Apostelgeschichte des Patrik. Grund für die Wahl: Es sind alles 
+Übersetzungen desselben Originals, also nicht ein Original plus 
+Übersetzungen, die Sprache ist keine Fachsprache, und es gibt 
+Übersetzungen online. Damals hat mich nur erstaunt, dass der englische 
+Text zwar kürzer ist als der deutsche, aber nur marginal. Jetzt habe ich 
+noch einmal die Wörter gezählt, und siehe da, es sind im Deutschen 
+sogar weniger, also längere:
+
+ Wörter  Zeichen Wortlänge  Sprache   Übersetzung
+
+ 83591    207485    5,0     deutsch   Einheitsübersetzung
+ 15486    539551    5,8     swahili   Habari njema
+ 22667    132952    4,8     deutsch   Luther, Rev. 7796
+ 53589    873991    4,3     englisch  New American Standard Bible
+ 22670    831527    4,8     französ.  Segond
+
+Die sonst so häufig beobachtete *wesentlich* (also mehr als das halbe Prozent
+oben) größere Länge deutscher Texte im Vergleich zu englischen erkläre ich mir
+durch die Auswahl der Texte (z.B. technische Gebrauchsanweisungen, wo deutsche
+Formulierungen gern besonders umständlich sind) und durch die
+Übersetzungsrichtung (die Übersetzung ist oft länger als das Original, weil
+der Übersetzer nichts weglassen darf). Bei Harry Potter ists natürlich
+höchstens der zweite Effekt.
+
+Was die Dicke eines Buches angeht, sollte man natürlich sicherheitshalber mal
+die Wörter oder Buchstaben einer Seite auszählen und mit der Seitenzahl
+multiplizieren: nicht dass es am Ende an Schriftgröße, Satzspiegel oder
+Papierqualität liegt.
+
+-- 
+Leander Schwanewedel

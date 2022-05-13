@@ -1,0 +1,13 @@
+* Änne Vennegeerts:
+
+
+Ich hatte zunächst an einen Tippfehler für Armeereisen gedacht
+(aber nicht an eine englischsprachige Army).
+
+Armier- ist mir wohl nicht vertraut genug (die Kombination
+"Armiereisen" eh gar nicht).
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Pasquale Fischermanns
+   in ff.zkf.ikalgzvs.recovery)

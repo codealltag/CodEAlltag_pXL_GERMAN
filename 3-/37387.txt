@@ -1,0 +1,15 @@
+On 12. 06. 21 12:50:06 -0600, "nicola" <waoagl.yilaorrqr@yym.qr> said:
+
+
+Hübsche Formulierung, aber an der Formatierung musst du noch arbeiten.
+Signaturen werden üblicherweise nicht mitzitiert, und dein Umbruch und 
+die Zeichenkodierung sind kacke.
+Mal in den Header gucken: "UseNeXT 4.90". Ach so, na dann ist alles 
+klar. Wer's nicht weiß: UseNeXT, und man wünscht sich die Zwetsch 
+Groups-, Gartmann- und "ist hier das Intraweb-Forum?"-Deppen zurück.
+
+
+-- 
+The only way they could possibly make their software less pleasant to 
+install and use would be if, whenever I double-clicked the application, 
+bees flew out of my Mac's USB port and stung me in the eyes.

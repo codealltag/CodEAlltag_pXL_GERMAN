@@ -1,0 +1,13 @@
+Nein, spielen sie nicht. In beiden Fällen sind Zeichensatz (charset) wie
+Kodierung (content-transfer-encoding) völlig korrekt angegeben. Einzig
+die Unfähigkeit der Akepa-Anwendung, mit solcherart korrekten Beiträgen
+umzugehen, führt zu dem bekannten Mist.
+Trauriger als Ahrendts Unfähigkeit ist nur die Beharrlichkeit, mit der
+sich Akepa-Nutzer dieser Erkenntnis entgegen stemmen.
+
+
+Ciao
+Corinne
+-- 
+ Lieber eine erregte Bekannte
+ als ein bekannter Erreger.

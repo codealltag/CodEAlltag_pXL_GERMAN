@@ -1,0 +1,4 @@
+Jede "Sie" wird groß geschrieben, außer wenn frau "frau" statt "frau"
+schreibt.
+
+Silvio

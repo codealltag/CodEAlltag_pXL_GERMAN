@@ -1,0 +1,15 @@
+Darius Peil schrieb:
+
+[]
+
+Eine doppelte Ableitung mit der selben Bedeutung (oder habe ich
+das falsch verstanden?), die zu verschiedenen Schreibweisen
+führt, ist redundant ohne Mehrwert, und deshalb (z.B. per Duden)
+durch Elimination einer von beiden zu vereinfachen. Auch logisch
+begründbarer Leerlauf bleibt Leerlauf. Früher ging es ja auch mit
+ausschliesslichem "aufwendig". Es genügt mnemotechnisch, den 
+Kindern dessen Herleitung zu erklären.
+
+Gruss
+
+Josef

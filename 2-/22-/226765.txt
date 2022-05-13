@@ -1,0 +1,20 @@
+Vorsicht: Daß wir heute mehr Rechenleistung zur Verfügung haben, heißt
+nicht, daß die Quadratur des Kreises leichter ist. 
+
+Eine per Vigenère-Verfahren (also polyalphabetisch) verschlüsselte
+Nachricht, bei der der Schlüssel nicht deutlich kürzer als die Nachricht
+ist, ist mit beliebigen Methoden auch heute kaum sinnvoll zu entschlüsseln,
+wenn man keine Hintertürchen wie bekannte Klartextabschnitte hat. 
+
+Wenn Schlüssel- und Nachrichtlänge übereinstimmen, ist auch Brute Force
+zwecklos, da Schlüssel für beliebige Klartexte generiert werden können, von
+denen man nicht beurteilen kann, welcher der richtige ist – darauf basiert
+das One-Time-Pad. 
+
+Mit den Fünfergruppen sieht das aus wie die Enigma-Kryptogramme im
+gleichnamigen Roman. Die Enigma ist prinzipiell eine mehrfache Anwendung von
+Vigenère, die nur den einen Schwachpunkt hatte, daß Nullrotation niemals
+auftreten konnte. 
+
+
+vG

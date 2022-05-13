@@ -1,0 +1,44 @@
+Berthold hat dazu einiges geschrieben, dem ich zustimme, aber ich möchte
+doch eine Stufe tiefer gehen:
+
+Menschliche Lautäußerungen sind ja nicht zufällig, sondern sie folgen
+Regeln: Der Sprecher befolgt bestimmte Regeln, wenn er etwas sagt, und
+der Hörer befolgt ebenfalls bestimmte Regeln, um das Gehörte zu
+verstehen. Diese Regeln sind - um den Wortschatz der AI-Forschung von
+vor 20 Jahren zu bemühen - prozedural, nicht deklarativ. D.h., der
+Mensch kann sprechen und verstehen, aber er muss nicht erklären können,
+wie er das macht. Genauso wie er auch gehen und verdauen kann, ohne
+erklären zu können, wie das vor sich geht. 
+
+Diese Regeln, nach denen eine Sprache funktioniert, nenne ich die
+"wirkliche" Grammatik[1] einer Sprache. Die existiert völlig unabhängig
+davon, ob jemand sie erforscht und niederschreibt. So wie die
+"wirklichen" Naturgesetze existieren, ohne dass sie jemand beschreibt
+(Äpfel fallen nicht erst seit Newton vom Baum).
+
+Die Grammatiker versuchen (sofern sie deskriptiv und nicht präskriptiv
+veranlagt sind), diese Grammatik zu erforschen, in dem sie Grammatiken
+erfinden, die der "wirklichen" Grammatik möglichst nahe kommen sollen,
+d.h., die Sprache möglichst exakt beschreiben (so wie sich die
+Naturwisssenschaftler bemühen, "Naturgesetze" zu erfinden, die die
+Natur möglichst genau beschreiben). Das sind Modelle, vereinfachte
+Beschreibungen von etwas, was man vermutlich nie genau kennen kann. 
+
+Wenn ich nun mein Modell, das ich durch Studium einer Sprache gewonnen
+habe, auf eine andere Sprache übertrage, werde ich feststellen, dass das
+nicht so wirklich passt, denn Sprachen sind ziemlich verschieden (was
+eher gegen eine genetisch verankerte Basalgrammatik spricht). Wenn ich
+nun mein Modell notdürftig soweit hinpatche[2], dass es die andere
+Sprache ausreichend gut beschreibt, funktioniert das zwar, wirkt aber
+unbeholfen: Konstrukte[3] haben Namen, die ihre Funktion nur unzureichend
+beschreiben, manchmal wird ein Begriff für durchaus verschiedene
+Konstrukte verwendet, manchmal verschiedene Begriffe für Konstrukte, die
+eigentlich nicht unterscheidbar sind.
+
+	hp
+
+[1] Ja, ich weiß schon, dass Sprache nicht nur aus Grammatik besteht.
+[2] Da spricht der Programmierer aus mir.
+[3] Eigentlich würde ich da jetzt gerne von Produktionen und Sätzen
+    reden, aber damit komme ich wahrscheinlich zu weit in den Bereich der
+    formalen Sprachen.

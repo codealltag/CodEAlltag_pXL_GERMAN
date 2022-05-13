@@ -1,0 +1,20 @@
+Ja, der berühmte biblische ona^Wnarz^WAufruf, die Liebe an und für
+sich auch anderen angedeihen zu lassen.  ;-)
+
+
+Das ist sicher ein guter Punkt; ein anderer ist der, wie, ahem,
+"bedeutungsschwanger" die Forderung daherkommen soll: je ernster
+sie gemeint ist, desto e-er.  "Komm nicht so spät nach Haus!" ist
+eher ein frommer Wunsch, derweil bei: "Komme mir ja nicht nach
+22 Uhr nach Hause!" die dräuende Keule schon virtuell mitschwingt.
+
+Sprichwörter fallen wohl auch in diese Kategorie (und sind zudem
+meist schriftlich fixiert): "Tue recht und scheue niemand!".  Das
+gilt aber dummerweise nicht, wenn dadurch das Versmaß gestört wird:
+"Schau links, schau rechts, schau gradeaus, dann kommst du immer
+gut nach Haus!".  Auf gut deutsch: selbst /wenn/ es da wirklich
+einen Algorithmus geben sollte, wann "e" und wann nicht, dürfte er
+vor "if"-Kaskaden bzw. Exceptions nur so strotzen...  :-p
+
+
+heinz

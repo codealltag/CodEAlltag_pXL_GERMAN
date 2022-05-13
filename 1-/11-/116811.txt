@@ -1,0 +1,19 @@
+Als Timmermanns kommst Du nicht so gut über die Rampe.
+
+In Deinem verschissenen EOCS-Dingens sollte es "Einstellungen"
+geben. Nicht, dass ich Dir zutraue, das zu verstehen.
+
+Aber Du wirst den Eintrag "charset" finden: Ich übersetze: Zeichensatz.
+
+Ebendiesen schaltest Du um auf ISO-8859-1.
+Soweit dort "UTF-8" angeboten ist - nimm diesen bitte.
+
+In der heutigen Gesundheitssendung wurde behauptet, dass selbst ältere
+Menschen noch lernfähig seien: Ich habe bzgl. Deines Technik-
+verständnisses zwar gewisse Zweifel.
+
+Aber Ratgeber-Fernsehsendungen irren bekanntlich nie.
+
+Professore, Sie nun.
+
+Mt

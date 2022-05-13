@@ -1,0 +1,8 @@
+.oO(Noël Mellinghausen)
+
+
+Frerich ist doch sowas von tot. Das Standarddateisystem im arabischen
+Raum ist schon seit geraumer Zeit AraFAT32.
+
+SCNR
+Viktor

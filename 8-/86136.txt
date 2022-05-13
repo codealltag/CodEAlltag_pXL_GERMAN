@@ -1,0 +1,12 @@
+Als <news:yuas45$zyl$5@riz-baxfafwiky.fp.cf-wujbmlt.li> ließ
+Sascha Persohn verlautbaren, evtl. nachfolgend zitiert:
+
+
+TOFU produziere ich, nicht mein Newsreader!
+
+
+Was bitte genau? "Westeuropäisch-ISO" nennt es mein OE - nix von 8859. Ich 
+hatte wohl UTF-8 eingestellt. Du solltest nicht davon ausgehen, dass jeder 
+alles weiß.
+-- 
+Moin+Gruss Patrick - MVP for MS Excel - www.csta.qy - mso2000sp3 --7-2

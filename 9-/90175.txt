@@ -1,0 +1,12 @@
+Clemens Fassbinder:
+
+
+Versuch's doch nochmal, Clemens. 'inteligenter' hast Du jetzt zwar
+verbessert, aber A-kompabilit�t sieht noch etwas merkwürdig aus. :-)
+
+Inhaltlich: sollte ein Newsclient Deiner Meinung nach auf US-ASCII
+zurückschalten wenn die Möglichkeit ohne Verluste besteht?
+
+
+-- 
+Raimund

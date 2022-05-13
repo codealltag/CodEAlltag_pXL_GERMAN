@@ -1,0 +1,19 @@
+So schwer ist es auch nicht, sich zu merken, dass im Englischen die
+Tausenderpotenzen "million, billion, trillion, ..." heißen, im Deutschen
+aber "Million, Milliarde, Billion, Billiarde, Trillion, ...".
+
+Dass eine Zahl um einen Faktor 1000 zu hoch oder zu niedrig ist, fällt
+hingegen selbst Fachleuten nicht immer auf den ersten Blick auf. Das sei
+dem Jungredakteur (im Einzelfall) verziehen.
+
+
+"Billion" haben wir schon vor über 30 Jahren als das im englischen
+Sprachraum übliche Wort für 10^9 gelernt. "Milliard" wurde mal in einem
+Nebensatz als veraltet und selten erwähnt. Dabei war unser Unterricht
+ziemlich auf britisches Englisch abgestellt, und nicht nur, weil unsere
+Lehrerin Schottin war.
+
+
+Deutsche oder englische Trillion?
+
+	hp

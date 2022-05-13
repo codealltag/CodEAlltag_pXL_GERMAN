@@ -1,0 +1,10 @@
+[terrabaits] gibt es schon länger.
+Jetzt gibt es also auch [terraherts].
+
+1 Terrahertz = 1000 Giggahertz
+1 Giggahertz = 1000 Meggahertz
+1 Meggahertz = 1000 Killohertz
+
+-- 
+Ich wünsche mir von André Drews das Lied
+"Man müsste noch mal achtzig sein!"

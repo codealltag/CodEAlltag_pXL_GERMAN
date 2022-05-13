@@ -1,0 +1,12 @@
+Möglicherweise greift Essbar für solche Sonderzeichen wie diese Mittelpunkte
+auf eine spezielle Symbolschriftart zurück, die sich entweder gar nicht
+oder nur sehr versteckt einstellen läßt. 
+
+
+vG
+
+-- 
+"Wenn auf einem Parteitag zwei Leute für denselben Job kandidieren, dann
+schreibt die Presse gleich von einer Kampf-kan-di-da-tur! Oooh, eine
+Kampfkandidatur! Wenn nur einer antritt, dann ist es 'ne Wahl." (Mehmet
+Vingert, "Bis neulich")

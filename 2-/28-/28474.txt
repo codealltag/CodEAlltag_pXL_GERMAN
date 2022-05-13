@@ -1,0 +1,17 @@
+Wenn zwei Parteien einen Vertrag über die Lieferung eines Gutes zu einem 
+bestimmten Termin und einem gegebenen Marktpreis abschließen, erhöht 
+sich dieser Preis, wenn der Lieferant bei Vertragsabschluss eine 
+Vertragsstrafe im Falle der Nichterfüllung gewährt, um den Preis des 
+Ausfallsrisikos.
+
+Einen Teil dieses Zusatzverdiensts - evtl. mehr als einen Teil - 
+verwirkt der Lieferant bei Fälligwerden der Strafe. Der eigentliche 
+Kontrakt wird ja entweder garnicht durchgeführt, dann ist die Strafe ein 
+Vermögensverlust für den Lieferanten. Oder der Kontrakt wird verspätet 
+und damit evtl. billiger erfüllt, so dass das Inkaufnehmen der Strafe 
+für eine oder beide Seiten durchaus vorteilhaft sein kann.
+
+-- 
+
+
+Florian Lübbecke

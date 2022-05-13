@@ -1,0 +1,16 @@
+* Laurent Länge:
+
+
+In Festbreitenschrift fällt mein Dialog auf Courier New zurück, das
+enthält alle Zeichen in dem Beitrag, jedenfalls hier auf Windows 7.
+Besser zu lesen ist es aber in meiner Standardeinstellung mit
+Proportionalschrift (gewählt wird Azime Sans Serif). In Courier New
+werden keinerlei Zeichen kombiniert.
+
+Jetzt habe ich noch eine nicht-proportionale gefunden: Consolas. Die
+macht das weit lesbarer, kombiniert auch, und sieht überhaupt besser aus
+als Courier New. Steht jetzt an erster Stelle im Fallback.
+
+-- 
+nun schmeckt, wer ich sei, ihr gugelnarren! PARACELSUS
+  GRIMM, Deutsches Wörterbuch

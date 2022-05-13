@@ -1,0 +1,18 @@
+Hallo Manfred,
+
+
+Das sollte doch eigentlich keine Probleme machen. Aber Unsinn war das
+trotzdem, was ich schrieb, denn diese Polynome kommen eben gerade nicht mit
+einem kleinen Exponent aus.
+
+
+Bei dem zweiten sehe ich spontan 2^x - 1.
+
+Besser formuliert wäre also, daß es die unausgesprochene Voraussetzung
+gibt, daß die Lösung gewünscht wird, die mit einer möglichst einfach
+Bildungsvorschrift auskommt und eben nicht irgendein Polynom, das die
+Folgenglieder liefert, wenn man n hineinsteckt.
+
+Gruß Hinderk
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

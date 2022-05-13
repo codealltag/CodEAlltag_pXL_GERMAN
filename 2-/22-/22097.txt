@@ -1,0 +1,8 @@
+Nino Hutterer tat kund:
+
+
+Warum paßt das nur bedingt? Norgendwo ist festgelegt,
+daß der Divisor nicht 1 sein darf. Außerdem kann
+man die Lebensarbeitszeit durchaus abgegrenzt z. B.
+zur Jahresarbeitszeit sehen - der Divisor kann ja
+auch kleiner als 1 sein.

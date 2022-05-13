@@ -1,0 +1,10 @@
+Einmal waren die Einheiten so definiert, und jedes Land hat
+Kopien von diesen Platingegenst�nde. Heute hat man aber diese
+Definition verlassen, weil sie nicht beständig ist, und benutzt
+statdessen Naturkonstanten. 
+
+Die Definition des Meters ist z.B. auf die Wellenlänge
+irgendeinem Lichtstrahl basiert.
+
+-- 
+Gruß, Wolfgang

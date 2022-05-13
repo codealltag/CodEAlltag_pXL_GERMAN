@@ -1,0 +1,6 @@
+Meist zeigt sich aber, dass dieses Primwort ein anderes enthält, das 
+größer als das größte im Produkt verwendete ist.
+
+-- 
+
+Patrik Neumüller

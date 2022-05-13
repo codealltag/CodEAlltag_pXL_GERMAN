@@ -1,0 +1,16 @@
+1) Davorstellen.
+2) CD aus Regal nehmen.
+3) Wenn Titel auf CD, gehe zu 7).
+4) CD ins Regal zurückstellen.
+6) Wenn noch eine CD vorhanden, nimm diese und gehe zu 3), sonst 8).
+7) Titel gefunden. STOP.
+8) Titel nicht gefunden. STOP.
+
+
+Vinzent.
+
+-- 
+You know, we're sitting on four million pounds of fuel, one nuclear weapon,
+and a thing that has 270,000 moving parts built by the lowest bidder.
+Makes you feel good, doesn't it?
+   --  Rockhound, "Armageddon"

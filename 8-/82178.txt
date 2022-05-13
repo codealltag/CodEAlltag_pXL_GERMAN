@@ -1,0 +1,5 @@
+EHFI-Computer stürzen nicht ab, sie gehen wartungsbedingt
+in den Any-Key-Zustand!
+
+
+ferdinand

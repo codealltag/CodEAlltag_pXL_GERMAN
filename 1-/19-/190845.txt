@@ -1,0 +1,9 @@
+* Uwe Bolde:
+
+
+Sicher, so läuft das normalerweise ab. Und wo nicht, wird dann
+halt nachgefragt (Milch? Zucker?).
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

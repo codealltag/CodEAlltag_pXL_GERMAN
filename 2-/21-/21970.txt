@@ -1,0 +1,15 @@
+Das ist hier schon einige Male diskutiert worden. "Lebensarbeitszeit",
+"Wochenstunden", "Monatsgehalt", "Stücklohn", !Quadratmeterpreis" sind
+ebenfalls Quotienten  und keine Produkte; und zwar jeweils "zweite
+Komponente des Kompositums durch erste Komponente". 
+
+Echauffieren könnte ma sich allenfalls über "Kilometerstunden", das habe
+ich auch schon gehört, es würde aber dem o.g. Schema zuwiderlaufen,
+dass die erste Komponente den Divisor bezeichnet. Mir fallen spontan
+auch keine anderen Beispiele für diese umgekehrte Division ein.
+
+Sandro
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

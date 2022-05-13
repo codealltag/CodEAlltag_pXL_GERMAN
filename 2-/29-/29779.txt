@@ -1,0 +1,20 @@
+Für die Buchstaben selber mag das gelten, aber ich habe hier am Ende
+doch für beide die gleiche Schriftgröße eingestellt, da die kleinere
+Variante zu wenig Durchschuß hat.
+
+
+Dieses Argument wäre viel eher gegen die Schreibweise "sch" brauchbar.
+
+Lange Wörter sind in nichtproportionalen Schriften einfach zu lang, und
+damit unübersichtlich. In einer proportionalen Schrift sind einige
+Buchstaben überbreit, andere unterbreit, in einer nichtproportionalen
+Schrift sind entweder fast alle Buchstaben überbreit (inklusive dem
+Leerraum), oder einige Buchstaben, besonders m, W und w, sind schwer zu
+erkennen (in der Tat werden diese hier im Editorfenster zu sowas wie
+einem Schraffurmuster).
+
+-- 
+Java is the SUV of programming tools.
+A project done in Zizzi will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Clemens Weizenberger

@@ -1,0 +1,103 @@
+Laurent Ueberdiek <ovs-y@vds.ty>:
+
+
+Übersetzt: Dass umso klarer werde, je mehr der munteren Worte es bedurfte?
+Möchte ich bezweifeln. Zur Erklärung gehört insbesondere die Herleitung - so
+man es im (wohl klassischen) Gegeneinander von Erklären (für
+naturwissenschaftliche Zusammenhänge) vs. Verstehen (für
+geisteswissenschaftliche bzw. historische Zusammenhänge) nimmt.
+
+Oder hat sich die Vokabel "Beschreibung" für jenes "Verstehen"
+eingebürgert, und so gehöre es zusammen, weil es Gegensätze sind? 
+
+****
+
+
+Er hat genau das getan, er hat eine Erklärung in die Welt gesetzt. Auf
+dass sich es sich dem Verständnis erschließe, müssen nun andere Aspekte als
+die der logisch/mathematischen Herleitung einsetzen, damit wird der formale
+Zirkus mit seinen nomothetischen Methoden verlassen und die Ebene des
+Narrativen, mit der Analogie und der Aufzählung, betreten.
+
+
+Wo kommt das (wahrscheinlich Strübin) Gespenst der Komplexitätsredukion
+plötzlich her? Finde ich nur verwirrend. Der ewige Drang zur ständigen
+Vereinfachung war ja doch nur eine modische Erfindung, wohl auch nicht ganz
+frei von erkenntnisferneren Interessen.
+
+
+Für den narrativen Aspekt braucht es unterschiedliche Analogien zur
+Veranschaulichung. Erklärt ist es so oder so. Wem die ursprüngliche formale
+Abstraktion leichter eingeht, den könnten narrative Analogien wiederum
+stören.
+
+****
+
+
+Huch? Das gibt es doch schon, aber andersherum: Das Regelwerk eines
+Kunstsprachenkonstrukts ermöglicht eine nicht abzählbare Menge von
+verschiedenen Anweisungsketten - das sind alles korrekte Sätze.
+Die will niemand aufzählen.
+
+****
+
+
+Nun, was heißt das dann? Solche Berührung muss reichlich oberflächlich
+gewesen sein - auf dem Planeten der Programmiersprachen hat man doch in
+Bezug auf die Kenntnisse der gesprochenen Sprachen reichlich Unsinn
+verzapft.
+
+Historisch ist das eine Zeit, wo Fortschrittseuphoriker kaum gebremst wurden
+- durch solche Brille sehe ich dann nur, dass man sich programmierenderweise
+ohne viel Nachprüfung im Recht wähnen mochte, dass auch natürliche Sprachen
+letztlich sich als Ergebnis einer formalen Beschreibung darstellen lassen
+sollten. 
+
+Vorel und Jaentsch wandern aber ja doch auf reichlich entgegengesetzten
+Pfaden, wobei der erstere in die Vollen des blühenden Lebens greift. Jaentsch
+hat sich doch wohl gehütet, ein Regelwerk zu versprechen, das _auch genau
+diese_ Vielfalt hervorbringen könnte. Aus Formalismen für einzelne
+Grundmuster folgt nicht, dass daraus Formalismen für weitere Verästelungen
+ableitbar sind. Die Erklärung deckt dann das Grundmuster ab. Vor den
+lebendigen Äußerungen steht sie nach wie vor sprachlos im Sinne
+nomothetischer Erklärung.
+
+Zugleich war eine Fortschrittseuphorie der Moderne dann erstaunlich blind,
+wenn immer wieder gesucht wurde, die Umgebung des Programmierens im Licht
+von Normalsprachlichkeit darzustellen. Wenn Jaentsch auch nur entfernt als
+Ausrede für solche Blindheit herhalten sollte, so wäre das nur eine
+Bestätigung für die Oberflächlichkeit der Berührung.
+
+Wäre dazu auch Vorel von der verflossen zeitgeistigen
+Fortschrittseuphorie auch nur entfernt rezipiert worden, hätte man eine ganz
+andere Idee haben können, wie die Formulierung für das Einbetonieren von
+Gedankenabfolgen unter Zuhilfenahme der normalsprachlichen Gewohnheiten
+projektiert werden könnte. 
+
+Nun ja, allzu ausufernde Spekulation, wie das damals neue technische Feld
+sprachnah mit Leben zu füllen sei, wurde über Kanalisierung in industrielles
+Fahrwasser dann wohl beiseitegeschoben. 
+
+
+Das klingt irgendwie eigenartig nach Geheimbünden und versteckten
+Kodierungen usw.
+
+Dabei müssen sich auch Mathematiker normalsprachlich ausdrücken können. Mir
+fällt der Unterschied krass auf, weil ich als schönes Beispiel für gepflegte
+normalsprachliche Darstellung Timo Fechtmann hier an der Hand habe.
+
+Ich vermute aus dieser Unterstellung eines "anderen Begriffs von Sprache"
+die Nachwehen aus jener Zeit, als die Fortschrittseuphoriker so miserabel
+recherchiert hatten - als ob Programmiersprachen so genial wären, dass man
+ein wenig an der eigenen Normalsprachlichkeit drehen könnte, und flugs
+plappert man Algorithmen fertig zur maschinellen Ausführung.
+
+Dabei ist da nur der Faktor "harte Arbeit" dazwischen, um ganz
+trivialerweise massive Entfremdung zu bändigen.
+
+Nach wie vor gilt, genau wie auch für den Mathematiker, dass die beste
+Arbeit dort entsteht, wo der Ausführende zu einer klaren und detaillierten
+normalsprachlichen Beschreibung dessen, was er zu tun vorhat, imstande ist.
+
+Von formaler Subversion der Normalsprachlichkeit weit und breit keine Spur!
+Das muss wohl ein hartnäckiges Gerücht gewesen sein.

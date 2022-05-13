@@ -1,0 +1,47 @@
+Deine Problembeschreibung bessert sich.  :)
+
+Es gibt natürlich viele Gründe, warum Webseiten mal schneller, mal
+langsamer aufgebaut werden (Wartungsarbeiten, viele gleichzeitige
+Zugriffe, Router-/Netzausfall, gekapptes Seekabel, etc.).  Wenn das
+Problem aber wirklich bei Dir bzw. Deinem UMTS-Anschluß liegt, und
+/nicht/ auf das Überschreiten der 5-GB-Grenze zurückgeführt werden
+kann, fällt auch das unter die Rubrik "viele gleichzeitige Zugriffe",
+nur eben nicht auf den von Dir angewählten Web-Server, sondern auf
+den Deinen Stick bedienenden Funkmasten.
+
+Jeder solche Mobilfunkmast bildet eine "(Funk-) Zelle", in der sich
+alle in diesem Bereich befindlichen Endgeräte automatisch "einloggen"
+(weil sie von dort das momentan stärkste Signal empfangen).  Je nach
+den von der Funkmasten-Hardware angebotenen Übertragungsprotokollen
+(also GSM, GPRS, EDGE, UMTS, HSPA, etc.) steht eine gewisse Bandbreite
+für Datenübertragungen zur Verfügung -- und die ist auf jeden Fall
+auf einen bestimmten Maximalwert begrenzt (für UMTS z.B. 2 MBit/s),
+weil man z.B. die Sendeleistung nicht beliebig erhöhen kann.
+
+Die von einem Sendemasten bereitgestellte Bandbreite müssen sich
+alle Endgeräte teilen, die momentan darauf eingeloggt sind.  Je
+mehr Teilnehmer, desto geringer die jedem zur Verfügung stehende
+Bandbreite.  Dazu kommen Verluste durch Übertragungsfehler, durch
+schwache Signale, Kollisionen, Roaming und sonstigem fürs Protokoll
+"notwendigen" Overhead.  Derweil sprießen die Verkaufszahlen für
+UMTS-fähige Handys, Smartphones, PDAs, Tablets und Sticks recht
+munter in die Höhe...
+
+Ändern kannst Du daran gerade mal gar nichts.  Bei Handys hat man
+bisweilen noch die Möglichkeit, bestimmte Anbieter zu bevorzugen,
+aber das bringt heute nichts mehr (wg. weitgehender Netzabdeckung
+aller vier hiesigen Anbieter, bzw. kostenneutralem Roaming dank
+Flatrates und einheitlicher Tarife), und für Surfsticks gab/gibt's
+diese Option erst gar nicht mehr.  Schön, Du kannst Dich mitsamt
+Laptop und Surfstick ins Auto setzen und versuchen, einen weniger
+frequentierten Sendemasten zu finden -- nur sieht man ihm nicht
+von außen an, wieviele Gäste er momentan beherbergt.
+
+
+Klingt nach WLAN, aber auch das braucht ja eine IP-Verbindung, sei
+es durch DSL, Kabel, oder eben drahtlos per UMTS.  In den ersten
+beiden Fällen stellt sich die Frage, warum Du einen UMTS-Stick
+benutzt, und bei letzterem sehe ich keine wirkliche Verbesserung.
+
+
+othmar

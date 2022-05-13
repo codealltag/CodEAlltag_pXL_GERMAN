@@ -1,0 +1,8 @@
+In einem Wörterbuch stehen *verschiedene* Wörter, wenn man Texte 
+auszählt, darf auch dasselbe Wort mehrfach vorkommen.
+
+
+Das ist eine andere Bedeutung von "Worte": nämlich "Aussprüche".
+
+
+Karl

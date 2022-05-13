@@ -1,0 +1,14 @@
+Am 18.10.2013, 08:24 Uhr, schrieb Christian Untersten-Westen  
+<fjsvbjsjwezfshrg@urhuslb.rj>:
+
+
+Stimmt, das wußte ich nicht.
+Aber ich lerne dazu und kombiniere weiter:
+   Wenn jetzt in diesen unendlich vielen Aussagen auch noch
+   a Wörter enthalten sind, für die Duden b verschiedene
+   Schreibweisen zuläßt, dann erhöht sich die Zahl der
+   möglichen Sätze mit Aussagen von beliebiger Komplexität
+   auf a * b * unendlich viele.
+
+j/\a
+--

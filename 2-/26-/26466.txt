@@ -1,0 +1,10 @@
+On Sat, 05. 09. 21 11:35:26 +0200, Dieter Olmesdahl
+
+Alles klar. Ich habe mich da auch unklar ausgedrückt: Alle
+veränderlichen Daten sind jetzt Bewegungsdaten, die Verkehrszahlen
+sind nur die einzigen, auf die ich zugreifen kann.
+
+
+-- 
+Viele Größe
+Oscar Angerhofer

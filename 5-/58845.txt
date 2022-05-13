@@ -1,0 +1,12 @@
+Noch etwas:
+
+Wenn Pi =3D 3,2 wäre, wäre es keine reelle Zahl im engeren Sinn,
+sondern eine *rationale* Zahl. Aber genau das ist es nicht.
+
+*Real*, d.h. visuell irgendwie zeigbar, sind nur Annäherungen an
+Pi, nie die Zahl selbst. Aber man nennt sie *reell*, weil sie der
+Definition von "reell" entspricht.
+
+Gruss
+
+Arthur

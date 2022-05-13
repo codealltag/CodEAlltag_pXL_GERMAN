@@ -1,0 +1,4 @@
+Die Differenz ist eine Dauer. Aber die dient nur zur Angabe der Position
+des Punktes, sie ist nicht der Punkt selbst.
+
+	hp

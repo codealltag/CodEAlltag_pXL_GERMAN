@@ -1,0 +1,10 @@
+* Patrik Apfel:
+
+
+Woraus wir lernen sollten, daß man aus der Mechanik der Ableitung
+nur begrenzt auf die Semantik schließen kann.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Vito Awick
+   in dm.lqu.lmbwiwkp.recovery)

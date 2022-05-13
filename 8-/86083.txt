@@ -1,0 +1,33 @@
+Schaunmermal: Eine Vitakustik-Karte, eine private Kreditkarte, eine von der Firma,
+eine PIN fürs Handy, eine für den UMTS-Stick, den die Firma mir verordnet
+hat, eine PIN für den VPN-Zugang in die Firma, ein Kennwort fürs Bios des
+Firmenlaptops, eins fürs Domänenlogin, eins für die Reisekostenabrechnung
+(denn die ist an einen externen Dienstleister ausgelagert und kann deshalb
+nicht aufs Domänenlogin zugreifen), eins für die Reisemittelbestellung
+(anderer externer Dienstleister ...), mehrere Kennwörter für firmeninterne
+Webseiten, deren Verhüterliverwalter verhindern wollen, dass da jeder
+Mitarbeiter reinschaut, und die zu faul oder zu dumm sind, die
+entsprechenden Rechte ans Domänenlogin zu hängen, drei Partnerfirmen mit je
+einem eigenen Partner-Web und einem jeweils eigenen Kennwort, ein privater
+pgp-Key und ein dienstlicher, diverse Kennwörter in verschiedenen
+Kundennetzen, in denen ich gelegentlich was tun muss, eins für den privaten
+PC, ein Administratorkennwort für den PC von $KIND, weil das daran nicht
+rumadministrieren soll, und und und, und dann noch die, die ich hier
+vergessen habe aufzuzählen - ich halte 7 Pins und 23 Kennwörter für
+überhaupt nicht übertrieben. Und alle Kennwörter, mindestens die in der
+Firma, laufen nach anderen Fristen ab und haben andere Komplexitätsregeln
+(das eine muss mindestens ein Sonderzeichen, der andere darf keins haben;
+das eine darf max 8 Zeichen haben, das andere muss mindestens 10 Zeichen
+haben; die eine Anwendung erlaubt nur eine Kennwortänderung nach
+Fristablauf, die andere nur eine pro Tag; die eine merkt sich die letzten 5
+Kennwörter, die andere die letzten zehn, ...); die eine , so dass man sie
+auch beim besten Willen nicht einheitlich halten kann ... <schluchz> 
+
+Und dann kommt irgendso ein <censored> und warnt davor, dass man sich die
+Kennwörter auf einen Zettel unterm Bildschirm aufschreibt. Arrrrgh!!
+
+Guy, heimfollowuppend wg. OT
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

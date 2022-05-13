@@ -1,0 +1,13 @@
+Am Thu, 1 Nov 2010 11:07:56 +0200 schrieb Karlheinz Hosters:
+
+
+Ich vermute mal, dass Du da falsch vermutest. Mit Kontext wird es klarer:
+
+Richtig:
+"Die grammatischen Regeln des Deutschen sind ziemlich kompliziert."
+
+Falsch:
+"Die grammatischen Regeln des Deutschs sind ziemlich kompliziert."
+
+Schönen Gruß
+Daniel

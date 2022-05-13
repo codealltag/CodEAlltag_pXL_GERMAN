@@ -1,0 +1,15 @@
+Dass die Interpretation von "vor dem XX" oder "hinter dem XX" nicht
+eindeutig ist, ist hier zu Diskussionsfaden doch nun deutlich
+herausgearbeitet worden. Das überzeugende Beispiel war einerseits, dass
+ein Auto, das an eine rote Ampel heŕanfährt, vor der Ampel stehen bleibt;
+andererseits aber auch hinter einem schon dort haltenden Fahrzeug. Die
+Verwendung von "vor" und "hinter" ist unterschiedlich, je nachdem ob man
+es aus dem Blickwinkel desjenigen, der Auto fährt, betrachtet, oder aus
+dem Blickwinkle desjenigen, der am Straßenrand steht. 
+
+Italo
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

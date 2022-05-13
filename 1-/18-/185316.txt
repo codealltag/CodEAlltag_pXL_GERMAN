@@ -1,0 +1,11 @@
+* Otmar Lemmerz:
+
+
+So ordnet sich also ein Schreiber ein, von dem ich bislang annahm,
+daß er sein Deutsch vor beachtlicher Zeit in einem Gebiet mit
+au�erhochdeutschem Einfluß erlernt hat. 
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Thierry Haberzett, comp.lang.python

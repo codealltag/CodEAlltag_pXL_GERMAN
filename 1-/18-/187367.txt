@@ -1,0 +1,8 @@
+Wenn man in einer chroot-Umgebung root ist, wie kann man da ausbrechen? 
+Den Rest mounten?
+
+
+Mir fällt übrigens ein, dass ich das Konzept zuerst als "chroot-cage" 
+(nicht jail) kennenlernte.
+
+Joël

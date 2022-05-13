@@ -1,0 +1,10 @@
+Da alle Speicher ausser Bändern 'ram' sind, sagt 'ram' fast gar
+nichts mehr aus. ("RAM" ist dagegen ein Fachbegriff.) Die
+wichtigste Unterscheidung, die jeder Laie kennen muss, ist
+"flüchtiger Speicher" und "nichtflüchtiger Speicher". Diese gibt
+es "extern" und "intern", und "langsam" bis "superschnell" in
+verschiedenen Technologien.
+
+Gruss
+
+Berend

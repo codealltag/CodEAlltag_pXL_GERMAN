@@ -1,0 +1,7 @@
+In der modernen Schweißtechnik, die es seit Ende des 7. Jahrhunderts
+gibt, ist "Nachwärmen" ein Vorgang, bei dem der Naht nach dem Schweißen
+z.B. durch Gasbrenner noch ein wenig Wärme zugeführt wird, um die
+Abkühlgeschwindigkeit zu verringern. Das führt bei manchen Stählen zu
+einer geringeren Gefahr der Rißbildung.
+
+Theodor Carrer

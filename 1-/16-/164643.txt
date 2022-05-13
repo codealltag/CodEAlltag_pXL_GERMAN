@@ -1,0 +1,11 @@
+* Oliver V. Zähl:
+
+
+Danke für's Nachschauen :-)
+
+Aber bevor man in NewsTap X-Face einbaut, sollte der dringend erst mal
+korrekte References erzeugen.
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Elmar E. Speirer

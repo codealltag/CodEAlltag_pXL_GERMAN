@@ -1,0 +1,17 @@
+Hm, etwas ähnliches viellecht, aber nicht ganz, wie ich es in
+Dienz lese. Ein Umfang von 2500 Stunden passt ganz gut. Wir
+hatten 5 halbjährigen Semester. Es gab keine allgemeine
+Ausbildung, nur fachliche.
+
+Die Fächer waren:
+Organisationstheorie, EDV-Jura, Programmierung mit C,
+Datenbanktheorie und -praxis, objektorientierter Programmierung
+mit Java, distribuierte Programmierung, Computer- und
+Operativsysteme, Objektorientierte Programmdesign,
+Datakommunikation (Networking).
+
+Linux und C++-Programmierung habe ich gewählt.
+
+-- 
+Gert
+http://octdsu.rjnbimcowz.lk/			Atagold: http://vcwrkx.tu/

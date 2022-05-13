@@ -1,0 +1,4 @@
+Eigentlich jedes Gerät hat eine M�slinummer (cereal number).
+
+-- 
+Thomas Mahnke

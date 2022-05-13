@@ -1,0 +1,13 @@
+Faustregel für indogermanische Sprachen:
+
+- Ortspr�position mit Lokativ: Ort
+  "Ich fahre in der Stadt."
+
+- Ortspr�position mit Akkusativ: Richtung
+  "Ich fahre in die Stadt."
+
+Wo der Lokativ in einen anderen Kasus aufgegangen ist, verwendet
+man jenen, also Dativ im Germanischen oder Ablativ im Lateinischen.
+
+-- 
+Reinhold "véronique" Seigfried                          jzayc@eeic.rvjn.cn

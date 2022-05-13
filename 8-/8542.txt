@@ -1,0 +1,13 @@
+In article <4rnq76yosiezow5s507tywcqyzwale3ist@2ii.ewz>, Bodo Nienhuis
+
+Eine einfache Verschlüsselung, die praktisch nicht zu knacken ist,=20
+besteht doch darin, daß Sender und Empfänger ein längeres Buch (muß=
+=20
+nicht die Bibel sein) verwenden und für jedes Wort der Nachricht die=20
+Seite und Positon im Buch angeben. Da gibt es keine Wiederholung und=20
+ohne Wissen um die verwendete Literatur ist der Code nicht zu kna-
+cken, außerdem ist er kurz!
+
+
+--=20
+=20

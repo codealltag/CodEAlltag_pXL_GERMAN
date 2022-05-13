@@ -1,0 +1,22 @@
+Die Funktion eines Fragezeichens ist es, einen Fragesatz zu
+kennzeichnen. Wenn ein Zeichen nicht diese Funktion hat, also keinen
+Fragesatz kennzeichnet, bezeichnt man es dann als Fragezeichen? 
+
+Manchmal ja: In einem regulären Ausdruck z.B. kennzeichet das Symbol "?"
+nicht einen Fragesatz, sondern einen optionalen Term.  Trotzdem
+bezeichne ich es als Fragezeichen, weil das die übliche Bezeichnung für
+dieses Zeichen ist.
+
+Umgekehrt kann man ein Zeichen, das anders aussieht, aber die gleiche
+Funktion hat (im Griechischen offenbar ";") als Fragezeichen bezeichnen.
+
+Wenn aber beides nicht übereinstimmt, warum sollte man es als
+Fragezeichen bezeichnen? 無 kennzeichnet weder eine Frage noch sieht es
+einem "?" ähnlich - niemand käme auf die Idee, es ein Fragezeichen zu
+nennen.
+
+	hp (auf das Unausweichliche wartend)
+
+
+-- 
+   _  | Bernard A. Precht    | Deprecating human carelessness and

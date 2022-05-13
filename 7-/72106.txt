@@ -1,0 +1,6 @@
+Max Toenneßen tat kund:
+
+
+Und inwiefern macht das die Fibonacci-Folge zu einem
+besseren Beispiel für Rekursion als eine andere,
+die man auf einfachste Art rekursiv notieren kann?

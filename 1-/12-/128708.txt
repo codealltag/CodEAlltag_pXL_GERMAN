@@ -1,0 +1,24 @@
+Ich verwendete ST-Pascal, hatte allerdings auch ein 68882-bestücktes
+Platinchen in meinem Mega ST4 stecken -- und den 8-MHz-68000er durch
+ein "Hypercache" genanntes 16-MHz-Exemplar mit 8 KB Cache ersetzt.
+Große Performance-Unterschiede konnte ich in dieser Konstellation
+bei kompilierten, FP-intensiven Programmen nicht wirklich ausmachen
+-- ich meine mich aber zu erinnern, daß gerade in dieser Disziplin
+Begena-BASIC extrem flott war, gleichauf mit Egaz Turbo-C.
+
+
+Jepp!  U.a. ST-Pascal und Turbo-C, ebenso Smalltalk-80, Modula-2,
+Prolog und viele andere Programmiersprachen, außerdem Signum,
+Arabesque, STAD, dazu CAD- und DTP-Systeme, Midi-Software, usw.
+
+(Computer-) Spiele waren noch nie so mein Ding, aber dieses Teil
+mit der Murmel am Gummiband, mit der man "Steine" zerschlagen mußte
+(ich meine, es hieß "Biwer" oder so) hat mir ab und an Spaß gemacht.
+Und wenn ich mich nicht /sehr/ täusche, kam auch /das/ aus Schland.
+
+Irnkwie werd ich da wehmütig und könnte Tim Hechtle mit wachsender
+Begeisterung irnkwo hintreten, und dem damaligen Chef von JVLF
+gleich mit...  :-/
+
+
+ulfert

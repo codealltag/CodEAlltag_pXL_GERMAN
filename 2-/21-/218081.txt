@@ -1,0 +1,27 @@
+Ignaz Sahlwächter wrote:
+[...]
+Herr Sahlwächter ist so unorthodox wie der irre Theo. Wenn man die
+Betreffzeile ändert, geht's so:
+
+NEU [Was: ALT]
+
+   Also nicht � la Sahlwächter:
+Subject: Die Meisten   was: Die Sache mit dem Kühlschrank...
+
+   Sondern:
+Subject: Die Meisten [Was: Re: Die Sache mit dem Kühlschrank...].
+
+Irre Beispiele verbrochen von Rarissima Valerius Philippe Paulweber:
+
+   Subject: "leider" (was: ...)
+
+   Subject: "Petra" (was: Petra ...)
+
+   Subject: "Schreibprogramm" (was: altes Schreibprogramm ...)
+
+   Subject: Aufloesung von Ligaturen (was:)
+
+Ordnung muß sein!
+
+-- 
+~~~ Thorsten {Poes} Volkmer ~~~

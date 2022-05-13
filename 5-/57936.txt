@@ -1,0 +1,5 @@
+Weil es der Definition der Quersumme genügt. Die Zahlen in der Reihe 
+werden als Symbole betrachtet, die gesamte Reihe als Zahl. Es ist 
+einfacher, als zu sagen: Summe einer Reihe modulo n.
+
+Ulrich

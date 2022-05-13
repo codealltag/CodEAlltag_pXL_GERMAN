@@ -1,0 +1,13 @@
+Thunderbird lässt sich so konfigurieren, dass je 'content-type' ein
+entsprechender Font eingestellt werden kann. Das dürfte nichts
+Besonderes sein, sondern eher dem Stand der Technik entsprechen.
+Insofern halte ich meine Frage, mit welchem Font Maurizio sich als UTF-8
+deklarierte Beiträge anzeigen lässt, weiterhin für sinnvoll.
+
+
+Ciao
+Josy
+-- 
+ Es ist besser, Deiche zu bauen, als darauf zu hoffen,
+ dass die Flut allmählich Vernunft annimmt.
+ [Denis Bruderer]

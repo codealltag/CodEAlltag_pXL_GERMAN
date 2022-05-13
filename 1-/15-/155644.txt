@@ -1,0 +1,12 @@
+Man sollte auf's Duodezimalsystem umstellen, dann
+könnte man die Jahre.Monate einfach weiterzählen:
+
+1.0 =3D Januar im Jahr 0001
+1.9 =3D Oktober 0001
+1.A =3D November
+1.B =3D Dezember
+2.0 =3D Januar 0002
+
+Gruss
+
+Ronald

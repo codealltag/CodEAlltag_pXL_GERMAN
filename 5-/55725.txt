@@ -1,0 +1,35 @@
+In den internationalen Bridge-Regeln gibt es im Vorwort eine
+Erklärung auf Bestimm- und Verbot-Verben:
+
+Englisch:
+
+  	 Established usage has been retained in regard to “may” do
+  	 (failure to do it is not wrong), “does” (establishes correct
+  	 procedure without suggesting that violation be penalized)
+  	 “should” do (failure to do it is an infraction jeopardizing
+  	 the infractor’s rights but not often penalized), “shall” do
+  	 (a violation will incur a procedural penalty more often than
+  	 not), “must” do (the strongest word, a serious matter
+  	 indeed). Again, “must not” is the strongest prohibition,
+  	 “shall not” is strong but “may not” is stronger – just short
+  	 of “must not”.
+
+Deutsch:
+  	 Die bewährte Unterscheidung von „darf“ (das Unterlassen
+  	 stellt keinen Fehler dar), „tut etwas“ (beschreibt das
+  	 korrekte Verfahren, ohne eine Aussage über die Strafbarkeit
+  	 bei Abweichen zu treffen), „sollte“ (das Unterlassen stellt
+  	 einen Regelverstoß dar, der die Rechte des betreffenden
+  	 Spielers verwirkt, ohne dass dieser Vorfall oft bestraft
+  	 würde), „soll“ (ein Verstoß wird öfter eine Verfahrensstrafe
+  	 nach sich ziehen als nicht), „muss“ (die stärkste
+  	 Formulierung, ein schwerwiegender Vorfall bei
+  	 Nichtbefolgung) wurde beibehalten. Ebenso beschreibt „darf
+  	 keinesfalls“ das stärkste Verbot, und „soll nicht“ ist
+  	 stark, jedoch ist „darf nicht“ stärker – kurz vor „darf
+  	 keinesfalls“.
+
+Sie ist natürlich auch in den dänischen Regeln zu finden.
+
+-- 
+Gruß, Carlo

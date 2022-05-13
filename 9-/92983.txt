@@ -1,0 +1,4 @@
+Nein, würde ich nicht verstehen. Und trifft den Sachverhalt m.E. auch 
+nicht. Denkbar ist ein Schalter dessen Alternativzustand gar nicht 
+erwünscht ist, d.h. er "soll" (laut Betriebsleitung) nicht umgestellt 
+werden, und "wird" es deshalb auch nicht.

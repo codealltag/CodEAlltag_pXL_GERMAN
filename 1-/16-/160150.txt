@@ -1,0 +1,6 @@
+Halbwertszeit wird hier als vermeintliches Synonym zu "Dauer"
+verwendet. Hütten die Versprechungen tatsächlich eine
+Halbwertszeit, dann wären nach Ablauf dieser Zeit die
+Versprechungen nur noch halb soviel wert.
+
+Oscar

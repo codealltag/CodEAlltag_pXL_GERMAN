@@ -1,0 +1,19 @@
+Hallo,
+
+ich bin mir unsicher bei folgendem Satz:
+
+   ,-------------------------------------------------------------------
+   `-------------------------------------------------------------------
+
+Muss ich noch mehr Kommata setzen? Intuitiv hätte ich diesen Satz 
+eigentlich so geschrieben:
+
+    ,-------------------------------------------------------------------
+   `-------------------------------------------------------------------
+
+Aber das sieht mir dann so viel aus. Ich bin leider grammatikalisch 
+nicht so sattelfest, dass ich in jedem Fall ein Komma begründen (anhand 
+einer Regel) könnte.
+
+Danke
+Inge

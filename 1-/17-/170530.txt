@@ -1,0 +1,4 @@
+Huch, wieso hat denn mein Thunderbird plötzlich das ä im Subject in eine 
+Raute mit Fragezeichen verwandelt?
+
+Ivano

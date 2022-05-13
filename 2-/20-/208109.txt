@@ -1,0 +1,3 @@
+Beim RBZ und ÖPNV funktioniert kurzes Antippen.
+
+/Lorenz

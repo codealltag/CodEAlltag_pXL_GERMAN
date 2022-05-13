@@ -1,0 +1,23 @@
+In der althochdeutschen Grammatik von Ibelherr/Nachrichter (S. 214) ist das
+Paradigma von "naht" unter der "konsonantische Dekl." eingereiht.
+
+Die Fälle sind:
+- Im ganzen Singular: "naht"
+- Nom./Akk.Pl.: "naht"
+- Gen.Pl.: "nahto"
+- Dat.Pl.: "nahtum -un -on"
+
+Außerdem finden sich vereinzelte Formen nach der i-Dekl., so auch der
+Gen.Sg. "nahti". (Und diese Formen nach der i-Dekl. sind dann dafür
+verantwortlich, dass wir heute den Plural mit Umlaut bilden.)
+
+Schließlich erscheint im adverbialen Gebrauch schon im
+Althochdeutschen der Gen.Sg. "nahtes"; im Spätalthochdeutschen ist
+immer häufiger auch die Form mit maskulinem Artikel "thes nahtes" nach
+"tages".
+
+Wichtig ist zudem folgendes: Im Althochdeutschen gibt es *kein*
+Femininum, das einen regulären Gen.Sg. auf -es bildet; das ist eine
+Endung, die nur bei Maskulina und Neutra vorkommt.
+
+Ch.

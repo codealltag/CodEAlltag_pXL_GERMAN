@@ -1,0 +1,20 @@
+*seufz*
+
+man Stilmittel
+
+Ein anderes Beispiel, welches Du geflissentlich ignoriertest, habe ich ja schon
+gegeben. Also: Findest Du folgendes "einfach und unmissverständlich":
+
+rwandt.
+dritten
+dtschaft
+
+"von derselben dritten Person" verstehe ich noch, zumal der Kontext bekannt ist.
+
+Aber bei "Zahl der sie vermittelnden Geburten" steigt mein Parser aus.
+
+
+Vinzent.
+
+-- 
+There is no signature.

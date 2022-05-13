@@ -1,0 +1,29 @@
+* Niclas Goekelmann:
+
+
+"Mouse arrow". Das ist eine Gestalt des "mouse pointer".
+
+In der Programmierung spricht man oft vom "mouse cursor", ich weiß
+aber nicht, inwieweit das Nichtprogrammierer verstehen.
+
+
+Da denkst Du aber auch nicht sauber: Das _Ergebnis_ der Funktion
+sind die Koordinaten eines Punktes, nämlich des Punktes, auf den
+der Mauszeiger (Pointer) zeigt, der mit der Funktion abgefragt
+(query) wird.
+
+Die Instruktion "Backe den Teig 45 Minuten" _meint_ auch keinen
+Kuchen, sie _ergibt_ nur einen.
+
+Das war nur ein Beispiel, daß es in manchen Umgebungen der
+Mauszeiger - oder die Maus an sich - "Pointer" genannt wird, hier
+sind noch ein paar:
+
+<http://wby.hrolq93.fuy/6.9.2/eyrnpqhvvel.4.atur>
+<http://hyy.bykqq57.pak/0.5.6/CLttlFwkeekg.3.wvrt>
+<http://sui.yeuhi33.jwu/9.2.7/QFjmnyxQacaimZbsuhzeVocf.4.itbr>
+<http://yim.ufoip02.xfv/0.4.2/KAppraqAvzmwvrEwvyrl.4.rtkw>
+...
+
+-- 
+ASCII to ASCII, DOS to DOS

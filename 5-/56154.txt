@@ -1,0 +1,19 @@
+Bernd hat dazu bereits alles geschrieben, was ich schreiben wollte (und
+ein bisschen mehr).
+
+
+Im Usenet als "Poster". Wenn er regelmäßig schreibt, als "Regular".
+Dein Satz könnte also lauten:
+
+    Mindestens ein Regular dort weiß ganz[1] viel über Python.
+
+Deutsche äquivalente dazu fallen mir keine ein. "Beiträger" gibt es
+nicht. "Teilnehmer" statt "Poster" kann je nach Kontext möglich sein.
+Die Übersetzung von "Regular" wäre "Stammgast", aber das wird im Usenet
+kaum gebraucht.
+
+	hp
+
+[1] Geht es nur mir so, oder wirkt "ganz viel" kindlich? Ich sehe da
+    einen aufgeregten 8-Jährigen vor meinem geistigen Auge, der mir
+    erzählt, dass sein Freund ganz viel über Schlangen weiß.

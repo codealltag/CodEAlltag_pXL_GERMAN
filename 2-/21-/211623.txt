@@ -1,0 +1,36 @@
+Nein. Wenn nicht wegen ASCII-only alle Striche gleich lang sind, ist der 
+Streckenstrich deutlich länger (Halbgeviertstrich) als der Bindestrich 
+(Viertelgeviertstrich). Die Einteilung in nur diese zwei tuts für den 
+nicht typographisch geschulten Durchschnittsleser:
+
+  - Viertelgeviertstrich (also kurz): Bindestrich, Trennstrich 
+    (wird immer kompress gesetzt, also ohne Zwischenräume)
+
+  - Halbgeviertstrich (also lang): Gedankenstrich, Minuszeichen, 
+      Bis- und Streckenstrich, Spiegelstrich
+      (wird als Bis- und Streckenstrich kompress gesetzt)
+
+Drucker mögen feinere Unterteilungen haben oder mit verschieden langen 
+Zwischenräumen drumrum arbeiten, aber auch der Laie kann die obigen drei 
+(kurz kompress, lang kompress und lang mit Spatium) immer 
+auseinanderhalten. Wenn einer einen von diesen falsch verwendet, außer in 
+dicktengleichen Schriften, wo sie oft gleich aussehen, fällt mir das 
+genauso auf wie jeder andere Druckfehler.
+
+Der Geviertstrich (also sehr lang) wurde bis vor etwa 40 Jahren als 
+Gedankenstrich verwendet und wird es bis heute oft in englischen Texten, 
+dann kompress gesetzt. In heutigen deutschen Texten kommt er nicht mehr 
+vor.
+
+Unicode hat das Problem, ob sie die Striche nach Aussehen oder nach Rolle 
+einteilen sollen. Für meinen Geschmack haben sie die Rollen hier zu fein 
+verteilt. Besser wäre m.E. gewesen, dern alten Bindestrich (U+002D) zu 
+lassen, statt einen neuen zu erfinden (U+2010). Dass das Ding in 
+Programmiersprachen als Minuszeichen missbraucht wird, hätte Unicode nicht 
+anzufechten brauchen. Die längeren Striche hätte man besser nur nach 
+Aussehen, nicht nach Funktion unterschieden. An anderer Stelle hat man ja 
+auch höchst unterschiedliche Zeichen zusammengeworfen, wenn sie ähnlich 
+aussehen.
+
+-- 
+Egon Reis

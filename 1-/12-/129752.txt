@@ -1,0 +1,7 @@
+Um 10:15 ist das erste Viertel der elften Stunde erreicht und um 10:45
+sind drei Viertel der elften Stunde verstrichen; den Rest kann man
+dann intrapolieren. Hat übrigens gar nichts mit Stuhlgang zu tun, ist
+doch klar, gell?
+
+--
+Carlo

@@ -1,0 +1,24 @@
+* Dirk Urs Reihs:
+
+(Es geht um den Satz:)
+
+
+Na, das möchte ich doch stark hoffen.
+
+
+Ich fand das nicht überzeugend, der Satz kommt mir falsch vor. Nach 
+einigem Herumprobieren komme ich zu dem Schluß, daß "außer" als 
+Konjunktion nachgestellt sein sollte, also:
+
+  Niemand kann es herausbekommen, außer ich selbst.
+  Niemand kann es herausbekommen, außer mir.
+  * Außer ich selbst kann es niemand herausbekommen.
+  Außer mir kann es niemand herausbekommen.
+  ?Niemand, außer ich selbst, kann es herausbekommen.
+  Niemand außer mir kann es herausbekommen.
+
+Dasselbe gilt auch (vielleicht noch deutlicher) für die Konjunktion 
+"ausgenommen".
+
+-- 
+Klußmeyer--the original point and click interface

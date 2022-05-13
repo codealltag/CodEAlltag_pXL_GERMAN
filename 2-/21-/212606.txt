@@ -1,0 +1,47 @@
+Am 08.05.2012 00:36, schrieb Benjamin Hanschel:
+
+...
+
+"Hell" und "dunkel" sind phonetisch nicht ganz so mehrdeutig wie z. B.
+"hart" und "weich", und ich deute das hier einmal als höhere vs.
+niedrigere Frequenz. Das passte ganz gut zum Gegensatz [a]/[ɑ], egal ob
+das nun tatsächlich die Kardinalvokale sind oder ob sie jeweils zwischen
+diesen und einem mittleren 'a' liegen. Jedenfalls unterscheiden sich [a]
+und [ɑ] artikulatorisch (bei gleicher weitester Mundöffnung) durch
+vordere bzw. hintere Zungenstellung, akustisch (bei ungefähr gleichem
+ersten Formanten) durch höhere bzw. niedrigere Frequenz des zweiten
+Vokalformanten.
+
+Der erste Formant hingegen hat eine umso höhere Frequenz, je weiter der
+Mund geöffnet ist, d. h. je tiefer die Position im Vokalviereck ist,
+während umgekehrt [i] und [u] ganz oben zu finden sind, aber einen
+tiefen ersten Formanten haben.
+
+
+Das kann ich nicht so richtig einordnen.
+
+
+Wenn ich Poettkers Vokalnotierungen richtig verstanden habe, so fügt er
+jeweils zwischen zwei IPA-Symbolen noch ein weiteres ein. Von einer
+"narrow transcription" mit zusätzlichen diakritischen Zeichen
+unterscheiden sich seine Notierungen dadurch, dass er durch Kapitälchen,
+Drehungen der Buchstaben, zusätzliche griechische Buchstaben etc. die
+diakritischen Zeichen überflüssig macht.
+
+Da aber zwischen [a] und [ɑ] kein weiteres IPA-Zeichen liegt, fügt er
+dort auch nur genau ein Symbol (A-Kapitälchen, WIMRE) ein. Nun sind bei
+regional unauffälliger Umgangslautung /a/ und /a:/ zwar üblicherweise
+nicht (qualitativ) gleich, aber sie sind auch nicht so verschieden wie
+die beiden unteren Extrempositionen des Vokalvierecks. Ich ginge auch
+soweit, sie jeweils näher an der (vom OZR gar nicht vorgesehenen)
+Mittelposition anzusetzen als an den Extrempositionen. Poettkers
+Einordnung der Vokale ließe sich also durchaus rechtfertigen.
+
+Will man aber (wie nicht wenige andere Autoren) den Unterschied
+hervorheben, so kann man eben auch [a] und [ɑ] wählen. Bei einer
+(exakteren) engen Transkription müsste man ohnehin zu diakritischen
+Zeichen greifen (U+031F, U+0320 oder U+0308, ich sitze gerade mit meinem
+Netbook im Garten, da ist es mit zu fummelig, die hier einzufügen).
+
+
+Tschüs, Hermann

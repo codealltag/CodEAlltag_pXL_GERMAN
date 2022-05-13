@@ -1,0 +1,57 @@
+Usenet ist nicht 8859-1. Viele (auch ich) verwenden
+mittlerweile UTF-8. Viele verwenden ganz was anderes.
+
+
+Genauso wie auf der Schreibmaschine der Apostroph mit
+dem kritisierten Akzentzeichen ident war. Wenn über
+den größten Teil des 20. Jahrhunderts praktisch jedes
+Apostroph als Akzent getippt wurde, und niemand daran
+gestorben ist, dann bezweifle ich mal, daß man heute damit
+damit so große Probleme haben muß.
+
+Und wie schon geschrieben. Der "richtige" Apostroph
+ist ' auch nicht. Wenn man schon bereit ist, den 
+Kompromiß hin zum ' zu gehen, warum nicht gleich bis
+zum Schreibmaschinenapostroph ´ der in vielen Schriften
+auch nicht schlecht ausschaut. 
+
+
+Typographieren kannst du mit deinem Quark, der
+Schreibmaschinentipper hat kein ' zur Verfügung.
+Wird ein Text dann falsch, wenn ich ihn von der
+Schreibmaschine 1:1 auf den Computer übertrage?
+
+
+Aha, also du willst genau das Maß an typographischer
+Exaktheit haben, das du mit deinen Werkzeugen erreichen
+kannst. Was darunter ist (Akzent AKA Schreibmaschinen-
+apostroph) ist falsch, was drüber liegt (echter 
+Schriftsatzapostroph auch).
+
+
+Also das halte ich für ein Gerücht. Ich hab sie sogar
+in irgendeinem Posting in dem Thread verwendet: 
+
+K+365S DOUBLE LOW-9 QUOTATION MARK „
+R+042U LEFT DOUBLE QUOTATION MARK  “
+
+Allerdings liefert TCNS teilweise Schriften aus, bei
+denen aus ästhetischen Gründen (für englische Texte!) die
+Anführungszeichen oben falschrum sind. Das schaut in deutschen
+Texten dann beschissen aus. Das ist aber kein Unicode-Problem,
+sondern eins von TCNS bzw. deren Schriftenabteilung.
+Dann muß man halt «» verwenden.
+
+
+O+086F LATIN SMALL LETTER LONG S   ſ
+
+
+Ja, ja die Amerkaner und die Briten wollen uns unser langes
+ſ wegnehmen. Dir ist schon bewußt, daß du dich dafür von deinem
+Iso-Latin-1 verabschieden müßtest ;)
+
+/gunter
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Marcus, "Rettet die Wale"

@@ -1,0 +1,10 @@
+On Wed, 3 Feb 2010 19:24:56 +0100, "Kurt L. Richard"
+
+Stimmt das?
+
+Wenn ich etwas ändere, dann wird es einige Zeit nur in der
+ungesichteten Version angezeigt. Otto Normalanwender sieht die
+erst mal gar nicht, er muss sie extra aufrufen. 
+
+Viele Größe
+Alberto Niehueser

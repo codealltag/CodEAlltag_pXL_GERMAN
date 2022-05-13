@@ -1,0 +1,4 @@
+Weil die Suffixe in allen drei Fällen nicht mehr als Personalpronomina 
+erkannt werden.
+
+Pierre

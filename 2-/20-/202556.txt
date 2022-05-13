@@ -1,0 +1,6 @@
+Valva = Klappe
+scatola = Schachtel, Dose
+specchio = Spiegel
+Es könnte sich auch um ein spiegelschr�nkchen handeln.
+Größe
+Sebastian

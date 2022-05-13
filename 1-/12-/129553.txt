@@ -1,0 +1,32 @@
+Das ist gerade in Mathe ein leidiges Problem: wenn man Glück hat,
+erfährt man vom Leerkörper nebenbei mal, daß man über das Integral
+einer Funktion deren Fläche unter der Kurve in einem gegebenen
+Intervall berechnen kann (ansonsten muß man sich damit begnügen,
+daß es sich um die "Umkehrfunktion" des Differenzierens handelt).
+
+Toll.  Ich meine, super, daß sowas möglich ist, aber wozu das "gut"
+sein soll, ist ein streng gehütetes Geheimnis, und läßt daher eher
+mathematische Masturbationspraktiken vermuten...  Daß man Integrale
+z.B. hervorragend nutzen kann, um die Wirksamkeit von Medikamenten
+zu bewerten bzw. zu dokumentieren, lernte ich erst später während
+eines Jobs als Programmierer kennen.
+
+Was die Passante angeht: ich wüßte nicht, daß sie von praktischer
+Bedeutung wäre, außer, daß sie "dem Kind einen Namen gibt".  In der
+Praxis relevant sind eher die "Nicht-Passanten", also Tangenten und
+Sekanten.  Beispielsweise zur Identifikation von Linien-Objekten in
+einem Vektorzeichenprogramm (oder auch CAD-Programm): da es nicht
+immer möglich ist, eine auszuwählende Linie exakt anzusteuern (wegen
+Rasterisierung und Anti-Aliasing), generiert das Programm rund um
+den (Crosshair-) Cursor eine "Halo", also einen "Fangradius".  Damit
+entsteht am Punkt (x,y) ein Kreis mit Radius r, und gesucht wird eine
+Gerade (= Linien-Objekt), die mindestens einen Schnittpunkt mit dem
+Kreis hat -- also eine Tangente oder Sekante (für Nicht-Linien sind
+natürlich andere mathematische Ansätze im Einsatz).  Potentiell ist
+diese Berechnung auch bei Computerspielen relevant -- sei es, um die
+im Blickfeld sichtbaren Objekte ausfindig zu machen, die dargestellt
+werden müssen, oder zur "Kollisionserkennung".  Wenn man den Schülern
+das /so/ näherbringen würde, wären sie vermutlich viel motivierter! :)
+
+
+benno

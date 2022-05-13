@@ -1,0 +1,4 @@
+Sollte man sowas wirklich als Cronjob realisieren? Nicht eher als Daemon?
+
+
+Egon

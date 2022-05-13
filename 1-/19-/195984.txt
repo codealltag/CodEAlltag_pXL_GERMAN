@@ -1,0 +1,6 @@
+Ich halte das für unmöglich. Ein Doppelpunkt trennt stärker als ein
+Komma, kann also nicht innerhalb eines mit Kommas abgegrenzten
+Einschubs stehen.
+
+-- 
+Lukas "gertraud" Intlekofer                          tnvvc@klrc.nhte.lb

@@ -1,0 +1,22 @@
+Das kann passieren, wenn die Vereinfachung einen Informationsverlust 
+beinhaltet. Beispiel:
+
+Quelle Q1 erzeuge die Zeichen {a, b, c, d} mit gleicher 
+Wahrscheinlichkeit. Die Redundanz ist offensichtlich Null 
+(Zweierlogarithmus der Alphabetgr��e 4 minus Entropie, wobei die 
+Entropie wiederum viermal der Zweierlogarihmus von ein Viertel ist).
+
+Nun bilde ich die Quelle Q2, in dem ich die drei Zeichen b, c, d zu x 
+zusammenfallen lasse. Dann habe ich die Zwei Zeichen {a, x}, mit 
+Wahrscheinlichkeiten 1/4 und 3/4, die Entropie ist ungefähr 0.81 (wenn 
+ich richtig gerechnet habe), und als Redundanz kommt ungefähr 0.19 raus.
+
+In der Praxis ist das interessant, wenn die verlorengegangene 
+Information (im Beispiel der Unterschied zwischen b, c, d) irrelevant 
+ist (Rauschen, Störinformation).
+
+Die Diskussion dreht sich also letztlich darum, ob die verlorengegangene 
+Information wirklich irrelevant ist. (Klassisches Beispiel: Einführung 
+einer phonologischen Orthographie für das Neugriechische).
+
+Gerd

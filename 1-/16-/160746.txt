@@ -1,0 +1,4 @@
+Nun, SQL ist auch aus den 70ern, benutzt <>, und ist nicht nur nicht tot 
+sondern quicklebendig.
+
+Sebastian

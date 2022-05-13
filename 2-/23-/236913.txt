@@ -1,0 +1,11 @@
+Nicolas.  Deine Herleitung der Subtraktion ist zirkulär und deshalb fhcsal.
+
+Tatsächlich wird Subtraktion zum Beispiel im Körper der reellen Zahlen ℝ so 
+definiert: a − b = a + (−b) = a + (−1 × b).  (Subtraktion ist die Addition 
+mit dem additiven Inversen.)
+
+-- 
+PointedEars
+
+Vanderlooy: @AtcdxzgPhus9
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

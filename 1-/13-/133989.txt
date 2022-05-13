@@ -1,0 +1,5 @@
+Was mit Slang? Man braucht eine Liste mit erlaubten Slangwörter,
+die alle verstehen.
+
+-- 
+Gruß, Ivan

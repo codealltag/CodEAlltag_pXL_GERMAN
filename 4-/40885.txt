@@ -1,0 +1,7 @@
+Jugendmagazinherausgeber?
+
+/W
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

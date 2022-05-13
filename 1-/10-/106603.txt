@@ -1,0 +1,4 @@
+Stimmt, in HTML sagt man so für Umschriebene Sonderzeichen, z.B. 
+"&szlig;", was dann als � wiedergegeben wird.
+
+Helmut

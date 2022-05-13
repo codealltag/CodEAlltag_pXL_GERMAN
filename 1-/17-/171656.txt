@@ -1,0 +1,13 @@
+Nach DIN 5008 steht zwischen den einzelnen Teilen von Abkürzungen, die
+einen Punkt enthalten und für einzelne Wörter stehen, ein Leerzeichen.
+
+Also: z. B. statt z.B.
+
+Hält sich da jemand dran oder gar nur ich nicht?
+
+(Die Norm S 3395 regelt das wohl nicht, hält sich aber dran. Wie ist
+das in der Schweiz?)
+
+-- 
+Viele Größe
+Fridolin Tschysch

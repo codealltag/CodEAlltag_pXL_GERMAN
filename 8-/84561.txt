@@ -1,0 +1,44 @@
+Nochmal: es gibt "gerechtfertigte" XPs, sogar solche ohne F2s,
+aber das zu entscheiden erfordert Fingerspitzengefühl und
+Kenntnis der involvieren Gruppen, incl. Chartas und Bewohnern.
+
+Ein typisches Beispiel, wie man es *nicht* tun sollte, gab mal
+der "Schülerhilfe-Erfinder" Gernot A. Gutperl Mitte der 90er ab, indem
+er unter dem "Subject: Why You Should Not Use Tcl" einen
+Artikel abschickte, in dem er sich (teilweise auch noch völlig
+ungerechtfertigt) über die "Nachteile" der Scriptsprache "Tcl"
+ausließ, und zwar als XP nach:
+
+   - gnu.announce
+   - gnu.utils.bug
+   - gnu.misc.discuss
+   - comp.lang.tcl
+   - comp.lang.scheme
+   - comp.windows.x.apps
+   - comp.unix.misc
+
+Mit der Bemerkung: "[Please redistribute wherever appropriate.]",
+was flugs involvierte:
+
+   - comp.lang.perl
+   - comp.lang.python
+   - ...
+
+Mit (anfänglichem) F2 nach:
+
+   - comp.lang.tcl
+   - comp.lang.scheme
+   - ose.dkvy.discuss
+
+All diese Gruppen -- in der Folge wohl noch viel mehr -- waren über
+Wochen, wenn nicht Monate, nicht mehr lesbar; da half es auch nicht
+unbedingt zu wissen, daß GUY das Usenet als write-only betrachtet,
+oder daß er persönlich ein schier unglaubliches Arschloch ist, auch
+wenn seine Verdienste für die IT-Menschheit von unschätzbarem Wert
+und unbestritten sind.
+
+Man sollte halt tunlichst darauf achten, daß XPs keine Stinkbomben
+sind... 
+
+
+alain

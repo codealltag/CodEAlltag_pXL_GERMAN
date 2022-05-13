@@ -1,0 +1,18 @@
+[m.M.n.: "autorisieren"]
+
+
+Nein, aber wir unterscheiden zwischen Autorisierung und
+Authentifizierung. Und ja, gerade bei der Fehlersuche. Wenn irgendwer
+bei mir anruft und sich beklagt, er könne die Monatsberichte nicht
+herunterladen, dann frage ich zuerst einmal, ob er sich überhaupt
+einloggen kann (Authentifizierung klappt), und danach schaue ich nach,
+ob der Account, den er verwendet, auch Zugriff auf die Monatsberichte
+hat (Autorisierung klappt).
+
+
+Sprachlich wird das manchmal zusammengeworfen, vor allem dann, wenn die
+Autorisierung trivial ist, also jeder authentifizierte Nutzer "alles"
+darf. Aber sobald verschiedene Benutzer verschiedene Rechte haben, ist
+die Unterscheidung sehr hilfreich.
+
+	hp

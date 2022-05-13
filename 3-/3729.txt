@@ -1,0 +1,17 @@
+Aber nicht im Usenet, nicht bei ISO-8859-1.
+Da ist der Apostroph nunmal ' und nüscht anderet, das Zeichen,
+das deutsche Tastaturbelegung über dem # ausspuckt.
+
+Typographieren kannst Du daheim mit deinem EZR oder Crosanterie, im
+Web hält man sich an die gängigen, einfachen Formen, denn der
+Leser hat keine Unicode-Schrift installiert.
+
+Umlaute übersetzen in ue, oe, ae wie zu Telexzeiten ist nicht
+mehr nötig, aber dank deutscher Schnarchigkeit gibt es noch nicht
+mal die echten deutschen Anführungszeichen (99 66) in Unicode und
+in den deutschsprachigen Versionen von verbreiteten
+Textverarbeitungsprogrammen. Zu schweigen vom langen S. Hingegen
+haben die Briten x Sorten von Zoll-/Minuten- und sonstwas-Zeichen
+angemeldet, die wie Sonderformen von Apostroph und
+Anführungszeichen anmuten. Ich bezweifle, daß man x Formen
+desselben wirklich braucht - aber die gibts.

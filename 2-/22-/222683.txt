@@ -1,0 +1,32 @@
+Da muss man einige Fälle präzise auseinanderhalten. Im Deutschen ist es in
+Frage- und Aussagesätzen mit einem Subjekt in der dritten Person so, dass ein
+kompletter Satz mit einem Substantiv als Subjekt nicht in einen kompletten
+Satz umgebauten Satz werden kann, indem man die Substantivgruppe
+weglässt. Vielmehr muss dann stattdessen ein Pronomen eingefügt werden; es ist
+in diesem Sinne "nicht schon im Verb enthalten", etwa im Deutschen, Englischen
+und modernen Hebräischen:
+
+de:  Der Vater sah sein Kind.
+     *Er* sah sein Kind.
+
+en:  The father saw his child.
+     *He* saw his child.
+
+he:  Av ra'a yaldo.                = Vater sah Kind-sein.
+     *Hu* raa yaldo.               = er sah Kind-sein.
+
+Anders etwa im biblischen Hebräisch oder im Swahili:
+
+hbo: Ra'a av yaldo.                = [er-]sah Vater Kind-sein.
+     Benedikt yaldo.                   = [er-]sah Kind-sein.
+
+sw:  Baba alimwona mtoto wake.     = Vater [er-][es-]sah Kind sein.
+     Danielle mtoto wake.          = [er-][es-]sah Kind sein.
+     Ulfert.                     = [er-][es-]sah.
+
+Da sind also mindestens die Subjektpronomen, im letzten Beispiel auch das
+Objektpronomen "schon im Verb enthalten". Da ist die Unterscheidung sinnvoll.
+
+In der ersten und zweiten Person ist es ein wenig anders. Es gibt sicher
+Sprachen, wo man immer noch das Subjekt weglassen kann, das sich dann aus dem
+Zusammenhang ergibt. Bei Sprachen, die das Verb nach der Person konjugieren, kann

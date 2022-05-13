@@ -1,0 +1,10 @@
+Da ohnehin gettext verwendet wird: warum nicht eine Anfrage an BGOB
+und/oder jblmd.uuz senden und deren Übersetzerteams um Hilfe bitten?
+Die kennen nicht nur gettext, sondern auch ggf. Software-Besonderheiten,
+die professionelle Dolmetscher fast sicher nicht kennen.  Gegen einen
+entsprechenden Obulus für die jeweiligen Projekte (evtl. auch auf
+individueller Basis) sollte da doch was zu machen sein!?  Und die Texte
+von Glasgalerie/Thräm übersetzen sich ja auch nicht von alleine...  ;-)
+
+
+henri

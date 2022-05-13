@@ -1,0 +1,14 @@
+ausser dem "du deploy_t_" ist das auch das, was ich so sehe. Beim
+Sprechen gibt es auch kein Problem, nur wenn ich "der WebService wurde
+gerade neu deployt" schreibe, versuchen meine Finger, den Dienst zu
+verweigern.
+
+
+Richtig. Nur wenn der Arbeitsschritt in allen Werkzeugen "deploy"
+heisst, deploye ich halt und rolle nicht aus ;-)
+
+Ok, "heute wird deployt" ist wohl die am wenigsten falsche
+Schreibweise.
+
+--
+Ivo

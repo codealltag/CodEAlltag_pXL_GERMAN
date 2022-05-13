@@ -1,0 +1,10 @@
+exbf@qhed:~> units
+2438 units, 71 prefixes, 32 nonlinear units
+
+You have: angstrom
+You want: parsec
+         * 3.2407793e-27
+         / 3.0856776e+26
+
+
+Viele Größe von Fabrice

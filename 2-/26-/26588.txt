@@ -1,0 +1,80 @@
+Mario Treselers <jdnqegnp@t-wfncfr.rq>:
+
+Für letzteres kenne ich in dieser Tonlage nur Draufspielen, abgekürzt
+(aber nicht als eigener Begriff) Aufspielen.
+
+Einspielen hat etwas offizielles an sich, das braucht man gelegentlich im
+Datenzirkus. Im Geplauder macht das z.B. den Unterschied augenfälliger, ob
+jemand noch mit einer alten Version herumgurkt oder schon die neue
+eingespielt hat. Entsprechend klingt es auch beruhigender, wenn jemand
+daherkommt und verkündet, er müsse da etwas einspielen. Das klingt wie der
+Ball, der dann wieder munter hüpfen kann - dass er ins Spiel gebracht wird,
+ist in den Spielregeln enthalten. Bei 'Installation' oder 'Veränderung' oder
+ähnlichen Kandidaten ist die Überrumpelung nicht so billig.
+
+
+Irgendwie ist genau dieses Bild von Installation hoffentlich ein Irrtum.
+Aber gut, mittlerweile hat man sich daran gewöhnt. Es ist auch im
+klassischen Dreisprung enthalten, wenn in der Unix-Umgebung Programme als
+Quelltext daherkommen und in ausgepackter Form dann mit der Folge
+'configure; make; make install' lauffähig gemacht werden (hoffentlich,
+meistens).
+
+Aber solche Art Maschinenerweiterung sollte, um im Bilde zu bleiben, eher
+nur mit dem bloßen Hinstellen eines Möbelstücks zu tun haben. Gut, man kann
+es nicht immer beliebig überall hinstellen, je nachdem worum es sich
+handelt. Wenn man es nicht mehr braucht, deinstalliert man es wieder. (Wenn
+man den Unix-Quelltext noch hat, dann ist das oft die vierte Strophe: 'make
+uninstall'.) Das hinterlässt keine Lücken, noch nicht einmal im laufenden
+Betrieb. 
+
+Das steht im Gegensatz zu jenem Bild, das mit Maurerei beginnt und mit
+Zimmerleuten - diese haben auf dieser Ebene eigentlich nichts verloren. Das
+sollte dem Betriebssystem vorbehalten bleiben.
+
+Technisch gesehen ist die Entfremdung des Nutzers von seiner Maschine
+natürlich gewollt und wird gern akzeptiert, aber aus unterschiedlichen
+Gründen.
+
+Beim Monopolisten wird noch der Nachklang aus Zeiten zelebriert, als man
+drauf und dran war, für jede gedankliche Regung, die sich per Algorithmus in
+Code betonieren lässt, eine Plastkhülle zur gefälligen Merkantilisierung
+bereithalten zu wollen. Im weiteren Zusammenhang mit solcher
+Rechteverwertung stört natürlich jede Form von Transparenz, und ein Stück
+Code sollte man dann nicht einfach nur ausführen können, das wäre dem
+Ertragssinn der Unternehmung abträglich. 
+
+Bei Vista führt dieses Prinzip hinter dem Rücken des Nutzers seine Loopings
+der Verdächtigungen und der Abschottung auf, wenn die andere Kiste der
+Medienwiedergabe hinzutritt. Für Ablauf-Code haben sich die Wogen dieser
+Paranoia allerdings geglättet.
+
+Auf dem Bazar der frei zirkulierenden Quelltexte hingegen hat man es mit den
+traditionellen Speicherorten auf einer Unix-Maschine zu tun (Konfigurationen
+nach 'etc', Ablaufcode nach 'bin', spezifische Nutzerdaten z.B. in
+'~/.programm', usw.) oder auch wiederum nicht, sodass die letztliche
+Verteilung der Teile doch wieder vom Gestalter des Programms inszeniert
+werden sollte, und das so, dass sich quer über die meisten Programme
+wiederum eine einheitliche Art der Ingangsetzung ergibt.
+
+Es mag auch sein, dass ich diese ausdrückliche Pflege von Entfremdung nicht
+gar so gerne habe. Bei den frei zirkulierenden Quelltexten mag es zum Spiel
+geworden sein, wo man genau nachschauen kann, was sich dahinter verbirgt.
+Aber in der Umgebung der exklusiven Verwertungsrechte für proprietäre
+Gedanken irritiert mich solche Inszenierung von Entfremdung, besonders, da
+es in diesem Fall von hier bis zur Anmaßung nur ein kleiner Schritt ist,
+wenn die Transparenz fehlt.
+
+
+Es ist als Inbesitznahme deklariert, mittels Re-Programmierung von allen
+Bestandteilen der vielen Werkzeuge von Unix, worauf einstige Vor- und
+Miteigner ihre Ansprüche markiert hatten, um es quasi aus dem privaten
+Tresor in die öffentliche Bibliothek zu transferieren. Das ist nicht als
+technische Übung gedacht, sondern ausdrücklich als politischer Anspruch.
+Mittlerweile hat sich ja auch der Umgang von vielen kleinen und größeren
+Firmen mit dieser Allmende der Gedankenwelt schon recht passabel
+eingespielt.
+
+
+Es dürfte der Begriff 'Linux' vielleicht schon bekannter sein als der
+Begriff 'Unix'.

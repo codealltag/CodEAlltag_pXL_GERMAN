@@ -1,0 +1,11 @@
+Entschuldigung, ich versuche mit UTF8:
+
+alt/num 0140 Œ  Französisch  (OE)
+alt/num 0156 œ  Französisch   (oe)
+alt/num 0198 Æ  Dänisch     (AE)
+alt/num 0230 æ  Dänisch     (ae)
+
+-- 
+Gruß  :·)
+Ben Goedeke
+WILFRIED

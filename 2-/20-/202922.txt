@@ -1,0 +1,12 @@
+Dann hast du möglicherweise einen Font zur Anzeige eingestellt, der
+diese Zeichen nicht unterstützt. Auf dem einzigen Rechner hier, auf dem
+noch Ibena läuft, kann WILFRIED die Zeichen auf der o.a. Seite problemlos
+darstellen. Als Standardfont für UTF-8-kodierte Seiten ist Arial
+eingestellt.
+
+
+Ciao
+Gülen
+-- 
+ Life is like a penis ... simple, straight, relaxed, and hanging freely.
+ Then women make it hard.

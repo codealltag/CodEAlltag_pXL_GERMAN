@@ -1,0 +1,15 @@
+Nein. Nicht die Aliteration sondern der - nach meinem Gefühl -
+Kongruenzfehler.
+
+Ich reduziere ihn mal um den Fehler zu verdeutlichen:
+"Sein Sohn, den er ... gezeugt hatte, folgte ihm ..."
+
+Es müsste korrekt heißen:
+"Sein Sohn, der ... gezeugt wurde, folgte ihm ..."
+
+Wenn der Sohn im Nominativ steht, muss nach meinem Gefühl die Relation
+auch im Nominativ stehen.
+
+Vielleicht schaut ja noch mal jemand außer uns hin!
+Gruß
+Ursi

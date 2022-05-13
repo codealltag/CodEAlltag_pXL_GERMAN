@@ -1,0 +1,22 @@
+"Cristina Ziebel" <pzbicpj.kjngn@vvrcf.ia> schrieb am 24.07.2012 09:35 den =
+
+Newsbeitrag =
+news:43597189-8538-2156-ji8l-n6018w24nr7i@o96u0830wpp.mkrfaabqydkt.sfs
+
+
+Es ist oft empfehlenswert, das online Gesichtete irgendwie zu sichern.=20
+1. Methode: Erstellung eines Bildschirm-Bildes (ggf. nach Bildschirm in=20
+der Flakon-Hilfe suchen), also "screenshot" machen. Mit den Windows-Mitteln =
+
+([Druck]-Taste...) kopiert man ein Bild in die Zwischenablage.=20
+1.a. Viel praktischer ist m.E. die Verwendung einer kleinen Anwendung,=20
+sog. "screenshot utility"; mehrere Bilder können gespeichert und =
+später=20
+eingesehen werden. Wegen Installation und Einrichtung ggf. den "sysad"=20
+;-) (AKA Systemadministrator) fragen.
+
+2. Methode: Die aktuelle Seite als "einzelne Datei (.mht)" oder komplett =
+
+zu speichern.
+
+MfG, IGOR [Laky_Bzk/cu/c-bhahzl.xi]

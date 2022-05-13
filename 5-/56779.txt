@@ -1,0 +1,15 @@
+On Fri, 02 Nov 2009 13:58:05 +0200, Alexander Höringer
+
+
+Schön. Jede einzelne Zahl aus meinem Controller-Bericht ist auch
+verständlich. Ich weiß, dass eine Million mehr ist als Fünfzigtausend.
+Das nützt mir nur nix.
+
+Ich möchte den Bericht zurückgeben und dabei ganz klar ausdrücken,
+woran es mangelt. Und dabei möchte ich ich das Problem so griffig wie
+möglich beschreiben.
+
+
+-- 
+Viele Größe
+Gérard Inderklef

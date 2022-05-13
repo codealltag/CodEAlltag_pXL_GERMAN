@@ -1,0 +1,18 @@
+Sehr schönes Beispiel. Nehmen wir die dritthäufigste Reihenfolge
+der Satzglieder in natürlichen Sprachen, VSO, und vergleichen VSO mit
+SVO und SOV. Welchem der beiden ist VSO ähnlicher?
+
+(accept plate) cookie
+
+
+Also wie würde man gruppieren?
+
+VSO/SVO   und   SOV
+
+oder
+
+VSO/SOV   und   SVO
+
+
+Gruss
+Franz

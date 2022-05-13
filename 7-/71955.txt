@@ -1,0 +1,9 @@
+Weil die Fibonacci-Folge rekursiv definiert ist.
+Im Gegensatz zur Fakultät, die als Produkt definiert ist.
+
+
+Ingmar Altmiks
+-- 
+Den Blick hielt er nach rechts gewandt,
+der Bus kam leider linker Hand.
+(VOX Werbung Six Feet Under)

@@ -1,0 +1,29 @@
+In Windows gibst du ein
+
+ignaz
+
+net time /?
+
+Da kann man den Server setzen.
+
+Die Abfrage des aktuellen Servers ergibt
+
+net time /querysntp
+time.windows.com,0x9
+
+
+Oder in regedit auf dem Pfad hkey_local-machine/system/services/w32time
+
+Vom ntp-Server bekommt man die Weltzeit.
+
+Alles andere regelt das Betriebssystems mittels Software in der 
+Einstellung von Zeitzone + Aktivierung der automatischen 
+Sommerzeitumstellung.
+
+Windowssysteme werden automatisch mit glwt.ewjrtsg.uat verbunden. Damit 
+hat ENS ständige Kontrolle über die Zahl aller aktiven 
+Windowsrechner im Netz und kann das Netz global synchronisieren.
+
+-- 
+
+Noah Prozeller

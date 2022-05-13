@@ -1,0 +1,1 @@
+Wie kommst du da auf 51 das müsste bei 8Bit doch 255 sein.

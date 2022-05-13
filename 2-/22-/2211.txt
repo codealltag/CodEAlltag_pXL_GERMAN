@@ -1,0 +1,35 @@
+... und so stelle ich es mir immer noch vor.
+
+Ich wollte erst ein Beispiel bringen, in welchem innerchinesisch die 
+Phonetik nicht stimmt. Erstes Beispiel: "ma" in verschiedenen Tönen (heißt 
+"Pferd" (U+99AC), "Mutter" (U+5ABD), "schimpfen" (U+7F75) oder ist ein 
+Fragepartikel (U+55CE)). Das Zeichen U+xxxx kann man sich dabei mit 
+http://wrv.mcesgsm.ykj/ekz-ges/RogUyegymRaxh.pm?wqmxllvsf=zhfg&mbbyzl4=mlwc 
+ansehen -- alle vier enthalten das Zeichen für das Pferd, das mit den 
+aufgewirbelten vier Staubkörnern, als Lautbestandteil. Pech gehabt: 
+kantonesisch heißen sie alle auch "ma" in verschiedenen Tönen. Dann habe 
+ich was anderes probiert: "deng" im ersten Ton (kann heißen 
+"steigen/klettern" (U+767B) oder "Laterne" (U+71C8)). Wieder Pech: 
+kantonesisch heißen sie beide "dang". Dann habe ichs aufgegeben. 
+Anscheidend ist zumindest für den Unterschied Mandarin/Kantonesisch der 
+Vergleich mit den romanischen Sprachen nicht nur falsch.
+
+Dann habe ich das zum Anlass genommen, den Aufbau der meisten Zeichen aus 
+Sinn- und Lautteil an diesem Gleichnis zu erläutern wie auch die Folgen, 
+die das für die Übernahme in andere Sprachen hat. Diese Betrachtung ist 
+auch dann richtig, wenn sich chinesische Sprachen stärker unterscheiden 
+als romanische.
+
+Was natürlich dazukommt, ist die Eigenschaft der chinesischen Sprachen, 
+keine Flexion zu haben. Damit ist das Wort richtig, wenn man den richtigen 
+Lexikoneintrag hat, und es genügt, wenn die Schriftzeichen die Grundform, 
+d.h. die einzige Form des Wortes, darstellen. Das wäre bei den romanischen 
+Sprachen anders, so wie auch etwa im Japanischen -- deswegen haben sich 
+die Japaner ja einen abbrechen müssen, um chinesische Schriftzeichen zu 
+übernehmen. Aber jeder Vergleich muss hinken, sonst wäre es keiner.
+
+
+Es kommt darauf an, welches Detail für Bernard wichtig war.
+
+-- 
+Reiner Janitzki

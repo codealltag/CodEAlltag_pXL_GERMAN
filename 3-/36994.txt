@@ -1,0 +1,5 @@
+Die Leerzeichen zwischen öffnender Klammer und 
+Ist-gleich-Zeichen scheinen mir überflüssig. 
+Seh' ich das allein so?
+
+J.

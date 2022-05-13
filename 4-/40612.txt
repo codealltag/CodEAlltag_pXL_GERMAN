@@ -1,0 +1,18 @@
+Gernot Cserny: 
+
+
+Aber wie machen deutsche Anwendungsentwickler sowas dann, wenn sie zum 
+Beispiel ein Hotelreservierungssystem (o.�.) entwerfen? Man kann doch 
+Kunden wie "Prof.Dr. Richard Altdörfer, MSc." nicht draußen stehen 
+lassen, weil es eben nicht ins System eingegeben werden kann?
+
+"de la" _muss_ getrennt eingegeben werden, damit der Name 
+folgendermaßen gedruckt werden kann:
+
+- "Sehr geehrter Herr Prof.Dr. Altdörfer, MSc"
+- "Prof.Dr. Richard Altdörfer, MSc"
+- "Kräusel, MSc, Prod.Dr. Richard aulmann"
+
+
+-- 
+Ignaz

@@ -1,0 +1,8 @@
+^^^^^^^^^^^
+Sprichst Du denn das da hingehörige Wort so, wie Du es geschrieben hast?
+
+-- 
+Java is the SUV of programming tools.
+A project done in JMVM will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Darius Carles

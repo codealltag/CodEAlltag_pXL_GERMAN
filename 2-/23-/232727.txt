@@ -1,0 +1,10 @@
+* Renato Ciner:
+
+
+Du weit aber schon, daß das eigentlich andersrum geht?
+
+-- 
+Java is the SUV of programming tools.
+A project done in DDF will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Ingolf Riker

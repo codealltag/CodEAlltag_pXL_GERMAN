@@ -1,0 +1,49 @@
+Eine direkte Herleitung halte ich für unwahrscheinlich, aber die kausale
+Beziehung ist da sicher drin. Siehe z.B. auch die Redewendung "Zug um
+Zug", wo das Ende eines Zuges bedingt, dass der nächste beginnt.
+
+
+Für mich (definitiv nicht norddeutsch) bedeutet eine Zeitangabe mit um
+einen genauen Zeitpunkt:
+
+    Die Besprechung findet um 11:00 im kleinen Sitzungssaal statt.
+
+Das wird zwar manche Teilnehmer nicht daran hindern, erst um 11:07
+einzutrudeln, aber gemeint ist Punkt 11.
+
+Wenn nur eine ungefähre Zeit gemeint ist, wird das zusätzlich
+ausgedrückt:
+
+    Wann beginnt die Party?
+      "Ungefähr um acht",
+      "So um acht",
+      "Ab acht" (letzteres fällt aus der Reihe, weil erstens kein "um"
+      drin vorkommt. und zweitens hier explizit gesagt wird, dass man
+      nicht vor acht kommen sollte).
+
+Für 
+
+    Die Besprechung findet um 11:00 im kleinen Sitzungssaal statt.
+
+fällt mir übrigens keine andere Formulierung ein, die ohne das "um"
+auskommt. Einfach weglassen kann man es nicht:
+
+    Die Besprechung findet 11:00 im kleinen Sitzungssaal statt.
+
+Auch 
+
+    Die Besprechung beginnt 11:00 im kleinen Sitzungssaal.
+
+klingt unrund, da fehlt auch das "um". Nur
+
+    Ort:  Kleiner Sitzungssaal
+    Zeit: 11:00
+
+geht, aber das ist kein Satz mehr.
+
+
+Nein, das "um" ist kein Teil der Preisangabe, sondern Teil der Syntax
+des Satzes: "Man bekommt X um Y": Wenn man Y hergibt, bekommt man dafür
+X.
+
+	hp

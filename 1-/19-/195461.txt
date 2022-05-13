@@ -1,0 +1,26 @@
+Die numerische Schreibweise der Zahlen ist *nicht* abhängig
+von der Sprache. Die Lichtgeschwindigkeit kann man so schreiben:
+
+   299=P4254,458 km/s
+   299=P4254.458 km/s
+    299792,458 km/s
+    299792.458 km/s
+
+Diese Schreibweisen sind in allen Sprachen verständlich.
+
+
+Das hat mit Sprachen gar nichts zu tun. Die obige Gleichung (90 min)
+gilt für alle Sprachen gleichermaßen.
+
+Du scheiterst mit Deiner Auffassung spätestens, wenn die Sekunde
+(wie beim Film) weiter unterteilt werden muss.
+
+   1:59:59:12 h =3D 1:59:59.50 h =3D 1:59:59,50 h
+
+1 Sekunde =3D 100 Zentisekunden =3D 24 Frames
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

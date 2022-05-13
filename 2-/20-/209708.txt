@@ -1,0 +1,26 @@
+Natürlich ist das unnötig, wenn die Botschaft schon woanders eindeutig 
+formuliert ist, etwa: "Sie müssen sich schon entscheiden: entweder Sie 
+bekommen den Zuschuss oder Sie können die Kosten von der Steuer absetzen."
+Da wird die Eindeutigkeit durch das Wort "entscheiden" hergestellt.
+
+Dass "entweder ... oder" nicht so ganz eindeutig ist, sieht man schon am 
+Sprachgebrauch "und/oder". Kennten alle die Interpretationsregel für 
+"oder", die "und" einschließt, so wäre "und/oder" überflüssig.
+
+Selbst in der Mathematik, wo "oder" und "entweder ... oder" eindeutige 
+Bedeutungen haben, würde ich nicht "entweder" zum Bestandteil des Satzes 
+machen.
+
+  Die Summe von a und b ist ungerade, wenn entweder a oder b gerade ist.
+
+legt zu sehr die umgangssprachliche Deutung nahe
+
+  Die Summe von a und b ist ungerade, wenn a oder b gerade ist, und beides 
+  kann nicht gleichzeitig vorkommen.
+
+Unmissverständlicher formuliert man:
+
+  Die Summe von a und b ist ungerade, wenn genau eines von ihnen gerade ist.
+
+-- 
+Silvio Ußfeller

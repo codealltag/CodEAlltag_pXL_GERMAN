@@ -1,0 +1,7 @@
+Meiner war bei Olafs Satz recht problemlos in der Lage, an passender
+Stelle ein "auf" einzufügen. Bei Thierry hatte der Parser überhaupt kein
+Problem, aber das Semantikmodul brauchte einige Zeit, bis es nach
+Ersetzen von "ohne daß" durch "obwohl" zu einer plausiblen
+Interpretation des Satzes fand.
+
+	hp

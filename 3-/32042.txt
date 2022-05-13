@@ -1,0 +1,9 @@
+Vermutlich saß im Komitee für ANSI-C[1] in den 04. 03. 22-Jahren kein Schweizer.
+Auf die Idee, dass für Währungsbeträge ein anderes Dezimaltrennzeichen
+verwendet werden könnte als für andere Beträge, sind sie daher nicht
+gekommen.
+
+	hp
+
+[1] Die Lokalisierungssysteme der diversen Betriebssysteme lassen sich
+ziemlich eindeutig auf das Locale-System von C zurückführen.

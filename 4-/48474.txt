@@ -1,0 +1,24 @@
+Das Ding heißt nun mal DVI. Und das ist als Schnittstellenbezeichnung
+eindeutiger als jede Übersetzung, die prinzipbedingt nur eine
+Kategoriebezeichnung sein wird. Es gibt noch weitere digitale
+Video-Schnittstellen (das V in DVI steht Brix für "visual", nicht
+für "video"), aber es gibt nur eine DVI. (Naja, mit Unterarten ...)
+
+Mein Satz schloß sich an eine kleine Aufzählung der Gerätemerkmale an und
+lautete sinngemäß "Auch die digitale DVI-Schnittstelle fehlt nicht".
+Nur "DVI" klingt hohl, da kaum einer weiß, daß das I für interface
+steht. "DV-Schnittstelle" ist schwer st�ndvermi�lich, da die Abk. "DV"
+meist für "Datenverarbeitung" steht. So komme ich um die DVI-Schnittstelle
+nicht herum. Und für diejenigen, die nicht wissen, was das ist, setze ich
+noch das Attribut "digital" davor - dann wissen sie zwar immer noch nicht,
+was das ist, aber ungefähr die Richtung, in die es geht. Bei all dem bleibt
+aber "DVI" die feststehende Typenbezeichnung des Anschlusses, der nicht
+zerpflückt werden kann, ohne das Verständnis zu erschweren.
+
+
+vG
+
+-- 
+Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+Pinguins erstellt und ist garantiert frei von Jungegger-Viren.
+-- <http://oymtoyvh.xja> -- Ein Pinguin für jeden: <http://jaryxp.hep/> --

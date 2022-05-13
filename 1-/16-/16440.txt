@@ -1,0 +1,20 @@
+Ein Nebenschauplatz:
+Die Zeug-Trefferzahl, die nach einer Suche angezeigt wird, also z.B.
+"Ergebnisse 1 - 10 von ungefähr 2.210 für "sympathie universelle". (0,04
+Sekunden)" ist cum saxo salis zu nehmen. Du musst immer auf die letzte
+Seite blättern, damit die tatsächliche Zahl der Fundstellen angezeigt wird.
+Bei "sympathie universelle" schrumpfen dann die Treffer fast um den Faktor
+10 von 2210 auf 226. Bei "simpatia universale" bekomme ich *zunächst* 549
+Treffer. Wenn ich mir diese alle anschauen möchte, stellt sich heraus, dass
+auf Seite 19 bei 187 Treffern Schluss ist. ähnliches gilt für "universelle
+Sympathie". Die effektiven Trefferzahlen für die drei Suchterme sind also:
+
+sympathie universelle   226
+simpatia universale     187
+universelle Sympathie    69
+
+Gruß,
+S. U.
+
+-- 
+Latinitatem colamus!

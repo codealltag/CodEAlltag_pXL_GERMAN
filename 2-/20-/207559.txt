@@ -1,0 +1,26 @@
+* Ullrich Kirsner:
+
+
+Diese konkreten Beispiele empfinde ich alle als auffällig.
+
+Wenn es generell um drei- und mehrteilige Komposita geht, dann
+kann man unterstellen, daß sie schrittweise aus jeweils zwei
+Teilen zusammengesetzt sind, ich kann mich nicht an Beispiele
+erinnern, wo diese Annahme problematisch erscheint. In einigen
+Fällen ist die Reihenfolge freilich nicht eindeutig.
+
+Jedenfalls sind Komposita nach dem obigen Schema dann unauffällig,
+wenn eine eingeführtes A-N-Kompositum vorne steht (z.B.
+"Hochschulpolitik").
+
+Ich hatte mich bisher nur mit dem Zugriff "von außerhalb"
+beschäftigt, aber sogar innerhalb des Kompositums scheint es eher
+keinen Zugriff auf die vordere Konsitutente zu geben, sobald sie
+einmal eingebunden ist. Ich erinnere mich jetzt aber an das
+Argument, daß in Zusammensetzungen der Struktur (A(BC)) A nicht
+mit B, sondern nur mit C semantisch kompatibel sein muß (ein BC
+ist eine Art C, ein A(BC) ist eine Art BC, also auch eine Art C).
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

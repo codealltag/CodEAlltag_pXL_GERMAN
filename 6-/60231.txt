@@ -1,0 +1,9 @@
+Dein Beitrag ist nach wie vor nicht als iso-8859-1 oder dergleichen
+markiert. Wie so ein Zeichen aussieht, hängt daher vom Empfänger ab,
+denn der Sender (Du) gibt dazu keinen Hinweis.
+
+Und was Umaks Reader als Empfänger macht, ist wiederum unabhängig von
+den Einstellungen zum Senden.
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

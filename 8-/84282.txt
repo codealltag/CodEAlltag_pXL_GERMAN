@@ -1,0 +1,19 @@
+Nico Tepaß wrote:
+
+[Zeitreisen]
+
+Gert hat den Mac nach erfolgter Mission hochgebeamt.  Und danach
+des Apfels Kerne in Regionen verschoben, die noch nie ein Mensch
+zuvor gesehen hat:
+
+<Kommunikator, sound = "*tüdelütt*">
+Uwe:   "Gert, wir brauchen den Sol-Antrieb!  Dringend!"
+Gert: "Tut mir leid, Sir, aber der Mac..."
+Uwe:   "Ich gebe Ihnen höchstens eine Stunde!"
+Gert: "Aber, Sir, ich sagte doch..."
+Uwe:   "Eine Stunde, Gert, höchstens!"
+Gert: "Okay, Sir -- für Sie in fünf Minuten!  Gert Ende!"
+</Kommunikator, mode(scotty) = "busy">
+
+
+leander

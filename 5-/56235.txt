@@ -1,0 +1,49 @@
+Ich bin sogar /so/ nett, daß ich noch Mitte der 90er auf die Verwendung
+von Umlauten und Nicht-ASCII-Sonderzeichen verzichtet habe, um auch
+Benutzern von Newsreadern, die noch nicht i18n-fähig waren, ein problemloses
+Lesen zu ermöglichen.  Und auch heute ignoriere ich flasch eingestellte
+Zeichensätze normalerweise.  Übrigens: das Erzwingen eines Zeichensatzes
+zum Anzeigen verhindert nicht die Weitergabe "faslcher" Zeichen beim
+Quoten in Followups -- so hat auch der Nächste seinen Spaß beim Entziffern.
+
+
+Es war ein netter, gutgemeinter Hinweis in einem Nebensatz, mehr nicht.
+Wenn daraus ein TF entsteht, wird's halt Diskussionsbedarf dafür geben.
+Willkommen im Usenet!
+
+
+Garantiert /viel/ weniger als Du Dich zum Hüter der Guten Sitten[tm]!
+
+
+Und ich sehe, daß Du offenbar ein paar Dinge recht heftig verwechselst.
+
+Die Netiquette (!) versucht, den höflichen Umgang der Gehahe-Teilnehmer
+untereinander zu regeln ("Gehahe-Knigge").  RFCs dienen dagegen der
+technischen Spezifikation von Internet-Protokollen, sowie auch deren
+Implementation durch Software.  Und ja, Ben Zendel Leitsatz, der da
+oben zitiert wird, sollte bei der Implementierung immer Beachtung finden;
+dieses Prinzip ist auch unter dem Namen "GIGO" bekannt ("Garbage In,
+Garbage Out").  Getreu diesem Motto akzeptieren Usenet-Serverprogramme
+und Newsreader (nicht nur OjE-)Schrott und geben ihn auch wieder weiter
+-- und zwar ohne dabei abzustürzen (auch /das/ bedeutet "GIGO"!).
+
+RFC 1855 dürfte am ehesten dem entsprechen, was Du oben mit "Net(t)ikette
+in einen RFC gegossen" bezeichnet hast.  Er trägt den Titel "Netiquette
+Guidelines", hat nur am Rande etwas mit der Usenet-Netiquette zu tun, und
+enthält auch keinen Punkt "3.9" mit "Postel's Prescription".  Dieser Punkt
+entstammt nämlich RFC 1958 mit dem Titel "Architectural Principles of the
+Internet" und dem Abschnitt "3. General Design Issues".  Ergo: Grundlagen
+für Internet-Protokolle und darauf basierende Software.
+
+
+Für Dich zum Verinnerlichen des Unterschieds zwischen RFCs (Technik) und
+Netiquette (Teilnehmer) hier der erste Punkt der de-Netiquette:
+
+   1. Vergessen Sie niemals, dass auf der anderen Seite ein Mensch sitzt!
+      -------------------------------------------------------------------
+
+Und den elften ("Benutzen Sie E-Mail!") gebe ich Dir noch kostenlos dazu,
+nur für den Fall, daß Du Dich bei mir entschuldigen möchtest.
+
+
+horst

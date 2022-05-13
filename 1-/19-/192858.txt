@@ -1,0 +1,12 @@
+Ja, ich weiß. Seit dem letzten Update besteht mein NewsTap darauf, selbst
+Umbrüche einfügen zu müssen. 
+Das sieht man aber leider erst nach dem Absenden, und bisher habe ich keine
+Option gefunden, wo man das ändern kann. 
+Ich habe gerade an einer ziemlich gut versteckten Stelle im Helptext
+gefunden, dass man grundsätzlich selbst keine Umbrüche machen soll. Das
+widerspricht aber meinen Gewohnheiten in Mail und News - ich werd's
+versuchen, aber ich fürchte, es wird noch einige Zeit haken. (In
+Online-Leserbriefen, Gangwechsel-Forum u.ä. habe ich das gleiche Problem. Ich bin
+einfach zu alt ;-)
+
+/Stephan

@@ -1,0 +1,4 @@
+Hausa markiert das Tempus am Subjektpronomen.
+
+-- 
+Klaas "regine" Heidenreich                          zukoe@suew.vpbm.wy

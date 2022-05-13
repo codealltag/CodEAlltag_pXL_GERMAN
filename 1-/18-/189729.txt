@@ -1,0 +1,11 @@
+BETTINA
+
+In früheren TV-Geräten gab es ja noch die Bildröhren, die ca. 30 KV DC 
+Anodenspannung benötigten.
+
+Nun gab es Geräte mit Zeilentransformator und externer Kaskade. Die 
+Ausgangsspannung des Trafos lag bei ca. 6 KV; die Verbindung zur Kaskade 
+erfolgte über eine Lötstelle. Diese sollte in Form einer Kugel ohne 
+irgendwelche Spitzen ausgeführt werden.
+
+Der Begriff "ballig" ist mir aber in diesem Zusammenhang unbekannt.

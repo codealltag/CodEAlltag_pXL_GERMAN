@@ -1,0 +1,30 @@
+Reginald Kornblum:
+
+
+"fout/verkeerd aan" und "fout/verkeerd met" haben eigentlich
+unterschiedliche Bedeutungen, obwohl die Floskeln in der Umgangssprache
+gerne durcheinander verwendet werden.
+
+"fout aan" deutet an, dass der Fehler sich am genannten Objekt befindet.
+"fout met" bedeutet, dass ein Fehler in Zusammenhang mit diesem Objekt
+gesucht wird.
+
+Beispiel: einer zeigt auf ein rotes, rundes Verkehrsschild mit einem
+gelben, waagerechten Balken in der Mitte, das sich an einer Hausfassade
+befindet.
+a) Er fragt: "Wat is er fout _aan_ dat verkeersbord?"
+Die Antwort könnte lauten: "es soll wohl eine Einbahnstraße andeuten,
+die man hier nicht einfahren darf, aber der Balken sollte weiß
+sein...nicht gelb."
+Das Schild selbst beinhaltet den Fehler.
+
+b) Er fragt: Wat is er fout _met_ dat verkeersbord?"
+Die Antwort könnte lauten: "es soll wohl eine Einbahnstraße andeuten,
+die man hier nicht einfahren darf, aber hier ist nur eine
+Hausfassade...weit und breit keine Straße zu sehen."
+Das Schild an sich ist vielleicht korrekt, aber trotzdem ist es hier,
+im Umfeld 'falsch'.
+
+
+-- 
+Ulfert

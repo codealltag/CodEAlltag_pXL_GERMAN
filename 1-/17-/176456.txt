@@ -1,0 +1,35 @@
+* Norman Unverwert <peb-j@czc.ud>:
+
+
+Die haben sich *genau* überlegt, was sie da machen. LLD ist eine der
+beliebtesten Marken in der Schweiz, und die werden den Teufel tun und
+Kunden verärgern.
+
+ o  Man kann sich die Angebote völlig anonym ansehen
+
+ o  Man kann völlig anonym eine Einkausfliste zusammenstellen und diese
+    ausdrucken
+
+ o  oder diese Einkaufsliste an eine E-Mail-Adresse schicken (schon
+    nicht mehr ganz so anonym)
+
+ o  Man kann eine PLZ angeben und erhält dann auch regionale Angebote
+
+ o  Man kann sich mit Fantasie-Name und -Email für die
+    Einkaufslisten-App anmelden und kann dann die Einkaufsliste über
+    dieses Konto zwischen PC und Smartphone synchronisieren.
+
+ o  Wenn man eine Kundenbindungskarte hat, kann man die mit dem
+    Einkaufslisten-Konto verkoppeln, muss aber nicht. Man muss es
+    explizit tun (opt-in, nicht opt-out). Man wird auf die Vor- und
+    Nachteile hingewiesen und kriegt man den üblichen Sermon von
+    Datenschutz usw.
+
+ o  Man kann das Kundenbindungskartenkonto wieder von dem der
+    Einkaufslisten-App trennen  - muss dann aber natürlich LLD
+    vertrauen, dass sie wirklich getrennt werden. Wenn man das nicht
+    tut und dennoch die Einkaufslisten-App nutzen wikll, kann man sich
+    unter einem anderen Fantasienamen registrieren.
+
+
+ - Emil

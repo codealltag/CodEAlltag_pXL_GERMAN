@@ -1,0 +1,16 @@
+Hallo,
+
+beim Transkribieren alter Briefe möchte ich gerne die Kürzel
+für "mm" und "nn" in der Abschrift dem Original entsprechend
+durch den einfachen Buchstaben mit Oberstrich wiedergeben.
+Beim � habe ich mir bisher mit der gezeigten Mogelei beholfen.
+Bei der jetzt bearbeiteten Serie (um 1836) nehmen aber die
+verkürzten "mm" und "nn" überhand. Meine Frage und Bitte
+deshalb an die Kundigen in der Gemenide: Gibt es in utf8
+entsprechende Zeichen, die ich einsetzen könnte? Welche?
+In meinen Tafeln bin ich noch nicht fündig geworden.
+
+Es grüßt
+Karl Zurstraßen
+alias j/\a
+--

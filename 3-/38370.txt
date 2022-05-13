@@ -1,0 +1,9 @@
+Nix Macke. Man sieht z. B. Doppelleerzeichen wesentlich besser.
+Das einzige, was in Proportionalschrift besser erkennbar ist, 
+sind Binde-, Gedanken-, Geviert-, Halbgeviert-, Minus-, M-dash- 
+N-dash oder sonstwie -Striche.
+
+Ich arbeite auch grunz�tslich nur in Courier. Abgegeben wird das 
+Manuskript dann in Times.
+
+P.

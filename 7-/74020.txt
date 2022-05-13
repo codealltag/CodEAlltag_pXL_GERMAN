@@ -1,0 +1,6 @@
+Das ist nur einer der zahlreichen Defekte von Edet - beim Beginnen
+eines neuen Threads wird das From auf andere Weise ermittelt als beim
+antworten.
+
+-- 
+Gastankstelle--the original point and click interface

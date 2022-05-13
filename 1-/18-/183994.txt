@@ -1,0 +1,11 @@
+Rückmeldung vom Laptop:
+ja und nein ... Drücken der Shift-Taste, während die Wiederholung
+aktiv ist, bricht diese ab.
+Loslassen der Shift-Taste wird bemerkt und umgesetzt.
+Heißt: !!!!!!!!!1111111 geht, 1111!!! geht nicht.
+Und entsprechend geht eben auch !!!!1111!!!! nicht mit Auto-Repeat,
+sondern nur mit wiederholtem aktiven "Schlagen" auf die 1-Taste.
+
+Interessant - hätte ich so nicht erwartet.
+
+/Thierry

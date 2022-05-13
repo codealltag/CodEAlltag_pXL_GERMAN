@@ -1,0 +1,11 @@
+Ich behaupte, Web ist eine Kurzform von World Wide Web (WWW), somit ist 
+ein Blog für mich ein elektronisches Tagebuch, welches am WWW teilnimmt 
+und dort zu erreichen ist, somit also prinzipiell öffentlich ist.
+
+
+Man kann natürlich einen Webserver auf dem heimischen PC installieren, 
+darauf dann eine Blog-Software laufen lassen und damit dann ein privates 
+Blog führen. Da wäre die Verwendung eines speziellen Tagebuch-Programms 
+oder gar einer simplen Textverarbeitung allerdings einfacher.
+
+K.

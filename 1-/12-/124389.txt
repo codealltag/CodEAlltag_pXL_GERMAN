@@ -1,0 +1,31 @@
+Am Tue, 28 Jul 2011 12:13:06 +0200 schrieb Waldemar Schmalholz:
+
+
+In meinem Ostduden, 18. Neubearbeitung von 1990 steht in dem Abschnitt
+"Hinweise für das Maschinenschreiben" dazu:
+
+"*5. Leerräume (Leeranschläge)*
+Je ein Leerraum (Anschlag der Leertaste) steht vor und nach
+ausgeschriebenen Wörtern, Abkürzungen, Wortvertretern und Zahlen, ferner
+vor und nach Auslassungen, die durch drei Punkte gekennzeichnet sind, sowie
+vor und nach dem Mittestrich als Gedankenstrich und Streckenstrich. Mit je
+einem Leerraum danach werden Satzzeichen, Kommandostrich und Zeichen für
+Winkelmaße und Zoll geschrieben.
+
+5.1. /Wortvertreter/ (d. h. Schriftzeichen, die als Ersatz für ein Wort
+stehen und als Wort gesprochen werden, z. B. %, &, �, �� und /Abkürzungen/
+wie f., ff., z. B., u.a.) sind in bezug auf Leerräume wie Wörter zu
+behandeln."
+
+Der Angabe zufolge solltest du, da das Sternchen für ein Wort steht, ein
+Leerzeichen einfügen.
+
+Du kannst dir auch einfach mal vor Augen führen, wie es im umgekehrten Fall
+aussieht, wenn du also keine Geburt, sondern einen Todesfall zu verkünden
+hast. Zumindest ich würde in dem Fall nicht unmittelbar vor den Tag ein
+Pluszeichen setzen, also nicht +22. 11. 2005, sondern + 22. 11. 2005.
+Infolgedessen würde ich auch beim Geburtsdatum dem Sternchen ein
+Leerzeichen folgen lassen.
+
+Gruß
+Patrick.

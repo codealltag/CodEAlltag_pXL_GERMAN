@@ -1,0 +1,7 @@
+Besser ist es, sie mit dem Unterschied zwischen der Abzählung von 
+Intervallen und der Anz�hlung der Grenzen von Intervallen vertraut zu 
+machen. Dann klappts auch besser mit dem überabzählbaren.
+
+-- 
+
+Sebastian Sondermann

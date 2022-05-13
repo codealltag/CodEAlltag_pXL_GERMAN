@@ -1,0 +1,36 @@
+Die Weißheit unseres Gesetzgebers ist halt unermeßlich. Mich würde es 
+nicht wundern, wenn er auch physikalische Gesetzmäßigkeiten demokratisch 
+mit 2/3 Mehrheit zu ändern versuchen würde.
+
+
+Tja, es ist nicht einfach gesetzgeberischen Unsinn verständlich 
+rüberzubringen. ;-)
+
+Laß es mich mal so erklären. Rundfunkempfang ist eine Einpunkt zu 
+Mehrpunkt Übertragung. Das geschieht mittels Rundfunkwellen. 
+Rundfunkwellen als Untermenge des Spektrums der elektromagnetischen 
+Wellen. Das zur besseren Verständlichkeit.
+Der Sender hat dabei keinen Einfluß auf der/die Empfänger.
+
+Der PC als universelles Werkzeug/Platform kann durch eine Empfängerkarte 
+als Erweiterung auch als Rundfunkempfänger benutzt werden. Er bleibt 
+dabei aber immer ein Rechner.
+
+Im Internet funktioniert das aber etwas anders. Dort haben wir eine 
+Punkt zu Punkt Verbindung. Der Dienstanbieter/Server hat dabei immer die 
+Kontrolle darüber, wer seinen Dienst beanspruchen will. Auch bei 
+Multicast. Das funktioniert ähnlich eines Faxabrufs.
+
+Präziser müßte der Gesetzgeber also beim PC von neuartigem Faxabrufs 
+sprechen und nicht neuartigem Rundfunkempfänger. ;-)
+
+Wer über Leistungen die er im Internet anbietet Geld generierten will, 
+kann idealerweise seinen Zugang kostenpflichtig gestalten und er kann 
+seinen Stream verschlüsseln.
+
+Zum Unterschied zu einem Radio bzw Rundfunkempfänger sollte beim 
+Internet das für Musik/Sprache bestimmte Gerät als Web-/Netradio 
+bezeichnet werden. Dann gibs keine Mißtverständnisse. ;-)
+
+-- 
+mfg helga

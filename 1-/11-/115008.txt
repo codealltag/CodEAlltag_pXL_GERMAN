@@ -1,0 +1,5 @@
+Lat. summa = das Höchste. Für den Kapitalisten ist ein (vor allem
+großer) Geldbetrag das Höchste.
+
+    SCNR,
+    	hp

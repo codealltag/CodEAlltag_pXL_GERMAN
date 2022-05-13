@@ -1,0 +1,13 @@
+* Norman Neimeier <cecpywlaaql@pcetniwnftexs.zkyw>:
+
+
+Es *war* das IOGS-Maskottchen zur Zeit von Java 1.1 so um 1998
+rum, als man Java als die zukünftige Sprache für browserbasierte
+Programme (Applets) ansah. Das ist heute eine Sub-1%-Nische in der
+IOGS-Programmierung.
+
+Der Name "Willibald" war mir übrigens entfallen, ich musste ihn mir erst
+wieder in Erinnerung googeln. Das aktuelle Javatassenlogo ist auch
+schon das zweite, vorher war die Tasse so ein Kugelschreibergekritzel.
+
+ - Samuel

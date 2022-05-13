@@ -1,0 +1,35 @@
+Ich denke, in der Informatik liegt der Unterschied zu sonstigen
+Vererbungen schon darin, dass praktisch alle Begriffe zuerst im
+Englischen vorhanden waren und dann entweder direkt oder nach
+Sprachgefuehl angepasst uebersetzt worden sind.
+
+Schauen wir einmal:
+
+"parent node": 281.000    9.630: Elternknoten
+"father node":  18.600    8.750: Vaterknoten
+"mother node":  14.500      482: Mutterknoten
+
+Ok, das spricht jetzt nicht gerade fuer meine Theorie. Mein eigens
+Sprachgefuehl (in der Technik immer geschlechtsunabhaengig von
+Eltern und Kindern zu sprechen) entspricht eher dem internationalen
+Gebrauch.
+
+"child node":  222.000    17.300: Kindknoten
+"son node":      5.850     1.170: Sohnknoten
+"daughter node": 3.970     1.410: Tochterknoten
+
+Hier hingegen passen die deutschen Haeufigkeiten sehr gut zu den
+englischen. Waehrend im Englischen die Bezeichnungen nach oben und
+unten hin in einem wenigstens ganz grob aehnlichen Verhaeltnis
+stehen, ist das im Deutschen also tatsaechlich komplett
+unterschiedlich. Raetselhaft.
+
+Servus,
+   Antonio
+
+-- 
+http://djttxapxtiju.vq/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von françoise
+
+Antonio, so defloriert wie das Lachen.
+(Sloganizer)

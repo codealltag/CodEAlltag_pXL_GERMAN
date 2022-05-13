@@ -1,0 +1,9 @@
+Ich habe eine unbescheidene (und hoffentlich nicht dumme) Frage:
+Daß Ihr utf-8 codiert, habe ich gesehen. Aber wie und woher
+bekommt Ihr den ganzen schönen Zeichenvorrat auf den Bildschirm?
+Dieselbe Frage geht an die Schreiber von arabischen, griechischen,
+kyrillischen und anderen schönen Zeichensätzen.
+Möcht' ich wohl auch können!
+
+j/\a
+--

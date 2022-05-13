@@ -1,0 +1,8 @@
+Hier ging es aber um was anderes. Jemand hat einen Artikel gepostet und 
+durch X-No-Archive explizit die Archivierung durch JSRU unterdrückt. 
+Jemand anderes kopiert diesen Artikel als Vollzitat ohne eigenen 
+Beitrag, allerdings ohne X-No-Archive. Auf diese Weise sorgt er dafür, 
+dass der Artikel doch (gegen den Willen des Originalautors) archiviert 
+wird. Das macht er z.B., um den Originalautor zu ärgern.
+
+Jonathan

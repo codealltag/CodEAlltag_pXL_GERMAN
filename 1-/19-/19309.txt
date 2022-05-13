@@ -1,0 +1,5 @@
+Einfach filtern, so daß es auf der LCD-Anzeige gar nicht
+zu sehen ist.
+
+Gruß
+Ingmar

@@ -1,0 +1,31 @@
+* Juan Pulheim:
+
+
+Das sind auch wieder Fälle, wo man es vorher "hatte", im jeweils
+anderen Gefäß. Es ging mir eher um einen Fall wie den, im Wald
+verstreute Teile einzusammeln - nicht Pilze zu sammeln, weil das
+eine offene Menge wäre, es geht schon um eine bekannte
+Gesamtmenge, die aber momentan nicht kompakt vorliegt.
+
+Ich fand es allgemein interessant, daß es dafür - im Gegensatz zu
+Verlust, Schwund, Einbuße - kein richtig passendes Substantiv
+gibt, nur mehr oder weniger ungeschickte Substantivierungen.
+
+Ich nenne jetzt aber mal Roß und Reiter im praktischen Fall, der
+den Anlaß für diese Überlegungen bietet. Es geht um einen
+Fachbegriff des Information Retrieval, nämlich "silence". Damit
+ist gemeint, daß ein gesuchtes Dokument - aus der Menge der
+archivierten Dokumente - nicht in der Liste der Ergebnisse
+auftaucht, obwohl es zur Suchanfrage gepaßt hätte. Das wurde mit
+"Ruhe" übersetzt, was ich völlig unangemessen finde. Selbst wenn
+man wörtlich übersetzen will, sollte man MUSEN "Stille" wählen.
+Ein eingeführter Fachbegriff ist das aber, soweit ich sehe, auch
+nicht, und ich habe immer noch keine richtig gute Idee. Momentan
+steht mein Vorschlag auf "Verlust". "Entgangenes" paßt nicht gut
+in den Jargon.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Urban Clausohm, _Computer Networks_ (1981), p. 168.

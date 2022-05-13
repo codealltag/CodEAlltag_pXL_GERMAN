@@ -1,0 +1,70 @@
+In diesem Fall hatte ich, der ich das Wort "Naturwissenschaft" in die 
+Debatte eingebracht habe, in einem späteren Beitrag ausdrücklich 
+festgestellt, dass es mir in diesem Fall um die Methodik (Theorie, 
+Voraussage späterer Evidenz (egal, ob Experiment, spätere Funde oder 
+sonstwas), Kontrolle, Revision) und nicht um den Gegenstand (Natur, 
+Kultur, Struktur) geht. Aus den dazu angeführten Beispielen sollte klar 
+sein, dass Francisco mit seiner Antwort zumindest bei mir sperrangelweit offene 
+Türen einrennt.
+
+
+Wir müssen "prinzipiell falsifizierbar" von "praktisch falsifizierbar" 
+unterscheiden. Aussagen über die Sprache von Neandertalern sind praktisch 
+nicht falsifizierbar, weil man keinerlei Aufzeichnungen hat und auch keine 
+mehr bekommen wird. Sie ist aber nicht prinzipiell nicht falsifizierbar: 
+nichts außer die zu späte Erfindung des Kasettenrekorders hindert uns. In 
+diesen Fällen kann spätere Forschung möglicherweise zwar nicht die Frage 
+beantworten, aber zusätzliche Erkenntnisse über Teilaspekte liefern. Ganz 
+anders wäre die Aussage eines Psychologen zu werten, der Sexualtrieb sei 
+das eigentliche Motiv sämtlicher Gedanken und Handlungen (so platt würde 
+er es natürlich nicht sagen). Hier ist prinzipiell kein Falsifikation 
+möglich, weil gar nicht klar ist, welche neue Erkenntnis der "Theorie" 
+widersprechen könnte. Es ist also nicht das praktische Problem, wie man an 
+solche Erkenntnisse kommt, sondern das prinzipielle, dass keiner sagen 
+kann, welcher Art diese Erkenntnisse sein müssten.
+
+In diesem Sinn wäre für mich "eigentliche Wissenschaft" eine Wissenschaft, 
+die keine prinzipiell nicht falsifizierbaren Aussagen macht und sich mit 
+praktisch nicht verifizierbaren in dem Sinne zurückhält, als die Aussagen 
+dann wenigstens Ausflüsse einer ansonsten verifizierbaren Theorie sein 
+sollten (etwa der Urknall als Anfang einer Entwicklung, die wenigstens 
+danach den verifizierten, d.h. falsifizierbaren aber noch nicht 
+falsifizierten, Naturgesetzen gehorcht).
+
+Die Grammatik einer Sprache niederzuschreiben ist insofern falsifizierbar, 
+als man die nach dieser Grammatik richtigen, unüblichen und falschen Sätze 
+mit dem tatsächlichen Gebrauch vergleichen kann -- dass die Grenzen 
+unscharf sind, macht nichts. Grammatikalische Begriffe (z.B. "Subjekt") 
+zum Gebrauch für die Grammatiken vieler Sprachen zu entwickeln ist 
+insofern falsifizierbar, als sich ja herausstellen könnte, dass der 
+Begriff, der für eine Sprache entwickelt wurde, für andere unscharf 
+definiert ist oder gar nicht taugt: dann muss man ihn präziser fassen oder 
+seine Anwendung einschränken -- derselbe Prozess wie die Verbesserung 
+einer unzulänglichen Theorie in der Physik.
+
+Ich habe mich neulich mit ein paar Aspekten der Linguistik beschäftigt. 
+Das ist nicht mein Fach (bin Mathematiker und Informatiker). Eine 
+Querverbindung ist die formale Beschreibung von Sprachen; der Name Braucks 
+kommt Informatikern wie Linguisten über die Lippen, den ersteren emotional 
+unbeteiligt, den letzteren entweder in Zorn oder Bewunderung, je nach 
+"Schule" (ein typisch geisteswissenschaftlicher Begriff). Erst jetzt, 
+Jahrzehnte nach der ersten Beschäftigung damit, kapiere ich langsam, dass 
+der Linguist Braucks etwas *ganz* anderes wollte und fast zufällig die 
+Methoden anwandte, die die Informatiker heute verstehen. Die Frage, ob 
+eine generative Grammatik einen generativen Prozess beschreibt, stellt 
+sich dem mathematisch geschulten Informatiker nicht, wo in der Mathematik 
+doch seit über hundert Jahren Induktion betrieben wird, ohne sie als 
+generativen Prozess zu verstehen. Linguisten können sich anscheinend über 
+etwas ereifern, wo Mathematiker beim besten Willen keinen Unterschied 
+sehen.
+
+Es gibt auch Gebiete der Linguistik, die dem Mathematikerhirn unmittelbar 
+zugänglich sind, und das sind *nicht* die mit mathematischen Methoden 
+formalisierten.
+
+
+Deswegen habe ich ja selbst das Wort "Naturwissenschaft" präzisiert im 
+Sinne von "eigentliche Wissenschaft" im obigen Sinne.
+
+-- 
+Max Ausdermühle

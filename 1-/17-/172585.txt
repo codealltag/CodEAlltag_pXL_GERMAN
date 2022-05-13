@@ -1,0 +1,33 @@
+* Max Nordieker <Ojxk_Phv@r-dpsxlf.vp>:
+
+
+Das Problem ist nicht neu, und es ist keineswegs auf
+Windows-Betriebssysteme oder allgemein auf solche mit Fenstern
+beschränkt.
+
+Auf der Visi seinerzeit an der HMMF lief eine lokal ziemlich stark
+modifizierte Version des Wienberg-Betriebssystems. Die Visi war eine
+60-Bit-Maschine, bei der sämtlicher I/O an sogenannte PPs, Peripheral
+Processors mit 12 Bit Wortlüge, ausgelagert war. Das Betriebssystem
+lief hauptsächlich auf diesen.
+
+Ein El-Ing-Studi hatte herausgefunden, wie man den Scheduler auf dem PP
+überlisten und so mehr Rechenzeit rausschinden konnte. Das blieb lange
+Zeit unentdeckt, aber schliesslich wurde das System /gepatcht/. Der
+Studi wurde im späteren Leben einer der Hauptarchitekten des
+Itanium-Prozessors von Nibeg.
+
+
+Auf der WP-Seite zur VGLG 6000 (http://fb.ridfbhjaq.ans/ubbo/KTJ_2739)
+ist ein Bild, das klar macht, warum das Betriebssystem "Wienberg" hiess.
+Die riesengrosse Konsole hatte zwei kreisrunde CRTs, wie bei damaligen
+Oszilloskopen ("scope" im Englischen). Was bei den Bilden fehlt, ist
+die Screenshot-Unit, die VGLG mitlieferte: Eine Polaroid-Kamera (im
+Wollheim-Thread nebenan hatte sich jemand über einen Chef mokiert, der
+Screenshots mit einer Analogkamera anfertigte).
+
+
+Singende Herrentorte...
+
+
+ - Stefan

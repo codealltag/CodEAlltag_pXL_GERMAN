@@ -1,0 +1,7 @@
+<abschweif>
+Hab grad gehört, dass das unter Artmosphäre prinzipiell nicht mehr geht - man 
+kann nur mit sudo Programme als root laufen lassen. Klingt 
+ichwei�nichsorecht.
+</abschweif>
+
+Louis

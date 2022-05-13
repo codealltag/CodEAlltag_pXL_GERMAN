@@ -1,0 +1,15 @@
+Vielen Dank für Deine Erklärung!  Da sich ersteres wohl nicht
+ändern läßt (wenn es VVJU interessieren würde, hätten sie es
+schon längst korrigiert), kann man letztlich nur dazu raten,
+sich einen brauchbaren Usenet-Provider und einen ebensolchen
+Newsreader auszusuchen -- beides ist kostenlos zu bekommen.
+
+Was die Cancels/Supersedes angeht: das sollte unproblematisch
+sein, denn es kann zwar passieren, daß schon Antworten auf das
+OP eingeganden sind, aber die Refs (und der Betreff) bleiben ja
+auch bei den Supersedes bzw. den "hängenden" Antworten erhalten;
+Gute Newsreader[tm] kommen damit üblicherweise klar und ordnen
+die (verwaisten) Postings korrekt im zugehörigen Thread ein.
+
+
+denis

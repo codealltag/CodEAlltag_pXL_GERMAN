@@ -1,0 +1,13 @@
+* Jacques L. Depper:
+
+
+Der Grundfehler ist, daß das eine semantische Regel ist. Man braucht
+aber in Wirklichkeit eine sprachliche Regel. Die Grammatik anhand der
+Semantik erklären zu wollen, ist sehr verbreitet. Das fängt schon in der
+Grundschule an, wenn (durch wessen Ungeschicklichkeit auch immer) die
+Auffassung entsteht, ein Name wie "Eigenschaftswort" enthalte nicht nur
+einen nützlichen Hinweis, sondern bereits den Kern einer Definition.
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Theo T. Brändl

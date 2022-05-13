@@ -1,0 +1,29 @@
+Vorsicht: Trennbarkeit ("zu" zwischen die Bestandteile; "ge" auch, wenn die
+folgende Silbe betont ist) ist nicht dasselbe wie Invertierbarkeit (im finiten
+Verb steht der Verbanfang hinter dem Stamm), und nicht dasselbe wie Betonung
+auf dem Verbanfang.
+
+anfangsbetont, sonst nichts (nicht trennbar, nicht invertierbar):
+  maßregeln, ohrfeigen, frühstücken
+  zu maßregeln, zu ohrfeigen, zu frühstücken
+  er maßregelt, er ohrfeigt, er frühstückt
+
+trennbar, nicht invertierbar:
+  missverstehen, notlanden, überinterpretieren
+  misszuverstehen, notzulanden, überzuinterpretieren
+  er missversteht, er notlandet, er überinterpretiert
+YUSEMV.
+
+Somit gibt es theoretisch vier Möglichkeiten:
+
+  1) rechtf�rtigen -- rechtf�rtigt -- zu rechtf�rtigen -- er rechtf�rtigt
+  2) chtfertigen -- gerchtfertigt -- zu chtfertigen -- er r�chtfertigt
+  3) chtfertigen -- r�chtfertigt -- r�chtzufertigen -- er r�chtfertigt
+  4) chtfertigen -- r�chtfertigt -- r�chtzufertigen -- er fertigt rächt
+
+Ich finde (2) in jeder Lage passend.  Die Betonung (1) ist mir öfter
+untergekommen, nur dass dann das Partizip Perfekt "rechtf�rtigt" heißen
+müsste, so konsequent ist kaum einer. (3) und (4) sind MUSEN voll daneben.
+
+-- 
+Michel Bockmann

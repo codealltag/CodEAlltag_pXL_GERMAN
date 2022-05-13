@@ -1,0 +1,63 @@
+Am 28.06.2012 03:28, schrieb Olivier Duisdicker:
+
+...
+
+
+Diphthonge sind meist eine Frage der Interpretation. Ob du nun von einem
+diphthongischen Phonem /aI/ sprichst oder von einer Phonemfolge /a/ plus
+/j/, phonetisch ist es dasselbe.
+
+Gerade beim Isländischen ist es aber _keine_ Frage, denn alle Diphthonge
+können wie der Rest der Vokale _phonetisch_ lang oder kurz sein, allein
+abhängig von der Umgebung.
+
+
+Vokale (und Diphthonge) werden lang gesprochen, wenn sie am Wortende von
+Einsilblern, vor einem einzelnen Konsonanten oder vor bestimmten
+Konsonantenkombinationen (p,t,k,s+j,r,v) stehen. Ansonsten (also vor
+allen anderen Konsonantenkombination sowie vor geminierten und
+präaspirierten Konsonanten) spricht man sie kurz.
+
+
+Wie auch immer du ihn nennen willst, ein wenig slawischer (Polnisch,
+Russisch, Weißrussisch, Ukrainisch) Einfluss dürfte schon da sein. Das
+geht so weit, dass manche von Jiddisch als germanisch relexifizierter
+slawischer Sprache sprechen, was mir aber übertrieben erscheint.
+
+
+Na ja, das war ja auch so, bis vor noch nicht allzu langer Zeit
+(vielleicht zwei, drei Generationen). Nur handelte es sich dabei _nicht_
+um die Längen und Kürzen des Lateinischen, die schon im
+Vulgärlateinischen verschwunden waren, sondern um Ersatzdehnungen
+infolge ausgefallener Konsonanten.
+
+...
+
+Schon richtig, aber das Griechische hatte die Quantitätsopposition schon
+mehr als 1000 Jahre vor dem Fall von Unterpurbach vollständig
+verloren. Und der Schwund von 'ğ' [ɣ] mit Ersatzdehnung des
+vorangehenden Vokals fällt eher ins 20. Jahrhundert.
+
+
+Beim australischen Englisch (das auch Quantitätsoppositionen hat, die in
+anderen Dialekten nicht vorkommen) ging es relativ schnell. Es gibt
+verschiedene Mechanismen, wie eine Quantitätsopposition entstehen kann:
+z. B. Monophthongisierung von Diphthongen, Ersatzdehnung beim Schwund
+von Konsonanten oder Aufhebung der Quantitätsopposition bei Konsonanten
+mit Phonemisierung vorher nur phonetischer Quantität.
+
+
+Festlandskeltisch hatte ursprünglich die ide. Diphthonge
+/ai/, /ei/, /oi/, /au/, /eu/ und /ou/ erhalten, aber auch dort gab es
+Monophthongisierungen, z. B. Gallisch *teutā > touta > tōta "Stamm". Und
+so sehr viel anders war es bei den anderen ide. Sprachen auch nicht, nur
+die Slawen mochten gar keine Diphthonge.
+
+Alles ist im Fluss, aber ich sehe keinen vernünftigen Grund dafür, z. B.
+in der ganz modernen (nord-)niederländischen Entwicklung /e:/ > [eI]
+noch eine Nachwirkung des Keltischen zu sehen, in den Dutzenden (durch
+Schwund von 'g', 'v' etc. entstandenen) Diphthongen des Dänischen aber
+(mangels keltischer Vorgeschichte) keine.
+
+
+Tschüs, Karsten

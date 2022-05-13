@@ -1,0 +1,35 @@
+Zweifellos sind Fugenlaute im Einzelfall unvorhersagbar. Aber es scheint 
+doch einige Regeln zu geben, die die möglichen Fugenlaute beschränken, 
+etwa wie folgt.
+
+Bei der Zusammensetzung von Substantiven bekommt das erste eine der 
+folgenden Formen:
+
+ 1. unverändert wie Nominativ Singular
+ 2. wie Nominativ Singular, -e weggelassen
+ 3. wie Genitiv Singular
+ 4. wie Plural (die Kasus sind da eh ununterscheidbar)
+ 5. mit -s (auch wenn der Genitiv Singular anders aussieht)
+
+Beispiele:
+
+ 1. Wildschweinbraten, Einkommensteuer, Handball
+ 2. Farbgebung, Bittsteller, Erdumfang
+ 3. Schweinsbraten, Ermessensspielraum, Verkehrsschild
+ 4. Schweinebraten, Kassenwart, Sonnenschein
+ 5. Ansichtssache, Liebeskummer, Hochzeitsreise
+
+Dabei passt mancher vorkommende Fugenlaut in mehr als ein Schema, manche 
+direkt, manche in alter Sprache ("der Sonnen Schein"). Da der Genitiv 
+immer auch zu Punkt 1, 4 oder 5 passt, könnte man Punkt 3 auch weglassen; 
+ich habe ihn dringelassen, weil sicher viele Zusammensetzungen wirklich 
+mal Genitive waren.
+
+Eine Aussage muss natürlich prinzipiell falsifizierbar sein. Mögliche 
+Gegenbeispiele wären Fügungen mit gängigen Fugenzeichen, die nicht den 
+obigen Regeln gehorchen: *Tischentuch, *Stahlewerk, *Hausedach, 
+*Brieferkasten, *Brustenkorb. Weiß jemand welche? ("Mausefalle" fasse ich 
+als "Falle zum Mausen" auf, sonst wärs eins.)
+
+-- 
+Samu Deetjen

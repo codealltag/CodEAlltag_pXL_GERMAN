@@ -1,0 +1,24 @@
+Ich hätte sagen sollen: der Fiskus. In Form von Alkoholsteuer [1],
+Mehrwertsteuer [2] und einer Mindestpreisregelung [3]. 
+
+Die Verkaufsstellen wünschen sich, wen wundert's, eine Erhöhung des
+Mindestpreises.
+
+[1] extra für Dich nachgelesen: $0,40/Liter Bier
+[2] 5% an den Bund, darauf dann 7,5% an die Provinz; teilweise also eine
+Dreifachbesteuerung
+[3] Das übersetze ich jetzt nicht:
+     2,6048 $ le litre pour la bire contenant moins de 4,1 % d'alcool
+en volume;
+     2,7512 $ le litre pour la bire contenant au moins 4,1 % et au plus
+4,9 % d'alcool en volume;
+     2,8540 $ le litre pour la bire contenant plus de 4,9 % et au plus
+6,2 % d'alcool en volume;
+     2,9498 $ le litre pour la bire contenant plus de 6,2 % d'alcool en
+volume.
+
+-- 
+Odette: Uncle Otmar ... why do they call this a word processor?
+Otmar:  It's simple, Dirk ... you've seen what food processors do
+        to food, right?
+     Cartoon by Friedrich Empacher

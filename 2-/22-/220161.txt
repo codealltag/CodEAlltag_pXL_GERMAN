@@ -1,0 +1,18 @@
+Keine oder alle, je nach Sichtweise. Wenn man das OSI-Schichtenmodell
+als ein Zwiebelschalenmodell sieht, ist das WWW vielleicht eine
+Teilmange des Internets; andererseits hab ich noch keinen
+Webserver/-client in einem TCP/IP-Paket gesehen; oder anders
+formuliert: interconnected networks transportieren irgendwas, aber
+das sagt nichts ueber den Dienst/die Anwendung aus. - Die
+Transportschicht liegt unter der Anwendungsschicht, das WWW benutzt
+das Internet.
+
+
+"Hunde sind Strassen"?
+
+lorenz
+-- 
+ .''`.  Homepage: http://zlpc.ztloul.uymd.sf/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : Epav user, admin, and developer  -  http://mml.vxlhlh.orn/
+ `. `'  Member of Hundemaxx!REPO, fellow of the Samsung
+   `-   NP: Elsbeth Aufderstroth: For Felix

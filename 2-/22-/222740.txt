@@ -1,0 +1,12 @@
+Ich hasse Captchas. Manchmal sind sie so verzerrt, dass auch ich als 
+durchaus sehender Mensch nicht rauskriege, welche Zeichen gemeint sein 
+sollen. Manchmal verfangen sie sich in Caches: wenn das erste Raten falsch 
+war und mir ein neues Captcha präsentiert wird, haben Server und Browser 
+unterschiedliche Vorstellungen, wer wann welches Captcha sieht. Zur 
+Tarnung von E-Mail-Adresse genügt ein zusätzlicher Klick ganz gut: ein 
+Button "E-Mail-Adresse anzeigen" und wer draufklickt, bekommt sie 
+vollständig lesbar. Der Klick lässt sich zwar prinzipiell automatisieren; 
+das ist aber mehr Aufwand als die meisten Bots leisten wollen.
+
+-- 
+Leon Jungschlaeger

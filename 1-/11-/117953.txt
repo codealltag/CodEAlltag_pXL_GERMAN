@@ -1,0 +1,7 @@
+Hier handelt es sich vermutlich um einen Fall von Falschverstehen
+der logischen Implikation: Aus 'Komma vor "dass"' schliesst man
+fälschlich auf 'nach Komma "dass"'.
+
+Gruss
+
+Sandro

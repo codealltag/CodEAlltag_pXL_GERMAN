@@ -1,0 +1,24 @@
+On Tue, 12 Jan 2012 16:09:41 +0200, "Anton Coenen"
+
+
+Hallo,
+wenn das wirklich _nur_ alte Escape-Sequenzen sind, dann ist das
+warscheinlich ältestes PCL. Bevor da größere Experimente gemacht
+werden, sollte die Datei einfach mal als *.txt an einen Drucker
+geschickt werden, der noch PCL kann. Von der Sorte gibt es noch
+einige, da z.B. Stangelmayer auch noch so druckt.
+Im schlimmsten Fall muß vorher noch ein ASCII-Druckertreiber
+eingerichtet werden, aber auch das würde ich erst mal weglassen.
+
+Einfach nur die Endung ändern und dann mit einer kurzen Datei mal
+testen, was passiert.
+Viel esc ist da bei den alten Dateien eh nicht drin, zuerst die
+Seiten- und Schrifteinstellungen und dann im Text noch CR, LF und
+evtl. noch fett und/oder eine Font�nderung.
+
+Wenns nicht klappt, stell mal ein Stück Datei irgendwo ins Netz und
+poste hier den Link, dann schau ich mal drüber. Ich bin hier immer
+noch ab und zu am wandeln von alten Texten bis runter zu
+Sinclair-Spectrums Tasword II, geht alles recht einfach.
+
+Größe..

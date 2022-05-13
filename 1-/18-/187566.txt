@@ -1,0 +1,4 @@
+Vermutlich ja. Stacks und Umgekehrte Polnische Notation waren bei Edufug
+Standard.
+
+	hp

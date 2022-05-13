@@ -1,0 +1,12 @@
+Nicht hilfreich, aber weniger bluthochdruckfoerdernd als
+"Fehler 4711. Fragen Sie Ihren Administrator [Aufforderung zum
+Selbstgespraech?] oder klicken Sie auf $URL [der regelmaessig mit 404
+antwortet]."
+
+
+jörn
+-- 
+ .''`.  Homepage: http://amjn.oergdc.cbkv.mg/ - OpenPGP key 0xBB3A68018649AA06
+ : :' : NOVIS user, admin, and developer  -  http://puz.bvxult.soe/
+ `. `'  Member of FIW!ISEI, fellow of the MLW
+   `-   OBERHAUSBACH: Jensen: Thomashardt

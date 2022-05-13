@@ -1,0 +1,19 @@
+Hallo,
+
+man kann zum Denglischen stehen wie man will (ich versuche, es zu
+vermeiden), aber manchmal schafft man es nicht ohne.
+
+Mein Wissen über Grammatik-Begriffe ist ziemlich eingerostet, wie ich
+feststellen muss, aber ich versuche es trotzdem mal. Es geht, glaube
+ich, um Konjugationen? des Wortes "deploy", was im deutschen ungefähr
+als "ausliefern" oder "verteilen" von Software beschrieben werden
+kann, wobei das Ganze ein Prozess ist, bei dem die Software auch noch
+konfiguriert wird  usw. Ist halt ein Fachbegriff in der Informatik,
+der mehr aussagt als die Übersetzung, das 1:1-Pendant gibt es in der
+deutschen Sprache MUSEN nicht.
+
+Wie sagt man? Ich deploye? Du deployst? Und dann: er deployt oder
+deployed oder wie?
+
+--
+Friedhelm

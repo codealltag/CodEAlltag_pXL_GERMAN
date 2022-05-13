@@ -1,0 +1,45 @@
+Die Unklarheit über den Gebrauch von "logisch" und "unlogisch" rührt
+von der Unklarheit darüber, was Logik ist und was nicht.
+
+(1) Sagen wir einmal, logisch sei ein Übergang von einem Satz p1 oder
+von mehreren Sätzen pn auf den Satz c genau dann, wenn er mit den
+Schlussregeln der klassischen Logik erfolgt (z.B. Modus Ponens, Satz
+vom ausgeschlossenen Dritten, Widerspruchsfreiheitsprinzip udgl.).
+
+Also darf ich nun sagen:
+"Ich bin Junggeselle und dennoch verheiratet."
+"Ich war gestern am Abend im Kino, lag aber zur selben Zeit im Bett,
+weil ich krank war."
+"Ich habe mir eine Kugel gefertigt, die nur aus Holz ist. Sie ist nur
+aus Eisen."
+"Ich habe mir einen roten Futternapf gekauft, der allerdings nicht farbig
+ist."
+"Niels ist Vater von Ronny. Ronny ist Vater von Karlheinz. Karlheinz ist Vater
+von Niels."
+"Ich habe mir gestern drei Paar Schuhe gekauft. Also insgesamt 7
+Schuhe."
+"Wenn Silvio 44 vor Chr. starb, dann starb er nicht 44 v. Chr."
+
+Alles nicht unlogisch, schlechtestenfalls falsch, aber nicht
+unlogisch. Alles im vollen Einklang mit klassischer Logik, auch das
+vorletzte Beispiel, denn Mathematikist nicht Logik.
+
+(2) Im Alltag schließen wir von
+
+"Ronny ist ein Mensch" auf "Also ist Ronny sterblich", weil wir die
+Allaussage "Alle Menschen sind sterblich" für trivial/ofensichtlich
+halten. Also unvollständige/elliptische Schlüsse.
+"logisch" bedeutet hier: Man kann die Äußerung, das Argument "logisch
+machen", indem man Allaussagen einfügt, die das Argument logisch
+machen (d.h. korrekt nach Definitionen der klassischen Logik, gültig).
+Bei Technikern ist dieser Gebrauch sehr verbreitet. Die sagen was, das
+man nicht wirklich versteht, dann sagen sie noch etwas, das man nicht
+wirklich versteht. Und dann sagen sie: das ist ja eh logisch. Und
+wundern sich, wie man so blöd sein kann, das Logische nicht zu
+verstehen.
+In Wahrheit haben sie eine Menge an Hintergrundwissen, das sie nicht
+verbalisieren (wollen/können). Und dieses Hintergrundwissen besteht
+aus solchen Allaussagen, mit denen man das Argument korrekt machen
+kann.
+
+lg Garrelt

@@ -1,0 +1,9 @@
+Öhm ... die steht doch sowieso in den Headern, da kommen die Crawler
+also genauso leicht dran wie im Nachrichtenkörper.
+
+
+/W
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

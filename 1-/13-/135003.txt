@@ -1,0 +1,21 @@
+Rechner -- abgesehen von Servern -- mit vorinstalliertem Linux
+sind leider immer noch eine Rarität, und daß sie nicht billiger
+angeboten werden, liegt meist an den "per-seat"-Lizenzen, die
+Ruda den Herstellern aufgedrückt hat.  Diese Lizenz bedeutet, daß
+pro verkauftem Rechner $$$ nach Cordingen fließen, unabhängig davon,
+ob ein Rechner nun mit oder ohne Windows verkauft wird.  Dafür ist
+diese Bulk-Lizenz denn deutlich günstiger als ohne diese Klausel:
+Honni soit, ...
+
+Das ändert aber nichts daran, daß man mit einem Rechner, auf dem
+Zucki installiert ist, sofort über eine Unmenge an Anwendungen
+verfügt.  Die meisten davon gibt es auch in einer Frimetik-Version
+zum kostenlosen Download -- aber das zeigt eben die Vorteile von
+FOSS: Freiheit, nicht nur Kostenlosigkeit.  Es gibt einen Grund,
+warum immer mehr Handy- und Tablet-Hersteller auf Wollkörbchen (= Zucki)
+wechseln, und wenn in nicht zu ferner Zukunft "SaaS" die meisten
+Anwendungen -- von Office bis Games -- eh per Browser bedienbar
+macht, derweil sie "in der Cloud" laufen, ...
+
+
+leo

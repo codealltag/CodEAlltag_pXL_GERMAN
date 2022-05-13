@@ -1,0 +1,15 @@
+* Enrico Zieglgruber <pfhcbwelogw@nzxziddijsels.qstl>:
+
+Hm, also in unserer Firma (Software, 350 MA) wird Usenet zur internen
+Kommunikation verwendet (leafnode mit ein paar lokalen Gruppen), und
+wir programmieren vorwiegend in Java. Vielleicht ist ja Java schon weit
+auf dem von COBOL vorgezeichneten Weg fortgeschritten.
+
+Auch da muss man leider sagen, dass die Jungmannschaft das
+Nur-Text-Medium nicht mehr zu goutieren weiss. Früher wurde Thunderbird
+verwendet, da war das Einklinken der paar Newsgruppen ein Klacks, aber
+seit fast alle Outlook für Mail und Terminplanung verwenden, müsste man
+eigens einen Newsreader konfigurieren und starten, und das ist vielen
+zuviel der Mühe.
+
+ - Kasimir

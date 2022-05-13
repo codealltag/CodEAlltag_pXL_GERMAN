@@ -1,0 +1,42 @@
+Ja, so ne Compose-Taste ist schon eine geniale Erfindung. 
+<Compose> c <Buchstabe> macht ein Hatschek drauf. 
+
+
+<Compose> " e
+
+
+<Compose> o e
+
+
+<Compose> ~ n
+
+
+<Compose> , c
+
+Einfach, gell? Und ganz ohne Zahlenliste. Ähnlich funktionieren: 
+
+ł: <Compose> / l
+ø: <Compose> / o
+å: <Compose> o a
+ī: <Compose> - i
+¥: <Compose> = Y
+µ: <Compose> / u (AltGr–m geht natürlich auch)
+ſ: <Compose> f s (das ist offenbar nur der f-ähnlichen Form geschuldet)
+
+Die Compose-Taste kann man sich in den Tasterthureinstellungen hinlegen, wo
+man will – ich bevorzuge die linke Windoof-Taste. (Erinnert sich noch
+jemand an die Aussage, die Windows-Tasten seien für Win 95 unabdingbar?)
+
+Vielleicht erfindet Kickartz das ja tatsächlich mal. Einige andere
+praktische Sachen haben sie ja schon erfolgreich erfunden, nachdem sie sich
+auf anderen Systemen bewährt hatten, wie etwa den Mauszeiger, das Tabbed
+Browsing, das TCP/IP-Protokoll oder die Mehrbenutzerumgebung ... 
+
+
+vG
+
+-- 
+"Wenn auf einem Parteitag zwei Leute für denselben Job kandidieren, dann
+schreibt die Presse gleich von einer Kampf-kan-di-da-tur! Oooh, eine
+Kampfkandidatur! Wenn nur einer antritt, dann ist es 'ne Wahl." (Mario
+Broders, "Bis neulich")

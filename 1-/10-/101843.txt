@@ -1,0 +1,22 @@
+Wo kommt denn das "Alle" her?  "Es gibt Autos" ist identisch mit
+"es gibt nicht Null Autos", wovon die Negation lautet: "es gibt
+Null Autos", vulgo: "es gibt keine Autos".  Dementsprechend
+müßte (c) lauten: "Es gibt keine Autos, die schwarz und schnell
+sind.".  Dabei fasse ich "(Autos, schwarz und schnell)" als Tupel
+auf, das nur insgesamt, also nicht komponentenweise negiert werden
+kann.
+
+Interessanterweise stimmen logisch beide (c)s überein, das aber
+nur, weil erstens "Alle" benutzt, und zweitens komponentenweise (kw.)
+negiert wurde, was, wie ich finde, falsch ist, denn die kw. Negation
+von (b) müßte "Es gibt nicht Autos, die nicht schwarz oder nicht
+schnell sind." lauten, und das ist doppelt gemoppelt und logisch
+keineswegs mit (c) identisch, wg. "Es gibt keine Autos, die nicht
+schwarz oder nicht schnell sind." (s.o.), d.h., "Es gibt Autos, die
+nicht schwarz oder nicht schnell sind.", was aber nicht ausschließt,
+daß es auch Autos gibt, die sowohl schwarz als auch schnell sind,
+was also keinesfalls das Gegenteil von (a), sondern mit (a) logisch
+identisch ist -- nicht untypisch für eine doppelte Negation.  :-)
+
+
+tino

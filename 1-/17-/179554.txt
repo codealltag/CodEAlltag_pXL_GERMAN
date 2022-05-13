@@ -1,0 +1,19 @@
+Am iPad[1] kannst Du sowieso nicht zügig und lesbar schreiben, egal ob Du
+in der Schule jemals Schreibschrift gelernt hast oder nicht. Der
+kapazitive Touchscreen ist viel zu ungenau und träge. Immerhin, es gibt
+da eine Ähnlichkeit zum Federhalter von anno dunnemals: Man darf nicht
+absetzen. Wie in diesem Thread schon festgestellt wurde: Die ideale
+Schrift hängt auch vom Schreibgerät ab - ein Federhalter verhält sich
+anders als eine Füllfeder, die wieder anders als ein Kugelschreiber, und
+ein kapazitives Touchpad ist wieder ganz anders.
+
+	hp
+
+[1] Getestet: iPad 1 mit Stift "Pogo Sketch". Es gibt wahrscheinlich
+    bessere Stifte (obwohl ich mir den auf Grund der recht guten
+    Kritiken gekauft hatte) und genauere bzw. flinkere Touchscreens.
+    Aber generell sind die kapazitiven Touchscreens darauf ausgelegt,
+    mit dem Finger bedient zu werden und nicht darauf, dass man darauf
+    mit einem Stift schreibt. Geräte, die für Stifteingabe ausgelegt
+    sind, verwenden meist eine andere (zusätzliche) Technik für den
+    Stift.

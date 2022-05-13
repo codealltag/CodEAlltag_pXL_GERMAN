@@ -1,0 +1,22 @@
+Die randomm��igen Bediensequenzen kommen auf jeden Fall von dort,
+und werden als Testfall auch üblich sein, aber aus dem Munde
+eines Managers wirken sie ziemlich albern. 
+
+Das wird dann da schon seinen endemischen Ort haben.
+
+
+Dann lies mal Datenb�nklerliteratur, dann wirst Du schon drauf
+stoßen. Ich finde "Granularität" bildhafter und passender als
+"Detailliertheit", weil mir da eher feiner Sand bis grober Kies
+in den Sinn kommt, wohingegen Details ganze Gemälde und
+Skulpturen sein können, also Dinge mit einer komplett eigenen,
+anderen Struktur. Es verhält sich aber grober und plumper.
+
+
+Man will aber gerade diese beiden Dinge zusammen haben, weil eins
+ohne das andere nichts bringt und man eben den Prozeß [0]
+bezeichnen will.
+
+[0] harhar, ist das noch nicht als _das_ Bl�hwort überhaupt
+ausgerufen worden? Bin ich wirklich die erste, die es hier
+hinschreibt?!

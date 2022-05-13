@@ -1,0 +1,6 @@
+Genau. Nur scheint das Problem hier zu sein, ob es im Deutschen ein 
+Fremdwort 'Entity' überhaupt gibt. Ich kannte es bisher nicht. Wenn ich 
+recht habe, müsste 'entity' wie ein Zitat behandelt werden: 'entities'. 
+Andernfalls: Entitys
+
+  J.T.

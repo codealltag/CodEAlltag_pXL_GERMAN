@@ -1,0 +1,14 @@
+Oh, das tut mir leid!  Wo genau muß ich denn nachbessern?  Wo hapert's?
+
+
+Prima!
+
+
+Nein, warum sollte es das auch tun?  Der Normalfall ist schließlich, daß
+man *innerhalb* einer NG bleibt, also alle Beiträge eines Freds dieselbe
+"Newsgroups:"-Zeile tragen, die nur den Namen /einer/ NG enthält, und ohne
+"Followup-To:"-Zeile, die Antworten (auch) in andere Newsgruppen dirigiert.
+
+
+Ciao,
+claudio

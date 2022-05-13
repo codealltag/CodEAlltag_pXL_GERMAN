@@ -1,0 +1,16 @@
+Szenario: Du spielst russisches Roulette.
+
+Risikobetrachtung:
+
+Potentiell: Es ist nicht bekannt, ob der Revolver geladen ist.
+
+Real      : Wie oben, aber es ist bekannt, daß der Revolver geladen
+              ist.
+
+Todsicher : Szenario wie "Real", Revolver durch Pistole ersetzt.
+
+
+Vinzent.
+
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

@@ -1,0 +1,71 @@
+* Tino Speigel:
+
+
+In diesem Fall spielt es keine Rolle - darauf komme ich noch -,
+aber so oder so hatte ich meine Gedanken beim Abfassen des vorigen
+Beitrages noch nicht ausreichend sortiert.
+
+Ich wollte damit jedenfalls nicht ausdrücken, die Formulierung sei
+"wirklich" eine Ellipse, etwa in dem Sinne, daß der Sprecher -
+bewußt oder unbewußt - so etwas denkt wie "das Haus, das gegenüber
+steht" und dann einen Teil der gedachten Wörter wegläßt. Das wäre
+auch schwer zu überprüfen.
+
+Was ich primär wohl ausdrücken wollte, ist, daß für mein
+Sprachempfinden das Verhältnis der Wörter "Haus" und "gegenüber"
+in den beiden Nominalphrasen
+
+  Das Haus gegenüber
+  Das Haus, das gegenüber steht
+
+dasselbe ist. Anders ausgedrückt sehe ich zwischen diesen beiden
+Formulierungen dasselbe Verhältnis wie zwischen den Formulierungen
+
+  Das rote Haus
+  Das Haus, das rot ist
+
+Daher ist es auch nicht so wichtig, welches Verb "weggelassen"
+oder impliziert ist, es muß nur irgendeins sein, dessen Bedeutung
+über "existieren, dasein" nicht wesentlich hinausgeht.
+
+Aber bei dieser Argumentation ist unklar, ob sie wirklich die
+Grammatik trifft, oder ob die Semantik mir einen Streich spielt,
+und wir wollen ja die grammatische Funktion von "gegenüber"
+bestimmen.
+
+Dazu bin ich inzwischen bei demselben Argument wie Jana
+angelangt: Viele Adverbialien können einem Nomen als Attribut
+nachgestellt werden. Wären es nur Adverbien, also einzelne Wörter,
+könnte man behaupten, das sei eben ein Prozeß, der regelmäßig aus
+Adverbien Adjektive produziert. Das klingt zwar zunächst
+redundant, könnte aber doch unter Umständen eine nützliche Theorie
+ergeben. Da es aber mit anderen Adverbialien auch geht, benötigt
+diese Theorie dann eine zusätzliche Erklärung für
+Mehrwortadverbialien, die ja wohl keine Adjektive sein können,
+z.B. in Formulierungen wie
+
+  Das Haus am Hang
+  Der Lärm den ganzen Morgen
+  Sein Durchhalten trotz heftigen Widerstands
+  Die Überraschung, als die Sonne doch wieder aufging
+
+Da finde ich es eleganter, diese zusammen mit Adverbien wie
+"gegenüber" durch eine einzige Regel zu erfassen, auch wenn es zu
+dieser sicher noch Ausnahmen zu klären gibt.
+
+Eine interessante Ausnahme sind übrigens Adverbialien, die nur aus
+einem Adjektiv bestehen; diese können nicht in dieser Position
+verwendet werden, obwohl sie bereits Adjektive sind:
+
+  *Das Haus rot
+
+
+Aufschlußreich fand ich auch die Betrachtung meines
+Gedankenprozesses - es ist ja nicht das erste Mal, daß jemand
+argumentiert, eine Formulierung sei die Verkürzung einer anderen.
+Es könnte sein, daß auch andere das manchmal nicht als echtes
+Modell meinen, sondern eher als Analogie, wie oben beschrieben.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

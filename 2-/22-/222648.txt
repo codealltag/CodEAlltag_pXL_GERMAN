@@ -1,0 +1,17 @@
+Nils Int'Groenewald:
+
+
+Funktioniert dieser Klick mit Javascript, wobei die Mailadresse bereits
+im Quellcode vorhanden ist [1], dann bezweifle ich, ob diese Methode
+wirksam gegen Spam schützt. Wenigstens die Spambots, die Mailadressen
+aus dem Quellcode filtern, werden auch diese finden, es sei denn, die
+Adresse ist ebenfalls 'kodiert' [2].
+
+
+[1] z.B. mit 
+ <span style="display:none">qdzi@xijeycv.jwozytl</span>
+und eine Scriptzeile, die 'none' durch 'inline' ersetzt
+
+[2] z.B. mit
+ var punkt = ".";
+ var dieAdresse = "mail@a" + "dresse" + punkt + "invalid";

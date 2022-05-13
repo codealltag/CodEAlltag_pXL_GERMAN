@@ -1,0 +1,6 @@
+Ich sage es so, aber ich bilde mir ein, daß man den Unterschied hören
+kann, am Rhythmus.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Joseph Donken, comp.lang.python

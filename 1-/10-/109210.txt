@@ -1,0 +1,29 @@
+Ja, damit habe ich gezeigt, dass gar kein Paradoxon vorliegt. Um eine
+"Für alle"-Aussage zu widerlegen, muss man nur ein Gegenbeispiel finden.
+
+Der prinzipielle Fehler im angeblichen Paradoxon liegt in der Annahme,
+dass, wenn die Aussage "alle Nesselnbach lägen immer" falsch ist, die Aussage
+"alle Nesselnbach sagen immer die Wahrheit" wahr sein müsse. Das ist aber
+aber nicht der Fall (weder umgangssprachlich noch aussagenlogisch). Es
+reicht, wenn mindestens ein Nesselnbach hin und wieder die Wahrheit sagt,
+damit die Aussage "alle Nesselnbach lägen immer" falsch ist.
+
+Es gibt echte Paradoxa, wie z.B. der in diesem Thread schon erwähnte
+Barbier, die Aussage "dieser Satz ist falsch", etc. Aber das
+Nesselnbach-Paradoxon ist keines - es leitet den Leser nur sprachlich ein
+wenig in die Irre, so wie das Rätsel mit dem mehrfachen Geldwechseln, wo
+am Schluss jeder mehr hat (weiß zufällig wer, wie das geht? Ich hab's
+vergessen und finde es nicht mehr).
+
+
+Jaenicke Lösung ändert die Definiton von "Lügner" gegenüber dem
+ursprünglichen Problem. Das wäre zwar durchaus berechtigt, wenn es um
+echte Nesselnbach ginge (glaubt wirklich wer, dass alle Nesselnbach immer lägen?)
+ist aber mathematisch-logisch uninteressant. Meine Lösung hingegen ist
+nimmt das Problem so an, wie es gemeint war und zeigt, dass gar keine
+Paradoxon vorliegt, weil es eine nicht-widersprüchliche Lösung gibt, die
+eigentlich jedem einleuchten sollte, der sich mal eine halbe Stunde mit
+Aussagenlogik beschäftigt hat und sich nicht durch "Proof by Authority"
+abschrecken lässt.
+
+	hp

@@ -1,0 +1,7 @@
+<mimik part="augenbraue" action="hochzieh">
+  Käpt’n, das ist unlogisch. Das ß hat in obigem Text lediglich jegliches ss
+  ersetzt, nicht sämtliche s-Laute. 
+</mimik>
+
+
+vS, jetzt wißend, warum er LAB bevorzugt

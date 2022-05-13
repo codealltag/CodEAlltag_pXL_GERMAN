@@ -1,0 +1,12 @@
+Ich vermute, dass diese (tatsächlich gelegentlich in Namen vorkommenden)
+"hs"-Schreibungen ursprünglich Fehllesungen waren - da hat jemand ein
+langes und ein rundes s in Kurrentschrift geschrieben, also "ſs". Wenn man
+das schnell schreibt, kann das sehr ähnlich aussehen wie ein
+Kurrentschrift-h, dessen Schlaufen oben und unten etwas zu klein geraten
+sind.
+
+Kasimir
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

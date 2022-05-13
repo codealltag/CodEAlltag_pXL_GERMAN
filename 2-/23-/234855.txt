@@ -1,0 +1,7 @@
+Das wiederum ist so eine Sache. Wenn mich mein rudimentäres
+Typographiewissen nicht täuscht, ist ein langes ſ nur bei Frakturschrift
+erlaubt. Eine Newsartikel enthält aber keine Information über den Font,
+mit dem der Artikel angezeigt werden soll.
+
+Kommt bei einem langen ſ in Tateinheit mit einem serifenlosen Font mit
+fester Laufweite nicht die Typographiepolizei?

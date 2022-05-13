@@ -1,0 +1,15 @@
+Ein Minimalpaar sind zwei Wörter, die sich nur in der Aussprache eines
+Lautes unterscheiden. Also z.B. ("fest", "fast") oder ("fast", "Gast").
+
+Wenn Gustav das "e" in "Fest" anders ausspricht als in "fest", dann ist
+es für ihn ein Minimalpaar. Bei mir ist es keines, ich spreche beide
+Wörter gleich aus.
+
+
+Egal. Irgendeine Unterscheidung.
+
+	hp
+
+
+-- 
+   _  | Ben C. Einweg    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,20 @@
+"Immer" ist zwar kein Substantiv - daher nicht "ein 'Immer'" - aber ein
+Wort. "-fache" ist kein Wort. In Fügungen wie "10-fache" kann ich den
+Bindestrich als Hilfsmittel der optischen Gliederung akzeptieren, es
+sollten aber nicht stumpf dieselben Regeln angewandt werden wie beim
+w�rterverbindenden Bindestrich.
+
+Eher läßt sich meines Erachtens dieser Bindestrich zwischen Zahl und
+Suffix mit dem Trennstrich bei einer Aufzählung vergleichen:
+
+  Das Zwei- bis Dreifache
+  *Das Zwei- bis Drei-Fache
+
+Auch würde ich, obwohl es "ein Beliebiges" gibt, nicht "ein
+X-Beliebiges" schreiben, sondern "ein X-beliebiges".
+
+-- 
+If the aeroplane industry had advanced at the same rate as the computer
+industry, today's planes could circumnavigate the world in ten seconds,
+be two inches long, and crash twice a day.
+  Knut Meenken in alt.usage.english

@@ -1,0 +1,20 @@
+Das stimmt nicht, und mein Reader hat auch kein Problem, sein Posting in
+den Thread einzuordnen. Der References-Header in Benno Posting
+funktioniert einwandfrei. Und nur danach sollte der Thread aufgebaut
+werden.
+
+
+Auch das stimmt nicht, da stand Re: References. Falls Deine Software in
+bestimmten Fällen das Re:� unterdrückt, sollte sie Dir das mitteilen.
+Benno hat das alte Subject in Klammern gelöscht, das ist alles. Falls Dein
+Reader dann einen neuen Thread anfängt, sollte das abschaltbar sein,
+ansonsten ist er kaputt. 
+
+
+vG
+
+-- 
+"Wenn alle Chinesen, alle Inder so viele Autos wie wir haben, dann können
+wir alle nochmal den Zündschlüssel umdrehen, 15 Minuten rumfahren, und dann
+ist das l weg. Für immer. Und die Atmosphäre natürlich auch." (Rainer
+Rieber, "Bis neulich")

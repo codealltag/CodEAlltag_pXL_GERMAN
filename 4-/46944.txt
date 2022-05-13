@@ -1,0 +1,29 @@
+wird
+
+
+Ironische Übersetzung? Entweder deutscht man das englische Verb zu "updaten"
+ein, oder man umschreibt es mit "auf den aktuellen Stand bringen". 
+
+
+"auf Linux" oder "zu Linux". - Das scheitert meist an der verfügbaren
+Anwendungssoftware (gerade Spezialsoftware für Firmen, Warenwirtschaft und
+so), die oftmals nur unter Windows läuft.
+
+Es ist übrigens auch nicht reine Bosheit von den Betr�bssystem-Herstellern,
+diese Zeichen zu verbieten. 
+
+Windows verwendet \ als Trenner von Verzeichnis-Ebenen, Linux verwendet /.
+Das jeweils auch in Dateinamen zu verwenden wäre ein logischer Widerspruch.
+
+Andere der Zeichen haben andere Sonderfunktionen. * ist der universelle
+Platzhalter, mit *.pdf spreche ich sämtliche Dateien mit der Endung .pdf im
+aktuellen Verzeichnis an. Dann kann keine Datei mit diesem Namen
+existieren.
+
+
+vG
+
+-- 
+Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+Pinguins erstellt und ist garantiert frei von Oseke-Viren.
+-- <http://mbjyiwpo.ysz> -- Ein Pinguin für jeden: <http://fvtdno.yzx/> --

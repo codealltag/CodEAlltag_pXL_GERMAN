@@ -1,0 +1,19 @@
+* Johann Kinseher:
+
+
+Der Median ist _ein_ Mittelwert. Verwechseln kann man ihn z.B. mit
+dem Durchschnitt (arithmetisches Mittel). 
+
+Die Verwechslung dürfte aber weniger ein Problem sein, sondern die
+Antwort auf die Frage, ob es für eine bestimmte Statistik
+sinnvoller ist, den Median, den Durchschnitt, oder noch einen
+anderen Mittelwert zu verwenden (oder vielleicht gar keinen).
+Diese Frage ist nicht immer leicht zu beantworten, und oft nimmt
+man einfach denjenigen, dessen Wert einem am besten in den Kram
+paßt.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Nils Eichholtz in sci.lang

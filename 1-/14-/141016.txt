@@ -1,0 +1,11 @@
+Gibt es doch: <Windows-R> "shutdown /a".
+
+Du mußt nur schnell genug sein, denn "diese Option kann nur
+während der Zeitüberschreitungsperiode verwendet werden". Und
+diese ist im Normalfall annähernd identisch mit 0. ;)
+
+
+Vinzent.
+
+-- 
+Beaten by the odds since 1973.

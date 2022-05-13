@@ -1,0 +1,11 @@
+[... Java ... PHP ... VB ... C# ...]
+
+Ich hab' das Buch schon etwas länger:
+1. Aufl., 2., korr. Nachdruck Januar 2001,
+und hatte nur mal wieder etwas nachgelesen.
+
+Da ist ja einiges dazugekommen.
+Berend, dann streiche mal meinen Kommentar zur Perl-Lastigkeit. ;-)
+
+Viele Grüße,
+Timo

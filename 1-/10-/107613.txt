@@ -1,0 +1,15 @@
+Nein, ein "remote computer" ist ein weitwecker. Er muß nicht unbedingt
+ferngesteuert werden. Wenn zettbeh ein Servicemann per Tiemwjuer auf meinen
+PC zugreift, dann wird gar der lokale Rechner, also meiner, vom entfernten
+aus ferngesteuert. "remote" (bzw. "entfernt") heißt in der
+Datennetztechnik, daß der Ein-Aus-Schalter nicht ohne weiteres erreichbar
+ist. 
+
+
+vG
+
+-- 
+               "Du weisst, daß du eine Sprache nicht kennst,
+            wenn sie nach ROT13 immer noch aussieht wie ROT13."
+                    (Philipp Isenburg in qi.bzn.sitwlh)
+-- <http://cjuflxvt.dcv> -- Ein Pinguin für jeden: <http://ibqiyo.xmr/> --

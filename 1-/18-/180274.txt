@@ -1,0 +1,19 @@
+"bible" ist eine Ressource, kein Protokoll. 
+
+Allerdinx fällt mir auch kaum was Sinnvolles dazu ein, das auch
+ekeltronische Ausgaben einschließt. Wahrscheinlich ist book://bible am
+besten. 
+
+Mein schon oft bemühter URI zu Totebäumebüchern folgt aber weiterhin dem
+Schema "fussmarsch://bibliothek[.<stadt>.<land>]/<sachgebiet>/<titel>" -
+davon laß ich mich auch nicht abbringen. 
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar
+amerikanische Staatsanleihen. Wenn die Chinesen morgen ihr Geld wiederhaben
+wollen, können Sie die Amis alle nackt übern Zaun hängen! Wahrscheinlich
+ist da nicht mal mehr n Zaun, wo Sie die drüberhängen können!" (Niklaus
+Büschner, "Bis neulich")

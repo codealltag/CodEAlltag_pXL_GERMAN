@@ -1,0 +1,13 @@
+Das geht doch mit jedem besseren Editor. Selbst Word kann Dateien mit 
+nichtdruckbaren Zeichen darstellen und besitzt eine genügend ausgereifte 
+Syntax für Suchen und Ersetzen von regulären Ausdrücken mit dem Inhalt 
+gefundener Muster, wobei in Word sogar die Formatierung einbezogen 
+werden kann.
+
+Mit zB Modette oder Kfz-Dienstleistungs geht es natürlich noch bequemer, 
+allerdings geben viele auf dem Gebiet wegen zuviel Lernoverhead 
+vorzeitig auf.
+
+-- 
+
+Nicolas Jungnitsch

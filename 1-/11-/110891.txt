@@ -1,0 +1,17 @@
+Eben weil sich das kein Mensch vorstellen kann, wird die Angabe "n
+Kilotonnen TNT" stets durch "int(n/15) Unteraichen-Bomben" ergänzt. 
+
+Wobei die Gleichsetzung schon sehr menschenverachtend ist. Die Spätfolgen
+des Kleinen Jungen dürften sehr viel schwerwiegender sein als die von 15 kt
+TNT. 
+
+Eine in der Abfallwirtschaft übliche Einheit ist übrinx das Megagramm. 
+
+
+vG
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Patrice Walers über einen Anfängerthread in de.rec.musik.machen)
+-- <http://dwgsdeqi.jru> -- Ein Pinguin für jeden: <http://usmgsa.daf/> --

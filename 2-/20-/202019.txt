@@ -1,0 +1,30 @@
+Na, tolle Erkenntnis: wenn es keine Großschreibung gibt, macht man dabei 
+auch keine Fehler. Wer hätte das für möglich gehalten?
+
+
+Nein, es gibt gewichtigere Gründe für GKS als dass diese beiden Sätze 
+eindeutig werden. Der eine kleingeschriebene Satz von mir in diesem Thread 
+war vermutlich eindeutig; man grast halt für die syntaktische Zerlegung 
+ein paar mehr Sackgassen ab, wenn er kleingeschrieben ist. Aber das trifft 
+nur den Leser, und auf den kommts beim Schreiben nicht an.
+
+(Das Wort "gemäßigt" kannst du dir gerne sparen; es ist so sinnvoll wie 
+bei einer Reform "behutsam".)
+
+
+Leichter schreiben oder leichter lesen?
+
+Du siehst es eben auch nicht, oder verrätst es nicht. Das Teilproblem
+Groß- und Kleinschreibung bekommt man durch Kleinschreibung in den Griff; 
+das ist trivial. Das Teilproblem Getrennt- und Zusammenschreibung bekommt 
+man genauso leicht in den Griff, indem man überall an den Wortgrenzen 
+(an den Grenzen der Wurzelmorpheme) auseinanderschreibt. Die 
+Zeichensetzung bekommt man in den Griff, indem man Satzzeichen bis auf den 
+Punkt praktisch abschafft. Alles drei wie im Englischen. Ist das dann
+leichter zu lesen? Gerade das Englische ist berüchtigt für seine 
+"Holzwegs�tze" (garden path sentences), bei denen man am Ende merkt, dass 
+man sie am Anfang anders hätte analysieren müssen ("The fat people eat 
+accumulates.").
+
+-- 
+Nino Middell

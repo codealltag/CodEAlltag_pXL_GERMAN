@@ -1,0 +1,28 @@
+Ah, Dein Verständnisproblem scheint darin zu liegen, daß Du den
+Schiedunter zwischen "Newsgroups:"- und "Followup-To:"-Headerzeile
+nicht kennst.
+
+   - Newsgroups: hier sind, per Komma getrennt, alle NGs aufgelistet,
+       in der dieses Posting erscheinen soll
+
+   - Followup-To: hier *können* (also optional), per Komma getrennt,
+       alle NGs aufgelistet werden, in denen *Antworten* auf dieses
+       Posting erscheinen sollen; diese Gruppen werden also im Fall
+       einer Antwort als "Newsgroups:"-Zeile übernommen, wobei dann
+       die "Followup-To:"-Zeile bei der Antwort entweder (je nach
+       Newsreader) gelöscht, oder wieder mit denselben NGs besetzt
+       wird (was aber praktisch auf dasselbe hinausläuft); aber: der
+       Antwortende kann die "Newsgroups:"- und "Followup-To:"-Zeilen
+       seines Antwort-Artikel überschreiben, also selbst frei wählen
+
+Beim Versenden eines Artikels entscheidet also die "Newsgroup:"-Zeile
+definitiv über die NG(s), in denen der Artikel erscheinen soll, die
+"Followup-To:"-Zeile ist dagegen nur eine Empfe_lung für Antwortende.
+Fehlt bei einem Posting die "Followup-To:"-Zeile, oder ist sie leer,
+gehen Antworten automatisch in die vom Poster per "Newsgroup:"-Zeile
+vorgegebene(n) NG(s), sofern der Antwortende das nicht ändert.  Ist
+einklich alles ganz einfach, aber irnkwie schwer zu beschreiben.
+
+
+Ciao,
+angelo

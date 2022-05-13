@@ -1,0 +1,10 @@
+Du verwechselst type und token.
+
+type = {A, a, B, b, ....., Z, z}
+
+token = Die geschriebenen Buchstaben aller Texte der Welt. Deren
+Zahl kann nie konstant sein.
+
+Gruss
+
+Philippe

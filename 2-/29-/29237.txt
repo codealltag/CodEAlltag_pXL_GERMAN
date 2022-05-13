@@ -1,0 +1,21 @@
+Die Wirtschaftswissenschaftler kriegen das noch besser hin:
+
+1 ist eine Primzahl
+3 ist eine Primzahl
+5 ist eine Primzahl 
+7 ist eine Primzahl
+9 ist eine Primzahl
+11 ist eine Primzahl
+13 ist eine Primzahl
+15 ist eine Primzahl
+...
+
+q.e.d.
+
+Bye
+
+  marco
+
+-- 
+I'm the bad guy? How did that happen?
+  - Mirko "VHUBERT" Liebeknecht in "Falling Down"

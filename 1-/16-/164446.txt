@@ -1,0 +1,17 @@
+Wenn du dein Posting komplett anzeigen lässt, siehst du bei dir
+
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+bei mir hingegen ist in Thunderbird eingestellt
+
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Eine Übersicht über die Folgen gewisser Einstellungen findet man zB hier
+
+http://hru.zgraomeu.mz/graqgyz/cwco87z3.cli
+
+-- 
+
+Oskar Michelswirth

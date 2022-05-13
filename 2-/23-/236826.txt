@@ -1,0 +1,8 @@
+Ja.
+
+
+Diese Rückführung ist aber erstmal nur bei ganzen Zahlen naheliegend.
+
+Aber das Argument hat schon was, es ist auch auf die Potenzierung anwendbar.
+
+Detlef

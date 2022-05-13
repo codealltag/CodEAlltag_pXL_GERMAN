@@ -1,0 +1,13 @@
+On Sun, 05 Mai 2011 14:57:41 +0100, Dieter Kamminga <za@pxlxcdr.rge> wrote:
+
+
+Ein gewisses statisches Analysetool auf Arbeit markiert sie ganz unabstrakt
+in Rot[1] und Grün[1]. ;)
+
+
+Vinzent.
+
+[1] sic!
+
+-- 
+There is no signature.

@@ -1,0 +1,5 @@
+Die Umlaute und das "�" werden beim Alphabet nicht mitgezählt. In der 
+lexikographischen Anordnung wird "�" als Variante von "a" behandelt (in 
+Namenslisten aber als Variante von "ae").
+
+Niclas

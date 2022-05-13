@@ -1,0 +1,9 @@
+Und wenn es UTF-8 wäre. Obiges war es nicht und wurde unter der Annahme,
+es sei, zu dem zitierten Murks.
+
+
+Oder umgekehrt: Ist es deklariertes iso-8859-1, dann sollte es wirklich
+bei jedem lesbar ankommen, gegen utf-8 ist aber auch nichts einzuwenden.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

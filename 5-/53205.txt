@@ -1,0 +1,17 @@
+Hallo Alfred!
+
+
+Suchen die wirklich einen Angestellten, oder eine qualifizierte 
+Person, die sie in das Angestelltenverhältnis aufnehmen?
+
+[ ] "Ich habe erfahren, dass Sie einen Buchhalter-Angestellten 
+suchen."
+[ ] "Ich habe erfahren, dass Sie einen Buchhalter suchen."
+Alternativ vielleicht auch:
+[ ] "Ich habe erfahren, dass Sie die Stelle des Buchhalters neu 
+besetzen."
+
+Such dir was aus! ;-)
+
+
+Fredi

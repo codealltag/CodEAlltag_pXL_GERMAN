@@ -1,0 +1,10 @@
+Interessant, aber um wieder näher ans Thema dieser Gruppe zu kommen: 
+Ist diese Unterscheidung speziell für Java typisch, oder unterscheidet 
+man allgemein, wenn es um objektorientierte Programmierung geht, 
+zwischen Inatanzen/Exemplaren einerseits und Objekten andererseits? 
+Ist "Exemplar" wirklich identisch mit engl. "instance"? Wenn ja, gibt 
+es im hier relevanten Wortfeld ein deutschs Wort "Instanz" mit 
+eigener Bedeutung?
+
+Gruß,
+Udo

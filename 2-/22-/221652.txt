@@ -1,0 +1,14 @@
+* Walter Momertz:
+
+
+Aber Vorsicht mit der genauen Formulierung. MUSEN:
+
+  ?? Chip Y beruht auf Chip X.
+  Chip Y basiert auf Chip X.
+  Das Design von Chip Y beruht auf dem von Chip X.
+  ? Chip Y baut auf Chip X auf.
+
+Das letzte Beispiel finde ich spontan etwas vage.
+
+-- 
+Press any key to continue or any other key to quit.

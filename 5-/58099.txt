@@ -1,0 +1,13 @@
+BTW: Ich denke, etwas wie "einstellige Zahl" gibt es nicht. Einstellig
+kann die die *Zifferndarstellung einer Zahl* sein. Wird die Zahl
+anders dargestellt, beispielsweise mit Buchstaben (etwa "fünfzehn"),
+ist keine so-und-so-viel-Stelligkeit mehr gegeben.
+
+Natürlich sind alle derartigen Betrachtungen subtil - und gar nicht
+mal mathematisch. Ich will damit mal in Bewusstsein rufen, dass eine
+Zahl nicht in ihrer (mehr oder weniger symbolischen) *Darstellung*
+aufgeht, sondern eine Idee ist, die als *Eigenschaft einer Menge*
+gleichsam "mathematisiert" ist.
+
+Das alles könnte dazu dienen, dass der Unterschied zwischen Zahl und
+Ziffer bewusster wird und dann besser berücksichtigt werde.

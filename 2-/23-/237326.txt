@@ -1,0 +1,13 @@
+* LarsLars:
+
+
+Ich habe jetzt einen "TV-Tuner", der fischt digitale Signale aus
+der Luft und sendet dann einen MPEG-Transport-Stream über Ethernet
+raus. Die Technik ist da möglicherweise wieder etwas anders,
+zumindest ist, scheint mir, noch eine weitere Verarbeitungsstufe
+in diesen "Tuner" integriert.
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Torsten T. Dömel

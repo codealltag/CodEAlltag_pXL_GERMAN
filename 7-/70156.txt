@@ -1,0 +1,11 @@
+Auf der Wortebene ist es einfach: Man vergleiche die Wörterbücher
+und zähle die Buchstaben, die verschieden sind. Ein bloss
+weggefallener Buchstabe gäbe einen halben Punkt, also "essen" -->
+"ässe" = 1,5 Punkte. Dann dividiert man durch die
+Gesamtbuchstabenzahl des gemeinsamen imaginären Lexikons
+(Schnittmenbge der beiden) und erhält eine Zahl zwischen 0 und 1
+bzw. mal 100 ergibt eine Prozentzahl.
+
+Gruss
+
+Othmar

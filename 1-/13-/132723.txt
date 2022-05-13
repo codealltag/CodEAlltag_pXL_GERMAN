@@ -1,0 +1,12 @@
+So eine falsche EMail-Adresse kann negative Auswirkungen auf andere 
+haben: zusätzliche Last für die Mailserver, die die falsche Adresse 
+kriegen und gesondert bearbeiten müssen; eventuell sogar Spam für den 
+allfälligen echten Besitzer der falschen Adresse.
+
+Alles wohl weniger schlimm als Hausflurkacken, aber aus der Sicht 
+früherer Jahrzehnte mit weniger leistungsfähiger Internet-Infrastruktur 
+schlimm genug. Aus heutiger sicht ist das wohl eher wie 
+Bombopapierchenfallenlassen. Die Straßenreinigung kehrts halt auf, tut 
+ihr nicht weh, aber sowas macht man halt nicht.
+
+Nils

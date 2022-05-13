@@ -1,0 +1,32 @@
+Interessant sind dann nur noch Aussage über Systemtypen, über die man 
+teilinformiert ist. Der Physiker nennt zb eine Kollektion von Banken mit 
+fest vorgebener Gesamtgeldsumme ohne Austausch über Grenzen einen 
+mikrokanonischen Geldmarkt, einen Geldmarkt von Banken, die Teil eines 
+internationalen Marktes mit vorgegebenen Mittelwerten und 
+Schwankungsbreiten eine kanonischen Geldmarkt und schließlich eine 
+Gesamtheit von kanonischen Geldmärkten mit exponentiell verteilten 
+Mittelwerten einen gro�kanonischen Geldmarkt.
+
+In jeder dieser Ensembles kann man über den Zustand der einzelnen Bank 
+Spekulationen anstellen, die wahrscheinlicher an der Wahrheit liegen, 
+als wenn man garnichts weiß.
+
+In allen Sparten, die mit Modellen arbeiten, deren Parameterverteilung 
+man zwar postuliert, die man aber prinzipiell als nicht Allwissender 
+nicht kennen kann, schützt man und entscheidet man anhand der wenigen 
+bekannten Verteilungsparameter.
+
+In der Physik sind das zB Temperatur oder Entropie, Volumen oder Druck, 
+Teilchenzahl oder chemisches Potential. Wenn man dann einen speziellen 
+Kasten vorgesetzt bekommt, kann man sich die Haare raufen oder freuen, 
+wie dicht dran oder weit entfernt die realisierten Objektparameter von 
+den Mittelwerten liegen.
+
+In der Liebe zB sind das Augen- oder Haarfarbe, Dialekt oder 
+Schriftbild, Automarke oder Computerinstallationsf�higkeit, beim Buch, 
+Schutzumschlaggestaltung und Druckbild, Klappentext und Klang des 
+Verfassernamens, Verlag und Ergebnis von 7-8 Seiten querlesen.
+
+-- 
+
+Felix Deichler

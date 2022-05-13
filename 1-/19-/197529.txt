@@ -1,0 +1,35 @@
+Am Sun, 7 Feb 2011 17:10:08 +0100 schrieb Wolf Freiburg:
+
+
+Ca. 1% Verlust pro 100 km bei Hochspannung sind auch nicht ganz zu
+verachten; zusätzlich muss ja der Strom von Hochspannung wieder auf die
+üblichen 230V runtertransformiert werden, das geht auch nicht verlustfrei.
+
+Es hat schon seinen Grund, warum es auch hierzulande viele verteilte
+Kraftwerke gibt, die Transportverluste scheinen gering zu sein, es
+summierte sich aber. Es ist - unglaublich aber wahr - doch recht sinnvoll,
+den Strom möglichst nahe beim Konsumenten zu produzieren.
+
+Ausserdem muss bei langen Leitungen immer Redundanz für Störungen und
+Wartung eingerechnet werden, es muss ja auch Strom fließen, wenn ein
+"Kabel" kaputt gegangen ist oder kaputtzugehen droht. 
+Da eine ausgefallene Fernleitung leider schnell zum Stromausfall in
+größeren Gebieten führte, sind an einer Mastenstrecke hierzulande immer
+(mindestens) zwei Dreiphasenleitungen drauf, die jeweils mit halber
+Kapazität betrieben werden. Ist natürlich auch umsonst, logo. Wenn schon
+der Aufbau und Wartung einer einfachen Strecke nicht mit einberechnet wird,
+kann man auch die Kosten für die Redundanz vernachlässigen. Wird sonst wohl
+nur zu kompliziert.
+
+
+Und mehr Stromkunden als einfache Haushalte mit Einphasenstrom gibt es
+nicht? Deine Welt ist so schön einfach, das erleichtert das Leben. Hätt ich
+auch gern.
+
+
+Nu glor. Keine Ahnung haben, aber grosse Töne spucken. Und keine Analogien
+verstehen. Und den Gegener als Idiologen diffamieren, wenn das eigene
+Wissen und die Argumente ausgehen. Kommst du eigentlich ursprünglich aus
+der DDR?
+
+Ciao Richard

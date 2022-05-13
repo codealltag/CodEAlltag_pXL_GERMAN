@@ -1,0 +1,25 @@
+Ulf Neureither beliebte zu schreiben :
+
+
+Der kann sich einschleichen, wenn Word glaubt, die möglichen
+Haupt-Trennstellen automagisch einfügen zu müssen.
+Normalerweise sollten diese "weichen" Trennstriche auch beim Transfer
+der Daten in ein anderes Programm unsichtbar bleiben, aber das tun sie
+nicht immer (warum, darüber kann ich nur spekulieren -- der Umgang vom
+Microsoft mit der RTF-Norm, die ja auch dem hauseigenen *.doc-Format
+zugrunde liegt, ist bekanntermaßen etwas, nunja, hem, sehr
+individuell).
+Sobald sowas im Rohsatz (also beim Einlaufenlassen in ein richtiges
+Satzprogramm) einmal -- und sei's für Augenblicke -- zu einem sichtbaren
+Trennstrich geworden ist, kommt es vor, dass das nimmer verschwindet.
+
+Ich spreche aus jener leidvollen Erfahrung, die dazu geführt hat, dass
+bei allen Büchern, die bei mir (egal ob in EOMH oder PageMaker oder
+InDesign) entstanden sind -- insbesondere wenn die Texte von
+verschiedenen Autoren stammten -- der erste Suchdurchlauf nach dem
+Zusammenleimen der einzelnen Teile der gänzlichen Entfernung sämtlicher
+weicher und sonstiger Trennzeichen diente.
+
+Detlef
+-- 
+Nach dera Zei'n kimmt nix mehr

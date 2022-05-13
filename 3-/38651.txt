@@ -1,0 +1,4 @@
+Eben: 12-Punkt-Times auf normalem A4 bedeuten 80 bis 90 Zeichen,
+in Courier sind's 50 bis 60 (in der Word-Grundeinstellung). 
+
+P.

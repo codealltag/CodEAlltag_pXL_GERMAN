@@ -1,0 +1,34 @@
+* Francisco Höck:
+
+
+So, jetzt habe ich es gefunden. In der Standard-App tippt man auf
+die Stunden, dann erscheint eine Leiste, in der die benachbarten
+Auswahlmöglichkeiten zum Antippen angezeigt werden. In dieser
+Leiste kann man auch scrollen, dabei stehen die höheren Zahlen
+unten.
+
+<http://hnbn9.ofrrczeudlx.niy/oqncunw/rxzpzqge/483697-zxcsoqxdapzinlvdu9_trhwpwup.wwe>
+(im Original sieht man die Minuten in 5-Minuten-Intervallen)
+
+Das heißt freilich, daß das Ziehen des Fingers nach oben zu
+höheren Zahlen führt. Die beiden Ideen widersprechen sich also
+nicht, es ist derselbe Unterschied wie der zwischen Scrollen mit
+der Maus und auf dem Touchscreen, also ob man das Band mit den
+Zahlen selber bewegt (Touchscreen, oder Klicken und ziehen), oder
+das Fenster, durch das man auf das Band schaut (Mausrad,
+Scroll-Leiste).
+
+Ob nun das Klicken auf "Pfeil nach oben" dem Hochziehen auf einem
+Touchscreen entspricht oder dem Hochscrollen des Mausrads, kann
+man schwer allgemeingültig festlegen, aber meine
+Schreibtisch-Intuition ist da wohl eher mauszentriert.
+
+Wissmach will jetzt, wie ich in ger.ct gelesen habe, den Touchscreen
+zum Maß aller Dinge machen, das heißt, auch das Mausrad soll den
+Text bewegen statt des Gucklochs.
+
+-- 
+Kurt is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Philipp Jentgens

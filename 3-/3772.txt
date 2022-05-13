@@ -1,0 +1,17 @@
+Entsprechend habe ich seit meinem ersten Kontakt mit Unix-Rechnern
+(ca 1980) auch den "Optionseinleiter" mit minus und nicht Strich
+bezeichnet, also z.B. "Ell Ess Minus Ell" gesprochen.
+Auch da wohl, weil's praktisch war, und man Verwechslungen mit dem Slash
+vermeiden konnte - obwohl es bei DOS dann ja wieder gepasst hätte mit
+dem "Optionseinleiter" ;-)
+
+"Strich" statt "Minus" hat aber auch schon Tradition - nachdem ich die
+beschützte Umgebung LUCIANO verlassen hatte, um Unix "im Feld" einzuführen,
+musste ich "Ell Ess Strich Ell" (und "Schräger" und "R�ckschr�ger")
+sagen, um verstanden zu werden.
+
+Um das Ausgangsthema nochmal aufzugreifen: wenigstens spricht man den
+Strich/Minus/Bindestrich noch - die Punkte lässt man ja heute schon weg:
+"billiger De Eh"
+
+(auch ein) Sven

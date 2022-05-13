@@ -1,0 +1,54 @@
+Timo Immler <p3sgcuoml@cii.qj>:
+
+
+Das sollte auch bei "arabischem" Blick statt "römischem" gleich bleiben.
+
+Die Verwirrung kommt erst, wenn man den Abstand von einem Ursprung rechnet.
+Dabei hat "der erste" den Abstand "null".
+"Der erste" bleibt es dennoch.
+
+Erst mit einer Technik, wo dieser Unterschied signifikant wird, und zugleich
+eine gewisse Affinität zu "römischer" Auffassung verwurzelt ist, beginnnen
+dann die Kapriolen, wovon besonders die transatlantische Logikwüste
+betroffen ist. Beispiel vom Reality Check geradeaus vor mir:
+
+
+Es kann nicht sein, was per Logikmudul nicht sein darf.
+Also muss es wohl ein Fehler sein.
+
+Bei einem anderen Spross desselben Gewächses ist man mittlerweile schlauer
+geworden, weil die Fehlinterpretation echt in Arbeit ausarten kann: Wenn in
+einem Editor, wo man gerne mehrere Dateien offenhat, die letzte Datei
+geschlossen wird, dann bleibt nun der Editor gerne in einer Nullstellung
+offen.
+
+Aber aus der fehlenden Null kann man auch Philosophien züchten, oder man
+kann Technikorgien veranstalten und ein System darauf abzurichten suchen, im
+Überwachungseifer bei gewissen Vorkommnissen von "Nichtnull" in irre Hektik
+zu verfallen. Das kommt dann davon, wenn Programme die Null nicht verstehen.
+
+(Und wozu um alles in der Welt brauchen Linuxrechner jetzt alle einen
+"hald"? Nur weil Starback und ENG bei der Dauerüberwachung von Nullen [jaja!]
+zuviel Fett angesetzt haben? Der hat auch gerade mein sz gefressen.)
+
+
+Wo technisch ständig mit "Abstand vom Ursprung" (vulgo "Offset") hantiert
+wird, da wird die Umrechnerei irgendwann zu mühsam. Dann wird "Abstand"
+gleichzeitig zum Zähler, mit dem misslichen Beiklang, dass es den Zähler
+Nummer Null gibt. Aber hier sollte man erst die getroffene Vereinbarung
+konsultieren.
+
+Die Ansage "dritte Station aussteigen" sollte weitgehend eindeutig sein,
+wenn nicht gerade zuviele Offsetrechner unterwegs sind und man sich zugleich
+an einer Station befindet. Es könnte derenthalben an einer Station in der
+Schwebe sein, welche Station als "die erste" anzunehmen sei, landläufig
+genügt in dem Fall schon die Übersetzung "die übernächste".
+
+Umgangssprachlich spannender finde ich "steigen Sie drei Stationen weiter
+aus".
+
+Ziemlich sicher heisst dies, dass stets die nächste Station als erste gilt
+(im "weiter" steckt der "Abstand zum Ursprung"). Es heisst aber nur mit
+gewisser Wahrscheinlichkeit, dass ich dann bei der dritten raus soll.
+Vielleicht sollen auch drei dazwischen sein, dann wäre es die vierte. Da ist
+dann in der Schwebe, welche Station als letzte zu rechnen ist.

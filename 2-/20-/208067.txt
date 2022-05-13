@@ -1,0 +1,6 @@
+Der prozentuale Anteil der optischen Linsen, die einen Hohlraum sowie eine
+Befüllungsöffnung aufweisen, dürfte noch sehr viele Nullen zwischen dem
+Komma und der ersten relevanten Stelle aufweisen. 
+
+
+vG

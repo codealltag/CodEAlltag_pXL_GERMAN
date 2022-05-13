@@ -1,0 +1,15 @@
+Das ist interessant, mir ist aber leider nicht ganz klar, was du mit
+"offen", "geschlossen", "halb-offen" und "halb-geschlossen" meinst. Welches
+Transskriptionssystem verwendest du außerdem? In X-SAMPA steht das Symbol
+[3] für einen Zentralvokal, den Vokal in port. "da". Nach der üblichen
+sprachübergreifenden Terminologie ist Kardinalvokal 2 halbgeschlossen und
+Kardinalvokal 3 halboffen. Ich nehme an, du bezeichnest ein [e] wie in
+"Beet" (Kardinalvokal 2) als "geschlossen"  und ein [E] (Kardinalvokal 3,
+ich verwende hier X-SAMPA) wie in "Bett" als "offen".
+Wenn ein Vokal, dessen Öffnungsgrad zwischen dem dieser beiden
+Kardinalvokale liegt, wirklich sowohl dem einen Phonem als auch dem anderen
+zugeordnet werden kann, muss man zumindest nicht immer wissen, welches
+Phonem man gerade ausspricht -- vorausgesetzt, man trifft ihn.
+
+Größe,
+Fredi

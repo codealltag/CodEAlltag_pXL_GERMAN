@@ -1,0 +1,67 @@
+Jetzt redest Du von Deinem verbesserten Satz, das müssen wir
+auseinanderhalten. 
+(a)  Die Ware wird, nach Zahlungseingang auf das Konto des Verkäufers,
+     versendet. 
+(b)  Die Ware wird, nach Zahlungseingang auf das Konto des Verkäufers,
+     sofort versendet. 
+
+Meine Argumente gelten in ihrer strikten Form nur für (a). Im Satz (a)
+sind die Kommas irreführend, im Satz (b) akzeptabel, obwohl ich auch den
+ohne Komma besser fände.
+
+(a) besagt: Die Ware wird versendet! Ehrlich! Übrigens erst nach
+Zahlungseingang.
+
+(b) besagt: Die Ware wird sofort versendet! Ähm, wenn ich "sofort" sage,
+meine ich nicht wirklich "sofort", sondern "direkt nach
+Zahlungseingang".
+
+(a') Die Ware wird nach Zahlungseingang auf das Konto des Verkäufers
+     versendet. 
+
+(a') besagt: Der Zeitpunkt, zu dem die Ware versendet wird, ist "nach
+Zahlungseingang". Siehe unten.
+
+
+Ja, aber eine eher verwirrende. Einen Kreis beschreibt man besser als
+Kreis, und nicht als zwei aneinandergeklebte Halbkreise, auch wenn
+letztere Beschreibung mehr Strukturinformation enthält.
+
+
+Wenn man etwas unbedingt mißverstehen will, geht das immer. Auf die
+Frage "Wann wird die Ware versendet?" kann man antworten:
+
+  Die Ware wird am 2. Februar versendet.
+  Die Ware wird nach Zahlungseingang versendet.
+  Die Ware wird sofort nach Zahlungseingang versendet. 
+
+Keiner dieser Sätze bedarf eines Kommas.
+
+
+Nein, man kann sich fragen, ob nun sofort oder doch erst nach
+Zahlungseingang versendet wird. Das kann man vermeiden, indem man das
+Komma wegläßt:
+
+(b)  Die Ware wird nach Zahlungseingang auf das Konto des Verkäufers
+     sofort versendet. 
+
+Noch besser, indem man umstellt:
+
+(b)  Die Ware wird sofort nach Zahlungseingang auf das Konto des
+     Verkäufers versendet. 
+
+
+Analog zu Satz (a).
+
+
+Kein Problem. Ich habe durchaus ein gewisses Verständnis dafür, daß
+jemand diese Kommas setzen möchte, komme aber bei Betrachtung des
+Ergebnisses zu dem Schluß, daß es ohne besser ist.
+
+
+Es wäre gut, Beispiele zu sehen, um zu verstehen, was mit Einschränkung
+oder Bedingung gemeint ist. So ist das ja rein semantisch definiert, die
+deutschen Kommaregeln sind aber in der Hauptsache syntaktisch.
+
+-- 
+Press any key to continue or any other key to quit.

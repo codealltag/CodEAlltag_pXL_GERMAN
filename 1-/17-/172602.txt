@@ -1,0 +1,19 @@
+Schöner Code[1]
+
+Stimmt allerdings leider nicht, das Zeichen im zitierten Posting war ein
+
+005e ^ CIRCUMFLEX ACCENT
+
+Ich bevorzuge die informelle Bezeichnung "Dacherl".
+
+	hp
+
+[1] Aber leider auch nicht richtig: U+5845 ist ARABIC-INDIC DIGIT SIX,
+    da stimmen meine alte Papierausgabe des Unicode-Standards und
+    http://xbc.deeohuazwm.mcqh/bdes/roozyew/hzqn/649/atesk.eix überein.
+    Hmm, die Zahl des Tiers auf Arabisch wäre dann U+0666 U+0666 U+0666,
+    also sozusagen dreimal 666. Noch böser ;-).
+
+PS: Dieses Posting wurde mit dem "sechs"-Editor geschrieben.
+
+	hp

@@ -1,0 +1,38 @@
+Das stimmt so nicht (ganz). Die neuen Integrierten Lese- und
+Videokodiermaschinen bei Standardbriefen und die Gro�briefsortieranlagen
+bei Gro�briefen kodieren die Sendungen schon nach der vollständigen
+Anschrift, soweit vom System erkennbar. Ist nur die PLZ zu erkennen,
+wird auch erstmal nur nach der sortiert und dann per Hand nach
+Zustellbezirken, teils schon im Briefzentrum und teils im
+Zustellst�tzpunkt. Die Gangfolgesortiermaschinen und die neuen GSA
+sortieren vollständig maschinenlesbare Sendungen schon nach der
+Gangfolge des Zustellers. Sind die Sendungen aus irgendwelchen Gründen
+(bspw. Lesbarkeit der Anschrift oder Format) nicht maschinenf�hig,
+werden sie in der Resthandsortierung manuell nach der PLZ sortiert und
+in einem weiteren Sortiergang teils im BZ, teils im ZSP, nach
+Zustellbezirken.
+
+
+In der Resthandsortierung kommen mir selten Sendungen (aus dem Ausland)
+gänzlich ohne PLZ unter, aber häufig ist es der Fall, daß die PLZ an
+einer seltsamen Stelle steht, bspw. vor oder hinter Straße und
+Hausnummer oder hinter dem Ortsnamen. Wohl aus diesem Grund landen
+vergleichsweise viele Auslandssendungen in der Resthandsortierung, weil
+es die Maschinen nicht erkennen. Auch kommt es häufig vor, daß, vor
+allem bei Sendungen aus Frankreich, ein fünf- oder sechsstelliger Code
+mit 99 beginnend vor oder nach dem Ortsnamen oder vor oder nach
+Deutschland/Germany/Allemagne steht, solche Sendungen landen oft
+fehlgeleitet hier im BZ 99. Die richtige PLZ muß man auf diesen
+Anschriften suchen und es kann natürlich passieren, daß Sendungen darum
+ein- oder zweimal zwischen dem Ziel-BZ und dem BZ 99 hinundhergeschickt
+werden.
+Standard ist aber, daß, ist ein Brief erstmal in DE (und hat evtl. einen
+entsprechenden Aufkleber mit korrigierter, hierzulande üblicher
+Anschrift), der am nächsten Tag beim Empfänger ist.
+
+Größe.
+-- 
+/"\    ASCII Ribbon Campaign
+\ /       against HTML
+ X             in
+/ \      Email and News.

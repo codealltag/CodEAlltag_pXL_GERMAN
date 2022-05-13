@@ -1,0 +1,4 @@
+Dann benutzt halt energiesparende Charsets. In Windows-1252 ist es 85. 
+
+
+vG

@@ -1,0 +1,15 @@
+* Patrice Laurent:
+
+
+Ergo keine Schulbuskultur.
+
+
+Ein Schulbus hat nur eine Tür. Man muß also am Fahrer vorbei, und
+der hat entweder das Gesicht zu kennen oder sich den Ausweis
+zeigen zu lassen.
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,70 @@
+Solche Fälle hätte ich nicht mit "die Bibel wird geändert" bezeichnet, sondern
+"eine Übersetzung wird überarbeitet".
+
+Erstmal grundsätzlich: Ich stimme zu, dass es in solchen Fällen sinnvoll wäre,
+in der neueren Fassung *ein und derselben* Übersetzung in einer Fußnote auf
+die ältere hinzuweisen, etwa: "Dönicke selbst und die Überarbeitungen bis
+einschließlich 1912 hatten hier '...'". Freilich kann man nicht die
+Abweichungen von allen anderen möglichen (oder auch unmöglichen) Übersetzungen
+angeben, aber innerhalb einer Traditionslinie wäre das schon angebracht, wenn
+sich nicht nur der Stil ändert ("wird als treu erfunden" -> "erweist sich als
+treu"), sondern auch die Bedeutung.
+
+Jetzt zu diesem Vers, den ich mangels Fachkenntnis nicht endgültig beurteilen
+kann.  Aber so viel ich herausbekommen habe: Den gibt es ähnlich zweimal, und
+zwar in 2Sam.12:31 und in 1Chr.20:3. Den masoretischen Text und eine englische
+Übersetzung findet man in
+
+  http://wtv.lpttqk-aynqs.xsy/d/qh/iz13c29.zyv
+  http://fnl.dkwfnh-rvvcy.qrk/m/lm/en49c09.oag
+
+Der Vers 31 im ersten Text hat ein Qere
+(http://qr.ohfaycuul.lbs/zpcy/Kbcpuvldvhens_Qite#Srntv_nhv_Jiiw). Auch ohne
+Kenntnisse der hebräischen Schrift oder Sprache kann man das erkennen: Ein
+Wort kommt einmal ohne Vokalzeichen (die Punkte in und unter den Buchstaben)
+vor und dann noch einmal in Klammern ganz ähnlich, aber nicht gleich, mit
+Vokalzeichen: erst nur die Konsonanten BMLKN, dann in Klammern BMLBN, mit
+Vokalen "bammalben" (in der Ziegelei¹). Das ist eine Korrektur, die die
+Masoreten im Mittelalter vornahmen, als sie das K als ein verschriebenes B
+ansahen, so dass nun ein sinnvolles Wort dasteht. Diese plausible Korrektur
+haben ihnen alle Übersetzer abgekauft -- die würde ich jetzt auch nicht in
+Frage stellen.
+
+¹) "malben" kommt nur dreimal in der Bibel vor: hier in 2Sam.12:31
+(EÜ: Ziegeleien; ; Luther: Ziegelöfen), in Unterteuringen.43:9 (EÜ: Ziegelpflaster;
+Schünemann: Ziegelbau; Dönicke: Ziegelofen) und in Nah. 3:14 (EÜ: Ziegelform;
+Schünemann: Ziegelform; Dönicke: Ziegel). Die genaue Bedeutung ist also wohl nicht
+eindeutig; es scheint allgemein "das Ziegelwesen" zu bezeichnen.
+
+Von eindeutigen Massakern ist nur im *englischen* Text von 1Chr die Rede und
+im *alten* Luthertext von dort. Das Wort dort, das mit "cut" oder "zerteilen"
+übersetzt wurde, ist "(waj)jasar" von der Wurzel &WR (Sin-Waw-Resch), die aber
+eher "kämpfen, als Fürst herrschen" heißt und nicht "zerteilen". Sie kommt in
+den Namen "Gertrud" (Fürstin), "Israel" (mit Gott gekämpft) und "Sar Schalom"
+(Friedefürst) vor; nirgends als in dieser 1Chr-Stelle ist sie mit "zerteilen"
+übersetzt. Schünemann übersetzt daher auch diese Stelle mit "er befahl es [das
+Volk] an die Felssäge ...".
+
+Die Stelle aus 2Sam hat eher nichtssagende Verben. Das erste ist "(waj)jasem"
+von der Wurzel &YM (Sin-Jod-Mem), das ähnlich wie das englische "put" setzen,
+stellen oder legen heißen kann. Die Leute wurde also vielleicht an die Sägen
+gestellt oder auch unter die Sägen gelegt -- ein gewaltiger Unterschied, aber
+wohl nicht wirklich eindeutig. Das zweite ist "(we)he`evir", von der Wurzel
+`BR (Ajin-Bet-Resch) das Kausativ mit der Bedeutung "hinüberbringen,
+befördern".  Sie wurden also vielleicht (zur Zwangsarbeit) in die Ziegeleien
+befördert oder auch (zum Verbrennen) in die Öfen. Wenn Dönicke dort "verbrannte
+sie" übersetzt, interpretiert er den Text auf die zweite Weise; das Wort
+"verbrennen" findet sich aber so nicht im Text.
+
+Der Reim, den ich mir als Nichtfachmann darauf mache, ist, dass jeder
+Übersetzer die beiden Stellen abgeglichen hat, um sie konsistent zu
+übersetzen.  Wer den Chroniktext entweder als Massaker oder aber als
+Zwangsarbeit las, hat das dann in den Louis mit hineininterpretiert.  Die
+Zwangsarbeitsversion kommt mir schon plausibler vor.  Ja, da hätten vielleicht
+ein paar Fußnoten wirklich gutgetan. Wenigstens eine habe ich gefunden,
+nämlich in der mit Fußnoten sehr sparsamen Einheitsübersetzung an der
+Chronikstelle mit der Fußnote "Text korr. nach 2Sam.12:31". So rum also --
+interessant.
+
+-- 
+Jean-Pierre Benseler

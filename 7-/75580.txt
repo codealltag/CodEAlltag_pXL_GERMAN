@@ -1,0 +1,43 @@
+Wenn man beim Funktionieren der Sprache nicht allzu genau hinschaut
+vielleicht. Oder wen man "Namen" unintutitiv definiert. Für mich steht
+"Name" für etwas, was referiert, verweist.
+
+
+Sophisterei - natürlich ist ein Modell des Universums auch Teil des
+Universums, aber die Beschreibung des Modells und des Originals zu
+vermischen bringt nichts, außer Verwirrung.
+
+Und nicht mal eine funktionierende Sophisterei: ein Operator auf einem
+anderen Wort hat ja trotzdem keine Referenz auf ein anderes Wort
+(sondern auf eine Operation, die Bestandteil der Sprache ist, nicht der
+Welt, außer im trivialen Sinne).
+
+
+Nein, aber Funktionswörter haben isoliert keine Bedeutung. Die sind
+sowas wie isolierte DNA ohne eine Zellmaschinerie, die sie abliest. Es
+steckt Bedeutung drin, aber die wird nicht exprimiert, wie die Genetiker
+so passend sagen.
+
+
+Ich kann auch meinen Hund "weil" nennen, das besagt aber rein gar nichts
+über das normale Wort "weil"; der Name meines Hundes ist nicht die
+Konjunktion, sondern klingt nur gleich.
+
+
+"Die Sprachen (Subjekt) unterscheiden" ist natürlich eine Metapher,
+innerhalb der Metapher verstehe ich Deine Frage nicht. Eigentlich
+gemeint ist: Bei manchen Sprachen ist es nicht sinnvoll, Substantive und
+Verben als getrennte Klassen zu betrachten. 
+
+Ich kenne keine solche, aber für meine Frau als Vietnamesin ist auf alle
+Fälle der Unterschied zwischen Substantiv und Adjektiv recht abstrakt,
+sie kann sich nur schwer merken, warum man manchmal sowas wie
+"Stadtpark" sagen kann, aber manchmal nur "städtische Schule" und nicht
+"Stadtschule" (das sind erdachte Beispiele, in Wirklichkeit tritt das
+Problem im Englischen zutage).
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.A. Niederhüfner

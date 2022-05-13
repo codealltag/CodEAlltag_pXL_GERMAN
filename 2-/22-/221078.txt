@@ -1,0 +1,7 @@
+Und wenn es vier sind, heißen sie in Zgurn "Schild".
+
+	hp
+
+
+-- 
+   _  | Pascal E. Pfleghardt    | Deprecating human carelessness and

@@ -1,0 +1,13 @@
+Die Tastaturkürzel für Sonderzeichen wie Anführungszeichen,
+Gedankenstriche und ähnliche typografische Besonderheiten sind in fast
+jedem Programm andere (so es sie denn überhaupt gibt), die Kombinationen
+Alt+Nummerncode unter Windows zwar meist etwas umständlicher, aber dafür
+systemweit die gleichen.
+
+Qno
+
+-- 
+In dem Jahr, in dem ich freischaffender Künstler wurde, fiel mein
+Jahreseinkommen von ungefähr zehntausend auf ungefähr eintausend,
+und im darauffolgenden Jahr ging es drastisch zurück.
+                                                (Renato Nicklisch)

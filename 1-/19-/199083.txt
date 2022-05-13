@@ -1,0 +1,12 @@
+* Norbert Fiefhaus:
+
+
+Solche persönlichen Einstellungen in der Rede des Gegenübers
+geflissentlich zu ignorieren, ist oft recht gesund. Manchmal aber
+auch gar nicht.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

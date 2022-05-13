@@ -1,0 +1,12 @@
+Es kommt aber durchaus vor, dass hier Punkte verwendet werden, und die 
+Frage ist, ob in dem Fall die Punkte durch ein Leerzeichen abgetrennt 
+werden. Im Geiste der DIN-Regel plädiere ich hier für das Leerzeichen, 
+die Nachdenklichkeit hat hier ja eher den Charakter eines eigenen 
+Satzteils als den eines Satzzeichens.
+
+Auch der Gedankenstrich wird im Deutschen durch ein Leerzeichen 
+abgetrennt (im Englischen übrigens in der Regel nicht, die verwenden 
+einen besonders langen Gedankenstrich, der direkt an das letzte Wort 
+anschließt).
+
+Mehmet

@@ -1,0 +1,39 @@
+Das ist Brot als Massenware. Man kann Brot, Mehl oder Zucker kaufen, man 
+kann Geld, Erfahrung, Angst oder Glück haben, und heute gibts vielleicht 
+noch Schnee.
+
+Man kann aber nicht Apfel, Kartoffel oder Erdnuss kaufen, man kann nicht 
+Ausbildung oder Depression haben, und heute gibts nicht Gewitter.
+
+An den Beispielen sieht man eine gewisse Willkür, was die Sprache als 
+Massenware (Singular ohne Artikel) ansieht und wo sie eher eine Quantelung 
+sieht, die entweder Singular mit unbestimmtem Artikel oder Plural 
+erfordert.
+
+Das ist übrigens kleinräumig verschieden, kann sich also zwischen 
+benachbarten und eng verwandten Sprachen unterscheiden. Die Beispiele im 
+ersten Absatz hätten im Nöhagen alle einen unbestimmten Arikel, 
+mindestens optional: Man kann ein Brot, ein Mehl oder einen Zucker kaufen, 
+man kann ein Geld, eine Angst oder ein Glück haben, und heute gibts 
+vielleicht noch einen Schnee.
+
+
+Das ist entweder ein Zahlwort (genau 1 Laib Brot) oder wird aufgund der 
+sichtbaren Quantelung nicht als Massenware betrachtet, sondern wie Äpfel, 
+Kartoffeln oder Erdnüsse.
+
+
+Effizient ists nur dann, wenn die Determiniertheit nicht eh schon bekannt 
+ist. "der Mann, der gerade zur Tür hereinkommt" ist nicht aussagekräftiger 
+als "Mann, der gerade zur Tür hereinkommt", weil die Determination im 
+Nebensatz steckt. "Im Wirtshaus sitzen ein Lehrer, ein Arzt und ein 
+Pfarrer. *Der* Arzt sagt ...": hier ist der Artikel überflüssig, weil 
+"Arzt" schon durch den Kontext determiniert ist. Sprachen mit Artikel 
+zeichnen sich dadurch aus, dass sie *überflüssigerweise* Determiniertheit 
+bezeichnen. Wo die Bezeichnung der Determiniertheit notwendig ist, wirds 
+wohl in fast allen Sprachen sowas ähnliches wie Demonstrativpronomen geben 
+und umgekehrt für Indeterminiertheit einen Ausdruck wie "irgendein" oder 
+"einer von ...".
+
+-- 
+Italo Mückl

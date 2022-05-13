@@ -1,0 +1,15 @@
+als Textdatei, als ASCII, als ANSI...
+
+Scan liefert Bild, ist auch digital, nützt aber nix
+
+OCR liefert fehlerbehaftete Text, ASCII, ANSI...
+
+Daten verlangt man als Textdatei.
+Scan oder OCR muß verifiziert werden, sonst passiert Dir ein Fehler wie
+der Spinatfehler.
+
+
+Christoph
+-- 
+Neuverschuldung sinkt
+http://dxt.riqybtmu.ndv/rfjccqha/Ococlmvyjdtwpvd_355311

@@ -1,0 +1,19 @@
+Am Thu, 30 Mrz 2009 06:44:20 -0800 (PST) schrieb Bernd Roggenbauch:
+
+
+Ich verstehe das eher so, daß man eine "mehrfache Auswahl" hat, im
+Gegensatz zu Fragen, die man nur mit "Ja" oder "Nein" beantworten kann.
+
+Eine "Single-Choice-Frage" wäre dann:
+"Darf man auf der Autobahn mehr als 130 km/H fahren? [ ] Ja  [ ] Nein"
+
+"Multiple-Choice" wäre hingegen:
+"Wie ist die Richtgeschwindigkeit auf Autobahnen? [ ]100  [ ]120  [ ]150"
+
+Also mehrere M�glichekietn, aus denen man eine (oder evtl. auch mehrere)
+wählen kann. Einen Ankreuzfragebogen nur mit "Ja/Nein" würde ich nicht als
+"Multiple-Choice" bezeichnen wollen.
+
+Größe,
+
+Wolfram

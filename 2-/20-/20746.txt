@@ -1,0 +1,8 @@
+Von Stietzel nach Änderungsateliers klappt's bei mir auch nicht.
+
+Anstatt "�", z. B., bekomme ich "javascript:put_idn('%C3%B6');".
+
+-- 
+Ihno
+
+My e-mail address works as is.

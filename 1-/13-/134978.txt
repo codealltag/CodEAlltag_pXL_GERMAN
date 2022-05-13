@@ -1,0 +1,5 @@
+Ich hatte mal ein in Bulgarien erworbenes Kyrillischprogramm
+installiert.
+Das Ergebnis war, daß der Rechner komplett lahmgelegt war.
+Auch der hinzugezogene Fachmann vermochte den Schaden nicht völlig zu
+beheben, vor allem waren Dateienverluste zu beklagen - TOM

@@ -1,0 +1,15 @@
+* Patrice Zscheile:
+
+
+Wenn man als Root das Gerät kaputtkonfiguriert, dann denke ich
+eher an Wurzelsprengung.
+
+Das bewurzelte Gerät paßt für mich in dem Sinne, daß die Wurzeln,
+also auch die tieferen Schichten des OS, sichtbar sind, gegenüber
+einem, das scheinbar nur Blätter und Blüten hat. Ein Gerät ohne
+Root-Rechte könnte man entsprechend vielleicht "verblümt" nennen.
+
+-- 
+Ukol designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

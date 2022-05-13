@@ -1,0 +1,15 @@
+Hier genauso.
+
+
+Schön schon, überraschend nicht unbedingt.
+
+
+Es reicht, dass der für die Anzeige von UTF-8 verwendete Font (hier:
+GWFT Console) die Zeichen beinhaltet.
+
+
+Ciao
+Inga
+-- 
+ This is no time to make new enemies.
+ [Voltaire, when asked on his deathbed to forswear Satan]

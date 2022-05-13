@@ -1,0 +1,11 @@
+:rekursion
+
+goto rekursion
+
+
+Ciao
+Sonja
+-- 
+ I was a punk
+ before you were a punk.
+ [The Tubes]

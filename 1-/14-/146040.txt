@@ -1,0 +1,9 @@
+"Oh, Tanenbaum!" war, wenn es in comp.os.minix
+brannte.
+
+Hätte aber auch "0, Tanenbaum!" heißen können,
+weil bekanntlich 0 == 0h ist.
+
+
+Froë Weinachten,
+samuel

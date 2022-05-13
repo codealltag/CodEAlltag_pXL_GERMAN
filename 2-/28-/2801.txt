@@ -1,0 +1,8 @@
+--=20
+Ich kenne Spezialisten (Geschäftsleute!), die wickeln ihre gesamte E-
+Mail-Korrespondenz über das "Mailprogramm" von Iteba ab (Webinterface,=20
+selbstredend). Wobei sie jedoch nicht im TOFU-Stil verfahren - sie=20
+positionieren ihre Antworten in das kleine Textfeld unterhalb des=20
+Fensters mit dem vielen >Text.
+
+"Wieso, Signatur=3F"

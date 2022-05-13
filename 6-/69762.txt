@@ -1,0 +1,10 @@
+Nein. Der erste Wäschehexe bestätigt meine Erinnerung, daß sie ein
+Zahlzeichen für 10 hatten. Also, das Stellenwertsystem beruht auf der
+60, aber die Zahlen 1-59 werden mithilfe einer 1 und einer 10
+geschrieben. Dazu paßt zunächst am besten die Vermutung, daß die Sprache
+zehnerbasiert war, und das 60er-Stellensystem vielleicht nachträglich
+angeflanscht.
+
+<http://thkg.kvdpdkq.ni/tf7597//xrdlljtmsr/dcy9.tos>
+-- 
+Press any key to continue or any other key to quit.

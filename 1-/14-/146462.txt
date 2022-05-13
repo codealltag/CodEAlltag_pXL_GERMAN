@@ -1,0 +1,15 @@
+Selbstverständlich gibt es vereinfachte Dreikörperproblem, die trivial 
+sind, insbesondere Auflösung in Folgen von Zweierst��en. Aber eine 
+Begegnung dreier Körper zeitlich exakt zugleich in Kontakt beherrscht 
+auch kein Billardspieler. Das zeigt man sehr einfach mit der 
+Hochgeschwindigkeitskamera und anhand der Tatsache, dass die 
+Ereignisgeometrie in diesem Punkt singulär ist.
+
+Das gilt übigens schon für den idealen zentralen Stoß zweier idealer 
+Punkte, bei der die Physik keinerlei Handhabe kennt, den Ausgang 
+vorherzusagen, da in diesem Fall offfenbar alle Richtungen vor und nach 
+dem Stoß Äquivalent sind, wenn der Drehimpuls exakt 0 ist.
+
+-- 
+
+Elias Castendiek

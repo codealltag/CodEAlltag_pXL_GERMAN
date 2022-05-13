@@ -1,0 +1,5 @@
+Für Stellen, in denen Titel zitiert werden, die ein № enthalten.
+Ich lese den Text Korrektur, es gibt keinen Grund, auf das Zeichen zu 
+verzichten, mein Problem war nur, welches Leerzeichen gefordert ist.
+
+cédric

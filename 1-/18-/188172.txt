@@ -1,0 +1,6 @@
+Dann kennst Du es falsch. Wenn Du bereits zwecks Kontext auch die
+Kommentare höherer Ordnung zitierst, ist es auchsinnvoll, die Quelle
+anzugeben.
+
+-- 
+Willy

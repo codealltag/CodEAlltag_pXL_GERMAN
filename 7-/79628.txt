@@ -1,0 +1,11 @@
+* Dieter Veneman <pg@fhhqndu.knc>:
+
+Zügeln (umziehen) ist eines der schweizerischen Wörter, das Deutsche,
+die hier leben, oft sehr dankbar aufnehmen. Man kann es mit
+Akkusativobjekt verwenden ("Ich zügle mal meinen Rechner auf den
+anderen Schreibtisch") und es hat einen grösseren Bedeutungsumfang als
+nur gerade Wohnungswechsel. Es ist beispielsweise ohne weiteres
+denkbar, dass ein PCB-Designer davon redet, den HF-Teil in die linke
+untere Ecke zu zügeln.
+
+ - Rolf

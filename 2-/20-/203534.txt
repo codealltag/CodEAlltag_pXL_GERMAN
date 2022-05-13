@@ -1,0 +1,10 @@
+Sprechstunde ist die Zeit, in der der Arzt dort anwesend ist, aber nicht 
+der Ort selbst. Man sagt "wann hat die Frau Doktor heute Sprechstunde?", 
+aber "wo ist die Ordination von Frau Doktor Soundso?".
+
+Isabel
+
+
+-- 
+
+bitte die Ziffer aus der Adresse weglassen

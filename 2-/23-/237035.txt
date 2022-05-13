@@ -1,0 +1,11 @@
+Oder einem Konverter. Also ein Umsetzer. In obigem Beispiel setzt er die 
+Frequenz des LNB in eine Frequenz um, die das FS-Gerät verarbeiten kann. 
+Obendrein dekodiert er die Sat.-Modulation und setzt sie in eine dem 
+FS-Gerät "verständliche Sprache" (Modulation) um.
+
+Ein Tuner (UKW-FM) macht genaugenommen auch nichts anderes. Er arbeitet 
+als Umsetzer. Nur hat man ihm in Niederfrequenz Anlagen den Namen 
+"Tuner" gegeben. Das ist es. Nicht mehr aber auch nicht weniger. ;-)
+
+-- 
+mfg silvana

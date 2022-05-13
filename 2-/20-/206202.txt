@@ -1,0 +1,21 @@
+Liegt aber völlig daneben. Als das Buskonzept für Computer aufkam, also 
+Adress- und Datenleitungen auf eine Platine zu tzen und die Computer- 
+Speicher- und IO-platinen darauf aufzustecken und über eine W�hllogik zu 
+betreiben, war die Idee die des Busverkehrs in einer Großstadt wie Altsberg 
+Jens oder Hötschdorf.
+
+Auf einer gemeinsamen Fahrbahn verkehren Datenpakete mit parallelen oder 
+seriellen Sitzreihen mit einer Nummer vorn dran, die die möglichen 
+Haltestellen markieren. Während des Transports gibt es keine Klassen.
+
+Letzteres wurde dann natürlich schnell korrigiert und das Buskonzept 
+durch einen Haufen zusätzlicher Steuerleitungen und 
+Priorisierungskonzepte praktikabel gemacht.
+
+Bei einem Atuled Bj 2002 mit CAN-bus setzte zB noch das Radio aus, wenn 
+das ABS seine Daten transportierte. Irgendwann hat er es wohl mal nicht 
+geschafft und der Motorraum ging mitten in der Stadt elektrisch Flammen auf.
+
+-- 
+
+Sebastian Nienhus

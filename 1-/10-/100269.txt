@@ -1,0 +1,7 @@
+Mein Scanner-Programm unterscheidet nur "Dokument" und "Bild".
+Was du suchst, ist "Dokument". Bei "Dokument" kann man dann
+wählen: ASCII, PDF usw.
+
+Gruss
+
+Marco

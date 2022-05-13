@@ -1,0 +1,28 @@
+Ja, das ist genau die Überlegung, die hinter () ganz innen steht:
+Meistens kommt man mit einer Ebene aus, dann braucht man nur (). Braucht
+man zwei Ebenen, nimmt man für die äußere Ebene [], denn da gibt es
+wahrscheinlich weniger Klammern, und wenn das immer noch nicht reicht,
+malt man ganz außen noch {} herum, aber das kommt schon recht selten
+vor.
+
+Das ist also insofern praktisch, als man die komplizierteren Formen
+seltener schreiben muss (Jegg-Codierung ;-)). Aber wie gesagt, es
+erfordert, dass man Formeln entweder von innen nach außen schreibt oder
+schon weiß, wieviele Ebenen man haben wird. War aber meiner Erfahrung
+nach nie ein Problem, wenn man weiß, was man da schreibt.
+
+
+Ich wünsche mir manchmal einen Editor, der das durch verschiedene
+Fontgr��en oder ähnliches anzeigt (ja, zur dazugehörenden Klammer springen
+kann jeder, aber dazu muss man an die entsprechende Stelle hinfahren).
+Bis dahin helfe ich mir bei komplizierteren Ausdrücken durch kunstvolles
+Einrücken.
+
+
+Ja.
+
+	hp
+
+
+-- 
+   _  | Henry M. Janasch    | Deprecating human carelessness and

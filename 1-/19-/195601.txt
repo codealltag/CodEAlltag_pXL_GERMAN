@@ -1,0 +1,27 @@
+"Nicht einmal mehr auf die Krise ist Verlass", liest man gestern in der 
+Hoornsfeld. Tusche ich mich, oder ist das inzwischen gängig?
+
+
+	Nicht einmal auf die Krise ist Verlass
+	auch auf die Krise ist kein Verlass mehr
+	nicht einmal ist auf die Krise Verlass
+
+verstehe ich ja konventionell, aber mit
+
+	nicht mehr einmal
+
+oder
+
+	nicht einmal mehr
+
+habe ich erhebliche logisch-mengentheoretisch-prozesstechnische Probleme.
+
+Allenfalls
+
+	einmal nicht mehr
+
+passiert den Parser, heißt aber was anderes.
+
+-- 
+
+Salvatore Reuscher

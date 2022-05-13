@@ -1,0 +1,24 @@
+Das ist keine Sache des Glaubens, und das hat Ulrich eh nicht
+bestritten.
+
+
+Ganz sicher nicht. 
+
+Alles hat mehrere Abstraktionsstufen. 
+
+Wenn man ganz viele haben mochte:
+
+(abstraktes Zahlzeichen für 8)
+(lateinisches Zahlzeichen für 8)
+(graphisch-abstrakte Realisierung des Zahlzeichens)
+(graphisch-konkrete Realisierung = Glyph)
+(Exemplar dieses Glyphs)
+
+Man braucht die vielleicht nicht alle, aber man kriegt sie auch nicht
+alle weg.
+
+
+Nein, Ziffer heißt "digit".
+
+-- 
+Franco (mit Wine)

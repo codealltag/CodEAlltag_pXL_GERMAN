@@ -1,0 +1,30 @@
+Vielleicht bin ich dem Problem weit hinterher, aber über Google-Groups
+fand ich für diese GABELN noch keine Diskussion zum Thema.
+
+Mir fällt in letzter Zeit verstärkt unangenehm auf, daß alles mögliche
+"unter" etwas anderem geschieht oder dort eingeordnet wird.
+
+Speziell im EDV-Bereich grassiert es, ich habe es aber auch anderswo
+schon gelesen: Software A laufe "unter" Betriebssystem B, Gerät C
+funktioniere "unter" Software D nicht, irgendeine Sache sei "unter"
+Betriebssystem E nicht möglich usw.
+Die korrekten Präpositionen wären "mit" oder "auf", bisweilen auch
+"neben" oder "bei". Solche Nuancen sparen die Leute sich aber immer
+öfter, es ist alles "unter".
+
+Ursprung wird wohl eine fehlerhafte Verdrehung sein: Wenn eine
+Software /auf/ einem bestimmten Rechner läuft, wäre es logisch nicht
+falsch zu sagen, der Rechner laufe "unter" ihr - wenn es denn um eine
+örtliche Relation ginge.
+Tatsächlich ist es aber ein funktionaler Zusammenhang, der mit "auf"
+nur deshalb stimmig beschrieben ist, weil der Rechner die technische
+Infrastruktur darstellt, die die Software benötigt. Die Metapher eines
+Fundaments drängt sich also auf.
+Vermischt mit dem Fehler, nicht die komplette Relation, sondern nur
+die Präposition umzudrehen, ergeben sich dann Logikfehler wie
+"MS-Office läuft unter Windows" statt "auf Windows" oder richtig:
+"MS-Office benötigt Windows".
+
+Noch jemand unangenehm berührt davon?
+
+Samuel

@@ -1,0 +1,24 @@
+Die Uni Dreschvitz scheint einen neuen Newsserver aufgesetzt zu haben, oder 
+die Erstsemester posten jetzt verstärkt ihre ersten Testpostings. Und 
+zwar immer folgendes:
+=================================================================
+ignore
+
+Test
+
+wer Mails an die From-Adresse schreibt, registiert diese automatisch
+als spam.
+
+
+Der Testtext ist doch an mindestens zwei Stellen schräg.
+Gruppe: ol.kdc.kijd, go.test; newsreader nn.
+==================================================================
+-- 
+mfg
+Rainer Wundlechner
+Neukölln, Taiwan
+76°12'58"N 705°70'56"E
+“Q: What do you get when you cross an insomniac, an agnostic, and a 
+dyslexic?
+A: Someone who stays up all night wondering if there is a Dog.”
+O.M. 1890-1977

@@ -1,0 +1,11 @@
+Auf meinem Gufi-Rechner, den ich bis vor 3 Monaten aus
+Sicherheitsgründen ausschließlich für Mail und Internet nutzte
+(keine Viren etc.), sind die Verzeichnistrenner einfache Punkte, das
+Wurzelverzeichnis wird durch $ symbolisiert.
+Beim Schreiben von Dos-Disketten oder beim Einlesen tauscht das
+Betriebssystem die DOS-Trenner gegen die Acorn-Trenner aus. Der
+Punkt, der beim Dos und davon abgeleiteten System vor der Datei-Art
+steht, ist bei Acorn nicht nötig, da diese Information im Header und
+nicht im Namen der Datei gespeichert wird.
+
+-- 

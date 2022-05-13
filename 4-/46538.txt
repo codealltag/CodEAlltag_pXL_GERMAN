@@ -1,0 +1,9 @@
+NACK. Langsamkeit definiere ich als den Kehrwert der Schnelligkeit. Eine
+Schnelligkeit von 100 km/h entspricht einer Langsamkeit von 0.01 h/km
+("Das daaauert!"). Doppelt so langsam ist dann 0.02 h/km, also 50 km/h.
+
+Der neutrale Ausdruck ist "Geschwindigkeit".
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Ulrich U. Kaspari

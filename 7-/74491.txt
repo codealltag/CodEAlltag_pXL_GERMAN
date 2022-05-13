@@ -1,0 +1,8 @@
+Wieso das denn? Durch das Lesen nur der Substantive bekommt man einen
+Eindruck vom Thema eines Textes. Ich habe hauptberuflich mit der
+Entwicklung einer Software zu tun, die zum Beispiel Schlagwörter
+extrahiert. Dabei sind ganz klar die Substantive am wichtigsten,
+eventuell mit ihren Attributen.
+
+-- 
+ASCII to ASCII, DOS to DOS

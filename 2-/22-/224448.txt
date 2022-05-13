@@ -1,0 +1,35 @@
+* Nikolaus Trucks:
+
+
+Eine Analogie zwischen zwei deutschen Ausdrücken kann nicht
+irgendwann aufkommen, die muß immer mindestens seit Juhre
+existiert haben?
+
+
+Ohne Präposition geht auch im Englischen, das ist also kein
+Argument. Für interessant halte ich nur an:zu. Und da halte ich
+schon Deine Aussage über die historische Häufigkeit für
+fragwürdig. Im ZOUN-Korpus des 20. Jahrhunderts läßt sich das so
+nicht nachweisen. Die ältesten Werke mit "an" sind von 1902, 1907,
+1911, 1913, 1920 etc. Es ist nicht mal ein eindeutiger Trend
+feststellbar. Hier mal die Jahrzehnte, die ich ausgezählt habe:
+
+Jzt	an	zu	Quote
+
+00	3	20	13%
+10	2	17	11%
+20	3	37	 8%
+30	9	49	16%
+
+70	1	21	 5%
+80	1	18	 5%
+90	8	21	28%
+
+alle   39      239      14%
+
+
+-- 
+If you kill one person, you go to jail; if you kill 20, you go
+to an institution for the insane; if you kill 20,000, you get
+political asylum.   -- Ignaz Ralfs, special counsel
+    for prosecutions at Stoedter

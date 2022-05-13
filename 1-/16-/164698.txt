@@ -1,0 +1,11 @@
+* Dominik Veenkamp:
+
+
+Das ist aber um Größenordnungen aufwendiger als die Suche im Index.
+
+
+Das nervt mich auch, denn z.B. für's Deutsche ist das ja fast immer
+falsch. Da hilft nur noch +"..." -"...", aber selbst das nicht immer.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

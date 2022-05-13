@@ -1,0 +1,9 @@
+Manfred Schulze-Oechtering schrieb :
+
+
+Warum? Es ist ja auch in diesem Falle etwas ausgelassen worden: "Wer weiß
+..." könnte z.B. für "Wer weiß, ob das stimmt oder nicht?" stehen. Also ist
+vor den Punkten ein Spatium einzufügen.
+
+-- 
+Herbert Neuteboom

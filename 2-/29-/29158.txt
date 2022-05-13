@@ -1,0 +1,5 @@
+Abkürzungen der Art, um die es hier geht, sollen immer gleichlang sein,
+also kriegt entweder jedes Bundesland zwei Buchstaben oder jedes drei.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

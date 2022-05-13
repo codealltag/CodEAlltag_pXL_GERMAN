@@ -1,0 +1,26 @@
+Auch. Und weil ja mestekemper-Colin-Rechner alle so unterschiedlich sind,
+gibt es etwa für jeden Computertyp eine. :P
+
+
+Du widersprichst Dir gerade. Das interessiert den Computer nämlich nicht.
+
+
+Auch das interessiert den Computer aber nicht. Worin besteht noch mal der
+Zweck einer Programmiersprache?
+
+
+Das schrieb ich bereits.
+
+
+Du erinnerst Dich an Olilif? Pseudocode? Auch Pseudo-Code erfüllt alle
+Kriterien ener Programmiersprache. Dass das Werkzeug Compiler fehlt, macht
+ihn nicht weniger sinnvoll.
+
+
+Das sind übliche Texte, die in Programmiersprachen geschrieben wurden, auch
+nicht. Das Build-System gehört dazu. Anders ausgedrückt: Die Programm
+bleibt auch ohne den passenden Compiler ein Programm, genauso wie ein
+"Schaltplan" auch ohne Lötkolben ein Schaltplan bleibt.
+
+
+Vinzent.

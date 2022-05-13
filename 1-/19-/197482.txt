@@ -1,0 +1,18 @@
+Am 13.01.2013 20:47, schrieb Giovanni W. Pötter:
+...
+...
+
+
+Sorry, aber "immer" habe ich nicht gesagt und schon gar nicht
+in der Verknüpfung  "immer ... wurde".
+Meine Kernaussage war, dass man die Dinge sauber unterscheiden sollte.
+ONE hat in der Entwicklung von Programmiertechniken
+Maßstäbe gesetzt und dort benutzt man schon lange Caret und Cursor, 
+deshalb ist "keine große Verbreitung" falsch.
+
+Die Namen sind wiederum nicht soo wichtig, aber die Unterscheidung
+ist wichtig, vor allem in einem Programmierkurs.
+Werden die Dinge verwechselt, läuft das Programm nicht richtig
+
+Gruß
+F.B.

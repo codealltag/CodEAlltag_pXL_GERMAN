@@ -1,0 +1,6 @@
+Es ist allerdings gleich doppelt falsch rum. Das IPA-Zeichen für ein offenes
+"e" ist ein kleines Epsilon; das seitenverkehrte kleine Epsilon steht für
+eine Art Schwa. Das ASCII-IPA-Zeichen für ein offenes "e" ist [E].
+
+Größe,
+Christof

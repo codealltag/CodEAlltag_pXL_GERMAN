@@ -1,0 +1,27 @@
+Viele - gewiss. Die meisten? Da wäre ich mir nicht so sicher, vgl.
+<http://dtvv.wvcl/vblcmze/90> (und dann auch auf "show map" klicken)
+
+
+Was für eine Sprache ist denn "Papua"?
+
+
+Wenn du einen Sprachkurs zusammenstellen oder ein Wörterbuch schreiben
+willst, dann kann eine nach der Worthäufigkeit geordnete Liste durchaus
+sehr nützlich sein, vorausgesetzt das für seine Zusammenstellung
+verwendete Korpus passe auch.
+
+Stelle dir einmal vor, du wolltest ein Anfängerlehrbuch für
+deutschlernende Türkisch- oder Russischsprachige schreiben, in dem du
+einen Grundwortschatz von ca. 1000 Wörtern vermitteltest. Dieser müsste
+selbstverständlich "der", "die" und "das" umfassen, schließlich gehören
+diese im Deutschen zu den häufigsten Wörtern, auch wenn es in den
+Muttersprachen der Lernenden gar keine Entsprechungen gibt.
+
+Müsstest du ein Fachwörterbuch für Chemiker oder Goldschmiede erstellen,
+so könntest du z. B. eine halbwegs repräsentative Auswahl von
+Lehrbüchern und Fachzeitschriften als Korpus verwenden und die daraus
+gewonnene Häufigkeitsrangfolge zur Grundlage nehmen. Dabei könnte dann
+durchaus herauskommen, dass 'galvanisieren' wichtiger ist als 'essen'.
+
+
+Tschüs, Niclas

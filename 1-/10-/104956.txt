@@ -1,0 +1,15 @@
+* Niels Fenslage:
+
+
+Die zwei Korpora sind aber sehr verschieden. Der Brettacher Wortschatz
+verzeichnet in der Hauptsache Nachrichtentexte der letzten 12 Jahre. Da
+ist schon vom Genre her wenig Platz für das Wort "Kruzitürken", und die
+PC-Frage kommt noch hinzu.
+
+Andererseits ist es wohl schon länger selten geworden, denn das
+Käslädla-Korpus kennt auch nur drei Beispiele aus zwei Werken der
+Belletristik, von 1920 und 1933.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,17 @@
+Sehr im Gegensatz zur Compose-Taste, mit der man auch so was wie š oder
+ñ oder å oder ł im Handumdrehen tippt. (Hatschek geht mit "c".)
+Compose, /, o tippt sich erstens schneller und benötigt zweitens
+keine Zahlenauswendiglernerei wie Alt+0248.
+
+Angeblich soll’s das für Fuidl aber auch schon geben. Die Kollegen da
+haben wohl wieder mal was erfunden, was in der Unixwelt seit
+Jahrzehnten Standard ist. Schön für sie :-)
+
+
+vG
+
+-- 
+"Der Winkelvoss hat schon vor Derivaten gewarnt, da wußten 90 Prozent
+der Abgeordneten noch nicht mal, was das ist - und 100 Prozent der
+Banker wissen bis heute nicht, was es ist!" (Victor Entres, "Bis
+neulich")

@@ -1,0 +1,21 @@
+* Hanno S:
+
+
+Es ist möglich in dem Sinne, daß manche so schreiben. Nicht nur
+ganz vereinzelt, so daß es ein einfaches Versehen sein könnte. Und
+wahrscheinlich machen es auch manche professionellen Schreiber.
+
+Der Rechtschreibduden ist nämlich heutzutage in weiten Teilen
+deskriptiv: er hält fest, was die Schreibgemeinschaft tatsächlich
+tut. Ich sehe diese Fälle auch oft genug, deshalb habe ich ja
+meinen Eröffnungsbeitrag geschrieben. Es gibt offenbar
+professionelle Schreiber, für die ein Genitiv mit einer Apposition
+im Dativ nicht falsch klingt; für mich schon. Der Duden mat sich
+aber heutzutage nicht mehr in jedem Fall an, zu entscheiden, wer
+in einer solchen Frage recht hat.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

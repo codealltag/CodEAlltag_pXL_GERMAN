@@ -1,0 +1,52 @@
+Ob das Verb intransitiv gebrauchbar ist, tut m.E. nichts zur Sache.
+
+Man unterscheidet zwischen sog. affizierten und effizierten Objekten:
+Affizierte Objekte sind von der Tätigkeit in irgendeiner Form betroffen,
+effizierte Objekte durch die Tätigkeit bewirkt.
+
+Affiziertes Objekt: Ich schlage Metall. (Metall ist betroffen.)
+Effiziertes Objekt: Ich schlage eine Münze. (Münze ist Ergebnis.)
+
+Zusätzlich wird zwischen inneren Objekten geschieden, die eine besondere
+Erscheinungsform oder Verstärkung der Tätigkeit ausdrücken, und äußeren
+Objekten, bei denen dies nicht so ist.
+
+Innere effizierte Objekte bilden zusammen mit dem Verb
+a) einen phraseologischen Ausdruck: eine Schlacht schlagen
+   (die Bedeutung des Verbs für sich wird nicht/kaum mehr wahrgenommen)
+b) eine sog. figura etymologica: einen Schlag schlagen, einen Traum
+   träumen
+   (wobei nach strenger Definition dieses Begriffs noch ein
+   relativierendes Adjektiv hinzutreten muss: einen schönen Traum
+   träumen - aber das ist für unsere Belange jetzt uninteressant.)
+   Im Deutschen ist diese eher selten und wird zumeist durch einen
+   besseren phraseologischen Ausdruck ersetzt ("einen Schlag setzen",
+   "einen Traum haben"). öfters tritt sie veralbernd auf ("Darf ich
+   mal dich eine Frage fragen?").
+
+
+Innere affizierte Objekte sind m.E. eher selten bzw. werden oft von
+anderen Interpretationsweisen überlagert. Sie ergeben sich wohl dann,
+wenn ein ursprünglich wörtlich gemeinter Vorgang eine neue übertragene
+Bedeutung erhält, z.B.
+
+"die Arschkarte ziehen":
+  - ursprgl.: als Fußball-Schiedsrichter die rote Karte aus der
+    Gesäßtasche ziehen = äußeres Objekt, affiziert
+  - übertragen: Pech haben = inneres Objekt, affiziert
+    (aber da die Herkunft des Ausdrucks bereits in Vergessenheit gerät,
+    inzwischen wohl eher als effiziert zu interpretieren)
+
+
+Auf unseren Fall transferiert:
+- Kuh melken: äußeres Objekt, affiziert
+- Milch melken: äußeres Objekt, effiziert
+- *"Gemelke melken": inneres Objekt, effiziert (fig. etym.)
+- die Kuh melken (sprichwörtlich = schröpfen, ausbeuten): inneres
+  Objekt, affiziert
+
+(Gemelke sei hier nicht als Produkt, sondern - unüblich - als Vorgang
+verstanden.)
+
+Gruß,
+Silvio

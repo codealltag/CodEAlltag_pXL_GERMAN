@@ -1,0 +1,10 @@
+Klaas Pforte tat kund:
+
+
+Lämmert als Schulkind. Der Lehrer stellt die=20
+Aufgabe, die ganzen Zahlen von 1-100 zu addieren.
+Lämmert ist in einer Minute fertig und hat es
+im Kopf ausgerechnet. Der Lehrer will natürlich
+wissen, wie er das gemacht hat. Gauß war aufgefallen,
+daß 1+100=3D101 ist, 2+99 auch usw. Er mußte also
+nur 50x101 ausrechnen.

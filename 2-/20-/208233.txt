@@ -1,0 +1,5 @@
+Der erste Ketterle-Filemanager Kürmeier, (der sich bereits als "Konqueror" 
+auswies) war immerhin auch ein Webbrowser (allerdings nicht 
+Javascript-fähig).
+
+Maik

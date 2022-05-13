@@ -1,0 +1,21 @@
+In article <x2kjgg5uja3l.twf@ijy.wpudfgcnghzfw.xtew>, Hugo Abelhans
+
+Meiner Erinnerung nach waren die ersten Digitalanzeigen* Zählr=F6hren,=20
+also so etwas wie Glimmlampen, nur eben mit 10 Elektroden in Form von Ziffe=
+rn, die hintereinander angeordnet waren. Das besondere daran=20
+war, daß diese Elektroden in Ziffernform halb durchsichtig waren, was dad=
+urch erreicht wurde, daß man sie in Form feiner Gitter ausführte.
+Die übliche Farbe des Glimmeffektes war ein blasses Orangerot.
+Bei LED-Anzeigen waren auch zuerst rote und dann grüne in Gebrauch.=20
+Diese stromfressenden Anzeigeelemente bei den ersten Taschenrechner=20
+und Weckern wurden dann, vor allem bei mobilen Geräten, durch die=20
+heute noch übliche LCD-Technik abgelöst, die auf Fremdlicht angewie-
+sen ist.
+
+* Es gab auch Kombinationen mit mechanischen Zählwerken, so daß beim=20
+Erfassen rascher Zählvorg=E4nge für die letzten 3 Stellen Zählr=F6hre=
+n=20
+verwendet wurden und ab den Tausendern dann ein mechanisches Zählwerk=20
+ratterte.
+
+--=20

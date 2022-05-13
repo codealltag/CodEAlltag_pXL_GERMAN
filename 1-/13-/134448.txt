@@ -1,0 +1,11 @@
+Mit Windows:
+
+Halt die Alt-taste (nur die linke), und drücke auf die numerische
+Tastatur:
+
+  0 1 8 5
+  0 1 7 8
+  0 1 7 9
+
+-- 
+Gruß, Nikolaus

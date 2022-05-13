@@ -1,0 +1,13 @@
+Ich hatte mal einen längeren Streit mit einem Kollegen,
+der der Ansicht war, die Formulierung "die gesetzten Ziele
+für Fehlerraten wurden in jedem Quartal überschritten"
+(tatsächlich: "target values for fault rates have been
+exceeded each quarter") sei positiv, und nicht wie
+ich es gemeint hatte, negativ zu verstehen. 
+Die Fehlerraten waren höher als die vorgesehene
+Obergrenze - also Ziel verfehlt, da überschritten ...
+
+Wir haben uns dann irgendwie auf eine ganz andere,
+aber eindeutige Formulierung geeinigt.
+
+/Sebastian

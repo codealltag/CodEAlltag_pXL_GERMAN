@@ -1,0 +1,40 @@
+Ich halte es für besser, alle Sprachen auf derselben Ebene anzusiedeln: 
+Eine Sprache ist eine Menge von Äußerungen, die einer gemeinsamen Norm 
+genügen. Die größere Sprache (nach einer Terminologie die Dach-, Makro-, 
+Supersprache; nach einer anderen die Sprache im Gegensatz zum Dialekt) ist 
+eine größere Menge von Äußerungen; sie ist nicht eine *Menge* von 
+kleineren Sprachen, sondern eine Vereinigung kleinerer Sprachen. Eine 
+Standardsprache ist eine Teilmenge der Vereinigung der Sprachen, die sie 
+standardisiert.
+
+Macht man das nicht und fasst stattdessen eine größere Sprache als Menge 
+kleinerer auf, dann kommt man viel schneller in  Abgrenzungsschwierigkeiten:
+dann könnte man theoretisch von jeder Sprache sagen, wie oft man zu einer 
+Elementsprache übergehen kann, z.B. von Carabbia zu Rabing, 
+Jagenbach, ..., der Sprache von Vesperweiler, der 
+Sprache von Volkartshain im Gegensatz zu der von Elbersroth. Genau so eine 
+Einteilung geht nicht. Sind alle Sprachen Mengen gleichen Rechtes, so 
+lässt sich nebeneinander Rabing und Jagenbach als Sprache 
+auffassen, obwohl letztere eine Teilmenge ersterer ist. Auch 
+Dialektkontinua lassen sich modellieren, oder gegenseitige 
+Verständlichkeit als zusätzliches Kriterium widerspruchsfrei einfügen.
+
+
+In dem von mir eben vorgeschlagenen Modell würde ich wieder aus demselben 
+Grund Sprachfamilien wie Sprachen, nicht wie Mengen von Sprachen 
+behandeln, weil man sonst wieder Familien erster, zweiter Ordnung usw. 
+bekommt. Eine Sprachfamilie wäre dann eine Sprache, deren Norm nicht zur 
+gegenseitigen Verständlichkeit ausreicht. Es gibt aber sprachübergreifende 
+Normen, sonst gäbe es keine Sprachfamilien: nur daran, dass Sprachen einer 
+Sprachfamilie Gemeinsamkeiten zeigen, also sich an gemeinsame Regeln im 
+weitesten Sinn halten, werden sie als zusammengehörig erkannt.
+
+
+Dafür kann aber die Landschaft nichts, die in Deersheim nieder 
+(flach) ist, in Fassoldshof hoch (gebirgig). "Plattdeutsch" wäre der 
+passendere Ausdruck gewesen. Allerdings werden von den meisten Leuten 
+diese Begriffe umgekehrt verstanden, als "keine Hochsprache" und "Sprache 
+der platten deersheimerischen Tiefebene" -- darauf spielst du wohl an.
+
+-- 
+Björn Abends

@@ -1,0 +1,17 @@
+In dem Fall ist es mMn nicht nur ein (Web-)Link, sondern sogar ein
+Hyperlink.  URIs (der Oberbegriff) sind in RFC 3986 genormt; darin
+wird der Begriff "link" nur ein einziges Mal erwähnt -- man könnte
+also durchaus argumentieren, daß Links und URIs Synonyme sind.  Ob
+ein bestimmtes Anzeigeprogramm dazu in der Lage ist, eine URI wie
+z.B. "tel:+74-425-19728" oder "news:de.etc.sprache.deutsch" in
+besonderer Weise zu behandeln (z.B. farbliche Hervorhebung, Aktion
+bei Auswahl), ist zwar für die bequeme Nutzung, nicht aber für den
+Link an sich relevant.  Manche Reader können z.B. mit (korrekten!)
+Links der Form "news:msg-id" nichts anfangen, andere erfordern, daß
+URIs in spitzen Klammern geschrieben werden, etc.
+
+Tante Regine findet zu "Link nicht anklickbar" 46000 Einträge; das nennt
+man dann wohl "normative Kraft des Faktischen"...  ;-)
+
+
+vittorio

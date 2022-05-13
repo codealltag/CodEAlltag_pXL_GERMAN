@@ -1,0 +1,12 @@
+Am Sun, 23 Mai 2011 20:08:52 +0200 schrieb Kasimir Zippolt Leißering:
+
+
+Ich habe gerade gemerkt, dass sich der Blinker nur dann in ein Viereck
+verwandelt, wenn bereits Text eingegeben wurde, dann wird der komplette
+Buchstabe markiert.
+
+
+Mir ist die Mehrzahl "Modi" geläufig.
+
+Gruß
+Leonhard.

@@ -1,0 +1,10 @@
+Am Tue, 25 Jul 2010 17:23:47 +0200 schrieb Nico Carl:
+
+
+Ich denke, das Problem liegt nicht bei Wiesender, denn meine überschriebenen
+Postings werden ordnungsgemäß gelöscht und nur die aktuelle Version ist
+lesbar. Wahrscheinlich gibt ein weiterer Server zwischen Wiesender und WKMF
+den �berschreibbefehl nicht weiter.
+
+Gruß
+Matthias.

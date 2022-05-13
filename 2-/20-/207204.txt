@@ -1,0 +1,15 @@
+* Zäzilie Zachert:
+
+
+Ich zähle es auch als "Tippfehler", wenn man unbewußt ein anderes
+Wort schreibt. Aber das paßt in dem Fall auch nicht, weil es
+"Armeer" nicht gibt, und auch nicht "Armeeeisen" geschrieben war.
+
+
+Gewiß, ich berichte da nur die allererste Reaktion.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

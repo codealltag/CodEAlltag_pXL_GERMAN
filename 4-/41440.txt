@@ -1,0 +1,40 @@
+Ach so, bloß Schall. Ja, in den allermeisten Fällen braucht mans
+nicht, aber ab und zu schon.
+Ich hab mich damit herumgeschlagen, deshalb noch etwas OT.
+
+In D gibt es Rufnamen, seit geraumer Zeit, und die wurden z.B. im
+Paß oder Perso oder überhaupt auf dem Standesamt eingetragen.
+Ein Rufname ist einer der Vornamen (in D kann man 1 bis X
+Vornamen haben, wobei ich nicht weiß, wie hoch X werden kann; im
+Barock etwa 7, zur Zeit vielleicht 4, Standard ist 1 oder 2) und
+der wurde früher im handgeschriebenen Paß mit dem Lineal
+unterstrichen.
+Wie gesagt, es ist _einer_ der Vornamen - mal der erste (oft),
+mal der zweite, mal der dritte.. und in den Datenbankfeldern kann
+man nicht einfach einen Teil des Feldinhalts unterstreichen.
+Weshalb sies dann seit Einführung der EDV meist schlicht
+weggelassen haben (in meinem aktuellen Perso z.B.).
+
+Mindestens 1 Datenbankentwickler hat aber davor kapituliert und
+Mätzchen geschlagen, indem er immer den ersten Vornamen als
+Rufnamen definierte.
+Ich aber sage euch: das ist falsch, falsch und nochmals falsch!
+Denn die Vornamen haben eine Reihenfolge, und wer die nach Gusto
+ändert, benennt frecherweise Menschen um ohne deren Zustimmung!
+In der gesehenen Anwendung ging es nicht anders, als das zu tun.
+Aber ich finde das hochgradig Pfui, denn mein Großonkel hieß
+nunmal Thomas Vincent und nicht Vincent Thomas, auch wenn er
+zeitlebens nur "Vincent" genannt wurde.
+
+Ich habe in meiner Anwendung also ein Vornamenfeld vorgesehen,
+damit die Vornamen in der richtigen Reihenfolge eingetragen
+werden können, und ein Rufnamenfeld, in dem man den Rufnamen
+separat einträgt. Elegant ist das nicht, weil man den Namen 2x
+eintragen muß (quasi 1x für die Reihenfolge, 1x für welchen),
+wenn der Rufname nicht der einzige oder erste Vorname ist.
+Aber wenigstens kommen so diese verdammten Umbenennungen nicht
+vor. Mein Kampf, dies den Benutzern nahezubringen, ist zwar
+bisher erst zu 50% erfolgreich, aber ich kalkuliere, daß die
+geschaffene Möglichkeit, es richtig zu machen, in Verein mit
+Gewöhnung und Zeit denn schon irgendwann Ergebnisse zeitigen
+wird.

@@ -1,0 +1,17 @@
+Nein. Diese Befehle können völlig unabhängig voneinander gegeben
+werden.
+
+Eine Drehung um 180ö wird stets im Gegenuhrzeigersinn auf den Befehl
+"Abteilung - kehrt!" hin ausgeführt.
+
+
+Beispiele:
+
+Links-um! -> Abteilung-kehrt! -> Links-um! => Soldat in 
+                                              Ausgangsposition.
+Links-um! -> Abteilung-kehrt! -> Rechts-um! -> Abteilung-kehrt! =>
+                                              Soldat in 
+                                              Ausgangsposition
+ENRICO
+
+Reeinhard

@@ -1,0 +1,20 @@
+H.H.Drößler <Bnyc@nxe.ydh>:
+
+
+Im Technik-Quack hat sich hierzu eine begriffliche Präzision eingebürgert,
+deren Nutzen nicht leicht von der Hand zu weisen sein dürfte:
+
+er _steuert_ die Dampfzufuhr,
+
+- der Effekt stellt sich, trivialerweise in direkter Koppelung, proporional
+- zur Öffnung einer entsprechenden Klappe irgendwo in der Maschine ein,
+
+damit _regelt_ er die Geschwindigkeit.
+
+- er agiert in einen rückgekoppelten Regelkreis, in welchem er die Zufuhr
+- von Dampf dementsprechend sukzesssiv immer wieder nachregelt, wie für die
+- Einhaltung einer Geschwindigkeit erforderlich.
+
+Diese begriffliche Präzision geht rasch in den Sprachgebrauch über, wenn man
+zuweilen damit konfrontiert ist, dass der verknüpfte Aufwand zur technischen
+Realisierung grob unterschiedlich ist.

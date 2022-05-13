@@ -1,0 +1,53 @@
+Wo ist da der Unterschied? Wenn jede Bedingung für sich allein erfüllt
+ist, also
+
+ * Rennräder gelten als Fahrräder
+ * blaue Citybikes gelten als Fahrräder
+ * rote Lieger�der gelten als Fahrräder
+ * grüne Damenräder gelten als Fahrräder
+ * Kinderfahrräder gelten als Fahrräder
+
+dann ist auch die UND-Verknüpfung
+
+ Rennräder gelten als Fahrräder
+    UND
+ blaue Citybikes gelten als Fahrräder
+    UND
+ rote Lieger�der gelten als Fahrräder
+    UND
+ grüne Damenräder gelten als Fahrräder
+    UND
+ Kinderfahrräder gelten als Fahrräder
+
+erfüllt.
+
+Die Antwort (die nur sinnvoll ist, wenn man annimmt, dass es in der
+Diskussion um Fahrzeuge im Sinne der StVO ging), stimmt dem zu, macht
+aber darauf aufmerksam, dass die Aussage nicht mehr gilt, wenn man
+"Fahrräder" durch "Fahrzeuge im Sinne der StVO" ersetzt, d.h., die
+Aussage 
+
+ Rennräder gelten als Fahrzeuge im Sinne der StVO
+    UND
+ blaue Citybikes gelten als Fahrzeuge im Sinne der StVO
+    UND
+ rote Lieger�der gelten als Fahrzeuge im Sinne der StVO
+    UND
+ grüne Damenräder gelten als Fahrzeuge im Sinne der StVO
+    UND
+ Kinderfahrräder gelten als Fahrzeuge im Sinne der StVO
+
+ist falsch. Dafür ist es ausreichend, wenn eine der Teilaussagen falsch
+ist, in dem Fall die Aussage über Kinderräder.
+
+
+Auch technikfremde Leser können im Allgemeinen zwischen "nicht alle" und
+"keiner" unterscheiden. Kaum jemand dürfte Probleme haben, den Satz "Zu
+den Säugetieren zählen u.a. Hunde, Pferde, Delphine und Spinnen" als
+falsch zu erkennen.
+
+
+Wie Du hier auf ein ODER kommst, verstehe ich nicht. Aber natürlich kann
+man auch eine Oder-Verknüpfung als Aufzählung mit Kommas darstellen.
+
+	hp

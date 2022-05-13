@@ -1,0 +1,20 @@
+Am eigenen PC schon, aber das "klassische Root-Gerät" war kein PC und
+schon gar nicht der eigene[1]. Das waren Multiusersysteme (auf unserem
+Datenbankserver gab es zeitweise bis zu 3000 Accounts) und das
+Root-Passwort hatten nur der BOFH und sein PFY. Falls man
+(unberechtigterweise) Root-Rechte erlangen wollte, musste man die
+Maschine rooten.
+
+
+Es ist erst damit aus der Unix-Security-Ecke herausgekommen. Ich habe
+mich nur gewundert, wieso plötzlich alle möglichen Leute, die weder von
+Unix noch von Security eine Ahnung haben, irgendwas rooten wollen, das
+Wort selbst war mir vertraut. Sätze wie "Der Angreifer ist über einen
+Buffer-Overflow im Webserver hereingekommen und hat dann über den
+User-Page Bug die Maschine gerootet" habe ich ziemlich sicher schon in
+den 90er-Jahren gehört.
+
+	hp
+
+[1] Ja, es gab so Wahnsinnige wie mich, die Unix auf einem 8086er laufen
+    hatten.

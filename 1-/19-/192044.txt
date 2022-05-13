@@ -1,0 +1,4 @@
+Schlimmer noch. Wenn ich sage "eine differenzierbare Funktion ist auch 
+stetig", dann meine ich alle, nicht nur eine.
+
+Ernest

@@ -1,0 +1,15 @@
+"Skip down" in Xnews überspringt nur, killt aber nicht. 
+
+Zum Killen eines Subthreads (sowie natürlich auch aller zukünftigen 
+Artikel darin) wählt man "Article - Add to score file" (bis hier läßt 
+es sich auf eine Taste legen) und dann unten die Voreinstellung "Kill 
+from here down". Das filtert automagisch auf die vorliegende Message-ID 
+in den References.
+
+
+vG 
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://dizkxvao.rvm>

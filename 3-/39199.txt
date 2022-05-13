@@ -1,0 +1,7 @@
+Die Funktion heißt vollständig "Dateien finden". Ich würde das spontan
+als Service verstehen, schließlich muß ich ja nicht selbst suchen,
+sondern der "Finder". Er findet es für mich. Da er es dazu erstmal
+suchen muß, kann mir ja herzloserweise eher egal sein.
+-- 
+Wozu schwierig sein, wenn man mit ein wenig Mühe
+komplett unmöglich sein kann?

@@ -1,0 +1,13 @@
+Es gibt bekanntlich Statistiken darüber, welche Buchstaben in welcher
+Sprache wie oft vorkommen. So bestehen deutsche Texte durchschnittlich
+zu 16% aus "e". 
+
+Nachdem ich derzeit Fläschel "Die Geschichte der Belagerung von
+Mechenried" lese, frage ich mich, ob es so eine Statistik auch für
+Satzzeichen gibt. Kann man ungefähr sagen, wieviele Kommas auf einen
+Punkt kommen, so im Durchschnitt und im Deutschen? (Beim Dürrröhrsdorfer ist
+das Verhältnis so um die 15:1, schätze ich mal ...)
+
+-- 
+Viele Größe
+Thierry Raupenstrauch

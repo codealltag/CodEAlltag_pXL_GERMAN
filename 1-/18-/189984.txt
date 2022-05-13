@@ -1,0 +1,19 @@
+Ach so. Ich weiss allerdings nicht, ob so viele Webserver, Browser
+oder Textprogramme meine Usenet-Postings verarbeiten.
+
+Der bindestrich ist jetzt drin, ich bin aber nicht sicher, ob das
+wirklich ein Fehler war, denn die Standardeinstellung meines
+Newsreaders holt sich die Angaben aus der locale, und die ist nun mal 
+$ locale
+LANG=
+LC_CTYPE=en_US.ISO8859-1
+...
+
+Ich schiebe das auch mal nach tm.egcb.sekulljm.newsreader
+
+Tara
+
+-- 
+"Vielleicht", sagte Pu. "Manchmal ist es eins, und manchmal ist es
+keins. Bei Fusspuren kann man nie wissen."
+                                          (A. A. Oldtmann, Pu der Br)

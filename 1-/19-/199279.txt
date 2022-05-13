@@ -1,0 +1,81 @@
+Ganz einfach: Wieviele Großkraftwerke gibt es in F und wieviele Cruise
+Missiles von $EVIL_EMPIRE oder $ROGUE_STATE braucht es, um die
+Energieinfrastruktur nachhaltig zu stören? 
+
+Die Frage spielt z.Zt. zugegebenermaßen praktisch keine Rolle, aber noch
+in den 80ern hat man z.B. Buschhaus möglichst dicht an die innerdeutsche
+Grenze gebaut, natürlich damit bei den vorherrschenden Westwinden der
+Dreck zu den 'Brüdern und Schwestern im Osten, denen die Teilhabe an
+Freiheit und Demokratie gegenwärtig versagt ist' treibt. Aber den
+strategischen Planern der Hafenmeisterei muss klargewesen sein, dass man sich mit
+den (Ost-)grenznahen Kraftwerken im Konfliktfall ein echtes Problem
+herangezogen hat.
+
+
+Wieviele denn? Mehr als ein paar hundert? 
+
+
+Ja, das sind so die Legenden. Zum einen sollte man berücksichtigen, dass
+die Energieversorger heute mit massiven Rabatten locken, um des Nachts
+Strom verkaufen können - wir haben also Nachts nicht zuwenig, sondern
+massiv *zu viel* Strom. Zweitens ist die Auslegung des Kraftwerkparks
+auf eine (fiktive) Spitzenlast seit langem Fakt. Es macht IMHO keinen
+besonders großen Unterschied ob irgendwo 1 GW Windkraft vom Netz geht
+oder ob um 9:00 im Sommer alle Klimaanlagen in den Büros anfangen zu
+laufen. Schwankung ist Schwankung. Die Lösung ist seit langem bekannt
+und funktionert: Verbundnetz, Zuschalten von kurzfristig verfügbaren
+Kraftwerken (Wasser, Gas), im schlimmsten Fall Drosselung oder
+Abschalten von Extremverbrauchern.
+
+
+Das Argument ist genauso richtig oder falsch wie die Behauptung, dass
+für jede Gasturbine (Spitzenlastpuffer) in gleicher Größe konventionelle
+Kraftwerke vorgehalten werden müssen. Oder dass für jedes Atomkraftwerk
+Ersatzleistung bereit stehen muss für die 2-3 Monate im Jahr, in denen es
+wegen Wartung oder kleinerer Unfälle gerade mal vom Netz ist. Das
+Zauberwort heißt 'Leistungsreserve' und die wird man tunlichst nicht auf
+100% stellen (also für jeden Windpark ein entsprechende Kohleleistung
+bereitstellen) sondern auf die statistische Ausfallwahrscheinlichkeit
+(modulo Sicherheitsfaktoren). Das ist nämlich billiger. Und
+sinnvoller. Un mehr wird vom Gesetz AFAIK auch nicht gefordert. 
+
+Apropos statistische Ausfallwahrscheinlichkeit: Selbst am Polarkreis
+sind die Ausfallzeiten einer Solaranlage kleiner als die von z.B. AKW
+Voslapp.
+
+
+Ah so. Ich dachte diese ganze Diskussion dreht sich um das Geweine, dass
+es eben *nicht* mehr ganz easy geht, weil z.B. den Atomkraftwerken der
+Wind gerade ganz kräftig ins Gesicht weht. Das wird allerdings gerne
+ignoriert oder als 'Technikfeindlichkeit' bezeichnet oder sich sonstwie
+schöngeredet ("Alles nur �kospinner, keine Ahnung von Naturwissenschaft
+und Technik, wirtschaftlicher Wahnsinn").
+
+Die Ironie daran ist, dass es die Energieversorger selber waren, die
+sich in den 23. 09. 21 und 23. 09. 21 durch Kampagnen wie 'Atomkraftgegner
+überwintern bei Dunkelheit mit kaltem Hintern' und der Behauptung, ohne
+Atomkraft gingen in Deutschland morgen die Lichter aus als ernsthafte,
+glaubwürdige Diskussionspartner komplett disqualifiziert haben. 
+
+Eine wertfreie, unideologische Diskussion über die Energiepolitik für
+die nächsten 50-100 Jahre ist mit den Energieversorgern jedenfalls nicht
+möglich - sie sind qua Gesetz dazu verflichtet, zum Wohle ihrer
+Aktionäre zu handeln, nicht zum Wohle des Gemeinwesens. 
+
+Das hat genau nichts mit der Art zu tun, wie Energie erzeugt wird,
+sondern nur damit *wo* sie erzeugt wird (idealerweise möglichst dicht am
+Verbraucher) und wie sie transportiert wird. Engmaschige Netze sind
+deutlich schwieriger zu zerreißen, als grobmaschige mit wenigen,
+wenngleich dicken, Verbindungen.
+
+In D ist die Situation noch vergleichsweise kommod, aber ich kenne
+Leute, die sich mit Angiffsszenarien auf die Energieinfrastruktur der
+USA beschäftigen (im Einkaufsquelle-Auftrag, versteht sich) und da vergeht einem
+das Lachen sehr, sehr zügig. 
+
+Robuste Energieversorgung ist dezentral. Solarenergie und kleinere
+Windparks können dazu einen Beitrag leisten - speziell Solarzellen
+tragen deutliche weniger auf als ein Kohlekraftwerk im Dorfzentrum...
+
+-- 
+Space - The final frontier

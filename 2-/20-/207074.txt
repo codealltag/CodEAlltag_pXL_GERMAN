@@ -1,0 +1,15 @@
+Kein anständiger Parser eines vertrauenswürdigen Compilers lässt 
+Deklination der Konstanten passieren. Das geht nur mit Variablen.
+
+In Anbetracht der Tatsache, dass es in der realen Welt keine konstanten 
+Konstante gibt, da diese ständig ihre Werte ändern, hat man das Konzept 
+"Konstante" praktisch aufgegeben.
+
+Es stammt eben aus der Vormoderne, als Konstanten noch nicht abhängig 
+von der Wahl von globalen oder lokalen Bezugssystemen waren.
+
+Man kann ja auch einfach "Zahl" sagen.
+
+-- 
+
+Edo Damen

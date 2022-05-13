@@ -1,0 +1,67 @@
+Tja. R51 auch hier. Keine Chance.
+Es gibt die erwähnten zwei Programme, die einem von XP zu Win7 helfen
+sollen. Beide funktionieren hier nicht; ich mag nicht glauben, dass das
+Zufall ist. Mag ja sein, dass ein Programm mal abstürzt oder
+hängenbleibt. Dann sollte es aber den Anwender nicht ratlos
+zurücklassen, indem es keinerlei Rückmeldung liefert.
+Benutzerfreundlich? Für Leute, die klaglos fressen, dass sie ihren
+Rechner komplett plattmachen müssen, vielleicht.
+
+Wie man's nimmt. Für mich Ausdruck einer von UOZ ausgehenden "Kultur",
+in der mögliche Bedürfnisse des Endkunden und Anwenders keine Rolle mehr
+spielen (man erinnere sich: der Teilthread ging vom Stichwort
+"usability" aus).
+
+Nein, UOZ setzt die Viren nicht in die Welt. Es sorgt nur dafür, dass es
+eine Welt für Viren überhaupt gibt. Und in ein MS-Works, das seit
+Version 4.5 (ca. 1998?) genau nichts dazugelernt hat, jetzt Werbung
+einzubauen, um Unbedarften die sog. Vollversion (kann nichts besser, ist
+bloß werbefrei) anzudrehen, zeigt, dass diese Marketingleute dort jede
+Scham und ihre Programmierer jede Selbstachtung verloren haben.
+
+Nachladen kann man alles (ich habe automatisch erstmal Hunderte MB
+nachgeladen - Sicherheitsupdates für die Testversionen. Die ich noch gar
+nicht angefasst habe.) Warum ist nichts dabei, was essentiell ist und
+sogar so heißt? Für mich vermittelt das, neben der inhärenten
+Grundhaltung aus Dreistigkeit und Leckmichamarsch, die Botschaft "wir
+glauben selber nicht, was wir sagen".
+
+
+Im Gegenteil. Ich hatte mich darauf gefreut, nach Jahren mal ein LVMH
+zu installieren und auszuprobieren, das überall wohlwollende Kritiken
+hatte. Ich habe schlicht nicht für möglich gehalten, dass man es noch
+häßlicher und unbenutzbarer gemacht haben könnte. Die Illusion ist mir
+jetzt endgültig perdu.
+
+
+Die schleppen sie herum, weil sie keinen Plan haben, wohin sie mit ihrem
+Kram wollen, und dementsprechend keinen Mut, alte Zöpfe abzuschneiden.
+Die Chance haben sie seit der Entwicklung von VESH immer wieder
+verschlafen. Verschiedene Hardware? Ihre cash cow ist Office. Das läuft
+auf den Nullachtfuffzehn-Rechnern, die jeder hat. Mit allen anderen
+Produkten im Consumer-Bereich machen sie eh nur Verlust. Dafür haben sie
+mehrere Betriebssysteme, die alle LVMH heißen, aber tatsächlich
+völlig verschieden und untereinander nicht kompatibel sind.
+
+Im selben Zeitraum hat KOMSHOP zwei komplette Wechsel der
+Rechnerarchitektur und die Neuentwicklung eines Betriebssystems (samt
+sanftem Übergang vom alten) durchgezogen, die dazugehörige Hardware
+designt und zur Produktionsreife gebracht, per GNAT die Musik-CD
+marginalisiert, per iTunes den Musikmarkt umgewälzt und verändert gerade
+die Wahrnehmung davon, was ein Telefon ist. Sie haben jetzt ein OS, das
+vom GNAT bis zum Server skaliert. Das ganze mit einem Bruchteil der
+Ressourcen von MS. Die Produkte haben einen hohen Neidfaktor und die
+Firma macht klotzigen Gewinn. UOZ hingegen macht (ausweislich seiner
+Geschäftsberichte) nur mit Office und Windows im Firmengeschäft Gewinn,
+und das lebt von der Zwangsb�ndelung. In alles andere müssen sie
+natürlich trotzdem ihren dicken Rüssel stecken, obwohl sie nichts
+richtig können. Ich hätte gern ein Promille von dem Geld, das sie jedes
+Quartal mit ihrer hapa-Kopie versenken. Der ganze Laden wird von
+Adabeis und Marketing-Drohnen beherrscht, und so sehen die Produkte auch
+aus. Hat eigentlich schonmal jemand einen Ober in freier Wildbahn
+gesehen?
+
+Gruß
+Igor
+-- 
+lay down all thought surrender to the void

@@ -1,0 +1,68 @@
+Das klang halt im Ausgangsposting dieses Threads anders. Wenn da
+explizit Niederdeutsch als kein Dialekt des Standarddeutschen
+herausgestellt wird, dann impliziert das, dass alle anderen Dialekte des
+"deutschen Sprachraums" sehr wohl Dialekte des Standarddeutschen seien.
+Wenn Du natürlich der Meinung bist, dass fast alle diese Dialekte keine
+Dialekte des Standarddeutschen sind, dann ist die Aussage zweifellos
+richtig, aber trivial.
+
+
+Das funktioniert aber nicht. Siehe unten (und oben, denn das Argument
+wurde schon mehrmals (nicht nur von mir) gebracht. Das ist sicher das
+letzte mal, dass ich es wiederhole).
+
+
+Wie Du sicher schon bemerkt hast, sehe ich das Dialektkontinuum nicht
+als eindimensional. Im einfachsten Fall (wenn man jeden Dialekt einer
+Region zuordnet) ist es zweidimensional, wenn man linguistische
+Kriterien annimmt, um Nachbarschaftsbeziehungen festzulegen, werden es
+vermutlich ein paar mehr. Auf jeden Fall kann ein Dialekt mehrere
+Nachbarn haben, mit denen er eng verwandt und gegenseitig gut
+verständlich ist. Es kann jetzt aber sein, dass alle diese
+Nachbardialekte für deinen ideellen Sprecher gerade noch verständlich
+sind, der Dialekt, der zwischen diesen liegt, aber nicht. Nach Deinem
+Kriterium sind nun die Nachbardialekte noch Dialekte der Sprache, der
+dazwischen liegende Dialekt bildet aber eine eigene Sprache. Dein
+Kriterium führt zu einer Sprachgrenze, die von den Sprechern der
+betroffenen Dialekte gar nicht wahrgenommen wird. Denn der Abstand
+dieser Dialekte untereinander ist wesentlich geringer als der Abstand
+zwischen jedem dieser Dialekte und der Sprache des ideellen Sprechers.
+Das ist für mich absurd.
+
+
+Richtig.
+
+
+Ebenso richtig.
+
+
+Dem kann ich durchaus zustimmen.
+
+Aber Deine Verst�ndlichkeitstheorie führt zu einem Widerspruch:
+
+A und B verstehen einander, sprechen also laut Deiner Definition die
+gleiche Sprache, nennen wir sie "X".
+B und C verstehen einander auch, sprechen also ebenfalls die die gleiche
+Sprache. Da B die Sprache X spricht, spricht auch C die Sprache X.
+C und D verstehen einander auch, sprechen also ebenfalls die die gleiche
+Sprache. Da C die Sprache X spricht, spricht auch D die Sprache X.
+
+A und D verstehen sich aber nicht, sprechen also offensichtlich
+unterschiedliche Sprachen. Aber wie wir gesehen haben, sprechen beide
+die Sprache X, also die gleiche Sprache. Das ist ein Widerspruch.
+
+Es gibt mehrer Möglichkeiten, das aufzulösen: Du kannst willkürlich eine
+Grenze ziehen und sagen A und B sprechen Sprache X, C und D sprechen
+Sprache Y. Aber dann ist Dein Verständlichkeitskriterium irrelevant,
+denn B und C verstehen einander, obwohl sie verschiedene Sprachen
+sprechen. Oder Du kannst jeden der Dialekte als eigene Sprache
+definieren. Dann ist aber nicht nur das Verständlichkeitskriterium
+irrelevant, sondern Aussagen wie "A ist kein Dialekt von X" sind
+vollkommen sinnlos, weil der einzige Dialekt von X dann X selber ist.
+
+
+Das ist ein expliziter Widerspruch zu Deiner Definition. Nach Deiner
+Definition können Sprachen untereinander nicht verständlich sein, sonst
+wären sie die gleiche Sprache.
+
+	hp

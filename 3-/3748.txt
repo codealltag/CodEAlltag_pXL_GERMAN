@@ -1,0 +1,13 @@
+Das korrekte Zeichen für Zoll, Sekunde ist AFAIK "double prime (″)",
+U+2033, das korrekte für Fuß, Minute ist "prime (′)", U+2032.
+
+Daß das doppelte obere Anführungszeichen dafür in Gebrauch ist,
+wie du meinst, Lothar, das glaub ich gerne. Aber andererseits 
+ist auch das Akzentzeichen für den Apostroph in Gebrauch, wenn 
+man den richtigen nicht verwenden mag/kann ;)
+
+/sascha
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Tom, "Rettet die Wale"

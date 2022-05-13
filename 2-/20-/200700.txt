@@ -1,0 +1,7 @@
+Kann es sein, dass pos am Anfang eins zu groß ist und daher der Loop gar 
+nicht losläuft? Ich habe zwei Jahrzehnte lang kein C mehr programmiert; 
+vermutlich würde es --pos statt pos-- tun.
+
+Was du jetzt mit dem Beispiel sagen willst, ist mir nicht klar.
+
+Herbert

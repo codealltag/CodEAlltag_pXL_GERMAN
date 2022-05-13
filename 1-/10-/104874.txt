@@ -1,0 +1,21 @@
+Viel einfacher:
+
+Uhrzeit ist kontextabhängig.
+
+"Der Zug fährt um 17.00" ist in Bezug auf den frühesten Zeitpunkt
+minutengenau, während ein Verspätung zig Minuten betragen kann.
+
+"Die Party beginnt um 5" heisst, dass man nicht vor 5.00 kommen soll.
+
+"Wir treffen uns vor dem XY-Laden um 5 für eine
+Dokumentenübergabe" ist minutengenau, während "Wir treffen uns im
+Park um 5 für ein langes Zusammensein" eine Ungefährzeit ist.
+
+Kino: "Der Film beginnt um 14.33" ist minutengenau, aber "der
+Film beginnt um 15 Uhr" kann auch etwas später beginnen. Wenn der
+Film am TV um 21h beginnt, ist es je nach Sender minutengenau
+oder etwas später - bei lausigen Sendern auch früher.
+
+Gruss
+
+Silvio

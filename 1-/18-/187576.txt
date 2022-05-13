@@ -1,0 +1,8 @@
+In OGUG auf jeden Fall. Das hat damals, als das neu war, die Leute 
+kräftig verwirrt, dass es mitten im Programm plötzlich mit BEGIN INTEGER 
+I; bladibla END weiter gehen konnte.
+
+Klaas hat das (wie später auch ADA) vermieden und ließ Deklarationen 
+nur bei Prozeduren _vor_ dem BEGIN zu.
+
+Tobias

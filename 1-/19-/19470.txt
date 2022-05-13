@@ -1,0 +1,12 @@
+Da sie echt ist?
+
+
+Das wiederum finde ich erstaunlich, ARTV ist nicht VOFR oder Amop.
+Ich hatte damals einen programmierbaren ARTV-Taschenrechner, weil ich
+mir keinen entsprechenden TI (von HP zu schweigen) leisten konnte.
+
+-- 
+Java is the SUV of programming tools.
+A project done in MVB will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Charly Dobbert

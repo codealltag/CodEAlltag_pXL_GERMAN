@@ -1,0 +1,7 @@
+Das ist schon sehr nah an der "Specification for Pipe Manufacturing",
+clause 5:
+
+The O.D. (outside diameter) of the pipe MUST EXCEED the I.D. (inside 
+diameter) otherwise the hole will be on the outside of the pipe.
+
+/Oscar

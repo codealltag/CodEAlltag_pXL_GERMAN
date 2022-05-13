@@ -1,0 +1,45 @@
+Vogelbestimmen geht so: Du hörst einen Vogel, vielleicht siehst
+du ihn zusätzlich, das muss aber nicht. Falls du ihn siehst
+ist er meist zu weit weg um ihn anhand des Augenscheins
+bestimmen zu können. Du hast jetzt folgende Parameter:
+-Wo der Vogel vorkommt, also Gelände (Sumpf, Wald, Wiese...)
+  und Gebiet (Südeuropa, Island...)
+-Wann er dort vorkommt. (steht im Kalender und auf der Uhr.)
+-Die ungefähre "Gestalt" des Gesangs
+-Falls du ihn gesehen hast, kannst du Grösse, Farbe und
+  Gestalt abschätzen.
+
+Jetzt machst du einen ersten Wurf zur Bestimmung mit Hilfe
+eines Vogelbuches. Dabei ergeben sich meist mehrere Arten als
+potentielle Kandidaten.
+Jetzt vergleichst du den Gesang, den du hörst mit dem
+geschriebenen Gesang aus dem Buch. Oft ist ein Begleittext
+zum Gesang gegeben, wo es dann heissen kann: (Beispiel
+erfunden) Beim "zizizizie��" wiederholt sich das zi etwa
+3 bis 5 mal, bei Erregung auch öfter (bis über 6 mal, dann
+aber mit ansteigender Tonhöhe.) Das zie am Ende ist langgezogen
+und kann bei Männchen der Unterart "suebica" in ein klagendes
+zi übergehen.
+
+Mit Glück kannst du so Arten ausscheiden bis am Ende nur noch
+eine übrig ist. Die ist es dann, wenn man nix falsch gemacht hat
+
+Versuch das mal mit Tonkonserven zu vermitteln
+
+Kandidaten, die man nahezu nur anhand des Gesangs auseinander
+halten kann sind Fitis und Zilpzalp. Sie sehen fast gleich aus,
+hören sich aber komplett anders an. Der
+Zilpzalp heisst so, wie er singt. (Dasselbe hast du bei
+Kuckuck, Kranich, Wiedehopf wobei letztere unverwechselbar sind)
+
+Gut, man könnte ein Vogelbuch scannen und auf den Laptop knallen
+und dazu den Gesang und den dann abhören. Ein Buch
+ist aber deutlich schneller und vor allem leiser.
+
+Die Beschreibung des Gesangs und auf welche Stelle man achten muss
+ist trotzdem bei vielen Arten unverzichtbar und erleichtert
+die Bestimmung ungemein. Ich wüsste nicht wie man das mit
+Schallaufzeichnungen vermitteln könnte.
+
+Gruss
+Ludger

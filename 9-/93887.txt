@@ -1,0 +1,18 @@
+Schon, aber da eben nicht. Es sind drei verschiedene Laute, die gemeint
+sind:
+
+ه ha, in verbundener Form ﮬ, z.B. in هاذا "dieser". Dieses /h/ wird
+immer als deutsches h gesprochen, auch wenn es mitten im Wort oder an
+dessen Ende steht (Ausnahme: wenn es am Wortende mit zwei Punkten steht,
+dann ist es Zeichen dafür, dass es ein weibliches Wort mit langem [a:]
+ist, das aber je nachdem auch als [at] gesprochen werden kann.
+
+خ cha, in der verbundenen Form خخ, z.B خمر "Wein". Dieses /h/ (in der
+Umschrift normalerweise h mit einem Bogen drunter (U+032E mit h) wird
+etwa wie in deutsch "Rachen" gesprochen.
+
+ح ha, wie vor, nur ohne Punkt, z.B. محمد "Hansjörg", wird deutlich
+"hechelnder" gesprochen.
+
+Gruß
+Domenico

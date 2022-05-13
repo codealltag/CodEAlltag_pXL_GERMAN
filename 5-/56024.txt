@@ -1,0 +1,5 @@
+Die drei weißen Wörter lauten "you are dumb".
+Die blauen lauten "repeating background" und sind extrem schwer zu
+lesen, weil die Spalten nicht an Buchstabengrenzen beginnen und enden.
+
+	hp

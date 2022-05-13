@@ -1,0 +1,142 @@
+* Erik Wolfgang <phaeazub28@jwpiz.ej>:
+
+Es gibt also Schweizer (Beat Wittrock), die aus ästhetischen Gründen
+� schreiben, und Deutsche, die aus ästhetischen Gründen ss schreiben.
+
+
+Wenn man kein � schreibt - warum sollte man sss anders behandeln als
+fff, lll, ppp, ttt (Stillleben, stilllegen, Schifffahrt, fetttriefend*,
+Sauerstoffflasche*, * auch vorreformatorisch).
+
+Wer Dreifachkonsonanten als unschön empfindet (ich gehöre nicht dazu)
+wird allerdings mehr leiden, wenn alle � durch ss ersetzt werden.
+Es ist nämlich so, dass die Anzahl der Wörter mit sss grösser ist
+als die mit allen anderen Dreifachkonsonanten zusammen. Nicht nur die
+Anzahl, sondern auch die Häufigkeit ist höher. Ich hab mal aus einer
+mir vorliegenden Wörterliste die mit Dreifachkonsonanten extrahiert
+und bei vgwxsnigny.pvy-qslmuak.rp die Häufigkeiten abgeholt (sss und s
+sind da separat aufgeführt):
+
+
+    12 Großstadt
+    12 Maßstab
+    12 Maßstab
+    12 Maßstäbe
+    13 Missstände
+    13 Schifffahrt
+    13 Schlussstrich
+    14 Schießstand
+    14 Stilllegung
+    15 Fitnessstudio
+    15 großspurig
+    15 Großstädter
+    15 Missstand
+    15 Mißstände
+    15 Schlußstrich
+    15 Stillleben
+    15 Stoßstange
+    16 Binnenschifffahrt
+    16 Fußspuren
+    16 Kreißsaal
+    16 Litfaßsäule
+    16 Missstimmung
+    16 Mißstand
+    16 Rollläden
+    16 stilllegen
+    16 Stoßseufzer
+    17 Balletttänzer
+    17 Balletttänzer
+    17 bloßstellen
+    17 Bloßstellung
+    17 Flusssäure
+    17 Großschreibung
+    17 Großsegel
+    17 Maßschneider
+    17 Messstelle
+    17 Mißstimmung
+    17 Nulllinie
+    17 Nussschale
+    17 schnelllebig
+    17 Stoßstangen
+    17 Süßstoff
+    17 Verschlusssache
+    18 Bassstimme
+    18 Betttuch
+    18 Brennnessel
+    18 Fitneßstudio
+    18 Fußspur
+    18 großstädtisch
+    18 Imbissstube
+    18 maßstabsgetreu
+    18 Nussschalen
+    18 Rollladen
+    18 Schießstände
+    18 schnelllebiger
+    18 Süßstoffe
+    18 Verschlußsache
+    19 Betriebsstilllegung
+    19 Dampfschifffahrt
+    19 Essstäbchen
+    19 Fresssucht
+    19 Großschrift
+    19 Großserienfertigung
+    19 Großspurigkeit
+    19 Handelsschifffahrt
+    19 Litfasssäule
+    19 Meßstelle
+    19 Nußschale
+    19 Sauerstoffflasche
+    19 Zolllager
+    20 Anschlussstück
+    20 Eßstäbchen
+    20 Flussschiffer
+    20 Flussschifffahrt
+    20 Flußschiffahrt
+    20 Flächenstilllegung
+    20 Freßsucht
+    20 Fußstützen
+    20 Imbissstuben
+    20 Kontrolllampe
+    20 maßstabsgerecht
+    20 maßstabsgerecht
+    20 maßstabsgerechte
+    20 maßstäblich
+    20 Messstab
+    20 Messstrecke
+    20 Meßstrecke
+    20 Nulllösung
+    20 Pressspan
+    20 Schießscheibe
+    21 Baßstimme
+    21 Bloßstellen
+    21 Dehnmessstreifen
+    21 Dehnungsmessstreifen
+    21 Fließschema
+    21 Flußschiffer
+    21 Fresssack
+    21 Fussschalter
+    21 Fußschalter
+    21 Fußstütze
+    21 Großspeicher
+    21 großsprecherisch
+    21 Großspurig
+    21 Großspurig
+    21 Großstädtisch
+    21 Haselnussstrauch
+    21 Haselnußstrauch
+    21 Imbißstuben
+    21 Kunststofffaser
+    21 Kunststofffaser
+    21 Massstab
+    21 Massstab
+    21 Metalllegierung
+    21 Nußschalen
+    21 Passstück
+    21 Schiessstand
+    21 Schlussstriche
+    21 Schweißstelle
+    21 Schweißstellen
+    21 Stilllegen
+    21 Stossstange
+
+ - Ingo

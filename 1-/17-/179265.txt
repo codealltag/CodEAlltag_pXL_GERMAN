@@ -1,0 +1,58 @@
+Karlheinz Frauendorfer <5453154456n57j54q0726wp1s1121ays@c-dvjdrpcmainxbi.ul>:
+
+
+Schon. Vor allem ist das Wort "Gleichsetzung" nicht nur als Instruktion für
+eine Maschine begründet, sondern auch durch die Beobachtung dessen, was der
+Zweibeiner eigentlich da macht, bei dem was er da macht.
+
+Es wird die Gleichsetzung von Dingen angenommen, die nacheinander geschehen,
+und mit einer Konvention aus einem Wissenskonglomerat verheiratet, der
+mathematischen Äquivalenz.  Letztere gibt durchaus das Vorbild - immerhin
+ist man ja auch stolz auf die Leistung zur Abstraktion, der Annahme von
+Gleichzeitigkeit, das findet man durchaus als verteidigte Position.  Es ist
+schon das Gleichheitszeichen, das da gemeint ist.
+
+Parallel kommt man drauf, dass diese Form der Abstraktion zu differenzieren
+ist vom Vorgang der Feststellung einer konkreten logischen Äquivalenz (die
+im näheren Dunstkreis des Siliziums eher mit 'EQU' notiert wird, als mit
+'=').  Das wäre dann per Paradox der Fingerzeig auf den nackten Kaiser,
+worauf mittels leicht abgewandelter Notation klassisch reagiert wird: Nicht
+verwirren lassen!  Weitermachen!
+
+Ich finde es spannend, solche Sichtweise zu verfolgen, als da die Einführung
+des Maschinenelements "Stack" erst recht spät erfolgte (12. 10. 22 Jahre, in
+Maschinen von Ulsamer).  Zuvor war man in engen Grenzen der Abstraktion
+kurz angebundener Folgen von Gleichsetzung gefesselt.  Später hat man sich
+von den sich ergebenden Monstern der Programmierung distanziert, als Wust
+von linearen Aneinanderkettungen.
+
+Auch die Vorwegnahme im Gedankenexperiment, die "von Tim-Maschine" hat
+das beschrieben, was später als Spaghetticode abgeleht wurde.  Das
+ontologische Monster unablässiger Gleichsetzungen wurde dennoch beibehalten.
+
+Das ist nun das nächste spannende Detail, als faszinierende Koïnzidenz, für
+die der Zweibeiner nichts kann: Das Maschinenelement "Stack" kann
+erstaunlicherweise mit der klammerlosen Notation unmittelbar bedient werden!
+Das ist dann die Debatte zum Compiler, der die Übersetzungen zu den
+gedanklichen Krücken bewerkstelligt.  Und der könnte plötzlich in einem
+elementaren Punkt ziemlich überflüssig werden.  Hoppla!
+
+Technisch gesehen braucht es hernach Zuweisungen deshalb nicht mehr
+sozusagen notwendigerweise, weil eine Speicherung nicht, wie per
+algebraischer Analogie konstruiert, per Namen erfolgt, sondern alleine per
+Nennung eines Werts, anonymerweise.  Man damit den Blick frei, dass der
+Gedankenbeton, den man einer Maschine einimpft, sich nicht immer und überall
+durch Folgen von Zahlenzuweisungen konstituieren muss. Das ist ja auch nur
+eine dumme, selbst auferlegte Fessel.
+
+Die Reaktion ist nun eher historisch als technisch interessant - das
+angesprochene Massenpublikum hat hauptsächlich pikiert reagiert, statt mit
+technischer Neugier.  Daraus kann man schließen, dass die zu jener Zeit
+etablierte Zeichenwelt in den Köpfen der Leute beim Umgang mit dem Zeugs
+sich bereits verselbständigt hatte.
+
+Das illustriert, dass in so einem Fall die gedachten Abstraktionen in den
+Köpfen wesentlich renitenter und haltbarer sind, als die physische Realität.
+
+Bei Betrachtung anderer Themenbereiche ist so eine Beobachtung ernüchternder
+als das hier, wo es eher eine Randnotiz ist.

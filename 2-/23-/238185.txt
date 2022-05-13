@@ -1,0 +1,43 @@
+Das ist jetzt eine philosophische Frage, aber das "nur" passt nicht zu dem,
+was ich sagen wollte. Wenn schon *nur* ein Wechsel zwischen schwacher/starker
+Deklination desselben Genus/Numerus/Kasus diesen Einfluss auf vorangegangene
+Flexionsformen auslösen kann, dann doch *erst recht* etwas viel
+Einschneidenderes wie das Hinzutreten von attributiven Hinzufügungen aller
+Art.  Beispiel aus dem Duden: "wegen meines Bruders neuem Auto"; hier
+allerdings nicht vorausschauend auf einen Genitiv, der erst noch kommt.
+
+
+Welches war doch gleich das Verb? Es ging zuerst um die Präposition "laut" und
+den folgenden Kasus dann in meinem Beispiel um das Demonstrativpronomen
+"jegliche-" und die Adjektivendung bei festliegendem Genus/Numerus/Kasus.
+
+Mein Beispiel sollte erstens zeigen, dass es Flexionsformen gibt, die sich
+nach den Details dessen richten, was erst noch kommt, dass also durchaus
+"gesehen" wird, was noch kommt, um deinen Ausdruck aufzugreifen. Zweitens hat
+es mit dem vorliegenden Fall insofern zu tun, als es sich beidemale um eine
+Dissimilation handelt: die Form, die noch folgen wird (einmal die Wahl des
+Kasus, das andere Mal die Deklinationsendung des gegebenen Kasus) wird weiter
+*vorne* schon vermieden, um die Wiederholung zu vermeiden.
+
+
+Das ist etwas anderes: da ist die *semantische* Beziehung des Verbs zu
+Subjekten und Objekten verschieden. Ein meinem Geschmack nach noch extremeres
+Beispiel dafür:
+
+  Ich fälle den Topf mit Wasser.
+  Ich fälle Wasser in den Topf.
+  Das Wasser fällt den Topf.
+  Der Topf fällt sich mit Wasser.
+
+
+Das gibts in mehreren Sprachen (Pieritz hat in "Language Universals ..." S.176
+ein türkisches Beispiel), dass es sozusagen einen Stau von Kasus gibt, die
+sich entweder gegenseitig verdrängen oder wo ein Kasus mehrfach kommt. In
+diesem Beispiel geht im Deutschen beides. So etwas tritt auch bei Kausativen
+auf ("ich lasse die Kinder ihren Eltern die Bilder zeigen") und auch den
+umgangssprachlichen Besitzdativ ("dem Vater sein Buch") kann man so deuten.
+Aber die Kasus in diesem Beispiel treten sich gegenseitig nicht so sehr auf
+die Füße, wenn einer zur Präposition gehört und der andere attributiv ist.
+
+-- 
+Joseph Michael

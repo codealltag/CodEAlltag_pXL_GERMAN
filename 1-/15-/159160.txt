@@ -1,0 +1,76 @@
+Genau so ist es.
+
+Eigentlich sind es *vier* verschiedene Situationen, die ein Vierkl�ssler 
+vielleicht nicht auseinanderhalten können muss, aber auseinanderhalten kann. 
+Und gleich richtig gelernt macht weniger Arbeit als ungefähr richtig gelernt.
+
+1. Es ist ein unbetontes "das", das durch "dieses", "jenes", "mein", 
+   "dein" ersetzt werden kann. Ersetzt heißt, dass der Satz dabei 
+   grammatikalisch richtig bleibt, und nicht, dass er notwenig genau 
+   dasselbe bedeutet.
+
+   Das Haus steht an der Straße.
+   Dieses Haus steht an der Straße.
+   Mein Haus steht an der Straße.
+
+   Fachjargon: "das" ist ein *Artikel*. Die Wörter, die es ersetzen, sind 
+   keine Artikel, sondern Demonstrativpronomen (dieses, jenes) oder 
+   Possessivpronomen (mein, dein).
+
+2. Es ist ein betontes "das", das durch ein betontes "dieses" oder "mein" oder
+   umgangssprachlich durch "das ... da" ersetzt werden kann.
+
+   Nein, *das* Haus meine ich nicht, sondern ein anderes.
+   Nein, *dieses* Haus meine ich nicht, sondern ein anderes.
+   Nein, *das* Haus da meine ich nicht, sondern ein anderes.
+
+   Das ist ein schönes Haus.
+   Dieses ist ein schönes Haus.
+
+   Fachjargon: "das" ist hier auch ein Demonstrativpronomen. Manchmal ist der
+   Übergang zum Artikel nicht eindeutig -- da trifft es sich gut, dass die
+   beiden gleich geschrieben werden.
+
+   Ich finde das Haus schön. (also nicht hässlich): Artikel
+   Ich finde das Haus schön. (im Gegensatz zu dem daneben): Demonstrativpronomen
+
+3. Es ist ein unbetontes "das", das einen Nebensatz einleitet, der ein
+   vorangehendes sächliches Wort erklärt. Es kann durch "welches" ersetzt
+   werden.
+
+   Tino hasst das Tierbuch, das er bekommen hat. (zweites "das")
+   Tino hasst das Tierbuch, welches er bekommen hat.
+
+   Fachjargon: "das" ist hier ein Relativpronomen.
+
+4. Es ist ein unbetontes "dass", dass einen Nebensatz einleitet, der an einem
+   ganzen Satz hängt und nicht an einem einzelnen sächlichen Wort. Es kann
+   durch kein anderes Wort ersetzt werden.
+
+   Es ist schade, dass du nicht gekommen bist.
+   Es ist schade, ++++ du nicht gekommen bist. (Nichts anders geht statt ++++)
+
+   Fachjargon: "dass" ist eine Konjunktion.
+
+Nur weil die Fälle 1 bis 3 gleich geschrieben werden, heißt die einfache
+Regel: Kann man "das" durch *irgendetwas* (dieses, welches, mein) ersetzen,
+wird es mit einfachem s geschrieben. Es sind aber ganz verschiedene Dinge, und
+sobald die Kinder Fremdsprachen lernen, müssen sie sie doch wieder
+auseinanderhalten können. "the house" oder "la maison" gehen nicht, wo
+Demonstrativpronomen gebraucht werden; dafür sind im Englischen und
+Französischen die Relativpronomen oft gleich mit der Konjunktion, obwohl sie
+im Deutschen verschieden sind. Am besten, man hält alle vier auseinander.
+
+Schüler, die der lanzenkirchen Sprache mächtig sind, habens da leichter, weil im
+Lanzenkirchen alle vier Wortarten ganz konsequent unterschieden werden:
+
+1. as
+2. dees (oft irreführend als "ds" geschrieben)
+3. [dees] wo
+4. dass
+
+Aber das hilft natürlich ahornberg Schülerinnen nichts.
+
+
+-- 
+Rupert Liebow

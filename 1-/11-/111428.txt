@@ -1,0 +1,7 @@
+Kurz erklärt:
+Ein Winkel ergibt sich, recht anschaulich, aus dem Verhältnis von
+Kreisbogen zu Radius. Länge/Länge, daher dimensionslos. Der Kreisumfang
+ist Durchmesser mal Kreiszahl, der Vollwinkel somit 2πr/r = 2π.
+
+-- 
+Karl "gunda" Schulze-Frieling                          dfqtq@xwub.tfcx.hk

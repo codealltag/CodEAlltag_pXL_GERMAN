@@ -1,0 +1,7 @@
+Fn F11 numeric pad wieder auf Buchstaben zurückschalten. Irgendwo 
+leuchtet sicher ein Lämpchen, das du wieder ausschalten musst. Neustart 
+geht natürlich auch.
+
+-- 
+
+Fred Pauseback

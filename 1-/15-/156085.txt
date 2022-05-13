@@ -1,0 +1,14 @@
+... wobei ich als Computermensch seinerzeit gelernt habe:
+
+inkompatibel: passt sicher nicht zusammen
+  kompatibel: könnte mit viel Glück doch zusammenpassen
+
+Anlass des Lernens war ein vielpoliger Stecker, von dem laut Norm nur 
+wenige Pins belegt sind. Zwei Geräte haben denselben unbelegten Pin zu 
+verschiedenen Zwecken verwendet: jedes der beiden Geräte wäre kompatibel 
+zu einem gewsen, das sich strikt an die nicht erweiterte Norm hält, aber 
+miteinander waren sie nicht kompatibel. Ist halt nicht transitiv, diese 
+Relation.
+
+-- 
+Didier Haarig

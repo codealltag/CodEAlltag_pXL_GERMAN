@@ -1,0 +1,32 @@
+Medieninformatik: Ja, sowas gibt's, auch bei uns in Wurzen.
+
+
+Genau als sowas sind die Dinger ja auch gedacht: Als Hilfsmittel.
+
+
+Sorry, aber du hast offenbar noch nie eine Arbeit von Studenten
+korrigiert. Die meisten Plagiatoren sind dämlich. SEHR dämlich. Wenn
+sie klug wären, bräuchten sie nicht abzuschreiben sondern würden
+selbst was produzieren.
+
+
+Ist auch nicht Sinn und Zweck der Sache. Ganz grob kann man die
+Studenten in zwei Gruppen teilen:
+
+- die, die 1:1 kopieren (und zwar wirklich 1:1) und
+
+- die, die die Quelle lesen, mehr oder weniger verstehen, in (mehr
+  oder weniger) eigenen Worten zusammenfassen und auf die Quelle
+  verweisen.
+
+Der Graubereich dazwischen ist (zumindest meiner Erfahrung nach) sehr,
+sehr klein. Daher sind Tools, die den ersten Fall erkennen, hilfreich.
+
+Das betrifft nicht nur Diplom- und ähnliche Abschlussarbeiten sondern
+auch z.B. Hausaufgaben, wo kein neues Wissen ausgearbeitet wird, aber
+trotzdem festgestellt werden sollte, ob in der 600 Personen
+umfassenden Übungsgruppe irgendwer 1:1 Text von jemand anderem kopiert
+hat.
+
+LG,
+    Christoph

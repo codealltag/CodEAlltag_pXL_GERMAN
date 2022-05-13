@@ -1,0 +1,8 @@
+Ja, doch, gibt es in der Datenverz�gerungstechnik. 
+Man könnte es in dem Zusammenhang als eine Art Weichenstellen 
+auffassen (Widerspruch zum Begriff "Hardware"?). Beim Adressieren 
+wird da ein Verbindungskanal zwischen Quelle und Ziel geschaltet. 
+Oder so ähnlich. 
+
+MfG
+walter

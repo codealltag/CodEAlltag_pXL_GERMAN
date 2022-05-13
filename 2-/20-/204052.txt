@@ -1,0 +1,20 @@
+Gar nicht. Das ist ein Flüchtigkeitsfehler.
+
+
+Er hat seine Ursache in dem alten Problem, daß man leicht ein Komma
+für angezeigt hält, wenn ein erweiterter Infinitiv in Frontstellung
+steht, jedoch dort nur das Subjekt ersetzt:
+"Das Zitatzeichen so zu setzen weigert sich mein NR."
+
+Nur in umgekehrter Reihenfolge ist ein Komma angezeigt, weil dann ein
+HS bereits vollständig besteht und der Infinitiv, der zuvor als
+Subjekt diente, zum erweiterten Infinitiv werden darf :
+"Mein NR weigert sich, das Zitatzeichen so zu setzen."
+
+Nur der Einsatz etwa eines Adverbs, um die Verbzweitstellung im HS zu
+gewährleisten, erzwänge ein Komma:
+"Das Zitatzeichen so zu setzen weigert sich mein NR:"
+"Das Zitatzeichen so zu setzen, da weigert sich mein NR."
+
+Gruß
+Georgette

@@ -1,0 +1,30 @@
+Alle Polynome 10. Grades (sollte hier nicht 8. Grades genügen?) haben allerdings
+das Problem, das sie erst durch die Angabe der "gesuchten" Ziffer eindeutig
+werden.
+
+f(n) = 2*n ist schon vorher eindeutig. Insofern könnte man der Beliebigkeit
+ein wenig Einhalt gebieten, indem man bei 8 angegebenen Zahlen "L�sungspolynome"
+auf den 7. Grad beschränkt. Noch besser auf den 6. Grad, dann muß man 
+für nicht polynomische Reihen die "kreative" Lösung finden.
+
+Wobei natürlich niemand den Ingenkamp dieser Welt kreative Begründungen für
+beliebige Zahlen verweigern will (unkonventionelles Denken soll ja durchaus
+mit hohem IQ korrelieren), aber "Ich hab' mir das so gedacht, basta" ist
+als Begründung unzureichend (und das nicht einzusehen korreliert möglicherweise
+mit niedrigem IQ).
+
+
+Die Fähigkeit, einfache Muster zu erkennen, wird offenbar als sinnvolles 
+Maß für die Intelligenz eines Menschen angenommen. Ob das so ist, kann ich
+nicht beurteilen. Das Wissen um die Möglichkeiten mit Polynomen ist
+aber meiner Meinung nach noch weniger ein Kennzeichen von Intelligenz,
+das kann man lernen. 
+
+Aber Intelligenz zu messen ist halt nicht trivial. 
+
+
+Wenn ich mich nicht irre, ist durch n Zahlen ein Polynom (n-1)ten Grades
+eindeutig definiert, Polynome n-ten Grades lassen sich beliebig viele finden.
+
+Gruß
+Etienne

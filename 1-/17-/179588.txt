@@ -1,0 +1,12 @@
+Klar, die Situation in einer Fahrschule ist schon ziemlich komplex.
+
+Tatsächlich gibt aber jede Autoproduzent die Beschleunigung in Einheiten 
+s pro 0-100km/h  und  die Elastizitit�t im 4. Gang in  s pro 80-120km/h 
+an. Erwägungen grundsätzlicher Art interessieren da eher weniger. 
+Fahrlehrer halten Einheiten wie m/s^2 auch nicht für vermittelbar, da 
+heute die F�hrerscheinvergabe nicht mehr an ein Vordiplom Physik oder 
+Maschinenbau gebunden ist.
+
+-- 
+
+Dominik Unterseer

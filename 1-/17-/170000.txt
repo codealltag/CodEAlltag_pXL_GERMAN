@@ -1,0 +1,8 @@
+Man koennte noch das Hilfskomma einfuehren, um den
+Plural zu verdeutlichen: Kompass / Kompass,se.
+Oder: Komma / Komma,se
+Auch: Haus / Haus,se
+Genauso: Strasse,se
+
+Sprache muss immer weiterentwickelt werden.
+J.F.

@@ -1,0 +1,14 @@
+Nein.
+
+$ xe -OePnGhIwTjUmCpEzFPrToWhBaKgVmJqUaYxQcBbRqVpJn
+
+ist offenbar ein gültiger Aufruf, auch wenn ich mit der Ausgabe nicht
+wirklich was anfangen kann.
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+   --  Martin Hosmanns

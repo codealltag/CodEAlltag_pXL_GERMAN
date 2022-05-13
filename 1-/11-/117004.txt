@@ -1,0 +1,20 @@
+Ich zitiere:
+
+
+Hätte er gesagt, dass er den Dongle entfernt hat, wäre er selbst schuld 
+gewesen, aber so hat er keinen Zusammenhang zwischen der 
+Druckerportverl�ngerung und dem Wort "Dongle" gesehen. Dabei ist dieser 
+Kunde noch ungewöhnlich umsichtig. Der Durchschnitts-Hotlinekunde sagt 
+sich "mit dem Drucker kanns ja nichts zu tun haben" und sagt am Telefon, 
+er habe rein gar nichts verändert, es gehe nur plötzlich nichts mehr.
+
+Ich bleibe dabei: interner Jargon der Softwarehersteller hat in 
+Benutzeranleitungen nichts verloren. Was dabei "intern" ist, ist von 
+Anwendung zu Anwendung sehr verschieden und natürlich erst recht von 
+Benutzer zu Benutzer. Komponenten, die nur dazu dienen, dass der 
+SW-Hersteller sein Geld kriegt, interessieren den Benutzer überhaupt 
+nicht: *er* hat ja bezahlt, und ob die anderen Benutzer auch bezahlen, 
+betrachtet er nicht als sein Problem. Aber er hat Aufwand damit.
+
+-- 
+Edgar Zschenker

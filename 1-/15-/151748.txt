@@ -1,0 +1,25 @@
+* Wanda Niekerken:
+
+
+Einstmals, in einem fernen Land? Oder sollte das ein Konjunktiv sein
+(ich kürzte diesen Satz, wenn ich wüßte, wie)?
+
+Du meinst wahrscheinlich, daß Du ihn auf das Wesentliche gekürzt hast.
+Die Aussage überrascht allerdings, weil er so umständlich erscheint. "Es
+wurden Maßnahmen ergriffen welche sicherstellen, dass ..." ist
+schwerfällig und fast inhaltsleer.
+
+  Es wurden Maßnahmen ergriffen, welche sicherstellen, dass nur bei
+  gehäuften Auftreten dieser Unregelmäßigkeiten diese Fehler gemeldet
+  werden.
+
+Ich vermute mal, das heißt sowas wie:
+
+  Solche Fehler werden jetzt nur noch bei gehäuftem Auftreten gemeldet.
+
+Ich muß David teilweise recht geben: die Kommas sind bei Deinen Sätzen
+das geringste Problem.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

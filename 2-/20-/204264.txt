@@ -1,0 +1,9 @@
+Oscar Eccarius tat kund:
+
+
+Wie das denn? Wenn man - passend zur Anatomie -
+Jungs mit 1 und Mädchen mit 0 bezeichnet,
+ist die einzige von allen 2^7 =3D 128 möglichen
+siebenziffrigen 1/0-Kombinationen mit lauter
+Jungs 1111111. Eine von 128, Wahrscheinlichkeit
+1/128.

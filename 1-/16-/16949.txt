@@ -1,0 +1,20 @@
+Die Diskussion dreht sich im Kreis. Das Problem liegt darin begründet, 
+daß manche Wörter aus zwei
+semantischen Komponenten bestehen. Bspw.:
+
+"hoch" = [weit-ausgedehnt] + [nach oben]
+"tief" = [weit-ausgedehnt] + [nach unten]
+"niedrig" = [unweit-ausgedehnt] + [nach oben]
+"flach" (Gewässer) = [unweit-ausgedehnt] + [nach unten]
+... so auch bei ...
+"steil" = [abschüssig] + [nach oben] oder [nach unten]
+"flach" (Gefälle) = [nicht-abschüssig] + [nach oben] oder [nach unten]
+
+Man kann sich nun darüber streiten, welche Komponente umzukehren ist, um 
+ein Antonym zu erzeugen. In diesem Beispiel entweder die 
+Richtungsangabe. Das ergäbe hier m.E. eine Konverse (wie Vater - 
+Mutter). Oder aber die Angabe der  Ausdehnung bzw. des Ausmaßes. Das 
+ergäbe hier m.E. einen Kontrast / Graduation / Negation (wie hei - 
+kalt). Ich sehe kein Prinzip, was Negation oder Konverse den Vorzug 
+gibt. Mal verstehen wir sprachpraktisch die Negation als Antonym (steil 
+- flach), mal ist es die Konverse (links - rechts). Gruß, Henrik

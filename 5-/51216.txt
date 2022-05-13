@@ -1,0 +1,9 @@
+Die oben im Zitat erwähnten ("E vor e", "e vor �")? Sicher nicht, bei
+bequemen Informatikern kommt heraus: "E vor a", "� nach z". Moderne
+Kollationsverfahren mit bis zu vier Hierarchiestufen bestimmt nicht. Da
+die oft nicht eingesetzt werden, das liegt an der Bequemlichkeit, aber
+auch am geringen Leidensdruck der meisten Benutzer, die eben keine
+Bibliothekare oder ähnliche Feingeister sind.
+
+-- 
+"Bother", said the Borg, as they assimilated Pooh.

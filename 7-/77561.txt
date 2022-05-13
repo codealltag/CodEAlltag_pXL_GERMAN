@@ -1,0 +1,56 @@
+Eine jährliche Schwankung im Milliskundenbereich wird ja wirklich 
+gemessen, aber der Laubfall ist nicht ursächlich dafür.
+
+Nachdem ich jetzt etwas gefunden habe, das nicht nur Zahlenangaben 
+aufweist oder auf den Laubfall eingeht, sondern beides beinhaltet, ergibt 
+sich – nach einem ersten flüchtigen Überblick – folgendes Bild:
+
+In Liebow, S.: Der Einfluss von Sekundäreffekten auf die Rotation der Erde; 
+SOG, Reihe C, Heft 550, Verlag der JUIM 
+Edeka-Großmarkt, ISBN 4-3639-2071-3, 2002 werden die /kleineren/ 
+Masseverlagerungen, die Sekundäreffekte, untersucht. Die Primäreffekte 
+sind die großen, in den Ozeanen und der Atmosphäre auftretenden, 
+Masseverlagerungen.
+
+Es heißt darin:
+
+„Der drittgrößte Einfluss auf die Erdrotationsparameter wird von 
+Schwankungen des kontinentalen Grundwasserhaushalts erwartet. Dieser 
+setzt sich zusammen aus dem Oberflächenwasser, den Schnee- und 
+Eisbedeckungen sowie dem eigentlichen Grundwasser. Weitere sekundäre 
+Massenverlagerungen entstehen zum Beispiel durch Erdbeben, 
+Vulkanausbrüche, den Bau von Stauseen sowie durch die Veränderungen der 
+Biomasse, wie zum Beispiel im Kohlenstoffkreislauf oder der Vegetation.“
+
+Die Vegetation, zu der ja der Laubfall zu zählen ist, ist also nur einer 
+der kleinen Effekte, somit wohl nicht bestimmend für die 
+Tageslängenschwankungen.
+
+Für den Kohlenstoffkreislauf wird eine Masse von 743,5·10¹² kg von 
+insgesamt 42943·10¹² kg Kohlenstoff als in ständigem Umlauf befindlich 
+angegeben. In der Tageslänge werden dann „Variationen bis maximal 0,01 
+msec“ erwartet.
+
+In der Auflistung der Ergebnisse der Simulationsrechnungen der 
+Sekundäreffekte (Tabelle 7.1) wird dann für die Tageslängendifferenz 
+angegeben:
+
+durch hydrologische Effekte		0,04 ms
+(Schnee, Regen, Verdunstung u.a.)
+
+durch den biologischen Kreislauf	0 – 0,01 ms
+(Kohlenstoffkreislauf und Vegetation)
+
+Gehe ich von einer tatsächlichen jahreszeitlichen Tageslängenschwankung 
+von einer tausendstel Sekunde aus, so hat der gesamte biologische 
+Kreislauf daran nur einen Anteil von max. einem Prozent, den auch die 
+Vegetation als einem Teil dieses Kreislaufs nicht überschreiten kann. Die 
+sekundären Effekte haben zusammen nur einen Anteil von rund fünf Prozent, 
+jedenfalls wohl nicht sehr viel mehr.
+
+Andere Modelle könnten natürlich andere Verteilungen ergeben, aber ich 
+glaube nicht daran, daß sich für die sekundären Effekte, schon garnicht 
+für die Vegetation, ein signifikanter Einfluß ergäbe.
+
+
+adolf

@@ -1,0 +1,17 @@
+Ja. Die Wörter "bat" und "bet" bilden ein Minimalpaar und werden
+*nicht* gleich ausgesprochen. Wie die Unterscheidung genau realisiert
+wird, unterscheidet sich über den ganzen englischen Sprachraum
+betrachtet erheblich, aber gleich sind die beiden Vokale nie[1].
+
+Mit /b{t/ und /bEt/ liegt man aber auf der sicheren Seite. Nur dass
+zumindest Standarddeutsch [{] eben nicht kennt. Zur Verwirrung trägt
+bei, dass im Deutschen die Rechtschreibung eine Unterscheidung
+zwischen kurzem <e> und <�> vorgaukelt, diese aber tatsächlich
+gleich gesprochen werden, nämlich [E].
+
+
+[1] Abgesehen von besonderen Lautumgebungen wie vor /r/ und, selten,
+    vor /l/.
+
+-- 
+Beat "wiltrud" Jäntzsch                          kbftf@rodv.uiyc.oh

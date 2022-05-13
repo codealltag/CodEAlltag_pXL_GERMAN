@@ -1,0 +1,21 @@
+Zuerst muss man zwischen Entscheidungsfragen (closed interrogatives)
+und Ergänzungsfragen (open interrogatives) unterscheiden.
+
+Subjekt-Verb-Inversion tritt auf bei
+- Entscheidungsfragen:
+    Did we win the World Championship in 1975?
+- Ergänzungsfragen, wo das Fragewort an erster Stelle steht und
+  nicht das Subjekt vertritt:
+    What did we win in 1975?
+    When did we win the World Championship?
+
+Inversion tritt dagegen nicht auf bei
+- Ergänzungsfragen, wo das Fragewort das Subjekt vertritt:
+    Who won the World Championship in 1975?
+- Ergänzungsfragen, wo das Fragewort nicht an die erste Stelle
+  vorgezogen wird:
+    We won the World Championship when?
+    We won what?
+
+-- 
+Rainer "gaby" Usler                          rwnny@wata.wxtc.ur

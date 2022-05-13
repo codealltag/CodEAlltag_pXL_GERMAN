@@ -1,0 +1,10 @@
+Isa Schaubert tat kund:
+
+
+Nicht ganz. Ich hatte nicht an die NRS gedacht.
+In der gibt es das Wort "daß" nicht mehr, und
+nichtexistierende Wörter findet das Programm
+bestimmt. Der Satz ist schlecht gewählt,
+womöglich mit Absicht. Denn bei "Dass war falsch"
+würde es für das Programm schon schwieriger,
+aber das steht da ja auch nicht.

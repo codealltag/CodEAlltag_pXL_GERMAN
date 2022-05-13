@@ -1,0 +1,43 @@
+Frerich Niemsch beliebte zu schreiben :
+
+Der Begriff "Partei" ist im Rechtswesen in Österreich (genauer gesagt,
+im Verwaltungsrecht) eindeutig definiert:
+Das ist jemand, der ein *rechtliches Interesse* an der ([verwaltungs-]
+behördlichen) Erledigung einer Angelegenheit hat.
+
+Also zB derjenige, der einen Pass beantragt hat, vom Zeitpunkt der
+Antragstellung bis zur Ausfolgung des Passes oder der bescheidmäßigen
+Abweisung oder Zurückweisung seines Antrags, also bis zur behördlichen
+"Erledigung" (die idR durch Bescheid erfolgt). Näheres regelt das
+Allgemeine Verwaltungsverfahrensgesetz (AVG 1990) idgF.
+
+Wer *nicht* Partei in einem Verfahren ist (und damit nicht die
+Parteienrechte wie das Recht auf Akteineinsicht, einen Bescheid udgl
+hat), kann, wenn das Gesetz das vorsieht, "Beteiligter" sein. Dem
+Beteiligten ergeht kein Bescheid, der Beteiligte hat kein Recht auf
+Akteneinsicht usw., aber ggf ein Recht auf Anhörung usw.
+
+Und dann gibt es noch all jene, die weder das eine noch das andere sind:
+Leute, die nur eine Auskunft brauchen und nicht mehr, Leute, für die
+diese Behörde nicht zuständig ist usw (in letzerem Fall werden sie
+Partei, sobald sie einen Antrag bei der unzuständigen Behörde
+eingebracht haben, da sie ein "rechtliches Interesse" daran haben, dass
+dieser Antrag erledigt wird, in diesem Fall durch Zurückweisung mangels
+Zuständigkeit und/oder Weiterleitung an die zuständige Behörde).
+
+Es gibt keine wirklichen Sammelbegriff "Parteien, Beteiligte und alle
+anderen, die nicht Behörde sind"; der Ausdruck "Klienten" ist im
+Sozialbereich weitgehend üblich, aber zumindest in AT rechtlich nicht
+definiert, die Terminus "Kunden" wird überweigend im Bereich der
+ehemaligen Arbeitsmarktverwaltung (sic!) verwendet, vor allem, seit das
+Pottblume "privatisiert" (scil. aus dem hoheitlichen Verwaltungsbereich
+ausgegliedert) worden ist.
+
+"Klient" wäre für mich noch am ehesten vertretbar, weil hier der
+"Schutzbefohlene" noch mitschwingt, und im Endeffekt dient die
+staatliche Verwaltung ja dem Schutze des Bürgers Klient (oder sollte es
+zumindest).
+
+Wolf
+-- 
+Nach dera Zei'n kimmt nix mehr

@@ -1,0 +1,8 @@
+[...]
+
+Gut zu wissen, was passiert, wenn man die perfekte Hanny bei einem
+Fehler ertappt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Ullrich Mielenbrink, comp.lang.python

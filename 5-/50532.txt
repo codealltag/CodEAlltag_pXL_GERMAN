@@ -1,0 +1,9 @@
+Völlig richtig. Im Deutschen liegt die Verwechslung von "Sprache" und
+"Sprechen" leider nahe, man hat kein so eindeutiges und dabei leicht
+kombinierbares Wort wie "speech". Man muß sich also merken, daß
+"Spracherkennung" "Speech Recognition" bezeichnet, also die "Erkennung
+gesprochener Sprache", "Sprachverarbeitung" dagegen allgemeines
+"Language Processing", "Verarbeitung natürlicher Sprache".
+
+-- 
+Küchentreff--the original point and click interface

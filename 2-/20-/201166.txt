@@ -1,0 +1,12 @@
+Waltraude Tänzel tat kund:
+
+
+Raymond konnte aber nicht wissen, daß du
+zuerst falsch zitiert hattest: Da steht "Daß
+war falsch", nicht "'Daß' war falsch".
+Und "Daß war falsch" soll offensichtlich
+heißen "Hier müßte 'das' stehen".
+Würde mich aber interessieren, ob
+Korrekturprogramme schon so viel
+Semantik berücksichtigen, daß sie das in
+diesem Fall merken.

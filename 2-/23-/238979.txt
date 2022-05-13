@@ -1,0 +1,5 @@
+Auch hochinteressant:
+
+Wenn man 266 mit Pi multipliziert und die Binärdarstellung der
+Quersumme des abgerundeten Ergebnisses rückwärts liest, erhält man 1
+(für den ersten Alexander). Zufall?

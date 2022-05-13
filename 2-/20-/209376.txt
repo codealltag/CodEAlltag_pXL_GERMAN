@@ -1,0 +1,20 @@
+Sprachlich scheint mir der Singular auch korrekt zu sein.
+Im mathematischen Umfeld hingegen beinhaltet ODER aber auch die
+Möglichkeit, das beides eintritt.
+
+"Kommen deine Mutter oder dein Vater"
+ kann also auch bedeutet
+"Kommen deine Mutter oder dein Vater oder beide"      (inklusives
+ODER, IOR)
+und nicht nur
+"Kommen entweder deine Mutter oder dein Vater"        (exklusives
+ODER, XOR)
+
+Mein Lieblingsbeispiel für die Verwendung von ODER ist immer:
+"Gehen wir ins Freibad oder ins Kino"
+Kann ja sein, dass wir nachmittags in Freibad gehen und abends noch
+ins Kino.
+
+Verstehen tun diese Spitzfindigkeit die Wenigsten :-)
+
+Gruß Folkert

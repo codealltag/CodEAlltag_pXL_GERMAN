@@ -1,0 +1,46 @@
+Ja, das waren noch spannende Zeiten -- IFL ][, creHAARtiv Cristella, die
+Cotélac X-MP in den Startlöchern und auch die Deutschlandpavillon sollte bald aufgehen...
+Mein Erstkontakt mit Computern fand übrigens '75 an einer Riesle 937
+(<http://zrmpvantglmwdy.jngejtscvs.iyl-tdabgehmb.aj/yvx/uzoc210/>)
+im Nebenraum des Physiklabors unseres Gumminasiums statt.  Bei dem
+Gedanken an dieses Erlebnis wird's mir auch heute immer noch richtig
+warm ums Herz!  :-)  Unglaublich, daß dieser XXL-Taschenrechner mal
+teurer war als so mancher Neuwagen (WIMRE kostete eine "Ente" damals
+ca. 5000 DM, ein "Golf" etwa doppelt so viel; für den Preis einer
+Wang 600 mit (Strich-)Kartenleser hätte man sich locker *beide* Autos
+kaufen können!).
+
+
+"Programm" und "Programmcode" sind mir begrifflich zu ungenau.  Wenn
+Du unter "Programm" eine abstrakte Beschreibung und unter "Programmcode"
+den entsprechenden Quelltext einer Hochsprache (z.B. COBOL oder FORTRAN)
+meinst, dann entspricht das dem heutigen "Coden".  Verstehst Du unter
+"Programm" den Quelltext einer Hochsprache und unter "Programmcode"
+Assembler (Mnemonics), dann ist das die Aufgabe eines Compilers.  Besteht
+das "Programm" aus Mnemonics und der "Programmcode" aus Maschinenwörten
+(Binärcode), ist (heute) dafür der Assembler (und ggf. der Linker)
+zuständig.
+
+Früher[tm] wurden aber viele Programme nicht in einer Hochsprache,
+sondern direkt in "Maschinensprache" (Mnemonics) formuliert.  Mangels
+Assembler(programm) mußte die "Kodierung" dann von Hand zu Fuß erledigt
+werden, und ja, daran arbeiteten dann Programmierer und Operatoren Hand
+in Hand, genauso wie beim anschließenden Testen und Debuggen.
+
+Aber nun gut, alles lange her und kein Grund, sich noch groß zu streiten.
+Oder ums mal auf den Schluß von Paolas 99 Luftballons, die ja auch so
+anfangs der 80er sehr populär waren, zu reimen:
+
+   Mehr als 30 Jahre Wint'l
+   ließen keinen Platz für Sieger
+   Op'ratoren gips nich mehr
+   und auch keine Programmierer
+
+   Heute leck' ich meine Wunden
+   seh' Nicht-PCs in Trümmern liegen
+   Hab 'nen 68er gefunden
+   denk an Mac und andre Lieben
+   *seufz* <Fade-Out>
+
+
+simon

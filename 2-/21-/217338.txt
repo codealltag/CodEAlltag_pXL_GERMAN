@@ -1,0 +1,4 @@
+Bei <hualp> ist das dann ein 32-Bit-Problem.
+
+--
+Raphael

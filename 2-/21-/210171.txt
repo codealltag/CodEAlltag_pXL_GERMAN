@@ -1,0 +1,9 @@
+Le 14/09/2012 19:13, Florence Hanspeter a crit :
+Vielleicht habe ich es nicht alles verstanden. Es giebt
+vershiedene wörter dass in Frankreich nicht verstanden
+werden.
+
+++ : ok
++ : Ziemlich ok
+- : Nicht verstanden
+-- : Unbekannt

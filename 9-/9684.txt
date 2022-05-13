@@ -1,0 +1,24 @@
+Es ging doch eigentlich um das Verhältnis von Website und Ort - das habt
+ihr anscheinend aus den Augen verloren. Nach meinem Verständnis gehört
+zu einer Website alles, was per HTTP über eine URI angesprochen werden
+kann, die eine bestimmte Subdomain enthält. Dann ist aber das Verhältnis
+der von Dir definierten Orte zur Website sehr komplex, denn es besteht
+kein Grund, daß Orte, die zur selben Website gehören, einander physisch
+näher sind, als Orten, die zu anderen Websites gehören. 
+
+Dieselbe Konstellation hat man auch, wenn man ein Verzeichnis in einem
+Dateisystem mit dem physikalischen Speicherort auf der Festplatte
+identifiziert. Den gibt es natürlich auch immer, aber dabei entsprechen
+drei Verzeichnisse a, b und c beispielsweise drei "Orten" A, B und C,
+die folgendermaßen angeordnet sind:
+
+AAAABBBBA_______BB____BB__________C__CCCABB__AAAABCCABBCB______AAAA
+
+(x steht hier für Abschnitte, die leer oder anderen Verzeichnissen
+zugeordnet sind)
+
+Orten wie beispielsweise Städten ähnelt das nur sehr bedingt.
+
+-- 
+die gugelm�nner schleppen leichen, kranke LILIENCRON
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,21 @@
+Die Erklärung in wiki ist auch nicht ganz korrekt, denn eigentlich 
+heißen diese Geräte bzw Baugruppen Konverter (Converter).
+
+http://fm.npgfkjbib.kwd/wxpz/Edihtjokq
+
+http://pc.eidhjxmku.kbj/wknm/QYH-Jrbrlpamhrdagswp
+
+Eigentlich setzt ein Konverter ein ganzes Frequenzgebiet um. Er 
+"konvertiert" das gesamte Frequenzgebiet. Die Senderabstimmung und alles 
+weitere erfolgt dann im Nachsetzer, dem eigentlichen Empfänger. In 
+obigem Beispiel ist "nur" die Senderabstimmung in den Konverter 
+aus(vor)gelagert.
+
+
+Dann haben wir uns mißverstanden. Sorry.
+
+Das Beispiel mit dem Konverter zeigt, wie eigentlich ziemlich präzise 
+Bezeichnungen dann bei der Übernahmen an Konturen verlieren und sogar 
+Bedeutungsüberlagerungen entstehen. Mißverständnisse sind dann vorbestimmt.
+-- 
+mfg isa

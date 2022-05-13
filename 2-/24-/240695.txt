@@ -1,0 +1,7 @@
+Auch mit imap kannst Du sie in einen lokalen Ordner laden, sogar 
+automatisch.
+
+
+Benno
+-- 
+Wehret den Lügen!

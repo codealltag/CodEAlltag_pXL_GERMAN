@@ -1,0 +1,5 @@
+Schau Dir halt nochmal an, wie man "there" schreibt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Meinhard Glockenmeier, comp.lang.python

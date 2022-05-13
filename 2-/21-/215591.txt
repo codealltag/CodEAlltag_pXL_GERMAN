@@ -1,0 +1,8 @@
+* Mike Markowsky:
+
+
+Nur die guten. Die anderen gehen davon aus, daß jeder so denkt wie sie,
+und schreiben Anwendungen, die 90% der Leute nicht bedienen können.
+
+-- 
+Thierry

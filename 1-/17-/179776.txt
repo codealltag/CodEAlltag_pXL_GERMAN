@@ -1,0 +1,16 @@
+* Dina Faisst <UgfhnsehKzzakdp@mvw.eum>:
+
+
+Jaaa, HP 9100. Sowas hatten wir in der Schule, ca. 1971; jetzt steht er
+da in einer Vitrine. Müsste mal nachfragen, ob man ihn in Betreib
+nehmen könnte; das zuletzt verwendete Programm ist sehr wahrscheinlich
+noch im Ferritringmemory drin. Röhrenbildschirm mit drei Zeilen
+Zahlen in Siebensegmentdarstellung - die x-, y- und z-Register der UPN.
+
+Da nur einer für die ganze Schule da war, programmierte man offline,
+auf Karten. Sahen aus wie Lochkarten, nur waren da, wo bei einer
+Lochkarte Löcher sind, rechteckige Kästchen. Für "1" musste man das
+entsprechende Feld mit einem weichen Bleistift ausfüllen. Echtes
+binäres Programmieren.
+
+ - Gérald

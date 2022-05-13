@@ -1,0 +1,5 @@
+Gabs unter VMS nicht auch das "Phone"-System? Vermutlich nicht übers 
+Netz allerdings. Da wurden sogar WIMRE einzelne Zeichen, nicht nur 
+fertige Zeilen übertragen.
+
+Tom

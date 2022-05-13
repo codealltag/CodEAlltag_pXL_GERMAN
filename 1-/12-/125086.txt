@@ -1,0 +1,12 @@
+[...]
+
+
+Für die Grundschulregel muss man sich überlegen, was der Satz bedeutet.
+Die Regeln "nach Komma dass" bzw. "Betont dass" hingegen kann man völlig
+mechanisch anwenden, ohne den gesamten Satz zu verstehen oder überhaupt
+wahrzunehmen. Wie von Gerald angedeutet: Man tippt ", da" und dann
+kommen ganz automatisch zwei "s" (bzw. ein "�"). Es ist ja nicht so,
+dass man beim Tippen Regeln bewusst anwendet, das ist prozedurales
+Wissen, das unbewusst angewendet wird.
+
+	hp

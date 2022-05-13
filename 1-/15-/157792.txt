@@ -1,0 +1,6 @@
+Ich würde sagen, "als" verwendet man, wenn der eigentliche Vergleich 
+größer/kleiner ist (man also mathhematisch formuliert ein ">" oder "<" 
+benutzen könnte, z.B: v_er > v_ich). Bei "doppelt so schnell wie" ist das 
+nicht der Fall (Seine Geschwindigkeit ist gleich dem doppelten von meiner, 
+mathematisch v_er = 2 * v_ich). Mit einem ">" oder "<" könnte man das nicht 
+so ausdrücken.

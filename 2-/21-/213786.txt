@@ -1,0 +1,18 @@
+Das ist, so denke ich, hinlänglich bekannt. Das ändert aber nichts
+daran, dass der Satellit auf eine Kreisbahn um die Erde läuft. natürlich
+dreht sich die Erde mit der gleichen Winkelgeschwindigkeit, aber der
+Satellit ist noch immer auf einer Kreisbahn. Um die Erde.
+
+
+Das tut er auch, ja. Jedenfalls dieser (MSG-3), denn er soll ja die
+Erdoberfläche beobachten. Zwingend ist das nicht, obwohl mir keine
+sinnvollen Anwendungen einfallen, bei denen das nicht der Fall
+wäre. Rein technisch ist eine Drehung des Satelliten mit der Erde
+jedenfalls nicht erforderlich.
+
+Um der Verwirrung entgegenzuwirken: Eine Drehung erfolgt typischerweise
+um eine Körperachse. Erdbeobachtende Satelliten schauen sinnvollerweise
+'nach unten', d.h. zur Erde. Daher müssen sie sich einmal pro Orbit um
+sich selbst drehen, ganz unabhängig von ihrem Orbit.
+-- 
+Space - The final frontier

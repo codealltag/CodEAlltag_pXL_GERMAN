@@ -1,0 +1,32 @@
+Mein Chef hat sich angewöhnt, den Präsens sowohl in Planungsdokumenten
+als auch Tätigkeitsberichten zu verwenden. So muss er nichts
+umformulieren, wenn das geplante zukünftige Ereignis tatsächlich
+stattgefunden hat und so zur Vergangenheit wird, sondern kann das
+einfach per Copypasta übernehmen.
+
+So steht dann 2007 in der Arbeitsplanung für die nächsten Jahre:
+
+"2009 werden die 2002 angeschafften Arbeitsplatzger�te mit Windows 2000
+durch neue mit Windows Vista ersetzt."[1]
+
+Anfang 2010 steht dann im Jahresbericht:
+
+"2009 werden die 2002 angeschafften Arbeitsplatzger�te mit Windows 2000
+durch neue mit Windows Vista ersetzt."
+
+und ein paar Jahre später wird dann in der Arbeitsplanung für 2015
+stehen:
+
+"2009 werden die 2002 angeschafften Arbeitsplatzger�te mit Windows 2000
+durch neue mit Windows Vista ersetzt. Diese haben nun das Ende ihrer
+Lebensdauer erreicht. 2015 werden sie daher durch neue mit Bla ersetzt."
+
+Vor allem letzteres finde ich irritierend. Präsens Passiv klingt für
+mich wegen des Hilfszeitworts "werden" immer ein bisschen nach Futur. 
+Im Zusammenhang mit Ereignissen und Tätigkeiten, die bereits einige
+Jahre her sind, finde ich das etwas seltsam. Vor allem dann, wenn im
+gleichen Absatz von Dingen die Rede ist, die erst geplant sind.
+
+	hp
+
+[1] Kein wörtliches Zitat.

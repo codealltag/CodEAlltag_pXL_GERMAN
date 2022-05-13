@@ -1,0 +1,7 @@
+Am Tue, 15 Sep 2009 14:54:34 +0200 schrieb Niclas Blatter:
+
+
+Für solche threads musst du einen unicode-Zeichensatz verwenden, sonst bist
+du chancenlos :-)
+
+F

@@ -1,0 +1,16 @@
+Die Faustregel lautet, franzoesische Abkuerzungen immer umzudrehen, um 
+die englische zu erhalten. Kuerzlich fiel mir aber ein apartes Beispiel 
+auf, wo die Regel sprachlich auch gilt, aber bei der Abkuerzung dann 
+doch nicht:
+
+  engl. CA = certified accountants
+  frz.  CA = comptables agrees
+
+(Den Akzent ueber dem ersten der beiden e bitte hinzudenken. Ich 
+probiere einen gerade auspgepackten Rechner aus.)
+
+-- 
+Java is the SUV of programming tools.
+A project done in EJIV will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Hilmar Schöber

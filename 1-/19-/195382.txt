@@ -1,0 +1,20 @@
+Genau - das sind grammatisch richtig gebildete, aber inhaltlich falsche 
+Aussagen. Und weil im Alltag niemand eine ausreichend genaue Uhr dabei 
+hat, sind sekundengenaue Uhrzeitangaben zwar grammatisch vielleicht 
+richtig formuliert, aber inhaltlich allenfalls zufälligerweise korrekt; 
+ferner täuschen sie eine Genauigkeit vor, die zu erreichen dem Sprecher 
+nicht möglich ist. Dass eine Formulierung sprachlich regelgerecht 
+konstruiert ist, ist nicht ausreichend dafür, dass sie auch richtig ist. 
+
+Kurz: wir dissentieren über die Bedeutung von "richtig", nämlich darüber, 
+ob "richtig" sich nur auf die Syntax bezieht (ist die Ughrzeitgrammatisch 
+korrekt gebildet) oder auch auf die Semantik ("ist das überhaupt eine 
+Zeitangabe"? ("26 Uhr 32" wäre syntaktisch richtig, aber semantisch 
+falsch, denn mindestens hier zu Planet hat der Tag nur 24 Stunden), oder 
+auch auf die Pragmatik ("ist es jetzt tatsächlich 23:59:17,04879 Uhr?").
+
+Valerius
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

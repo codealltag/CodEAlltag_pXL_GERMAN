@@ -1,0 +1,9 @@
+* Dirk Arian Edsperger:
+
+
+"Nicht ausschließen kann"? Das klingt so, daß es bei einigen Sprechern
+gelingt, bei den weitaus meisten aber nicht.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Werner Michels, comp.lang.python

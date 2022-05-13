@@ -1,0 +1,4 @@
+"Möchten Sie darüber reden ([ja]/nein/Abbruch)?"
+
+
+kaspar

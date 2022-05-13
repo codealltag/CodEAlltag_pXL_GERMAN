@@ -1,0 +1,4 @@
+Nein; aber 8 könnte die Quersumme von 215 sein oder von 341, oder ...
+
+-- 
+Özlem Mester

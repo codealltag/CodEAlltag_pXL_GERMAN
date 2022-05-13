@@ -1,0 +1,10 @@
+Ich würde sogar das Gegenteil behaupten: in fast allen Kontexten hat
+"Geburtstag" nur die Bedeutung "Jahrestag der Geburt". Die andere
+mögliche Bedeutung wird in der Regel mit "Tag der/meiner/... Geburt"
+oder "Geburtsdatum" ausgedrückt.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.P. Moosrainer

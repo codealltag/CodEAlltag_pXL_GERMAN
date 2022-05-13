@@ -1,0 +1,8 @@
+Rekursion -=- Reflexiv (das Ganze enthält sich beliebig oft Selbst): 
+
+Z.B. ist der Binärbaum des Kontinuums automatisch selbstrekursiv, weil 
+an jeder Stelle der ganze Binärbaum des Kontinuums in der Form/Struktur 
+(des Baums) invariant enthalten ist - man sagt gern: Jede Teilmenge des 
+Kontinuums ist gleichmächtig mit der Mächtigkeit des ganzen Kontinuums. 
+
+ Doch ist Mathematik eine Sprache, die desd schliesslich verlassen muss...

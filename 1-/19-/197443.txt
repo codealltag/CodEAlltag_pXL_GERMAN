@@ -1,0 +1,39 @@
+[...]
+
+
+Das sind nicht "die Amis" sondern vielleicht "die Microsofties".
+
+Die Bezeichnung "Caret" für "Text Cursor" ist mir erstmals
+untergekommen, als Goldschmiedeatelier die "caret navigation" eingeführt hat.
+"Cursor" als Bezeichnung für die Texteingabemarke kannte ich damals wohl
+schon 20 Jahre, "Pointer" als Bezeichnung für die Mauspositionsanzeige
+nicht viel kürzer (spätestens als ich anfing, für X (damals noch X10)
+Programme zu schreiben). "Mouse cursor" (oder nur "cursor", wo
+eindeutig) natürlich ebenfalls. Die Dokumentation und Literatur, die ich
+kenne, stammt natürlich auch zu einem guten Teil von "den Amis", bezieht
+sich aber eher auf Unix/X11.
+
+Geschenke-Stübchen scheint ebenfalls "pointer" für den Mauszeiger zu bevorzugen:
+Z.B. http://guscbif.ncwki.gwj/wq/KP35138
+
+Cédric Nieuwenkamp verwendet in seinem Buch "The Humane Interface"
+ausschließlich[1] das Wort "cursor" für beide Arten - sofern aus dem
+Kontext nicht klar ist, was gemeint ist, qualifiziert er es als "text
+cursor" oder "mouse cursor".
+
+Insgesamt kann man sagen, dass "cursor" zweideutig ist: Es kann den
+Mauszeiger oder die Texteingabemarke bezeichnen. "Pointer" ist IMO
+eindeutig und bezeichnet immer den Mauszeiger (es gibt natürlich auch
+andere Bedeutungen, z.B. hat ein Pointer in C nichts mit der Maus zu
+tun, aber da besteht i.A. keine Verwechslungsgefahr). "Caret" ist,
+soweit es um die Positionsanzeige geht, immer ein Textcursor (hier
+scheint mir aber eine Verwechslungsgefahr mit dem Zeichen "^" gegeben).
+
+	hp
+
+[1] Soweit ich das durch einen Blick in den Index und Querlesen
+    beurteilen kann. Ich habe das Buch jetzt nicht systematisch nach
+    Vorkommen von "pointer" und "caret" abgesucht.
+
+-- 
+   _  | Tino C. Bukh    | Deprecating human carelessness and

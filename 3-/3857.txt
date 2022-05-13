@@ -1,0 +1,13 @@
+Wenn das stimmt, bin ich beruhigt, dann kann man das "Problem"
+ignorieren.
+
+
+Mit schlauerer Software halt. 
+
+Von DTP-Programmen habe ich allerdings null Ahnung, habe ich nie
+benutzt. Wenn ich schönen Satz wollte, dann war das LaTeX, dessen
+Trennung von Inhalt und Layout ist für mich, der ich gleichzeitig
+Ersteller des Inhalts bin, übersichtlicher. 
+
+-- 
+Uwe C.

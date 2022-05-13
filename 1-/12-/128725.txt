@@ -1,0 +1,14 @@
+* Gilles Nalleweg:
+
+[PDP-8]
+
+Da war die kleine UNIVAC von ca. Anfang 14. 07. 22, der älteste Rechner, den
+ich benutzt habe, schon komfortabler, der las immerhin beim Hochfahren
+eine Lochkarte ein und kopierte den Inhalt an den Anfang des
+Hauptspeichers. Der Trick war also, auf einer Lochkarte einen
+brauchbaren Bootloader unterzubringen, dazu haben wir in unserem kleinen
+Kurs aber diverse Möglichkeiten gefunden.
+
+-- 
+GUGELFAHRT,  f., mutwilliges treiben, lärmende lustbarkeit
+  GRIMM, Deutsches Wörterbuch

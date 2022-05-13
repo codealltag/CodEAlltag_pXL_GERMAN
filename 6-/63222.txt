@@ -1,0 +1,11 @@
+Das tut er (charset="utf-8"), das hilft nur nix, wenn's der Client
+nicht anzeigen mag -- warum auch immer.  Ich finde es überaus
+ärgerlich, daß dies anno domini 2008 immer noch ein Problem ist. 
+Wahrscheinlich wird dieses Posting in zehn Jahren immer noch seine
+Gültigkeit haben (und womöglich sogar genau unter diesem Subject
+in irgendeinem Posting zitiert werden, weil die Hersteller in ihrem
+Versuch, Einigkeit herzustellen, übers Ziel hinausgeschossen sein
+werden, so wie es bisher auch immer der Fall war).  Einfach ätzend.
+
+
+jakob

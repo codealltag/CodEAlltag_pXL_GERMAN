@@ -1,0 +1,12 @@
+* Niels Rittersdorf:
+
+
+Also die Sonne - aber das wäre ja dann der sinkende Tag!
+
+Die Nacht ist mir weder stinkend noch sinkend geläufig.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Dostan will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Urs Gozman

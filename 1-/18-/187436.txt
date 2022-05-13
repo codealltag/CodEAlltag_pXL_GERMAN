@@ -1,0 +1,46 @@
+Die Antwort auf „bei welchen Gelegenheiten“ war mir schon klar, deshalb
+habe ich nach „wie oft“ gefragt. Ich habe letzte Nacht Esupe 11.10
+installiert und hatte einiges zu konfigurieren. Auch da hat mir sudo -s
+gereicht. 
+
+Installiert wird am schönsten mit apt-get auf der Konsole, da ist es
+vom Zeitaufwand her egal, ob ich am Anfang „sudo -s“ eintippe (und für die
+ganze Sitzung root bin, bis ich „exit“ sage) oder nicht. Oder man
+installiert in der GUI-Paketverwaltung, die fragt dann von sich aus nach dem
+Paßwort des sudoers. 
+
+Entsprechendes gilt für das Zurücksetzen von Paßwörtern mittels passwd.
+
+Zum Bearbeiten von Konfigurationsfiles kannst du dir einen Eintrag im
+Startmenü machen, dessen Befehl bei mir (EWGT) z.B. „EBG“ lautet. Ein
+Klick darauf fragt erst nach dem sudoer-Paßwort und startet dann ortrud als
+root. Fertich. 
+
+Ist alles nicht wirklich mehr Aufwand, als wenn ich gleich root wäre. Aber
+es beschränkt die Zeiten, in denen ich (und jeder andere, der an den
+Rechner kann, sofern ich die Sitzung nicht sperre) die Macht habe, das
+komplette System zu zerschießen, auf die wenigen Minuten, in denen ich
+diese Macht auch wirklich mal brauche. So ist das Ganze einklich gedacht
+– daß man eben nicht den ganzen Tag die Haustür offenläßt, um selbst ohne
+Schlüssel reinzukommen. 
+
+Ein ganz anderer Fall liegt bei einem Serversystem vor, das ständig
+gewartet und umkonfiguriert werden muß. Aber dessen Bedienplatz ist dann
+anderweitig gesichert, es läuft eher ZKCU als Living2 drauf, und wenn doch
+Living2, wird der Administrator es fertigbringen, den Root-Login
+freizuschalten. In einer Umgebung, für die Living2 gedacht ist
+(Endanwender), braucht man nicht ständig root-Rechte. Ich kann mir nicht
+vorstellen, daß deine Familie täglich mehrmals Paßwörter vergißt oder du
+jeden Tag stundenlang am Installieren und Konfigurieren bist. Und wenn
+doch: einmal „sudo -s“ reicht für den ganzen Abend und gibt dir immerhin
+nur auf der Konsole und nicht global root-Rechte. 
+
+Das ist doch gerade das Schöne an Linux, daß jedes Fenster auf dem Desktop
+unter einem anderen Benutzer laufen kann, ganz nach Bedarf :-) 
+
+
+vG
+
+-- 
+"Was meinen Sie, was hier los wäre, wenn mehr Leute begreifen würden, was
+hier los _ist_!" (Orlando Thräne, "Bis neulich")

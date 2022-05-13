@@ -1,0 +1,17 @@
+Ich habe bei mäßig flüchtigem Blättern im Bescherelle keine weiteren
+Ausnahmen gefunden.
+
+
+Ja.
+Aber auch bei diesen gilt, dass die Personalendung des Imperativs
+jener der 1. Person entspricht, dann eben des Subjunktivs:
+
+    Inf.      Imp.        Subjunktiv Präsens
+                          1.       2.        3.
+    avoir     aie         aie      aies      ait
+    tre      sois        sois     sois      soit
+    savoir    sache       sache    saches    sache
+    vouloir   veuille     veuille  veuilles  veuille
+
+-- 
+Benedikt "nadia" Lindemayer                          fugxd@jnnr.liyg.wg

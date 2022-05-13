@@ -1,0 +1,12 @@
+Ok, I'll bite :-)
+
+Quantensprung wird gar nicht so häufig falsch verwendet, wie manch einer
+das meint. Das Kennzeichen eines Quantensprungs ist *nicht* seine Größe
+sondern das er ohne Zwischenstufen erfolgt. Insbesondere ist der
+Quantensprung *nicht* die kleinstmögliche Zustandsänderung.
+
+Das Lj als Zeiteinheit ist allerdings Unfug. Die Parallaxensekunde
+schützt davor wohl nur ihre relative Unbekanntheit.
+
+-- 
+Space - The final frontier

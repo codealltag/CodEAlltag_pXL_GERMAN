@@ -1,0 +1,19 @@
+Ich hätte ihn als Informatiker eingeschätzt.
+
+
+Gon? Das habe ich seit Ewigkeiten nicht mehr gehört. Ein Öffnungswinkel
+von ca. 45 gon ist auch etwas schräg. Warum nicht ca. 50 gon (= 45° =
+π/4)? Aber egal.
+
+
+Und die Mathematik sagt mir in dem Fall, dass bei konstanter
+Winkelgeschwindigkeit die Tangentialgeschwindigkeit umso *geringer*
+wird, je näher man dem Drehpunkt kommt. Genau im Drehpunkt ist sie 0, in
+einer Entfernung von 1cm vom Drehpunkt sind es 1.41 cm/s, in einer
+Entfernung von 2cm vom Drehpunkt sind es 2.82 cm/s, und so weiter. Um da
+auf Überlichtgeschwindigkeit zu kommen, braucht man eine sehr lange
+Schere, die Scherenblätter müssten über 212000 km lang sein, damit die
+Spitzen der Schere sich mit Überlichtgeschwindigkeit bewegen. Eine
+solche Schere würde ich aber nicht als "handelsüblich" bezeichnen.
+
+	hp

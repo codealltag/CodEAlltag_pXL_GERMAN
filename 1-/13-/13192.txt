@@ -1,0 +1,11 @@
+Eine Festlegung gilt bei gleichzeitiger Geltung ihrer Negation.
+
+wiki kürzen
+
+Folglich ist die Regel selbst ihre einzige eigene Daseinsberechtigung.
+
+
+nf
+-- 
+"... und das Paßwort?"
+"Guck mal auf die gelben Zettel da am Monitor ..."

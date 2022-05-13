@@ -1,0 +1,9 @@
+* Juliana Thebus:
+
+
+Als Ansatz einer Begründung: im Unterschied zum Verb hat ein
+Substantiv ("Suche") nicht Zugriff auf den ganzen (Teil-)Satz,
+sondern nur auf seine unmittelbare Umgebung, die Nominalphrase.
+
+-- 
+Thorsten

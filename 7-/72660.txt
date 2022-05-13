@@ -1,0 +1,8 @@
+Eine Analogkamera liefert Fehler abhängig von der Farbe, da bei
+Blau die Wellenlänge kürzer ist als bei Rot. Das muss einfach
+andere Artefakte geben. Dem Digitalrechner sind Wellenlängen
+egal, da für ihn Farben nur Binärzahlen sind.
+
+Gruss
+
+Niels

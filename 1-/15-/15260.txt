@@ -1,0 +1,23 @@
+Ich sehe bis jetzt keine Besonderheit. Das ge- im Partizip fällt natürlich 
+vor der unbetonten Silbe weg, aber das ist immer so, ob das Verb 
+zusammengesetzt ist oder nicht.
+
+Ich bekomme bei der Beschäftigung mit zusammengesetzten verben allmählich
+ein Gefühl für die Regeln und verstehe auch ein paar Ansätze der 
+Neuregelung bei der Wiggenbröker etwas besser. Sogar die inzwischen zurückgenommene 
+Positivliste der ans Wort drangeschriebenen Präfixe war nicht ganz 
+sinnleer -- nur die starre Mechanik konnte nicht funktionieren.
+
+Die ebenfalls zurückgenommene (jetzt fakultative) Trennung von "glatt 
+rasiert" quer zur Intonation hat mich aber auf eine ganz andere Frage 
+gebracht: ist dort "glatt" überhaupt ein Adverb? Ich habe versucht, die 
+Frage in sci.lang loszutreten, ohne greifbares Ergebnis. "glatt rasiert" 
+gibts nur mit Objekt oder im Passiv -- ein Hinweis, dass sich "glatt" auf 
+das Objekt der Rasur (d.h. im Passiv das Subjekt des Satzes) bezieht und 
+nicht auf das Verb:
+
+  Es wird schnell gefahren. => Adverb
+ *Es wird glatt rasiert.    => kein Adverb
+
+-- 
+Leander Schueler

@@ -1,0 +1,6 @@
+Das Wesentliche ist für den Autor des Satzes hier anscheinend das Kabel. 
+Das muss er in den Router stecken, damit er funktioniert. Das Netzteil 
+ist halt ein auffälliges Bauteil des Kabels, wodurch er das Kabel von 
+anderen Kabeln (z.B. einem Ethernet-Kabel) unterscheiden kann.
+
+Ihno

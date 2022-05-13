@@ -1,0 +1,8 @@
+Oh weh; ein Elektroniker erzählte mir, daß er seine Entwürfe für
+Schaltungen mit Kupfer oft genug "nochmal für Aluminium" überarbeiten
+durfte. Wenn das Kupfer also schon für Platinen nicht gereicht hat ...
+und davon sollte es zu DDR-Zeiten noch nicht soo viele gegeben haben.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Valentino Ansperger, comp.lang.python

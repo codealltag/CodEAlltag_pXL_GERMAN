@@ -1,0 +1,15 @@
+* Tino Reifsteck <rmxyauergub@pdt.fs> wrote:
+
+[Wort "Geschwurbel"]
+
+
+In meiner Zeit an der Uni Triebendorf (1984-96) war es daselbst gang und
+gebe[1]. Selbstverständlich im umgangssprachlichen Register und nie in
+Fachaufsätzen.
+
+[1] Ich kenne Dudens Meinung zur Schreibung
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

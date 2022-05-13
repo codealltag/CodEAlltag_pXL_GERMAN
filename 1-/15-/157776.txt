@@ -1,0 +1,13 @@
+Nach Gau #f(#f+1)/(2#s). Führt in der Regel entweder auf 0,1 oder 42.
+
+Hab mal eine Arbeit gesehen mit je einem Satz und einer Fußnote pro 
+Seite, die regelmäßig mehr als dreiviertel der Seite einnahm und in 
+Einzelfällen über drei Seiten ging sowie vereinzelt Fu�notenfu�noten 
+aufwies.
+
+Zu so etwas bekommt man natürlich heute kein Programm und keinen Verlag 
+mehr.
+
+-- 
+
+Theo Luedcke

@@ -1,0 +1,11 @@
+Flexion != Endungen. (laufe, lief, gelaufen, da hast du 
+Vokalveränderungen, Endungen, Präfixe.)
+
+
+Die Flexionsform eines Adjektivs beinhaltet die kombinierte Information 
+über Genus, Numerus, Kasus und Steigerungsgrad.
+
+Die Flexionsform eines Adverbs beinhaltet nur die Information über den 
+Steigerungsgrades.
+
+Nicolas

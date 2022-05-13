@@ -1,0 +1,5 @@
+Da kommt beim XP ein ¿
+Wenn ich 0168 eingebe dann kommt ¨
+Du meinst das harte Leerzeichen  0160 ...
+
+-- 

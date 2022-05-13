@@ -1,0 +1,47 @@
+vs.
+
+Wenn ich richtig verstanden habe, dass Konversion einfach die 
+morpholog. Umdeutung eines Wortes in eine andere Wortart ist, dann 
+fallen die drei letzten der oberen Liste aus dem Muster heraus. Du 
+musst schon die Verbsuffixe abtrennen.
+
+
+Du hast auch in der zweiten LIste zwei oder mehr Muster miteinander 
+vermischt. In den beiden ersten Fällen ist das Lexem gleich einem Wort 
+vom Typ Substantiv. So weit, so gut.
+Für alle weiteren geht das Muster _in Richtung_ Substantiv, aber die 
+Lexeme haben unterschiedlichen Status. Mal sind sie nur unfreie 
+Lexeme, mal sind sie vermeintlich Substantive, wobei aber fraglich 
+ist, ob eine systematische Ableitung vorliegt; und zitiert hast du 
+alle als Verben, es ist aber fraglich, ob die Bildungen tatsächlich 
+alle deverbial (also von Verben hergeleitet) sind.
+
+
+Jammer -> Gejammer
+Rausch -> Geräusch (???)
+Red-e   -> Gerede
+
+Geht man davon aus, dass auch die Bedeutung des Lexems streng dieselbe 
+sein muss, kann man übrigens nicht 'Geräusch' von 'Rausch' oder 
+'rauschen' herleiten, sondern höchstens 'Gerausche' von 'rauschen'.
+
+
+Allgemein: Im Deutschen kann nur im Falle eines Imperativs oder 
+höchstens noch einer abgelauteten Form (Präteritum) ein Lexem gleich 
+einem Verb sein, ansonsten hat es _immer_ mindestens ein Affix, 
+besteht mithin aus mindestens zwei Morphemen.
+
+
+Der Fall, dass ein Substantiv nicht in Lexem plus Suffix (z.B. -e) 
+analysierbar ist, sondern selbst nur ein Lexem ist, ist aber viel 
+häufiger.
+
+Es wird in der ersten Liste einfach zirkumfigiert, wobei das Zirkumfix 
+eine bestimmte Wortart (Verb) bedient, und in der zweiten Liste wird 
+eben ein Lexem präfigiert, wobei dieses Muster ebenfalls eine 
+bestimmte Worart, nämlich diesmal Substantiv, bedient, wobei bei 
+deinen Beispielen die Frage ist, ob tatsächlich konvertiert wird.
+
+Worauf willst du jetzt hinaus?
+
+F.

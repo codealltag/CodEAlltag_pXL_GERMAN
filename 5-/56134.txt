@@ -1,0 +1,10 @@
+Fährst du ihn nach unten, dann verwendest du wohl einen Aufzug oder
+ähnliches, um ihn in den Keller zu befern. Fährst du ihn herunter,
+machst du entweder das Gleiche oder du verwendest die Funktion
+"Herunterfahren" [1] (oder das jeweilige Pendant eines anderen
+Betriebssystems).
+
+Gruß
+Paolo
+
+[1] Z. B. Windows XP mit klassischer Startmen�ansicht.

@@ -1,0 +1,7 @@
+Die im Deutschen verwendetetn Spezialzeichen wie "ß" oder Umlaute kann
+ich wenn erwuenscht durch Buchstabengruppen ersetzen, z.b "ü" durch
+"ue" "?" usw. Gibt es für diese Ersatzdarstellung eine Bezeichnung?
+Ist das irgendwo definiert, durch welche Buschstaben man ein Zeichen
+rersetzen kann. Mir ist irgendiw noch bekannt, dass "ß" auch durch
+"sz" dargestellt wurde. Ist das noch üblich/erlaubt?
+mfg klaus

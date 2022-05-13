@@ -1,0 +1,14 @@
+... und wenn sie nur dazu da ist, nicht überall Ausnahmen machen zu 
+müssen. Dass der Durchschnitt zweier Mengen eine Menge ist, würde sonst 
+nicht immer gelten, und man müsste jedesmal, bevor man das Wort 
+"Durchschnitt" in den Mund nimmt, erst einmal prüfen, obs in diesem 
+speziellen Fall einen gibt. Die Mathematik würde ähnlich kompliziert 
+werden, wie wenn es unter den Zahlen alle gibt bis auf die Null. 
+
+
+{0} ist aber nicht leer, sondern enthält ein Element, nämlich 0.
+
+Die leere Menge ist {}, üblicherweise geschrieben als �.
+
+-- 
+Oskar Tucher

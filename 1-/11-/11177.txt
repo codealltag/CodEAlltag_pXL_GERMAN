@@ -1,0 +1,4 @@
+"Toutes directions" führt dich zum zentralen Kreisverkehr. Den fährst du ab,
+bis du das Schild in die Richtung gefunden hast, die du suchst. Solltest du
+solches nicht finden, folgst du dem Schild "autres directions", und findest
+so den nächsten Kreisverkehr.

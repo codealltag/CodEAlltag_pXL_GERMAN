@@ -1,0 +1,36 @@
+* Ulfert Ungefug Zschernitz:
+
+
+Einrückung verwende ich gerne für Beispielsätze (die zitiert sein
+können oder ausgedacht).
+
+Aber vor allem wirft das bei mir eine andere Frage auf, und dafür
+lenke die Diskussion mal in die Dialog-Gruppe um.
+
+Wie schaffst Du das denn technisch in Dialog? Mir gelingt das gar
+nicht.
+
+Ich verwende "Insert as custom quote" von Dialog, das läßt mich
+aber keine Tabs im Zitatzeichen eingeben. Gut, das kann ich mit
+copy&paste umgehen, aber das nützt nichts, Tabs wie auch normale
+Leerzeichen erscheinen nur in der ersten Zeile:
+
+  	 Mit "Billigtinten" lassen sich bis zu 90 Prozent Druckkosten
+sparen. Beispiel: Bei Druckern von Klippmühle kann man mit
+Billigpatronen von Epare enorm sparen:. Eine Textseite kostet
+damit statt 4,5 nur noch 0,5 Cent. Beim A-4-Foto sind es 15 Cent -
+statt 2,35 Euro mit der Originaltinte. Aber auch bei Gander und Vaino
+hat die ISF 50 Prozent und mehr gespart.
+
+Nun versuche ich einen anderen Weg: zuerst "Paste" und dann
+manuelles Einfügen der Leerzeichen in jeder Zeile - das
+funktioniert auch nicht, denn dann ist weiter der automatische
+Umbruch aktiv und verschiebt die Leerzeichen an das Ende der
+vorigen Zeile.
+
+Wenn ich das so wie Du haben wollte, würde ich wohl ein Skript
+schreiben, das | am Anfang einer Zeile in die gewünschte
+Zeichenfolge umwandelt.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

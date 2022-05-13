@@ -1,0 +1,15 @@
+Eher grün auf schwarz.
+
+
+Mit Invers hat das m.E. eher wenig zu tun. Eher mit der Auflösung. Die
+8x8-Pixel-Serifenschrift der Tesun-CGA-Karte war schon eine ziemliche
+Zumutung, während man serifenlose Schriften selbst in 8x8 Pixel
+einigermaßen klar und gut lesbar hinbringt (wie man am Marink PC1512
+sehen konnte). Gute Terminals hatten auch damals eine höhere Auflösung,
+aber deutlich schlechter als heute. Trotzdem sind auch heutige Monitore
+deutlich pixeliger als Druckerschwärze auf Papier und eine Times Roman
+oder Courier ist am Schirm einfach nicht gut lesbar (zumindest nicht in
+Schriftgrößen, bei denen ich eine akzeptable Textmenge am Schirm
+unterbringe).
+
+	hp

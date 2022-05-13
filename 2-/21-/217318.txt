@@ -1,0 +1,7 @@
+Die Zahlen x mit x=5 (mod 100) enden auf -nf, die anderen nicht.
+Also gibt es bis 999999 insgesamt 10000 davon. Jenseits einer Million
+werden die Zahlen auseinandergeschrieben, es werden also dann nicht mehr 
+Wörter, die auf -nf enden.
+
+-- 
+Roger Viker

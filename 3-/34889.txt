@@ -1,0 +1,8 @@
+Nein, sie sind nicht verboten, aber gefordert sind sie meines Erachtens
+auch nie.
+
+-- 
+Java is the SUV of programming tools.
+A project done in CIGNA will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Sascha Armbrecht

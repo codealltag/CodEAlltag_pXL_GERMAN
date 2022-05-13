@@ -1,0 +1,63 @@
+Mir ist klar, dass das gemeint war. Aber so wie es dasteht, ist der
+Bezug eindeutig anders:
+
+    Sie rasen
+    durch die Straßen
+    und die Gassen.
+    Sie sind menschenleer.
+
+Es müsste heißen:
+
+    Sie rasen
+    durch die Straßen.
+    Und die Gassen,
+    sie sind menschenleer.
+
+Was so ein bisschen Groß/Kleinschreibung ausmachen kann ;-).
+
+Gesungen ist der Zusammenhang auch nicht besser. 
+
+... Halbstark nennt man *sie*.
+*Sie* rasen ...
+*Sie* sind ...
+
+da ist irgendwie naheliegend, dass mit "sie" in jedem Fall diejenigen
+gemeint sind, die man halbstark nennt.
+
+
+Während ich oben noch erkannt habe, dass sich "sie" auf die Gassen
+bezieht, und nur beckmessern wollte, habe ich hier wirklich nicht
+erkannt, dass mit "sie" die blonden Bienen gemeint sind (vielleicht
+auch, weil ich mir die zu Halbstarken gehörenden blonden Bienen nicht in
+schwarzem Leder, sondern im Pettycoat vorstelle). 
+
+Ich konnte daher den Satz bestenfalls so parsen:
+
+    Blonde Bienen 
+     (
+	(mit Bändern in den Haaren)
+      und
+	(an dem schwarzen Leder, das [sie, die Halbstarken] tragen)
+     )
+
+was nun wirklich keinen Sinn ergibt. Daher meine Vermutung, dass da was
+fehlt, was dem letzten Halbsatz Sinn verleihen könnte, z.B. "Und man
+erkennt sie an dem schwarzen Leder, das sie tragen".
+
+Wenn sich "sie" aber auf die Bienen bezieht, bedeutet der Satz:
+
+    Blonde Bienen mit
+      Bändern 
+        (
+            (in den Haaren)
+          und
+            (an dem schwarzen Leder, das [sie, die Bienen] tragen)
+        )
+
+Dass die Bienen Bänder (Fransen?) an ihrem Leder haben, damit kann ich
+leben.
+
+        hp
+
+-- 
+   _  | Nicolas E. Rinscheid    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,18 @@
+Diese Regel taugt nichts. Man kann ganz generell nicht durch Ergänzung 
+oder Weglassung von Wörtern feststellen, wie eine Form richtig heißt oder 
+geschrieben wird. Ein paar Beispiele:
+
+  mit gutem Beispiel vorangehen
+  (Ergänzung:) mit einem *gutem Beispiel vorangehen (falsch!)
+
+  der Unterschied zwischen Mensch und Affe
+  (Ergänzung:) der Unterschied zwischen einem *Mensch und einem *Affe (falsch!)
+
+  die Tochter Onkel Stefanos
+  (Ergänzung:) die Tochter meines *Onkel *Stefanos (falsch!)
+
+  die Bauten Europas
+  (Ergänzung:) die Bauten des mittelalterlichen *Europas (falsch!)
+
+-- 
+Nils Gausepohl

@@ -1,0 +1,9 @@
+Zaporoschez, so hieß das Ding. Sowas fuhr mal ein Bekannter (aber 
+nicht lange!). Ich kann mich noch an das Schaltschema erinnern,
+das -- um es gelinde zu sagen -- schon recht eigenwillig war: 
+
+    	     	    	    	4   2
+    	    	    	    	+---+
+    	    	    	    	3   1
+
+H.

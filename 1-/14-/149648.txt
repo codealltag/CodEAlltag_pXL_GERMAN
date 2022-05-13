@@ -1,0 +1,25 @@
+Nichts. Aber wir haben im Deutschen sowas:
+
+  Ich sehe ein schönes Mädchen, das über die Straße geht. Sie lächelt.
+
+Dieses Beispiel bietet drei Fälle von Kongruenz:
+
+1.  Ich sehe ein *schöne Mädchen...
+    - Attributive Adjektive richten sich immer nach dem Genus.
+
+2.  Ich sehe ein schönes Mädchen, ?die über die Straße geht.
+    - Das knirscht schwer. Ein direkt folgendes Relativpronomen
+      richtet sich bevorzugt nach dem Genus.
+
+3a. Ich sehe ein schönes Mädchen, das über die Straße geht.
+    Sie lächelt.
+    - Sprachlich unauffällig, aber das Pronomen ist hier plötzlich
+      nicht mit dem Genus, sondern mit dem Sexus des Bezugsworts
+      kongruent!
+
+3b. Ich sehe ein schönes Mädchen, das über die Straße geht.
+    Es lächelt.
+    - Kongruenz mit Genus. Auch möglich, aber mir scheint 3a üblicher.
+
+-- 
+Veit "trudi" Ißleiber                          xlyyb@jsat.zozs.qu

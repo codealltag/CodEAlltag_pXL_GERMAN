@@ -1,0 +1,7 @@
+Nicht messen und anzeigen verwechseln!
+Die Latte (wenn sie liegen bleibt) zeigt an, dass der Springer
+mindestens so hoch gesprungen ist, wie die Latte liegt.
+
+Man könnte es so formulieren: Die Anzeige-Latte, wird mithilfe einer
+Messlatte auf eine bestimmte Höhe gebracht. Das Wort 'bestimmte' ist
+hier entscheidend für den Unterschied von Anzeige zu Messung.

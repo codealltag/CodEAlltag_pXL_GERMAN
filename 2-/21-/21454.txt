@@ -1,0 +1,25 @@
+Das ist eine Diskussion ähnlich der über Unkosten und Quantensprünge.
+
+Erstens gibt es keinen Grund, weswegen ein zusammengesetztes Substantiv
+eine Multiplikation implizieren soll. Im Allgemeinen nicht (wer will
+schon Bauern mit Häfen, Kinder mit Gärten oder Minuten mit Steaks
+multiplizieren) noch im Speziellen: Volumengewicht (aka N/m^3, eine
+Fehlbezeichnung (!)), Flächenlast (aka N/m^2) (analog dazu auch
+Volumenladung, Flächenladung)  sind weitere Beispiele der Art
+'A|B'�=B/A.
+
+Zweitens wohnt der Begriffsbildung eine gewisse sprachliche Logik
+bei. Ebenso wie mehr Bauern mehr Höfe, mehr Häuser mehr Besitzer, mehr
+Autos mehr Fahrer implizieren, so implizieren mehr Stunden mehr
+Kilometer (oder mehr Volumen mehr Gewicht).
+
+Auf der anderen Seite gibt es die Wattsekunden, Newtonmeter und
+Amperestunden, die alle von der Form 'A|B' = AB sind.
+
+Der daraus zu ziehende Schluss ist nicht, dass die eine oder ander Form
+sprachlich falsch ist, sondern dass es einen guten Grund hat, dass sich
+die Naturwissenschaften der Mathematik und nicht der
+Sprachwissenschaften bedienen, um ihre Aussagen zu kodieren.
+
+-- 
+Space - The final frontier

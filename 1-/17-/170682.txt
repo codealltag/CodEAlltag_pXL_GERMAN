@@ -1,0 +1,13 @@
+Doch, doch. iso-8859-15 ist aber die 'kleinste' Zeichensatzkodierung,
+die ein € enthält; zusammen mit Windows-1252. Früher galt es mal als
+höflich, keine 'größere' Kodierung zu verwenden als unbedingt notwendig.
+Vielleicht stammt deine Einstellung noch aus der Zeit.
+Allerdings würde dennoch iso-8859-1 reichen, TB springt automatisch auf
+-15 wenn nötig.
+
+
+Ciao
+Nina
+-- 
+ Never too late to die young!
+ [Oomph!]

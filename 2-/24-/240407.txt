@@ -1,0 +1,9 @@
+Na, auf einer Website wie www.gtg.tw oder www.gla.pv oder so, wie jeder
+Mensch das macht. 
+
+Das ist technisch natürlich auch nur das grafische Frontend eines
+E-Mail-Clients :-) aber es läuft halt im Browser und nicht als separate
+Software auf der Maschine des Anwenders. 
+
+
+vG

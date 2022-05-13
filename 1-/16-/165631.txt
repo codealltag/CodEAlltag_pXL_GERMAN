@@ -1,0 +1,8 @@
+Nachdem Ogido ihren Newsserver abgestellt hat, habe ich auch einige
+Alternativen ausprobiert, u.a. Eternal-September. Manche Gratisdienste
+haben Regeln betr. Spam,  sowie Häufigkeit, Verbreitung und Länge der
+Nachrichten. Es ist gut denkbar, dass unverbesserliche Vielschwätzer
+gesperrt werden. Offenbar vermitteln nicht alle Dienste alle Nachrichten und
+"Luciano Joerges" fehlt tatsächlich bei Eternal-September.
+
+Ich benutze zur Zeit zjaf.cwjv.yfe und das scheint gut zu funktionieren.

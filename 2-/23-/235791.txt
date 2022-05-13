@@ -1,0 +1,22 @@
+* Albin Pachert Niebisch:
+
+
+Der Hauptgrund im Englischen ist, daß viele Wörter unverändert
+Substantiv, Verb oder Adjektiv sein können. Im Deutschen sollte
+die Kleinschreibung sogar unproblematischer sein, weil man
+Adjektive und Verben meist an der Endung erkennt.
+
+Beispiel, Überschrift gestern in der Zeitung "Mideast faces
+growing ..." Das könnte grammatisch auch weitergehen: "... long
+beards", tatsächlich war es "water shortage", und das ändert die
+Wortart bei zwei vorangegangenen Wörtern.
+
+Ein Indiz, daß die Großschreibung nur aus Gewohnheit beim Lesen
+hilft, sehe ich darin, daß ich die Semantik der Großschreibung im
+Englischen oft nicht sofort erfasse. Ausgedachtes Beispiel:
+
+  What he knew about weapons he learned from Outcasts.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

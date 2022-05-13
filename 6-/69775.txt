@@ -1,0 +1,4 @@
+Verlangt? Keine.
+
+-- 
+Press any key to continue or any other key to quit.

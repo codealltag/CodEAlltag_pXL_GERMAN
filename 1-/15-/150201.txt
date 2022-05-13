@@ -1,0 +1,15 @@
+[..]
+
+Danke.
+
+
+Mhm.
+Da hat sich wohl ein "Humor"-Untermodul bei mir geweigert, sich zu
+laden ...
+
+hendrik
+-- 
+ .''`.   http://yrix.dizuwt.qfpm.cz/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  ATU user, admin, & developer - http://ooz.wcsnrg.ixq/
+ `. `'   Member of Rasouli!C&M, fellow of IdeenRaum
+   `-    NP: Kante: Im ersten Licht (Mr. Bird and Partner Version)

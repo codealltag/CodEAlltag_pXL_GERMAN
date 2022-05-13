@@ -1,0 +1,71 @@
+Während der Unterschied zwischen Autorisation einerseits und
+Authentisierung / Authentifikation andererseits dem Laien schnell
+einleuchtend zu machen ist, ist eine Abgrenzung zwischen
+Authentifikation und Authentisierung zu finden schwieriger.
+
+Sofern es denn überhaupt eine gibt, denn verwendet werden
+die beiden Begriffe synonym. Das kann aber an der Unkenntnis
+der Anwender liegen.
+
+Deshalb folgende Überlegungen von mir, die den Vorgang des
+"sich Ausweisens" in zwei verschiedene Vorgänge unterteilt,
+für die dann zwei Begriffe sinnvoll wären.
+
+Einmal ist da derjenige, der sich ausweisen will und muss, weil er
+von einem anderen ein Recht erteilt haben will.
+
+Dann ist da der Andere, der die Verfügungsgewalt über ein
+schützenswertes Gut hat und angewiesen ist, nur bestimmten
+Personen diese schätzenswerte Gut zugänglich zu machen.
+
+Konkret:
+
+1.) Ich bewege mich, von ausserhalb kommend, auf einen Grenzposten
+     des Schengengebietes zu. Der Grenzwächter verhält sich solange
+     passiv, bis ich durch mein Näherkommen klar gemacht habe, dass
+     ich vorhabe, den Grenzübergang zu überschreiten.(ein Begehren
+     meinerseits, ich will ein schützenswertes Gut von ihm erlangen,
+     nämlich den Grenzübertritt)
+
+2.) Der Grenzwächter wird aktiv, indem er mich auffordert, mich
+     zu authentisieren.
+    ("Zeigen Sie mir bitte ihre Ausweispapiere")
+
+3.) Ich gebe ihm die Ausweispapiere. (ich authentisiere mich, gebe
+     also vor, derjenige zu sein, der in den Ausweispapieren beschrieben
+     ist)
+
+4.) Der Grenzwächter nimmt die Ausweispapiere und macht eine
+     Plausibilitäts-Überprüfung, ob ich derjenige bin, der in den
+     Ausweispapieren beschrieben ist. Er verwendet dazu die Merkmale
+     die dort aufgeführt sind, als da wären: mein Bild, meine Ethnie,
+     meine Grösse, mein Geschlecht, meine Aussprache und verschiedene
+     andere Merkmale, die sich einer konkreten Beschreibung entziehen.
+     Zudem überprüft er die Echtheit des Papiers und kann dann die 
+
+     Legitimität der Ausstellenden Behörde bewerten.
+
+5.) Nachdem klar ist, wer ich bin, entscheidet er anhand von
+     Dienstvorschriften, ob meinem Begehren entsprochen wird oder
+     eben nicht.
+
+Den 4. Vorgang könnte man als "authentisch machen" bezeichnen.
+Wenn ich es richtig sehe, enthält das Wort "authentifizieren"
+das Wort "facere" und das ist lateinisch für "machen".
+
+Vorgang 3. wäre Authentisieren.
+Vorgang 5. wäre Autorisieren.
+Vorgang 1. wäre ein Teil vom Authentisieren
+Vorgang 2. könnte man als Teil der Authentifikation betrachten.
+
+
+In die Computer Sprache übersetzt ergibt sich folgendes Bild:
+
+Authentisieren tut sich der Client,
+Authentifizieren macht der Server.
+
+
+Nur mal so ins Unreine gedacht.
+
+Gruss
+Valentin

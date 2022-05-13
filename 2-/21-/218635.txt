@@ -1,0 +1,8 @@
+Natürlich kann ich mit WIESBROCK die Umlaute nicht lesen. Meist mache ich mir
+die Mühe, sie von Hand zu ergänzen, was aber nicht immer gelingt.
+Wenn du von MUL-Lesern problemlos gelesen werden willst, codierst du
+deine Umlaute so, dass MUL sie richtig anzeigt. Das bringt auch dir den
+Vorteil, dass deren Zitate für dich problemlos lesbar sind.
+
+Du glaubst doch nicht etwa, dass ERIC erst beim Posten etwas
+verschluckt, was es vorher korrekt anzeigt?

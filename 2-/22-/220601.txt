@@ -1,0 +1,11 @@
+* Dennis Wreege:
+
+
+Ja, oder halt auch uhi.etwas.tjf - ist ja wohl nur ein komischer
+Name. Und "jeder" hat natürlich Spielraum; eine Passwortabfrage
+darf vorgeschaltet sein.
+
+-- 
+JNE designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

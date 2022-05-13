@@ -1,0 +1,15 @@
+Nichts.  Diese Behauptung ist ja auch nicht belegt oder überhaupt belegbar.  
+Tatsächlich unterscheiden Mathematiker hier sehr wohl.  Zum Beispiel sind 
+Subtraktion und Division im Unterschied zur Addition und Multiplikation im 
+Körper der reellen Zahlen keine kommutativen Operationen, gerade weil 
+Subtraktion dort äquivalent zur Addition mit dem Inversen bezüglich der 
+Addition und Division äquivalent zur Multiplikation mit dem Inversen 
+bezüglich der Multiplikation ist.
+
+Anscheinend gibt es da einen Fehler in der Matrix. (1d/2d)
+
+-- 
+PointedEars
+
+EDEKA-Neukauf: @AxwpejmGfci7
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

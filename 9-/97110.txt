@@ -1,0 +1,27 @@
+Die folgende Regel funktioniert eigentlich meistens. Man nehme für den   
+ Imperativ Singular die Form 2.Pers. Singular als Ausgangpunkt.
+
+- Falls sie einen *Um*laut gegenüber dem Infinitiv enthält, wird der
+  Imperativ aus dem Infinitiv gebildet und ein optionales -e kann   
+  angehängt werden:
+  du hältst => halt[e], du läufst => lauf[e], du stößt => sto[e]
+  (mit u/�-Umlaut weiß ich kein Beispiel) 
+
+- Falls sie denselben Vokal wie der Infinitiv hat oder einen *Ab*laut,   
+  wird sie zur Bildung des Imperativs verwendet, und ein -e kann nicht   
+  angehängt werden:
+  du trittst => tritt, du gibst => gib, du liest => lies
+
+- Eine Ausnahme ist: du wirst => werd[e]
+
+Bei anderen Verben, deren Stamm auf -d/-t nach Konsonant endet, scheint 
+auch der Ablaut im Schwinden begriffen zu sein, aber nicht nur im 
+Imperativ: bersten, fechten, flechten, schelten. Ich empfinde das (noch?) 
+als falsch.
+
+
+"schreiben" auch. Man beachte auch die Form "siehe!", wo eine Ablautform
+mit -e versehen wird, allerdings nur in wenigen Kontexten.
+
+--
+Bruno Tauben

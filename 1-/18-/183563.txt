@@ -1,0 +1,28 @@
+<obdesd>: "impressungspflichtig"  (kleines i)</>
+
+Das ist aber eine fast allen juristischen Formulierungen und 
+Gesetzestexten immanente Eigenschaft. Gesetzestexte enthalten 
+typischerweise generelle Regelungen und nicht Einzelfallregelungen. Dass 
+man bei solchen Beschreibungen immer wieder auf die Notwendigkeit stößt, 
+die Gesetzesformulierung auszulegen, ist tägliches Brot der Juristen. Oder 
+kennst du ein für jeden Einzelfall klar entscheidbares Kriterium für die 
+Abgrenzung von grober zu einfacher Fahrlässigkeit, von Mord zu Totschlag, 
+oder von sittenwidrig zu nicht sittenwidrig? Eindeutigkeit gibts nur in 
+Spezialfällen, etwa wenn man einfach ...
+
+
+... formuliert hätte: "Alle Webseiten sind impressumspflichtig." (Da 
+Juristen aber nicht arbeitslos werden wollen, hätten sie sich in diesem 
+Fall eben darauf gestürzt, wie deutlich der Link zum Impressum auffindbar 
+sein muss (reicht hellgraue Schrift auf hellblauemm Untergrund in der 
+Größe 1 Punkt?), oder ob es überhaupt ein Link sein muss statt eines JPG-
+Bildes, aus dem man den Link erst abtippen muss, oder oder oder ...)
+
+In der Tat wollte man eben nicht _alle_ Webseiten (oder eben gar keine, 
+das wäre die einzige eindeutige Alternative) impressumspflichtig machen.
+
+Vincent
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

@@ -1,0 +1,10 @@
+Das ist einfach eine fürs neuronale Netz optimierte Methode fürs Lernen 
+mittels verstärkter Serienautokorrelation des Eingangssignals als 
+Isolationsmechanismus für Phoneme.
+
+Töff könnte ein Zufallslaut sein, bei t�fft�ff ist das praktisch 
+ausgeschlossen, weiss dass Hirn.
+
+-- 
+
+Jochen Barkhoff

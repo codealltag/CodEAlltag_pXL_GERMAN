@@ -1,0 +1,25 @@
+So ist es. Man google etwa nach
+
+  "den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an 
+   die Datenschutzgesetze"
+
+Dann landet man auf Hunderten von Datenschutzerklärungen von Webseiten, in 
+denen die Einleitungszeile anschließend sofort dementiert wird, zum 
+Beispiel, indem die Auslieferung persönlicher Daten an eine Firma 
+außerhalb des Geltungsbereichs der EU-Datenschutzrichtlinie eingeräumt 
+wird, die sie ihrerseits nach Gutd�bken weitergeben kann. Aber damit hat 
+sich ja der Nutzer der Webseiten angeblich einverstanden erklärt. Es heißt 
+da nämlich:
+
+  Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung 
+  der über Sie erhobenen Daten [...] einverstanden.
+
+leider nicht ganz im Sinne des � 13 TMG, die solche Einwilligung 
+ausschließt.
+
+Irgendwie klingt das genauso glaubwürdig, wie wenn bei einer 
+Verkehrskontrolle der Fahrer unaufgefordert erklärt, er hielte sich immer 
+an alle Verkehrsregeln. Und geddunggen hätte er auch nichts.
+
+-- 
+Gerd Henselmans

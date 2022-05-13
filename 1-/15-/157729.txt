@@ -1,0 +1,27 @@
+Wenn Hunde für jeden Geruch ein Wort hätten, würde ein normales
+Büchergestell wohl nicht ausreichen, um alle Bände dieses
+Wörterbuchs aufzunehmen. Es enthielte - wenn ich recht rechne -
+bis zu 220! Einträge. Das sind 2*10^421, also
+
+20000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0000000000 0000000000 0000000000
+0000000000 0000000000 0
+
+Einträge. So ungefähr ;-) Die Zahl der Bände kannst Du jetzt
+selber ausrechnen.
+
+Gruss
+
+Lothar
+
+--=20
+In 'Sozialen Netzen' und Foren sollte man nicht *mitmachen*,
+sondern dort für das weitherum völlig unbekannte Usenet *Reklame*
+machen. (Nein, ich bin zu faul, mich selbst deswegen dort
+anzumelden).

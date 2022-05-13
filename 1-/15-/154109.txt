@@ -1,0 +1,11 @@
+Ich habe meinen TB so eingestellt, dass der Cursor beim Antwort _�ber_ 
+dem zitierten steht (sonst verfährt das zum FQ), und tatsächlich fügt er 
+zwei Leerzeilen vor Beginn ein - Kein Bug aus der Sicht der TB-Autoren, 
+da die ja (wie die meisten) denken, wer den Cursor nach oben will, der 
+will TOFU machen, und dafür wären die zwei Leerzeilen ja ok. Ich müsste 
+sie halt nur löschen.
+
+Bis jetzt ist mir nicht klar geworden, dass es Sergio anscheinend um die 
+Leerzeilen _ganz am Anfang_ meiner Beiträge ging.
+
+Lothar

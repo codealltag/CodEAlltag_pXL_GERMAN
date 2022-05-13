@@ -1,0 +1,11 @@
+Nehmen wir mal an, mit "natürlichen Zahlen" seien "Natürliche Zahlen"
+gemeint.
+
+
+Das ist dann sicher eine streng mathematische Definition der
+natürlichen Zahlen. Die kenne ich nicht und habe sie nicht
+berücksichtigt. (Ordinal-, Kardinalzahlen?)
+
+Heisst das, dass die Anzahl der platonischen Körper keinen Nachfolger
+hat? Wieso ist die 6 keiner? Sind dann die Elemente von Restklassen
+auch keine natürlichen Zahlen?

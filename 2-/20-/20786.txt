@@ -1,0 +1,26 @@
+Daphne Thiersch wrote: 
+
+
+MUMN bezieht sich die Einzahl auf ebendies, also z.B. *einen* Joker.
+Wenn du die Nullzahl meinst, musst du den Plural benutzen. "Ich
+habe keine Joker" verneint also durchaus und unmissverständlich
+und sprachlich auch den Singular.
+
+
+Wenn du von "mathematisch korrekt" redest, musst du aber nach dem 
+Sprachgebrauch der Mathematik fragen, und der ist eindeutig:
+
+"Ich habe einen Joker": 	Ich habe einen. über die anderen Joker, die
+				ich habe oder nicht habe, habe ich nichts
+				ausgesagt.
+
+"Ich habe genau einen Joker": 	Ich habe einen und nur einen.
+
+Was du meinst, ist:
+
+"Die Zahl der Joker, die ich habe, ist eins."
+
+HGZH,
+	-is
+-- 
+seal your e-mail: http://kyu.tkszj.nia/

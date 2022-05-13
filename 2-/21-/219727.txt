@@ -1,0 +1,8 @@
+Das meine ich nicht. Rein technisch ist es natürlich möglich,
+aber sowas würde ich nicht ein Webserver nennen. Web ist das
+öffentliche Internet. Das hast du ja auch selber geschrieben. Der
+Heimserver ist nur en HTTP-server.
+
+-- 
+Gruß
+Clemens, Dänemark

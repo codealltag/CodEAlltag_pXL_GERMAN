@@ -1,0 +1,40 @@
+Ist nicht gar so kompliziert.
+
+Mal angenommen, die roten Subpixel Deines RGB-Monitors
+strahlen irgendwo in der Gegend um 20nm und die grünen
+bei 50nm. (Die Werte sind willkürlich gewählt und für
+die Erklärungen wenig relevant.) Dann erscheint Dir das
+zwar ziemlich rot und ziemlich grün, aber die spektrale
+Empfindlichkeit der zugehörigen Zapfentypen überlappt
+sich. Das heißt, daß Du auf diesen Monitorwellenl�ngen
+immer den jeweils anderen Rezeptor ein wenig mitkitzelst.
+
+Wenn Du nun mit diesem RGB-Modell den Eindruck nachbilden
+möchtest, den eine Lichtquelle (oder ein entsprechend
+reflektierendes Objekt) bewirkt, die beispielsweise bei
+700nm liegt, dann wird es Dir zwar gelingen, Deine R-Pixel
+so auszusteuern, daß Deine R-Zapfen dieselbe Intensität
+vermelden wie für die 700-nm-Quelle. Letztere kitzelt
+jedoch Deine G-Zapfen fast gar nicht mehr, so daß Dein
+RGB-Monitor jetzt den G-Anteil Deiner R-Pixel durch
+einen _negativen_ G-Wert ausgleichen müßte, um für
+Deine G-Zapfen dieselbe Intensität zu erzeugen wie
+dies die 700-nm-Quelle tut (nämlich nahe null).
+
+Abhilfe brächte hier nur ein weiteres Aufspannen des
+RGB-Raums durch kurzwelligeres Blau und langwelligeres Rot,
+um die Überlappung (also das Mitkitzeln) zu reduzieren.
+Das erforderte jedoch höhere Strahlungsleistung, da in
+den (unabhängigen) Randzonen ja auch die R- und B-Zapfen
+weniger empfindlich sind. Dazu kommt, daß die Wahl der
+Pixel-Wellenlängen technisch nicht beliebig ist. (Die
+älteren werden sich erinnern, daß es von den ersten,
+roten LEDs bis zu blauen LEDs einige Zeit dauerte.)
+
+Oder anders ausgedrückt: Ich möchte mir nicht vorstellen,
+was eine 950-nm-IR-Fernbedienung mit meiner Netzhaut machte,
+wenn ihre Diode nicht nur tiefrot lmme, sondern in einem
+kräftigen Rot-Ton in voller R-Zapfens�ttigung erschiene.
+
+Um das Kernthema unserer Gruppe nicht völlig zu
+vernachlässigen: "kurzwelliger" oder "kürzerwellig"?

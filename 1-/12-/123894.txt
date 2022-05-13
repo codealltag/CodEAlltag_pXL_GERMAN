@@ -1,0 +1,11 @@
+Die Ursache war der Gebrauch des � als technische Abkürzung. Bis zur 
+Standardisierung der Gr��envorsilben war 1 m=1/1000 mm statt Mikrometer 
+in Gebrauch.
+
+Im Magnetismus gibts es zudem zB mu-Metall mit einem besonders großen 
+M. Daher haftet aufgrund der magnetischen Geheimnisse dem Maxwellschen 
+� ein gewisser mbus an.
+
+-- 
+
+Manfred Krähmer

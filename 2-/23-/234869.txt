@@ -1,0 +1,40 @@
+Das war in Physik ueblich. Klein- und Grossbuchstaben. Z.B. F mit Pfeil 
+drueber fuer Kraefte.
+Mathe war im LK "altdeutsche Schrift", und an der Uni auch.
+
+Gruende IMHO:
+* fuer Buchstaben + Pfeil muss man einmal absetzen und des dauert
+  laenger. Sieht auch bloed aus, wenn die Pfeile auf verschiedenen
+  Hoehen sitzen bei a, b etc.
+* in Mathe braucht man oft  a, a', das wird mit Pfeilen schnell
+  unuebersichtlich. Erst recht, wenn noch a, a-quer (mit Querstrich
+  drueber) gebraucht werden.
+  Und bei Linearkombinationen \sum_{i=1..n} a_i \veca_i ist es
+  sehr praktisch, gleich zu sehen, was Skalar und was Vektor ist.
+
+Ich denke nicht, dass das heute in Matehmatik anders ist (nein, 
+ich sehe das ja regelmaessig immer noch an der Tafel) oder jemals
+anders wird.
+
+
+Beides. Mit den Details kenne ich mich eh nicht aus, lief bei uns
+immer unter "deutsche Buchstaben". 
+Soweit ich eben mal nachgeschaut habe, waren die handschriftlichen
+Buchstaben wohl Fischlin (im Skript) oder "Dorfhagen" (an der 
+Tafel):
+<http://plz.rchqgcsy-urzusaopzsqiil.wl/lvrkf.waw?u=wtt_awuxjiz>
+(wobei die URL den Begriff "Fraktur" doch wieder enthaelt)
+
+An der Tafel wurden die handschriftlichen Zeichen benutzt, im
+Lineare-Algebra-Skript (mit LaTeX gesetzt) ebenfalls. Es gab/gibt aber
+auch Buecher mit echten Fraktur-Druckbuchstaben fuer Vektoren (ja,
+Uhlemann "Taschenbuch der Mathematik" zum
+Beispiel. Fraktur-Druck-Kleinbuchstaben fuer Vektoren,
+Fraktur-Druck-Grossbuchstaben fuer Vektorfelder).
+
+
+Manche wohl nicht. Wobei, so schwer ist sie ja auch nicht, und man
+siehts auch immer wieder irgendwo (Gasthaeuser, T-Shirts von
+Heavy-Metal-Gruppen, ...)
+
+Albin

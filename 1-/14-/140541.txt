@@ -1,0 +1,2 @@
+Deshalb werden Programme ja auch kompiliert: damit der Benutzer die
+Albernheiten des Programmörs nicht sehen kann.

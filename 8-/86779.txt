@@ -1,0 +1,17 @@
+Pascal Rudroff schrob:
+
+
+Beides ist eine akzeptable Einstellung. Im Prinzip kannst Du auch wieder
+1252 nehmen (weiß jetzt nicht, wie OE das nennt, ANSI Westeuropäisch oder
+so, der Unterschied zu ISO ist marginal).
+
+Problematisch ist es halt nur, wenn gar nichts deklariert ist (was THIESMANN wie
+gesagt per Standard tut), dann kann der am anderen Ende nur raten, worum es
+sich handelt.
+
+
+Ebent, deswegen sag ich’s Dir ja, denn ich weiß es, und Du wußtest es
+haarschweinlich noch nicht. ;-)
+-- 
+Gruß | Greetings | Qapla'
+Als Naturfreund mache ich gern schöne Autotouren.

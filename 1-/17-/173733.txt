@@ -1,0 +1,5 @@
+Der antike trn4 sortiert das brav in den bestehenden Thread ein.
+Allerdings sehe ich im Header ein In-Reply-To anstelle von References.
+
+-- 
+Thorsten "katia" Hägele                          mgmqk@pbmy.nhtb.lt

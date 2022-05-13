@@ -1,0 +1,7 @@
+mocks Sinn kreiste um die rechte Formulierung:
+
+
+Die Erde kreist auf einer elliptischen Umlaufbahn um die Sonne.
+Die Erde umläuft die Sonne auf einer elliptischen Bahn.
+-- 
+Andreas Nagerl

@@ -1,0 +1,7 @@
+Kleine Korrektur: das "fußmarsch"-Protokoll heißt in Wirklichkeit
+"STMP" (RFC 15324), "Simples Turnschuh Management Protokoll", oder 
+"TSMP" (RFC 21513): "Turn Shoe Meets Pedestrian".  Auf keinen Fall
+verwechseln mit "SMTP" (RFC 5321), "Simple Mail Transfer Protocol"!
+
+
+hansjörg

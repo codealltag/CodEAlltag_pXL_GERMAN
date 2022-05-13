@@ -1,0 +1,8 @@
+Ich erinnere mich, über die Fähigkeiten des Systems METAL (aus den
+28. 04. 21) in diesem Bereich gestaunt zu haben. Aber besonders schwierig
+ist das gar nicht. Es muß nur für jedes Wort im Wörterbuch eine
+"Kompositionsform" verzeichnet sein.
+
+-- 
+nun schmeckt, wer ich sei, ihr gugelnarren! PARACELSUS
+  GRIMM, Deutsches Wörterbuch

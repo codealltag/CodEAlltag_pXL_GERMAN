@@ -1,0 +1,36 @@
+Das klingt plausibel, aber es stellt sich dann die Frage, wie diese
+Separierung stattfindet. Ich könnte jetzt sagen, dass Rauch zu einem
+guten Teil aus Wassertröpfchen besteht, die erst beim Abkühlen des bei
+der Verbrennung entstandenen Wasserdampfs entstehen. Somit wäre die
+Entstehung von Rauch ein vom Feuer getrennter Vorgang, und damit eine
+Kodierung. Umgekehrt könnte ich argumentieren, dass sich die Vorgänge in
+meinem Nervensystem, die dazu führen, dass meine Finger gerade auf die
+Tastatur klopfen, nicht strikt in "Denken" und "Kodieren" trennen
+lassen. Dann wäre das, was ich gerade schreibe, keine Nachricht. Beide
+Schlussfolgerungen scheinen mir, um ein Lieblingswort von DETLEF zu borgen,
+absurd.
+
+
+Gabriels Definition trifft es schon recht gut, allerdings würde ich die
+Zeichenfolgen nur in der Nachricht suchen. Das was kodiert wird, muss
+nicht unbedingt als Zeichenfolge vorliegen.
+
+Wichtig hingegen ist für mich, dass Sender und Empfänger
+"informationsverarbeitende Systeme" sind (Nicolas nennt sie in seinem
+Artikel "kybernetische Systeme", das klingt beeindruckender, geht mir
+aber nicht weit genug, weil das einfache Regelkreise umfasst). Eine
+Tasse Kaffee sendet keine Nachrichten, ein Mensch oder eine Biene oder
+ein Computer aber schon (ich bin mir bewusst, dass es hier ein
+Abgrenzungproblem gibt - letztlich gehorcht der Mensch genauso
+physikalischen Gesetzen wie die Tasse Kaffee. Aber das scheint mir
+irrelevant zu sein, solange wir uns weit genug von dieser Grauzone
+entfernt halten). Der Mensch hat ein Modell seiner Umgebung im Kopf und
+teilt hin und wieder Aspekte dieses Modells anderen Menschen (oder auch
+Tieren oder Computern) mit. Da die direkte Bedeutungsübertragung von
+Gehirn zu Gehirn nicht funktioniert, muss er das, was mitgeteilt werden
+soll, irgendwie in eine Form bringen, die der Adressat wahrnehmen kann:
+Laute, Gesten, Berührungen, ... mit anderen Worten, er muss es kodieren,
+und dieses kodierte Signal nenne ich eine Nachricht. Ich habe überhaupt
+kein Problem damit, einen Zungenkuss als Nachricht zu sehen. 
+
+	hp

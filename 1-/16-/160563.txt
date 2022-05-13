@@ -1,0 +1,4 @@
+Wie jetzt, Halbwertzeit bedeutet, dass es von i+1 nach i+2
+immer nur halb so lang dauert wie von i nach i+1?
+
+charly

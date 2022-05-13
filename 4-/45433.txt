@@ -1,0 +1,324 @@
+Moin
+
+Ich hatte vor einiger Zeit mit einem Bekannten eine Diskussion über
+ein Urteil samt dazugehörigen Gutachtens.
+
+Wir waren uns dabei uneins über die Interpretation der Inhalte, wobei
+meines Erachtens die Uneinigkeit eher ein Problem der sprachlichen
+Interpretation als ein Problem der Juristerei ist, daher möchte ich
+das mal hier zur Sprache bringen, wer von uns korrekt interpretierte,
+damit wir diesen Streit endlich begraben können :-)
+
+Wie weitgehend darf man die eine umstrittene Passage interpretieren?
+Wie weit darf man den Zusammenhang der Aussage ignorieren?
+Und wen darf man für eine Aussage ggfs. die Ohren lang ziehen?
+
+
+Ich muss leider etwas weiter ausholen dafür und viel zitieren ...
+
+
+Anlass des Urteils war eine Kollision zwischen meinem Bekannten als
+Liegerad-Fahrer und einem Autofahrer auf dem Gelände eines Gro�parkplatzes.
+An der Einfahrt des Parkplatzes wird max. 10 km/h gefordert und das
+Parken auf markierte Flächen beschränkt. Der Unfall passierte auf einer
+sehr breiten Fahrbahn, die die anderen Fahrbahnen, an der die eigentlichen
+Parkflächen lagen, verband, und auf der selbst aber keine Parkierung markiert
+war und in die ein Weg mit Fahrradstellplätze mündete.
+Als Unfallursachen spielen mit:
+sichtbehindernde Falschparker und Fußgänger, strittige Vorfahrtslage
+und evtl. überhöhte Geschwindigkeit des Autofahrers.
+
+Wie schnell dieser fuhr, sollte ein Gutachten klären.
+Meines Erachtens gibt es durchaus plausible Indizien, dass er
+zu schnell fuhr und meines Erachtens versucht das Gutachten,
+diese wegzubegutachten und darüber sind wir uns einig ...
+Aber das sei mal hintenan gestellt und nur nebenbei erwähnt ...
+
+
+Das Gutachten enthält in Auszügen:
+
+- Unfallhergang
+- Bilder vom Unfalltag
+- Ortstermin mit Vermessung der Fahrzeuge und Örtlichkeit
+- Beim Ortstermin stellen laut Gutachten Rad- und Autofahrer die
+  Endposition des Rades und des Autos unterschiedlich dar:
+
+Der Radfahrer gab an, er war schon soweit hinter dem (wegb�ndigen)
+Falschparker hervor gekommen, dass er gut sichtbar war, das Auto stand
+nach dem Unfall recht weit links und parallel zm Fahrbahnrand
+(Photo davon vom Unfalltag vorhanden...), was für das Sehen spräche.
+Der Autofahrer sei mit überhöhter Geschwindigkeit gefahren, 35 km/h ca.
+
+Der Autofahrer gab an, das Rad habe noch weiter zurück gestanden,
+also schlecht sichtbar hinter dem Falschparker, und positionierte
+beim Ortstermin sein Auto mittiger und schräger stehend.
+
+- Unfallanalyse
+
+Höhenvergleich ...
+
+"... Ein Erkennen des Kettenrades ist für einen querenden Verkehrsteilnehmer
+somit erst möglich, wenn dieses über die Kontur des parkenden Fahrzeuges
+hinaus ragt."
+
+Erläuterung von mir: bei einem Kurzliegerad ist das Kettenblatt der
+vorderste Punkt des gesamten Rades. Weiter im Gutachten:
+
+"Die Position Augenhöhe des Radfahrers zeigt, dass dieser über die
+Motorhaube eines parkenden Fahrzeugs Sichtkontakt zum heran nahenden
+Verkehrsteilnehmer hat. Er kann diesen teilweise durch die Verglasung
+des parkenden Fahrzeugs beobachten.
+
+...
+
+Bei Unterstellung des angegeben Einfahrverhaltens ... [vom Radfahrer]
+fuhr er mit vorsichtiger Geschwindigkeit von max 10 km/h vom
+Radparkplatz über den Rad- und Vollweiler.
+
+Zu diesem Zeitpunkt war ein gegenseitiges Sehen wegen der geparkten
+Fahrzeuge sicher nicht gegeben.
+
+[Der Radfahrer] verringerte dann seine Geschwindigkeit nochmals und
+tastete sich nach seinem Vortrag in die Fahrbahn ein. Zum Zeitpunkt
+der Kollision sei er gestanden.
+
+Sofern dieses Einfahren durch [den Autofahrer] erkennbar war -- es
+befanden sich laut Angabe noch zwei personen und Koffer im Unfallbereich --
+geht von einem anhaltenden Radfahrer keine Reaktionsaufforderung aus, damit
+[der Autofahrer] eine Abwehrbremsung einleiten muss.
+
+Ein stehendes Fahrrad, sofern es überhaupt erkannt werden konnte,
+veranlasst einen Autofahrer nicht zu einer Vollbremsung.
+
+Von sachverständiger Seite kann daher nur das Kollisionsger�usch zwischen
+dem Fahrrad und dem Pkw als Reaktions-Aufforderung angesehen werden,
+damit der Fahrer des Ilev sein Fahrzeug spontan zum Stillstand abbremst.
+
+Bei derart überraschenden Ereignissen ist von einer Zuordnung des
+Kollisionsger�usches bis zum Einleiten der Abwehrbremsung eine Zeitspanne
+von 1 - 1,5 Sekunden erforderlich, damit das Fahrzeug über eine
+Abwehrbremsung zum Stillstand verzögert wird."
+
+Berechnung: Geschwindigkeit lag zwischen 12 und 20 km/h
+
+"Eine Vermeidbarkeit durch dne [Autofahrer] war nicht gegeben,
+da er unabhängig mit welcher Geschwindigkeit er fuhr,
+als Reaktionsaufforderung den Kollisionszeitpunkt hatte.
+
+Wäre er zum Zeitpunkt der Kollision nur 10 km/h oder langsamer
+gefahren, wäre es ebenfalls zu einem Kontakt zwischen den Fahrzeugen
+gekommen. ... Eine Kollision hätte jedoch stattgefunden."
+
+Soweit die Auszüge aus dem Gutachten.
+
+
+Das Urteil enthält in Auszügen:
+
+- Tatbestand mit Schäden und Schilderungen analog zu oben
+- Entscheidungsgründe:
+
+"... ist Ü10 StVO im Streitfall zumindestens entsprechend anzuwenden.
+...
+
+Nach den nachvollziehbaren und überzeugenden Ausführungen des
+Sachverständigen ... kann ... von einer Mindestgeschwindigkeit ...
+von 12 km/h ausgegangen werden, eine höhere Ausgangsgeschwindigkeit
+ist ... nicht beweisbar. ... Aufgrund des weiteren Ausführungen des
+Sachverständigen kann jedoch nicht davon ausgegangen werden, dass
+die geringfügige Überschreitung der zulässigen Höchstgeschwindigkeit
+um 2 km/h zum Zustandekommen des Verkehrsunfalls beigetragen hat,
+weil nicht feststeht, dass der Unfall bei Einhaltung einer Geschwindigkeit
+von 10 km/h für den Fahrer ... vermeidbar gewesen wäre. ..."
+
+Resultat: Radfahrer trägt alle Kosten.
+
+
+Der Richter (und wohl auch der Gutachter) geht also davon aus,
+dass � 10 anwendbar sei.
+
+Die nächste Instanz sah das schon anders und machte dann glaub
+halbe-halbe draus, weil Hergang nicht mehr richtig nachvollziehbar
+war oder so ähnlich (das Urteil liegt mir nicht vor).
+Aber die genaue Schuldfrage sei mal nebensächlich ...
+
+Der Gutachter jedenfalls scheint nur die Aussage des Autofahrers
+beweisen zu wollen bzgl. Positionen von Rad und Auto und Geschwindigkeit
+und verrenkt sich dabei m.E. ein wenig ...
+Der Gutachter trifft ein paar (m.E. streitw�rdige) Annahmen:
+
+- Autofahrer kann Radfahrer eigentlich nicht gesehen haben
+- Hätte er ihn doch gesehen, hätte er ihn ja anhalten sehen
+- Kein Grund also zum Bremsen, schließlich Vorfahrt und brav haltendes Rad
+- Deswegen war erst Kollision Anlass zum Bremsen
+- Aus der Distanz und Reaktionszeit kann sich *SO* nur eine niedrige
+  Geschwindigkeit errechnen, braver Autofahrer ...
+
+Würde man die Möglichkeit in Betracht ziehen, dass der Autofahrer
+ihn doch voll gesehen hat, weil er schon so weit vor stand, wie er angab
+(was eher zur am Unfalltag per Photo festgehaltenen Endposition des
+Autos passt...), würde die Berechnung der Geschwindigkeit in sich
+zusammen brechen, weil nun der angeblich erste Anlass zur Reaktion,
+die Kollision, wegfällt ...
+
+Insofern taugt das Gutachten nix in meinen Augen ...
+Reine Gefälligkeit gegenüber dem Autofahrer.
+
+Dennoch sehe ICH das Gutachten im Ganzen und bewerte die Aussagen
+in ihrem Zusammenhang, insbesondere betrachte ich die Aussagen als
+nur zusammen mit den (m.E. irrigen) Annahmen gültig.
+
+Mein Bekannter, der Radfahrer, betrachtet sie aber auch separat
+und mit Wissen um den vermutlich wahren Hergang, insbesondere:
+
+
+In der Tat: Wenn man diese Sätze im Gutachten ALLEINE und die "Wahrheit"
+kennend betrachtet:
+
+"Ein stehendes Fahrrad ... veranlasst einen Autofahrer nicht zu
+einer Vollbremsung. ... kann daher nur das Kollisionsger�usch zwischen
+dem Fahrrad und dem Pkw als Reaktions-Aufforderung angesehen werden ..."
+
+... wären sie ein ziemlicher Hammer!
+Sie wären auch untragbar, hätte der Gutachter auch nur ein wenig offen
+gelassen, dass der Radfahrer auch gut sichtbar hätte sein können.
+Denn dann wäre der Autofahrer mit den "errechneten" 12 km/h (da kann
+man ja unmöglich anhalten...??), über den Radler drüber weg ...
+
+Meines Erachtens darf man die Sätze aber nicht so ohne den Zusammenhang
+betrachten, der ja gerade aus der Annahme besteht, dass der Radfahrer
+auf keinem Fall frontal vor dem Autofahrer gestanden haben kann.
+
+------ Ich entgegnete also [Radfahrer] damals: -----
+
+Der Gutachter geht unter 4. offenbar klar von der scharfen Wartepflicht
+nach � 10 aus:
+
+"Zeitgleich näherte sich aus der Rad-Fußgänger-Furt ... dieser Fahrspur. ...
+in die *Fahrbahn* eintasten ... Einordnungs-Vorgang ..."
+
+Er geht also davon aus, dass Du anhalten *musstest*. Die Quelle dieser
+Annahme ist nicht erkennbar, vermutlich geht er von Annahmen aus den
+Akten heraus aus??
+
+Also: Du musst anhalten.
+Und nach 6. tatest Du das: anhalten.
+Und dann schreibt er:
+"geht von einem anhaltenden Radfahrer keine Reaktionsaufforderung aus,
+damit [Autofahrer] eine Abwehrbremsung einleiten muss."
+
+Das finde ich so weit recht logisch:
+Wenn ich irgendwo lang fahre, egal mit was, und sehe, dass aus einer
+nachrangigen Fläche (Straße ohne Vorfahrt, Ü10-Fläche, ...) jemand kommt
+und sichtlich mir die Vorfahrt lässt, in dem er anhält, dann würde ICH
+auch keine Reaktionsaufforderung für eine Abwehrbremsung sehen...
+
+Weißthanner *): "Vertrauensschutz für den Vorfahrberechtigten gilt nicht,
+wenn konkrete Anhaltspunkte für Vorfahrtverletzung gegeben sind, z.B.
+ungewöhnlich shcnelles Zufahren des Wartepflichtigen auf die Kreuzung."
+
+Und in diesem Zusammenhang verstehe ICH die Bewertung des Gutachters
+"geht von einem anhaltenden Radfahrer keine Reaktionsaufforderung aus,
+damit [Autofahrer] eine Abwehrbremsung einleiten muss."
+
+Im weiteren Verlauf sagt der Gutachter:
+"Ein stehendes Fahrrad, sofern es überhaupt erkannt werden konnte,
+veranlasst einen Autofahrer nicht zu einer Vollbremsung."
+
+Hier ist m.E. der Nebensatz "sofern es überhaupt erkannt werden konnte"
+wichtig. Denn der genaue Standort Deines Rades ist ja strittig im
+Gutachten. Wenn man annimmt, Du wärest an der Grenze der Erkennbarkeit
+gestanden, dann hätte er durchaus Recht. Ich bezweifle aber nach
+Deinen Bildern und Aussgen, dass man zu dieser Annahme kommen kann,
+sprich: es ist m.E. klar, dass Du weiter raus (nach � 10 eigentlich
+zu weit raus...) standest. Mit DIESER Annahme wäre die Aussage im
+Gutachten eindeutig zu kritisieren. Wer nicht wegen eines "mitten
+auf dem Marktplatz" stehenden Rades bremst, gehört in der Tat aus
+dem Verkehr gezogen. Dann wäre aber auch der "Vertrauensschutz" aus
+dem Weißthanner-Kommentar hinfällig.
+
+Aber der Gutachter scheint der These anzuhängen, Du wärest kaum zu
+sehen gewesen, was in die Argumentationslinie "anhaltender Radfahrer"
+passt. DANN ist die Aussage zwar sehr unglücklich formuliert, aber
+nicht so völlig daneben...
+
+Den Satz ohne den Nebensatz zu betrachten:
+"Ein stehendes Fahrrad ...
+veranlasst einen Autofahrer nicht zu einer Vollbremsung."
+ist m.E. nicht so ganz richtig...
+
+------ soweit meine damalige Entgegenung ------
+
+*) Bouska = wichtiger StVO-Kommentar
+
+[Radfahrer] schrieb weiter:
+
+Er kritisiert also nicht nur den Gutachter, sondern auch den Richter.
+
+------ Ich entgegnete damals: -----
+
+"Nach den nachvollziehbaren ... kann aufgrund der vorhandenen
+Anknüpfungstatsachen von ... 12 km/h ausgegangen werden, eine höhere ...
+ist ... nicht nachweisbar."
+
+Der Richter übernimmt die Berechnung der Geschwindigkeit aus dem Gutachten.
+Dass er auch eventuelle zweifelhaften Sätze übernimmt, steht dort oder
+anderswo aber nicht.
+
+...
+
+Wie gesagt:
+
+Das Gutachten geht von der Argumentationskette "kaum zu
+sehender, aber anhaltender Radfahrer" aus. DANN und NUR DANN sind die
+kritisierten Sätze eigentlich logisch korrekt gefolgert, wenn auch
+tw. unglüklich formuliert, wie oben geschrieben.
+
+Ich halte aber die Argumentationskette für zweifelhaft. Der Standort des
+Rades ist m.E. falsch in die Rechnung eingegangen. Mit richtigem Standort
+nach Deinen Photos wäre die Geschwindigkeit 12 km/h nicht haltbar gewesen.
+
+Es ist aber weitem nicht klar, ob bei KORREKTER Positionsannahme die
+kritisierten Sätze auch noch so drin gestanden hätten. Die Verknüpfung
+mit anderen dazu gehörigen Stellen des Gutachtens zeigten doch, dass
+die kritisierten Sätze nur zusammen mit der falschen Positionsannahme
+gültig sind.
+
+Aber die Argumentation mit den überfahren von Radlern mitten auf dem
+Weg ist m.E. sehr, sehr wackelig und beruht eher auf einen Denkfehler
+oder Überinterpretation der nicht gerade glücklich formulierten Sätze.
+
+------ soweit meine damalige Entgegenung ------
+
+Nun zu den Fragen an die geneigten Leser, die sich bis hierhin
+durchkämpften :-)
+
+Wie weitgehend darf man die Passagen ...
+
+"Sofern dieses Einfahren durch [den Autofahrer] erkennbar war -- es
+befanden sich laut Angabe noch zwei personen und Koffer im Unfallbereich --
+geht von einem anhaltenden Radfahrer keine Reaktionsaufforderung aus, damit
+[der Autofahrer] eine Abwehrbremsung einleiten muss.
+
+Ein stehendes Fahrrad, sofern es überhaupt erkannt werden konnte,
+veranlasst einen Autofahrer nicht zu einer Vollbremsung.
+
+Von sachverständiger Seite kann daher nur das Kollisionsger�usch zwischen
+dem Fahrrad und dem Pkw als Reaktions-Aufforderung angesehen werden,
+damit der Fahrer des Ilev sein Fahrzeug spontan zum Stillstand abbremst."
+
+... interpretieren?
+Oder umgekehrt gefragt: Wie weit darf man bei einer solchen Passage
+den Zusammenhang vernachlässigen?
+Und wie weit darf man die Passage ggfs. auch dem Richter zur Last legen?
+
+Er ist nicht ganz zu Unrecht sauer auf Richter und Gutachter,
+schließlich hat die nächste Instanz das Urteil teilweise kassiert,
+aber m.E. ist seine sehr weitgehende Interpretation der Passagen
+auch aus sprachlicher Sicht so nicht richtig.
+Dazu hätte ich gerne weitere Meinungen gehört. Danke!
+
+           MfG       Gernot Allmenröder   Z!                   Rauschecker Nordring
+-- 
+Gutjahrstraße 50, D-83897 Neutras   fon +45 132 90080     fax 2534877
+Musiclandbüro  hfz-fhyo-DJ.cb   Internet-Service     pdez-cjqi.wm
+Couleurstud. Infos      qlqenf.bc   JUN, BBfashion VL oiwwath.rc

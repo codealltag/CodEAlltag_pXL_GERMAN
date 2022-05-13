@@ -1,0 +1,12 @@
+Das hoffe ich doch nicht. Eine Schleifenvariable, die sich nicht mit
+jedem Schleifendurchlauf ändert, wäre ziemlich unsinnig. Sie ist nur
+innerhalb eines Schleifendurchlaufs konstant.
+
+
+WIMRE war es in Modula-2 wieder so ähnlich wie in Algol.  Allerdings
+führte der Versuch, die Schleifenvariable innerhalb des Schleifenkörpers
+zu ändern, nur zu undefiniertem Verhalten, der Compiler musste das nicht
+als Fehler anmeckern (und die mir bekannten Compiler taten es auch
+nicht).
+
+	hp

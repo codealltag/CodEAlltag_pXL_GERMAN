@@ -1,0 +1,13 @@
+Das ist mir beim ersten Lesen gar nicht aufgefallen: Die Formulierung
+"korreliert nicht selten" ist ein Pleonasmus, da der Begriff
+Korrelation bereits die Aussage trifft, daß es häufiger auftritt,
+als man es zufallsbedingt erwarten würde.
+
+Entweder "...korreliert mit niedrigem EQ..." oder "...tritt nicht selten
+in Verbindung mit niedrigem EQ auf..."
+
+
+Sehe ich (ohne jetzt irgendwie hochkompetent zu sein) auch so.
+
+Gruß
+Berthold

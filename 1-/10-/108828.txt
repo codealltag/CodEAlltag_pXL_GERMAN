@@ -1,0 +1,16 @@
+Unnötig, das geht mit Induktion. Wenn es (1) unter den Elementen einer
+nicht-leeren Menge unterschiedlicher uninteressanter Sätze einen
+alphabetisch ersten geben muß (was wir als gegeben annehmen können) und (2)
+dies eine interessante Eigenschaft dieses Satzes ist, führt dies zu einem
+Widerspruch: Es kann keinen alphabetisch ersten uninteressanten Satz geben,
+denn genau dadurch wäre er nicht mehr uninteressant. In (1) eingesetzt
+heißt das, daß die Menge der uninteressanten Sätze leer sein muß. 
+
+
+vG
+
+-- 
+            Die Pappnase adelt den Clown, sie ersetzt ihn nicht.
+      (Carlo Friedl in de.rec.musik.machen über eingebildetes Talent)
+
+-- <http://uwgzqmwf.wbj> -- Ein Pinguin für jeden: <http://pxsyme.nwy/> --

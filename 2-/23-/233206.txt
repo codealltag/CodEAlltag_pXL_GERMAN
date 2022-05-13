@@ -1,0 +1,12 @@
+* Paolo Mögeles:
+
+
+"Pädagoge" allein ist wohl auch in Deutschland nicht geschützt,
+"Sozialpädagoge" aber schon. Und auch in der Schweiz kann sich ein
+Schreiner nicht z.B. "Dipl.-Sozialpädagoge" nennen.
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

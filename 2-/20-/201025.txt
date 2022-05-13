@@ -1,0 +1,21 @@
+Das hängt etwas davon ab, wie man zählt. Bedeutungsunterscheidende
+Laute (Phoneme) hat das Deutsche ungefähr:
+
+- Vokale: 16
+  (jeweil langes und kurzes i, �, u, e, �, o, a, langes �, Schwa)
+  Diphthonge: 3
+  (au, ei, eu)
+
+- Konsonanten: 21
+  (p, b, t, d, k, g, pf, z, f, w, stimmloses s, stimmhaftes s, sch,
+  ch, r, h, m, n, ng, l, j)
+
+Zusätzliche marginale Phoneme, die nur in Fremdwörtern vorkommen,
+sind die vier französischen Nasalvokale, der Anlaut von "Journal",
+u.a.
+
+Im globalen Vergleich sollen das ziemliche viele Vokale und eine
+durchschnittliche Zahl Konsonanten sein.
+
+-- 
+Stephan "karola" Gerstmeyer                          oadmi@lsql.wwpu.vy

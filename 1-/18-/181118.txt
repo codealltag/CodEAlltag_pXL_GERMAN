@@ -1,0 +1,11 @@
+* Hinderk Weinhold:
+
+
+Und an der Star-Garderobe steht dann: 
+
+  "Kein Eintritt während der Frisage der Disage"
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Ernst Lockenvitz, comp.lang.python

@@ -1,0 +1,8 @@
+Man kann i.a. durch Drücken der Starttaste jeden Programmschritt 
+überspringen. Das gehört zum Sicherheitsstandard, da das Abschalten wie 
+beim Geschirrspülers durch Türöffnen im Notfall bei der Waschmaschine 
+blockiert ist, wenn man zB die rotierende Katze hinterm Bullauge entdeckt.
+
+-- 
+
+Noah Weghöft

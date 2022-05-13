@@ -1,0 +1,12 @@
+* Bernhard Zuckschwert:
+
+
+Dazu kommt, daß die Menge aller unbestimmten X eine bestimmte
+Menge darstellt - und dann gibt es auch noch Mengen von Mengen:
+
+  Die Katzen sind eine Familie der Raubtiere. Katzen haben
+  einziehbare Krallen. Der Tiger ist der größte Vertreter dieser
+  Familie, Tiger können über 2 Meter lang werden.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

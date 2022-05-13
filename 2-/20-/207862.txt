@@ -1,0 +1,4 @@
+On 2012-07-10 07:14:10 +0000, Adrian Reblin Katter said:
+
+
+Der alt-text des Bildes sollte auftauchen, nicht der Titel der Seite.

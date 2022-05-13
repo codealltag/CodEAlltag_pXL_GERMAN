@@ -1,0 +1,36 @@
+Jein, es ist "etwas" komplizierter und nix für Technophobe...  ;-)
+
+"Supersedes:" ist (schwer zu glauben, ist aber so) noch kein offizieller
+Usenet-Standard.  Im Gegensatz zu einem Cancel ist ein Supersede auch
+keine Kontrollnachricht, sondern ein "ganz normales" Posting, damit Server,
+die "Supersedes:" nicht unterstützen, es zumindest weiterreichen. Die
+Server, die es unterstützen, handhaben es intern wie ein Cancel des alten
+Artikels mit der angegebenen "Msg-Id:" nebst Posten des neuen Artikels,
+reichen ihn aber auch incl. "Supersedes:"-Zeile an andere Server weiter.
+
+Dafür, daß in Usenet-Clients Originale /und/ Supersedes angezeigt werden,
+sehe ich zumindest zwei mögliche Gründe:
+
+   1. der Server, von dem der Client die News bezieht, unterstützt keine
+      Supersedes (dürfte aktuell allerdings eher selten der Fall sein),
+      und der Client unterstützt beim Anzeigen ebenfalls keine Supersedes
+      (dürfte wahrscheinlicher sein)
+
+   2. der Server unterstützt zwar Supersedes, aber auch "Cancel-Lock"; um
+      Artikel erfolgreich canceln zu können, müssen diese (üblicherweise
+      durch ihren Posting-Host hinzugefügt) eine passende "Cancel-Lock:"-
+      Zeile enthalten (der Cancel-Lock-Mechanismus ist "inoffiziell" und
+      somit auch noch nicht sonderlich verbreitet; er soll unerlaubtes
+      "Fremd-Canceln" durch Dritte verhindern)
+
+Im vorliegenden Fall dürfte ziemlich sicher 2. die Ursache sein; Abhilfe
+schafft entweder das Treten des News-Providers (damit er "Cancel-Lock"
+implementiert) oder die Verwendung eines Clients bzw. hausgemachter
+Speziallösungen, die die "Cancel-Lock:"-Zeile in eigene Postings einfügen.
+"tin" kann das (meine ich mal), und "40tude" wohl auch (meint jedenfalls
+Tante Erna).
+
+So, ich hoffe, damit sind alle Klarheiten beseitigt...  ;^)
+
+
+ottmar

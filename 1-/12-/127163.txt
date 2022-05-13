@@ -1,0 +1,9 @@
+Das Auge hat nur drei Arten Farbrezeptoren. Der Grund für 6 oder mehr
+Mal- oder Druckfarben ist, daß man auf Papier helle Töne nicht aus
+dunklen Grundfarben mischen kann. Beim Mischen von Körperfarben wird es
+immer nur dunkler, nicht heller.
+
+Auf dem Monitor kann man aber drei Farben sogar zu Weiß mischen, wenn
+auch nur bis zur maximalen Helligkeit. Aus diesem Grund gibt es auch keine
+Monitore mit mehr als drei Grundfarben. Die extra hellen Zusatzfarben
+werden da nicht gebraucht.

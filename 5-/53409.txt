@@ -1,0 +1,28 @@
+Dem Satz als ganzem stimme ich zu, aber das "äußerst unwahrscheinlich" in 
+der Klammer würde ich nicht unterschreiben. Im speziellen Fall habe ich 
+keine Ahnung, wo die Regeln herkommen, aber dass bei unterschiedlichem 
+Sprachgebrauch einer willkürliche Regeln aufstellt, kommt mir nicht 
+ungewöhnlich vor. Ich würde darauf tippen, dass die folgenden Regeln alle 
+von Leuten aufgestellt worden sind, die einen unterschiedlichen 
+Sprachgebrauch *nachträglich* normieren wollten, weil ihnen die Sprache 
+sonst zu wenig präzise definiert vorkam, und nicht von solchen, die 
+festgestellt haben, welcher Sprachgebrauch tatsächlich von einer 
+deutlichen Mehrheit kompetenter Sprecher als korrekt empfunden wird.
+
+Syntaktisch:
+
+ - "wegen" ist nur mit Genitiv korrekt.
+
+ - Ein Satz (genauer: ein Teilsatz mit eigenem Verb) kann nur an einer 
+   Stelle verneint werden, nicht also gleichzeitig durch mehr als eines 
+   von "nicht", "kein", "nie", "niemand".
+
+Semantisch:
+
+ - "scheinbar" bedeutet nicht nur "dem Anschein nach", sondern "einem 
+   falschen Anschein nach".
+
+ - "umsonst" bedeutet nur "kostenlos", nicht aber "vergeblich".
+
+-- 
+Arne Ufferhusloh

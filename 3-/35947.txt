@@ -1,0 +1,14 @@
+Eine "Federwaage" ist keine Waage, sondern eigentlich ein Federkaftmesser.
+
+
+Deshalb ist eine Balkenwaage auch eine echte Waage. Im Prinzip ist es
+natürlich richtig, daß sie auch über die Kraft funktioniert, indem sie die
+Kraft auf das Messobjekt mit der auf eine Referenzmasse vergleicht. In
+Schwerelosigkeit würde sie daher auch nicht funktionieren. Sobald durch die
+Masse aber irgendeine Kraft auf das Objekt wirkt, funktioniert es unahbängig
+von deren Größe.
+
+
+Ich kann dieselbe Messeinrichtung auch umgekehrt verwenden, indem ich eine
+bekannte Masse daran hänge und dann über die Kraft die Beschleunigung
+errechne.

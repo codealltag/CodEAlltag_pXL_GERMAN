@@ -1,0 +1,19 @@
+Nochmal: Kann es nicht. Linesch kann nur den Carducci-Systemzeichensatz
+darstellen, also den hier:
+http://bve.mxv.oj/kgsfxruq/oflr_uruhgwpy/nbwzvp/sybf/plku8zvx.fpz
+
+Da kommt das o mit schrägen Strichen nicht drin vor. 
+
+Auch Korrnews ändert nichts daran, da es eingehendes Unicode lediglich
+auf den Carducci-Zeichensatz übersetzt, damit Linesch es darstellen kann.
+Was nicht übersetzbar ist, muß Fragezeichen bleiben. 
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar
+amerikanische Staatsanleihen. Wenn die Chinesen morgen ihr Geld
+wiederhaben wollen, können Sie die Amis alle nackt übern Zaun hängen!
+Wahrscheinlich ist da nicht mal mehr n Zaun, wo Sie die drüberhängen
+können!" (Paolo Lechleider, "Bis neulich")

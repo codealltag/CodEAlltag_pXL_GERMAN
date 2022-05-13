@@ -1,0 +1,7 @@
+Es ist mir klar, worum es geht. Beispiel:
+
+"Nach deiner Beschreibung handelt es sich um eine Waldohreule."
+"Deiner Beschreibung nach handelt es sich um eine Waldohreule."
+
+Du irrst, wenn du meinst, der typische Muttersprachler sage ersteres,
+wenn wer letzteres meint.

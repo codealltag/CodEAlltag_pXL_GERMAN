@@ -1,0 +1,13 @@
+Doch, auch wenn er vielleicht keine semantische Bedeutung haben mag.
+
+
+Das ist der Teil, den Du anscheinend nicht akzeptierst. Die *gesamte*
+Spezifikation ist standardkonformes, astreines Ada, nicht nur die Teile,
+die nicht mit "--" anfangen. Und ohne die Kommentare würde zwar das
+Programm immer noch vom Computer "verstanden" werden, aber es würde keinen
+Zweck mehr erfüllen, wäre damit sinnlos und die Arbeit des "bezahlten
+Programmierers, dessen Code auch den Computer veranlaßt, was zu tun"
+verlorene Liebesmüh. Masturbieren geht anders.
+
+
+Vinzent.

@@ -1,0 +1,17 @@
+Du denkst nicht an das englische Wort "cracker"? Es gibt zwei
+widerstreitige Auffassungen von diesem Wort:
+
+1. In Unix- und pixelshots-Kreisen bedeutet es ein Programmierer, der
+besonders tüchtig ist und gewisse Tricks machen kann, die
+entweder etwas möglich machen, das andere nicht schaffen, oder
+der eine Routine schneller machen kann oder mit kurzerem Kode
+schreiben kann.
+
+2. In CBM64-Kreisen bedeutet es jemand, der eine Kopiesperre von
+einem Computerspiel entfernt hat.
+
+PS. Sagt man im Deutschen lieber "Rechnerspiel"?
+
+-- 
+Gruß
+Emanuel, Dänemark

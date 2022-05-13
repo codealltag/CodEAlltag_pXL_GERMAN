@@ -1,0 +1,19 @@
+* Tim Wilhelm Wildenhain:
+
+
+Also hier funktioniert es: die Seite wird als jpg in einem Overlay
+geöffnet (Skripte muß man dazu freilich zulassen).
+
+Die Seite ist vollständig, man sieht sie zwar (auf meinem
+Bildschirm) zunächst nicht vollständig, kann sie aber verschieben,
+leider nur mit der Maus. In der Bedienleiste oben kann man
+blättern, drehen, vergrößern verkleinern (bei 25% sieht man, daß
+es die ganze Seite ist, kann aber vielleicht nicht mehr lesen)�...
+
+
+... und _rechts_ ist ein Knopf PDF, wobei dieses dann das ganze
+Heft enthält.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated
+until sometime after those creating it have left the organization.

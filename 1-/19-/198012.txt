@@ -1,0 +1,26 @@
+* Nico Hashagen:
+
+
+Genausowenig wie PIN-Nummer, das endet in "number-Nummer".
+
+Ja, zufällig kann man die Abkürzung auch deutsch ausdeuten, aber
+da kommt sie nicht her. So wie ich den deutschen Umgang mit Ak
+kenne, hieße sie abgekürzt bestimmt auch dann PIN, wenn die
+übliche deutsche Übersetzung "persönliche Identifikationszahl"
+wäre. Das ist auch nicht "typisch deutsch", sondern weltweit
+üblich, zum Beispiel heißt das Ding in Indonesien anscheinend kurz
+PIN und lang Nomor Identifikasi Pribadi". Auf französisch heißt
+das /NIP/, die redundante Variante wäre /numöro NIP/. Französisch
+ist eine der weltweit seltenen Ausnahmen, weil es auch solche
+Abkürzungen oft übersetzt. Selbst auf Russisch und auf Japanisch
+bleiben solche Abkürzungen meist, wie sie auf Englisch heißen,
+inklusive lateinischen Schriftzeichen.
+
+
+Deshalb "vergleichbar" und nicht "genauso", nehme ich an.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Ludger Hülsberg in sci.lang

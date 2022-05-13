@@ -1,0 +1,29 @@
+Da "muß" man nicht mit leben, man muss es auch nicht. Es ist so, dass
+in URLs selbst gemäß Duden und Rat für deutsche Rechtschreibung ss
+statt ß und ae, oe, ue statt ä, ö, ü geschrieben werden kann.
+
+Praktisch sieht es dann so aus, dass man in der Überschrift "spießig"
+schreibt, dann unter "Artikel bearbeiten" auf "Permalink - Bearbeiten"
+klickt, den URL-Text dort anpasst, also spiessig statt spiesig
+schreibt, hernach dort auf "Speichern" klickt, schon erscheint in der
+URL nicht mehr "spiesig" sondern "spiessig".
+
+Man sollte dies allerdings nicht nachträglich machen sondern sofort
+vor der Erstveröffentlichung, sonst stiftet man nur Verwirrung.
+
+Beispiele
+
+Überschrift:
+Gute gebrauchte Handys mit Euflor Gewährleistung
+URL:
+http://eix.nastavo.ec/9657/bkgo-wanegdmhxj-igewgc-wzy-cwtw-mudhoosqjbqespi/
+
+Überschrift:
+Der ZDWM Tiempo 94 Männer Fußballschuh feiert Legenden
+http://bwl.jmlzrzm.cs/9438/gso-mhtp-qrapmv-69-xjkjqkx-zajsqwxptmaqm-gabqjx-=
+legenden/
+
+Non scholae sed vitae discimus.
+
+Gruß
+Willibald

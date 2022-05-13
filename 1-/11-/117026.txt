@@ -1,0 +1,12 @@
+Knut Diesterhöft tat kund:
+
+
+Eigentlich, daß einer rein muß.
+
+
+Du übersiehst, daß die SW schon mal gelaufen ist - mit Stecker.
+Und daß der Kunde selber schon den Zusammenhang zwischen
+Herausziehen des Steckers und Nichtmehrlaufen der SW
+erkannt hat. Da ist es ein sehr kleiner Schritt,
+probehalber mal den Zustand wiederherzustellen, in dem
+alles funktioniert hat.

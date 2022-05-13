@@ -1,0 +1,51 @@
+Nummer 1.
+
+Ich wollte (uns will noch immer) mal eine Zusammenfassung schreiben und
+fand das eine der schwierigeren Regeln. Etwa so:
+
+Ausgangspunkt ist immer die logische Stellung mit dem finiten Verb am Ende
+
+  ... hätte
+
+was hätte sie? sollen!
+
+  ... sollen hätte
+
+was hätte sie sollen? vorbereiten!
+
+  ... vorbereiten sollen hätte
+
+Normalerweise ist diese Stellung dann auch das Ende eines Nebensatzes nach 
+"dass". Nur wenn vor dem finiten Verb zwei oder mehr Infinitive stehen, 
+kommt es vor diese Verben:
+
+   ..., dass sie sich besser hätte vorbereiten sollen.
+   ..., dass er sich hätte operieren lassen sollen.
+
+Gibts weitere Bestandteile des Prädikats, hat man die Wahl, ob man auch an 
+denen vorbei weiter nach vorn geht (MUSEN besser):
+
+   ..., dass er Zeitung hätte lesen wollen. 
+   ..., dass sie nach Hause hätte kommen sollen
+oder (besser?)
+   ..., dass er hätte Zeitung lesen wollen.
+   ..., dass sie hätte nach Hause kommen sollen
+
+Keine deutsche Ausnahme ohne Ausnahme:
+
+   ..., dass er einkaufen gehen wollte
+und nicht
+   *..., dass er wollte einkaufen gehen
+
+Und mit "nicht brauchen" ists so uferlos, dass man es besser ganz 
+vermeidet: 
+
+   ?..., dass er sich nicht hätte operieren zu lassen brauchen  
+
+In verschiedenen Dialekten gibt es höchst interessante Wortstellungen, 
+besonders im Osten:
+
+   ..., dass er nicht hat wollen die Enten gefüttert haben
+
+-- 
+Gilles Ueberschaer

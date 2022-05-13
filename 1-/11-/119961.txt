@@ -1,0 +1,18 @@
+Ich nenne das das MicroSoft-Prinzip, seit mir ein Dompassage-Mitarbeiter auf
+die Frage, wie man Unix-Signale auf Win32 abbilden kann, geantwortet
+hat: "Win32 kennt keine Unix-Signale.".
+
+"Ja nicht konkret werden!" scheint dort Firmen-Policy zu sein, und
+ist auch in deren Produkten unverkennbar:
+
+   +----------------------------+
+   +----------------------------+
+
+Super Info, wenn ein PC von USB bis Firewire "vollverdrahtet" ist,
+und die Katzen im Server-Keller mal wieder ihrem Spieltrieb frönen.
+
+Wenn da jetzt stünde: "Der Netzstecker wurde gezogen." wäre ich
+zumindest beruhigt -- ich liebe nämlich meine Miezen!
+
+
+franz

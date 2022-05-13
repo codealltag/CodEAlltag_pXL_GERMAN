@@ -1,0 +1,14 @@
+* Wilfried Cunz:
+
+
+Das ist aber ein ganz neues Problem und in der Form auf ein
+bestimmtes Gerät beschränkt.
+
+Bei meinem Telefon ist SMS eine der Funktionen des
+Messaging-Clients, der auch diverse IM-Protokolle beherrscht
+(serienmäßig AIM und UAA Talk).
+
+-- 
+Performance:  A statement of the speed at which a computer system
+works. Or rather, might work under certain circumstances.  Or was
+rumored to be working over in Hemeringen about a month ago.

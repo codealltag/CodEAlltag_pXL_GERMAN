@@ -1,0 +1,10 @@
+Tja, Bernhard war in Deutschland auch mal praktisch unbekannt.
+
+"Andrée" ist aber so ungewöhnlich, daß auch englische Muttersprachler
+nicht auf Anhieb sicher waren, wie es auszusprechen sei. Nicht nur
+Nordamerikaner, ich habe das von einem Briten gehört.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

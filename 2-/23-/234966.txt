@@ -1,0 +1,24 @@
+Es gibt viele andere Probleme.
+Niemand kann ausschließen, dass sein Posting durch einen 
+7-Bit-Server geschleust wird.
+Der Absender kat keine Kontrolle darüber, welche Schrifart 
+der Empfänger eingestellt hat.
+Der Absender weiß nicht einmal, ob eine proportionale 
+Schriftart oder eine mit fester Breite beim Empfänger 
+eingestellt ist. Die meisten Schriftarten mit fester Breite 
+stellen Binde- und Gedankenstriche als identisch dar.
+
+Außerdem sind Postings eine Art unmittelbarer, beinahe 
+mündlicher Kommunikation. Der Mehraufwand für den Schreiber, 
+der deinen Empfehlungen folgt, ist um ein Vielfaches höher 
+als der Mehrnutzen für den Leser.
+
+Und die echten Fachleute werden noch ein Dutzend weiterer 
+Probleme nennen.
+Nur noch ein Beispiel: Gerade gestern war ich nicht zu Hause 
+und musste die Mails vom Server lesen. Bei einer bestimmten 
+Mail aus Italien erreichten mich alle è (e mit Gravis) als 
+Fragezeichen. Bei den anderen Mails aus mehreren Ländern war 
+alles in Ordnung.
+Und das ist passiert, obwohl dieses Zeichen eigentlich in 
+jeder west- bzw. mitteleuropäischen Codierung zu finden ist.

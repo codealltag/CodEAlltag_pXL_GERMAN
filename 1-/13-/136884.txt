@@ -1,0 +1,14 @@
+Na ja, das in UNIX Version 7 von 1979 erstmals
+enthaltene UUCP diente als _Transportmedium_
+für die ersten Implementationen von Usenet,
+inspirierte Usenet vielleicht gar.
+
+
+Nein, das ist eine de.admin-Legende, die von Netz-Sheriffs
+gerne verbreitet wird, um die angebliche Unabdingbarkeit
+gültiger Mail-Adressen in Usenet-Artikeln zu begründen.
+
+Mail ist jedoch deutlich älter als UUCP - und damit auch
+älter als Usenet. Das, was wir heute als Mail betrachten
+- der Austausch _individueller_ Nachrichten zwischen
+_verschiedenen_ Systemen -, begann wohl so gegen 1970.

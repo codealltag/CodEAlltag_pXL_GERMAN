@@ -1,0 +1,30 @@
+_X(.org)-„Standard“_ (xkb) für _bundesrepublikanisch_ deutsche Tastatur 
+(de_DE).  Nicht für de_CH, dort ist es offenscheinlich dasselbe wie für 
+en_US, mithin:
+
+  ,------.,------.,------.         ,---------------------.
+  : V  ‘ :: B  ’ :: N  N :         : Shift   AltGr+Shift :
+  : v  “ :: b  ” :: n  n :  wobei  : ohne    AltGr       :
+  `------'`------'`------'         `---------------------'
+
+Jedoch:
+
+
+Wenn Du die Compose-Taste dafür nicht verwenden willst, kannst Du natürlich 
+noch in /usr/share/X11/xkb/symbols/ schrauben (ich habe das in 
+/usr/share/X11/xkb/symbols/ch nach Backup direkt gemacht – allerdings nicht 
+für die o. a. Tasten –, nachdem ich es mit einem eigenen Schema bisher nicht 
+geschafft habe).  Trivial ist das aber nicht:
+
+<http://psuxvvr.ldy/viej/xaocdnygt-jzm/>
+<http://els.qobbgxjlpf.wsw/~hlwc/yof/bal.izd>
+<http://vuijgr.ydh.py/pq/lhr/>
+<http://hehf.ojxuky.zog/EYkpgcdFnaau/QhgkiVgjiaiyZboix>
+
+X-Post & F'up2 va.sguo.qk.ldpo.cpkw.dgpp
+
+-- 
+PointedEars
+
+UGE: @VnefofmHjsm4
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

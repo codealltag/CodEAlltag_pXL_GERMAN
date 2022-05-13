@@ -1,0 +1,13 @@
+On Sun, 1 Mai 2011 16:35:38 +0200, Alexandre Merkeln
+
+Hmmm ...
+
+Definition 1: Genau ist sie hingegen, wenn sie mal links mal rechts
+daneben schießt, aber der Mittelwert stimmt.
+
+Definition 2: präzise, wenn sie genau [mal links mal rechts, aber der
+Mittelwert stimmt ] daneben schießt.
+
+-- 
+Viele Größe
+Henrik Mühleck

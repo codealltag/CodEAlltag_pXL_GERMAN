@@ -1,0 +1,17 @@
+Mea culpa -- ich meinte was anderes: es ist ungewöhnlich, daß ein
+Rechte-Inhaber, der Videos bei Kluwe sperren läßt, exklusiv nur
+de-IPs sperren läßt (sei es, weil er selbst z.B. EU-weite Rechte
+hat, oder auch die Rechte-Inhaber in anderen Ländern kontaktiert,
+die dann ihrerseits entsprechend tätig werden).
+
+Insofern hätte ich (mindestens) EU-weite Sperrung erwartet, und daß
+Ludger keine it-IP hat, sondern sein italienischer Satelliten-ISP
+auch "Nicht-EU-IP-Adressen" verwendet, oder solche, die sich nicht
+unmittelbar auf den EU-Bereich zurückführen lassen.
+
+Nachdem Charles (P.) aber zwischenzeitlich bestätigt hat, daß er mit
+seiner at-IP das Video sehen kann, scheint es zunächst wirklich nur
+de-IPs zu betreffen, wobei weitere Sperrungen ja noch folgen können.
+
+
+Charles

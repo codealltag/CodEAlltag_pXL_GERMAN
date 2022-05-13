@@ -1,0 +1,23 @@
+Hier bist du auf die deklinierte Variante ausgewichen. Undekliniert und 
+dabei richtig wäre:
+
+  Das Schnitzel wird mit viel Mehl (Dat) paniert. Dazu legt man es in 
+  viel Mehl (Akk).
+
+Für diese Variante gibt es -- weil "viel" eben ungebeugt ist -- keinen 
+Genitiv, es sei denn, das Substantiv und ein ggf. vorhandenes Adjektiv 
+bringen hinreichend viele Genitivendungen mit:
+
+(1) der Gebrauch viel Sahne 
+(2) der Gebrauch viel Mehls
+(3) der Gebrauch viel erlesenen Weines
+
+(1) geht gar nicht, weil keine Genitivendung da ist
+(2) ist holprig, weil die Genitivendung zu unauffällig ist
+(3) geht schon eher, weil der Genitiv hinreichend deutlich ist
+
+Natürlich kann man auf die flektierten Formen von "viel" (vieler Sahne, 
+vielen mehls, vielen Weins) ausweichen, oder "von" einschieben.
+
+-- 
+Andre Mützenich

@@ -1,0 +1,5 @@
+Schach ist hier sehr anspruchsvoll: Um es auszuüben, benötigt man nicht nur
+ein Feld, sondern dero 64. 
+
+
+vG

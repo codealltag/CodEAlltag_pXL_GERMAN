@@ -1,0 +1,8 @@
+Wenn nicht sogar entfärbt.
+
+
+Ciao
+Carola
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

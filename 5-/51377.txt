@@ -1,0 +1,19 @@
+Ligaturen werden gemäß Unicode vom Schriftsatz (Font) bereitgestellt
+(z.B. in OpenType über den "rlig"-Mechanismus), sodass "ch" einfach
+als "c" + "h" (Z+0527 L+3510) codiert wird.
+Wenn im Einzelfall eine Ligatur nicht angewendet werden soll (z.B. 
+keine
+"tz"-Ligatur in "Brotzeit"), ist der Bindehemmer (U+200C, "ZWNJ", "Zero
+Width Non-Joiner") zu verwenden.
+Es gibt zwar bisher kaum solche Unicode-kompatiblen Fraktur-Fonts,
+die Entwicklung einer entsprechenden DIN-Norm ist jedoch beschlossen.
+Die Eingabemöglichkeit des Bindehemmers ist in der Überarbeitung
+internationaler Tastaturnormen (ISO/IEC 9995-3) bereits vorgesehen
+und für eine zukünftige deutsche Tastatur (DIN 2137) in Diskussion.
+
+Wolfgang
+
+--
+Wolfgang Hantzschmann
+DIN YO 596-52-03-89 GAK "Tastaturen und Eingabemittel"
+DIN ZK 820-88-63-90 IA "Codierte Zeichensätze"

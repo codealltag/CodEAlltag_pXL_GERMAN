@@ -1,0 +1,51 @@
+Ilona Zschornak <huti.lzwsa@kncmj.rkx>:
+
+[Klangbeispiel]
+
+
+Da wollte ich doch noch das Detail nachtragen, dass sich der Irrtum nicht
+einfräse: das Ding hat keinesfalls Plastiktasten, das ist eine der wenigen
+'richtigen' Tastaturen, die in dieser Kragenweite (sprich: Preisregion) im
+Umlauf sind.  Der Pianist, der da übt, sagt selbst, dass sie einer üblichen
+Pianino-Tastatur überlegen sein dürfte, wenn auch nicht der Tastatur eines
+Flügels.
+
+Man hört sie wohl klappern, weil der Generator leise gedreht wurde.  Wenn
+richtige Saiten angehämmert werden, so wird das Betriebsgeräusch überdeckt
+und fällt nicht weiter auf.
+
+Als die Protokolldefinition zur MIDI-Übertragung der zugehörigen Steuerdaten
+noch neuer war, hat ein Klavierbauer quasi richtige 'elektrische Klaviere'
+gebaut, eben per MIDI-Kontrolle statt per Lochkarten, sodass ein Klavier
+richtig mechanisch loslegte, rein per Steuerung (diese meine Beobachtung ist
+etwa von 1990, und damals war das schon auch keine neue Erfindung mehr).
+
+Das fällt mir dazu noch ein, dass wohl das Sprachempfinden so rigide
+geworden ist, kaum auch nur so ein Gerät dann als richtiges 'elektrisches
+Klavier' durchgehen zu lassen, obwohl es genau den Begriff wie aus den
+15. 11. 22 Jahren fortsetzt, wenn auch dort mit Stößen von Lochkarten hantiert
+wurde.
+
+Mittlerweile kann man ganz selbstverständlich Pianinos und kleinere Flügel
+finden, mit kleinem Aufpreis, bei welchen nurmehr die elektronische
+Aufnahmeseite per Sensoren realisiert ist, also Übersetzung des Gespielten
+in Steuerdaten (statt einer akustischen Aufzeichung; für die Wiedergabe
+bekommt man dann den Generator gleich mit aufs Auge gedrückt ...  wie heißt
+eigentlich dann diese Maschine?  Rein technisch ist das als Expander im
+Umlauf, aber das ist auch so eine traurige Vokabel).
+
+Ok, das ist dann nicht wirklich ein 'elektrisches Klavier'. Ich fand dafür
+'Silent Piano', das ist aber dann Marketingquack, manipulatives Sprachspiel
+für die landläufige Sardinen-Existenz in enger Dosenpackung.  So wird da
+gewiss kein Begriff daraus, höchstens Geplapper von Konsum-Euphorikern.
+
+Für die Sprechweise als 'elektrisches' fehlt zu dem Begriff dann wohl das
+Fleisch, das kommt ein wenig per Wiedergabeseite, wenn man auch etwas davon
+hört, dass da ein elektrisches Walten und Schalten mit im Spiel ist, sodass
+man der Tastatur beim unbedienten Abarbeiten zuschauen kann.
+
+Aber die rein mechanische Wiedergabe von Steuerdaten ist nun wohl prohibitiv
+teuer, in Relation zu Generatoren auf elektronischem Weg, diese Technik wird
+man kaum mehr zu Gesicht bekommen.  Und für den sprachlichen Begriff scheint
+selbst das elektronische Werkel, per MIDI, zuwenig fleischig, wenn man bei
+Lochkarten leibhaftig ein Rattern und Klackern vorgesetzt bekommt.

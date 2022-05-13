@@ -1,0 +1,2 @@
+Danke, jetzt habe ich es. Der Reiter wurde bei mir nicht angezeigt, da 
+die Hauptspalte zu groß eingestellt war. Gr

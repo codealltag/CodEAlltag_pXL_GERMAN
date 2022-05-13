@@ -1,0 +1,21 @@
+01  PAGE-HDR.
+	    05  FILLER        PIC X(24)      VALUE SPACES.
+	    05  FILLER        PIC X(32)
+                               VALUE "CUSTOMER NAME AND ADDRESS REPORT".
+	    05  FILLER        PIC X(24)      VALUE SPACES.
+	01  COLUMN-HDR.
+	    05  FILLER        PIC X      	VALUE SPACES.
+	    05  FILLER        PIC X(4)   	VALUE "ID #".
+	    05  FILLER        PIC X(2)   	VALUE SPACES.
+	    05  FILLER        PIC X(13)  	VALUE "CUSTOMER NAME".
+	    05  FILLER        PIC X(9)   	VALUE SPACES.
+	    05  FILLER        PIC X(14)  	VALUE "STREET ADDRESS".
+	    05  FILLER        PIC X(8)   	VALUE SPACES.
+	    05  FILLER        PIC X(4)   	VALUE "CITY".
+	    05  FILLER        PIC X(11)  	VALUE SPACES.
+	    05  FILLER        PIC X(5)   	VALUE "STATE".
+	    05  FILLER        PIC X      	VALUE SPACES.
+	    05  FILLER        PIC X(3)   	VALUE "ZIP".
+	    05  FILLER        PIC X(5)   	VALUE SPACES.
+
+Knut

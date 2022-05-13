@@ -1,0 +1,14 @@
+* August Feißkohl:
+
+
+Das hast Du jetzt erschlossen, oder? Bei mir steht es so, wie von
+Gustav zitiert, im Quelltext, ist also auf der Seite nicht
+ordentlich kodiert.
+
+Sollte wohl eigentlich so sein: 
+
+  &#x05d2;&#x05d1;&#x05d0; und &#x05d2;&#x05d1;
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

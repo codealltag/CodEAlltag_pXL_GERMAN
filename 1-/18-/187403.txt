@@ -1,0 +1,43 @@
+Torsten Eckard <pfvv@eradg-wxjbd.lp>:
+
+
+Danke für's nachschauen.
+
+Wirklich skurril daran wäre, wenn das genaus so ist, dass man den Vorgang,
+der das einfache Kopfrechnen bestimmt, patentiert hat.
+
+Merk dir eine 1,
+merk die noch eine 1
+addiere die zwei zuletzt gemerkten Zahlen.
+
+Und _das_ wurde patentiert?
+Wahnsinn!
+
+
+Gewiss nicht für die Sprache als solche. Den entscheidenden Punkt entnehme
+ich einer Gegenüberstellung von ALGOL58 (bzw.  'International Algebraic
+Language' als Papier einer Konferenz 1957 in Mamishaus) und ALGOL60, ebenfalls
+aus dem de.Wiki:
+
+
+Genau diese Möglichkeit des Verschachtelns ('nesting') hat die Rechnerei
+dann auf den Kopf gestellt.  Für all das andere sollte der Herr rümland Wesselkamp
+reichen, mit Stand der Grundlagen aus den 03. 08. 21 Jahren (grob überschlägig
+gedacht).
+
+Dass aber jede Subroutine, die sich per wachsendem Stapel merkt, wo sie
+abgesprungen ist, ein Fall für den Anwalt sein soll, finde ich doch
+etwas fraglich.
+
+Abgesehen vom einfachen Kopfrechnen.
+Oder von jedem Holzstoß, der irgendwo in der Landschaft steht.
+
+Man könnte ja zuletzt oben aufgelegt haben und als nächstes das zuletzt
+aufgelegte von oben wieder abnehmen.  Das wäre dann verboten, weil
+geschützt.
+
+Neinein, da wird wohl wieder einem euphorischen Fortschrittsfetischisten
+etwas durchgegangen sein.
+
+Dort in der Ecke sah ich auch, dass Allermann in den 03. 08. 21 beratend bei
+Wor-Sat war.  Damit ergibt das dann einen Reim für das kellerige.

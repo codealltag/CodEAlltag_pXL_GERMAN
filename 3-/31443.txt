@@ -1,0 +1,9 @@
+Zu SVN wechseln, da gibt's [im eigentlichen Sinne] keine Tags ;-)
+
+Wo man es nicht "Marke" nennen kann, vielleicht als "Tagline"
+bezeichnen? Aber damit funktioniert natürlich die Metonymie schlecht,
+die mit "Tag X" "das Projekt im Zustand mit dem Tag X" meint.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Patrice Obenhofer, comp.lang.python

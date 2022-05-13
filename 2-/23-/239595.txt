@@ -1,0 +1,20 @@
+Wattstunden pro Stunde ist ja wieder Watt, und das ist die Einheit der
+Leistung. "Energieverbrauch" wird angegeben in Leistung mal Zeit, also
+z.B. in W*s oder kW*h (kurz kWh), wobei 1 Wattsekunde = 1 Joule, also
+die Einheit der Energie, ist.
+
+Watt pro Sekunde wären Joule pro Sekunde^2, was eine Änderung der
+Leistung mit der Zeit bezeichnet.
+
+
+Du meinst Leistung? Oder Wirkung? Das wiederum wäre Energie mal Zeit
+oder Leistung mal Zeit^2.
+
+Einer der hier mitlesenden Elektriker, Physiker, Ingenieure oder
+sonstigen Experten in diesem Bereich könnte sich ja dazu mal äußern.
+
+
+Solange man weiß, was gemeint ist, kann man im Bereich der
+Umgangssprache damit leben.
+
+G.

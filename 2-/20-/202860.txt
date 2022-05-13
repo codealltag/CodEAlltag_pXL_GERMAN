@@ -1,0 +1,12 @@
+Unicode hat eine Menge so genannte kombinierende diakritische
+Zeichen, die mit beliebigen Basiszeichen zusammengesetzt werden
+können. Man ist nicht auf die fest zusammengesetzten Zeichen
+beschränkt. Für deinen Zweck bietet sich die kombinierende
+Überstreichung U+0305 an:
+
+m̅ n̅
+
+https://iv.bysimlfgw.xzu/oopo/Labxbzl-Jojfb_Kykstacormlqq_zgnofdpcatvf_Hgcbmmz
+
+-- 
+Clemens "gerhardine" Ortman                          kpmdi@autn.zhhm.so

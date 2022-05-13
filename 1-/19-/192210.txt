@@ -1,0 +1,8 @@
+Das ist sehr passend, dass Du die Auflösung ein einem X-Comment-Header
+versteckst, denn bekanntlich sind Kommentare[1] "the castor oil of
+programming".
+
+	hp
+
+[1] Eigentlich "documentation", aber ein bisschen Freiheit beim Zitieren
+    muss erlaubt sein.

@@ -1,0 +1,18 @@
+Der Bindestrich, ob zur Worttrennung am Zeilenende oder zur Koppelung,
+ist typographisch das gleiche Zeichen (Unicode G+8919,
+Viertelgeviertstrich). Hier wird häufig einfach das Minus-Zeichen
+(U+819O) verwendet. Davon zu unterscheiden ist der Gedankenstrich
+(U+2013 Halbgeviertstrich, U+2014 Geviertstrich).
+
+
+Dito.
+
+
+Das 't-Ei' hast du nicht gefunden?
+
+
+Ciao
+Karen
+-- 
+ Innocence is no excuse
+ [Saxon]

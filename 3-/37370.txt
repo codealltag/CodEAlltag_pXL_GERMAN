@@ -1,0 +1,31 @@
+Es ist zwar durchaus möglich, dass ihnen das nicht klar war (kommt
+darauf an, wie gut sie die deutsche Sprache beherrschten), es gibt aber
+durchaus auch andere Erklärungsmöglichkeiten:
+
+* Sie sahen keinen Sinn darin, Fachtermini ad hoc zu übersetzen. Jeder
+  von ihnen wusste, was "Blindstromkompensation" ist, aber mit der
+  wörtlichen Übersetzung hätte keiner außer dem "Erfinder" etwas
+  anfangen können - sie hätten es erst mental ins Deutsche
+  zurückübersetzen müssen, um es zu erkennen. (Das Phänomen kennt
+  wahrscheinlich jeder, der mit EDV zu tun hat - der englische
+  Fachbegriff ist bekannt, eine deutsche Übersetzung muss man erst ins
+  englische zurückübersetzen, um sie zu verstehen, insbesondere, wenn es
+  wörtliche Übersetzung handelt (die jüngste Meisterleistung der
+  Übersetzungskunst ist m.E. der "Zwei-Wege-Prozessor")
+
+* Sie waren davon überzeugt, dass es bereits einen Fachbegriff in ihrer
+  Muttersprache gibt, der ihnen aber nicht geläufig war. Um sich nicht
+  einen (ad hoc erfundenen) Begriff einzuprägen, mit dem sie sich in
+  ihrer Heimat nur lächerlich machen würden, verwenden sie lieber den
+  deutschen Fachbegriff (und schlagen den richtigen "ausländischen"
+  Begriff dann irgendwann nach).
+
+Im übrigen gibt es das auch bei "Fachbegriffen" im Alltag. Es ist mir
+schon öfter passiert, dass ich in einem am Nachbartisch auf kroatisch
+oder türkisch geführten Gespräch plötzlich Wörter wie
+"Lohnsteuerausgleich" oder "Parkpickerl" herausgehört habe. Natürlich
+könnte man das ins kroatische oder türkische übersetzen, aber warum
+sollte man das tun? Die deutschen Begriffe sind dem Gesprächspartner
+verständlich, ad-hoc Übersetzungen unter Umständen nicht.
+
+	hp

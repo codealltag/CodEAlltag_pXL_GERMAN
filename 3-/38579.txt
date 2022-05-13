@@ -1,0 +1,8 @@
+Ich glaube es euch ja. Nur bei mir stimmt es (auch beim Empfang) ...=20
+Ich kann mir nicht vorstellen, wo der Fehler passiert. Die einzige=20
+Lösung wäre, die ASCII-Graphik wegzulassen, den bei Normaltext=20
+stören Verschiebungen um ein Zeichen wohl nicht.
+Ich habe jetzt probeweise den Unterstrich der ersten Zeile  um einen=20
+Anschlag nach links  rausgesetzt. Paßt es jetzt?
+
+--=20

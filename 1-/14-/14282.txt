@@ -1,0 +1,9 @@
+Hört doch auf, Euch ein Gehirn wie einen Computer mit genau
+separierten Componenten vorzustellen! Ein Gehirn arbeitet zwar
+auch teilweise digital mit Ja und Nein, aber es hat weder eine
+zentrale Steuerung (CPU) noch etwas wie eine Festplatte - dafür
+einen Datenbus, der Millarden Bits gleichzeitig verarbeiten kann.
+
+Gruss
+
+Wilhelm

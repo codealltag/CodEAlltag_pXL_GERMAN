@@ -1,0 +1,9 @@
+Angeblich weil im Deutschen - ausser in Zahlen -  nach einem
+Punkt immer ein Leerschlag folgt, d.h. weil der einzelne Punkt
+ein Satzende markiert. Aber da die Form "wx.yz" neu ist (und für
+Buchstaben sonst nicht vergeben), kann sie nicht falsch sein.
+Sonst wäre ja der "@" auch falsch.
+
+Gruss
+
+Philippe

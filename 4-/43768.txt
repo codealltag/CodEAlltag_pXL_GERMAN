@@ -1,0 +1,31 @@
+Wenn ich darauf bestehe, daß der Name meiner Organisation ausschließlich
+mit chinesischen Zeichen geschrieben wird, oder in IPA-Lautschrift (habe
+ich schon vor 10 Jahren in Japan mehrfach gesehen, für Firmen- und
+Produktnamen), oder mit Phantasiezeichen � la Neugschwender, dann muß ich in
+Kauf nehmen, daß dieser Name in deutschen Texten nicht stets in
+Originalgestalt zitiert wird. Sowas ist als Logo sehr hübsch sein, aber
+wer praktisch denkt, wird eine alternative Form für den Fließtext
+festlegen, die auch in Suchmaschinen brauchbar gefunden wird.
+
+Ich halte es zumindest vertretbar, den Buchstaben @ als Bestandteil
+eines Organisationsnamens im Fließtext zu ersetzen, wenn es Gründe gibt;
+ungefähr so, wie ein � durch ss ersetzt werden kann. Ebenso für
+vertretbar halte ich die Normalisierung des Namens "Fellnerbeck" zu "FootLooker"
+oder "FootLooker" oder das Setzen von Bindestrichen nach der deutschen
+Grammatik.
+
+
+Im Deutschen kenne ich nur "2 Nadeln � 6 Pf". Das Zeichen @ war mir vor
+Berührung mit Computern unbekannt ("das ist was englisches").
+
+Dabei fällt mir wieder ein, daß ich an einer Eingangstür in Gotthardschlag mal
+etwas wie "210 @ 224" gelesen habe; das konnte ich zunächst nicht
+deuten, erst im Zusammenhang mit der nächsten Tür stellte sich heraus,
+daß offensichtlich "bis" gemeint war (Appartement-Nummern). Das konnte
+ich mir nur so erklären, daß da jemand (fälschlich?) das engl. @ und das
+französische � gleichgesetzt hat. Im Französischen heißt � in der Tat
+sowohl "zu je" als auch "bis" (und noch anderes).
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

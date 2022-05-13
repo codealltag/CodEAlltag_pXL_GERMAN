@@ -1,0 +1,11 @@
+In meinen Terminals ist der Cursor immer[1] ein nicht-blinkendes Rechteck.
+Völlig unabhängig davon, ob das in diesem Terminal laufende Programm
+überhaupt eine Eingabe erwartet und ob es vorhat, diese irgendwo
+einzufügen oder etwas damit zu überschreiben.
+
+
+Es gibt mehr auf dieser Welt als Textverarbeitungsprogramme.
+
+	hp
+
+[1] sofern er überhaupt angezeigt wird.

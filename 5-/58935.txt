@@ -1,0 +1,7 @@
+Das ist eine falsche Gegenüberstellung.
+Die reellen Zahlen enthalten sowohl die rationalen als auch
+die irrationalen Zahlen. Eine rationale Zahl (z.B. 3,2) ist
+dabei nicht weniger reell als eine irrationale (z.B. Pi).
+
+-- 
+Jörg

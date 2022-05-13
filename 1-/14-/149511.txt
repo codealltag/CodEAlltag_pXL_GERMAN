@@ -1,0 +1,11 @@
+Ok, aber jetzt vermischt Du mit dem rein sprachlichen Problem noch das
+Problem, es eine(m/r) Weib/(Frau|Dame) recht zu machen. Das erhöht den
+Komplit�tsgrad und dürfte dann NP-vollständig sein.
+
+Bye
+
+  stefano
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Kloz)

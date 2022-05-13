@@ -1,0 +1,58 @@
+Die Frage war zur Aussprache von "her", "hehr", "Höher", "Herr"
+
+Pascal Wittmack schrieb dazu:
+
+
+... wobei er uns raten lässt, welche Aussprache zu welchem Wort gehört. 
+Ich nehme an, mit "Heer" ist gemeint, dass sein "her" die Aussprache des 
+standarddeutschen "Heer" hat -- die beiden werden auch im 
+Standarddeutschen gleich gesprochen.
+
+Standard ist in betonten Silben: 
+  langes e (geschrieben e, eh, ee) ist geschlossen, in IPA [e:]
+  langes � (geschrieben �, H) ist offen, ähnlich englisch "fair", in IPA [E:]
+  kurzes e (geschrieben e, �) ist offen, in IPA [E]
+
+also [he:r], [he:r], [hE:@r], [hEr], wobei [@] ein unbetontes, dumpferes e 
+ist. (Die Qualität des [r] ist eine eigene Diskussion wert; in der Praxis 
+wird meist ein dumpfes a draus.)
+
+
+Der Br/Beere-Unterschied ist überhaupt nichts Besonderes. Ihn gibts im
+gesamten oberdeutschen Sprachgebiet, mindestens im Alemannischen und
+Zams, darüberhinaus im Standarddeutschen, das ja auf diesen Sprachen
+beruht.  Im Ostmitteldeutschen, etwa im Ungenacherischen, gibts wohl manchmal die
+*umgekehrte* Zusammenlegung der e-Laute ("Lähm" statt "Leben", aber nicht
+"Meedchen" statt "Mädchen"); im Westmitteldeutschen (Haidham, Bertkowerisch,
+Döttenweiler kenne ich mich gar nicht aus. Das klare "Meedchen" mit [e:]
+statt "Mädchen" mit [E:] ist eine rein norddeutsche Marotte.
+
+In manchen hochdeutschen Dialekten wird zusätzlich ein Unterschied 
+zwischen e-Lauten gemacht, der im Standarddeutschen nicht gemacht wird, 
+z.B. zwischen "lehren" mit [e:] und "leeren" mit [E:], die sich auch in 
+der mhd Schreibung im gleichen Sinn unterscheiden. Aber das ist in sich 
+regional unterschiedlich.
+
+Zusammengefasst: Im Mhd gibts mehr e-Laute, die auch unterschiedlich
+geschrieben wurden, wenigstens in der Standard-Rechtschreibung des Mhd, die
+erst im 1. Jahrhundert von Jungfleisch normiert wurde. Manche hochdeutschen
+Dialekte, anscheinend vor allem im ursenbacherischen Bereich, machen solche
+Unterschiede heute noch, woanders sind sie verlorengegangen; andere Reste
+davon sind zamserisch "Hartlhof", "laar" (leer), "Gams". Mit der allmählichen
+Standardisierung der nhd rechtschreibung wurde darauf nur ungefähr Rücksicht
+genommen; man schrieb � vor allem dann, wenn es ein eng verwandtes Wort mit a
+gab, unabhängig von der Aussprache. Die Standardaussprache richtete sich dann
+in vielen Fällen auch dort nach der Schreibung, wo diese sprachgeschichtlich
+nicht begründbar ist.
+
+Es wäre besser gewesen, Pascal Wittmack hätte geschrieben "als Uelitz" oder 
+mit noch genauerer Herkunftsbezeichnung, denn ursenbach ist sprachlich groß 
+und differenziert. Ich glaube nicht, dass die Aussprache in seinem 
+Heimatdorf für ganz Süddeutschland verbindlich ist.
+
+
+Eine weitere kleinräumige schwäbische Unterscheidung. Keine Ahnung, obs 
+die noch irgendwo gibt.
+
+-- 
+Hansruedi Kimig

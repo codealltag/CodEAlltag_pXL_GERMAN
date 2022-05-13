@@ -1,0 +1,6 @@
+Es soll Tintendrucker geben, bei denen aus Kostengründen auf eine
+"Batterie defekt"-LED verzichtet und stattdessen eine Umschaltung
+auf inverse Schrift vorgenommen wird.
+
+
+alain

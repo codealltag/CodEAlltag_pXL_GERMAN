@@ -1,0 +1,10 @@
+Oh, ich fürchte, das sind Feinheiten, die über meinen Bedarf
+und mein Vermögen hinausgehen. Wie Du oben siehst, stimmten
+auch Codierung oder Decodierung nicht. Auch die von Dir
+vorgeschlagene Eingabe [Alt + 147] erzeugt bei mir keine
+Anführungsstriche oben, sondern ein 'ô' . Aber wie gesagt:
+Für meinen kleinen Bedarf haben die Möglichkeiten von
+AllChars™ bisher genügt.
+
+j/\a
+--

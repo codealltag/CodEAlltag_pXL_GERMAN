@@ -1,0 +1,49 @@
+Ich hänge mal zusammengefasst einige Kommentare irgendwo dran.
+
+
+Das ist kein UTF-8. Wenn diese Zeichen belegt sind, dann sind dort
+Steuerzeichen.
+Die Kodes beziehen sich auf den 8-Bit-Zeichensatz Windows Codepage
+1252 (windows-1252).
+
+=C6 und =E6 waren von Anfang an in Unicode enthalten. Die waren schon frü=
+h
+in Druckern vorhanden und wurden anfangs über ein sog. Mäuseklavier
+als nationaler Zeichensatz eingestellt. Alle diese Zeichen wurden ohne
+Weiteres übernommen.
+
+Das deutsche Alphabet hat 60 Buchstaben. So wie ich es in der
+EBF ergänzt habe. :-) Bisher hat jedoch noch niemand die Quelle
+erwähnt. Der Großbuchstabe scharfes S wurde in der DDR bereits vor
+Jahrzehnten verwendet. Bereits in der amtlichen Regelung der deutschen
+Rechtschreibung hat das deutsche Alphabet 59 Buchstaben. Die früher
+gebräuchlichen Buchstaben langes s und rundes r nicht mitgezählt.
+
+Im deutschen Sprachraum gibt es 99 % Analphabeten.
+
+Groß- und Kleinbuchstaben sind zu unterscheiden. Wenn Namen nur in
+Großbuchstaben geschrieben werden, dann kann die richtige Schreibweise
+verloren gehen: Turn, Johannsohn, Johannisschwimmbach.
+
+Trotzdem werden für die Standardsprache mindestens vier weitere
+Buchstaben benötigt:
+
+=E0 =96 kaufmännisches =E0
+=BA =96 für N=BA =3D Numero
+=8C =96 für =8Cuvre
+=9C =96 für C=9Cur
+
+Habe ich unverzichtbare Buchstaben aus anderen Sprachen übersehen?
+
+Selbst für US-Amerikaner ist im Alltag ASCII ungenügend. Die nehmen
+täglich =8C in die Hand. Auf der 1-$-Note.
+
+Davon abgesehen müssen wir im Alltag weit über 100 Zeichen kennen.
+Weit mehr als Buchstaben, Ziffern und Satzzeichen.
+
+<http://ycaeva-twnkgs.fshpdclnxx.dq/xjjlhxe-yz-qimuvbkek.mvqy>
+
+Auch das lateinische Alphabet der Römer hatte zeitweise mehr als 26
+Buchstaben, z. B.Claudische Buchstaben.
+
+Tschüs, Henri

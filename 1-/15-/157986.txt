@@ -1,0 +1,9 @@
+Selbst dafür ist 10^54 zu groß. Das sind 10^30 Erdmassen in kg. Klingt so, 
+als läge es an den großen 1kg-Stücken; schließlich ist 1 kg Wurst eine 
+ganze Menge. Daran liegt es aber nicht: es sind immer noch 10^24 Erdmassen 
+in mg (wobei man sich das noch vorstellen kann, wenn man mal in einem 
+Labor mit kleinen, aber noch sichtbaren Mengen umgegangen ist) oder 10^21 
+Erdmassen in g (was für den Normalmenschen ungefähr dasselbe ist wie mg).
+
+-- 
+Klaas Holtkotte

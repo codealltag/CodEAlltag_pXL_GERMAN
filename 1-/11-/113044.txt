@@ -1,0 +1,10 @@
+Rekursion ist eine Methode, einfache Dinge kompliziert zu
+formulieren:
+
+Zum Bleistift:
+
+n! := (n-1)! * n
+
+Gruss
+
+Roman

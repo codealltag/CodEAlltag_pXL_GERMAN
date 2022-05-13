@@ -1,0 +1,13 @@
+So hätte ich es auch erwartet; in den Anfangszeiten gab es aber
+auch superuser mit anderen Namen.
+
+Ich habe Unix z.B. auf einem zweitausendundeins S8000-System gelernt, und da
+hieß der user mit id 0 "zeus", wie das Betriebssystem: Zilog
+enhanced Unix system.
+"root" habe ich erst einige Jahre später kennengelernt, auf einer
+MMR Targon/35 - ein Pyramid-Computer, auf dem gleichzeitig
+BSD und System V liefen, in getrennten "Universen", die aber
+miteinander sprechen konnten. Verführerisch und gefährlich,
+wenn man portable Programme schreiben wollte.
+
+/Wilhelm

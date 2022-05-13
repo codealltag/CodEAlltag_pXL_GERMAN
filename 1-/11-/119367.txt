@@ -1,0 +1,38 @@
+* Arne Greven:
+
+
+Kann ich, auch im Nachhinein, nicht klar erkennen.
+
+
+Wenn ich nochmal darüber nachdenke, merke ich, daß es sich um eine
+Verallgemeinerung in bester Mathematikertradition handelt. Der n-te
+Geburtstag für positive ganzzahlige n ist gut eingeführt, nun erweitern
+wir das auf negative Zahlen, rationale Zahlen, ...
+
+
+Beim Kalender sind die Probleme im Detail etwas komplexer. Es ist u.U.
+strittig, welcher Tag genau der 19,5te Geburtstag einer Person sei, je
+nachdem man die variable Monatslänge oder Schalttage in Betracht zieht
+oder nicht (die meisten würden diese wohl ignorieren). Daß der Tag in
+einer wie auch immer definierten Mitte zwischen dem 19. und dem 20.
+Geburtstag zu liegen hat, ist aber klar.
+
+
+Die Definition dessen, was ein "Geburtstag" sei, muß dabei eventuell
+angepaßt, nämlich verallgemeinert werden, siehe oben. Aus der
+"Wiederholung des Datums der Geburt" wird dabei "Tag, der eine bestimmte
+Anzahl von Jahren nach dem Tag der Geburt" liegt.
+
+Ich sehe darin kein Problem, solche Bedeutungsverschiebungen finden bei
+der Sprachbenutzung andauernd statt, das ist eine der Triebkräfte der
+Sprachentwicklung. So wird die Sprache ständig neuen Anforderungen
+gerecht, ohne daß man ein Vokabular von etlichen Millionen Wörtern
+benötigt.
+
+
+Sprache drückt nur aus, was wir denken, ob eine Wirklichkeit unabhängig
+davon existiert, ist in diesem Zusammenhang irrelevant.
+
+-- 
+GUGEL,  f., m., kapuze, mlat. cuculla, cucullus, ahd. cucalun cucullam
+  GRIMM, Deutsches Wörterbuch

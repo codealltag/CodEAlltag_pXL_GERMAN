@@ -1,0 +1,5 @@
+Erstens 'kann', nicht soll, man kann es auch in Windows-Manier via
+Rechtsklick und 'Eject device' entfernen, zweitens verschiebst du das
+Laufwerk nicht in den Papierkorb, sondern auf den Auswurfknopf.
+-- 
+Space - The final frontier

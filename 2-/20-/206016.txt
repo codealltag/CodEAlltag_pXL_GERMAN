@@ -1,0 +1,13 @@
+Wenn eingestellt ist, dass Bindestriche zwischen Leerzeichen automatisch 
+durch Gedankenstriche ersetzt werden sollen (so ist es standardmäßig), 
+nimmt man in Kauf, dass auch Bindestriche mit Leerzeichen davor, aber 
+nicht danach durch Gedankenstriche ersetzt werden, die beiden lassen 
+sich nicht voneinander lösen (oder ich habe die Stelle noch nicht gefunden).
+
+Für Laptoptastaturen ohne Nummernblock lasse ich die Einstellung auch, 
+weil ich öfter Gedankenstriche schreibe als solche 
+Auslassungskonstruktionen wie oben, und weil ein einfaches Strg+Z 
+reicht, um es rückgängig zu machen. Dafür muss man allerdings zugegeben 
+wissen, dass es rückgängig gemacht gehört.
+
+carsten

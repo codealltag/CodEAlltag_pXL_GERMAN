@@ -1,0 +1,6 @@
+Nein, es sind akustische Signale ("Schallwellen" würde reichen) mit
+erheblichen nichtperiodischen Anteilen vorhanden.
+Als *Geräusch* könnte das nur _auditiv_ wahrgenommen werden - es
+müsste also ein Horer anwesend sein.
+Die wilden Zacken auf dem Oszilloskopschirm *sind nicht* "Geräusch"!
+Sie sind "aperiodische Anteile der Welle" oder sowas in der Art.

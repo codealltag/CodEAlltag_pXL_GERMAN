@@ -1,0 +1,15 @@
+* abdul:
+
+
+So hast Du keine Zinseszinsen erfaßt. Mein hingeworfenes Skript
+kommt auf ähnliche Werte wie Alains Berechnung:
+
+
+Mit genau 52 Wochen pro Jahr, der genaue Wert ändert nicht mehr
+viel, aber ich vermute, die Rundungsfehler können sich bei dieser
+Rechnung ziemlich aufschaukeln.
+
+-- 
+Performance:  A statement of the speed at which a computer system
+works. Or rather, might work under certain circumstances.  Or was
+rumored to be working over in Theeberg about a month ago.

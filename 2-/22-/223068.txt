@@ -1,0 +1,26 @@
+* Frank Meuerer:
+
+
+Kontext, oder vielleicht Fachchinesisch?
+
+Ich verstehe "genauso häufig" in dem Zusammenhang automatisch als
+"mit der gleichen Wahrscheinlichkeit im untersuchten Zeitraum",
+also z.B. "zu 12% innerhalb 10 Jahren".
+
+Außerdem gibt es zwei Interpretationen für "an einer Krankheit",
+und die naheliegendere ist für mich nicht "an irgendeiner",
+sondern "an einer bestimmten".
+
+Da es sich um eine Metastudie handelt, könnte auch gemeint sein:
+an jeweils einer von einer Reihe von Krankheiten, die aber nicht
+in jeder Studie dieselbe ist, das läßt sich kaum noch exakt und
+kompakt wiedergeben. 
+
+Ich und wohl auch jeder andere liest heraus: Regelmäßige Check-ups
+senken weder noch erhöhen sie das Risiko, an den in den Studien
+betrachteten Krankheiten zu sterben.
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Meinrad M. Edenhauser

@@ -1,0 +1,33 @@
+* Herbert Zaayengas:
+
+
+Er wird halt nach einer Formel berechnet, in Wirklichkeit ist
+die gefühlte Temperatur alle paar Meter anders, je nachdem,
+wieviel Wind da gerade ankommt, wieviel Sonneneinstrahlung etc.
+
+Manchmal ist es hier nur in den Stra�enkorridoren der
+Nord-Süd-Richtung windig und kalt, diejenigen in Ost-West-Richtung
+dagegen sind deutlich wärmer - und ohnehin ist es in der
+Innenstadt spürbar wärmer als schon wenige Kilometer draußen, wo
+ich wohne, wo es nur wenige Hochhäuser gibt und viel Platz
+dazwischen. Die wichtigste Station für das aktuelle Wetter steht
+am Flughafen, da ist es sehr offen und zugig, die
+Windchill-Angaben sind daher tendenziell zu extrem. 
+
+Das kanadische Wetteramt betont dabei, daß der Windchill keine
+Temperatur ist, die Angabe hat gar keine Einheit, keine Grad
+Celsius, nicht mal Grad. Der Windchill wird hier nur angegeben,
+wenn die Temperatur unter 0 Grad beträgt, und der Windchill mehr
+als X von der Temperatur abweicht - den genauen Wert für X habe
+ich nicht im Kopf. Im Sommer wird gegebenenfalls der Humidex
+angegeben:
+
+<http://pi.bqvlcjjbw.yax/gcxn/Ditdbjgaoe>
+
+Bei einem Humidex von 40 und mehr wird eine Warnung ausgegeben.
+In meinen diesjährigen Urlaubsländern war das jeden Tag deutlich
+der Fall (wenn ich mal nachgeschaut habe, so 46 bis 48), das geht
+monatelang so, da kann man sich die Warnungen sparen.
+
+-- 
+Emil

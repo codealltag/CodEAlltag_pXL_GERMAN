@@ -1,0 +1,4 @@
+Power-On Self Test.
+
+    SCNR,
+    	hp

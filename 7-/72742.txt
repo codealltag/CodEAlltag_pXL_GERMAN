@@ -1,0 +1,10 @@
+* Marcus Vieweg <Lahbvc@Bvwljwti.ioq>:
+
+
+Bei manchen mechanischen Schreibmaschinen bewegte sich der Wagen beim
+Drücken der Leertaste um eine halbe Buchstabenbreite und beim Loslassen
+nochmal um eine halbe. Indem man beim Anschlagen der ungeraden
+Buchstaben die Leertaste gedrückt hielt, konnte man eine anständigere
+Sperrung erreichen.
+
+ - Benjamin

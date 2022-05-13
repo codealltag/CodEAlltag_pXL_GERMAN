@@ -1,0 +1,14 @@
+* Timo Flitner:
+
+
+Ich habe mal eine Anleitung für Kollegen geschrieben, in der ich
+an einer Stelle eingebaut habe "der Computer delt eine Weile" -
+um damit klarzumachen, daß eine lange Reaktionszeit und hörbare
+Aktivität an dieser Stelle zu erwarten und kein Zeichen für
+einen Zusammenbruch ist. Die Formulierung hat überdies zur
+Auflockerung beigetragen. Der sachliche Hintergrund war eine (für
+diese Rechner) relativ komplexe Datenbankabfrage an der Stelle,
+mit dem Arbeitsspeicher hatte das nichts zu tun.
+
+-- 
+Nicolas

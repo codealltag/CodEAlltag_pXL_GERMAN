@@ -1,0 +1,13 @@
+TeX läuft in die falsche technologische Richtung, weil es keine 
+durchsuchbaren Darstellungsformen generiert.
+
+Und das ausgerechnet in dem Buch- und Zeitungsdruck-Gebiet, in dem 
+automatische Suche am wichtigsten und serielles Textlesen am 
+unbedeutendsten ist.
+
+Siehe die endlosen, frustrierenden Versuche mit mathXML, Vollgas Bioenergie 
+Mathematica und Schatta Formelsuche.
+
+-- 
+
+Folkert Mollitor

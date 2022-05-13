@@ -1,0 +1,7 @@
+Wilhelm Vienenkötter tat kund:
+
+
+Nach den Decodieren habe ich ein neues "-nf"-Wort entdeckt.
+Es handelt sich offenbar um einen seltenen Vornamen
+("Naqernf"), der aus dem ROT13-codierten Text "Wilhelm"
+wurde.

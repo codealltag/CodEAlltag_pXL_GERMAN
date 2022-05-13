@@ -1,0 +1,21 @@
+Offenbar ein Skalierungsfehler der zweiten Reihe. s und l sind jeweils 
+eins zur Mitte gewandert.
+
+
+Wie gesagt, unterscheidet das Hirn schon auf dem Hörnerv Geräusch und 
+Rauschen. Rauschen wir komplett ignoriert, kurzdauernde Geräusche haben 
+hohen Signalwert.
+
+
+Nein, schwarzes Rauschen ist verabredungsgemäß Temperaturrauschen mit 
+Planckverteilung also ungefähr die übliche Exponentialverteilung über 
+der Energie/kT.
+
+Wie beim sichtbaren Licht bezeichnet man die Projektion einer 
+Frequenzoktave (f,2f) im Bereich des energetischen spektralen Maximums 
+von f^3 e^(-h f/ kT) als weiß, weil am Maximum die Dichte in etwa 
+konstant ist.
+
+-- 
+
+Pascal Aßhauer

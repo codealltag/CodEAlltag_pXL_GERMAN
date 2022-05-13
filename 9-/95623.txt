@@ -1,0 +1,31 @@
+Allerdings ist der Abstand von -1 zu 0 und von 0 zu +1 exakt gleich.
+Das liegt daran, daß die Gradeinteilungen nur ausdehnungslose Positionen
+auf der Skala darstellen, die nicht mit einem Jahr verglichen werden
+dürfen, sondern höchstens mit dem Beginn der ersten Sekunde eines Jahres.
+
+
+Der Bereich zwischen 0 Grad und 1 Grad ist auch ein Bereich, angefüllt
+mit 0.0001 - 0.9999 Grad z.B.
+
+Das was Du erreichen möchtest ist, daß das "Jahr 0" zur Position 0
+zwischen den Jahren -1 und +1 wird und dann in der Tat keine Ausdehnung
+mehr hätte, da es nur eine Position wäre. Aber dann dürfte es auch nicht
+mehr Jahr heißen.
+
+
+Auch hier ist natürlich die Grenze eine ausdehnungslose Position.
+
+
+Das Jahr 0 ist so gesehen nichts besonderes. Nur eine willkürliche
+Namensgebung. Es spricht nichts dagegen, das erste Jahr einer
+gewünschten Zeitrechnung 0 zu nennen.
+Würde man konsequent im Dezimalsystem zählen, so müssten die Positionen
+  0.. 9
+10..19
+20..29
+lauten.
+Nur im praktischen Leben wird meist gerne mit 1 begonnen.
+
+
+Gruß
+Gottfried

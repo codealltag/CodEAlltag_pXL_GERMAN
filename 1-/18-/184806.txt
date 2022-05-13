@@ -1,0 +1,17 @@
+Das was der Sehnerv hier hätte können: Sinnvolles aus dem Rauschen 
+filtern, Fehlendes sinnvoll ergänzen.
+
+Wenn PLL und Kreuzkorrelationsschaltungen nicht mehr so richtig 
+funktionieren, weil hochfrequente Löcher im Spektrum entstehen, hört 
+mancher die Regelkreise in Form von Tinnitus.
+
+Stört aber nicht so sehr wie externe Geräusche; das Hirn weiß offenbar, 
+dass es ein virtuelles Eigengeräusch ist.
+
+Ab etwa 50 wird es für alle schwer, Nutzsignal und Geräusch zu trennen, 
+während ein Zwanzigjähriger noch mühelos drei Personen gleichzeitig im 
+Lokal zuhören kann.
+
+-- 
+
+Luis Niessen

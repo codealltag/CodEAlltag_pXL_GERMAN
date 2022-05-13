@@ -1,0 +1,4 @@
+Castor = sterblich => Behälter zur Zwischenlagerung
+Pollux = unsterblich => Behälter zur Endlagerung
+
+	Herbert.

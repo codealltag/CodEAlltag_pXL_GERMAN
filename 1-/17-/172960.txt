@@ -1,0 +1,7 @@
+* Italo Heidebrock:
+
+
+Meine erste Idee war: "[Dieser Text ist eine] Bitte, sich festzuhalten".
+Außerdem wollte ich noch darauf hinweisen, daß ich Rekursivität mag.
+
+--

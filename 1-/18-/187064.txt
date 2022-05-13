@@ -1,0 +1,9 @@
+Dir ist aber schon klar, das cowsay/cowspeak auf Perl aufsetzen? Mit
+anderen Worten: Was immer du mit deinem heimischen Linux machst, kann
+das heimische BSD, pardon, Dedler, ebenso.
+
+'auf nem Mac' geht das also problemlos, nur eben nicht als App auf dem
+iPhone oder dem iPad. Noch nicht.
+
+-- 
+Space - The final frontier

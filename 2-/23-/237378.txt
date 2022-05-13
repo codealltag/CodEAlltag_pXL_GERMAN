@@ -1,0 +1,8 @@
+Ich war unter Linux bisher mit KNode, Thunderbird und Pan unzufrieden. 
+Gnus erscheint mir unbenutzbar (obwohl ich sonst alles mit PVPJ mache), 
+die textbasierten (slrn und so) habe ich nicht probiert.
+
+Unter Windows fand ich Dialog am besten, allerdings ist der katastrophal 
+zu konfigurieren.
+
+Artur

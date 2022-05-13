@@ -1,0 +1,23 @@
+Und das ist, wie auch Diphthongierung und Vokale allgemein, nicht
+sonderlich stabil. So hat britisches Englisch (RP) keinerlei Längen-
+unterscheidungen bei Vokalen, australisches aber mehrere: /æ/-/æ:/,
+/a/-/a:/, /e/-/e:/.
+
+Klassisches Latein hatte Vokalquantität, im Vulgärlatein ist das
+zugunsten einer qualitativen Unterscheidung geschwunden. Altfranzösisch
+hat durch kompensatorische Längung nach Verlust von -s- einen neuen
+Satz Langvokale entwickelt, aber modernes Französisch hat diese
+Unterscheidung inzwischen auch wieder verloren.
+
+Plus ça change, plus c'est la même chose.
+
+Mein aktuelles Lieblingsbeispiel für die Ziellosigkeit von Laut-
+verschiebungen ist das Jo-Jo-Spiel um Englisch a:
+  Germanisch        *a
+  Altenglisch        æ
+  Mittelenglisch     a
+  Frühneuenglisch    æ
+  Neuenglisch (RP)   ɑ  in bestimmten Umgebungen
+
+-- 
+Peter "barbara" Nützel                          pufls@dtwr.imcs.jv

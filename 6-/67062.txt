@@ -1,0 +1,5 @@
+Am 22 Jul 2009 21:13:10 GMT schrieb Christian Kobbe:
+
+Genau das versucht Unicode eben zu vermeiden.
+
+Denis

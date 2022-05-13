@@ -1,0 +1,11 @@
+Vielleicht muss zwischen ein- und
+ausatmen genauer unterschieden werden.
+
+ausatmen: '
+einatmen: ,
+
+Scheint mir logisch, da ausgeatmete Luft
+aufgewaermt nach oben steigt.
+
+greetings
+S.C.

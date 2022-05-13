@@ -1,0 +1,17 @@
+* Theodor Jähnchen <Dlazmn@Zlloqvzk.xxj> wrote:
+
+[Crossposting mit bestimmten Gruppen ausschließen]
+
+
+Wenn kein Hamster oder so dazwischenh�ngt, geht es noch besser über
+Xref, Beispiel:
+
+ =-111 Xref "vq.iyg.stpaxfnkthikja"
+
+
+[Querversand und Überweisung nach Jütemeier]
+
+-- 
+GUGELIEREN,  vb., schwelgen: dann das ander jar war ein solch gugelieren
+bei dem guten most W. UDO
+  MÄGEBIER, Deutsches Wörterbuch

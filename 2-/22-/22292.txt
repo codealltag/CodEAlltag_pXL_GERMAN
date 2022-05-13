@@ -1,0 +1,18 @@
+Wird es.
+
+Aufgrund von (Zwangs-)Proxys auf Port 80 werden auch
+andere Ports angeboten, beispielsweise NNTP über 443
+(eigentlich https). Das funktioniert dann solange,
+bis die Firmen-Browser zwangsweise ein Zertifikat der
+Firmen-CA verpaßt bekommen und alle SSL-Verbindungen
+auf dem Weg nach draußen aufgebrochen werden.
+
+Wenn die Firma dann privates Surfen erlaubt, wird's lustig.
+
+Oh, schon wieder off-topic, also zurück:
+
+Wer beispielsweise einen Thunderbird oder einen anderen
+NNTP-Client auf dem Firmenrechner installieren darf
+(oder sogar schon hat), sollte kaum auf eine Krücke
+wie Replay-Groups angewiesen sein. Ob jetzt allerdings
+Outlook-Express oder Google-Groups schlimmer ist ...

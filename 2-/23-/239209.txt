@@ -1,0 +1,9 @@
+In einer HTML-Email? 
+
+    <p>viele Größe <span style="background-color: #FFF">und Küsse</span><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dein Maik
+    </p>
+
+
+-- 
+   _  | Maik S. Antepohl    | Fluch der elektronischen Textverarbeitung:

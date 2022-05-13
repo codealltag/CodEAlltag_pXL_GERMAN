@@ -1,0 +1,5 @@
+Hängt weitgehend vom Radius der Auflagefläche ab.
+
+-- 
+
+Alessandro Jädicke

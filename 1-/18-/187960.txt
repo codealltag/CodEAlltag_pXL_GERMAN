@@ -1,0 +1,21 @@
+* Kurt Prügel <evvcqr.c.nimxiglv@vwjri.fc>:
+
+
+Ach, "Solange man weiss, was gemeint ist"... Früher oder später wird
+sich eine Bedeutungsdifferenz zwischen
+
+  das Schema, die Schemas
+  das Schemata, die Schematas
+
+herausbilden, zuerst vermutlich in Fachsprachen. Sind solche
+Entwicklungen bei den üblichen Verdächtigen (z.B. XML, relationale
+Datenbanken) bereits gesichtet worden?
+
+Dann gibt es ja noch
+
+  das Schema, die Schemen   (weitere Pluralform von Schema ("Muster"))
+  der Schemen, die Schemen  (Schatten, eher literarisch)
+
+Schwierige Sache, das.
+
+ - René

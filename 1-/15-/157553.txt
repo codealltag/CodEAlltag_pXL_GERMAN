@@ -1,0 +1,29 @@
+Ok, die typisch konstruierten Beispiele (ich bin so unkreatibel(sic!)):
+
+Ich mache mir am Herd zu schaffen.
+
+  -> Heißt, ich mache mir Arbeit, der Herd ist nur Arbeitsort (könnte
+     auch _in_ der Küche sein oder meinetwegen _im_ Schlafzimmer).
+
+Ich mache mich am Herd zu schaffen.
+
+  -> Ich benutze den Herd in einer voraussichtlich nicht vorgesehenen
+     Weise. Entweder habe ich keine Ahnung, wie das Ding zu bedienen
+     ist und probiere rum oder - viel schlimmer - ich habe den
+     Werkzeugkasten geholt und werkele am Herd herum.
+
+Im ersten Fall ist "am Herd" reine Ortsangabe ("wo"), im zweiten Fall
+Objekt ("woran").
+
+Was sagt eigentlich die "mir"-Fraktion zu
+
+"Du hast Dich aber gemacht." oder "Ich mache mich." (iSv. persönlicher
+Verbesserung)? Oder machen sie sich deswegen auch (ins Hemd)? ;)
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+    --  Veit Ingenhags

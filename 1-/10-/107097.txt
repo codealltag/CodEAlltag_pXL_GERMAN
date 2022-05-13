@@ -1,0 +1,19 @@
+Das sehe ich nicht so.
+
+§74 sagt zunächst mal deutlich "Nebensätze trennt man mit Komma ab". Die
+von dir herangezogene Sonderregel §74 E3 enthält Beispiele wie "früher als
+gewöhnlich" oder "wie im letzten Jahr" und bemerkt zutreffend, dass das
+keine Nebensätze sind (stimmt, denn es sind überhaut keine Sätze), und aus
+eben diesem Grunde setzt man da kein Komma. "als mir der andere gefällt"
+ist aber ein Satz, und zwar ein Nebensatz, also greift §74 E3 gar nicht,
+denn diese Erläuterung erklärt nur, dass nicht jede Wortgruppe, die mit
+"als" anfängt, ein Satz ist. Eigentlich ist dieser ganze Text hyperfluid.
+
+Deine Interpretation dieser Regel geht komplett in die Irre.
+
+Vito 
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

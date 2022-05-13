@@ -1,0 +1,13 @@
+Stark und schwach sind zwei verschiedene Register.
+"verwandte sich für" : "verwendete sich für"  wie 30000 : 2000
+
+Speziell mit 'Niemöller "verwandte sich für"'  verwendet ergibt etwa 2:1.
+
+Bei "häufig verwendete" : "häufig verwandte" ist es genau umgekehrt, 
+allerdings sind beinahe alle Treffer aus den Bereichen Informatik, 
+Pharmazie und BWL und einen Filter, der die lieben Verwandten 
+herausnimmt, habe ich auch nicht.
+
+-- 
+
+Wilhelm Baumgardten

@@ -1,0 +1,6 @@
+Die MID, also z.B. Message-ID: <gv0sgu$1g1$4@dqid.mflcszvh.ltq>
+
+Jetzt muss die Gegenseite nur noch in der Lage sein, diese MID auch zu
+finden.
+
+Patrice

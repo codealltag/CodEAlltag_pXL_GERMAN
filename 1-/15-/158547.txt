@@ -1,0 +1,7 @@
+Mir ist nur FreeOCR oder Tesseract (Kommandozeile) bekannt, die frei
+sind und ich glaube auf den gleichen Grundlagen basieren.
+Aber FreeOCR hat die gleichen Probleme, die du oben beschreibst.
+
+Es gibt von INTN eine Version XIX. Die kann Fraktur und
+basiert auf Finereader Version 7. Ist aber nicht zu bezahlen.
+Zusätzlich fällt noch ein Entgelt pro Seite an.

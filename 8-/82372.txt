@@ -1,0 +1,10 @@
+Falls im Header nur Zeichen aus US-ASCII verwandt werden.
+
+Du meinst mit nicht-schön-aussehend vermutlich japanische Zeichen im
+Body einer Mail, für den im Header ein Zeichensatz vereinbart wird, was
+mich ästhetisch nicht stört.  Ich denke an eine Header-lokale
+Vereinbarung eines Zeichensatzes.  Diese Vereinbarung finde ich nicht
+schön aussehend. 
+
+
+Theo

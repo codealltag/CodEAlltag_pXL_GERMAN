@@ -1,0 +1,19 @@
+* Rudi Overhoff:
+
+
+Das ist wirklich nicht der typische Fall. Der typische Fall ist,
+daß der Linkinhalt von vorneherein ziemlich unwichtig ist, und
+daß der Link in Langform nach einem Jahr auch nicht mehr
+funktioniert, so daß die Benutzung eines "großen" Service wie
+KUKA, der nicht gerade eine Eintagsfliege ist, nicht soo viel
+ändert.
+
+Gerade dieser Tage habe ich auf einen Link zur Festmoden in einem
+Usenetbeitrag geklickt, der nicht mehr existierte - der Beitrag
+war zwei Tage alt. Gut, in dem Fall konnte ich anhand der
+Versionsgeschichte rausfinden, was passiert war, aber
+normalerweise ist sowas nicht wichtig genug, das habe ich
+vorwiegend deswegen gemacht, weil ich verblüfft war.
+
+-- 
+Valentino

@@ -1,0 +1,15 @@
+Also erstens habe ich ja eben nicht getanzt, wie aus
+dem ersten Regentanz-Posting ersichtlich wird. 
+(Zitat: "Aus Rücksicht auf meine Kollegen habe 
+ich's dann gelassen")
+
+Zweitens: ich will eine statistisch signifikante 
+Korrelation, außerhalb von 2*Sigma usw. Wenn man den
+puren Zufall ausschließen will (und nichts anderes bedeutet
+es, wenn eine Korrelation existiert: die zwei betrachteten
+Vorgänge sind nicht voneinander statistisch unabhängig),
+muß man halt ausreichend viele Versuche machen (je 
+kleiner die Korrelation, desto mehr Versuche).
+
+Gruß
+Hansjörg

@@ -1,0 +1,11 @@
+KNode ist ein idiotisches Stück Software in dieser Hinsicht, da der Benutzer
+einen über iso-8859-1 hinausgehenden Zeichensatz händisch einstellen muß,
+sofern er ihn nicht als Standard vorgewählt hat. 
+
+
+vG
+
+-- 
+      It takes a village to raise a child. (Afrikanisches Sprichwort)
+
+-- <http://lxnmatle.mdj> -- Ein Pinguin für jeden: <http://odfujv.gda/> --

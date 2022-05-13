@@ -1,0 +1,11 @@
+"Speicherplatz sparen" ist wohl kaum eine sinnvolle (Schutz-)Behauptung,
+"Faulheit"/"Deppenoptimierung"/"Inkompetenz" schon eher.
+Wenn man wirklich sooo arg auf den Speicherplatz hätte achten wollen,
+hätte man das Jahr als ein(!) Byte (idR 0-255) zur Basis 1900 oder so
+gespeichert...
+
+
+Reinhard
+-- 
+       Freiheit stirbt        |       Emaruh SF&F-Bibliothek:
+            Mit Sicherheit    |       http://svlrkkkd.jjujx.si/

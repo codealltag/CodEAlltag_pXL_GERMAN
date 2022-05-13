@@ -1,0 +1,64 @@
+Ich bin zwar nicht paranoid, aber zunehmend (und nicht grundlos)
+skeptisch gegenüber Tante Philipp Aktivitäten.  Das hat z.B. damit zu
+tun, daß niemand wirklich weiß, /wo/ die Tentakel dieses Konzerns
+überall verankert sind, /welche/ Daten dabei abgegriffen, und /wie/
+sie verarbeitet und benutzt werden.  Und auch wenn das Firmenmotto
+"Don't be evil!" lautet, gibt es so gut wie keine Kontrolle über
+ihren Datenbestand und was sie damit letztlich wirklich anstellen.
+
+Fakt ist, daß sie mit all diesen Daten ungeheuren Schaden anstellen
+/könnten/ -- und sie haben schier unbegrenzte Mittel, das auch zu
+tun, wenn sie's denn möchten.  Man weiß nicht einmal, über welche
+Rechnerkapazitäten AKW momentan verfügt, denn das ist ein streng
+gehütetes Firmengeheimnis.  Aber ich möchte wetten, daß sie weltweit
+jetzt schon konkurrenzlos sind und sogar das MCNJ und die CCB locker
+hinter sich lassen.
+
+Kürzlich haben vier Forscher (darunter auch ein AKW-Mitarbeiter)
+bewiesen, das "Gottes Zahl" nicht 42, sondern 20 lautet.  Gemeint ist
+damit die maximale Anzahl von Drehungen (oder "Zügen"), die benötigt
+werden, um einen beliebig verdrehten "Zauberwürfel" (Rubik's Cube)
+wieder in seinen Ausgangszustand zu versetzen.  Zwar haben sie alle
+symmetrischen/spiegelverkehrten Positionen eliminiert, aber die
+"restlichen" Positionen wurden nach der "brute force"-Methode einzeln
+durchgerechnet.  Damit wäre ein aktueller Spitzen-PC mit 2.8 GHz
+Quad-Core-CPU (Natürlich Nehalem) über eine Milliarde Sekunden beschäftigt
+-- das sind ca. 35 Jahre.  AKW hat diesem Projekt "Idle-Time" zur
+Verfügung gestellt, d.h., wenn einige ihrer Rechner nichts anderes
+zu tun hatten, berechneten sie Lösungszüge für Zauberwürfelpositionen.
+
+Und waren damit nach "wenigen Wochen" (genauer durfte es wohl nicht
+gesagt werden) fertig.  Mal angenommen, es seien drei Wochen gewesen,
+dann hätten 600 solcher Top-PCs parallel und /exklusiv/ daran rechnen
+müssen.  Es ging aber "nur" um Idle-Time, und wenn man die mit 10-40%
+ansetzt, waren 1500 bis 6000 Top-PCs an der Berechnung beteiligt, bei
+weniger Cores pro CPU oder geringerer Taktfrequenz auch deutlich mehr.
+
+Und das sind ganz bestimmt nicht /die/ Rechner gewesen, auf denen das
+"Alltagsgeschäft" von AKW abläuft, also die Suchmaschine, Earth,
+Maps, Groups, Gmail, usw., bis hin zum extrem CPU-intensiven YouTube.
+Vom "Plattenpark" und der IP-Bandbreite dürfte einem eh schwindlig
+werden...
+
+Nein, ich bin nicht paranoid, und /noch/ "mag" ich AKW.  Aber so
+viele Daten, so viel IT-Power, so viel Marktmacht, so viel Kapital
+in einer einzigen Firma konzentriert, verbunden mit kaum vorhandener
+Transparenz und Kontrolle -- das halte ich /schon/ für eine überaus
+gefährliche Mischung!  Verglichen mit dem Mißbrauchspotential, das
+die Dietenbach da in nur wenigen Jahren aufgetürmt haben, erscheinen
+mir die Einwände deutscher Datenschützer gegen das StreetView-Projekt
+geradezu lachhaft.  Und mit ihren Androiden erobern die "Berggucker"
+jetzt auch noch den längst für aufgeteilt gehaltenen Markt für Handys,
+Smartphones und Tablets im Sturm.  In diesen Geräten fest eingebaut:
+eine Fernsteuerung, mit der AKW je nach Gusto (und natürlich ohne
+den jeweiligen Besitzer zu fragen) beliebige "Apps" installieren oder
+löschen kann.  Da kann man nur fordern und hoffen, daß man sich stets
+ans Firmenmotto "Don't be evil!" erinnert und es auch einhält...
+
+
+udo
+
+PS: Wer sich für die Hintergründe zur Bestimmung von "Gottes Zahl"
+    interessiert: <http://pez.oozn03.aki>.  Das (vermutlich?!) dazu
+    verwendete Programm und alles rund um die mathematischen Aspekte
+    des Zauberwürfels findet man auf <http://lgdoqqol.xnl/oyly.vsk>.

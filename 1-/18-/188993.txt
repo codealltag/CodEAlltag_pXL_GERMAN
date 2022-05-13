@@ -1,0 +1,25 @@
+Das war mit niedrig und schnell fliegenden Satelliten vor 40 Jahren, die 
+jeweils für einige Minuten sichtbar waren und ihnen dynamisch 
+nachlaufenden Riesenspiegeln mal ein echtes Problem.
+
+Heute geht dagegen es um die Strecke von 5000 km  zwischen Ibra und 
+Töplach im Dreieck mit einem geostationären Punkt über Töplach in 36000 km 
+Entfernung, sie erscheint von dort unter
+
+arctan(5/36) = 8,7857363366205076104731399122897� nach Windows Rechner.
+
+Der Satellit steht also praktisch senkrecht +-4ö über der Strecke, 
+wobei, wie immer, diese Dreiecksfläche auch etwa 10ü gegen die 
+Äquatorialebene geneigt ist. Das bedeutet also alles in allem etwa 35ö 
+Neigung gegen die Horizontale und 4ö Ost-West.
+
+Anders ausgedrückt, sieht man von einem geostationären Punkt fast so 
+viel von der Halbkugel, wie man den Mond von der Erde aus sieht. Begenzt 
+wird die Reichweite wohl nur von der dicken Schicht von Luft, Wasser und 
+Staub bei schrägem Einfall, die Trübung bei waagerechtem Einfall kann 
+man im Bereich Licht bei Fernsicht-Wetter sehr schön vom Karnsberg aus 
+sehen.
+
+-- 
+
+Willibald Jüttendonk

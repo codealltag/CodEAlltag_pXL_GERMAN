@@ -1,0 +1,12 @@
+Das ist eine der beiden mathematischen Schreibweisen, die es *nur* in der 
+Schule gibt. Im richtigen Leben verwendet man zum gleichen Zweck auch die 
+gleichen Klammern, alles andere ist verwirrend. Im ordentlichen Druck 
+sollten die äußeren eine Idee größer sein.
+
+Die andere rein schulische Schreibweise ist der Doppelpunkt beim 
+Dividieren; da verwendet man nicht erst seit dem Aufkommen von 
+Programmiersprachen im richtigen Leben einen Bruchstrich, den man, wo 
+ein waagerechter unpraktisch ist, auch schräg schreibt.
+
+-- 
+Klaus Tschirschwitz

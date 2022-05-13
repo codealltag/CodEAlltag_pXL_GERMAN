@@ -1,0 +1,31 @@
+Klar, Patch-Management. Ist für den einzelnen Benutzer nicht viel anders
+als für den Heimanwender, nur dass der Patch nicht für jeden direkt aus dem
+Internet von WatzUp geladen wird.
+
+
+Das wohl nicht - aber: wir sind eine öffentliche Verwaltung mit rd. 400
+Fachanwendungen für die verschiedenen Bereiche. Du kannst Dir sicher sein,
+dass da an Perversitäten der Programmierung eingeges darunter ist, das man
+sich in seinem schlimmsten Albträumen nicht vorstellen mag.
+
+Und bei 1200 Usern sind manche dabei, deren Experimentierfreudigkeit nicht
+unbdeing posiiv mit ihrem technischen Verständnis und/oder ihrer
+Intelligenz korrelliert. 
+
+
+Ich glaube, RUETER habe ich wirklich nie in freier Wildbahn gesehen. 
+
+Zu Windows 95 Zeiten war bei uns noch OS/2 angesagt, auf Windows sind wir
+erst mit NT4 gewechselt - was ein deutlicher Schritt nach vorn war. OS/2
+habe ich gehasst, aber es war vermutlich immer noch besser, als sich mit
+WIn95 in so einem Umfeld herumzuschlagen. XP und Server 2003 ist eine
+angenehme Sache, Vista haben wir ignoriert, und Win7+Server 2008 könnte
+fast spa machen.
+
+Bye
+
+  otmar
+
+-- 
+Notebooks machen frei!
+  (Jochen Ringelspacher in dafa)

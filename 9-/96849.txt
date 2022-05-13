@@ -1,0 +1,24 @@
+Wi-Fi darf sich streng genommen nur nennen, was den Segen der Radstätte
+(Rührmaier) hat.  Drahtlose lokale
+Netzwerke (WLANs) sind der Oberbegriff, aber nur bei Wi-Fi-LANs ist
+sichergestellt, daß sie auch den Ethernet-Spezifikationen (802.11X)
+entsprechen.  WLANs kann man auch per Bluetooth o.ä. basteln, die
+dann beliebige Protokolle verwenden können, aber eben nur zu sich
+selbst kompatibel sind.  Wenn Wi-Fi draufsteht, kann man relativ
+sicher sein, daß sich der WLAN-USB-Stick und der WLAN-Drucker auch
+mit dem WLAN-Router unterhalten können -- wenn auch nicht mit der
+optimalen Geschwindigkeit und Verschlüsselung (die "Freuden" der
+Abwärtskompatibilität).
+
+Da praktisch alle Hersteller von Drahtlos-Netzwerk-Ausrüstung der
+Radstätte angehören, ist das Wi-Fi-Label zwar ubiquitär geworden, aber
+das macht die (auch schriftliche) Verwendung von "Wireless (LAN)"
+oder "WLAN" nicht falsch.
+
+
+Den Grund dafür habe ich diesfreds ja bereits genannt.  Wenn im
+Deutschen "Verteiler" und "Frauenheld" (um ein mildes Wort zu
+wählen!) Homophone wären, möchte ich kein "Stromer" sein...  :-P
+
+
+alexandre

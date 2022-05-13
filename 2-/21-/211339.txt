@@ -1,0 +1,13 @@
+Der normale User trieb seine Programmiertechnik gewöhnlich bis weit 
+jenseits der Grenzen des Kernspeichers von sagen wir damals 128MB, heute 
+so 4-8GB. Dann kommt die virtuelle Speichererweiterung auf der Platte 
+zum Tragen und die dabei erzeugten Seitenfehler führen zum Flatten des 
+Lese-Schreibkopfes. Die Verarbeitunggeschwindigkeit sinkt dann auf 
+einige Prozent.
+
+Dann ist entweder die nächste Aufrüstung angesagt oder man überlegt sich 
+endlich mal einen effektiveren Zugang zum Problem.
+
+-- 
+
+Alain Speelmann

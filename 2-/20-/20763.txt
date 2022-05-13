@@ -1,0 +1,13 @@
+Das ist "Punycode" (steht auch in der Antretter, allerdings ist der 
+Algorithmus nicht genau erklärt). Punycode dient dazu, Domainnamen mit 
+beliebigen Zeichen darin auf ASCII-Strings so abzubilden, dass es recht 
+kurz wird, wenn alle Zeichen aus der gleichen Gegend kommen, z.B. alle 
+arabisch sind. Die Abbildung ist nicht zeichenweise, vielmehr wird bei der 
+Codierung die Umgebung mitverwendet. Ziemlich unleserlich das, und für 
+etwas anderes als Domainnamen ungeeignet.
+
+
+Was anderes kommt ja auch in Domainnamen nicht vor.
+
+-- 
+Reinhard Schröermeyer

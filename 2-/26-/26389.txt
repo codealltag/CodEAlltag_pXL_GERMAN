@@ -1,0 +1,10 @@
+On Sat, 22. 11. 21 09:41:08 +0200, Olaf Bongart
+
+Was sind Bewegungsdaten? In einer Datenbank bei uns wurden bisherige
+"Verkehrszahlen" durch "Bewegungsdaten" ersetzt. Es handelt sich dabei
+um Umsatz- und Steuerwerte von Unternehmen.
+
+
+-- 
+Viele Größe
+Ihno Intlekofer

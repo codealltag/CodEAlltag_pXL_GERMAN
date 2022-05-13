@@ -1,0 +1,4 @@
+Der Mitarbeiter hat gekündigt oder dem Mitarbeiter wurde gekündigt, 
+gekündigt ist er in beiden Fällen.
+
+Otto

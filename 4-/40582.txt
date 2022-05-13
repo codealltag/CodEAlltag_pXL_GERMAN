@@ -1,0 +1,4 @@
+Das Gericht hat ein Urteil gefällt. (Welches, steht vermutlich im
+nächsten Satz, weshalb dieser mit einem Doppelpunkt enden sollte).
+
+	hp

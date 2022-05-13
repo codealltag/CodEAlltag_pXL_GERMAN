@@ -1,0 +1,28 @@
+* Fabrice Sohlbach <Tjqdxb@Hftjvohj.fir>:
+
+
+Usenet-Artikel kann man aber nach Jahrgang googeln:
+
+     A:  aufwendig -aufwändig   6.Mai.YYYY-28. 08. 21.YYYY
+     B:  aufwändig -aufwendig   6.Mai.YYYY-28. 08. 21.YYYY
+
+     YYYY      A      B
+     1995    577      0
+     1996   1630     18
+     1996   1850     11
+     1997   2560     25
+     1999   3410    195
+     2000   3080    899
+     2001   2790   1360
+     2002   3080   2190
+     2003   3110   1400
+     2004   2440   2020
+     2005   2090   2230
+     2006   1990   2290
+     2007   2140   1540
+
+Man meint in der Tat, eine Tendenz zurück zum e ausmachen zu können.
+Mal sehen, was 2008 bringt.
+
+
+ - Bernard

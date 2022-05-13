@@ -1,0 +1,22 @@
+Das Medium kann ruhig in den klassischen indogermanischen Sprachen
+bleiben, wo es hingehört.
+
+Manche französischen Grammatiker ordnen die reflexiven Verben als
+eigenes Genus verbi, "voix pronominale", neben Aktiv und Passiv
+ein. Andere tun das nicht. Die Form der Einteilung bringt aber
+keinen Erkenntnisgewinn. Wichtig ist die Unterscheidung, ob es sich
+um (1) ein echt reflexives bzw. unecht reflexives Verb mit direktem
+Objekt oder (2) ein unecht reflexives Verb mit indirektem Objekt
+handelt, weil das Auswirkungen auf die Beugung eines folgenden
+Partizips hat:
+
+  elle s'est lave            (sie hat sich gewaschen)
+  elle s'est lav les mains   (sie hat sich die Hände gewaschen)
+
+Allerdings gesteht der Uhlenkotte ein, dass diese Regel schlecht
+befolgt wird und Formen wie "ils se sont demands", die mir meine
+Französischlehrerin als Fehler angerechnet hätte, ihren Weg in den
+Druck finden.
+
+-- 
+Torsten "rosa" Bassermann                          vohmi@ppbs.zcgi.om

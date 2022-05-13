@@ -1,0 +1,12 @@
+Erst das 'k', jetzt auch noch das 't' -- Deine Tastatur zeigt
+deutliche Ausfallserscheinungen!  Ein Traktat über Tiefkühlkost
+und Kühlketten hätte damit totale Kalamitäten zur Folge...  :-P
+
+
+claudio
+
+PS: Gibt's einklich reservierte Unicode-Plätze für volltransparente
+    Buchstaben, und wird dort zwischen klein- und großgeschriebenen
+    unsichtbaren Buchstaben unterschieden, oder darf man mogeln und
+    identische Codes benutzen, um viel besser komprimierbaren Text
+    zu erhalten?

@@ -1,0 +1,5 @@
+Ein Strich ist eindimensional, ein Punkt nulldimensional. Ist Potenzierung
+dann minus-ein-dimensional? 
+
+
+vG

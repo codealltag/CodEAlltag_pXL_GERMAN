@@ -1,0 +1,12 @@
+Die älteste Maschine, die ich programmiert habe, eine Univac vielleicht
+aus der 9000er-Serie, las beim Starten eine Lochkarte 1:1 in den
+Hauptspeicher ab Speicherzelle 0, darauf mußte dann das Boot-Programm
+liegen. Man konnte auch tricksen, so daß das Programm erst mal weitere
+Lochkarten las, aber man konnte auch ein brauchbares Bootprogramm auf
+einer einzigen Karte unterbringen.
+
+-- 
+Madeleine: Uncle Burkhard ... why do they call this a word processor?
+Burkhard:  It's simple, Ihno ... you've seen what food processors do
+        to food, right?
+     Cartoon by Vito Nelhiebel

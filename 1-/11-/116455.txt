@@ -1,0 +1,26 @@
+* Ihno Zwergk:
+
+
+Da Du mich damit meintest, kommentiere ich mal. Ich glaube nicht, daß es
+viele Untersuchungen dazu gibt, denn wer außer Lexikographen ist daran
+wirklich interessiert? Für die Kernlinguistik ist die Frage
+uninteressant, die offenen Wortarten (Substantiv, Adjektiv, Verb) sind
+offen, davon kann es beliebig viele geben. Psycho- und Soziolinguisten
+sowie Pädagogen interessieren sich eher für den Wortschatz einer
+einzelnen Person (unter 100000), oder den im Alltag gebrauchten (unter
+10000). Computerlinguisten sind meist eher praktisch als theoretisch
+orientiert - ein paar unbekannte Wörter pro Text kann man gut raten, und
+ein vollständiges Lexikon ist praktisch unmöglich.
+
+Die einzige wissenschaftliche Arbeit zum Thema, die mir aus meiner
+akademischen Zeit in Erinnerung ist, verglich Fachwortschatz (man muß
+das Thema eingrenzen) in Englisch, Spanisch und Japanisch. Das Fazit
+war, daß Englisch mehr verschiedene Wurzeln benutzt und kürzere
+Komposita (mittlere Anzahl Wurzeln/Fachwort); Spanisch weniger Wurzeln
+und längere Komposita; Japanisch viele Wurzeln _und_ lange Komposita.
+Die Unterschiede waren aber nicht so dramatisch, daß man sie zuverlässig
+erspüren könnte.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

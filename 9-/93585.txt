@@ -1,0 +1,9 @@
+Interessant, unter Windows zeigt FF 3.5.6 den URL in der Adresszeile
+ebenfalls mit Umlaut an.
+
+
+Ciao
+Marlis
+-- 
+ Let there be rock
+ [AC/DC]

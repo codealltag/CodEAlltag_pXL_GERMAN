@@ -1,0 +1,7 @@
+* Jérôme Caemmerer <ssimkroefr@mon.pqc>:
+
+Achwass.
+
+Hz ist gut eingeführt und passt zur Benzinverbrauchsangabe in mm.
+
+ - Waldemar

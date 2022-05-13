@@ -1,0 +1,15 @@
+* Andreas Aldenhof:
+
+
+Dann kennst Du nicht Björn Jakobs, den spreizenden Sproß aus
+seiner Großeltern platonischer Liebe.
+
+Da oben steht aber "beider Kinder", nicht "beide Kinder", beim
+ersten Lesen hatte ich das auch nicht kapiert, ein wenig zu
+subtil.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

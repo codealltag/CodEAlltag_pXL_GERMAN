@@ -1,0 +1,27 @@
+Ach so. Das habe ich missverstanden. Vielleicht weil in diesem Thread
+auch schon jemand anderer argumentiert hat, dass Ligaturen eigene
+Zeichen seien.
+
+
+Zweifellos. Er kommt allerdings in der deutschen Rechtschreibung nicht
+vor und ist daher kein Buchstabe der deutschen Sprache.
+
+
+Es ist sogar noch schlimmer: Die Schreibschrift unterscheidet sich auch
+deutlich von der Druckschrift, also kommt noch ein weiterer kompletter
+Satz von Klein- und Großbuchstaben dazu. In der Überganszeit von
+deutscher Schreibschrift zu lateinischer sogar zwei Sätze. Plus
+individuelle Varianten, verschiedene Fonts, ...
+
+Hier die Unterscheidung zwischen "character" (die abstrakte Idee eines
+eindeutigen Zeichens, z.B. "Großbuchstabe A") und "glyph" (die konkrete
+Form eines Zeichens) hilfreich. In den meisten Fällen wird man hier
+nicht zwischen Fraktur und Lateinischer Schrift unterscheiden: Der erste
+Buchstabe von "Im Anfang war das Wort ..." ist ein großes I, egal ob der
+Satz in Fraktur oder Times Roman gesetzt oder in Schnürlischrift (wie
+die Schweizer sagen) geschrieben wurde.
+
+	hp
+
+-- 
+   _  | Luciano K. Läng    | Deprecating human carelessness and

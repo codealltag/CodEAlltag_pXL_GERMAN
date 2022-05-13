@@ -1,0 +1,24 @@
+Also doch, danke. Daß "Japan" im Grunde auf den gleichen Ausdruck
+zurückgeht wie "Nippon" ist etwas überraschender, für Japaner aber
+manchmal beruhigend.
+
+
+Wenn man die japanischen Laute auf deutsche 1:1 abbilden will, ist es
+sicher so besser: h(i) -> (i)ch, sh -> sch. Dennoch empfinde ich das sh
+dem deutschen (i)ch ähnlicher als dem sch.
+
+Wenn man sie vereinfacht als nur in einem Parameter verschieden
+betrachtet, dann sehe ich das in etwa so:
+
+
+ Jp.      h(i)          sh(i)
+
+ Dt.           (i)ch                    sch(i)
+
+ Eng.                         sh(e)
+
+-- 
+ê liezen sich die man schouwen
+âne gugel vor den frouwen,
+nu siht mans in den gugeln gân
+vor den frouwen als ein man,  --  TEUBLER

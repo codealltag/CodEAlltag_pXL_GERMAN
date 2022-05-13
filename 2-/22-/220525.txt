@@ -1,0 +1,30 @@
+* Sebastian Froriep:
+
+
+Findest du das selber, oder hilfst Du nur der Formulierung eines
+anderen auf (wobei sich inzwischen herausgestellt hat, daß er das
+noch anders meinte)?
+
+Ich halte es nicht für einen Verstoß gegen die Quantitätsmaxime,
+weil für praktische Zwecke genau die richtige Information gegeben
+wird. Für Otto-Normaluser ist nicht entscheidend, wie die
+Speicherung oder Übertragung technisch abläuft. 
+
+Ich vermute übrigens, daß "im Internet" für Otto-Normal-User nicht
+identisch mit dem Web ist, sondern eher bedeutet "mit dem Browser
+abrufbar". Wenn also auf einer Webpage ein Link zu einem File
+angegeben ist, daß per ftp abgerufen wird, ist dieses File immer
+noch "im Internet" ohne Bedarf an näherer Spezifikation, obwohl es
+sich nicht wirklich "im Web" befindet.
+
+"Ohne nähere Spezifikation" deutet schon an, wo ich die
+Quantitätsmaxime ansiedle: man muß mehr sagen als bloß "im
+Internet", wenn der Zugriff per Browser nicht mehr vorausgesetzt
+werden kann. WGI-Seiten sind z.B. ein Zwischending - ich
+benutze dafür zwar Laxgang, aber das geht inzwischen nur noch mit
+Plugin, und in vielen anderen Browsern geht es gar nicht mehr.
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Karsten K. Bornschlegel

@@ -1,0 +1,80 @@
+In einer Übungsaufgabe aus der Mengenlehre nicht. In einem
+natürlichsprachige Text eher schon. Wenn man darauf hinweist, dass ein
+bestimmtes Element einer Menge eine Eigenschaft hat (oder nicht hat),
+dann tut man das meistens, weil es eine Ausnahme ist. Wäre es der
+Regelfall, wäre es nicht erwähnenswert. Außer man wählt dieses eine
+Element als Beispiel, aber darauf weist man dann meistens hin.
+
+
+Ich sehe da keinen Angriff auf Dialekte. Ich sehe nur eine in sich
+widersprüchliche Definition von "Sprache".
+
+
+Nein. Erstens verstehen sich auch 5 und 6. Zweitens fehlt der Dialekt 0, 
+dessen idealen Sprecher wir als Kriterium heranziehen:
+
+      66662222
+    66666622222
+    666611112222
+    555111111222                                                  0
+    555111111222
+    544411113333
+     44444433333
+      444443333
+
+(zwischen dem Kreis und 0 ist natürlich nicht nichts, sondern ein
+Kontinuum von weiteren Dialekten - aber die sind für die Betrachtung
+bedeutungslos und würden nur verwirren, daher zeichne ich sie nicht ein)
+
+0 ist ziemlich weit weg von allen diesen Dialekten. Aber unser idealer
+Sprecher versteht die Dialekte 2, 3, 4, 5 und 6. Nicht besonders gut, er
+muss schon recht genau hinhören, aber Kommunikation ist noch "ohne
+größere Probleme" möglich. Dialekt 1 aber versteht
+er nicht. Vielleicht, weil Dialekt 1 Merkmale von 2 und 4 mischt, die
+der ideale Sprecher von 0 für sich allein tolerieren kann, die in
+Kombination aber nicht mehr tolerierbar sind. Oder vielleicht, weil
+Dialekt 1 ein weiteres Merkmal hat, das keiner der umliegenden Dialekte
+hat, und das allein die Unverständlichkeit auslöst.
+
+Nach Deiner Definition sind dann die Dialekte 2-6 Varianten der Sprache
+0, Dialekt 1 ist aber keine Variante der Sprache 0. Somit haben wir
+jetzt eine Sprachgrenze um 1 herum. 1 erscheint ale eine kleine
+Sprachinsel in einem großen Gebiet, in dem Varianten der Sprache 0
+gesprochen werden. Tatsächlich aber sind 2-6 viel näher mit 1 verwandt
+als mit 0. Keiner der Sprecher von 1-6 würde hier eine Sprachgrenze
+sehen, denn sie verstehen sich alle prächtig.
+
+Aber nachdem wir schon einmal 1 als eigene Sprache, die unterschiedlich
+von 0 ist, identifiziert haben, bestimmen wir die Varianten dieser
+Sprache: Die umfassen nun 2-6 und vermutlich noch etliche andere - die
+Grenze liegt möglicherweise erst kurz vor 0.
+
+Und damit haben wir nun zwei völlig unterschiedliche Grenzen zwischen
+den Sprachen 0 und 1 gefunden, je nachdem, wo wir angefangen haben. (und
+hätten wir bei 2 angefangen, wären alle diese Varianten von 2, und es
+gäbe gar keine Grenze in diesem Bereich).
+
+Oder, um mich wieder einmal zu wiederholen: Dein Kriterium bietet keine
+Möglichkeit, auch nur einigermaßen eindeutig Sprachen zu identifizieren. 
+Vielleicht willst Du das auch gar nicht, sondern willst im Gegenteil
+zeigen, dass es eben unsinnig ist eine Sprache als Gruppe von
+Dialekten/Varianten definieren zu wollen. Aber jedesmal, wenn ich
+glaube, dass Du in die Richtung hinzielst, widersprichst Du dem.
+
+
+Klar, weil Deine Sprachdefinition nur bei harten Grenzen funktioniert.
+Aber das hatten wir schon. Ich weiß nicht, wieso Du glaubst, ich würde
+glauben, dass Du die Existenz harter Sprachgrenzen bestreitest. Von
+denen rede ich überhaupt nicht, sondern nur den Fällen, wo es eben keine
+harten Sprachgrenzen gibt.
+
+
+Und das ist dir eben nicht gelungen, weil sich aus diesen sofort ein
+Widerspruch ergibt.
+
+
+Den Rückschluss hast Du aber in einem anderen Punkt explizit angeführt.
+
+Ich geb's auf.
+
+	hp

@@ -1,0 +1,6 @@
+Übliche CCFL-LCDs scheitern bereits bei (0,0,0), vulgo: schwarz.
+Und da sie (255,255,255) schon für sattes weiß halten, dürften
+sie mit Farbwerten wie (756,1003,876,23) so ihre liebe Not haben.
+
+
+ivo

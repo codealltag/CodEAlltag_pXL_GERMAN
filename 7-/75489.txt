@@ -1,0 +1,38 @@
+Stimmt, aber wenn ich "Daten analysieren" in Zusammenhang mit Parsen
+lese, denke ich eben nicht daran, die Struktur eines bestimmten Files zu
+bestimmen, sondern die Struktur von Files dieser Art - also die
+zugrundeliegende Grammatik. Das Ergebnis dieser Analyse ist dann ein
+Programm, das zum Parsen dieser Files verwendet werden kann - eben ein
+Parser.
+
+(analysieren ist überhaupt so ein mehrdeutiges Wort. Wenn ich z.B.
+Logfiles analysiere, dann ist das Ergebnis der Analyse üblicherweise
+eine Statistik über die Im Logfile festgehaltenen Ereignisse, nicht die
+Struktur oder Syntax des Logfiles)
+
+
+Das würde ich aber nicht als "Analyse" bezeichnen.
+
+
+Nein, an beliebige Fileformate. Bei einem Programm ist z.B. die Semantik
+der Programmiersprache wichtig, wenn man das Programm interpretieren
+will, oder wenn man z.B. eine Programmflussanalyse durchführen will,
+aber unwichtig, wenn man nur Syntax-Coloring durchführt (auch nicht
+immer). Bei einem Graphikformat braucht man die Semantik, wenn man die
+Graphik darstellen will.
+
+
+Von natürlicher Sprache rede ich nicht. Und mit "die Kenntnis der
+Bedeutung ist notwendig" habe ich nicht gemeint, dass der Computer
+darüber reflektiert, was das bedeuten möge, sondern dass der
+Programmierer die Semantik kennt und diese Kenntnis in das Programm
+einfließen lässt.
+
+
+Teilweise ist es notwendig, zumindest über einen Feedback-Mechanismus.
+In C z.B. sind Typen nicht nur auf Grund der Syntax von anderen
+Identifiern unterscheidbar - der Parser muss Typvereinbarungen erkennen
+um die Grammatik entsprechend erweitern zu können. Perl ist noch viel
+schlimmer. Aber auch in reinen Datenformaten kommt so etwas vor. 
+
+	hp

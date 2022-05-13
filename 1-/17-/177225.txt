@@ -1,0 +1,10 @@
+Daguerreotypie                 1839  0,000003
+nasses Kollodiumverfahren      1851  0,0005
+Bromsilber-Gelatine-Emulsion   1878  1
+
+Das bezieht sich auch auf das Verfahren. Photographie kam erst mit 
+lichtempfindlicher Emulsion und Entwicklung der Optik (Physik) auf. Die 
+letzte Zahl ist die relative Lichtempfindlichkeit. 
+
+
+daphne

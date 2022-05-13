@@ -1,0 +1,14 @@
+"Tangente" ist ein sinnvoller Begriff: sie ist irgendwie ausgezeichnet 
+(z.B. durch dieselbe Steigung im Berührungspunkt wie die Kurve selbst), 
+sie eindeutig, wenn der Berührungspunkt gegeben ist und fast eindeutig, 
+wenn die Steigung gegeben ist usw. Mit ein wenig Kontext ist klar, was 
+"die Tangente" ist.
+
+Sekanten und Passanten gibts so viele, dass ich keinen vernünftigen 
+Kontext konstruieren kann, in dem diese Wörter vorkommen. "Gegeben ein 
+Kreis und eine Passante": na schön, aber warum sagt man nicht einfach 
+"Gegeben ein Kreis und eine Gerade, die den Kreis nicht schneidet", das 
+versteht jeder, auch wer das Wort seit der Schule vergessen hat.
+
+-- 
+Maurizio Reithmeier

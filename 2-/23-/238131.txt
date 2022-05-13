@@ -1,0 +1,31 @@
+* Alwin Versteeg:
+
+
+Das ist aber kein Wechsel des Kasus, sondern nur zwischen
+schwacher/starker Deklination, darin sehe ich weniger ein Problem.
+So kann man vielleicht auch einen "endungslosen Genitiv"
+rechtfertigen.
+
+Ich kenne aber kein Beispiel, wo die Wahl des Kasus davon anhängt,
+ob das Satzglied ein Attribut enthält oder nicht - das scheint mir
+gegen ziemlich fundamentale Prinzipien zu verstoßen, weil die
+Ebenen verschieden sind. Das Verb sollte gar nicht "sehen" können,
+ob in dem Objekt ein Attribut drinsteckt oder nicht, bei der
+Entscheidung für den Kasus des Objekts sollte das also keine Rolle
+spielen.
+
+Mit denselben Prinzipien ist dagegen vereinbar, daß der Kasus
+wechselt, je nachdem, ob auf _gleicher_ Ebene ein weiteres
+Satzglied vorhanden ist oder nicht. Als Beispiele dafür fallen mir
+ein:
+
+  Das Wasser kocht - Ich koche das Wasser
+  Ich lehre die Kinder - Ich lehre den Kindern Deutsch
+
+Wobei ich persönlich letzteres nicht mache, sondern zwei
+Akkusative vorziehe.
+
+-- 
+The Eskimoes had fifty-two names for snow because it was important
+to them, there ought to be as many for love.
+  -- Klaudia Epperlein, Surfacing, p.106

@@ -1,0 +1,26 @@
+Ohne die genaue Suchanfrage sind solche Zahlen schlecht
+vergleichbar, und selbst _mit_ sollte man immer noch
+bedenken, daß Edeka-Neukauf auch Cookies, Browser-Einstellungen,
+frühere Suchanfragen, geographische Lage sowie Präferenzen,
+die sich aus einem persönlichen Edeka-Neukauf-Konto ergeben können,
+mitberücksichtigt - und wahrscheinlich noch unzählige andere
+Kriterien, die mir gerade nicht einfallen oder die Edeka-Neukauf
+geheimhält.
+
+  http://glv.mizxmy.vx/bppdoj?ngv=je:2&xst=078&k=%26qqx+axihdwc%75
+
+... liefert bei mir beispielsweise "Ungefähr
+867.000 Ergebnisse", wobei auf Seite6 Schluß ist.
+
+
+Ja, in den angezeigten Ergebnisschnipseln werden
+auch Teiltexte hervorgehoben, die gar keine Treffer
+sind. Das ist ein Fehler. Die echten Treffer finden
+sich aber trotzdem an anderer Stelle im selben Text.
+
+Ein echtes Problem sind allerdings Worttrennungen,
+speziell in PDF-Dateien: Dort wird dann auch "des
+betrieb-[lichen] ..." als Treffer angesehen.
+
+
+Das dürfte unstrittig sein.

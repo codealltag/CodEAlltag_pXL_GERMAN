@@ -1,0 +1,34 @@
+Ich glaube, das ist der springende Punkt.
+Ich würde nämlich sagen, man kann es verwenden, wenn es für eine
+gewisse Zahl von Objekten zutrifft.
+
+Schau mal folgendes Beispiel:
+"Dieser Beitrag wurde bisher von 3 Besuchern bewertet, davon waren 3
+männlich. Alle weiblichen Besucher, und nur diese,  fanden den Beitrag
+nützlich. Trifft das auch auf Sie zu?"
+
+Man kann sich ohne großen Aufwand erschließen, daß hier ebenfalls noc=
+h
+keiner das Ding nützlich fand. Ist deshalb das "auch" verboten?
+Wäre es auch dann verboten, wenn die Geschichte so verwickelt ist, daß
+man 20 Minuten schärfsten Nachdenkens braucht, um zu erschließen, daß
+das "auch" sich auf eine leere Menge bezieht?
+
+Andere Widerlegungen:
+"Gehen Sie am Sonntag auch nicht zur Wahl?"
+"Wählen Sie auch die Direktkandidatin der IGTS?"
+"Wählen Sie auch die SDP?"
+
+Alle drei Sätze scheinen mir sprachlich zulässig zu sein, wenngleich
+der 3. natürlich die Antwort "So eine Partei gibt es gar nicht."
+verdient. Aber die Grammatik kann das nicht "wissen". Es kann einfach
+ein Schreibfehler sein.
+Bei allen dreien ist es nicht der Fall, daß die "Aussage bereits für
+ein Objekt zutrifft".
+
+Am 27.5. könnte jemand fragen:
+"Haben Sie auch die Direktkandidatin der IGTS gewählt?"
+Es braucht erhebliches nicht-grammatisches Wissen, um die Frage nach
+deinem Kriterium entscheiden zu können, ob "auch" hier erlaubt ist:
+Wie war das Wahlergebnis? Hat die IGTS überhaupt Direktkandidaten, und
+dann auch noch weibliche und hat die überhaupt jemand gewählt?

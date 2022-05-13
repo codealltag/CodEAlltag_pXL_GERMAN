@@ -1,0 +1,17 @@
+Wir haben die Formulierung schon öfters besprochen, auch mich hat sie
+meine ganz Jugend hindurch immer wieder zum Grübeln veranlaßt.
+
+Eine Tautologie ist es (dem für mich überzeugendsten Argument nach),
+weil im täglichen Leben "Betreten für Unbefugte verboten"
+gleichbedeutend ist mit "Betreten verboten". Wer trotz des generellen
+Verbots dennoch eine Befugnis hat oder bekommen kann, der wird es schon
+wissen, andere braucht das nicht zu interessieren.
+
+Entsprehend steht in der Metro Sax an den Türen an den Enden der
+Wagen: "Il est interdit de franchir cette porte" ("Es ist verboten,
+diese Türe zu durchschreiten"), was aber wiederum die Frage auslösen
+mag, weshalb dann überhaupt eine Tür da sei. 
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Maurizio Jehniche, comp.lang.python

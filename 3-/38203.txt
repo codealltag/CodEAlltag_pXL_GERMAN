@@ -1,0 +1,12 @@
+Was für eine Formatierung? Meinst du UTF-8? Wenn ja ...
+
+
+... dann habe nicht ich die 'eingeschleppt'. Es ist vielmehr die
+Standardreaktion meines NUAs auf undeklarierte Umlaute; wie sie z.B.
+Knuts NUA verschickt.
+
+
+Ciao
+Anny
+-- 
+ Ich bremse auch für Biere.

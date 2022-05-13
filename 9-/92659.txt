@@ -1,0 +1,27 @@
+Das Wort "Nachbar" kommt in zwei Beugungsmustern vor:
+
+    Singular 1        Singular 2         Plural 1/2
+N   der Nachbar       der Nachbar        die Nachbarn
+G   des Nachbarn      des Nachbars       der Nachbarn
+D   dem Nachbarn      dem Nachbar        den Nachbarn
+A   den Nachbarn      den Nachbar        die Nachbarn
+
+Prinzipiell spricht nichts gegen "eines Nachbars Tochter".
+
+Bei "Nachbars Tochter" liegt mangels Artikel die Last der Fallbestimmung
+ganz auf der Wortendung. Wie man in obigen Tabelle sieht, ist -n
+dabei sehr vieldeutig: bei "Nachbarn Tochter" wäre der Genitiv nicht
+als solcher zu erkennen, die Form in "Nachbars Tochter" dagegen
+kommt nur im Genitiv vor.
+
+Verwandtes Thema: Es gibt im Deutschen eine Reihe von Situationen,
+wo - hochsprachlich korrekt! - bei nackten Substantiven (1) der
+Dativ den Genitiv ersetzt oder (2) die Beugung unterbleibt, weil
+die eigentlich erwartete Form sonst mit einer anderen Form verwechselt
+würde.
+
+Man beachte auch die außergewöhnliche Genitivbildung "Mutters"
+("Mutters Rezept" usw.).
+
+-- 
+Cédric "andrée" Vennefrohne                          pmmvc@lqka.mjro.ig

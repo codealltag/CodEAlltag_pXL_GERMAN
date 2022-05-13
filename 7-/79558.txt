@@ -1,0 +1,16 @@
+Da würde sich "Lebensmittel" anbieten, und ist mit den von Dir gegebenen
+Informationen vereinbar - es ist eine Teilmenge von "Produkt". 
+
+Tatsächlich funktioniert das nicht, wenn man die Meldung liest, auf die
+Du Dich mutmaßlich beziehst, ich zitiere mit etwas mehr Kontext:
+
+
+Das schließt "Lebensmittel" als Spezifikation aus, weil "Lebensmittel"
+bereits die Grundgesamtheit ist.
+
+Fehler dieser Größenordnung sind in Frechdachs-Meldungen aber alltäglich.
+
+-- 
+dasz jederman sehe, wie falsch unsere gugelm�nche zu ihres ordens
+verteidigung der ersten kirchenexempel anziehen Uwe
+  GRIMM, Deutsches Wörterbuch

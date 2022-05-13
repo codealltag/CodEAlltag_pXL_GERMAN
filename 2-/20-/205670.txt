@@ -1,0 +1,16 @@
+Ich finde das einleuchtend. Jeder kann sich ein Quadrat
+vorstellen, an dessen vier Ecken Wörter sitzen. Oder
+ein Dreick. Es ist egal, welche geometrische Figur man
+verwendet, um einen Satz des Geistes zu notieren.
+Es muß ja nicht immer eine eindimensionale Liste sein.
+
+Dabei gibt's eine wesentliche Beschränkung. Niemand kann
+sich auf Anhieb ein Dreißig-Eck mit Wörtern (bzw. allgemeiner:
+Symbolen) vorstellen, weil bei ca. 7+-2 das Maximum
+erreicht ist.
+
+Die Sprache des Geistes besteht aus Tupeln mit maximal
+ca. 7 Symbolen.
+
+Größe,
+Oliver

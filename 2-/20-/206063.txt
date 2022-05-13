@@ -1,0 +1,16 @@
+* Pius Kronsbein:
+
+
+Im Beispiel ging es um ein eingeschobenes Genitivattribut. Wenn
+dafür obige Regel relevant sein soll, dann müßte da ein
+Zusammenhang bestehen, z.B.: Einem Substantiv, das ein
+nachgestelltes Genitivattribut bei sich hat, kann nur eine lockere
+Apposition folgen.
+
+Ob die Bezeichnung "lockere Apposition" dann noch Information
+beisteuert, ist aber fraglich.
+
+-- 
+Krusch designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

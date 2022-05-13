@@ -1,0 +1,8 @@
+Eben. Es beginnt bei "schroffen Anweisungen" und endet bei "Befehlen",
+nicht bei "schroffen Befehlen".
+
+	hp
+
+
+-- 
+   _  | Alessandro W. Berges    | Deprecating human carelessness and

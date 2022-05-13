@@ -1,0 +1,20 @@
+Das ist ein Gerücht. Niemand sagt bei Stillstand, es habe sei keine
+Geschwindigkeit. Umgangssprachlich besteht zumindest die größere Hälfte
+der Bevölkerung aus Geschwindigkeits- und Beschleunigungsfachleuten.
+
+
+Ersetze: Dirac -> Heaviside.
+
+Sonst wären wir schon  bei der Beschleunigung der Beschleunigung oder 
+des Rucks der Geschwindigkeit.
+
+Im übrigen sind höhere Ableitungen als die zweite in der Mechanik meist 
+der extrapolierenden Schulunwissenheit geschuldet, weil die Newtonsche 
+Theorie keinerlei Voraussetzungen über höhere Differenzierbarkeiten als 
+die zweite macht. Meist werkelt man in sehr viel allgemeineren 
+Funktionenräumen, wenn man Kraftverläufe, vulgo Beschleunigungen für die 
+Differentialgleichungen von Trajektorienfunktionen modelliert.
+
+-- 
+
+Christian Zängel

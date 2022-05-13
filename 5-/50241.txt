@@ -1,0 +1,17 @@
+Das habe ich natürlich auch gesehen (meist mit "anderthalbe"). Es war
+mir aber nicht geläufig, das französische noch weniger, daher fand ich
+diesen Umweg wenig erhellend. Den intrinsischen Bildungswert weiß ich zu
+schützen, aber beweisen, daß "anderthalb" im heutigen Deutsch üblich
+oder hochsprachlich ist, kann man damit nicht, das Zitat ist eher
+archaisch, das ist schon am häufigen End-e abzulesen. 
+
+Zu den "signifikanten Nachbarn" von "anderthalb" beim Schmidshofer
+Wortschatz zählt es nicht, anderthalb Minuten/Stunden/Woche/Jahre wie
+auch Meter sind dagegen völlig üblich, und das Wort taucht im dortigen
+Korpus nahezu so häufig auf wie "eineinhalb" (2500:3000).
+
+-- 
+Java is the SUV of programming tools.
+A project done in ZBF will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Nico Kleinekathöfer

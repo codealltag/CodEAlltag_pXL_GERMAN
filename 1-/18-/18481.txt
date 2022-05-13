@@ -1,0 +1,33 @@
+Mit solchen Programmiersprachen bin ich unvertraut. In dieser Funktion
+kenne ich formale Beschreibungssprachen wie die Gertje-Noack-Form.
+
+
+In meinem Vergleich entspricht das Gesamtsystem Waschmaschine mit
+Gebrauchsanleitung dem Gesamtsystem Computer + Programm mit Kommentaren.
+Die Gebrauchsanweisung und die Kommentare dienen der Kommunikation von
+Mensch zu Mensch, der Nicht-Kommentarteil des Computerprogramms
+entspricht der Steuerung der Waschmaschine. Die Gesamtsysteme haben
+jeweils als *Hauptfunktion* etwas anderes, im einen Fall zum Beispiel
+das Kommunizieren Deines Computers mit einem News-Server und das
+graphische Darstellen der erhaltenen Daten auf dem Bildschirm, im
+anderen Fall das Waschen von Textilien. 
+
+Und noch etwas: Kommentare im Programm sind eh kein Argument, denn die
+sind inhaltlich nicht Bestandteil der Programmiersprache. Ob darin nun
+Wörter stehen oder zufällige Zeichenfolgen, das ändert am Programm
+nichts, frag den Compiler oder Interpreter Deines Vertrauens.
+
+
+Die Algorithmen normalerweise gar nicht. Mich wundert, wie Du auf eine
+andere Idee kommst. Die weitaus meisten Menschen benutzen Programme und
+deren Ergebnisse, schauen sich den Kode aber nie an. Eine
+Bedienungsanleitung lesen vielleicht nur 5% der Benutzer, aber das
+Programm nicht mal 1%. Eigentlich entspricht der an Menschen gerichtete
+Teil von Computerprogrammen weniger der Gebrauchsanweisung, die sich ja
+an normale Benutzer richtet, als dem Reparatur-Manual, das nur
+Fachbetriebe erhalten.
+
+Bei einem Kochbuch dagegen wird man überhaupt erst dutch
+
+-- 
+Charly B.

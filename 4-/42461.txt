@@ -1,0 +1,7 @@
+Ein geladener Kondensator enthält exakt gleich viele Elektronen wie ein 
+ungeladener. Es wird Ladung nur extern elektrisch verschoben. Eine 
+Elektrode eines geladenen Akkus hat dagegen mehr Elektronen (respektive 
+Löcher) als eine solche eines ungeladenen. 
+
+
+v"nicht alles, was hinkt, ist ein Vergleich"G

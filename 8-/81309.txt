@@ -1,0 +1,16 @@
+Wenn du schon einen Computer hast und nicht nur eine Schreibmaschine 
+(dein Beitrag hier läßt mich ersteres stark annehmen), dann schau dir 
+mal in der Textverarbeitung deiner Wahl die Möglichkeiten der 
+Zeichenformatierung an (bei OpenOffice.org: Zeichen/Position/Laufweite). 
+Dort kannst du einen Wert für gesperrte Schrift einstellen und mit dem 
+Schriftbild experimentieren. Gesperrte Schrift sollte vom übrigen Text 
+deutlich unterschieden sein, aber der Wortzusammenhang sollte auch nicht 
+völlig auseinanderfallen.
+
+Mit Leerzeichen (Lehrstellen sind Ausbildungsplätze) sperren nur 
+Anfänger. Erstens sind die nicht skalierbar. Zweitens kann dir der 
+automatische Zeilenumbruch Streiche spielen.
+
+Das Thema gehört eigentlich in die Textverarbeitungsgruppe deiner Wahl.
+
+Nikolaus

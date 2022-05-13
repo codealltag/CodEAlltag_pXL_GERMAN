@@ -1,0 +1,21 @@
+Ich gebe zu, dass ich ihn nicht auf Anhieb gesehen habe. Aber ja,
+besonders schwer zu finden ist er nicht. (Interessanterweise war meine
+Reaktion "ist das grauslich, das würde ich umschreiben", noch bevor ich
+wusste, wo der Fehler lag. Man entwickelt als Programmierer eine gewisse
+Intuition für fehlerträchtige Konstrukte und empfindet sie als
+hässlich.)
+
+
+PAULA. Ein paar Semester Programmierübungen verbessern hilft[1] dabei
+übrigens auch. Das fällt für mich übrigens auch unter "üben": Zum
+Programmieren gehört debuggen, und in der Praxis auch das Debuggen von
+Code, den andere geschrieben haben. 
+
+	hp
+
+[1] ObOnT: Da bin ich jetzt wirklich unsicher, ob sich das Verb auf die
+Semester oder das Verbessern beziehen soll. Und wenn letzteres, ob
+"verbessern" hier substantivisch gebraucht wird oder nicht.
+
+-- 
+   _  | Mirko D. Hess    | Deprecating human carelessness and

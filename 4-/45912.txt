@@ -1,0 +1,20 @@
+Diese Regel gibt es aber nicht: ä25 der Amtlichen Regelung lässt sich
+höchstens mit der Formel "nach Langvokal oder Diphthong steht meistens
+[nämlich wenn im Wortstamm kein weiterer Konsonant folgt] <�>"
+zusammenfassen, aber nicht mit "nach Kurzvokal steht immer <ss>", denn das
+setzt die Verwechslung einer notwendigen Bedingung mit einer hinreichenden
+voraus. "Nach Kurzvokal" ist keine hinreichende Bedingung, weil dazu noch
+die Bedingung "sofern nicht <s> steht" kommt. Diese Zusatzbedingung ist
+natürlich alles andere als hilfreich, aber die neue Regelung unterscheidet
+sich hier nicht von der alten.
+
+Wenn man erklären will, wann <ss> geschrieben wird (dieser Ansatz hat den
+Vorteil, dass "Langvokal oder Diphthong" durch eine einzige Bedingung
+ersetzt werden kann), kommt nur "<ss> steht nur nach Kurzvokal" in Frage.
+Diese Regel kann allerdings nicht vollständig auf die Frage "Schreibt man
+nach Kurzvokal <s> oder <ss>?" antworten, so wie es für die alte
+Rechtschreibung keine entsprechend einfache Regel gab, die vollständig auf
+die Frage "Schreibt man nach Kurzvokal <s> oder <�>?" geantwortet hätte.
+
+Größe,
+Samuel

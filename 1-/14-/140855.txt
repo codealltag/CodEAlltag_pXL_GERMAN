@@ -1,0 +1,8 @@
+Gibt's das? "Windereignis" ohne periodischen Anteil würde ich eher
+verstehen.
+Wenn man V. Carass glauben darf (Musik wird oft als Geräusch
+empfunden), ist es darüberhinaus auch noch vom Rezeptor abhängig.
+Die Technik erlaubt es, dass auch meine Lautsprecherboxen "Geräusch"
+sagen können. Wie also muss ein Programm gebaut sein, welches auf
+einen bestimmten Input des Mikrophons "Geräusch" sagt? - Sieht
+irgendwie einfach aus.

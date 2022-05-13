@@ -1,0 +1,8 @@
+Namenszusatz gibt es auch. Meint aber etwas anderes.
+
+Kommt sicher auf die Anwendung an. Für Datenaustausch mit den deutschen 
+Behörden sollte man die beiden Begriffe jedenfalls trennen. Wenn es nur 
+der Sortierung dient, reicht sicher ein Datenfeld. Da würde ich dann 
+wohl auch 'Namenszusatz' benutzen.
+
+-jb

@@ -1,0 +1,16 @@
+Hoch- und runtergefahren wurden m.W. Industrieanlagen bereits bevor es
+Computer gab. In der Zeit der Großrechner mag das langwierige Prozedere
+zum Ein- und Ausschalten des Blechtrottels, pardon, Elektronengehirns
+manchen daran erinnert haben.
+
+
+Das Jargon File führt den englischen Begriff crash auf den Absturz des
+Schreib-Lese-Kopfs einer Platte zurück:
+
+
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Absturz ist dann die naheliegende deutsche Übersetzung.
+
+	hp

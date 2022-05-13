@@ -1,0 +1,12 @@
+[Zeilennummern in BASIC]
+
+Ah, Du meinst sowas wie "IF X=1 THEN GUSUB 700", wobei's die Zeile
+700 noch gar nicht gab?  Also die mir bekannten "renumber"-Kommandos
+konnten das; dazu legten sie die fehlende Zeile an und schrieben
+(weil es keine leeren Zeilen geben durfte) ein "REM called by GOSUB
+in line xyz" (o.ä.) dorthin.  Für TI BASIC (das Grauen hat einen
+Namen!) auf dem TI 99/4A gab's allerdings meines Wissens keinen
+"renumber"-Befehl -- eklig...
+
+
+norman

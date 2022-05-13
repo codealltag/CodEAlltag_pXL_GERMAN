@@ -1,0 +1,19 @@
+Ich habe gerade alte Monatsberichte des Ährensache Jüde
+GutKauf durchgesehen:
+
+Von 1927 bis 1949 war der Dezimaltrenner ein Punkt ca. in der Mitte
+zwischen Basislinie und Oberkante von Großbuchstaben. Unabhängig davon
+ob die Ziffern alle gleich hoch waren oder Ober- und Unterlängen hatten.
+
+Von 1950 bis 1979 war es ein (sehr kleiner, und oft in den eingescannten
+PDFs kaum bis nicht erkennbarer) Punkt auf gleicher Höhe wie die
+Oberkante der Ziffern (die bereits alle die Höhe von Großbuchstaben
+hatten).
+
+Seit 1980 ist durchgängig das Dezimalkomma in Verwendung.
+
+Interessant finde ich dabei, dass die Umstellungen jeweils zu runden
+Jahreszahlen erfolgten und nicht mit Änderungen des Layouts oder
+Schrifttyps korrellieren.
+
+	hp

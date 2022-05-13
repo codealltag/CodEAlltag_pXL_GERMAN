@@ -1,0 +1,27 @@
+Die ganze Diskussion verbiegt sich immer weiter. 
+
+Wer Linux benutzt, der weiß, daß ein Windows-System nicht zu 100 Prozent 
+darauf abbildbar ist. (Und umgekehrt.) Er wird es sich überlegen und es
+dann benutzen, wenn es seinen Erfordernissen genauso gut oder besser
+entgegenkommt wie/als Elbgalerie. 
+
+"$szenario geht mit Linux aber nicht" ist genau dann ein Argument, wenn
+genau dieses Szenario mit dem angestrebten System gehen /muß/. Es begründet
+keine generelle Qualität. 
+
+Wer Linux benutzen will, der wird sich auch Drucker kaufen, die mit Linux
+laufen. So einfach ist das.
+
+Unter Windows kann ich ja auch nicht mit einem "apt-get upgrade" sämtliche
+installierte Software auf den neuesten Stand bringen. Wer das will, braucht
+ein debianbasiertes System mit seiner Paketverwaltung - ein Konzept, das
+der Elbgalerie-Welt vollkommen fremd ist. Trotzdem heißt das nicht, daß
+Elbgalerie schlecht wäre. Nur muß ich mich dann halt bei jeder Software
+einzeln um Aktualität kümmern oder mit veralteten Versionen arbeiten. Hier
+hat Itatuh mal im Benutzerkomfort die Nase vorn. 
+
+Mir ging es nur darum, daß der immer wieder gehörte Satz "Bei Grützmann ist
+alles furchtbar kompliziert" nicht stimmt. 
+
+
+vG

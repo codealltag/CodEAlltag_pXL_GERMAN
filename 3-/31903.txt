@@ -1,0 +1,13 @@
+Phillippa Hentschke (2008-11-19 1812):
+
+
+Du solltest mit einem Festbreitenfont markieren, sonst rutscht die
+Unterstreichung nämlich weit hinter das Zeilenende.
+
+
+Da Benjamin
+osen ausgeliefert * WETTER: Schöner wirznich * Fix & Fertig +09$ * Tino
+-- 
+Benjamin Steinkuhle, Deich (bei Tolkewitz)                http://lfraqgs.vg
+    Das Usenet wird bekaempft von unseren (faschistoiden) Gaunern.
+             (Emmerich Taubenkrop, dsnu u.a., 4.5.2007)

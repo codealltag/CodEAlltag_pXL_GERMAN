@@ -1,0 +1,25 @@
+* Severin Pätzel:
+
+
+Dann würde Dir vielleicht eine andere große Richtung in der
+modernen formalistischen Grammatik besser liegen, die
+Unifikationsgrammatiken. Da sagt man, daß bestimmte Elemente
+zusammen eine größere Struktur bilden können, wenn sie kompatibel
+sind, also z.B. ein Verb, das mit Dativobjekten kombiniert und
+eine Nominalphrase im Dativ.
+
+Man kann sich das so vorstellen: Bei der Rektions- und
+Bindungstheorie heiraten die Satzglieder irgendwelche anderen von
+der passenden Sorte, und versuchen diese dann in ihrem Sinne
+umzumodeln. Bei der Unifikationsgrammatik suchen sie erst einen
+passenden Partner, bevor sie sich auf was ernsteres einlassen.
+
+Nächste Woche lernen wir dann, wie sich bei den
+Unifikationsgrammatiken die generativen von den kopfgesteuerten
+unterscheiden - falls das nicht eh klar ist.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  John Fetten in sci.lang

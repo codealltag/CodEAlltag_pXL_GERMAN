@@ -1,0 +1,11 @@
+In Unicode ist das
+
+LETTER O WITH DOUBLE ACUTE
+Ő ő 	
+L+4298 N+5015
+
+Kommt das an?
+
+Vielleicht hat dein Reader Probleme mit dem utf-8 oder dem Font?
+
+Thomas

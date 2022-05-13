@@ -1,0 +1,18 @@
+Sowieso.  Ein schrottöses Posting, von einem anderen Newsreader beim
+Zitieren nicht auto-korrigiert, und schon liest man Scrabble.  Was
+nicht bedeutet, daß der zitierende Newsreader Schrott sein muß, denn
+Auto-Korrektur ist Guesswork, und nicht auf jedem System stehen alle
+erdenklichen Zeichensätze zur Verfügung; davon abgesehen, besteht für
+einen Newsreader keine wie auch immer geartete "Verpflichtung", putte
+Postings anderer wieder heile zu machen.  JGH hat aber z.B. viel
+bessere Chancen als etwa Gnus, knews oder slrn, weil es auf all die
+Zeichensätze /des/ Systems zurückgreifen kann, von dem 99+% des Schrotts
+verursacht werden.  Daß Ulle mit seinem selbstverbrochenen Müll keine
+Probleme hat, liegt im Interesse Kiliansdorfs, und verhindert stabil seit
+Jahren eine Lösung.  Vielleicht sollte man stattdessen besser UEAH & Co.
+beibiegen, die Annahme von Postings ohne korrekte Kodierungsangabe
+zu verweigern, aber ich sehe schon die von aktio-Benutzer-Beschwerden
+überquellenden Mailboxen der Newsmaster vor meinem geistigen Auge...  :-/
+
+
+onno

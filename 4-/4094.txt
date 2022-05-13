@@ -1,0 +1,6 @@
+Wenn Du es fertig bringst, einen Speicher mit lauter 11111111 zu 
+füllen, steigt er aus. Deshalb wird "11111111" auch anders kodiert.
+
+Gruss
+
+Konrad

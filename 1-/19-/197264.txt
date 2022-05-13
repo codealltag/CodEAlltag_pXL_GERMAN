@@ -1,0 +1,52 @@
+Am 29.11.2012, 21:07 Uhr, schrieb Didier Epelboim  
+<efjtvdbasfojtbn@mba.xf>:
+
+
+Da das nicht stimmt, kannst du sehen, wenn du deinen Tischmonitor
+mal um seine senkrechtze Achse drehst. Die Schiebe-Richtung des
+Cursors wird nur von der Bewegung des Maus-Sensors über der Unterlage
+bestimmt. Das merkst du auch, wenn du ein Lineal in wechselnden
+Richtungen auf den Tisch legst und an dem entlang die Maus vor und
+zurück bewegst.
+
+
+Die Teilnehmer sollten, wenn sie noch keine Übung im M�useschubsen
+haben. zuerst mal eine Weile frei mit dem Pfeil spielen und dann
+mit eigenen Worten beschreiben, was sie herausgefunden haben. Eine
+nächste Übung könnte dann sein, den Pfeil nacheinander in die vier
+Ecken des Bildschirms zu schieben und dort "Klick" zu machen.
+
+Das Klicken selbst kann bei ungeübten und älteren Leuten eine zweite
+Übung erfordern, wenn sich nämlich herausstellt, daß sie beim Klicken
+und erst recht beim Doppelklicken die Maus "verreißen".
+
+Für solche Übungen und zum Training könnte ein engagierter Lehrer eine
+Vorlage selbst basteln und auf die Bildschirme der Schüler spielen, um
+die Maus-Spuren und Klick-Koordinaten aufzuzeichnen und zu quittieren.
+Da kann sich jeder selbst kontrollieren - und dann schon mal Sternchen
+oder sonstwas Schönes malen. Soll doch auch Freude machen -
+
+In jedem Fall - und dies bitte ins Stammbuch: Auch Computerfreaks
+sollten nicht glauben, sie könnten den Schatz ihrer Erfahrung und
+ihres Wissens einfach mit ein paar netten Wörtern weitergeben. Ein
+paar didaktische und methodische Überlegungen sollten da schon
+vorausgehen! WAS sollen sie diesmal lernen. Und WIE verklickere ich
+denen das am geschicktesten.
+
+Ich habe mal an einem Fortsetzungs-Kurs der hiesigen Aalkate teilgenommen,
+den meine erwachsene Tochter belegt hatte. Beim ersten, Html, hatte
+sie schon Schwierigkeiten bekommen, den zweiten, Javascript, traute
+sie sich nicht mehr zu. Der Dozent war ausgewiesener Internet-Designer
+oder wie sich das nennt. Aber seine pädagogische Begabung war
+erbärmlich, entsprechend erbärmlich waren die Erfolge seiner Schüler.
+Und wenn er, was wiederholt vorkam, mit seinem Erklären nicht weiter-
+wußte, dann ließ der Esel es sogar zu, daß ihm die fortgeschrittenen
+unter den Kursanten zu helfen versuchten, was natürlich erst recht
+schiefging und die übrigen Teilnehmer, alte und junge, die nun gar
+nichts mehr verstanden, in tiefe Frustration stürzte. (Nein, ich habe
+mich nicht zu erkennen gegeben und mich nicht eingemischt.)
+
+Mußte mal gesagt werden ...  :(
+
+j/\a
+--

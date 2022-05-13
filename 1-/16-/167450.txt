@@ -1,0 +1,5 @@
+Das Posting sollte so eine Headerzeile enthalten:
+
+Content-Type: text/plain; charset=UTF-8
+
+Da steht aber nur:

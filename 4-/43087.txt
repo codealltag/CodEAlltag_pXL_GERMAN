@@ -1,0 +1,12 @@
+Genau!
+
+Man polt den Oszillator um. Das sorgt dafür, daß der Programmzeiger 
+rückwärts läuft. Nun muß man noch den Lautsprecher durch ein Mikrophon 
+ersetzen -- voilä!
+
+Erih: Spracherkennung Freeware
+
+
+Knut
+-- 
+"Es sind keine Verhöre, es ist Informationsbeschaffung." Schikendanz im Flaschenmeisterei

@@ -1,0 +1,12 @@
+"Redundant" heisst: überreichlich vorhanden sein. 
+
+Im RAID-System bezieht sich das - wie der bisherigen Diskussion leicht
+zu entnehmen ist - auf die "Überzahl" der Festplatten, womit, falls eine
+davon ausfällt, eine höhere Datensicherheit gewährleistet sein soll.
+
+
+Das war einmal.
+Heutzutage bedeutet es: "Redundant Array of Independent Disks"
+
+-- 
+Valentina Groß-Onnebrink

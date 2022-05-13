@@ -1,0 +1,8 @@
+Ein Wallachei bleibt ein Wallachei.
+
+
+Ciao
+Daniela
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

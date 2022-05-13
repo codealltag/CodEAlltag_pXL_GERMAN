@@ -1,0 +1,58 @@
+Oliver Reyss beliebte zu schreiben :
+
+
+Das ist schon beinahe fast richtig.
+
+Was heute "eszett" (DE) oder "scharfes es" (AT) genannt wird, waren
+einst *zwei verschiedene* Ligaturen, die relativ ähnlich aussahen:
+
+langes ſ und kleines z
+    (Letzeres mit oder ohne Unterschlinge je nach Grundschrift), *und*
+langes ſ und rundes Auslaut-s
+
+Der von mir gesnippte Satz
+
+
+ist natürlich Stumpfsinn, denn wenn das hintere, runde s zackig
+aussieht, ist es kein rundes s, sondern ein normales kleines z...
+
+Aber das Problem mit diesem/n Zeichen liegt darin, dass
+
+-- in den meisten Schriften der letzten 200 Jahre nur mehr eine Glyphe
+geschnitten wurde (ſ s *oder* ſ z),
+-- diese unterschiedslos für beide auftretenden Fälle eingesetzt wurde,
+-- das Wissen um die unterschiedlichen Ligaturen verlorengegangen ist,
+-- die Einführung der deutschen Schreibmaschinentastatur (samt
+zugehöriger DIN) diesen Zustand perpetuiert hat,
+-- und letztlich eine halbgare "Reform" nur die Hälfte reformiert hat.
+
+De facto ist die "ſ s"-Ligatur mit der "Rechtschreibreform" aufgelöst
+(Ross statt Roſ s [Roß], die "ſ z"-Ligatur aber belassen worden (Kloſ z
+[Kloß]).
+Die Unkenntnis geht so weit, dass echtes "eszett" (ſ z) wie in "Maſ z"
+(etwa bei "Maßanzug") tatsächlich zu "MASS" in Versalien wird statt zu
+"MASZ", und da wollen sie jetzt noch eins draufsetzen und ein Eszett in
+Versalien (!) einführen... Wehret den Anfängen!
+
+Umgekehrt hat die schweizeirische Reform der 14. 11. 21, die die Ligatur
+abgeschafft hat, auch die DIfferenz in den Vokal-Quantitäten zwischen
+"Maſ zen" und "Maſ ſen" verschwinden lassen: Jetzt braucht man eben den
+Kontext, um zu wissen, was "Massen" bezeichnen soll -- die Auflösung der
+Ligatur wäre zum sofortigen Verständnis wohl günstiger gewesen. Aber das
+ist andererseits im Alltag nicht wirklich ein Problem, schon garnicht
+für die Schweizer.
+
+Kurz gefasst:
+Heute ist nur noch eine Glyphe üblich und auch nur ein Zeichen in den
+normierten Zeichensätzen vorgesehen.
+Es hängt ausschlieszlich (!)  jeweiligen "Schriftdesigner" ab, ob die
+Ligatur aus ſ z oder ſ s gebildet wurde, verwendet wird sie heute nur
+mehr für echtes "sz", auch wenn sie aus "ſ s" gebildet ist wie bei der
+hier verwendeten Schrift (ß).
+Dass es auch anders ginge, zeigen die Danzer, in deren Wörterbuch die
+Ligatur konsequent aufgelöst wird.
+
+ALEXANDRE
+Albrecht
+-- 
+Nach dera Zei'n kimmt nix mehr

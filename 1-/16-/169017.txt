@@ -1,0 +1,12 @@
+In allerlei Fällen weicht im Deutschen die Deklination von den
+Grundregeln ab. Ich empfehle den Artikel "Unterlassung der Deklination"
+im Zweifelsfallduden; z.B.:
+
+"Am Wortende nach Konsonant (n i c h t: Konsonanten) spricht man..."
+
+Obwohl die Präposition "nach" den Dativ verlangt, wird hier die
+Nominativform verwendet, weil der Dativ mit dem Plural verwechselt
+würde.
+
+-- 
+Charles "isabelle" Bovenkamp                          dhqdp@vpds.cxde.ap

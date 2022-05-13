@@ -1,0 +1,15 @@
+Also Pfeilchensetzen als Geheimsprache anzusehen finde ich schon
+sehr weit hergeholt ... auch ohne Courier hatte ich eigentlich nie
+Schwierigkeiten, ein etwas verrutschtes ^ dem gemeinten Bezugspunkt
+zuzuordnen.
+
+Natürlich war es damals(tm) einfacher, bevor diese seltsame
+Proportionalschrift aufgekommen war. Man gewöhnt sich aber
+auch an solche Medien.
+
+Richtig malen konnte man sowieso nur auf 3270-Terminals.
+Einfach Cursor bewegen und ein | eingeben; ohne vorher
+den Bildschirm mit Blanks füllen und dann in Überschreibmodus
+umzustellen.
+
+/Justin

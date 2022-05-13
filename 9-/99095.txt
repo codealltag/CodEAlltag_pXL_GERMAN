@@ -1,0 +1,18 @@
+Das liegt an Fixens defekten Fort Agent, der Umlaute um Subject nicht
+kodiert. Bzw. noch schlimmer, die korrekte Kodierung seines Vorposters
+entsorgt und somit ein fehlerhaftes Subject erzeugt. Da Wilhelm mit
+UTF-8 posten lässt und sein Dialog somit den Schaden, den Dominik hat
+anrichten lassen, nicht beheben mag, genau genommen nicht beheben kann
+und schon gar nicht müsste, hat dein TB einfach überhaupt keine Chance
+mehr, angemessen mit dem Verhau umzugehen; insbesondere da auch du auf
+UTF-8 vertraust. Mit iso-8859-1 würdest du es in diesem Fall TB leichter
+machen, das aber wäre dann reiner Zufall. Denn dann ginge es in die
+Hose, wenn Dominik seinerseits UTF-8 verwände.
+
+
+Ciao
+Silvana
+-- 
+ Peace sells ...
+ But who's buying?
+ [Megadeth]

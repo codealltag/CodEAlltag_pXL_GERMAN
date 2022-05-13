@@ -1,0 +1,27 @@
+Am Thu, 01. 04. 22 22:04:21 +0200 schrieb Julius Niebuer:
+
+
+(alles Hausnummern im folgenden)
+Um zu messen, könnte man z.B. 5kg einer D200 einkonzentrieren um 5l für
+ein Massenspektroskop zu erhalten. Wenn ich da nichts nachweise, kann ich
+sagen, dass "weniger als 1fmol der Wirkubstanz pro kg D200 vorliegen", also
+weniger als 0,01amol pro 10 Globuli.
+
+Zum Beispiel der Experimentalwissenschaft im Vergleich zur Theoretischen
+(ist mir grad eingefallen, mag also suboptimal sein):
+
+Ein Apparat werfe in einer Blackbox eine Münze. Der Experimentator bekomme
+das Ergebnis zu Gesicht, ohne die Münze untersuchen zu können.
+nach 10 Würfen bemerkt er, dass 10 Mal "Kopf" gekommen ist.
+er wird daraus schließen, dass die Münze auf beiden Seiten "Kopf" hat.
+Auf diese Weise wurden alle großen Erfolge der Molekularbiologie gemacht.
+
+Rein theoretisch müsste der Experimentator natürlich sagen: Die
+Wahrscheinlichkeit, dass die Münze auch eine "Zahl"-Seite hat, liegt unter
+0,097%.
+
+
+Du kannst natürlich D100 kontrolliert herstellen. Du musst nur damit
+rechnen, dass ab D30 nix mehr drin ist.
+
+T

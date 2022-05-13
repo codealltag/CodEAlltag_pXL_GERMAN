@@ -1,0 +1,28 @@
+Hallo in die NG:
+Eine regionale ÖPNV-Gesellschaft hat die Haltestellen (HST) durch
+Aufstellung von elektronischen Meldetafeln modernisiert und
+kundenfreundlicher gestaltet. Angezeigt wird eine kurze Tabelle:
+1. Spalte= Nr. der Linie, 2. Spalte= örtliches Endziel,
+3. Spalte= x (Minuten bis zur Ankunft des Verkehrsmittels).
+Leider finden man auf der Website keine Darstellung & Erläuterung einer
+Standard-HST, so daß ich hier nicht den zutreffenden technischen
+Wortschatz verwenden kann. (Zudem gesellen sich viele Kund/inn/en zu den
+Tafeln, als wäre sie die richtige Wartestelle, dann müssen sie je nachdem
+hin&her laufen.)
+
+Es ist bequeme Modernität: Man sieht an der Tafel, wann der Bus kommt und
+wie die Zeit vergeht, ohne sich bei den Fahrplananzeigetafeln drängeln zu
+müssen. Ist der Bus schon da, dann wird nicht etwa 0 (die Zahl Null),
+sondern das Wort "sofort" angezeigt. Er ist schon da, was soll daran
+sofort sein?! ;-) Sicherlich wollte man damit bloß die Situation einfach
+darstellen und der "interface designer" hat eben dieses Wort gewählt.
+
+Wie könnte man die Situation einfach, kurz & prägnant und doch mit einem
+zutreffenderen Ausdruck darstellen?! Wären "schon da" oder "angekommen"
+nicht zweckdienlicher? "sofort" könnte man für die kurze Zeit der Einfahrt
+in die Renates-Eckladen beibehalten. Oder sollte man auch "steht an" als Hinweis
+anzeigen, daß der Bus die Wegfahrt eines anderen Fahrzeugs abwartet.
+Meinungen dazu?
+
+MfG, THIERRY
+URL-Tip http://uxmfsp.emrods.mw/ohjkz/wa.hge.xnlavli.dfrkyrw/

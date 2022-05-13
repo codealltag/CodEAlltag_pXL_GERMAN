@@ -1,0 +1,51 @@
+Bei diesen Kopula-Ausdrücken lassen sich zwei Dinge im Deutschen
+beobachten:
+
+Die 1. und 2. Person binden stärker als die 3:
+-  Das bin ich.
+- *Das ist ich.
+-  Das bist du.
+Beide Seiten stehen im Nominativ:
+-  Ich bin einer.
+
+
+"Moi" ist einfach das alleinstehende Personalpronomen; die anderen
+Formen sind enklitisch an das Verb gebunden und man könnte sie auch
+als Verbaffixe statt als Pronomen betrachten.
+
+Im Französischen bindet die 3. Person stärker
+-  c'est moi
+aber bei der Frage nach Plural oder Singular wird es schwierig:
+-  c'est nous / ce sont nous
+Die 3. Person Plural gewinnt immer:
+-  ce sont eux
+
+"Ce sont nous" ist eine besonders bizarre Form, weil das Verb
+eigentlich zu keiner der beiden Seiten passt.
+
+Vermutlich muss man c'est/ce sont aber ohnehin als erstarrten
+Ausdruck behandeln.
+
+
+Im Englischen ist das - ausnahmsweise - einmal anders als im
+Deutschen. Die 3. Person bindet stärker und auf der rechten Seite
+steht (im normalen Sprachgebrauch) die Objektform:
+-  It's me.
+-  It's him.
+
+
+Russisch:
+- Eto ja.
+Nominativ auf beiden Seiten, das Verb entfällt im Präsens ganz. Das
+Präteritum zeigt, dass das Personalpronomen stärker bindet:
+- Eto byl(a) ja.
+- Eto byla ona.
+- Eto byli my.
+(Die Präteritumform der Verben ist ein altes Partizip und beugt
+nach Genus und Numerus.)
+
+
+Die Frage verstehe ich nicht.
+
+-- 
+Beat "tabea" Göbels                          fdfkn@tqnv.uxnt.gw

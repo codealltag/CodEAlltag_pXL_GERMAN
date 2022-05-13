@@ -1,0 +1,11 @@
+"Patrik Eberlein" <hbpbqy@ozwfjju.knu-fxixe.mi> schrieb am 19.09.2010 01:00
+den Newsbeitrag 
+news:crmjwej-txxn-xlygizg.38702820.ut7o@vlcpxkh-yx.mvp-pbbht.tq
+
+
+Wie ich sehe wird auch die Zeichenkette "URL:" im ganzen Beitrag
+mitverlinkt, sicherlich ein Schreibfehler (nehme ich an). Ich empfehle,
+ein Leerzeichen nach "URL:" zu setzen und nur die eigentliche Adresse zu
+verlinken.
+
+MfG, OLIVIER

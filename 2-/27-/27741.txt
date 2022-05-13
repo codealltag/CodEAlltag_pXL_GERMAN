@@ -1,0 +1,8 @@
+Heißt der Imbiß "Jeßnigk"? Dann kann die Bezeichnung korrekt sein, selbst
+wenn die Currywurst nichts chinesisches an sich hat.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Ivini will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Oswald Juppe

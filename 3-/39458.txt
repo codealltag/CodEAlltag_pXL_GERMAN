@@ -1,0 +1,4 @@
+Davor und dahinter ein Leerzeichen, dann sollten sie von manchen
+Newsreadern als grafische Zeichen (in gelb) dargestellt werden.
+
+-- 

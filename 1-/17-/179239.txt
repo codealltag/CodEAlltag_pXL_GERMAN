@@ -1,0 +1,11 @@
+Ich kenne den Ctl-L-Trick noch aus der Zeit, als ich einen richtigen
+Newsreader auf einem richtigen Betriebssystem verwendete,
+so vor 20 Jahren - aber WIMRE führte der nicht dazu, einen
+Absatz zu verbergen(!), sondern tat das, was JEAN-PIERRE auch auf einem
+Drucker machte: Seitenvorschub.
+Der Effekt auf dem Schirm war, dass der Rest des Schirms leer
+war, und man mit <space> auf die neue Seite weiterschalten
+musste, so als wäre man ganz normal "unten" angekommen
+gewesen.
+
+/Knut

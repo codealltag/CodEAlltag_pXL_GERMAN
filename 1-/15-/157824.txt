@@ -1,0 +1,16 @@
+Wie jemand anders schon sinngemäß schrieb: ein Mensch wäre auch durchaus 
+in der Lage, zwei Sätze von sagen wir 20 Wörtern Länge auseinanderzuhalten,
+bei denen jedes der Wörter aus einem Wortschatz von 500 möglichen Wörtern 
+entnommen ist, macht 500^20 = 10^54 Sätze. Und dass, obwohl auch die nicht 
+alle in der Library Müllerland stehen.
+
+
+Eben darum sprach ich von den 2^220 Kombination aus beliebig vielen 
+(nämlich 0 bis 220) Gerüchen und nicht von den 220*219/2 Kombinationen aus 
+genau zwei Gerüchen.
+
+Ich glaub, die Kapitel "Permutationen", "Kombinationen" und "Potenzmengen" 
+schaust du dir noch einmal an.
+
+-- 
+Ivo Cook

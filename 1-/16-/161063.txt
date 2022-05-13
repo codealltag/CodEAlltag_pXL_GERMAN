@@ -1,0 +1,34 @@
+Es gibt Wahrscheinlichkeitsverteilungen, die besitzen keine "rationalen" 
+Eigenschaften. Zb besitzt die Lorentzverteilung keine endlichen 
+Mittelwerte, weil die Wahrscheinlichkeitsdichte für die 
+Ausrei�erereignisse nicht stark genug abfallen. Ein anderes uraltes 
+Problem ist das mit der Verdoppelung der Einsätze bei 50:50-Spielen.
+
+Der rationalisierende Statistiker kommt in einem solchen Fall mit der 
+unschlagbaren Argumentation: Das Eintreten eines Zufallswertes oberhalb 
+einer Grenze ist vernachlässigbar klein. Außerdem tritt es höchstens 
+einmal ein, denn wenn, wäre meine Argumentation falsch und man würde für 
+die nächste Generation ein anderes Konzept entwickeln.
+
+Also dreht man den Spieß um und berechnet die Verteilung der 
+Aufschlagszeiten bis zum Crash. Ist deren Erwartungswert ebenfalls 
+unendlich, was typisch ist, weil die uninteressanten ewigen Wartezeiten 
+überrepräsentiert sind, berechnet man die Wahrscheinlichkeit eines 
+ersten Crashs über die Laufzeit von 30 Jahren.
+
+Das nennt man dann Restrisikio. Daraus folgt zwingend, dass die 
+Verlängerung der konstruktionsbedingten Laufzeiten ein unverantwortbares 
+Risiko darstellt, es fehlt aber an Strafbewehrung.
+
+Offenbar haben die Bankdr�cker auf den endlosen Lohnlisten der 
+Energiewirtschaft, einschließlich ihrer zumindest fachlich nicht ganz 
+ungebildeten Vordenkerin, übersehen, dass die Crashs am Ende der 
+crashfreien Zeitspanne auftreten und nicht irgendwann mittendrin.
+
+Auf Kauder-Welsh ausgedrückt sind Crashs bislang hierzulande 
+ausgeblieben, woraus folgt, dass man die verbleibenen Endlaufzeiten 
+verdoppeln kann und Rot-Grün ist eh viel schlimmer.
+
+-- 
+
+Carsten Obendorf

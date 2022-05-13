@@ -1,0 +1,22 @@
+Ist es nicht, Du kannst nicht gleichzeitig eine englische
+und eine deutsche Erklärung heranziehen.
+Ich kenne nur Cursor.Show() aber nicht Mauszeiger.Zeige().
+
+
+Wie erklärst Du den Schülern oder Studenten die Zeile
+
+   if (e.Button == MouseButtons.Left)
+
+Sagst Du hier nicht "es wird der Status eines Buttons abgefragt"
+sondern "hier wird eine Ereignisprozedur hinterlegt"?
+
+Aber egal, es geht doch im Kern darum (und dieses Thema ist nicht
+uninteressant), ob man bei einer weltweit eingeführten neuen _Technik_ 
+unbedingt neue Begriffe aus der Muttersprache einführen soll
+(wie es die Franzosen gerne machen).
+Ich halte das für großen Quatsch.
+Dagegen ist Dinglish bei Begriffen, die eher zum Gefühlsleben
+bzw. zum alltäglichen Leben gehören, voll daneben.
+
+Gruß
+R.B.

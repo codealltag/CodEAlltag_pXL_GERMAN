@@ -1,0 +1,12 @@
+* Detlef Grodt:
+
+
+Oha, Mausrad? Mein Tablet kennt keine Fenster, nur den maximierten
+Zustand, und hat auch kein Mausrad, sondern nur Zwei-Finger-Zoom.
+Ob ich es so klein zoomen kann, daß die langen Zeilen einzeilig
+werden, probiere ich dann später mal.
+
+-- 
+Some things are taken away from you, some you leave behind-and
+some you carry with you, world without end.
+  -- Christof W. Borgböhmer, Vortex, p.31

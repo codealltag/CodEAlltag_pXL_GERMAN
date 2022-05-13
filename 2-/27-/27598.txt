@@ -1,0 +1,4 @@
+Sinnvoll: "toutes directions" schickt dich normalerweise in einen
+Kreisverkehr, den du nach der gewünschten Richtung abklapperst. Ist
+sie nicht dabei, so kommst du wieder an dieser Stelle vorbei, und 
+nimmst "autres directions".

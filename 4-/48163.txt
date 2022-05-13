@@ -1,0 +1,12 @@
+Schachfiguren ziehen (drohen, schlagen, bieten Schach, setzen Matt;
+erfolgreiche Bauern wandeln sich auch schon mal um) oder werden gezogen,
+aber gehen, laufen oder fahren tun sie nicht.  Sprachlich kommt die
+Zugnotation sogar ohne "ziehen" aus; z.B. "Springer f6" (wenn nur ein
+Springer dieses Feld erreichen kann; ansonsten "Springer d7 nach f6"),
+oder "Läufer schlägt Dame" (ist immer eindeutig).  Bei Bauern reicht auch
+ein simples "d4", oder auch "d schlägt e".  Die Formulierung "Ich fahre
+auf D5" habe ich noch nie gehört, aber es gibt ja auch Leute, die zu
+Springern gerne "Pferdchen sagen"...  ;-)
+
+
+nikolaus

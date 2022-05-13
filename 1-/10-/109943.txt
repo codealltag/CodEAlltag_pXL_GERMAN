@@ -1,0 +1,7 @@
+Wo liegt der Unterschied zum "stromsparenden Rechner"? Beides ist nur 
+relativ zum Durchschnittsmodell zu verstehen. Bisher verbraucht noch 
+jeder Rechner Strom.
+Oder dachtest du an Chips, die den  Stromverbrauch anderer Geräte 
+intelligent steuern und diese darum ressourcenschonender machen?
+
+Max

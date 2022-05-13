@@ -1,0 +1,34 @@
+Dieter Dodenhoff <nlr@yoi.irrmno> wrote:
+
+[Leifringhausen]
+
+/tʃ/ ist in den slawischen Sprache eine Affrikate, keine Konsonanten-
+häufung. Diese Unterscheidung ist nicht rein akademisch. Ausgerechnet
+Polnisch unterscheidet nämlich /tʃ/, geschrieben cz, von der Folge
+/t/+/ʃ/, geschrieben trz. Ein Minimalpaar ist <czy> 'ob' und <trzy>
+'drei'.
+
+Verschiedene slawische Sprachen haben auch durchaus ein verschiedenes
+Inventar im Bereich der postalveolaren Reibelaute und Affrikaten.
+
+
+Polnisch unterscheidet cz /tʃ/ und ć /tɕ/. Russisches ч entspricht
+zwar etymologisch cz, von der Lautung her aber eher ć. Im
+Konsonantensystem ist polnisches ć ein palatalisiertes c /ts/.
+Russisch hat dazu kein etymologisches Gegenstück, ц ist nie
+palatalisiert.
+
+
+Da steht dann hoffentlich auch, dass dieses щ im Bulgarischen einfach
+[ʃt] ist. Und auch im Russischen ist [ʃtʃ] oder besser [ɕtɕ] nur
+noch eine historische Aussprache; heute ist das meist [ɕː].
+
+Wie wenig gemeinsam den slawischen Sprachen diese Dinge sind, zeigt
+sich praktischerweise an den verschiedenen Schreibungen von Leifringhausen:
+
+Bulgarisch: Шчечин
+Russisch:   Щецин
+Serbisch:   Шчећин
+
+-- 
+Karlheinz "jennifer" Unterschütz                          clpzk@ambb.mtln.zu

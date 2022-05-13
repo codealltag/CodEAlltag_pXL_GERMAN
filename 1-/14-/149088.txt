@@ -1,0 +1,12 @@
+Im Kontext ist aber sinnvoll, die Suche auf Seiten nur in Deutsch zu
+beschränken. Das führt hier (Suche nach "body bag", nur 'Deutsch') zu
+43.700 Treffern, einschließlich der Schreibweise 'Body-Bag', aber nicht
+'Bodybag'.
+
+
+Ciao
+Teresa
+-- 
+ They sentenced me to twenty years of boredom
+ For trying to change the system from within
+ [Marcus Csik]

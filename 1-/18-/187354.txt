@@ -1,0 +1,15 @@
+Was ist denn hier an Empl böse? 
+
+
+Wie meinst du das?
+
+Seit dem ersten Wiglo (November 2000) ist der "root-Benutzer" in jedem System
+standarm�ssig, allerdings deaktiviert, enthalten.
+Ihn zu aktivieren und mit einem Passwort zu versehen, ist dann ein Leichtes.
+
+
+  ?
+
+
+-- 
+Oana Seibel

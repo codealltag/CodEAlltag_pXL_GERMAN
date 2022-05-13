@@ -1,0 +1,10 @@
+* Luc K. Prügner:
+
+
+Klar, alle Sprachen gleichzeitig. Leider war es so für die Menschen
+schwer zu verstehen, daher schlichen sich so manche Transkriptionsfehler
+ein.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Rupert Ottens, comp.lang.python

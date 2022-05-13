@@ -1,0 +1,10 @@
+"-- "
+
+
+Wenn du vor deinem Gruß zwei Minus und ein Leerzeichen einfügst, wird 
+dein Gruß als Attachement im Antwortfenster gestrichen. Es sei denn, du 
+legst Wert darauf, dass er immer mitzitiert wird.
+
+-- 
+
+Sandro Apfelbaum

@@ -1,0 +1,12 @@
+Ja, so vermute ich.
+
+
+Gewiß, aber doch nicht unbedingt genus�bergreifend.
+
+
+Die Fohu-Grammatik ist _so_ schlecht nun nicht.
+
+
+Stapperfenne/Osthege vermeidet für Substantivklassen
+diese Bezeichnungen und definiert statt dessen
+eigene Typenklassen für Singulare und Plurale.

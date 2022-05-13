@@ -1,0 +1,30 @@
+[Followup-To ignoriert und neu gesetzt]
+
+
+Ja. Es gibt noch eine zweite Möglichkeit:
+
+
+Beiden Möglichkeiten ist gemeinsam, dass sie - wie Ulfert bereits
+erwähnt hat - gewisse Ungereimtheiten aufweisen. Ich lasse mal
+Unwesentliches weg und bezeichne Ulfs Version mit "Ulf" und meine mit "T":
+
+Ulf: "Bei meinem Modell bedeutet, dass man etwas nicht kann."
+O: "Bei meinem Ulfodell wird bedeutet, dass man etwas nicht kann."
+
+Bei M fehlt das Subjekt ("das" wäre naheliegend), und bei O wird ein
+Modell bedeutet (Passiv), was im Deutschen eher unüblich ist, aber
+notfalls als "darauf hingewiesen" verstanden werden kann, was allerdings
+in die Irre führt.
+Wenn du das nicht einsiehst, dröle bitte den vorigen Satz analog auf,
+bevor du dich beschwerst. ;)
+
+Gemeint ist wohl: "Bei meinem Modell wird Load-Balancing genannt, was
+(oder 'und das') bedeutet, dass man die Bandbreiten nicht fuer eine
+Anwendung buendeln kann."
+
+
+Der Satz bezieht sich auf die allgemeine Bedeutung von "Load-Balancing",
+nicht auf irgendwelche speziellen Eigenschaften deines Modells.
+
+CU
+Orlando

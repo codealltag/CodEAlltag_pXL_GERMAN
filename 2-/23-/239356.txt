@@ -1,0 +1,8 @@
+^^^^^                                  ^^^^^
+  Bist Du Dir sicher, dass die Syntax jetzt korrekter ist?
+
+	hp
+
+
+-- 
+   _  | Alberto L. Oehler    | Fluch der elektronischen Textverarbeitung:

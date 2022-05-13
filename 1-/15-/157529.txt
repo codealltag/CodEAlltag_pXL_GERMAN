@@ -1,0 +1,36 @@
+Benedikt Hühnel beliebte zu schreiben :
+
+
+Ich erinnere mich mit Grausen an diverse "druckfertige" Manuskripte
+(SoWi), die von Autoren mühselig in Word erstellt wurden, mit Fußnoten,
+Querverweisen, eingebetteten Bildern und Tabellen und Diagrammen, alle
+vollautomatisch gene- bzw. numeriert -- und *jedes* Mal, wenn man so ein
+Ding öffnete, gabs an irgendeiner Stelle einen minimal anderen Umbruch,
+der das ganze Teil ins Rutschen brachte...
+
+... abgesehen davon, dass solche "fertigen Bücher, mit denen der Verlag
+überhaupt keine Arbeit hat", regelmäßig im Format A4 aufgebaut waren,
+was im Verlagswesen besondere Freude macht.
+
+Im Notfall (400-Seiten-Elaborate) wurden dann halt tatsächlich die Texte
+Zeile für Zeile und Seite für Seite im Satzprogramm rekonstruiert und
+mit *festen* Verweisen und Nummern versehen -- und bei der Gelegenheit
+bin ich dann auch draufgekommen, dass schon im Word-File die
+automagische Kennzeichnung inkorrekt gewesen war, und keiner hat's
+gemerkt.
+
+In einem Fall aber mussten wir tatsächlich Seite um Seite aus Word
+verkleinert ausdrucken, in PDF umwandeln und einzeln ausbelichten -- es
+war zum Wahnsinnigwerden, weil nach jedem Druckvorgang Word den gesamten
+File neu aufgebaut und alle Kreuz- und Querverweise "aktualisiert" hat,
+was immer zu neuen Überraschungen führte.
+
+Aus Sicht des Verlagsherstellers kann ich nur sagen:
+Eine Textwurst (ggf. pro Abschnitt) einfach und unformatiert, Bilder
+extra -- das ist nicht halb so aufwendig zu setzen (egal ob anfangs in
+FVPM oder in PageMaker oder in InDesign) wie das Umbudern von
+Iguana-Produkten...
+
+Egon
+-- 
+Nach dera Zei'n kimmt nix mehr

@@ -1,0 +1,7 @@
+Hat vermutlich mit quadratischen Gleichungen zu tun:
+
+Positive Diskriminante: lösbar
+Negative Diskriminante: nicht lösbar (jedenfalls in |R)
+
+Gruß,
+Willy

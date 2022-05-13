@@ -1,0 +1,47 @@
+Die, die im Kleingedruckten des Mobilfunktvertags des Anbieters Deines
+geringsten Mißtrauens vereinbart sind. latür.
+
+Zum besseren Verständnis: UMTS kann von Hause aus typisch 384 kBit/s
+in beide Richtungen (also up- und downstream) übertragen; richtig Spaß
+macht das aber erst mit HSPA (HSDPA/HSUPA), womit sich bis zu 7.2 Mbit/s
+downstream, bzw. 1.4 MBit/s upstream erreichen lassen -- das ist nicht
+übel, und typischerweise die Geschwindigkeit, die Mobilfunkanbieter ihrer
+Kundschaft feilbieten -- obwohl sich diese Übertragungsgeschwindigkeiten
+nur mit geeignetem Endgerät nutzen läßt, das den "Datenturbo" HSPA(+)
+implementiert, sonst stehen eben nur die UMTS-üblichen 384 kBit/s bereit.
+
+Zum Leidwesen der Anbieter bevorzugt der mobile Durchschnittsdeutsche
+aber zunehmend HSPA-taugliches Gerät, und er besteht auf einer günstigen
+Flatrate.  Ersteres bedeutet, daß die Anbieter kräftig in die Aufrüstung
+ihrer UMTS-Infrastruktur investieren müßten, zweiteres aber, daß sich das
+nicht wirtschaftlich darstellen läßt (zumal der UMTS-Nachfolger, "LTE",
+ja bereits unmittelbar vor der Einführung steht).
+
+Was also tut der clevere Mobilfunkanbieter in seiner Not?  Er reichert
+das Kleingedruckte um eine weitere Klausel an und verringert dabei die
+Schriftgröße, damit's nicht so auffällt.  Und da steht dann drin, daß
+nach fünnef Gigabyte der drahtlose Spaß ein Ende hat, denn dann dreht
+"DaMast" nämlich automatisch den Downstrom up, bzw. runter -- und zwar
+nicht etwa auf die handelsüblichen 384 UMTS-kBit/s, nein, das veraltete
+Funkgedöns aus grauen LWD-Urzeiten muß ja nicht ungenutzt an den Masten
+rumbaumeln: es ist zwar alt, aber längst bezahlt, und datenfähig ist's
+ja auch noch.   Also landest Du mit Deinem super-duper-UMTS-HSPA-Handy
+nach 5 GB Highspeed-Daterei im mobilen Pleistozän: GPRS mit 53.6 kBit
+down- und 28.6 kBit/s upstream -- das ist weniger als seinerzeit ISDN
+mit seinen beidrichtigen 64 kBit/s (und gute Modems konnten eh mehr),
+aber damals gab's auch noch keine geflashten Multimedia-Webseiten mit
+Hintergrundmusikberieselung und bunten Bildchen im Megabytebereich.
+
+Ach ja, die 53.6 kBit teilen sich natürlich alle aktuellen Bewohner
+einer Funkzelle -- bei mehr als dreien sinkt die Rate weiter ab, denn
+GPRS kann prinzipbedingt max. ca. 171 kBit/s Bandbreite liefern.
+
+Bevor Du jetzt Deinen Mobilvertrag mit der Lupe untersuchst: spar Dir
+die Mühe: *alle* aktuellen Anbieter schalten nach 5 GB Datenkontingent
+UMTS (und damit auch HSPA) ab und setzen Dich bis zum Ultimo des Monats
+auf GPRS-Diät.  Mit einem solchen "UMTS-Surfstick" würde ich also etwa
+Dreiviertel der Mondperiode die Schnecke machen -- wenn man mich also
+frägt, was ich von UMTS halte, kommt als spontane Antwort: "Abstand!".
+
+
+oswald

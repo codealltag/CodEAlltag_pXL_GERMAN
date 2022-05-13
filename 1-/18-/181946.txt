@@ -1,0 +1,8 @@
+Ist aber bei allen Waschmaschinen mit elektronischer Steuerung aus 
+Sicherheitsgründen wie aus Gründen der Programmiertechnik gleich. Sie 
+lassen sich nicht - wie zB Geschirrspüler durch Türöffnen - mitten in 
+Programmteilen stoppen.
+
+-- 
+
+Volkmar Weissgärber

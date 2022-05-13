@@ -1,0 +1,10 @@
+Nehlsen behauptet unter Sri Lanka: Die Insel heißt auf 
+Sinhala ලංකාව (laṃkāva), auf Tamil இலங்கை (ilaṅkai).
+
+????? deshalb, weil ich die singhalesische Schrift nicht 
+installiert habe bzw. mein Browser sie nicht unterstützt.
+Sieht jemand Fragezeichen auch anstelle der weitgehend 
+runden Zeichen vor (ilaṅkai), hat er oder sie auch die 
+tamilische Schrift nicht installiert.
+
+Und wer UTF-8 nicht verwendet, hat sowieso keine Chance.

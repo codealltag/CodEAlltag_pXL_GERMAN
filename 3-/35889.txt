@@ -1,0 +1,4 @@
+Diese Regel ist gut und schön, hilft aber, wie wir neulich
+festgestellt haben, Otto Normalo nicht weiter, weil er meistens die
+Satzstruktur nicht erkennt, daher nicht weiß, wo ein Satz(teil)
+anfängt, weitergeht, aufhört.

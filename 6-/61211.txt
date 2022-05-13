@@ -1,0 +1,23 @@
+Das erinnert mich irnkwie an meine Compilerbauzeiten, bei denen meine
+bedeutungsschwangere Standardantwort auf Fragen wie "Was ist denn ein
+Compiler?" lautete: "Oh, das ist eine /ganz/ rekursive Kiste!".  Was
+den unschätzbaren Vorteil hatte, daß der Fragende unmittelbar wußte,
+daß das was irre Kompliziertes ist und Nachfragen nicht lohnt, weil
+er das in diesem Leben sowieso nicht mehr verstehen würde, und ich mich
+schnell wieder den wichtigen Dingen wie z.B. dem Parser widmen konnte.
+
+Ein lieber Kollege hat mir dann mal zum Geburtstag eine selbstgebastelte
+"Rekursive Kiste" geschenkt: eine Art Zigarrenkiste mit abschließbarem
+Deckel, in den ein Plexiglasfenster eingelassen war.  Dadurch zu sehen
+war eine gegenüber angebrachte Kirschpraline, und unmittelbar daneben
+klebte -- taddaaa! -- der Schlüssel zum Öffnen des Deckels!
+
+Nun, er war Bauingenieur, insofern hatte ich vollstes Verständnis dafür,
+daß er mir einen "Catch-22" als Rekursion andrehen wollte...  ;-)
+
+
+Ja, da ist schon viel Schönes dabei!  Aber den ultimativen BIOS-Gag
+"No BASIC" verstehen wohl ohnehin nur noch so Dinos wie yours truly.  ;)
+
+
+otto

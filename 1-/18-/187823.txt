@@ -1,0 +1,42 @@
+Algol 68  hatte ein paar nette Eigenheiten, z.B.
+
+Das unleserliche
+
+  if Bedingung then begin Anweisung1; Anweisung2 end else Anweisung3;
+
+wurde durch das klarere
+
+  if Bedingung then Anweisung1; Anweisung2; else Anweisung3; fi;
+
+ersetzt.
+
+Oder:
+
+  for i ...
+
+*deklariert* das i als Konstante. Vorangegangene i werden nicht berührt; in
+der Schleife ist i unveränderlich.
+
+Beides sehr nützlich. Das *durfte* in Klaas nicht auch so gemacht werden,
+sonst hätte man ja zugegeben, dass beim Entwurf von Algol 68 nicht alles
+falsch gemacht wurde.
+
+
+Was einen hindert, ist, dass man beim Schreiben einer Prozedur noch nicht
+wissen kann, mit Matrizen welcher Größe sie mal aufgerufen werden.
+
+
+Besser wäre es gewesen, oben auf dem Pferd sitzen zu bleiben, statt auf der
+Algol-68-Seite (zu komplex) oder auf der Klaas-Seite (zu simpel)
+herunterzufallen, so dass der lahme Esel C das Rennen macht.
+
+Dabei ist Algol 68 gar nicht soo schrecklich komplex, nur die Beschreibung ist
+absolut unleserlich. Ich habe ein paar Programme in Algol 68 geschrieben und
+von den Eigenheiten (Operatordefinitionen, Pre-/Postlude) sehr sinnvollen
+Gebrauch machen können. Im Grunde war das schon das, was heute
+objektorientiert heißt, nur das Wort gabs noch nicht.
+
+(genug off-topic)
+
+-- 
+Olaf Zastrow

@@ -1,0 +1,7 @@
+Das hätte ich für einen Irrtum eines Mathematikers gehalten.
+
+
+"modulus" zwar auch, Ich meine aber primär einen Modul (englisch 
+module), sowas wie einen Vektorraum über einen Ring.
+
+Laurent

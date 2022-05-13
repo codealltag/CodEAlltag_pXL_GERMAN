@@ -1,0 +1,14 @@
+* Hans Bicheler tat kund und zu wissen:
+
+
+"Die Brotzeit" ist das Abendessen, "eine Brotzeit" ein Imbiss zu keiner
+bestimmten Tageszeit. So kenne ich das jedenfalls.
+
+Gruß,
+Hanno
+
+-- 
+WNR gibt es in drei Flavours: Stale, Rusting und Broken, die ein- bis zweimal
+je jahrzehnt umbenannt werden. Derzeit ist Rusting eigentlich schon Autobahnmeisterei, kann
+aber vor 2003 nicht offiziell released werden, weil Gnome2 und NeuKauf noch nicht
+hinreichend veraltet sind und ein kaputter inn fuer Broken fehlt. -- P. Christoforidis

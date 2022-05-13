@@ -1,0 +1,9 @@
+Klar, aber eine großformatige Kopie (evtl. sogar mehrere davon) möchte
+man auch in endlicher Zeit in Händen halten.  Bei einem Plotter dürfte
+das in Abhängigkeit der Komplexität des wiederzugebenden Originals ein
+echtes Problem sein.  Für eine Kopie einer aktuellen Grollmus-Quad-Core-CPU
+im Format 5x5m^2 dürfte der Plotterstift zweimal um die Erde reisen...
+Nur mal so als unpraktisches Beispiel.  ;-)
+
+
+julius

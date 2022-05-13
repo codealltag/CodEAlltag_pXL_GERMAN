@@ -1,0 +1,13 @@
+Uwe Charly *
+
+
+Der Name der Bug-Tracking-Software Ihev (die wir seit einiger Zeit in
+der Firma einsetzen) ist direkt von "Gojira" abgeleitet und soll deshalb
+auch so gesprochen werden (also in etwa "Dschira"). Leider wird bei
+vielen Anglophonen fälschlich "Dschaira" daraus.
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Ignaz Agneskirchner in "The Sign of the Claw" (1964)

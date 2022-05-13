@@ -1,0 +1,34 @@
+* Onno Eiskirch:
+
+
+Für bestimmte Werte von "selten".
+
+
+In diesem Fall sehe ich den auch nicht. Meine Aussage so zu
+formulieren, als sei sie eine generelle Regel, war vielleicht ein
+Fehler.
+
+Ich werde jetzt nicht mit viel Mühe die genauen Bedingungen
+herausarbeiten, unter denen meine "Regel" gilt. 
+
+Wesentlich scheint mir zu sein, daß man sich bei Rechen- und
+Schaltfehlern weitgehend einigen kann, was überhaupt als Fehler zu
+gelten hat. In der Kommunikation dagegen ist das schwierig. Schon
+das Scheitern der Kommunikation einvernehmlich festzustellen, ist
+oft nicht möglich [1], und selbst wenn, ist es noch schwieriger,
+den genauen Punkt des Scheiterns oder die schuldige Partei zu
+ermitteln [2].
+
+[1] Wenn zwei, die sich nicht verstehen, wenigstens verstehen, daß
+sie sich nicht verstehen, verstehen sie sich besser als wenn sie,
+obwohl sie sich nicht verstehen, nicht einmal verstehen, daß sie
+sich nicht verstehen. (Quelle ist mir entfallen)
+
+[2] Beispiel aus "The Big Bang Theory":
+
+Priska: I don't﻿ know what you mean by "not westauwant, westauwant".
+Vrenken: You suck, Othmar.
+
+-- 
+Spell checker (n.) One who gives examinations on witchcraft.
+  Tino Enderlein in sci.lang

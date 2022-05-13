@@ -1,0 +1,22 @@
+* Hans Spenrath:
+
+
+Sinn ergibt der Satz für mich nur, das hatte ich schon angedeutet,
+wenn er sich auf eine Zeit bezieht, in der es kein
+Frühstücksfernsehen gab. Dann ist das Anschalten des Fernsehers,
+das damals auch vermutlich 1 Minute dauerte, eine recht aufwendige
+Methode, die Uhrzeit zu erfahren, und setzt dafür weit
+überdimensionierte Technik ein.
+
+Andererseits ist die starke Verbreitung von Funkuhren Ausdruck der
+Technikbegeisterung der Deutschen, wenn es um die Uhrzeit geht. In
+Kanada würden die meisten Verkäufer fragen: "eine WAS?" Oder
+vielleicht ist es auch nur Ausdruck der Obsession der Deutschen
+mit der genauen Uhrzeit. Hier in der Firma kommt es durchaus vor,
+daß mein Computer, mein Server, das Telefon, die Alarmanlage und
+die Küchenuhr 5 verschiedene Zeiten anzeigen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Andre Neser, comp.lang.python

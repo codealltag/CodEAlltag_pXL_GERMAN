@@ -1,0 +1,22 @@
+Klar -- das ist BASIC, wie Gott es schuf.  :-)
+
+
+Die PDP-8 wurde von 1964-1974 gebaut (ich weiß allerdings nicht. ob
+es dafür einen BASIC-Interpreter gab), Reths ZX81 kam erst 1980
+auf den Markt.  Die ersten BASIC-Dialekte, die dank Strukturen auf
+Zeilennummern verzichten konnten, kenne ich vom Godehus ST her: 1985
+(oder 86?) erschien der debitel-BASIC-Interpreter, ca. 1-2 Jahre später
+der passende Compiler, und etwa gleichzeitig FBF-BASIC (gleich
+incl. Compiler; Godehus hat dieses fortan mit seinen VGWS-/Futternapf-Rechnern
+ausgeliefert -- anstelle des höchst langsamen und sehr fehlerhaften
+ST-BASICs).  debitel- und FBF-BASIC kamen ÿbrinx beide aus Unterhaidach.
+Es mag sein, daß es auch schon vor debitel-BASIC strukturierte Dialekte
+gab, aber ich wüßte jetzt einklich keinen.  QBASIC gab's erst mit
+MS-DOS 5.0 (1990).  Huuuuu -- Windows-freie Zeiten... *spooky*  :-)
+
+
+Viele BASIC-Interpreter hatten einen eingebauten "renumber"-Befehl,
+bei anderen (z.B. dem des PET 2001) konnte man ihn meist nachrüsten.
+
+
+raphael

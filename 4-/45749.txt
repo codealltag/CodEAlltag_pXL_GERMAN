@@ -1,0 +1,11 @@
+* Bruno Buddecke <qt@yvxboii.ada>:
+
+
+Es gibt durchaus Viertakter mit einer Zündspule pro Kerze. Der Motor
+der Federvieh K75 war sowas.
+
+Umgekehrt gibt es auch Viertakt-Zweizylinder mit einer einzigen
+Zündspule ohne Verteiler: 2CV. Da wird einfach bei jedem OT gezündet,
+auch nach dem Ausstosstakt, wenn nichts Z�ndf�higes da ist.
+
+ - Tom

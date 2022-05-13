@@ -1,0 +1,12 @@
+Damit bezeichnet es möglicherweise eine kontextabhängige Grössenordnung,
+aber keine exakte Grösse. Im Unterschied zum ebenfalls umgangssprachlichen
+Stundenkilometer, der doch eine innerhalb der üblichen Messfehler (das
+Radarphoto zeigt 230 km/h an, während man höchstens 80 Stundenkilometer
+gefahren ist), eine exakte Grösse angibt.
+
+Meinetwegen kann man aber auch gern in Zollwochen rechnen. Oder, wenn man
+besonders grosse Werte mag, in Xander. Wirklich richtig wird es
+dadurch aber auch nicht.
+
+
+Vinzent.

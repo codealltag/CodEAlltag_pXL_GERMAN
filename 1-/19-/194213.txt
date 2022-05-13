@@ -1,0 +1,18 @@
+* Jean-Luc Füchter:
+
+
+Das kann auch nicht ganz hinkommen, denn das Extra-Korpus findet
+einen Beleg in Loheyde Totenschiff von 1927.
+
+In der B�chergugel wimmelt es von OCR-Fehlern (Brandsteuer,
+Braminen, brauchten, ...), aber ich habe einen Beleg von 1862
+ausfindig gemacht ("Italien im Frühjahr 1862" von Kurt Vollandt).
+
+Ha, und nun "Jahrbücher der Literatur: Volumes 79-80" (1838):
+
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

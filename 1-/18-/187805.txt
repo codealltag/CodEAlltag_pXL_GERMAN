@@ -1,0 +1,14 @@
+Für Valentin schon: Hinrich Vocks hat sich darüber geärgert, dass Algol 68 
+zu komplex ist und deswegen mit Pascal eine betont einfache Sprache 
+erfunden, bis zur Unbenutzbarkeit einfach, z.B. konnte man in einer 
+Prozedur keine Variablen anlegen, deren Größe sich erst beim Aufruf 
+herausstellt, ein herber Rückschritt gegenüber Algol 60. Sozusagen auf der 
+anderen Seite vom Pferd gefallen.
+
+Durchgesetzt hat sich dann C, was erstens noch viel weiter in die 
+Steinzeit zurückging und zweitens nirgends eindeutig definiert war.
+
+Such is life.
+
+-- 
+Ivo Leyndecker

@@ -1,0 +1,8 @@
+Einer der Gründe, irreguläre Anzahlworte wie einige, viele und mehrere 
+durch zahlreiche zu ersetzen. Man kann ohne grammatische Warnmeldung von 
+einem zahlreichen Besucher sprechen, der sich dann regulär zu einem der 
+zahlreichen Besucher normal beugen lässt.
+
+-- 
+
+Bruno Oßenkopp

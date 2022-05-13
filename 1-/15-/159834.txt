@@ -1,0 +1,15 @@
+Sicher? Typisch für die Ausfallwahrscheinlichkeit technischer Systems ist
+die sogenannte Badewannenkurve (ergo Querschnitt durch eine Badewanne),
+wobei die X-Achse die Lebensdauer und die Y-Achse die Ausfallwahrschein-
+lichkeit beschreibt.
+
+Als "langsam kontinuerlich" würde ich das rechte Ende einer solchen Kurve
+nun nicht unbedingt bezeichnen.
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+   --  Vito Kerckhofs'

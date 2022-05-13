@@ -1,0 +1,7 @@
+Die Preisanschrift "Fr. 1.30" lese ich als "Einen Franken dreissig" ab
+und nicht als *Eins Komma drei Franken.
+Die Prozente 25,54% aber lese ich als "fünfundzwanzig Komma fünf vier
+Prozent" ab und nicht als *fünfundzwanzig Komma vierundfünfzig Prozent.
+
+-- 
+Yvette Verkühlen

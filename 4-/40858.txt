@@ -1,0 +1,9 @@
+Ich vermute, er (bzw. eine Migrier-Software) hat im Eingabe-Feld
+"Vorname" "Große" geschrieben (sein Nachname), und ins Feld
+"Nachname" das Wort "Beilage" aus dem Speicher gezaubert. Oder so
+ähnlich. Dass jemand wirklich "Große Beilage" heisst, schliesse
+ich aus.
+
+Gruss
+
+Tino

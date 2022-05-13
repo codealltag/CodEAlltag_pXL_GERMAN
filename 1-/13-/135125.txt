@@ -1,0 +1,12 @@
+War X11 jetzt die Henne oder doch das Ei?
+
+man keymaps ;)
+
+
+Abgesehen vom Wechsel des Tastaturlayouts, den François ja schon ansprach, 
+habe ich mir für einzelne Wörter oder kurze(!) Passagen eine eigene 
+~/.XCompose mit zusätzlich den griechischen Buchstaben erstellt¹. So 
+ergibt bei mir <Compose> <*> <a> dann „α“. Gut, ein „ᾂ“ fordert dann z. B. 
+schon <Compose> <*> <)> <grave> <comma> <a>.
+
+¹Nicht unter Gnome in der Grundeinstellung.

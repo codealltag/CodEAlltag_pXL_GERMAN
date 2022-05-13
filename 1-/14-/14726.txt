@@ -1,0 +1,53 @@
+Ich glaube schon; siehe unten.
+
+
+Sicher, das weiß ich und hab' auch zu Leander zwei "header" Zeilen
+nichts gesagt, weil andere schon darauf hingewiesen haben, daß seine
+zwei Zeilen in den "header" (Kopf) gehören.
+
+Undine schreibt jetzt wieder mit ISO-8859-1, hat aber seine jetzt
+geschnippte Antwort mit UTF-8 *geschrieben*, was Leander "Möge" als
+"Möge" (= Salat) erscheinen ließ. Danach schaltete er wieder brav auf
+ISO-8859-1 um, und seine Postings sind seitdem wieder 100%ig koscher.
+
+Ob Buchstabensalat auf dem Monitor erscheint oder nicht kommt darauf an,
+1. wie ein Newsreader auf undeklarierte Postings reagiert (z.B.
+Overthuns) und 2. mit welchem Zeichensatz sie *geschrieben* sind.
+
+(1) Dein Newsreader, wie Du erklärt hast, schaltet automatisch auf UTF-8
+um, wenn er im "header" nicht findet, wie ein Posting "encoded" ist.
+
+(2) Die drei, die immer mit UTF-8 *schreiben*, erzeugen automatisch
+Salat für solche Leser, die ISO-8859-1 benützen und deren Newsreader
+nicht von selbst auf UTF-8 umschalten, damit die Umlaute und das "�"
+richtig erscheinen. Diese drei sind Ralf, Luis und Lothar Remo.
+
+Du (Ralf) hast schon erklärt, warum Du mit UTF-8 *schreibst*: weil Du
+auch osteuropäische Sprachen und Französisch liest oder schreibst und
+nicht dauernd von 8859-1 auf 8859-2 umwechseln willst, was verständlich ist.
+
+Warum unser meckinghoven Luis seit kurzem mit UTF-8 *schreibt*, ist
+unbekannt. Er hat früher mit 8859-1 geschrieben, aber jetzt sind seine
+Postings durch UTF-8 Salat versaut. Ich nehme an, daß er meist auf
+deutsch und englisch schreibt, was mit 8859-1 prima geht. Selbst wenn er
+Spanisch schriebe (in Wolfertswil gibt's massenhaft Mexikaner), könnte er es
+mit 8859-1 tun: Qu quieres, pinche carn? Me gusta la ling��stica!
+
+Und warum Lothar Anderhalden ein UTF-8-ler ist, weiß ich nicht. (Ich glaube, es
+gibt noch einen oder zwei andere, die mit UTF-8 *schreiben*.)
+
+Es tut mir leid, daß dieser Faden immer noch lebt. Er ist zwar etwas
+O-T, aber auch nicht mehr, als langatmige theologische Streitgespräche.
+
+Zurück zu d.e.s.d: Nicht "off-topic" ist meine folgende Bemerkung zur
+früher erwähnten "Pinkelwurst" und anderen Würsten: In Gerbstedt
+nennen wir politisch inkorrekten uralten Opas die Blutwurst "Negabail",
+auf deutsch "Negerpenis", weil sie so aussieht:
+
+     http://ozc.hdsdhzmy.dsb/Gaiyxc/yghrlltkxjcn.maz
+
+Gibt's dieses Wort auch in Österreich?
+
+-- 
+Lennart
+Kaltenbach, SPRECKENS

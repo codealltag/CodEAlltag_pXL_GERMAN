@@ -1,0 +1,35 @@
+entschuldigen: Schuld entfernen
+entlasten: Last entfernen
+entkleiden: Kleidung entfernen
+enthaaren: Haare entfernen
+
+MUSEN leitet sich keines dieser Wörter vom jeweiligen be-Verb ab. Auch
+wer sich schlichtweg kleidet kann sich danach entkleiden, und das Verb
+behaaren ist äußerst ungebräuchlich. Bei be-/entlasten/-schuldigen
+klappt das mit der Gegenteilbildung zwar, allerdings erscheint mir
+auch hier die unmittelbare Ableitung vom Stammwort Last/Schuld als
+naheliegender.
+
+Das nicht-standardsprachliche Verb entweisen, finde ich noch
+zweifelhafter als entschleunigen, da es meines Erachtens erst durch
+den Zusammenhang "be- oder entweisen" verständlich wird. Ansonsten ist
+der Weg zum Verständnis wohl folgender: Einen "Weis", den man
+Entfernen könnte, gibt es nicht. Als Gegensatz zum Verb "(in eine
+Richtung) weisen" mutet es mangels semantischer Klarheit seltsam an.
+Was bleibt also? Man sucht Verben nach dem Muster fooweisen [1] und
+findet z. B.:
+- unterweisen --> Hmm, lässt sich eine Unterweisung rückgängig machen?
+- hinweisen --> Hmm, ein Hinweis doch ebenso wenig.
+- verweisen --> Hmm, das klappt auch nicht.
+- anweisen --> Hmm, das ginge. Also: eine Weisung entfernen. Logisch.
+- erweisen --> Hmm, das ginge vielleicht auch: etwas doch nicht sein
+- beweisen --> Hmm, vielleicht auch das: das Gegenteil beweisen
+usw.
+
+Gruß
+Siebelt
+
+PS: entgleiten ist etwas speziell und könnte z. B. als entfernen durch
+Gleiten umschrieben werden, analog zu entlaufen.
+
+[1] Aus aktuellem Anlass.

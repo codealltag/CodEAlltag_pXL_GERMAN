@@ -1,0 +1,14 @@
+Im Durchschnitt stimmt das wohl. Dummerweise gibt es in D eine absolut
+hirnrissige Vorschrift, wonach die Fahrradbeleuchtung nicht mehr als 3W
+stark sein darf (also etwa 1/40 im Vergleich zum Auto), und die
+Nabendynamohersteller orientieren sich stark am deutschen Bedarf. Der
+Gesetzgeber will also explizit, dass Räder im Vergleich zu Autos wie
+Glühwürmchen beleuchtet sind. 
+
+Immerhin kann man mit LEDs die Situation etwas verbessern. Bei
+Rücklichtern sind bei neuen Rädern schon seit Jahren helle LED üblich,
+beim Scheinwerfer fängt das jetzt etwa an. Aber nur wenige leisten sich
+fürs alte Rad mit einem Zeitwert von 100EUR einen guten LED-Scheinwerfer
+für 50EUR oder mehr.
+
+ - Nico

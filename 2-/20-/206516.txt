@@ -1,0 +1,11 @@
+Solche Zeilen-Trennungen sind aber unbedingt zu vermeiden, sobald
+spontan ein sinnstörender Inhalt gelesen wird.
+
+"Sein Urin-
+stinkt war ..."
+
+geht z.B. nicht!
+
+Gruss
+
+Arne

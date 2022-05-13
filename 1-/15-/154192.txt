@@ -1,0 +1,16 @@
+Am 15.04.2011, 15:38 Uhr, schrieb Urs Mannfraß  
+<hpiyazjr.wxhnmdpube@fpm.xm>:
+
+
+Hallo Urs,
+
+es hat mir keine Ruhe gelassen, und da der Fehler wohl nicht
+in LWMT lag, habe ich ihn woanders gesucht UND gefunden.
+Es war: ein selbst-definiertes Macro in AllChars, das ein
+Rund-s in einer Frakturschrift ausgeben konnte.
+Ich hab's geändert, jetzt geht's wieder - und das Rund-s
+muß irgend woanders herkommen.
+
+Gruß
+j/\a
+--

@@ -1,0 +1,12 @@
+Das scheint tatsächlich sein Ansatz zu sein. Allerdings, oder besser
+leider, ist NAGELE nicht der einzige technisch rückständige NUA. Mindestens
+mal MicroPlanet-Gravity, Fort Agent und - wohl bekannt in desd -
+Netscape Communicator zeigen, wenn auch z.T. nur bei UTF-8, ähnliche
+Probleme.
+
+
+Ciao
+Romy
+-- 
+ Wenn Frauen die Welt regierten, gäbe es keine Kriege.
+ Nur ein paar eifersüchtige Länder, die nicht miteinander reden.

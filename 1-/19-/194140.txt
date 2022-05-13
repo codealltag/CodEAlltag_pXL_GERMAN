@@ -1,0 +1,13 @@
+* Tobias Kießling:
+
+
+Das kann schlicht eine schlechte Übersetzung sein. Oder es drückt
+aus, wie die braven Bürger ihn sehen, nämlich als potentiell
+Kriminellen, auch wenn er das in Wirklichkeit vielleicht nicht
+ist.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

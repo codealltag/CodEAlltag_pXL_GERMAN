@@ -1,0 +1,23 @@
+Prinzipiell spricht in meinen Augen nichts dagegen, für verschiedene
+Dinge auch verschiedene Namen zu verwenden. Allerdings gibt es bereits
+die Unterscheidung programmieren (= coden) <-> kodieren. Das Verb
+coden halte ich nicht unbedingt für cool sondern für ein Kurzwort, das
+ungefähr genauso notwendig oder nutzlos ist, wie andere Kurzworte.
+Veurteilen würde ich es also nicht - noch dazu ist es im Gegensatz zu
+downloaden, updaten und Co. ein gutmütiges Verb, das sich mühelos
+konjugieren lässt.
+
+Ja, aber kodieren kann auch alles mögliche Andere sein. Ärzte müssen
+heutzutage ihre Diagnosen kodieren, wer eine geheime Botschaft
+übermitteln will kodiert sie und so weiter. Unter all diesen
+Kodierungen hat das Schreiben von Computerprogrammen von
+Bekanntheitsgrad und Bedeutung her einen hohen Rang eingenommen. Grund
+genug es von anderen Kodierungen abzusetzen.
+
+Gruß
+Raimund
+
+P. S.: Treffen sich ein Arzt und ein Informatiker. Fragt der Arzt: Was
+machen Sie beruflich? Antwortet der Informatiker: Hauptsächlich
+kodiere ich. Darauf der Arzt: Ach Sie auch? Stimmt, es bleibt uns kaum
+noch Zeit für die Patienten.

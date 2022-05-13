@@ -1,0 +1,4 @@
+Beherrscht Dein Newsreader Scoring nach References?
+
+Dann wär's leicht. Aufgrund der eineindeutigen
+Domain reichten sogar reine Patterns.

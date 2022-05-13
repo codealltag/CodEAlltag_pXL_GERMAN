@@ -1,0 +1,10 @@
+Was für eine Passante gilt, gilt auch für eine Sekante oder
+Tangente: also gilt es für jede Gerade. Also ist das Wort
+"Passante" überflüssig. Eine Tangente ist eine Passante mit
+Abstand 0, und eine Sekante ist eine Passante mit negativem
+Abstand. Wenn jede Gerade eine Passante ist, genügt dafür das
+Wort "Gerade".
+
+Gruss
+
+Carl

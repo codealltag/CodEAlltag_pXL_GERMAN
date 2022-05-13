@@ -1,0 +1,10 @@
+Richtig.
+
+
+Seit wann steht *hinter* einer Aufzählung ein Komma? 
+
+Der Duden meint dazu (H47): "Kein Komma steht am Schluss einer
+Aufzählung, wenn der Satz weitergeht". Das ist hier der Fall, also ist
+das Komma falsch.
+
+	hp

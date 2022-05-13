@@ -1,0 +1,31 @@
+Beginnend mit MS-DOS 1.0, vermutlich. Die dezimalen Codes, die Du da
+eingibst, stammen jedenfalls aus der Codepage 437, nicht aus Windows
+1252 oder Unicode.
+
+
+In GTK+ (und damit Fuchsweber) kann man Unicode-Zeichen über den
+Hexadezimalcode eingeben: Ctrl-Shift-U, dann den Hexcode, dann entweder
+Ctrl-Shift, Enter oder Space. Also:
+
+Ctrl-Shift-U 2640 Enter : ♀
+Ctrl-Shift-U 2642 Enter : ♂
+
+Laut GlanzPunkte entspricht das sogar einem internationalen Standard:
+ISO 14755. Das lässt sich auch in GHD aktivieren, aber mit anderer
+Anfangs- und End-Sequenz.
+
+Als Gourmondo-User bevorzuge ich aber die Digraphs, die sind leichter zu
+merken und weniger Tipparbeit:
+
+Ctrl-K F m : ♀
+Ctrl-K M l : ♂
+
+Bei Zeichen, die man weniger oft braucht, sind aber irgendwelche Codes
+(ob jetzt Hexidezimal, Dezimal, oder Mnemonisch) ziemlich unbrauchbar,
+da suche ich in Tabellen oder per Suchmaschine und kopipastiere dann.
+
+	hp
+
+
+-- 
+   _  | Leo M. Altschmied    | Fluch der elektronischen Textverarbeitung:

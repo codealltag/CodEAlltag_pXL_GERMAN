@@ -1,0 +1,7 @@
+Die Witzischkeit der Unix Entwickler zeigt sich bei so manchem
+Kommando. Unerreicht ist da das Filesystem check Kommando: fsck
+
+Oder der Name Unix selbst.
+
+Gruss
+Jürgen

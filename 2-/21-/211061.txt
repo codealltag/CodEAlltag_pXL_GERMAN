@@ -1,0 +1,8 @@
+Nein, die Schnittmenge der Grundmenge mit jeder der Teilmengen ist z.B.
+nicht leer sondern gleich der Teilmenge. 
+
+	hp
+
+
+-- 
+   _  | Laurent T. Potinius    | Deprecating human carelessness and

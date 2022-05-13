@@ -1,0 +1,9 @@
+Wird während einer Partie ein Regelverstoß - z.B. ein
+regelwidriger Zug - festgestellt, wird die Situation vor dem
+Regelverstoß wieder hergestellt. Patt beendet die Partie aber -
+ein Regelverstoß kann nicht mehr sanktioniert werden. Deshalb
+wird festgelegt, dass Patt nur unter Einhaltung der Regeln
+eintritt.
+
+Viele Größe
+Siebelt Zehbe

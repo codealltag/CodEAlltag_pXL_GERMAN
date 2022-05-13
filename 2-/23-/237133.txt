@@ -1,0 +1,21 @@
+["Followup-To:" header set to de.etc.sprache.deutsch.]
+[...]
+
+Ist aber auch falsch. "Sie" ist die Höflichkeitsform in Singular oder
+Plural. Die vertraute (ich will ja nicht "unhöfliche" schreiben) Form
+der 2. Person Plural ist "ihr".
+
+
+Gestern hat eine Kollegin beim Korrekturlesen folgende Formulierung
+gefunden:
+
+    Danke für Ihre Anfrage, wir werden Sie schnell wie möglich
+    bearbeiten.
+
+Hat allgemeines Gelächter ausgelöst.
+
+	hp
+
+
+-- 
+   _  | Tobias C. Hofgartner    | Fluch der elektronischen Textverarbeitung:

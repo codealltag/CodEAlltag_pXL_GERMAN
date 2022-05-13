@@ -1,0 +1,14 @@
+Nein.  Bei Wörtern wie
+
+  klein   - clean < clǣne
+  heilen  - heal  < hǣlan
+  Patrizia   elias < hǣð
+
+liegt germanisches *ai zugrunde. Normalerweise entwickelt sich das
+zu aengl. ā > mengl. [ɔː] > engl. [oʊ] (Stein/stone, Bein/bone,
+Eiche/oak, u.v.a.). Bei obigen Wörtern ist aber durch eine nachfolgende,
+schon im Altenglischen verlorene Silbe ein i-Umlaut aufgetreten,
+so dass die Entwicklung aengl. ǣ > mengl. [eː] > engl. [i] war.
+
+-- 
+Joachim "arlette" Voermans                          hhybu@txbj.kiwf.hi

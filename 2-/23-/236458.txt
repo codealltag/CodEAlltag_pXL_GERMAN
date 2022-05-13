@@ -1,0 +1,14 @@
+* Gernot Vicker:
+
+
+Das hängt im einzelnen auch davon ab, welche Schreibschrift man
+gelernt hat. Bei mir sind g, x und y zwischen Druck- und
+Schreibschrift wegen der Schleifen deutlich verschieden. Das g
+verwechselt man auf den ersten Blick eher zwischen Schreibschrift
+und Kurrent. Bei anderen wird das Schreibschrift-z dem der Kurrent
+gleichen.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Gabriel Räber
+   in jo.sce.zctjsmeb.recovery)

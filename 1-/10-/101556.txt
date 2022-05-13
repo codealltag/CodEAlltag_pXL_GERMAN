@@ -1,0 +1,8 @@
+---------------------------------------------------------
+Hallo,
+Könntest Du mir Neuling erklären, mit welchem Zeichensatz man die
+urslav. und idg. Sonderzeichen darstellen kann? Vielleicht Unicode-16?
+
+Danke und Gruß
+Stephan
+---------------------------------------------------------

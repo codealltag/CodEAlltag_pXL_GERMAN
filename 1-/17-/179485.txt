@@ -1,0 +1,10 @@
+Konkret ist Ruck eine Bewegung wo die dritte Ableitung der Position gegen 
+Zeit ungleich null ist. Nicht mehr und nicht weniger. So würde man das auch 
+technisch ausdrücken. Es muß nicht kurz sein.
+Änderungen der Beschleunigung, sowohl deren Beschleunigung als auch 
+Verlangsamung kann es geben. Bei Geldsachen sowieso.
+
+Thierry, z.Zt. Beimesche, Dragonworld
+
+-- 
+My jsme Borgo. Sklopte tty a vzdejte se. Odpor je marn

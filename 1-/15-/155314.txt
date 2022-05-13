@@ -1,0 +1,14 @@
+Erich Kurt skrev (2012 01 16 21:27):
+
+
+Ich will lieber Datum in ISO 8601-Format angeben:
+
+ YYYY MM DD
+ YYYY MM DD HH:MM
+ YYYY MM DD HH:MM:SS
+
+-- 
+Gruß  :�)
+Josef Berthe
+FK-3611
+2012 07 17 12:44

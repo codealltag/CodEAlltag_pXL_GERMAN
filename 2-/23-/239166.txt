@@ -1,0 +1,22 @@
+* Jörn Ploegmakers:
+
+
+[...]
+
+
+Zwischen den Sprachen gibt es da Verwirrung.
+
+Einerseits ist der Punkt zur Kennzeichnung von Ordinalzahlen eine
+deutsche Spezialität. Im Englischen schreibt man 1st, 2nd, 3rd ...
+im Französischen 1er, 2e, 3e ... (alle besser mit hochgestellten
+Buchstaben). 
+
+Bei römischen Zahlen wird das im Englischen wohl weggelassen. Im
+Französischen gibt es zwar die Schreibweise Ier, IIe, ..., aber
+die Namen der Herrscher haben keine Ordinalzahl, die heißen dort
+"Vinzenz vierzehn" "Frédéric acht" etc.
+
+-- 
+BauSan designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

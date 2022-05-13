@@ -1,0 +1,14 @@
+* Julian Stendel:
+
+
+Der Fall ist komplex. Antonios Forte Agent hat das Subject kaputtgemacht
+(seiner Kodierung beraubt), Karlheinz' 40tude Dialog bemüht sich in
+solchen Fällen nicht um Reparatur (und warnt leider nicht einmal).
+Versuche doch mal, auf Antonios Beitrag zu antworten, verhält sich Dein
+Thunderbird da anders? Dann könnte es sein, daß er auf den
+Body-Zeichensatz reagiert. Aber wieso sollte Deiner das tun, und
+Ueberscher nicht?
+
+-- 
+da kamen abermals in das Eselsdorf uber die Fletzen steig ein volck, die
+nante man auch die Engelländer und gugeler B. WELLHAUSEN

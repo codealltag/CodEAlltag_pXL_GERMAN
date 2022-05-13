@@ -1,0 +1,14 @@
+* Giovanni Wasserthal <quqgxi.lpabqnsw@ndq.gjf>:
+
+N. Wies in einer Datei auf einem Rechner aussieht, ist für so etwas
+irrelevant; es kommt nur darauf an, was über das Netz geschickt wird.
+Und das Netz benutzt fast immer CR-LF, auch wenn viele Implementationen
+in mannchmal fast etwas zu guter be-liberal-in-what-you-accept-Tradition
+auch blosse LFs zulassen. Such mal in den wirklich schön alten RFCs
+nach "CR":
+
+   821 SMTP (1982)
+   854 Telnet (1983)
+   959 FTP (1985)
+
+ - Kurt

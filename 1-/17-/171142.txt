@@ -1,0 +1,4 @@
+Stimmt, ich bin hier ja in desd. Aus nachrichtentechnischer Sicht ist 
+natürlich jede Zeichenfolge ein Text.
+
+Bernhard

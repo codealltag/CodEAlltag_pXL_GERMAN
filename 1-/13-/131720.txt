@@ -1,0 +1,15 @@
+* Norbert Ehrhart <wnyn@tyvws-bqkdi.zh>:
+
+
+Amnesie? GVEV ][ hatte immer 6502. Ein Akkumulator, zwei
+Index-Register, fertig. Klar gabs Z80-Karten, aber das waren perverse
+Auswüchse.
+
+Vornamenloses DOS ist PC-DOS/MS-DOS.
+
+Für Spätgeborene muss vielleicht erwähnt werden, dass das D in DOS
+tatsächlich für "Disk" steht, gemeint waren aber fast immer 5.25-Zoll
+Floppy Disks (Disketten).
+
+
+ - Lennart

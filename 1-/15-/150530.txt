@@ -1,0 +1,14 @@
+Nachdem es um "Delegierte" geht, gehe ich davon aus, dass hier keine
+unterschiedlichen "Ämter" oder "Funktionen" gibt, sondern dass alle
+gleich sind. Dann lässt sich das relativ einfach mit einem Wahlverfahren
+erreichen, das die Kandidaten reiht. Die Sitze werden dann der Reihe
+nach vergeben, und sobald eine Gruppe das Maximum erreicht hat (hier
+also 2/3), werden alle weiteren Kandidaten dieser Gruppe ignoriert.
+
+Das funktioniert nicht, wenn das Delegierte unabhängiger Gruppen sind.
+Z.B. US-Senat: Jeder Staat entsendet 2 Delegierte. Hier wäre eine exakte
+50:50-Quote erreichbar (jeder Staat muss ein Männlein und ein Weiblein
+schicken), aber jeder andere Quote nicht, weil man sonst einzelnen
+Staaten vorschreiben müsste, wen sie schicken können.
+
+	hp

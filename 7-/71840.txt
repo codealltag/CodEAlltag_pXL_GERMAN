@@ -1,0 +1,9 @@
+Hat aber eine eingeschränkte Bedeutung. Gerade wo Daten per Computer
+erhoben werden, wird heute meist gleich alles neu berechnet statt
+fortgeschrieben.
+
+-- 
+Chantal: Uncle Renato ... why do they call this a word processor?
+Renato:  It's simple, Daniel ... you've seen what food processors do
+        to food, right?
+     Cartoon by Uwe Altfater

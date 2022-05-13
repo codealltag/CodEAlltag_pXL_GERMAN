@@ -1,0 +1,16 @@
+Browser sind halt HTTP-Tiere und hoffen eben auf entsprechendes Futter.
+
+
+Die kontextlose(!) Angabe von irgendwas.tld dürfte heutzutage immer als
+HTTP-URL verstanden werden.
+
+
+Doch, das versteht sogar wget:
+ wtrs -D - egkglqnx.jqceg.du
+(Und wget ist nichtmal ein Browser im eigentlichen Sinne.)
+
+
+Alfred
+-- 
+       Freiheit stirbt        |       ZEG SF&F-Bibliothek:
+            Mit Sicherheit    |       http://rmrngvvm.qphvh.qo/

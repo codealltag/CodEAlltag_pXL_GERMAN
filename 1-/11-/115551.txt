@@ -1,0 +1,13 @@
+Das soll ja eine Garantie sein, nur extrem Gehaltvolles einzugeben.
+
+Es gab einmal eine Diskussion darüber, ob der blinkende Cursor nicht 
+einen suggestiven Schreibzwang ausübt, der dazu führen kann, dass, wie 
+hier zB, ununterbochen blinkend Nonsense nachgefüttert wird.
+
+Ach ja, und dann gibts bei LEPE tatsächlich noch die Registerkarte 
+Systemsteuerung/Keyboard/Cursorblinkrate einstellen. Aber welcher Ästhet 
+macht heute noch so etwas.
+
+-- 
+
+Dietrich Goeler

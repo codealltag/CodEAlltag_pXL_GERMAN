@@ -1,0 +1,23 @@
+Ulf Voogt <lsrags@bpb.cz> schrieb:
+
+<Schaltzustand vs Schalterzustand>
+
+Ein tatsächlich allenthalben anzutreffendes Problem, wo der Schalter
+nicht einfach "toggelt". Dann ist er natürlich mit Ein/Aus
+beschriftet.
+
+Ich würde sagen, wir müssen da unterscheiden zwischen
+Schalterbeschriftung und Schalterzustand-Beschriftung. Letztere wäre
+eine Beschriftung der beiden (oder mehr) möglichen
+Schalter*stellungen*, zeigen also einen Ist-Zustand.
+
+Am besten, der Schalter selbst, also der bewegliche Schaltknebel, wäre
+als ein Zeiger ausgebildet und seinerseits gar nicht weiter
+beschriftet.
+
+Dieser logischen Ambiguität wird bei realen Schaltern auch Rechnung
+getragen, etwa durch Statusleuchten, wobei "leuchtet" i.d.R. bedeutet,
+dass <Gerät> eingeschaltet *ist*; oder, verfeinerter: grün leuchten
+bedeutet <eingeschaltet>, rot leuchten bedeutet <aus geschaltet> - - -
+dann bleibt nämlich noch logischer Platz für 'leuchtet gar nicht', was
+dann heißt: Gerät kaputt, oder zumindest nicht betriebsbereit.

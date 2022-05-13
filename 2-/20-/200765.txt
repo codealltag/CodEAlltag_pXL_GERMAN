@@ -1,0 +1,13 @@
+Ich sehe Ligaturen auch nicht als eigene Zeichen an. Ich wollte eigentlich 
+die Ansicht meines Vorredners, man müsse Frakturzeichen gesondert zählen, 
+ins Absurde übertreiben. Ein Fraktur-a ist im sinne der Ausgangsfrage 
+"wieviele Zeichen hat das deutsche Alphabet" dasselbe Alphabetzeichen wie 
+ein Antiqua-a. Andernfalls müsste man konsequenterweise jeden jemals 
+erfundenen Font, der schon einmal für die Wiedergabe deutscher Texte 
+verwendet worden ist, gesondert zählen.
+
+Otto
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

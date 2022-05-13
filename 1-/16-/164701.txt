@@ -1,0 +1,4 @@
+Mit wortweisem Vorsuchen im Index und dann nachfiltern der Ergebnisse 
+sollte es schnell gehen. Nur braucht man dann halt Keys zum Vorsuchen.
+
+Carlo

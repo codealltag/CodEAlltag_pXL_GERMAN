@@ -1,0 +1,24 @@
+Das Ding hat unglückseligerweise eine Doppelfunktion: Typographisch 
+wird es als Trenn- oder Bindestrich verwendet, bei Formel- oder Code-
+Eingabe dient es Subtraktions- oder Negationsoperator (vulgo "minus"). 
+Die beiden hier mit "or" vereinten Begriffe entstammen also 
+unterschiedlichen Welten und legen keineswegs nahe, das Zeichen könne 
+"beides" sein. 
+
+Das /typographische/ Minuszeichen muß in jeder Hinsicht (Stärke, Höhe, 
+Länge) dem Querbalken des Pluszeichens in gleicher Type entsprechen, 
+damit Gleichungen vern�mpftig aussehen. Und das tut der Bindestrich in 
+keiner mir bekannten Schrift. Formeleditoren in Textverarbeitungs-
+systemen setzen das daher meistens in den Halbgeviertstrich um.
+
+Im Tippsatz nehme ich als Minus gleich den Halbgeviertstrich #0150, in 
+HTML kann (und sollte) man die Entität &minus; verwenden (was AFAIK die 
+meisten Browser wiederum auf den Halbgeviertstrich umlenken). 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://sdbcdhez.qcn>

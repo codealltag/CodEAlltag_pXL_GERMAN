@@ -1,0 +1,11 @@
+Doch - es ginge dann um "es sieht aus, als ob der Hund auf den Teppich
+geschissen hat" gegenüber "... hätte", und wenn man dann feststellte,
+dass manche Leute Indikativ und Konjunktiv II nicht scharf trennen,
+könnte man die Empfehlung, im zweiten Fall auf "es sieht _zwar_
+aus, ..." auszuweichen, erwarten.
+
+Gernot
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

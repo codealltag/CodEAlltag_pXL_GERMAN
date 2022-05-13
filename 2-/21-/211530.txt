@@ -1,0 +1,12 @@
+Swappen ist das komplette Entfernen *aller* Seiten eines Jobs aus dem 
+Hauptspeicher. Das ist dann sinnvoll, wenn die Summe der tatsächlich 
+verwendeten Speichergrößen der Prozesse die physische Speichergröße 
+übersteigt, denn die alte Weisheit gilt weiter: Paging funktioniert nur, 
+solange man es nicht braucht. Wenn natürlich auf jedem System nur ein paar 
+Prozesse laufen und der Hauptspeicher riesig ist, bringts nichts mehr. Ich 
+würde aber darauf tippen, dass es auch heute noch in Betriebssystemen von 
+solchen Rechnern dieselbe Rolle spielt wie früher, auf denen *gerechnet* 
+wird und zwar auch längerlaufende Programme, sagen wir ab 6 h CPU-Zeit.
+
+-- 
+David Woerle

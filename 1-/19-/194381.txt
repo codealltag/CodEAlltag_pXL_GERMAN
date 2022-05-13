@@ -1,0 +1,27 @@
+Vermutlich gibt es dort auch weniger öffentliche Uhren als in deutschen
+Städten?
+
+
+Wenn auf Rechnern und insbesondere Servern die Uhr vor- oder nachgeht,
+halte ich das für eine schlampige Installation. Eine synchrone und
+besser noch korrekte Uhrzeit erleichtert die Fehlersuche oft enorm, ganz
+zu schweigen von mancher Software, die zickt, wenn die Zeit nicht
+paßt.
+
+Das mexikanische Zeitempfinden ist vom deutschen sicherlich noch weiter
+entfernt als das kanadische. Das schlägt sich auch in der Sprache
+nieder:
+
+Für "ahora" steht im Wörterbuch die Übersetzung "jetzt". Wenn ein
+Mexikaner "ahora" sagt, sollte man jedoch nicht erwarten, daß es gleich
+losgeht. Das hat nichts mit Unzuverlässigkeit zu tun, sondern unter
+"ahora" versteht man hier ganz einfach "heute".
+
+Wenn das deutsche "jetzt, sofort" gemeint ist, verwendet man den
+Diminutiv "ahorita", oft in Verbindung mit verärgertem Tonfall.
+
+Ebenso irreführend ist die Übersetzung "morgen" für "maana". "Heute
+nicht" kommt der Bedeutung viel näher. "Mana" *kann* morgen sein, aber
+auch nächste Woche oder nie.
+-- 
+bli

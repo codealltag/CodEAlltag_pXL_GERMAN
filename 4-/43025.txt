@@ -1,0 +1,35 @@
+"Aufzählung" ist wohl zu verwechselbar als Erklärung.
+Verständlicher wird es vielleicht so:
+
+Du hast erstmal einen Satz, nämlich:
+"wie telefonisch am 19.6.2008 um 9:00 Uhr im Bahnhof besprochen
+erhalten Sie anliegend die Unterlagen."
+
+Ein Satz hat ein Verb. Jetzt guckst Du nach Verben, und findest:
+"wie telefonisch am 19.6.2008 um 9:00 Uhr im Bahnhof _besprochen_
+_erhalten_ Sie anliegend die Unterlagen."
+
+Aha, es sind 2 Verben. Also sind es 2 Sätze, denn 1 Satz hat
+immer nur 1 Verb (das kann in manchen Formen auch aus 2 Wörtern
+bestehen, z.B. "werde machen" oder "möchte tun").
+
+Also werden _S�tze_ aufgezählt, und da muß ein Komma dazwischen:
+"wie telefonisch am 19.6.2008 um 9:00 Uhr im Bahnhof besprochen,
+erhalten Sie anliegend die Unterlagen."
+
+Ich auch nicht. Das ist eine Erweiterung, keine Aufzählung.
+
+Ja, das ist ein Einschub (nähere Erläuterung ohne Verb), den
+trennt man auch ab.
+
+Man kann den Satz noch ein bißchen weiter aufpumpen (macht man so
+nicht, weil schwer lesbar, geht aber):
+
+"wie telefonisch am 19.6.2008 um 9:00 Uhr im Bahnhof, mündlich am
+nachmittag des 19.6. am Imbißstand besprochen und in den
+Vorbesprechungen vom 20.6.2008 auf dem Bahnhofsklo, am 21.6.2008 in
+der FUL und am 22.6.2008 am Messestand genauer
+ausgeführt, sowie in den Vorverträgen 1,2 und 3 vom 23.6., 24.6.
+und 26.6 festgelegt, erhalten Sie anliegend die Unterlagen."
+
+Da sind jetzt auch Aufzählungen drin, die kleiner als Sätze sind.

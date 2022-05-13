@@ -1,0 +1,11 @@
+Am 30. 05. 21 23:01, schrieb Pierre Lurweg:
+
+Das ist aber jetzt schon un-terste Schublade.
+
+lg christoph
+
+
+-- 
+Distribution: KNA squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 30. 05. 21 12 21:35:22 UTC 2010 x86_64 
+GNU/Linux

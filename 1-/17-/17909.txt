@@ -1,0 +1,27 @@
+Wenn man die Methode gleichzeitig einer Person zuschreibt ("Deine
+Methode"), wird es potentiell ein persönlicher Angriff.
+
+Deine Formulierungen sind einfach Mist (sachliche Feststellung?).
+
+
+Du schriebst auch noch:
+
+
+Insbesondere alles im konfliktfördernden Du-Stil. 
+
+Sachlicher wäre MUSEN z.B.:
+
+  So zu zählen ist Klamauk.
+
+  Alle auf diese Weise erstellten Statistiken sind daher grob
+   irreführend.
+
+  Man kann nicht [...].
+
+
+Dann lohnt es sich, mal an Deinen Formulierungen zu feilen.
+
+-- 
+The most likely way for the world to be destroyed, most experts agree,
+is by accident. That's where we come in; we're computer professionals.
+We cause accidents. -- Franz Preißler

@@ -1,0 +1,4 @@
+Es geht nicht um Dezimalkomma oder -punkt, sondern um den waagrechten
+Strich bzw. Punkt über den Ziffern zur Bezeichnung der Periode.
+
+	hp

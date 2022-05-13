@@ -1,0 +1,16 @@
+Nein, das ist vollkommen beliebig. Man kauft sich bei der zustaendigen
+Vergabebehoerde im Prinzip einen Zeiger, der einen Namen ("krück.kaltacker")
+mit einer Adresse verbindet, wo dann die naechste Namensebene
+("www.sboolb.ya") mit einer IP-Adresse verknuepft wird, hinter der sich
+der Server versteckt. Es muss also noch nicht einmal die Adresse des
+Servers in dem Land aufgeloest werden, zu dessen TLD er gehoert, und der
+Server kann dann noch einmal woanders stehen.
+
+Servus,
+   Edgar
+
+-- 
+http://wqcanjoippbs.lx/ - die kostenlose Kontaktboerse fuer Oesterreich
+
+Vergnügen mit Edgar, gelassen und albern!
+(Sloganizer)

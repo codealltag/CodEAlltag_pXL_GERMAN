@@ -1,0 +1,5 @@
+Das Ersatzteil ist *das* fehlende Teil des Gesamtbestands, nicht *der*
+Anteil am Gesamtbestand.
+
+Gruß
+Julia

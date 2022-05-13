@@ -1,0 +1,2 @@
+"Fragezeichen". Bei falsch oder nicht deklariertem Zeichensatz wird ein 
+Eurozeichen gern als "?" dargestellt.

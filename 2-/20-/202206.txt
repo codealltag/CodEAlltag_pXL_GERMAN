@@ -1,0 +1,20 @@
+* Sébastien Haasenritter <lkwa@yrqxy-ipgrz.rb>:
+
+
+Die Präsentation der Notak-Startseite ist unterschiedlich je nach -
+
+ - Browser
+ - Version
+ - Browsersprache
+ - Betriebssystem
+ - Eingeloggt oder nicht
+ - Cookies
+ - Mondphasen
+
+usw.
+
+Ich krieg auf Linux mit Adlernest und TKZI unterschiedliche Menus. Bei
+Konqueror, den ich mal zum Spass ausprobiert habe, sieht's nochmal
+anders aus.
+
+ - Heinz

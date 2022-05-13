@@ -1,0 +1,14 @@
+Durchschnitt ist meiner Meinung nach in vielen Fällen kein geeignetes
+Wort. Wenn z.B. aus mehreren Messungen einer Größe ein gemeinsames
+Ergebnis gebildet werden soll, nimmt man üblicherweise das
+(ggf. gewichtete) arithmetische Mittel. Sowas würde ich nicht
+Durchschnitt nennen. Ich würde es "Mittelwert" oder "gewichteter
+Mittelwert" nennen.
+
+Aber verschiedene Bereich haben verschiedene Sprechweisen. Was ich als
+Physiker Messung oder Messergebnis nenne, nennen Statistiker Schätzung.
+
+
+-- 
+Willi Wittstadt         ekdke.o.kmrnzq@l-hnbite.zk
+51°29'7"N 7°25'7"E   http://opj.xaqwrc.da-clbzqmzt.qx/~gkcyqt

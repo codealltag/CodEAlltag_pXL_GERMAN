@@ -1,0 +1,11 @@
+Umlaute und charset="us-ascii" sind nicht wirklich kompatibel ...
+
+
+Das ist allerdings ein nicht zu vernachlässigendes Problem.
+
+
+Ciao
+Phillippa
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

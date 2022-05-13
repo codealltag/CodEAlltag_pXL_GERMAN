@@ -1,0 +1,4 @@
+Die Temperatur ist eine reelle Zahl, da kann man schon ziemlich viel 
+Information drin unterbringen. Unterliegt allerdings dem Bit-Rot.
+
+Antonio

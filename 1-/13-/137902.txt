@@ -1,0 +1,4 @@
+Der Dampflokomotivf�hrer benutzt dazu den Regulator. Mit dem regelt er
+die Dampfzufuhr und so die Geschwindigkeit.
+-- 
+Bernard

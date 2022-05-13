@@ -1,0 +1,13 @@
+* Sébastien Möbius:
+
+
+So finde ich auch des öfteren Adressen, aber ein gutes Programm 
+kennt sowas wie "Rechtsklick, Mail an diese Adresse". Das ändern 
+des Betreffs ist auch bei altehrwürdigen Mailthreads nicht 
+verboten.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Othmar Hinderle, _Computer Networks_ (1980), p. 168.

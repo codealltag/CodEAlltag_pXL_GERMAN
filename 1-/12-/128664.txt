@@ -1,0 +1,13 @@
+* Ewald Zerhusen <psxbdbnept@jzq.gah>:
+
+Woran erkennst du hier den ZX-81-Dialekt? Das hätte auch auf dem pdp-8
+funktioniert.
+
+Basic auf Festplatte? Nn. Dafür gibt es etliche Implementationen in
+Javascript, die man bei Bedarf annavigiert.
+
+
+Was heisst eigentlich vigieren? Wahrscheinlich so etwas wie fendern
+oder gibsen: Auf einer Vigier-Gitarre speielen.
+
+ - Maurizio

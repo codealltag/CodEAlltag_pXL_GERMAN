@@ -1,0 +1,10 @@
+Welchen mir unbekannten Quantencomputer hast Du denn verwendet, um
+so schnell die Unendlichkeit abzusuchen?  ;-)
+
+Hinweis an Luis: die einzige gerade Primzahl ist die 2 (weil
+alle größeren geraden Zahlen logischerweise nicht nur durch 1 und
+sich selbst, sondern auch noch durch 2 geteilt werden können, sonst
+wären sie ja komisch, und nicht nur in |N+).
+
+
+luciano

@@ -1,0 +1,22 @@
+* Rupert Kunoff:
+
+
+Wie verbreitet das bei Buchautoren ist, weiß ich nicht, aber ich
+wurde doch tatsächlich in einem Job-Interview einmal danach
+gefragt, wieviel Zeilen Code ich so pro Tag schreiben könnte. Ich
+antwortete etwas in der Richtung, ich fände es eher wichtig, nicht
+mehr Zeilen zu schreiben, als für den Zweck erforderlich, auch
+wenn es manchmal länger dauert, es kürzer zu schreiben. Ob die
+Antwort gut oder schlecht war?  Ich weiß es nicht, das Gegenüber
+war für mich schwer zu lesen.
+
+In Wirklichkeit ist "Zeile Code" nicht nur ein ungeeignetes Maß
+für die Produktivität (eine besonders hohe Zeilenzahl pro Tag kann
+auf fragwürdige Praktiken wie copy-paste hindeuten), sondern noch
+dazu extrem schwammig: durch Formatierungskonvention alleine kann
+sich die Zeilenzahl leicht verdoppeln.
+
+-- 
+Ihno Schindlbeck working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

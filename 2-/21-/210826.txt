@@ -1,0 +1,12 @@
+* Thierry Lünendonk:
+
+
+Nee, beim Brainstorming sammelt man Ideen zur gemeinsamen
+Umsetzung, nicht, damit jeder mit denen des anderen nach Hause
+geht.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

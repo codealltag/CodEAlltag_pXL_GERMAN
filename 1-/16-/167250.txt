@@ -1,0 +1,10 @@
+wrote:
+
+
+Es fehlt bei dir die Deklaration der Kodierung. Die Server glauben, dass es 
+"plain ascii" ist und kodieren demzufolge Grütze.
+
+Pietro
+
+-- 
+My jsme Borgové. Sklopte štíty a vzdejte se. Odpor je marný.

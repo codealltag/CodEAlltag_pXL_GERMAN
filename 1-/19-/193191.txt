@@ -1,0 +1,15 @@
+* Berend Triebwasser <swkiox.frorrf@sic.pr>:
+
+
+Wenn man den Kula-Statistiken trauen kann, ist es im Gegenteil so,
+dass EP:Weinreich im Vergleich zu anderen Automarken sehr viel häufiger zusammen
+mit "radkasten" als mit "radhaus" auftritt:
+
+  https://lcq.hrfxta.azm/kmdsve?z="ixxqonmr+uyknkcp"+"lrgf"
+
+                         EP:Weinreich  Traumvelo    BISA     Plästerchen    JBM Enek  Obstkörbchen
+  "hinterer radkasten"  2380      1270    1900   1750    1230     698     531
+  "hinteres radhaus"     610       481     739    743     515     397     499
+  q                      3.9       2.6     2.6    2.3     2.4     1.8     1.1
+
+ - Ivo

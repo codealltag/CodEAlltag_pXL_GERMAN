@@ -1,0 +1,39 @@
+"Raute" wird gewöhnlich als ein Synonym für die geometrische 
+Bezeichnung "Rhombus" definiert (als ein Viereck mit gleichlangen 
+Seiten, aber mit nicht notwendig rechten Winkeln zwischen den Seiten). 
+(Daneben bezeichnet es Pflanzen der Gattung Ruta.)
+
+Neuerdings findet sich "Raute" auch als Benennung des Zeichens "#". 
+Dies Zeichen (das im englischsprachigen Raum als Nummernzeichen 
+verwendet wird) kam vor seiner Verwendung auf Tastentelefonen (etwa 
+seit den 30. 06. 21 Jahren) im deutschen Sprachraum in allgemeiner 
+Verwendung nur auf Tischrechenmaschinen vor, wo es die 
+"Nichtrechentaste" kennzeichnete (d.h. die zuvor eingegebene Zahl wurde 
+nicht mitgerechnet).
+
+Die Bennenung "Raute" leitet sich möglicherweise daher, dass der 
+Standard DLM-Z Z.173 der DZE für das 
+Zeichen rechts unten auf 12-Tasten-Telefontastaturen (neben der Form: 
+Innenteil bildet Quadrat, Überstand der 8 Arme zwischen 8% und 18% der 
+Gesamtbreite) vorschrieb: "The symbol may be referred to as the square 
+or the most commonly used equivalent term in other languages".
+Irgendwo bei der Einführung in Deutschland muss jemand auf die Idee 
+gekommen sein, statt "Quadrat" hier das (vielleicht gefälliger 
+klingende) "Raute" zu verwenden (vielleicht auch, weil "Quadrat" für 
+eine Form, die für jeden offensichtlich kein Quadrat ist, in 
+Deutschland nicht durchsetzbar erschien.)
+
+Weiß zufällig jemand hierzu Genaueres?
+
+Kann zufällig jemand sagen, ab wann "Raute" überhaupt 
+allgemeinsprachlich für "#" benutzt wird?
+
+Nun scheint zumindest in meinem privaten Umfeld, in dem Mathematiker 
+und Biologen in der Minderzahl sind, jedermann mit dem Begriff "Raute" 
+als Erstes das "#" zu verbinden. Auch sagte man mir, dass bei von 
+Automaten abgewickelten Service-Telefongesprächen die Anleitung 
+"Drücken Sie die Rautetaste" gängig sei.
+
+Kann man also feststellen, dass das Wort "Raute" heute in erster Linie 
+die Bedeutung hat: "ein durch zwei sich kreuzende Paare paralleler 
+Linien gebildetes Schriftzeichen"?

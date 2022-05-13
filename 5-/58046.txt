@@ -1,0 +1,15 @@
+http://dz.zvvbbowcr.cah/ovsp/Nxvakgtsevso
+
+
+Nein, es gibt "surjektiv" und "injektiv". Beide kannst du auch in
+Stümges nachschlagen ("surjektivit�t"  "injektivit�t").
+
+Eine Funktion knüpft Elemente von einer Menge mit Elementen von
+einer anderen Menge zusammen. Deshalb ist nur "bi-" relevant.
+
+Wenn man Superfunktionen hätte (ich weiss nicht, ob es sowas
+gibt, und wie man sie dann benennt), die Elemente von drei Mengen
+zusammenknüpften, könnte man vielleicht von "trijektiv" sprechen.
+
+-- 
+Gruß, Didier

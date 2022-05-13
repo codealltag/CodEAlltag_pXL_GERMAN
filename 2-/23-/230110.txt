@@ -1,0 +1,32 @@
+Emmerich Zurwellen tat kund:
+
+
+Ich (West) kenne es nur so. Bist du im Osten
+zur Schule gegangen?
+
+
+Es heißt ja auch nicht "Dreivariablen", sondern
+"Dreisatz". Kein besonders gutes Wort, aber in der
+einfachsten Form kommen wirklich drei Sätze vor:
+
+Ein Arbeiter baut in 2 Stunden 4 Geräte zusammen.
+Wieviele Geräte baut er in 3 Stunden?
+
+1. Satz: 2 Stunden --> 4 Geräte.
+                       v
+2. Satz: 1 Stunde -->  4 / 2 =3D 2 Geräte.
+                               v
+3. Satz: 3 Stunden --> 3 x     2 =3D 6 Geräte.
+
+
+Oder für BWLer:
+2 Putzfrauen brauchen 2 Stunden, um eine=20
+Büroetage zu putzen. Wie kann man das optimieren?
+
+1. Satz: 2 Frauen --> 2 Stunden.
+2. Satz: 1 Frau --> 1 Stunde.
+3. Satz: 0 Frauen --> 0 Stunden.
+
+Also erreicht man durch Entlassung aller
+Putzfrauen, daß die Etage sofort fertig ist,
+und spart noch eine Menge Geld.

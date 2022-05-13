@@ -1,0 +1,26 @@
+* Philipp Nevoigt:
+
+
+Übelflüssig ist er, unschön vielleicht, aber "falsch" überzeugt mich
+nicht - selbst wenn es nach "offiziellen" Regeln so sein sollte. 
+
+Ich zitiere als Regelwerk
+<http://myp.zbfiw.eie/wadqphej/YfmjjbDtieglpg/Eaevav/Ydufvmjdngtsz/Zyrnnzfpa.wsih>
+
+
+Aber:
+
+
+Diese Unterscheidung scheint mir recht willkürlich (sagt man nicht
+regional in vielen Zusammenhängen "das" statt "es"?). Zumal das
+Kriterium "allgemein üblich" ja bewußt schwammig gehalten ist. Ich
+empfehle, dieses "wird kein Apostroph geschrieben" zu lesen als "should
+not" im Sinne der RfC. Denn es gibt stärkere Anti-Apostroph-Regeln
+("must not"):
+
+
+(Fettdruck und Ausrufezeichen im Original!)
+
+-- 
+GOGEL,  adj., ausgelassen, lustig, übermütig; lascivus.
+  GRIMM, Deutsches Wörterbuch

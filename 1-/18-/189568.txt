@@ -1,0 +1,10 @@
+Bei mir ist es noch komplizierter: wir sind nur noch über VOIP
+angeschlossen,
+und haben dann eine DECT-Basisstation hinter einer Fritzbox, die auch
+selbst noch mal DECT kann (aber nicht so gut, deshalb hängt da auch 
+nur ein Telefon dran).
+Es gibt also verschiedene drahtgebundene und dann auch noch 
+unterschiedliche schnurlose. Und dazu noch Handies. 
+Versuch da mal zu beschreiben, von welchem Telefon Du sprichst ;-)
+
+/Tom

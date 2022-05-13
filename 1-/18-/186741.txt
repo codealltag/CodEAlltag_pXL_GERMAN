@@ -1,0 +1,14 @@
+Ich trau's mich ja fast nicht sagen, weil ich's wirklich angenehm finde,
+dass das mit dem Newsreader offensichtlich geklappt hat, und vor allem,
+dass du dich überhaupt darauf eingelassen hast.
+Aber, der Thunderbird bei dir ist ganz merkwürdig verkonfiguriert. Der
+setzt vor Zitatzeichen ein Leerzeichen, so dass die Zitate nicht mehr
+als solche erkannt werden. /Normalerweise/ macht TB aber nicht, da ist
+irgendwas komisch ...
+
+
+Ciao
+Una
+-- 
+ Alkohol, mäßig genossen,
+ schadet auch in größeren Mengen nicht.

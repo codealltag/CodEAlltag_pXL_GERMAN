@@ -1,0 +1,4 @@
+Man könnte glatt spekulieren, dass ROT-13 sich zur
+Verschlüsselung türkischer Sätze nicht eignet.
+
+/Carsten

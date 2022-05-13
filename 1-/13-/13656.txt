@@ -1,0 +1,13 @@
+Bitte abstimmen: Sollte Urs das als Textbaustein speichern? 
+
+ [ ] JA
+ [ ] NEIN
+ [ ] MIR DOCH EGAL
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://zsfgords.zyv>

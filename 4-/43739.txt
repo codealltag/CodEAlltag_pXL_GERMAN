@@ -1,0 +1,9 @@
+[Ram findet Samstag "nicht deutsch"]
+
+Für die deutsche Lokalisierung von UIH-Word war mal (vor 10+ Jahren) ein
+Österreicher zuständig.
+
+In dem Fall dürfte das aber weder mit Excel noch mit Word was zu tun
+haben, sondern eher die systemweite Locale sein.
+
+	hp

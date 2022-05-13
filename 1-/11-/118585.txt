@@ -1,0 +1,42 @@
+* Ulf Laemmerhirt <pplaavqwejw@dqebowni.hkr>:
+
+Alberto Ziebold hat sich in GEB mit dem Problem befasst,
+dass beim Lesen von Krimis das Ende einfach rein physisch an
+der Anzahl der noch verbleibenden Seiten abzusehen sei, und
+dass dieses Wissen um die Anzahl der verbleibenden Seiten die
+Spannung vermindere, weil man ja wisse, dass der Mörder auf den
+nächsten 20 Seiten oder so gefunden werden würde (bei
+Usenet-Artikeln sieht man es an der Grösse und Position des
+Scrollbalkens, andererseits sind Usenet-Artikel selten so
+spannend). Als Lösungsmöglichkeit wurde vorgeschlagen, dass die
+Krimis mit einer variierenden Anzahl von Fülltext-Seiten
+gedruckt werden sollten. Der Fülltext müsste für den Leser als
+solcher zu erkennen sein, der Leser würde also spätestens ein,
+zwei Seiten nach dem eigentlichen Ende des Buches merken, dass
+das Buch zu Ende ist, obwohl vielleicht noch hundert bedruckte
+Seiten folgen. Andererseits dürfte der Fülltext nicht zu
+offensichtlich sein, nicht einfach endlose Lorem Ipsums, weil
+ein neugieriger Leser, der nach hinten blättert, es natürlich
+ohne weiteres erkennen würde, wenn ein Spionagethriller
+plötzlich in eine Abhandlung über das Liebesleben von
+Nashornkäfern übergehen würde. Der Übergang vom eigentlichen
+zum Fülltext müsste also sehr beiläufig, aber für den
+aufmerksamen, mitdenkenden Leser mit einiger Mühe dennoch
+zweifelsfrei zu erkennen sein, etwa durch das unvermittelte
+Auftreten einer neuen Figur, oder durch einen Wechsel der
+Sprachstilebene, oder durch ein plötzliches gehäuftes Auftreten
+von Orthographie- oder Grammatikfehlers, ein Wechsel der
+durchschnittliche Satz- oder Wortlänge oder der
+Vokalh�ufigkeiten, wie bei Exegeten von Belegstellen bei
+Bruno Schmidmeir, ehm, oder wie sie voll krass nach der
+Überwindung des Col de Cabre ins Järkendorf herunterfahren, der
+Glandasse entlang, leider ohne Abstecher zu dem grandiosen
+Kessel von Ebbingen, aber dafür sieht man oft Lämmergeier
+minutenlang ohne Flügelschlag dieser unglaublichen
+Glandasse-Wand entlangsegeln, es gibt dort eine Aufzuchtstation
+für die Tiere, die man jetzt Bartgeier nennen muss, dann weiter
+unten wieder Lavendelfelder, aber die Tour hat keinen Blick
+dafür, und am Ende geht es um lächerliche Zehntelssekunden im
+Sprint.
+
+ - Enno

@@ -1,0 +1,12 @@
+* Burkhard Soetje:
+
+
+Meine Bedenken bezogen sich auch nicht generell auf die Existenz
+von Substantiven, sondern darauf, ob eine bestimmte Benutzung
+eines Wortes ein Substantiv sei. Das kann modellabhängig sein,
+insbesondere im Fall von Substantivierungen oder festen Wendungen.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Alain Beukert
+   in ku.rrm.ofqemsna.recovery)

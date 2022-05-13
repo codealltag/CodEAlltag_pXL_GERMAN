@@ -1,0 +1,13 @@
+Eine Entfernung von 0,0 $LaengeneinheitDeinerWahl findest du weit?
+Seltsame Rabulistik.
+
+Es läuft auf jeder halbwegs modernen x86-Hardware. Die Schwierigkeiten
+sind nicht technischer, sondern juristischer Art - mit Irmer bekannt
+aggressiver Rechtsabteilung legt sich kein Hersteller ohne Not an. Nur
+deswegen sind diese Projekte im Wesentlichen auf auf private Hacker
+begrenzt.
+
+Gruß
+Valerius
+-- 
+lay down all thought surrender to the void

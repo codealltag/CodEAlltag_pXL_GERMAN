@@ -1,0 +1,17 @@
+Schon, allerdings spricht man hier von einem Genbaum. Betrachtet
+werden in der Cladistik (Teilgebiet der Biologie, daß sich mit
+Stammbaumerstellung beschäftigt) fast ausschließlich höhere Taxa üb=
+er
+der Art. Und hier wirst Du es schwer haben, ein Taxon zu finde, das
+aus 2 verschiedenen Taxa entstanden ist (Bastarde=3DHybriden werden bei
+der Stammbaumrekonstruktion meist ausgeschlossen). Bei Sprachen
+verhält es sich hingegen anders. Aufgrund der Völkerwanderung und
+verschiedenster ethnischer Gruppen, die früher im (nord)europäischen
+Raum vorgeherrscht haben, ist z. B. das Deutsche oder das Englische
+ein Mix aus vielen Sprachen (Latein, "Germanisch", ...).
+
+Noch ein Hinweis: In der Informatik/Mathematik werden imho alle Bäume,
+in denen ein Knoten mehr als einen Vorfahren hat, als zyklisch
+bezeichnet. Daher meine Verwendung von Zyklizität - damit ist also
+nicht gemeint, daß Sprache A aus Sprache B entstanden ist und diese
+wiederum aus Sprache A.

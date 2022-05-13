@@ -1,0 +1,14 @@
+* Italo M. Zähl:
+
+
+Wobei der Server als Servierer, der einen Service leistet, nach
+herkömmlichen gesellschaftlichen Vorstellungen unten stehen müßte.
+Aber den Netzwerkern war vielleicht die Tatsache, daß es sich um
+einen wichtigeren Rechner handelte, eine teure, leistungsfähige
+Maschine, die einen Teil der essentiellen Infrastruktur darstellt,
+stärker im Bewußtsein. Wobei das heutzutage oft nicht mehr stimmt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Egon Asbrand, comp.lang.python

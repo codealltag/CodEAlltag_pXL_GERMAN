@@ -1,0 +1,33 @@
+Gründlichere? Besser begründete?
+
+
+Es ist ein Relativpronomen, und das sieht nicht aus wie ein 
+Interrogativpronomen, sondern wie der Artikel. In allen Genitivformen und 
+im Dativ Plural wird außerdem jeweils ein -en angehängt: des->dessen, 
+der->deren, den->denen. Wo allerdings "der" oder "den" nicht Genitiv oder 
+Dativ Plural ist, bleibt es bestehen.
+
+Hier: der Zähler *der* Brüche -> Brüche, *deren* Zähler
+      der Zähler *des* Bruchs -> der Bruch, *dessen* Zähler
+
+Außerdem steht "ist" als finite Verbform hinten im Relativsatz, und beim 
+Vergleich von zwei Größen ist eine die *größere*, nicht die *größte*.
+Also Formulierungsvorschlag:
+
+  Brüche, deren Zähler kleiner als der Nenner ist, heissen "echte
+  Brüche". Wenn der Zähler größer ist, heißen sie "unechte
+  Brüche". Das sind aber nur Bezeichnungen.
+
+Oder, weil "deren Zähler" nicht gut zu "der Nenner" passt:
+"Brüche, bei denen der Zähler kleiner als der Nenner ist".
+
+(Ich nehme an, es ist dir recht, korrigiert zu werden.)
+
+Ach so, deine Frage:
+
+Ja, "wessen" (also für eine Frage) wird eigentlich nur für Personen 
+verwendet, nicht für Sachen; für die bildet man Fragen mit "wovon".
+"dessen" als Relativpronomen wird aber auch für Sachen verwendet.
+
+-- 
+Thomas Rorbeck

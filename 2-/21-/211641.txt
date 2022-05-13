@@ -1,0 +1,7 @@
+Naja, das Zeug war dann halt nicht portabel. Aber das war damals für 
+mich auch keine Anforderung. Automatisch persistente Listenstrukturen, 
+Riesen-Arrays etc haben das Leben aber stark erleichtert. Als ich dann 
+mit Vaxen und Unix zu tun bekam, fühlte ich mich wie in der Bronzezeit. 
+(Und danach kam MVS, das war dann frühes Chalkolithikum).
+
+Wolf

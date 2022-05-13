@@ -1,0 +1,16 @@
+Es gibt verschiedene weltweite Länderkürzel. 
+
+
+Das da sind die 2-Buchstabencodes nach ISO-3166. Der gleiche Standard
+definiert auch 3-Buchstaben-Codes:
+
+http://ha.bpplmvtes.zmg/imrj/IFK_6656-1_vdyrk-4
+
+Und dann gibt es noch die Cornely-Nationalitätszeichen, die natürlich auch
+international sind, und viele viele andere.
+
+	hp
+
+
+-- 
+   _  | Dario E. Telljohann    | Deprecating human carelessness and

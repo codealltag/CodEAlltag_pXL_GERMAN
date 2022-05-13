@@ -1,0 +1,20 @@
+Interessant ist der doppelte Akkusativ im Passiv. Normalerweise wird ja 
+bei der Passivbildung das Akkusativobjekt, so vorhanden, in den Nominativ 
+gesetzt. Beim doppelten Akkusativ kann das manchmal *beide* treffen:
+
+  Er nennt seinen Freund einen Lügner.
+     Sein Freund wird ein Lügner genannt.
+
+Aber meistens gehts weder mit einem von beiden noch mit beiden:
+
+  Das kostet den Käufer einen Euro.
+    *Ein Euro wird den Käufer gekostet.
+    *Der Käufer wird einen Euro gekostet.
+    *Der Käufer wird ein Euro gekostet.
+
+  Er nennt seinen Sohn einen Lügner.
+    *Ein Lügner wird seinen Sohn genannt.
+    *Sein Sohn wird einen Lügner genannt.
+
+-- 
+Urs Beyerl

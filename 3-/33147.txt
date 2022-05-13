@@ -1,0 +1,6 @@
+Es gibt noch "flasheproms", also so Speicher, wie auf USB-Sticks, oder 
+Speicherkarten. Der kann festeingebaut sein (I-Pod) oder eben 
+entfernbar. Er ist anders als eine Festplatte, aber nicht flüchtig. Wie 
+soll man den dann nennen?
+
+Viele Grüße von Massimo

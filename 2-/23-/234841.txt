@@ -1,0 +1,8 @@
+Was Du siehst, hängt von Deinem Font ab. Was gepostet wurde (und was Du
+auch zitiert hast) ist aber eindeutig ein U+2015 EM DASH.
+
+	hp
+
+
+-- 
+   _  | Severin D. Aengenheister    | Fluch der elektronischen Textverarbeitung:

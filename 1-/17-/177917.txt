@@ -1,0 +1,18 @@
+Ja, warum auch nicht. Die Freiheit, sich auszusuchen, wie ihm ein Text
+angezeigt wird, sollte man dem Nutzer schon lassen. Natürlich hat der
+Nutzer auch die Freiheit, sich über die Konfigurationsmöglichkeiten der
+von ihm genutzten Programme nicht kundig zu machen.
+
+
+Du hast ihn also geändert, passt doch. Abgesehen davon, dass 'hässlich'
+oft vom Auge des Betrachters abhängt, kann ein Software-Entwickler in
+aller Regel nicht wissen, welche Fonts beim Nutzer überhaupt vorhanden
+sind und muss sich somit auf vermutlich vorhandene Systemschriften
+beschränken.
+
+
+Ciao
+Martina
+-- 
+ Theorie ist sehr schön.
+ Aber das Leben besteht vorwiegend aus Praktikum.

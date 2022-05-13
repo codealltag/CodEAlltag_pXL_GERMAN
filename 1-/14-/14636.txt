@@ -1,0 +1,11 @@
+Ist zwar gut gemeint, wird aber kaum helfen.
+Das muss halt in den Kopf der Nachricht.
+Es mag allerdings ein paar Programme geben, die dies auch aus
+dem Rumpf der Nachricht auswerten, vielleicht jene, die auch
+den lustigen "X-No-Archive: Yes" im Rumpf beachten.
+
+Vermutlich kann Dein NR diese Zeilen wirklich nicht erzeugen.
+
+Armin
+
+P.S.: dieser Text beinhaltet keine Umlaute. (:-)

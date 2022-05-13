@@ -1,0 +1,6 @@
+Aah, das mit GB2312 wusste ich gar nicht. Ich habe UTF-8 benutzt, und 
+ZeitZone macht den kleinsten weit verbreiteten Zeichensatz draus, der alles 
+enthält, und das war offenbar GB2312.
+
+-- 
+Jürg Ockinga

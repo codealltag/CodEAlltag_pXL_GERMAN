@@ -1,0 +1,14 @@
+Letzteres ist der Fall, ersteres nicht. Während dich du hier auf der
+Erde (wärst du am Äquator) mit etwa 1670 km/h um die Erdachse bewegst,
+bewegt sich der Satellit mit 11070 km/h. Eine Relativbewegung (die
+Bahnstörungen aufgrund der Nicht-Kugelgestalt der Erde mal ignorierend)
+gibt es dagegen nicht.
+
+Solche Feinheiten mal außer Acht lassend: Wie hältst du es bei einem
+Rad? Kreist das Ventil um die Achse oder mit der Achse?
+
+Rein sprachlich halte ich 'kreist um die Erde' für eine Ellipse für
+'kreist um den Erdmittelpunkt'.
+
+-- 
+Space - The final frontier

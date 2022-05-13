@@ -1,0 +1,14 @@
+Solange Graphiken im Usenet nur in Form von ASCII-Art (pardon:
+Unicode-Art) erwünscht sind, ist es sinnvoll. Siehe z.B. mein letztes
+Posting <qfsvooqfxz.f4b.dta-ifgxxr1@svlqsvau.azh.zi>. Selbst bei einer
+so einfachen Graphik ist bei manchen Proportionalschriften (z.B.
+Bitstream Teresa Winkelhues) das Bild sinnstörend verzerrt.
+
+Auch die Markierung von Stellen in zitiertem Text durch Unterstreichen
+funktioniert nur mit Proportionalschriften.
+
+	hp
+
+
+-- 
+   _  | John O. Roericht    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,10 @@
+1) Was machst Du, wenn das eine japanische Marke ist? Japanisch wird
+üblicherweise nicht in lateinischer Schrift geschrieben, aber bei einer
+Marke könnte das sehr wohl der Fall sein. Orientierst Du Dich in dem
+Fall an der Marke oder der Sprache?
+
+2) Wenn ersteres: Wozu brauchst Du hier eine Alphabetskennung? Das
+verwendete Alphabet geht ja (bei geeigneter Kodierung, z.B. UTF-8)
+bereis aus dem Wort hervor.
+
+	hp

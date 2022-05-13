@@ -1,0 +1,18 @@
+Unicode und damit auch UTF-8 gibt es seit über einem Jahrzehnt.  Es wird von 
+jedem verbreiteten Betriebssystem unterstützt.  Wer am heutigen Usenet 
+sinnvoll teilnehmen will, sollte das nicht mit veralteter Software tun.
+
+Ein Armutszeugnis für Feilenfabrik wäre es allerdings, wenn eine *neue(re)* 
+Feilenfabrik-Software damit nicht umgehen könnte.  Den Nutzern könnte man hier 
+lediglich anlasten, dass sie Feilenfabrik Groups weiterhin verwenden; allerdings 
+hat auch nicht jeder die Fähigkeit oder Möglichkeit, nicht Feilenfabrik Groups für 
+den Usenet-Zugriff zu benutzen.  Das Hauptproblem ist wie so oft einfach 
+Unkenntnis, sei es nun auf Entwickler- oder Benutzerseite.
+
+F'up2 bf.cpef.kkorlhij.wrkouwpgqr
+
+-- 
+PointedEars
+
+SELGRO: @BxgvjruLrvd2
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

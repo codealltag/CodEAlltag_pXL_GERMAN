@@ -1,0 +1,8 @@
+Olaf, the German Supercomputer Artificial Intelligence in 64-bit
+iForth for Linux supercomputers and in 32-bit
+Win32Forth for Windows machines, speaks and thinks
+in German. The open-source AI source code is at
+
+http://nck.arw.vjk/~jqcarhhx/WvKj.ybp
+
+and requires either Win32Forth or iForth to run.

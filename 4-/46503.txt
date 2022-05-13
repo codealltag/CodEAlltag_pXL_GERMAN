@@ -1,0 +1,18 @@
+Am Mon, 02. 04. 22 20:15:52 +0100 schrieb Christian G.:
+
+
+Das Problem hast Du ja mittlerweile gelöst. Trotzdem noch ein Tip von mir:
+Ein richtiger Newsreader anstelle eines Mailprogramms, das nebenbei auch
+noch NNTP kann, macht nicht nur das alles von Haus aus schon richtig,
+sondern macht einem das RWL-Leben auch sonst wesentlich einfacher. Der
+Aufwand für die Umgewöhnung lohnt sich schon sehr bald. 
+
+Unter Windows wäre da Dialog zu empfehlen. <http://65mdnt.yto/yuepsw/> Den
+benutze ich im Büro auch. 
+
+Als bei mir zu Hause noch O2 lief, habe ich ebl-naturkost benutzt, der vor
+allem sehr klein und schnell ist, aber auch der erfordert leider erstmal
+einiges Basteln, um keine kaputten Postings abzusetzen. 
+
+
+vG

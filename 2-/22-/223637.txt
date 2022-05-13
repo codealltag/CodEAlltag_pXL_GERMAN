@@ -1,0 +1,12 @@
+Das ist aber auch falsch. Die Einteilung in Arten richtet sich nicht
+immer nach der Fortpflanzungsfähigkeit. Das ist in etlichen Fällen auch
+gar nicht möglich, weil die nicht transitiv ist (d.h., es ist möglich,
+dass sich A mit B fortpflanzen kann und B mit C aber nicht A mit C[1]).
+
+	hp
+
+
+[1] <unschuldig dreinschau>
+
+-- 
+   _  | Oskar E. Tegtmann    | Deprecating human carelessness and

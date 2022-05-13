@@ -1,0 +1,15 @@
+So ganz weiß ich nicht, worauf du hinaus willst.
+Volker schrieb um:           12:40:45 +0200
+Da war es hier (Sauerfeld): 18:40:45 +0800
+Geantwortet habe ich um:       23:21:01 +0800 (bei dir also 17:21 +0200)
+
+Interessant ist also eher, warum /dein/ Thunderbird dir eine falsche
+Uhrzeit in der Einleitungszeile anzeigt. Dass er das /im Prinzip/
+richtig, siehst du hier in meiner Antwort.
+
+
+Ciao
+Trudi
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

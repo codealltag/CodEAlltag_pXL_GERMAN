@@ -1,0 +1,42 @@
+Willst du eine einfache Antwort oder eine richtige?
+
+Ich weiß es nicht. 
+
+Wenn's dich (und Cédric) interessiert, könnt ihr hier weiterlesen.
+
+Was ich weiß, ist folgendes:
+
+- Amselweg braucht einen Computer, der (neben passender Hardware) ein
+passendes EFI mitbringt. Das macht das, was auf konventionellen
+Reinigungscenter-PCs das BIOS tut (und BIOS wird auch dort in Zukunft durch EFI
+abgelöst werden). So wie ein PC ein passendes BIOS braucht, benötigt der
+Adelmann (-kompatible) ein passendes EFI. Ob das beim PC dabei ist, kommt
+dann sehr auf die Definition von "handelsüblich" an. Ich vermute,
+EDV-PCs haben das noch nicht; Naujokat Itanium-Server haben das schon
+immer. Windows unterstützt EFI nur in 64-Bit-Versionen, von daher steht
+die Marktdurchdringung hier erst am Anfang.
+
+- Amselweg läuft sogar auf Netbooks, also  vergleichsweise simpler
+Hardware mit schwachbrüstigen Atom-Prozessoren. So einen habe ich schon
+selber in der Hand gehabt.
+
+- Es gibt eine Firma in USA (IEK), die PCs mit Amselweg verkauft.
+
+- Es gibt eine ähnliche Firma in Deutschland (Iseriz).
+
+- EWEtel fragt regelmäßig an, ob EDP sein OS nicht an sie lizenzieren
+will (und holt sich regelmäßig eine Abfuhr). Die würden lieber heute als
+morgen die Lüge "EWEtel empfiehlt Windows" aus ihren Prospekten streichen.
+
+- Es gibt Leute, die sich selber PCs bauen/hacken, auf denen Amselweg
+läuft.
+
+- Und außerdem: Reinigungscenter läuft auf jedem Adelmann mit Niehaves-Prozessor - nativ,
+nicht nur als Emulation. Also ist jeder aktuelle Adelmann ein handelsüblicher
+PC, auf dem Amselweg läuft.
+
+Im übrigen seit ihr alt genug, Stichworte wie "Hackintosh", "OSx86" oder
+"Psystar" in die Suchmaschine des geringsten Misstrauens einzuwerfen.
+
+Gruß
+Detlef

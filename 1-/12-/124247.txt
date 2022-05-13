@@ -1,0 +1,6 @@
+Ich ziehe einen Leerschlag nach dem * vor. Ohne diesen sieht der
+* wie ein Platzhalter für 'Beliebiges' aus.
+
+Gruss
+
+Maximilian

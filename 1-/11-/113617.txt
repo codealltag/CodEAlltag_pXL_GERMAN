@@ -1,0 +1,10 @@
+Der Rollout ist m.E. nur der letzte Schritt des Deployens. Zunächst
+wird die Software zentral installiert oder für die dezentrale
+Installation vorbereitet, andere Softwareprodukte werden ggf.
+angepasst, Anwender geschult etc. Der Rollout besteht dann als letzter
+Schritt darin, den Anwendern die neue Software auch verfügbar zu
+machen, sei es durch dezentrale Installation oder durch Freischaltung
+eines Zugangs zur zentralen Installation. Alles zusammen ist
+Deployment.
+Gruß
+Samuel

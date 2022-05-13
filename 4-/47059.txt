@@ -1,0 +1,26 @@
+[Fup2 poster gesetzt, gegebenenfalls durch fup in eine Unix-Gruppe
+ersetzen - hier ist das doch ziemlich off-topic]
+
+
+Richtig. Und weil man eben i.A. nicht sicher sein kann, dass solche Zeichen
+nicht vorkommen, schreibt man seine Shellscripts eben immer so, dass sie
+damit zurechtkommen. Das erspart einem die "Ups, damit habe ich jetzt
+nicht gerechnet"-Momente.
+
+Wer oft Shellscripts schreibt (zumindest solche, die security-kritischen
+Umgebungen laufen), weiß das und hat daher keine Probleme mit Usern wie
+Valerian Nelhübel, die gerne kreativ bei der Benamsung ihrer Files sind. Wer
+nicht oft Shellscripts schreibt, dürfte eher Probleme bekommen. (Und
+dann gibt es natürlich noch Leute, die genau deswegen nicht oft
+Shell-Scripts schreiben und andere Sprachen bevorzugen, die weniger
+mühsam sind)
+
+
+Jeder Sysadmin ist für die Wahl seiner Waffen selbst verantwortlich.
+
+
+Dann muss aber zumindest das Shellscript, das die Dateien umbenennt, so
+geschrieben sein, dass es damit zurechtkommt und nicht versehentlich
+/etc/passwd umbenennt.
+
+	hp

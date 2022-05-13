@@ -1,0 +1,5 @@
+"Alle Zahlen < 0 sind negativ"
+
+Gruss
+
+Dominik

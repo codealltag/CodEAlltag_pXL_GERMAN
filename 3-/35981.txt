@@ -1,0 +1,55 @@
+Da ist das Kriterium entscheidend. Mal ein Beispiel:
+
+  Das Brett war glatt gehobelt.
+  Er war glatt rasiert.
+  Das Haus war weiß getüncht.
+  Die Bank war grün angestrichen.
+
+Sollten die letzten beiden Wörter jeweils zu einem zusammengeschrieben 
+werden? Man wird beim ersten Beispiel mehr Leute finden, die das bejahen 
+als beim zweiten, und schließlich beim letzten werden das ganz wenige 
+sein.
+
+Jetzt kann man eine Regelung "in sich logisch" nennen, wenn sie diese 
+Sätze genau gleich behandelt; schließlich ist die syntaktische und 
+semantische Funktion genau die gleiche, ob man nun ein Brett hobelt, bis 
+es glatt ist, oder eine Bank anstreicht, bis sie grün ist.
+
+Man kann aber auch auf Merkmale achten, die außerhalb des einen Satzes 
+liegen: ob beide Wörter ordentlich betont werden wie im letzten Satz oder 
+nur das Adverb/Adjektiv wie im ersten. Das weist darauf hin, ob das als 
+ein Wort oder als zwei Wörter empfunden wird und daher dann auch so 
+geschrieben, wie es empfunden wird. Mindestens das Empfinden, weniger die 
+Intonation, kann dabei auch davon abhängen, wie man es schon lange zu 
+lesen gewohnt ist.
+
+Die Reform hat versucht, möglichst Regeln zu schaffen, die in diesem Sinne 
+*in sich* logisch sind, auch wenn dabei Sprachempfinden und Intonation 
+nicht ausreichend brücksichtigt werden. Wo das zu krass war, haben sie mit 
+der letzten Änderung 2006 einen Rückzieher gemacht; dabei kam sogar das 
+Kriterium ein/zwei betonte Silben wieder zu Ehren, obwohl auch das sehr 
+stark Ansichtssache ist. Betont man die Folgenden gleich oder verschieden?
+
+  Er ist sitzen_geblieben. (Er hat das Klassenziel nicht erreicht.)
+  Er ist sitzen_geblieben. (Er ist nicht aufgestanden.)
+
+  Er ist stehen_geblieben. (Er stand, und das behielt er bei.)
+  Er ist stehen_geblieben. (Er ging, und hielt dann an.)
+
+  Er ist einkaufen_gegangen.
+  Er ist spazieren_gegangen.
+
+Die bisherige Schreibung stellte stärker auf das Empfinden und weniger auf 
+die Funktion der Wörter im Satz ab -- das ist oft besser, gelegentlich 
+aber auch *sehr* willkürlich. Dort, wo alle gleich empfinden, ist es 
+natürlich prima; dort wo nur die Regelschreiber empfand, kommen komische 
+Regeln heraus (Beispiele siehe http://we.drvudnvev.vca/gigl/Ahsys'civuy_Mfujum).
+
+Es ist also nicht eine der Regelungen stimmiger oder weniger stimmig als 
+die andere, sondern die Definition von Stimmigkeit hat sich ein wenig 
+gewandelt. Aber nur ein wenig -- die meisten Leute könnten wahrscheinlich 
+in den Zweifelsfällen nicht sagen, welche Version alt- und welche 
+neuschreiblich ist.
+
+-- 
+Kaspar Juelichs

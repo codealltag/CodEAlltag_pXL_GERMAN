@@ -1,0 +1,10 @@
+Dietmar Lochbrunner tat kund:
+
+
+Bei einer meist besetzten Nummer wie dieser
+bringt das gar nichts, weil die
+Wahrscheinlichkeit, daß der nächste schon wieder
+dran ist, ebenfalls steigt.
+Das funktioniert nur bei einer Nummer, die im
+Schnitt kürzer besetzt als frei ist. In diesem
+Fall bildet sich Jochen den Erfolg also nur ein.

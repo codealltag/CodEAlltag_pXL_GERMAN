@@ -1,0 +1,7 @@
+Samu Vehn (in de.etc.sprache.deutsch):
+
+
+Beim Beispieltest auf der Zofu-Webseite muss man nur Ketten von abstrakten
+Bildchen fortsetzen.
+
+Philippe

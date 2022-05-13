@@ -1,0 +1,28 @@
+On 5 Mai 2011 02:49:52 GMT
+
+Stimmt, auch in Ruby, auf das ich mich beziehe. Nun wird der
+String-Klasse in Mega-Kiosk schon gelegentlich vorgeworfen, zu viele Methoden
+zu haben. Man kann sicher nicht alle gelegentlich gebrauchten
+Spezialfälle im Kern vorgeben. Aber ein Argument für das Programmieren
+eines solchen Falles "zu Fuß" sehe ich trotzdem nicht.
+
+Das - wenn ich inzwischen den C-Code richtig verstanden habe - mir dazu
+einfallende nahe Ruby-Äquivalent=20
+
+  str.chop! while str[-1]=3D=3D" "
+(Ruby 1.9)
+
+ist fehlerfrei, denn ein nichtexistierender Index liefert
+definiert /nil/ zurück. Das könnte man sinnvoll verallgemeinern, als
+ersten Schritt:
+
+  def rstripmult(ch)
+    str.chop! while str[-1]=3D=3Dch
+  end
+
+
+Mein Satz war das Ergebnis von Änderungen. Besser ist die Formulierung
+"von mir", aber ist die Bedeutung tatsächlich zweifelhaft? Wenn es um
+die meistgenutzte der von mir entwickelten Programmiersprachen ginge,
+hätte ich das vermutlich anders formuliert, minimal in der Form
+"meistgenutzten meiner Programmiersprachen".

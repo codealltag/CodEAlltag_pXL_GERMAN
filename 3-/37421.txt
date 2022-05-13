@@ -1,0 +1,7 @@
+Geruchstechnisch ist unser Glasbrett natürlich optimal. Akustisch aber
+nochmal deutlich schwieriger als Plastik, besonders bei härterem
+Schneidgut.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Niclas Fogel, comp.lang.python

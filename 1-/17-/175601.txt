@@ -1,0 +1,12 @@
+Ich glaube, da liegt ein Missverständnis vor. Ein zentraler Punkt des
+Kommunikationsmodells ist meines Erachtens, dass Sender und Empfänger im
+Allgemeinen eben nicht über denselben Code verfügen, weil die Kodierung
+bzw. Dekodierung, wie Du selbst so schön schreibst,
+
+
+Auch die Behauptung
+
+
+kann ich nicht nachvollziehen.
+
+	hp

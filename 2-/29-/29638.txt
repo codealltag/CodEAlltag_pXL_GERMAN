@@ -1,0 +1,9 @@
+Ja, tut es, danke.
+
+
+Wie gesagt: Das Usenet ist noch nicht auf utf-8 (als Default)
+umgestiegen, obwohl ich es mir wünschen würde. Und die Interpretation
+undeklarierter Beiträge als utf-8 ist momentan noch nicht sinnvoll.
+
+-- 
+ASCII to ASCII, DOS to DOS

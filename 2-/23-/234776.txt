@@ -1,0 +1,24 @@
+Hallo,
+
+In der DIN 5008 heißt es bezüglich des "..." als Auslassungszeichen:
+
+"Mit je einem Leerzeichen davor und danach stehen drei Punkte für
+ausgelassene Textteile. Wenn das Auslassungszeichen jedoch nur einen
+Teil eines Wortes ersetzt, wird kein Leerraum gesetzt. Es sitzt immer
+zwischen Leerzeichen, wenn es Wörter oder Wortgruppen ersetzt."
+
+So weit, so klar.
+
+Aber nun gibt es m. E. Fälle, in denen das "..." kein Auslassungszeichen
+ist, sondern eher ein Stilmittel, das beispielsweise Nachdenklichkeit
+ausdrücken soll, wie z. B. in "Wer weiß...". Dieser Fall wird m. E. mit
+der obigen Regelung der DIN nicht abgedeckt. Und nun meine Frage:
+Schreibt man "...", wenn es als ein solches Stilmittel verwendet wird,
+ohne eine konkrete Auslassung zu signalisieren, mit oder ohne
+Leerzeichen davor?
+
+Größe,
+
+Serge
+-- 
+http://edm.icbdtlgkiyahwsozng-tfzebhbz.ruy

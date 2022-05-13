@@ -1,0 +1,15 @@
+10.000 =3D 10,000 =3D 10
+
+10 000 =3D 10000 =3D 100 =D7 100
+
+
+2=A0kg =D7 5 =80/kg =3D 10=A0=80
+
+geht einfach besser, wenn alle Einheitenzeichen (kg, =80) hinter
+dem Zahlenwert stehen.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

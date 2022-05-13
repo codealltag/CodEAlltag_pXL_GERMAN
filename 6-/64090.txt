@@ -1,0 +1,18 @@
+Du liest offensichtlich andere Bücher als ich. Meiner Erfahrung nach
+sind Minuskelziffern in den letzten Jahrzehnten fast vollständig aus dem
+Druck verschwunden, insbesondere aus Publikationen, in denen Tabellen
+vorkommen. Ich nehme an, dass das mit das mit der Verbreitung von
+digitalen Fonts im Druck zusammenhängt: Typischerweise gibt es nur einen
+Code-Point für jede Ziffer[1], und der wird für die (universeller
+einsetzbare) Tabellenziffer verwendet.
+
+
+Ich stimme da mit der Ekug überein.
+
+	hp
+
+[1] Ja, ich ich weiß von U+F643...U+F64C und U+1D7F6...U+1D7FF - aber
+    das eine ist private use area, also für den Datenaustausch
+    ungeeignet, und das zweite is ungünstig, weil das den Datenaustausch
+    mit Applikationen, die mit den Daten auch rechnen wollen erschwert -
+    da ist alles außer U+0030...U+0734 vollkommen unüblich.

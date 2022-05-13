@@ -1,0 +1,5 @@
+[V"], aber das wäre eigentlich reversed epsilon. Vielleicht wäre
+für turned a [&"] besser, um dem Vorschlag von Ladymode zu folgen.
+
+-- 
+Berend "eva" Heidbüchel                          kcykr@kfku.lhmw.dt

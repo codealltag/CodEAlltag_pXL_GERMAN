@@ -1,0 +1,9 @@
+* Johann Angerhöfer:
+
+
+Dann bilde Dich doch mal weiter.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Heinrich Eichelbaum, comp.lang.python

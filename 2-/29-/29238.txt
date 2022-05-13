@@ -1,0 +1,5 @@
+Das waren wohl eher Engländer, die das festgelegt haben.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Valerius Uttenweiler, comp.lang.python

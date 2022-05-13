@@ -1,0 +1,16 @@
+* Othmar Nürmberger <tvecih.emw@c-idnyil.mf>:
+
+Mir scheint die Definition von Obst ohnehin etwas unscharf. In der
+Schweiz wird umgangssprachlich darunter nur Kernobst und Steinobst
+verstanden, in D auch Südfrüchte und Beeren (es ist leicht möglich,
+dass Handel und Behörden schärfere Definitionen haben, aber darum gehts
+hier wohl nicht). Deshalb heisst das, was in D Obstsalat heisst, hier
+Fruchtsalat.
+
+Nach DWB war die Bedeutung ursprünglich noch weiter:
+
+  nicht nur obst sondern auch legumina, oluscula, weshalb es Willibald 72, 5
+  in of-t (t von tan essen) auflöst 'alles was man als zukost zu
+  fleisch und brod genieszt.'
+
+ - Jochen

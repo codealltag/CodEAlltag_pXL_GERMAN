@@ -1,0 +1,7 @@
+Programmierer sind oft der beruflich bedingten Meinung, Worte hätten 
+keine Bedeutung, da man jedes Wort ja auch durch ein festes anderes 
+ersetzen kann, ohne dass der Programmablauf wesentlich darunter leidet.
+
+-- 
+
+Georges Gottschalk

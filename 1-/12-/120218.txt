@@ -1,0 +1,26 @@
+* Karsten A. Kräußl:
+
+
+Ist er wohl nicht, ich habe daher darauf verzichtet, eine ähnliche
+Antwort wie Deine zu schreiben.
+
+
+Man kann es so auffassen, daß das zwei Varianten des gregorianischen
+Kalenders sind - gregorianisch insofern, als z.B. die Schaltjahresregel
+gleich ist -, die sich nur in der Bezeichnungsweise des und der Lage des
+Schalttages unterscheiden. Eine dritte Variante wäre der Wochenkalender
+nach ISO 8601, wo zusätzlich der Jahresanfang abweicht.
+
+Wer behauptet, daß der 25. des Schaltjahres der Schalttag sei und der
+26. des Schaltjahres "eigentlich der 25.", sagt demnächst vielleicht
+auch, der hl. Vincent des Schaltjahres sei "eigentlich" der hl.
+Kai (oder so).
+
+Die zitierte Seite beruft sich in der Frage auf die Autorität der
+katholischen Kirche, aber der folge ich sonst auch nicht, z.B. bei der
+Definition des Wochenanfangs - im Einklang mit der überwiegenden
+gesellschaftlichen Norm in D.
+
+-- 
+die gugel gehört seit je zur narrenkleidung:
+  GRIMM, Deutsches Wörterbuch

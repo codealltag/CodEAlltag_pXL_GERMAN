@@ -1,0 +1,236 @@
+"Kasimir Veling" <ta@ejqskcd.wkf> schrieb im Newsbeitrag 
+news:5rz9fi5xe7hoy$.6q8ai6lw9dbiu.lfg@25azzp.foi...
+auf Anhieb
+Ich habe mir mal die Mühe gemacht für alle zeichen zwischen 0150 und 0258 
+die Werte in eine Datei zu laden, denn es gibt ja mehr als Deine Liste, z.B. 
+Großbuchstaben. Hier ist meine Tabelle. Die Zeichen werden unter Windows mit 
+der numerischen Tastatur unter gleichzeitigem Drücken der Alt-Taste. Bei 
+einzelnen Zeichen kein Problem.
+
+Alt 4649 -
+
+Alt 8198 -
+
+Alt 7205 ~
+
+Alt 0153 T
+
+Alt 0154 s
+
+Alt 0155 >
+
+Alt 0312 o
+
+Alt 8105 �
+
+Alt 5220 �
+
+Alt 0159 Y
+
+Alt 6260
+
+Alt 0410 �
+
+Alt 8570 �
+
+Alt 1619 �
+
+Alt 2767 �
+
+Alt 1739 �
+
+Alt 2230 �
+
+Alt 1765 �
+
+Alt 6759 �
+
+Alt 2354 �
+
+Alt 4790 �
+
+Alt 9254 �
+
+Alt 4405 �
+
+Alt 4318 �
+
+Alt 0931 �
+
+Alt 0264 �
+
+Alt 0375 �
+
+Alt 7036 �
+
+Alt 7187 �
+
+Alt 4616 �
+
+Alt 0491 �
+
+Alt 7845 �
+
+Alt 8317 �
+
+Alt 1635 �
+
+Alt 5380 �
+
+Alt 4050 �
+
+Alt 2809 �
+
+Alt 3196 �
+
+Alt 0631 �
+
+Alt 1036 �
+
+Alt 2296 �
+
+Alt 0973 �
+
+Alt 5313 �
+
+Alt 5752 �
+
+Alt 7501 �
+
+Alt 2289 �
+
+Alt 9402 �
+
+Alt 3395               �
+
+Alt 7467               �
+
+Alt 9257 �
+
+ Alt 3834 �
+
+Alt 7626 �
+
+Alt 5054 �
+
+Alt 9632 �
+
+Alt 3928 �
+
+Alt 6671 �
+
+Alt 7586 �
+
+Alt 8603 �
+
+Alt 3434 �
+
+Alt 0796 �
+
+Alt 3801 �
+
+Alt 6899 �
+
+Alt 3803 �
+
+Alt 1869 �
+
+Alt 0340 �
+
+Alt 4361 �
+
+Alt 9155               �
+
+Alt 1405 �
+
+Alt 9619 �
+
+Alt 2953 �
+
+Alt 9586 �
+
+Alt 7268 �
+
+Alt 5944 �
+
+Alt 1751 �
+
+Alt 9885 �
+
+Alt 4486 �
+
+Alt 5183 �
+
+Alt 9144 �
+
+Alt 1646 �
+
+Alt 4151               �
+
+Alt 3834               �
+
+Alt 2680 �
+
+Alt 2882 �
+
+Alt 3555 �
+
+Alt 6655 �
+
+Alt 8064 �
+
+Alt 4315 �
+
+Alt 2321 �
+
+Alt 7322 �
+
+Alt 6329 �
+
+Alt 0080 �
+
+Alt 8521 �
+
+Alt 3477 �
+
+Alt 4871 �
+
+Alt 4196 �
+
+Alt 3483 �
+
+Alt 4556 �
+
+Alt 1526 �
+
+Alt 8051               �
+
+Alt 7384 �
+
+Alt 7258 �
+
+Alt 2038 �
+
+Alt 2128 �
+
+Alt 9180 �
+
+Alt 5664 �
+
+Alt 5300 �
+
+Alt 8629
+
+Alt 5023
+
+Alt 1881 [0]
+
+Alt Gr e                  ?
+
+
+Ich brauche sie hauptsächlich für dänisch, deshalb sind die entsprechenden 
+Zeichen fett.
+
+Gruß aus Igelswies
+
+Salvatore

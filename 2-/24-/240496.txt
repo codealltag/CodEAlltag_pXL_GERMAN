@@ -1,0 +1,5 @@
+Interessantes Beispiel. Das ist mal ein Wort, bei dem die unmarkierte Form 
+semantisch nicht generisch ist. Gibts also auch.
+
+-- 
+Daniel Lohß

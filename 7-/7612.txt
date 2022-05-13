@@ -1,0 +1,16 @@
+Jetzt aber!
+Vor dem Erfolg haben die Götter bekanntlich den Schweiss verlangt.
+
+Quelltext schreiben können, bringt Dir immer den korrekteren Code,
+zumal, wenn Du dann eine konforme Validierung vornimmst.
+Aber Du hast Recht, wer braucht sowas schon.
+
+Da Du Nvu einsetzt, um bestehende Seiten zu verändern,
+wundern Dich gewisse 'merkwürdige Dinge'.
+Wenn Dein Editor schreien könnt', wäre es ganz hybsch laut bei Euch.
+Genau *dafür* passt er nämlich nicht wirklich gut.
+
+DANIELLE
+-- 
+"Wissen ist Macht - nichts wissen, macht auch nichts."
+(Thorsten Tjaarda und der Grosse Manitu)

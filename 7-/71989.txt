@@ -1,0 +1,7 @@
+Nö: fak(n) = prod(i, i = 1..n); die Fakultätsfunktion ist also nicht
+rekursiv definiert, auch wenn man eine solche zu ihrer Berechnung
+einsetzen kann.  Die Fibonacc(h)i-Reihe dagegen ist rekursiv definiert,
+auch wenn man keine Rekursion zu ihrer Berechnung braucht.
+
+
+cornelius

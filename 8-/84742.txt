@@ -1,0 +1,5 @@
+Durch allgemeine Beachtung derselben, insbesondere von RFCs
+der Kategorie "STD".
+
+
+mark

@@ -1,0 +1,8 @@
+Es war mehr eine rhetorische Frage. Man kann lange darüber nachdenken,
+wie Repository, Branch, Tag, Merge, usw. einzudeutschen sind, aber
+Leute, die in der Praxis damit arbeiten, entlehnen einfach die
+englischen Begriffe, fertig. Wenn ich von einer "Marke" rede, ist
+das unverständlich. Aber dabei kommt es eben zu dem Homograf "Tag".
+
+-- 
+Luciano "silke" Unterkircher                          gpczh@fjvk.emwg.dl

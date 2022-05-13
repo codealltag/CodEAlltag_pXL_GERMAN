@@ -1,0 +1,11 @@
+Das ist nochmal die Aussage in Kurzform, von der entschieden werden 
+soll, ob "das stimmen kann".
+
+
+Wäre das nicht eher
+
+   *Wenn* w0 und w1, gilt w2?
+
+-- 
+gut, dann werde ich mir das morgen mal besorgen...
+(...Dialog aus m.p.d.g.w.a.)

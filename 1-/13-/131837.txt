@@ -1,0 +1,11 @@
+* Niels Ringeisen:
+
+
+N, braucht ein Skript[1]. ROT-13 ist allerdings eingebaut, im Gegensatz
+zu Claws-Mail, den Du gerade am benutzen bist.
+
+[1] Charles-Mirror-Hex-Rot13-Morse-Base64-Foenigen-Translator
+
+-- 
+gugelgesang,  m., m�nchsgesang, pejorativ
+  GRIMM, Deutsches Wörterbuch

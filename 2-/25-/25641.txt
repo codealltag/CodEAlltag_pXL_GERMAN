@@ -1,0 +1,12 @@
+Nee, Brunos Dialog macht das eh richtig. Und ich finde es nicht
+wurscht, ich finde das oben nur schwer lesbar. 
+
+Ich bin damals, ca. 2000, auf spieltreff umgestiegen, weil der mit Zeichensätzen
+besser klarkam als Netscape. Man kann GEWANDT einiges nachsagen, aber nicht,
+daß es kein UTF-8 könnte.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out their
+organ. Unfortunately for complex theological reasons they would only
+give us the white keys, so we can only program in C'.
+  Siebelt Steuber in sci.lang

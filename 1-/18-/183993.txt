@@ -1,0 +1,35 @@
+Schon klar. Die einzige Sprache, bei der mir das begegnet ist, 
+Pitjantjatjara, hat das noch lustiger: Pronomen haben Nominativ und 
+Akkusativ, Substantive haben Nominativ (oft in dem Zusammenhang Absolutiv 
+genannt) und Ergativ, z.B.
+
+  Nyuntu    tjitji     nyanganyi.
+  Du (Nom)  Kind (Nom) siehst.
+
+Beides die Grundform.
+
+  Tjitjingku  nyuntunya   nyanganyi.
+  Kind (Erg)  dich (Akk)  sieht.
+
+Beides die markierte Form.
+
+
+Deswegen die Überlegungen im zitierten älteren Beitrag mit dem Schluss, 
+dass das Wort "transitiv" einen sehr eingeschränkten Bereich von 
+sinnvollen Anwendungen hat.
+
+Auf der anderen Seite lässt sich auch im obigen Beispiel locker sagen, 
+dass das Verb "nyanganyi" (sehen) transitiv ist, weil es 
+Pronomen-Akkusative und Substantiv-Ergative zulässt, während etwa
+"nyinanyi" (sitzen) intransitiv ist, weil es das nicht tut, z.B.
+
+  Nyuntu    nyinanyi.
+  Du (Nom)  sitzt.
+
+  Tjitji      nyinanyi.
+  Kind (Nom)  sitzt.
+
+Immer die Grundform, Akkusative und Ergative gibts da nicht.
+
+-- 
+Jörn Jaehnke

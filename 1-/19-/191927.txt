@@ -1,0 +1,125 @@
+Stimmt alles (wenn ich keinen Fehler übersehen habe)
+
+
+Im Plural wird die Unbestimmtheit durch Weglassen des Artikels 
+ausgedrückt:
+
+  Fredy sieht heute Frauen seiner Träume.
+  Fredy schenkt Kindern ein Buch (oder Bücher)."
+
+Nur der Genitiv geht so nicht; man muss sich mit "von" behelfen:
+
+  Die Haare von Frauen sind schön.
+
+Hat man aber ein weiteres Wort, das den Genitiv ausdrückt, gehts auch ohne
+"von":
+
+  Die Haare junger Frauen sind schön.
+
+
+Es geht beides, aber meistens klingt die Form mit -e altmodisch. In festen 
+Wendungen ("bei Lichte betrachtet", "zu Tage treten", "in diesem Sinne") 
+haben sich die alten Formen mit -e länger gehalten, sterben aber auch da 
+langsam aus.
+
+Eine ähnliche Frage gibt es beim Genitiv mit -s oder -es. Da ist die
+einfachere Aussprache ein guter Grund, -es statt -s anzuhängen:
+
+ - Alle deutschen Wörter mit -s, -ss, -ß, -z, -tz, -x am Ende und Fremdwörter,
+   wo dieser Buchstabe nicht zu einer unbetonten Endung gehört, bekommen
+   immer -es im Genitiv: des Gases, des Rosses, des Kreuzes, des Schatzes, des
+   Hindernisses, des Kolosses, des Kompromisses.
+
+ - Andere Fremdwörter mit -s, -ss, -ß, -z, -tz, -x am Ende bekommen gar kein
+   Genitiv-s: des Status, des Mythos, des Index.
+
+ - Nach langem Vokal und weichem Plosiv (also b, d, g) sowie nach zwei
+   Konsonanten, von denen der zweite sch, t oder d ist, klingt die Form mit
+   -es meistens besser: des Siebes, des Rades, des Tages, des Barsches, des
+   Mastes, des Hemdes. Die Form mit -s allein ist aber nicht falsch.
+
+ - In den übrigen Fällen gibts beide Formen; die mit -s allein wird häufiger
+   benutzt.
+
+
+Wieso ein Akkusativ? (Hätte das hier Genitiv heißen sollen?) Mit "wem" wird
+nach dem Dativ gefragt.
+
+
+Die Frage und der Satz müssen zusammenpassen, die Bedeutung ist *nicht*
+ausschlaggebend. Beispiel:
+
+  Der Lehrer lobt Fredy.
+  Fredy wird vom Lehrer gelobt.
+
+Die Bedeutung ist genau gleich¹), aber die Frage nach Fredy ist im ersten Satz
+"Wen lobt der Lehrer?" und im anderen "Wer wird vom Lehrer gelobt?" Also ist
+Fredy im ersten Satz im Akkusativ, im zweiten im Nominativ, obwohl seine Rolle
+in dem, was passiert, dieselbe ist.
+
+¹) *Ganz genau gleich* ist die Bedeutung nicht: Der erste Satz beantwortet die
+   Frage "Was macht der Lehrer?", der zweite dagegen die Frage "Was geschieht
+   mit Fredy?"
+
+Also nochmal: auf die Bedeutung kommts nicht an, sondern auf den Satz, und man
+muss die Frage ganz genau gleich bauen wie den Satz -- gleiche Bedeutung
+reicht nicht.
+
+  Das ist Fabrices Buch. -- Frage: Wessen Buch ist das?
+  Das Buch gehört Fabrice. -- Frage: Wem gehört das Buch?
+
+Anderer Satz, andere Frage, obwohl die Bedeutung dieselbe ist. Also ist Fabrice
+im ersten Satz im Genitiv und im zweiten im Dativ. 
+
+
+Um rauszukriegen, welcher Fall vorliegt, fragt man am besten "wen oder was",
+schon deswegen, weil "was" auch Nominativ sein kann.
+
+Wenn man die Frage im wirklichen Leben stellt, fragt man "wen", wenn schon
+bekannt ist, dass Papa Personen sieht, und "was", wenn er so in die Gegend
+schaut und vielleicht Personen, vielleicht etwas anderes sieht.
+
+
+Sachen gehen nicht zur Schule, also "wer".
+
+
+Ja.
+
+
+Kommt drauf an, ob man schon weiß, ob es um Personen und Sachen geht. Mal ein
+blödes Beispiel:
+
+  Fabienne sitzt neben einem schönen alten Schrank. Fabrice sitzt ihr gegenüber und
+  ruft begeistert aus "wie schön!". Fabienne fragt "Wer ist schön, ich oder der
+  Schrank?" Sie hätte wohl aus "was" fragen können.
+
+Aber meist weiß man, ob es um Personen oder Sachen geht.
+
+Gehts aber um Kasus, immer "wer oder was" oder "wen oder was". Beispiel:
+
+  Das Bett wird gemacht? -- Frage: Was wird gemacht?
+
+Und ist das jetzt Nominativ oder Akkusativ? "was" kann beides sein. Also
+besser so:
+
+  Das Bett wird gemacht? -- Frage: Wer oder was wird gemacht?
+
+wogegen "Wen oder was wird gemacht?" ganz falsch klingt. Und so weiß man, dass
+es Nominativ ist.
+
+
+Mit anderen Fragen als "wer oder was", "wessen", "wem" oder "wen oder was",
+zum Beispiel mit "wo", "wann", "warum", "wohin", fragt man nicht nach
+einzelnen Substantiven oder Pronomen, sondern nach Adverbialen, also
+Ausdrücken, die Umstände beschreiben. Die können Substantive *enthalten*, die
+dann einen Kasus haben:
+
+  Ich gehe in die Küche.
+
+Mit der Frage "Wohin gehe ich?" bekomme ich den Kasus von "Küche" nicht
+heraus, sondern nur mit der Frage "In wen oder was gehe ich?" Solche Fragen
+taugen dann nicht als richtige Fragen im täglichen Leben; sie taugen nur dazu,
+den Kasus zu ermitteln.
+
+-- 
+Klaus Scharninghausen

@@ -1,0 +1,11 @@
+Daraus schließe ich, dass dein DNS-Server weiß, wer www.wcfziwk-qayf.co 
+ist. Meiner weiß es nicht:
+
+Server:         03.554.70.52
+Address:        03.554.70.52#44
+
+** server can't find www.wcfziwk-qayf.co: NXDOMAIN
+
+
+-- 
+Olaf Fretzschner

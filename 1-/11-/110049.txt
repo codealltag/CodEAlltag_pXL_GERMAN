@@ -1,0 +1,2 @@
+Wenn es unten lang und oben grün ist, ist es
+entweder ein Baum oder ein Krokodil.

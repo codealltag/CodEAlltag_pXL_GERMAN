@@ -1,0 +1,4 @@
+Ja das war leider ein Typo - "jedes Intervall", gemeint ist natürlich:  
+
+Jedes echte Intervall des Kontinuums ist gleichmächtig mit der Mächtigkeit 
+des ganzen Kontinuums.

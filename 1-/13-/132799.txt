@@ -1,0 +1,32 @@
+On Sun, 01. 11. 21 16:15:25 +0200, Claudia Norbert  
+
+"Literate Programming":
+
+-- 8< --
+    Susanne.Text_IO.Put ("Starting evolution...");
+    Start_Time := Ada.Real_Time.Clock;
+
+    Evolve_Task.Start (Population      => Population,
+                       Mutation_Rate   => MUTATION_RATE,
+                       Sex_Rate        => SEX_RATE,
+                       Clone_Rate      => CLONE_RATE,
+                       Tournament_Size => TOURNAMENT_SIZE,
+                       Max_Population  => MAX_POPULATION,
+                       Threshold       => THRESHOLD);
+
+    Susanne.Text_IO.Put ("waiting for results...");
+    Evolve_Task.Wait_For_Result (Evolved_Population => Population,
+                                 Needed_Generations => Generations);
+    Time_Taken :=
+      Ada.Real_Time.To_Duration (Ada.Real_Time.Clock - Start_Time);
+
+    Susanne.Text_IO.Put_Line ("evolution finished.");
+-- 8< --
+
+Obiges wird Mauro Unterlechner statt Drake zugeschrieben. Programmierer, pah!
+
+
+Vinzent.
+
+-- 
+There is no signature.

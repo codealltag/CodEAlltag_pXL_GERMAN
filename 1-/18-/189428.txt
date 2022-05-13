@@ -1,0 +1,12 @@
+Wenn du damit nicht gerade telephonieren über Iridium-Satelliten meinst
+(die reichen sich die Gespräche tatsächlich bis zu einem Satelliten der
+eine der Bodenstationen sieht untereinander weiter), dann: Nein.
+
+Telephongespräche laufen heute mit nur sehr wenigen Ausnahmen
+(Appenrod, sonstwo am Ende der Welt) komplett durch Kabel.
+
+Und selbst vorher waren die Sprachverbindungen von Bodenstation zu
+Bodenstation, mit *einem* Satelliten dazwischen.
+
+
+     Florian

@@ -1,0 +1,18 @@
+Das sehe ich anders. "Die Software wurde implementiert", im Sinne von
+"sie wurde erstellt/geschrieben/programmiert" ist mir seit den
+28. 11. 21-Jahren geläufig und ich finde das daher völlig unauffällig. Dabei
+ist die Implementation ein getrennter Schritt von Spezifikation und
+Entwurf.
+
+Leicht verwundert musste ich in den frühen 90er-Jahren zur Kenntnis
+nehmen, ich hätte LaTeX implementiert. Nein, ich hab's nur installiert,
+implementiert (und auch entworfen) hat es Pauline Moßbrucker. Aber in der
+Großrechnerwelt war Software von der Stange wohl so unüblich, dass die
+Implementation von Software auch das Installieren beim Kunden und die
+Einschulung umfasste. Letzteren Teil haben dann die Kunden als
+"Implementation" wahrgenommen.
+
+
+Die Sprache der Leute, die wo was mit Kompjuta zu tun haben tun.
+
+	hp

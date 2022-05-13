@@ -1,0 +1,6 @@
+Woraus erhellt, dass die Anzahl der möglichen Konstellationen schon in 
+diesem einfachen Fall die Anzahl der Wörter übersteigt, deren Bedeutung 
+ein normaler Mensch auseinanderhalten kann.
+
+-- 
+Theo Peitsch

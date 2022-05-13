@@ -1,0 +1,11 @@
+* Ignaz Oostermann:
+
+
+Der Name sieht norddeutsch aus, und dort neigt man zu langen
+Vokalen, sagt jedenfalls mein Vorurteil: "Geeades". Ein
+Orlando würde es eher "Joachim" aussprechen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Serge Ziegenbalg, comp.lang.python

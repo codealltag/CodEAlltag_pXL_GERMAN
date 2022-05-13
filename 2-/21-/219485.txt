@@ -1,0 +1,25 @@
+Das merken wir uns mal.
+
+
+Moment mal!
+
+Du sagst also, daß ein Objektbezug nicht möglich sei? Das
+hieße ja dann, daß eine Umformung solcher Konstruktionen
+zwischen Aktiv und Passiv unmöglich wäre, weil der Bezug des
+prädikativen Attributs nicht hinübergerettet werden könnte.
+
+_Gegen_ einen angeblich unmöglichen Objektbezug spricht aber
+beispielsweise ein unauffälliger Satz wie "Er bestellte sein
+Schnitzel paniert.". Und auch Sprachwitze wie "Sie kennt den
+Gesuchten nur flüchtig." könnten ohne denkbaren Objektbezug
+gar nicht funktionieren.
+
+Und wenn man mal davon absieht, daß der ganze getrennte
+"wach geküßt"-Kram ohnehin völlig konstruiert ist, spricht
+_gegen_ den Prinzessinnen-Bezug im Passiv meines Erachtens
+eben, daß der Bezug auf den Prinzen im Aktiv völlig
+eindeutig ist, auch weil jeder Prinzessinnen-Bezug
+anders konstruiert würde: "die wache Prinzessin"
+oder eben "wachgeküßt".
+
+Somit muß sich "wach" auf den Prinzen beziehen.

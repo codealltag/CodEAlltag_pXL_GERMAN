@@ -1,0 +1,39 @@
+Nein, Rentner war ich das Letzte mal vor zehn Jahren.
+
+Aber ich will Dich mal nicht l=C3=A4nger auf die Folter spannen, die Auf=
+l=C3=B6sung
+lautet: Geschieden. Gl=C3=BCckwunschadresse auf Anfrage. ;)
+
+
+Zugegeben, ich habe die allwissende M=C3=BCllhalde sehr frei interpretie=
+rt:
+
+rdnung
+berbrachte an
+=BChrung
+
+Die "Design Authority" ist das ausf=C3=BChrende Organ und sorgt f=C3=BCr=
+ die Einhaltung
+der Ordnung ("Design") und der Gesetze ("Design Rules"). Unbotsame Entwi=
+ckler
+werden sp=C3=A4testens im Code-Review ermahnt.
+
+Na gut, da=C3=9F mit der Ladung vor den Rektor und die Ausf=C3=BChrung d=
+er Strafen
+pa=C3=9Ft nicht ganz. Obwohl ich mir letzteres manchmal w=C3=BCnsche. He=
+he. :)
+
+anchen
+
+Aber hier pa=C3=9Ft das Gleichnis wieder: Wir verderben den Programmiere=
+rn den
+Spa=C3=9F mit dynamischem Speicher, Zeigertypen und dem Querfeldein-Zugr=
+iff auf
+beliebige Objekte der Design-Hierarchie. ;)
+
+
+Vinzent.
+
+-- =
+
+Mail address temporary, use domain to filter.

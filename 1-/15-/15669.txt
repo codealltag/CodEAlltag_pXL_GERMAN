@@ -1,0 +1,16 @@
+Ich bin nicht sicher, ob sich die Unterscheidung phonemisch/phonetisch in 
+diesem Zusammenhang durchhalten lässt. Es gibt gute Gründe dafür, [x] und 
+[C] für Allophone desselben Phonems zu halten; konsequenterweise sollte 
+dann zwischen den Schrägstrichen auch nur eines von beiden in allen 
+Kontexten stehen.
+
+In der Praxis verwendet man gröbere und feinere phonetische Schreibungen. 
+Jedes Wörterbuch für den Hausgebrauch wird zwischen [x] und [C] 
+unterscheiden, und kaum eines zwischen den [k]-Varianten in "Kind" und 
+"Kugel" oder den deutlich unterschiedenen [t]-Variantenvon "Tat" und 
+"Staat". Dieses Wörterbuch-Niveau einer gröberen phonetischen 
+Schreibungen, aber ohne Zusammenwerfen deutlich unterschiedener Laute 
+strebe ich an. Ist das nun phonemisch oder phonetisch?
+
+-- 
+Leo Desch

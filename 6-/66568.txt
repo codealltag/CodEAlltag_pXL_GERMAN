@@ -1,0 +1,6 @@
+Ist es nicht eher so, dass die Cancel-Message brav weitergeleitet wird, 
+aber auf den Newsservern ohne Eirkung bleibt? In diesem Falle kommts nur 
+auf den letzten in der Kette an. 
+
+-- 
+Luciano Feyl

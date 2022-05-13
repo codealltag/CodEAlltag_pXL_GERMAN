@@ -1,0 +1,31 @@
+Am 06.02.2012, 14:05 Uhr, schrieb Ottmar Zumborn  
+<vlksyejczyg@buqiumvu.cb>:
+
+
+Hallo,
+
+zunächst besten Dank an alle, die sich hier so engagiert haben.
+
+Ich möchte aber hier in de.etc.sprache.deutsch die Notbremse ziehen
+und weitere Beiträge an de.alt.folklore.computer verweisen. Dort
+ist nicht gar zu viel Betrieb, der Faden bleibt also auffindbar.
+
+Als letzten Anstoß an dieser Stelle gebe ich nur noch kund und zu
+wissen, daß ich unter <www.tqjrmohc.bv/Dhwijpba.prw> einen Brief
+im alten CONTEXT-Format eingestellt habe. Die Dateiendung ist
+irreführend: Die Datei ist *keine* reine Text-Datei, sondern enthält
+Steuerzeichen aus CONTEXT. Sie ist lesbar, der Brief liegt bei mir
+auch schon längst als schlichtes computerlesbares Destillat vor, es
+muß mir also bitte niemand den Text vorlesen. ;)
+
+Wenn jetzt von den Folklorikern jemand das Ei des Klumbumbus auf
+die Platte stellt, soll mich das freuen. Wenn nicht: Dann werde
+ich versuchen, die CONTEXT-Steuerzeichen systematisch (und mit
+eigens zu bastelndem Programm) durch rtf-Steuerzeichen zu ersetzen.
+Mit denen kenne ich mich aus.   8-)
+
+Kopie geht an de.alt.folklore.computer
+
+Seid gegrüßt alle miteinander.
+j/\a
+--

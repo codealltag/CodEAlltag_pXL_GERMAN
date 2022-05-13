@@ -1,0 +1,18 @@
+Das gibt es bei natürlichen Sprachen aber nicht. Automatische Übersetzungen 
+funktionieren bei Sprachen, die mit Chomsky Typ 0 (oder höher) Grammatik 
+beschrieben werden können. Also man kann eine Turing-Maschine definieren die 
+die eine Sprache in eine andere überführt. Das geht bei Komputersprachen 
+sehr gut (Compiler, Crosscompiler). Die natürliche Sprachen können (noch) 
+nicht mit einer solchen Grammatik beschrieben werden. Problem liegt, wie ich 
+schon geschrieben habe, hauptsächlich in einem non-verbalen Kontext. Auch 
+diverse Parabeln aus dem Sportbereich (z.B. US-Englisch ist voll davon), 
+deutsche Partei-Farbenlehre, historische Bezüge etc verlangen nach einer 
+großen Datenbank.
+
+
+In den sechzigern gab es auch Ordinarien an BR-Deutschen Universitäten. Und 
+bei den Medizinern sowieso. :-).
+
+Theo
+-- 
+My jsme Borgo. Sklopte tty a vzdejte se. Odpor je marn

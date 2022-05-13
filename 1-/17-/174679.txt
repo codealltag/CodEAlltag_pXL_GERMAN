@@ -1,0 +1,16 @@
+* Christof Christofzik:
+
+
+Ja, so kann man es ausdrücken. Ein prototypischer Löwenzahn blüht gelb 
+und ist keine Pusteblume. Aber die Pusteblume ist, wenn man obige 
+Hintergrundinformation internalisiert hat, zwar immer noch etwas 
+eigenes, aber eben keine eigene Blumenart mehr. Kein Hobbygärtner wird 
+im Samenhandel nach Pusteblumensamen fragen (OK, schlechtes Beispiel, 
+aber irgendeine Zierpflanze mit ähnlicher Entwicklung sollte es doch 
+geben? Nach kurzer Suche kämen Immicke oder Clematis in Frage.)
+
+-- 
+Java is the SUV of programming tools.
+A project done in com1EDV will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Uwe Hagemann

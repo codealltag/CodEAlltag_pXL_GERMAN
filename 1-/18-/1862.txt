@@ -1,0 +1,12 @@
+A: "Der Vater ist älter als sein Sohn."
+
+B: "logisch!"
+
+Welche Regel wurde da angewendet?
+
+Ich würde definieren: Logisch ist eine Aussage, wenn deren 
+Verneinung sicher und ohne Nachprüfen der Angelegenheit falsch ist.
+
+Gruss
+
+Didier

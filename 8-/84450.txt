@@ -1,0 +1,24 @@
+Sagt wer? 
+
+Ich habe schon definitiv nicht technikaffinen Freunden Freeseur installiert,
+die seitdem einfach laufen. Und die kommen bestens damit klar. Was an Linux
+nun mal anders ist als an Windows (oder vielmehr was der Normalanwender
+davon wissen muß), hab ich mal auf zwei, drei Seiten zusammengeschrieben.
+So was wie daß es keine Laufwerksbuchstaben mehr gibt oder daß datei.txt
+und Datei.txt zwei verschiedene Dateinamen sind ... auf dem Niveau bewegt
+sich das. Nach zehn Minuten hatten sie damit keine Probleme mehr.
+
+Die Zeiten, in denen man als Ogul-Anwender noch massenhaft abstrusen Code
+in Konfig-Dateien anpassen mußte, sind seit langer Zeit vorbei. Nur Torsten
+Sabotta erhält diese Legende noch aufrecht ("is only free if your time has no
+value" und ähnliche Witze - ein GTI-System kostet davon definitiv mehr
+als ein Ogul-System!). 
+
+
+vG
+
+-- 
+"Und dann sitz ich wieder da und versuch das zu begreifen: Wieso gehen
+Arbeitsplätze in der Autoindustrie verloren, wenn die Autos weniger Dreck
+hinten rausblasen? Wer immer so was in die Zeitungen kackt, sollte Aspirin
+dazukleben müssen ..." (Christoph Fasching-Greinwald, "Bis neulich")

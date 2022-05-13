@@ -1,0 +1,12 @@
+Bei Zelten geht es wohl tatsächlich darum, dass sie eine entsprechende
+Wassermenge abhalten. Dass sie hingegen eine äquivalente
+Luftdruckdifferenz aushalten, ist hingegen nicht gefragt. Somit ist die
+Angabe mit der Wassersäule durchaus sinnvoll (und ich bin mir selbst
+bei Wasser alles andere als sicher, ob der Druck die entscheidende Größe
+ist).
+
+
+Um den Faktor 13.5. Das ist groß genug, dass es wahrscheinlich auffällt,
+solange es sich um vertraute Größen handelt.
+
+	hp

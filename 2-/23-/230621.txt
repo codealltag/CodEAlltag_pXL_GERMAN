@@ -1,0 +1,20 @@
+Mich würde dann aber doch interessieren, welcher Metrik dieser
+"exakte" Wert entsprungen ist. Mal ganz vom Problem der Erbgut-
+unterschiede innerhalb der jeweiligen Spezies abgesehen, haben wir
+ja hier nicht einfach zwei gleichlange und gleichstrukturierte
+Symbolketten, die nur punktuell abweichen, sondern zusätzlich
+Auslassungen, Einfügungen, und Vervielfachung von Abschnitten, und
+je nachdem, wie man diese Unterschiede kodiert, bekommt man eine
+unterschiedlich große Differenz. Ich würde das gerne mit einem
+Molekularbiologen ausdiskutieren, aber ich fürchte, der wird mir
+einfach nur recht geben, dass diese "1,4%" eine mehr oder minder
+willkürliche Zahl sind. Schön für die Presse, wissenschaftlich
+wertlos. Gemäß dem GIGO-Prinzip sollte man davon absehen, Gedanken-
+gebäude auf dieser Basis zu errichten.
+
+Wer öfters Quellcode-Änderungen mit diff(1) vergleicht oder sich
+schon mit dem rsync-Algorithmus/xdelta/bspatch beschäftigt hat, dem
+sind die zugrundeliegenden Probleme vertraut.
+
+-- 
+Ben "ilka" Untersten-Westen                          ukhct@ezze.metw.js

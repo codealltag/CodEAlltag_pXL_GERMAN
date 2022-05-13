@@ -1,0 +1,45 @@
+/Wir/ - Francis und ich - treiben da gar nichts; allenfalls dein 
+Mailprovider treibt Unsinn. Er hat jedenfalls  dem von mir benutzten 
+Smarthost im von mir zitierten bounce mitgeteilt, er kenne keine solche 
+Adresse, und Ähnliches hat er Francis mitteilen lassen. Dafür gibt es nur 
+zwei mögliche Gründe:
+
+- der Maileingangsserver deines Providers ist (oder war jedenfalls vor ein 
+paar Tagen) defekt
+
+- vor ein paar Tagen gabs diese Mailadresse wirklich nicht; wenn 
+inzwischen dort Mail ankommt, liegt das daran, dass du diese Adresse erst 
+in den letzten Tagen eingerichtet hast. (Ich sage nicht, dass das so ist - 
+ich sage: das ist eine der beiden Möglichkeiten, warum ich einen bounce 
+bekommen habe.)  
+
+Eine weitere Möglichkeit sehe ich nicht; insbesondere benutzen francis und 
+ich andere Relayserver, so dass also die mögliche dritte Theorie, der 
+Fehler liege bei unseren Mailprovidern, widerlegt ist.
+
+Wenn du also die Mailadresse nicht jetzt erst, nach Fritz' Schelte, 
+schnell mal angelegt hast, solltest du deinen Mailprovider fragen, was da 
+los war; ich stelle dir auf Anforderung gern den kompletten bounce mit 
+allen Headern, Zeitstempeln usw. zur Verfügug. Allerdings befürchte ich, 
+dass Inselblüte bei einem kostenlosen mailkonto da nicht viel nachforschen 
+wird - was nix kostet, ist eben manchmal auch nix wert. 
+
+
+Ja - die beiden Mails von gestern. Sie müssten inhaltlich gleich aussehen, 
+außer dass ich einmal nur eine Mail und einmal dasselbe als 
+Mail+Newsartikel abgeschickt habe, um zu testen, ob Inselblüte evtl. keine 
+Mails mit einem Newsgroups:-Header annimmt. Aber die Mail von vor ein paar 
+Tagen hast du doch nicht erhalten, oder?
+
+
+Ja, habe ich. Ich kann zwar nicht sehen, dass das eine Antwort auf meine 
+Mail ist (es könnte auch eine auf den gleichlautenden Artikel hier in der 
+Gruppe sein), aber ich will dir nicht unterstellen, dass du da 
+herumtrickst. Meine Mails sind gestern auch nicth gebouncet - wohl aber 
+vor ein paar Tagen.
+
+Urban, diese Diskussion hiermit jedenfalls öffentlich beendend wollend.
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

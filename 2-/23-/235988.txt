@@ -1,0 +1,4 @@
+Normale Zahlen sind reelle, bei denen alle Ziffern und ihre
+Häufigkeitsbl=F6cke gleichverteilt sind, z. B. Pi.
+
+Ob 1234567890/9999999999 auch normal ist, weiss ich jetzt nicht.

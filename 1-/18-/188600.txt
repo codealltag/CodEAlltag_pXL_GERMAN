@@ -1,0 +1,28 @@
+Was heißt *un*markiert in diesem Zusammenhang?
+
+Man *muss* ein Satzglied dadurch auszeichnen, dass man es vor das finite 
+Verb zieht. Meistens ein Adverbial, oft das Subjekt, gelegentlich ein 
+Objekt oder ein zu diesem Zweck eingeschobenes "es". Es geht nicht, ohne 
+dass man eines auswählt.
+
+Gut, das Objekt ist etwas seltener dran, auch wegen der Eigenschaft, dass 
+es mit dem Subjekt verwechselt werden kann, weil der Akkusativ eines 
+Substantivs wie der Nominativ aussieht außer wenn es maskulin Singular ist 
+und einen Artikel trägt. Aber die Reihenfolge bleibt Standard, und das 
+vorgezogene Objekt ist nicht stärker herausgehoben als es das Subjekt oder 
+ein Adverbial an derselben Stelle gewesen wäre.
+
+Für mich passt hier weder "markiert" noch "unmarkiert" recht. Eine 
+wirklich markierte Stellung ist etwa die Vertauschung der Objekte im Satz
+
+  Ich habe meinen alten Computer meinem Bruder geschenkt.
+
+um klarzulegen, dass die neue Information des Satzes (das Rhema) der 
+Empfänger und nicht der Gegenstand ist. Unmarkiert wäre gewesen:
+
+  Ich habe meinem Bruder meinen alten Computer geschenkt.
+
+In diesem Fall gibt es einen Standard, von dem man abweicht.
+
+-- 
+Thorsten Finkenbrink

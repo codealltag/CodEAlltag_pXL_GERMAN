@@ -1,0 +1,27 @@
+Hm. In meinem Beispielsatz ging es natürlich um verschiedene Typen von 
+platonischen Körpern, nicht um individuelle, und da gibt es fünf.
+
+Eher so:
+Der Physiker sagt: Ich habe durch Beobachtung festgestellt, dass sich 
+Leute in einem Zimmer so verhalten wie natürliche Zahlen. Man kann ihnen 
+nämlich eine sogenannte Anzahl zuordnen, und diese durch das 
+Messverfahren "zählen" feststellen. Außerdem habe ich aus meinen 
+Experimenten festgestellt, dass die Anzahl immer von der Reihenfolge des 
+Zählens unabhängig ist. Die Zuordnung zu den Natürlichen Zahlen im Sinne 
+der Peano-Axiome ist die: wenn keine Leute im Zimmer sind, dann 
+entspricht ist die Anzahl Null, und wenn einer ins Zimmer reinkommt, 
+dann ist die Anzahl der Nachfolger der Anzahl der Leute, die vorher drin 
+waren.
+
+Der Mathematiker sagt: Aha. Wenn jetzt also 17 Leute im Zimmer sind, und 
+15 kommen rein, dann sind hinterher 31 drin.
+
+Der Physiker kann das dann überprüfen.
+
+Das Besondere bei meinen Beispielen war, dass die Objekte, die zur 
+Domäne des Physikers gehören, dieses Mal mathematische Objekte sind. 
+Wenn ich also das mathematische Konzept der Zahl auf mathematische 
+Objekte wie Typen geometrischer Körper oder Gruppen anwende, dann 
+verlasse ich dadurch die Mathematik.
+
+Victor

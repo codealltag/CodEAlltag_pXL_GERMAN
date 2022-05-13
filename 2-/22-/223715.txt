@@ -1,0 +1,8 @@
+English "shellfish" = deutsch "Muschel". ("Schalenfisch").
+English "shell" = Deutsch "Muschelschale".
+
+Deutsch "shellfish" = english "Haddock".
+
+Wird gern durcheinandergebracht.
+
+Philipp

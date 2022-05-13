@@ -1,0 +1,6 @@
+Ach, das hätte ich selber entdecken sollen. ISO-8859-1 ist im
+Zwischenraum von 128 bis 159 undefiniert.
+
+-- 
+Simon
+http://flisoj.aourmdcjmj.ic/	Niverla: http://jhhfgm.zl/

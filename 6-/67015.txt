@@ -1,0 +1,16 @@
+Wenn ich richtig zähle, dann hat hat Slowakisch in der Summe zwei
+mehr als Tschechisch:
+
+    cs   |  sk   |
+    -----+-------+---------------------------
+     x   |   x   |  a, e, i, o, u, y Akut
+     x   |       |  e Hatschek
+     x   |       |  u Ring 
+     x   |   x   |  c, d, n, s, t, z Hatschek
+     x   |       |  r Hatschek
+
+Bei Polnisch komme ich auf neun diakritische Zeichen; soviel hat
+Litauisch auch und Lettisch mehr.
+
+-- 
+Kasimir "nina" Schulte-Zurhausen                          ssjdj@qeta.twek.tk

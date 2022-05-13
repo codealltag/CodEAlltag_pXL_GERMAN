@@ -1,0 +1,22 @@
+Gute Frage (darum meine "Tüddelchen"); Cornelius hat das Wort ins
+Spiel gebracht, aber allgemein geläufig ist es sicher nicht.
+
+
+Es gibt Schachrätsel (üblicherweise "Matt in x Zügen") und
+Schachanalysen, bei denen ausgehend von einer gegebenen
+Stellung der bestmögliche Zug gefunden werden soll; aber im
+Unterschied zum Rätsel ist der üblicherweise nicht zwingend,
+denn viele Stellungen sind "ungenau", d.h. es ist nicht
+absehbar, wie sich die Partie entwickeln wird; zwingend ist
+aktuell erstmal nichts, denn der Gegner könnte immer passend
+antworten, und auch danach bliebe die Situation unklar.
+
+
+Im Gegensatz zum Turnierschach darf man dazu natürlich
+beliebige Hilfsmittel einsetzen (Schachfreunde, Bücher,
+Schachcomputer/Schachprogramme, Internetforen, ...).
+In normalen Turnieren fängt man mit der Grundstellung an und
+muß ohne jedes Hilfsmittel (außer der Schachuhr) klarkommen.
+
+
+lennart

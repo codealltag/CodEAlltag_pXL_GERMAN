@@ -1,0 +1,8 @@
+Sein Satz ist im Englischen vermutlich gerade deshalb sinnvoll, weil man
+schon vorher "Thank you, you made my day" gesagt hat.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Epare will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Ernest Bierwagen

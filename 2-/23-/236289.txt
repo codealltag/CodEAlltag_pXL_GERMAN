@@ -1,0 +1,8 @@
+Stimmt, die ist eine Kombination.
+
+
+Ciao
+Uda
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

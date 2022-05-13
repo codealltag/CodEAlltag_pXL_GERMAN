@@ -1,0 +1,22 @@
+[...]
+
+Ich fürchte, Dein Wissen bedarf einer Korrektur. LaTeX (ebenso wie
+plain TeX) betrachtet einen Punkt genau dann als Satzendepunkt, wenn
+davor ein Kleinbuchstabe oder eine Zahl oder \@ steht und danach ein
+Leerzeichen. Das \@ kann man benutzen, um das Satzende zu
+kennzeichnen, wenn ein Satz mit einem Großbuchstaben aufhört. Es
+erscheint nicht in der Ausgabe. Um einen Punkt zu kennzeichnen, der
+kein Satzende darstellt, kann man '\ ' statt ' ' dahinter setzen.
+
+Das ganze kann einem egal sein, wenn man keinen zusätzlichen Leerraum
+nach Satzenden haben will. Die Option dazu heißt sinnigerweise
+\frenchspacing und ist bei der deutschen Spracheinstellung
+voreingestellt.
+
+
+So weit ich weiß nicht.
+
+
+-- 
+Angelo Zinkl         fmpyg.ptbzxt@rcy.nbk
+51°29'7"N 7°25'7"E   http://fsq.ulztrc.tmc-gydzxfjm.rh/~gtwtor

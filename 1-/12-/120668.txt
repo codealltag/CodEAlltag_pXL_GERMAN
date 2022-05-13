@@ -1,0 +1,23 @@
+On 27 Mrz., 21:23, "Thierry . K u s m i e r z" <w...@bcqmdma.wmcseax>
+wrote:
+
+Man könnte an einen Satzabbruch denken.
+Aber ein Anakoluth ist es deshalb nicht, weil es nicht als Stilmittel,
+also als Figur, um die Aufmerkmamkeit auf sich zu ziehen, verwendet
+wird.
+
+Es handelt sich zwar um eine ansatzweise elliptische Form, die aber
+erst nach - wie Eugen richtig sagte, - wiederholtem Nachlesen und
+Sortieren verständlich wrd. Meines Erachtens enthält der Satz aber
+zwei Fehler, die die gesamte Syntax schließlich zum Erliegen bringt:
+die Auslassung der Präposition *für*  und das unvollständige lokale
+Adverbiale, ich nehme an *entfernt*.
+
+"Nach der DIN VDE 0855 T1 (03-11), Abschnitt 10, sind für
+Außenantennen, die sich mehr als 2 m unterhalb der Dachkante und
+weniger als 1,5 m *entfernt* vom Gebäude oder *für* Antennenanlagen,
+die sich innerhalb
+von Gebäuden befinden, keine Schutzmaßnahmen erforderlich."
+
+Gruß
+Fabienne

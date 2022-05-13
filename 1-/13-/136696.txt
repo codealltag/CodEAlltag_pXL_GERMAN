@@ -1,0 +1,21 @@
+* Wilfried Bodensteiner:
+
+
+Es gibt doch diese Tabellen, wieviele "Kalorien" man beim Joggen,
+Fahrradfahren etc. "verbraucht". Die messen die Leistung also in kcal/h.
+Der Normalbürger macht sich gar nicht klar, daß man das auch in Watt
+angeben könnte wie auf der Glühbirne.
+
+1 J = 1 Ws. Ich persönlich fände es noch anschaulicher, J und J/s zu
+verwenden. Dann wüßte ich, wie lange ich mit einer bestimmten Menge
+Energie eine bestimmte Tätigkeit durchführen kann, ob nun die Energie
+als zu verbrennendes Benzin, als Strom aus dem E-Werk (zu einem
+bestimmten Preis) oder als Schokoriegel vorliegt. Das Beispiel ist eher
+belehrend als praxisnah, aber ursprünglich bin ich über dieses Problem
+gestolpert, als ich in Japan die zu erwartenden Kosten von l- und
+Gasofen vergleichen wollte, und dazu mehrere, teils obskure (BTU)
+Umrechnungen brauchte.
+
+-- 
+gugelgans,  f., alberne gans, schelte:
+  GRIMM, Deutsches Wörterbuch

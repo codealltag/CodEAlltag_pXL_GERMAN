@@ -1,0 +1,9 @@
+Beim Problemschach kann ich es mir nicht vorstellen. Aber beim
+normalen Schach gibt es Matts, wo der Unterliegende selber
+hineinläuft. Aber genau diese Situation ist im Problemschach
+ausgeschlossen. Bei "Matt in 3 Zügen" sollte ein Matt schon nach
+2 Zügen gar nicht möglich sein.
+
+Gruss
+
+Vittorio

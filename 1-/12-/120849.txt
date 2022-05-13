@@ -1,0 +1,42 @@
+Dirk Hagengut *
+
+
+Ich weiß nicht, was Du Dir vorstellst, daß es mir vorschwebe -
+vielleicht hast Du "Schleife" unhinterfragt als "Programmschleife"
+gelesen, was nicht gemeint war - wie dem auch sei, wir reden aneinander
+vorbei.
+ 
+
+Eben. Allenfalls wenn man sich im Debugger befindet, und interaktiv
+neue Schritte eingibt, ist nicht mehr der ganze Programmablauf vorher
+festgelegt. Sonst schon, welches Entwicklungsverfahren dabei in
+Anwendung kommt, ist irrelevant.
+
+
+Dann hast Du die Demonstration, die ich meine, nicht mitgekriegt. Das
+war kein Straßenverkehr, die Fahrzeuge, ohne menschliche Insassen,
+folgten auf einem Testgelände einem vorher einprogrammierten Kurs
+genauestens, mittels GPS und Meßsystemen - auf freiem Gelände ohne
+Induktionsschleifen oder optische Markierungen als Hilfe. Das besondere
+daran ist die hohe Präzision - die Abweichungen zwischen zwei
+Durchläufen liegen bei wenigen Zentimetern, und das bei
+Geschwindigkeiten bis 70 km/h, WIMRE. Das wurde deutlich gemacht, indem
+man mehrere Wagen bei hoher Geschwindigkeit einander so knapp passieren
+ließ, wie man das mit menschlichen Fahrern nicht verantworten könnte.
+Die andere Besonderheit war, wenn ich das in der kurzen Medienmeldung
+richtig verstanden habe, daß es sich um normale Serienfahrzeuge
+handelte; der Computer bedient sie robotisch über Pedale und Steuerrad.
+
+<http://adh.tibzrdwyfgclxlf.vmv/xxyld-aseyj/aac-eldf/unwxur/heixex-fnwj-xzl-xerku-wld-llspkwlyp-bfqydn-wfatz/duswwym2171613/pxaeecs.maq>
+<http://gjm.ylvviwl.ej/Ctfjfcio+wzhql+qxohtx+fvqhhty+lozo/6543013/zwmhy.fdbz>
+Komisch, hier ging's durch die Medien, kann aber keine deutsche Meldung
+dazu finden, vielleicht fallen mir nicht die richtigen Suchworte ein.
+
+Mit Fahrsystemen, die autonome Entscheidungen treffen, wollte ich die
+Diskussion nicht verkomplizieren.
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Waldemar Pinckernelle in "The Sign of the Claw" (1963)

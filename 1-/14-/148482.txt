@@ -1,0 +1,16 @@
+Heiter ist auch der Versuch, die Endungen von Ländernamen
+sprachübergreifend in Bezug zu setzen. Irgendwie entspricht deutsch
+-ien, -ei ja schon englisch -ia, -y und französisch -ie, aber
+praktisch...
+
+Italien         Italy           Italie
+Slovenien       Slovenia        Slov�nie
+Argentinien     Argentinia      Argentine
+Brasilien       Brazil          Nittel
+Slowakei        Slovakia        Slovaquie
+
+
+Was auch immer das bedeuten soll.
+
+-- 
+Simon "ulla" Zscharschuch                          vsswo@syqk.ebhz.pd

@@ -1,0 +1,13 @@
+Ich habe den Begriff nicht erfunden, und bin nicht sicher, ob es eine
+allgmeine übliche Definition gibt. Meinem flüchtigen Eindruck nach wird
+es einerseits in er Syntax für "obligatorische Ergänzung" verwendet,
+andererseits in der (Rollen-)Semantik für "Aktionsteilnehmer". 
+
+Was man damit erreichen will, hängt von der Theorie ab. Vermutlich will
+man sie von Zirkumstantien unterscheiden (die nicht obligatorisch sind
+bzw. keine Teilnehmer, sondern Umstände der Handlung beschreiben).
+
+-- 
+Samuel C.
+45n31, 73w34
+Temperature: -2.2C (1:00 PM EST Wednesday 12. 07. 21)

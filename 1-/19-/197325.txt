@@ -1,0 +1,31 @@
+Ja. Nominalphrasen aus einem Wort allein sind natürlich nicht viel spannender
+als Nominalphrasen aus mehreren Wörtern. Die interessante Eigenschaft wäre
+eher: "Kerne von Nominalphrasen, d.h. Wörter, von denen in jeder atomaren
+Nominalphrase genau eines vorkommt". Dabei heiße eine Nominalphrase atomar,
+wenn sie keine andere Nominalphrase enthält: "ein altes Buch" ist atomar,
+"Peter und Paul" ist es nicht.
+
+
+*Sooo* dringend fehlt mir der Begriff auch nicht, allerdings *deutlich*
+dringender als ein Begriff für deklinierbare Wörter, der Substantive wie
+Adjektive einschließt -- der hat überhaupt keinen Zweck, oder?
+
+Anwendungen sind etwa, wenn man grammatikalische Sachverhalte beschreibt, in
+denen diese Wörter in gleichen oder ähnlichen Rollen vorkommen, sich aber
+geringfügig unterschiedlich verhalten. Ein Beispiel wäre Determiniertheit:
+Namen und Pronomen sind ohne Artikel determiniert, Substantive nur mit Artikel
+oder Possessiv- oder Demonstrativpronomen). Substantive, Namen und Pronomen
+können in Genitivverbindungen Substantive, aber nicht Namen oder Pronomen
+determinieren.  Die Regeln sind dann komplett beschrieben, wenn man von allen
+denkbaren Kombinationen weiß, ob sie vorkommen können und, falls ja, wie sie
+gebildet werden und was sie bedeuten.
+
+�) Das ist allerdings ein Mischmasch von Regeln aus verschiedenen Sprachen: Im
+Deutschen determiniert ein Demonstrativpronomen allein, im Hebräischen steht
+trotzdem der Artikel. Ein Possessivpronomen determiniert in beiden Sprachen
+allein, im Italienischen steht trotzdem der Artikel. Und so weiter. Diese drei
+Fälle von XXX muss man immer betrachten, wenn die Darstellung der Regeln
+komplett sein soll.
+
+-- 
+Reinhard Tekniepe

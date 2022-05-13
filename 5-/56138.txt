@@ -1,0 +1,13 @@
+Hochfahren (für "to boot") und Herunterfahren (für "to shut down")
+sind seit langem im EDV-Bereich etablierte Begriffe; aber auch in
+der Industrie werden diese schon lange benutzt ("die Produktion
+hoch-/(he)runterfahren").  Wenn Du einen Computer "nach unten
+fährst", steht er danach vermutlich im Keller oder wurde zumindest
+in tiefere Gefilde verbracht.  Die Produktion kann man in der Tat
+"nach unten fahren" (gemeint ist damit die Stückzahl pro Zeit),
+aber immerhin "lebt" sie noch -- während ein (he)runtergefahrener
+Rechner (oder auch eine ebensolche Anwendung, z.B. ein Web-Server)
+bezogen auf seinen/ihren eigentlichen Aufgabenbereich "tot" ist.
+
+
+antoine

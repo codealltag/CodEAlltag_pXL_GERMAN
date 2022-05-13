@@ -1,0 +1,34 @@
+Und genau das ist das Problem. Wenn man etwas Simples und wenig Innovatives
+wie ein Auto kaufen will, sind die Parameter ganz gut bekannt, und da es nicht
+allzu viele wirklich verschiedene Autos gibt, kann man sich vorab informieren,
+worauf man achten muss.
+
+Wo es aber wirklich verschiedene Lösungen gibt, zum Beispiel bei Software,
+muss man gleichzeitig Freiheiten lassen und einschränken. Fordert man das
+Feature X als unerlässlich, und ein Anbieter bietet Y an, was eindeutig nicht
+X ist, dann ist er durchgefallen, auch wenn man mit Y alles machen kann, was
+man mit X machen kann. Macht man die Anforderung weicher ("X oder etwas von
+gleicher oder umfassenderer Funktion"), bewegt man sich schon am Rande des
+Erlaubten. Das passiert aber nicht mit *einem* Feature, sondern mit vielleicht
+zehn.
+
+Ein normaler Mensch, der etwas kaufen will, schaut sich dann die Angebote an
+und wägt ab: Y kostet mehr, bringt aber auch mehr, ist es mir das wert? Jenes
+Produkt erfüllt die Spezifikation nicht 100%ig, hat aber viele andere
+interessante Eigenschaften, kann ich da Abstriche machen? Und genau das ist
+verboten. Im Idealfall gibt es eine Formel, nach der man die Qualität aus den
+Parametern des Angebots berechnen kann ("diese Eigenschaft geht mit 20% in die
+Bewertung ein"), was aber nur mit quantitativ messbaren Eigenschaften geht,
+also werden nur die beachtet.  Vorab die Kriterien festzulegen, nach denen
+etwas bewertet wird, dessen Aufbau man erst noch kennenlernen will, liefert
+höchstens zufällig ein vernünftiges Ergebnis.
+
+
+Obwohl das sich natürlich in Heller und Pfennig rechnen kann. Wenn man mit dem
+Support von Hersteller xyz jahrelang gute Erfahrungen gemacht hat und mit dem
+von Hersteller abc miese, dann kann ein um 10% teurer Preis für xyz sich auch
+finanziell rechnen.  Und wenn man bei geringen Unterschieden ein System nicht
+wechseln muss, ist das ebenfalls billiger als das billigste Angebot zu nehmen.
+
+-- 
+Siebelt Ingerfurth

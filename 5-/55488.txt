@@ -1,0 +1,24 @@
+Du drehst das ganze zurück. Ich habe gezielt die Verben
+in Nominal-Phrasen umgewandelt, um die Logik offenzulegen,
+wenn du wieder auf die Verben zurückfällst, verdeckst du es wieder.
+
+Um dein Beispiel aufzunehmen:
+Raimund: "Soll ich das Fenster?"
+Erhard: "Nein!"
+Hier sind wir wieder bei einer Mehrdeutigkeit angelangt,
+da das "nein" sowohl ein "Neun, du hast keine Weisung"
+als auch ein "Nein, denn ich gebe dir Weisung, es nicht zu tun"
+bedeuten kann. Wir drehen uns im Kreis.
+
+Besser, weil hier eindeutig, wie gesagt die Nominal-Phrase:
+Raimund: "Habe ich Weisung das Fenster zu öffnen?"
+Erhard: "Nein, du hast keine Weisung".
+
+oder aber ...
+
+Raimund "Habe ich Weisung das Fenster zu öffnen?"
+Erhard: "Nein, im Gegenteil, du hast Weisung es nicht zu öffnen"
+
+Was ich sagen will ist, daß du die Antwort "nein" nicht als 
+Ausgangspunkt für Überlegungen nehmen kannst, da es keine eindeutige 
+Aussage ist.

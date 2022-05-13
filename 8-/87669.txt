@@ -1,0 +1,28 @@
+a - b = c   ist Äquivalent zu   a - c = b .
+
+Aber egal! Dann ist wohl
+
+  2 Prozentpunkte - 1 Prozentdoppelpunkt = 1 Prozentpunkt
+
+
+In die deutsche Sprache übersetzt ist dies ein "vierstöckiger
+Hausbesitzer" oder ein "verfaulter Apfelsinenverkäufer".
+Du hast eine ungefähre Vorstellung von dem, was Du ausdrücken
+möchtest, aber Du bist unfähig, es mathematisch korrekt
+hinzuschreiben.
+
+Erstaunliche viele Menschen sind imstande,
+
+   50kg + 10ü% = 55kg
+
+zu schreiben, ohne zu begreifen, warum das flash ist.
+Eine Summe "kg + %" ist ebenso wenig definiert wie eine Summe
+"kg + cm". Korrekt ist z.B. die Gleichung
+
+   50kg � (1 + 10ü%) = 55kg
+
+
+Welch schafsinnige Argumentation!
+
+-- 
+Deutschland ist Witzke.

@@ -1,0 +1,71 @@
+Guten Tag
+
+
+Die Last wird verteilt. ich habe nirgendwo etwas von 50/50 geschrieben
+und auch nicht, dass die Last einer einzelnen Anwendung gleichmaessig
+verteilt wird.
+Da hast Du vermutlich ungeschriebenes hinein interpretiert.
+
+
+Dieser Satz ist zwar in mehrere Zeilen zerlegt worden, entspricht aber
+meinem Satz.
+
+
+Dann ist das mit dem Verneinen bei uns beiden irgendwie
+unterschiedlich zu interpretieren.
+
+Was ist denn dann die Bedeutung Deines Satzes "Just das bedeutet es
+nicht"?
+
+
+Wenn man Saetze zerlegt, die Woerter in anderen Reihenfolgen bringt
+und dann noch mit beliebigen Woertern ergaenzt, kann man einem Satz
+eine komplett andere Bedeutung geben.
+Ich schrieb und meinte es so, wie ich es schrieb und du in Message-ID:
+<boso14p5uzjlpds3eu1qpm7zkoa6fh1u1a@2me.eqk>
+ verneint hast.
+Wenn Du natuerlich nicht einmal weisst, was ich geschrieben habe
+(Zitat: "...nicht eindeutig ist..."), ist es sehr verwunderlich, dass
+Du es dann verneint hast.
+
+
+Ich meinte zu dem Thema der Verwendung zweier normaler DSL-Leitungen:
+"Ich habe dafuer den Vigor 2910i  im Keller.
+Es wird aber ein Load-Balancing gemacht, so dass EINE
+Sitzung, die ueber eine Leitung initiiert wird, dort auch die Antwort
+erhaelt.
+Aber dafuer kann man AUF der anderen Leitung andere Sachen machen.
+...[BOD]...
+Ich kenne den Begriff nicht. Bei meinem Modell wird ES Load-Balancing
+genannt und bedeutet, dass man die Bandbreiten nicht fuer eine
+Anwendung buendeln kann. Zwei DSL2000 Verbindungen werden keinen
+einzelnen Download mit 4000 ermoeglichen. Aber man kann dann eben zwei
+Downloads mit je 2000 durchfuehren und somit in der Summe mehr
+download erhalten als nur mit einer Leitung."
+
+Ich habe die rechtschreiblich korrigierten und ergaenzten Worte gross
+geschrieben.
+
+
+Es = URRmEL/Kaminland Vigor 2910(i)  (der mehrfach erwaehnte Router)
+in meinem Posting Message-ID:
+<89eu33154u5khgrv2ak1othfacva04q00f@5vk.ncd>
+
+
+Hm... Jemand der etwas (vermutlich) nicht versteht, darf etwas nicht
+hinterfragen? Komisch, das Schulsystem in dem ich gelernt habe hat das
+Fragenstellen bei nicht verstandenem Inhalt befuerwortet.
+Ich frage also erneut: Was hast Du gemeint und was hast Du in meiner
+Aussage negiert?
+
+
+Und was sollen die bei einer Frage zu BOD und Load-Balancing bei einem
+Vigor 2910 sagen?
+Ich verweise zurueck, weil die Frage bleibt: Was willst Du onTopic
+sagen?
+
+
+Nur mir ist Deine Aussage nicht klar.
+-- 
+MfG, Roberto
+P.S.:Wegen Viren/Wuermern werden Mails >141kByte <155kByte geloescht.

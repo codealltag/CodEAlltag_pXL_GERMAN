@@ -1,0 +1,26 @@
+* Marko Müller-Schulte <eqxnsryolha@amuuplsmqownx.hrwl>:
+
+
+Eher E und S.
+
+A sind konventionelle Automaten; Planetengetriebe mit
+Drehmomentwandler. Ich hätte gedacht, dass die US-Hersteller nach wie
+vor vor allem das anbieten, man pflegt ja seine Vorurteile.
+
+V sind stufenlose Getriebe, CVT (Constant Velocity Transmission). Es
+hat sich herausgestellt, dass es die Leute nicht mögen, wenn der Motor
+beim Beschleunigen konstant auf der optimalen Drehzahl läuft, deshalb
+werden da von manchen Herstellern künstliche Abstufungen
+einprogrammiert.
+
+E, S und X sind Getriebe, bei denen die eigentliche Gangwechseleinheit
+dieselbe ist wie bei einem M. Bei E und S wird die Gangwahl
+mechatronisch oder elektronisch-hydraulisch gesteuert; bei E
+ausschliesslich über eine elektronische Steuerung, bei S sind Tasten
+vorhanden, mit denen man "den Computer" durch Antippen übersteuern kann.
+
+X kommt in der Tabelle nur bei JMV vor, vermutlich für ein
+Doppelkupplungsgetriebe. Die sind bei anderen Herstellern aber unter E
+oder S eingereiht.
+
+ - Fabian

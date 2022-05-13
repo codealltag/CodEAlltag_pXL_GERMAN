@@ -1,0 +1,13 @@
+Ich denke, es gibt schon Regeln, nach denen bei manchen Wörtern manche 
+Fugenlaute nicht vorkommen können, obwohl sie bei anderen vorkommen. Es 
+gibt nur keine Regeln, nach denen man Fugenlaute *eindeutig* vorhersagen 
+kann.
+
+Das ist ähnlich wie bei Pluralbildungen. Auch da gibt es Regeln, z.B. dass 
+feminine Wörter, die im Plural -e anhängen ("Hand"), immer Umlaut 
+bekommen, falls möglich, dagegen Wörter, die -(e)n anhängen, nie.
+Nur reichen die Regeln nicht, um den Plural eindeutig bestimmen, wenn man 
+ihn nicht kennt.
+
+-- 
+Kasimir Stempfle

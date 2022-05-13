@@ -1,0 +1,18 @@
+* Pius Hamhaber:
+
+
+Zum Beispiel das Problem, das Roger Korzer geschildert hat -
+sofern er recht hat, kann TB nicht mal mein bevorzugtes Layout:
+Gruppenliste und Header links, Message rechts in voller Höhe.
+
+
+"Thunderbird ist ein NUA" ist per se eine provokative Aussage. Bei
+"Thunderbird ist ein MUA/NUA" hätte ich nichts gesagt.
+
+
+Man kann ihn in diversen NUAs als Editor einbinden, aber darum
+ging's nicht. Louise hat schon verstanden.
+
+-- 
+Are you sure your sanity chip is fully screwed in?
+  -- Kryten to Rimmer (Red Dwarf)

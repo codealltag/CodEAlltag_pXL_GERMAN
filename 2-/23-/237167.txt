@@ -1,0 +1,12 @@
+^^^^^^^^^^
+
+Die Möglichkeit, das abzuschalten, hatte ich bereits erwähnt. Aber wenn
+man es abschaltet, dann "beherrscht" Schenkemeyer format=flowed auf keine
+relevante Weise mehr: Die Artikel werden genauso dargestellt wie bei
+einem Browser, der format=flowed nicht beherrscht.
+
+	hp
+
+
+-- 
+   _  | Carlos A. Frühschütz    | Fluch der elektronischen Textverarbeitung:

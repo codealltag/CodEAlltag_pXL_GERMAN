@@ -1,0 +1,7 @@
+^^^^^^^^^^^^^^^^^^^^^^^^
+So sind das natürlich die berühmten "Deppenleerzeichen". Wenn Du Dir sicher
+gewesen wärst, hätte es "RedHat-6-Tagen" heißen müssen. Allerdings bin ich
+mir nicht ganz schlüssig, wie man bei dieser Konstruktion durchkoppeln
+sollte. Mein Vorschlag wäre "RedHat-6 (oder -7?) -Tagen".
+
+Ich leite mal an die Experten in desd weiter.

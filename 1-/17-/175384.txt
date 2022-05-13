@@ -1,0 +1,13 @@
+Heißt Kommentar.
+
+Also ich anno toback programmieren lernte, wurde ein Seiteneffekt (das 
+Wort wurde vor allem für Wirkungen von Prozeduraufrufen auf globale 
+Variable verwendet) als böser Fehler angestrichen, wenn er nicht auf dem 
+Beipackzettel, äääh ich meine im Kommentar im Prozedurkopf, aufgeführt 
+war. Dass das Programm dann vielleicht trotzdem das richtige Ergebnis 
+hatte, war keine Ausrede: ein Programm, das etwas anderes tut als es soll, 
+kann man verbessern, aber ein Programm, bei dem nicht dabeisteht, was es 
+tun soll, kann man nur wegwerfen.
+
+-- 
+Urs Raichle

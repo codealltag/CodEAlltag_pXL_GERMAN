@@ -1,0 +1,40 @@
+Die Kritik "taugt nicht", der ich mich anschließe, richtet sich nicht 
+gegen die Unterscheidung der Dialekte, sondern gegen die Gleichsetzung der 
+Sprachen. Ich würde es für eine verunglückte Terminologie halten, zu 
+sagen:
+
+ - Ein rotes und ein rotorangenes Kleid haben dieselbe Farbe, jedoch 
+   verschiedene Farbtöne.
+ - Ein rotorangenes und ein orangenes Kleid haben dieselbe Farbe, ...
+ - Ein orangenes und ein gelborangenes Kleid haben dieselbe Farbe, ...
+ - Ein gelborangenes und ein gelboes Kleid haben dieselbe Farbe, ...
+
+aber
+
+ - Ein rotes und ein gelbes Kleid haben nicht dieselbe Farbe.
+
+*Dieselbe* Farbe zu haben, ist eine Äquivalenzrelation. Das gilt auch für die
+Umgangssprache, in der man auch Wörter wie "gleich" und "selb" nur für
+Äquivalenzrelationen verwenden sollte.
+
+Da die Farben (oder im ursprünglichen Kontext die Sprachen) eh nicht genannt
+werden, kann man sie weglassen und gleich sagen:
+
+ - Ein rotes und ein rotorangenes Kleid haben eine ähnliche Farbe (oder einen 
+   ähnlichen Farbton).
+
+bzw.
+
+ - Die Dialekte (oder Sprachen) von Diesse und von Jößnitz sind sich
+   ähnlich.
+
+Von Ähnlichkeit erwartet man nämlich keine Transitivität.
+
+Anders ist es, wenn man, wie ich und andere vorschlugen, Dialekte relativ zu
+einer Ausbausprache definiert. Dann gehört zu jedem Dialekt eine zugehörigen
+Ausbausprache und es ist sinnvoll zu sagen, ob zwei Dialekte derselben Sprache
+angehören. In deiner Definition ist es sinnlos -- und wohl auch gar nicht
+beabsichtigt -- zu sagen, von welcher Sprache etwas ein Dialekt sein soll.
+
+-- 
+Benjamin Isaacsohn

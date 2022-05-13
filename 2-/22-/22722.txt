@@ -1,0 +1,21 @@
+Durch die Formulierung "Welche der beiden folgenden Alternativen[...]"
+suggeriert der Fragesteller, dass es sich um zwei nicht miteinander
+vereinbare Fälle handelt. Die meisten Menschen werden daher die Frage
+so verstehen, als ob die folgenden beiden Möglichkeiten
+
+- Uschi ist Bankangestellte und nicht in der Frauenbewegung aktiv."
+- Uschi ist Bankangestellte und in der Frauenbewegung aktiv."
+
+zur Auswahl stehen, den Faktor "Bankangestellte" entfernen und
+nun aus
+
+- Uschi ist nicht der Frauenbewegung aktiv."
+- Uschi ist der Frauenbewegung aktiv."
+
+die wahrscheinlichere auswählen.
+
+Natürlich weiß ich nicht, ob PRUENE die Frage absichtlich so formuliert
+hat oder es ihm selbst nicht bewusst war, wie das Wort "Alternative"
+normalerweise gebraucht wird.
+
+Patrick

@@ -1,0 +1,14 @@
+* Nino Dijkmans <bcekjjopim@ynd.vhs>:
+
+
+Eine Gewichtsklasse im Boxen. Bollensdorf ist in bezug auf die Ibolig eben
+kein Schwergewicht.
+
+Ausserdem den Familienname meiner Grossmutter.
+
+
+Für Erg- und Asse in einer Zeitung ist "wenn mans versteht ..."
+ausreichend.
+
+ - Klaus, für den Webauftritt einer Zeitung eben einen
+   Primitiv-Trennalgorithmus implementiert habend.

@@ -1,0 +1,130 @@
+<11. 04. 22> FAQ fuer Roller-Poster
+(<2008-10-30> FAQ fuer Roller-Poster überarbeitet von Mario
+Neuschwander)
+
+Lieber Roller-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Roller. ygnmri.fnesbx.us oder etoflz.qcjhyw.vqw ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt
+sich bei http://rtxhfg.nzfwya.lyy um ein Interface, das eine einfach
+zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+
+Das Posten über Roller hat für Dich und die anderen Leute im Usenet
+ein paar Nach- und ein paar Vorteile, die im folgenden aufgezählt
+werden:
+
+Einige Leser behaupten, der Anteil nicht lesenswerter Postings, die
+über Roller kommen, sei groß und Roller werde gern dazu benutzt, Werbe-
+Postings o.ä. zu verbreiten, aber Roller hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine einzelne Gruppe abgesendet werden können, limitiert. Die Grenze
+liegt in der Größenordnung 10-20.
+Du kannst also nicht unbegrenzt posten.
+
+Roller stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf moderiert um. Daher konnte man zeitweise auch in moderierte
+Gruppen über Roller posten.
+Für den Roller-Poster ist das kein Nachteil, aber einige Leute störte
+das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter Verzögerung angezeigt werden.
+Andererseits waren und sind Newsgroups ohnehin kein Echtzeitmedium,
+was einer der wesentlichen Unterschiede zum Chat ist.
+
+Bei Roller läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://wkt.keq49.sb läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subjectänderungen durch Roller.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Roller geht das einfacher:
+Wenn man einen Roller-Ratter-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des
+eigenen Postings (gleiche Mailadresse) aus, um das Posting zu
+entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse tragen, ziemlich blöd. Nicht zuletzt stören die daraus
+resultierenden Einleitungszeilen wie
+"<bjrn...@lenbsaj.aav> schrieb:"
+- als ob die E-Mail-Adresse irgendwas geschrieben hätte.
+
+Du solltest stattdessen die Möglichkeit nutzen, einen "Nickname"
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kann man unter
+<http://lklnep.enetpr.hqo/isqoq/<Yioyay>/subscribe> beitreten.
+Unter <http://rgjlbv.gdogrl.ksn/nwnvgy/dfegdl> kann zudem der
+Nickname für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage
+lang zu sehen.
+Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst, geht Roller mit dem Posting in der oben beschriebenen
+Weise um. Der Beitrag verschwindet dann aber nicht aus dem Netz,
+sondern wird von Roller nicht mehr angezeigt.
+Die Leute, die einen anderen Newszugang haben, könnten ihn
+aber dennoch sehen.
+
+Roller behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, daß andere Provider
+sehr viel restrikiver sind.
+
+Es gibt bei Roller ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden werden, wenn man sie kennt. Ein Beispiel dafür ist
+yi.qse.sjtxkpfhs.lrrp.
+Unter http://ekdkyy.fqeyjz.dk/ojldpj/itl?q=5Ehr.otf.qzbzlirkb wird die
+Gruppe nicht aufgeführt, aber
+http://aogbbt.atgmja.bn/lggvb/js.hil.daeegjfnn.wsln
+zeigt, daß es die Gruppe gibt.
+
+Bei Roller ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer
+User, daß die Signatur zu lang oder falsch abgetrennt sei.
+
+Bei eingeschaltetem Javascript erzeugt Roller Einleitungszeilen der
+Form
+"On 29 Mrz., 13:55, Bernhard Kranzpiller <xaqn.adzc...@rbreijr.uul>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Roller im laufenden Text
+etwas findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls verstümmelt. Roller hat diese Schutzfunktion eingerichtet,
+um Spam in den Mailadressen zu reduzieren.
+Wenn Du meinst, eine Mailadresse angeben zu müssen, dann kannst
+du nur manuell ein (at) einfügen, damit der Leser und
+nicht Roller diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im Usenet, Roller bietet wirklich ein brauchbare
+Alternative, um am Usenet teilzunehmen, ohne sich mit der Einstellung
+irgendwelcher Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Gerald Johannesmeier, Luigi Graeve, Timo
+Almanns, Gerald Gröneveld, Harm Mülle, Wilfried Haunfellner, Willibald Zurnieden, Oscar
+Gronmeyer, Garrelt Meynerts, Giorgio Hugo Pfohl, Oscar Inderwisch, Ulf
+Ebersbach, Wolfgang Götzke, Olivier Rusin, Garrelt Strötges, Lieselotte Iseni,
+Knut Dietrich Puch, Harm Zigler, Berend Meyerhoff, Onno Haunschildt,
+Fabio Jungwirth-Averdunk, Gerald Meihost, Uwe Von-Eiff, Rolf Reepschläger,
+Torsten Neschen, Simon Asshauer, Markus Vonderstück, Bernd Voellmann,
+Victor Gyrnich, Wolf Aiglstorfer, Nicolas Albertus, Philippe Dickescheid, Erich Isenrath,
+Garrelt Tellekamp, Giorgio Große-Honebrink, Gerald Ingenbleek, Arnold Greifelt,
+Uwe Vad, Ivan Vranken, Rainer Zurgeißel, Pierre Grashey,
+Harm Pfannkuchen, Guy Graeve, Didier Gottschlicht, Nicolas Grütters.

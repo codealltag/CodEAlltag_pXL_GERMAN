@@ -1,0 +1,38 @@
+War nicht sonderlich klar, gebe ich zu. Ich meinte eine Differenz
+zwischen zwei Zeitpunkten, ein Maß für die vergangene Zeit. 
+
+Der Monat "Dezember 2008" beginnt am 29. November 2008 um 00:00:00 und endet am 30.
+Januar 2009 um 00:00:00. Die Zeitspanne zwischen dem 1. Dezember 2008 22:16:31
+und dem 1. Januar 22:16:31 ist ebenfalls ein Monat.  Mit Zeitspanne meinte
+ich letzteres.
+
+
+Bitte beachte, dass ich das in allen Beispielen qualifiziert habe:
+"*heute* in einem Monat", "*genau* heute vor 9 Monaten". Wenn das so
+formuliert ist, ist das m.E. sehr wohl genau.
+
+
+Redundanz ist immer gut. Aber wenn jemand am 30. November von "heute in einem
+Monat" spricht, dann meint er sicher nicht den 30. oder 1. Januar, und
+schon gar nicht den 28. Dezember (es sei denn, er hat sich geirrt).
+Da würde zumindest das "heute" wegfallen, wenn nicht ein "ungefähr"
+dazukommen.
+
+
+Ich eigentlich auch, weil ich meine, dass "Monat" klar genug ist, und
+dass unter relativen Zeitangaben wie "in einem Monat", "vor fünf Monaten",
+"sieben Monate später" immer die dem Kalender entsprechende variable
+Zeitspanne verstanden wird, und nicht "1 mal 30 Tage", "5 mal 30 Tage",
+"7 mal 30 Tage". Sowohl Willi als auch Du haben allerdings behauptet,
+dass man unter einem Monat eine fixe Zeitspanne (Willi: 28 Tage, Du: 30
+Tage) verstehe, und daher habe ich als Gegensatz dazu das Wort
+"Kalendermonat" gebraucht, im Sinne von "1 Monat, so wie er im
+(gregorianischen) Kalender definiert ist".
+
+Wenn Du der Meinung bist, dass das überflüssig ist, sind wir uns eh
+einig. Allerdings braucht man dann in der Diskussion über verschiedene
+Definitionen von Monat trotzdem noch einen Namen für Deinen Monat
+konstanter Länge, wie z.B.:
+
+
+	hp

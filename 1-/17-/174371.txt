@@ -1,0 +1,12 @@
+Ja, so könnte man Deine Zusammenfassung nennen.
+
+
+Du solltest aufmerksamer mitlesen:
+
+
+Dein lapidares "ein Link ist ein Verweis"
+geht mithin _v�llig_ am Thema vorbei.
+
+
+Für den durchschnittlichen Betrachter eines "img src"
+ist dessen Quelle ebensowenig ersichtlich.

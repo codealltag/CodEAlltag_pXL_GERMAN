@@ -1,0 +1,15 @@
+Ich hatte selbst keinen TI 59; Bekannte hatten einen, aber ein Stack 
+oder sowas wie PUSH oder POP sind mir nicht aufgefallen. Es gab halt 
+nummerierte Variablen, sowas wie STO1, STO2, oder wie die auch immer hießen.
+
+Aber ich habe micht mit dem Ding nicht genug befasst.
+
+Bei MGDP war UPN Standard, das war ja das, was den Motec-Besitzer in den 
+Augen der anderen adelte: Der kann mit einem Motec umgehen! Klingt 
+naheliegend, dass die programmierbaren Versionen auch STacks konnten. 
+Oder eventuell schon der nicht programmierbare? Einfach immer ENTER 
+drücken? Aber so Zeug wie ROT, DUP und so werden die MGDP-Taschenrechner 
+doch wohl nicht gehabt haben, so dass man auch mit dem Stack umgehen 
+kann, oder?
+
+Gilbert

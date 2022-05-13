@@ -1,0 +1,20 @@
+Ist das hier ein Chat oder was? Ich antworte mal auf den bei
+mir letzten angezeigten Post. :-)
+
+Ka6 Tb1 Lh2 Sb4 - Ka8 Sd1 Bd7, Matt in 2 Zügen (Das habe ich
+mir auf die Schnelle als Beispiel ausgedacht.)
+Nach 1.Sd5 droht 2.Tb8 (ein "unthematisches Matt") und
+2.Sb6/c7 (die beiden "thematischen Matts"). 
+Schwarz kann 1...Sb2 und 1...d6 spielen. Da die eine Linie 
+verstellt ist, darf Weiß nicht die andere verstellen
+(ein typisches Thema, was es so im Problemschach gibt).
+Nach 1...Sb2 ist also 2.Sc7 ein "nichtdrohendes Matt"
+(denn es droht ja tatsächlich kein Matt, es ist nur ein
+Schachgebot). Und wie gesagt, der Terminus erscheint mir
+sprachlich verunglückt - entwader es ist Matt (2.Sb6), dann
+droht es auch, und da Schwarz nichts dagegen unternommen
+hat, kann man es ausführen, oder es ist kein Matt (2.Sc7),
+dann droht es auch nicht.  
+-- 
+Onno Deklerk <:-FE8    cc2q126@rnd-jgsznyh.my
+Nur Schufte schuften - Genie genießt.

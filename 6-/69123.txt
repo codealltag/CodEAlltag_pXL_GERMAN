@@ -1,0 +1,9 @@
+Der Übersetzungsfehler ist verständlich da der Quelltext grammatisch
+auch etwas zu wünschen übrig läßt. Das volle Verbum sollte als "loc=
+k
+on" wiedergeben werden. In dem Sinne bedeutet es daß ein Ziel
+festgehalten werde, d.h. das Fadenkreuz bleibt automatisch
+(Softwarefunktion) auf der gewünschten Stelle erhalten. Im Augenblick
+fällt mir kein passendes deutsches Wort ein.
+Gruß
+Otto

@@ -1,0 +1,9 @@
+Noch eine technische Randbemerkung: KNode ist ein gar wunderliches Stück
+Software, wenn es einen Buchstaben nicht zu interpretieren weiß, den es
+ursprünglich selbst so rausgeschickt hat (ich hoffe mal, daß es nicht
+der Benutzer vermojibackt hat).
+
+-- 
+Naturlädchen designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

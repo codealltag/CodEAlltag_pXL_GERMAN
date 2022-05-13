@@ -1,0 +1,14 @@
+Reinhold Enggruber tat kund:
+
+
+Zumal diese Zwischensprache ja nie das
+Auge des Benutzers erreichen würde. Und
+wenn man Feinheiten der Quellsprache
+in die Zwischensprache
+überführen will, und das muß man, wenn
+sie in der Zielsprache ankommen sollen,
+braucht man erstens eine Zwischensprache,
+die das alles abbilden kann,
+zweitens aber vor allem eine entsprechende
+Künstliche Intelligenz, um sie zu erkennen.
+Sonst bleibt das "Schloß"-Problem ungelöst.

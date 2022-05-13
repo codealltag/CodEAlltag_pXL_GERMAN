@@ -1,0 +1,14 @@
+Naja, da hast Du „halb“ recht. Denn das "double low-9 quotation mark"
+gibt es, nur das Abführungszeichen mußte ich nun als "left double
+quotation mark" schreiben, so daß die Form und Richtung der Zeichen
+nicht gesichert ist und vom Font abhängt.
+
+
+Ja. Nein. Da könnte man lange drüber streiten, ob es reingehört. Man
+könnte das bei den Anführungszeichen auch. Leider ist viel Unsinn in
+Unicode gelandet, so daß sich schlaue Software nicht durchsetzen kann.
+
+-- 
+Friedrich C.
+45n31, 73w34
+Temperature: -12.7°C (4:00 PM EST Tuesday 17. 03. 23)

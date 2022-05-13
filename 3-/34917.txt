@@ -1,0 +1,8 @@
+Das typische Beispiel ist diese Matrix:
+
+    bad | bat
+   -----+-----
+    bed | bet
+
+-- 
+Jörg "elsa" Indermark                          nlims@nsoo.wewq.oq

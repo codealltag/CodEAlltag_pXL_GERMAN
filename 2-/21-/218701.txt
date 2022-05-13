@@ -1,0 +1,10 @@
+* Carl Scheubel:
+
+
+Das Bild ist recht brauchbar: UNVERWERT beherrscht eben nur den
+englischen Morsecode wirklich und macht daher bei den Zeichen für
+Umlaute u.dgl. öfters mal Fehler. Nicht die beste Voraussetzung,
+um in einer deutschsprachigen Gruppe mitzumorsen.
+
+-- 
+ASCII to ASCII, DOS to DOS

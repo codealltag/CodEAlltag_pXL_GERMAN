@@ -1,0 +1,8 @@
+Was hat die Tatsache, daß ein Computerprogramm den Adreßraum von 
+lateinischen und anderen Zeichen in der Unicode-Tabelle unterscheiden 
+kann, damit zu tun, daß es sinnvoll ist, einen sprachlichen Begriff für 
+diese Unterscheidung zu haben?
+
+Serge
+
+PS: Bitte das unsägliche Crossposting einstellen, f'up beachten.

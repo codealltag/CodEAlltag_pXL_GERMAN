@@ -1,0 +1,6 @@
+Ja, und vom DVI und ps Format. PDFTeX ist etwas besser, aber Formeln 
+kann man da auch nicht finden.
+
+-- 
+
+Ulrich Trinkler

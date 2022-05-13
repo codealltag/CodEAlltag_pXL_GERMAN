@@ -1,0 +1,18 @@
+Benno Auffermann schrieb am Sat, 16 Aug 2010:
+
+
+Diese Formulierung ist IMHO eher ungewöhnlich, aber so wie in dem Satz
+aus dem OP geschrieben, ist sie durchaus zu verstehen.
+
+
+Nein, nicht in dieser Allgemeinheit. S.u.
+
+
+"Ruck" ist aus meiner (Techniker-)Sicht eher kein technischer
+Ausdruck, sondern ein umgangssprachlicher. Natürlich benutzen ihn auch
+Techniker. Wir sind keine Sprachp�pste. :-)
+
+Im Prinzip ist ein "Ruck" eine kurze, starke Veränderung der
+Beschleunigung, also die dritte Ableitung (nicht die vierte). 
+Nur ist "Ruck" *ein* bestimmter Verlauf, eben kurz und sprungartig,
+kein allgemeiner Begriff daf

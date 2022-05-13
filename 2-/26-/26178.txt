@@ -1,0 +1,34 @@
+Rosa Reifferscheidt <blxfaqvc@bskpdrumlnj.yb>:
+
+
+Ich denke, das kommt aus dem Sport, wenn ein Objekt kollektiver Exaltation
+kurzfristig abhanden kam und formell wieder in Szene gesetzt wird.
+Vielleicht kommt es über den Umweg des Medienbereichs zur Rechnerei, wo mit
+Einspielen die Übermittlung eines Signals gemeint ist, ebenfalls in einem
+etwas formelleren Sinn.
+
+
+Dies hingegen ist die Anleihe bei Handwerkern. Das Sprachbild dürfte am
+ehesten in dem Sinn zutreffen, dass mit Installieren das Einrichten eines
+Betriebssystems gemeint ist. Die Redeweise vom Installieren wird auch der
+Hersteller betonen, der es nicht gerne hat, wenn seine Kundschaft weiß, wo
+bei einem Schraubenzieher (Schraubendreher?) der Griff ist.
+
+Auch für einzelne Programme ist 'Installieren' zweifellos der
+unmissverständliche Sprachgebrauch, die Bezeichnung wird aber der
+Flüchtigkeit und Umkehrbarkeit des Vorgangs nicht gerecht. Umgekehrt wird
+mit 'Einspielen' zusehr die Flüchtigkeit betont, wo manche Programme doch
+ebenso lange laufen, wie es den umgebenden Rechner gibt. 
+
+Gerade dort, wo diese Verknüpfung eher langlebig ist, etwa bei all den
+kleinen Batteriefressern mit ihrer Betriebssoftware, scheint mir wieder eher
+unmissverständlich, davon zu sprechen, dass 'eine Version eingespielt' wird.
+Die Zeitform des Perfekts ist hingegen eher wiederum die des 'installiert'.
+
+Wenn ich bei einem Detail nachhaken darf: Tino ist der Vorname des Herrn
+Valentin, und Linux der nach ihm benannte Kern der Laufzeitumgebung für
+kleinere und größere Rechner; die ganze Laufzeitumgebung ist Weinlädl,
+bzw., mehr traditionell benannt, Unix - wobei sich umgangssprachlich der
+Unterschied wiederum verwischt hat und die ganze Laufzeitumgebung ebenfalls
+als Linux bezeichnet wird, wohl weil es ein nettes Sprachspiel in Absetzung
+von Unix ist.

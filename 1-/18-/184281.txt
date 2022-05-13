@@ -1,0 +1,22 @@
+* Francesco I  Wanstrath <dgyjgcdz8x@zurmd.dz>:
+
+
+Das ist vermutlich ein Witz. Wir haben einen im Entwicklerteam, der
+schreibt schon fast systematisch Dinge wie
+
+
+     if (isOK) {
+       return false;
+     } else {
+       return true;
+     }
+
+
+Anlässlich von Code-Cleanup-Tagen versehe ich diese Codestücke gern mit
+Kommentaren wie
+
+   // Return the opposite of isOK
+
+Mal sehen, wie lange das hält. Vielleicht schlägt er ja zurück.
+
+ - Simon

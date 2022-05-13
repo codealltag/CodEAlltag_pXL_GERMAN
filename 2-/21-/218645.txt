@@ -1,0 +1,17 @@
+Und in beiden Fällen dann andere Newsreader, insbesondere älterer 
+Versionen, bzw. deren Benutzer ärgern. Das hilft auch nix. QP führte 
+jedenfalls früher zu Problemen, in UTF-8 kann insbesonmdere der 
+weitverbreitete Forté Agent nicht posten. Und zitieren kanns der auch 
+nicht.
+
+8Bit ist ebenso wie ISO-8859-irgendwas eine nicht nur seit Jahren 
+genormte, sondern auch ausgesprochen gängige Kodierungsweise, die 
+eigentlich jeder Newsrader versteht. Wenn Gruselpups neuerdings damit 
+nicht umgehen kann, dann liegt das Problem einzig und allein dort (und bei 
+den Gruselpups-Benutzern).
+
+Paolo
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

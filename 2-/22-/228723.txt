@@ -1,0 +1,5 @@
+Le 13/06/2013 22:36, Simone Salvatore a crit :
+Ach, darüber haben wir schon diskutiert in einem anderen NG. Das
+Internet wurde ca 1970 gegründet aus DARPA, das Protokoll TCP/IP
+heisst "Transport control protocol / *internet* protocol" und wurde
+seit länger als Usenet benutzt. Entschuldigung für den Widerspruch ;)

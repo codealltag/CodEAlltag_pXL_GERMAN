@@ -1,0 +1,16 @@
+* Manfred Fehnders:
+
+
+Oft nicht ausreichend.
+
+
+Ah, der mitdenkende Student! So einen Professor hatten wir auch,
+der den erwartete:
+
+- Herr Professor, der Exponent ist zu klein geschrieben, den kann
+man nicht lesen!
+- Also an dieser Stelle kommt nur n oder n+1 in Frage, und das
+hier ist eindeutig länger als n
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

@@ -1,0 +1,6 @@
+Nein, in der Suchmaske. Ich rufe die erweiterte Suche wirklich fast nie
+auf, sondern schreibe z.B. "author:opatz" in das normale Suchfeld.
+
+Der URL-Parameter heißt as_uauthors.
+
+Maurice

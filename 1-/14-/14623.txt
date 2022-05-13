@@ -1,0 +1,14 @@
+Das ist klar. Es geht aber nicht um Falsch-Angaben. Hamster als 
+Newsserver wird ergänzend zum Reader benutzt. Bei mir stehen deshalb 
+auch beide im User-Agent. 
+
+Da Hamster aber in keinem Fall der einkliche Newsreader ist, muß sein 
+Prozentsatz genaugenommen außer Konkurrenz laufen. 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://kwkmprvj.atd>

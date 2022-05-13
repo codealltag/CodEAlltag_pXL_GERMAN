@@ -1,0 +1,27 @@
+Wenn er einen Faktor von ungefähr 3*10^8 unter den Tisch fallen lässt,
+finde ich das schlampig. Wenn er behauptet, ein Satellit im Orbit hätte
+das Schwerefeld der Erde verlassen, finde ich das schlampig (wenn ich
+*sehr* großzügig aufgelegt bin). Wenn er behauptet, es finde keine
+Informationsübertragung statt, weil nur ein kleiner Teil ankomme, dann
+finde ich das schlampig. Und ich finde das alles nur deshalb schlampig,
+weil ich annehme, dass er als studierter Physiker das alles besser weiß,
+und die Dinge nur im Bemühen, sich publikumstauglich auszudrücken, so
+vermurkst (ich habe auch Skripten geschrieben, und weiß wie leicht
+Unsinn herauskommt, wenn man was vereinfachen will). Hätte er nicht
+Physik sondern Publizistik studiert, würde ich annehmen, dass er das
+einfach nicht verstanden hat.
+
+
+Schau Dir mal bitte eine Schere an. Der Winkel zwischen den Schneiden
+geht *nicht* gegen 0. Das ist ein nettes mathematisches Konstrukt, aber
+eine real existierende Haushaltsschere schaut anders aus.
+
+
+Das Problem ist halt, wenn der Avermeyer sagt, "wenn ich diese Schere
+schließe, bewegt sich der Schnittpunkt mit Überlichtgeschwindigkeit",
+dass dann Leute, die keine chronischen Nachrechner sind, glauben, dass
+das tatsächlich bei *dieser* Schere auftritt, und nicht bei einer
+hypothetischen Schere mit 30000 km langen aber nur 2 cm breiten
+Scherenblättern (mal so �berschlagsm��ig im Kopf berechnet).
+
+	hp

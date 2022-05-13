@@ -1,0 +1,15 @@
+Erstaunlicherweise kann OjE UTF-8. Das konnte er sogar schon 
+vor vielen anderen Neuigkeitenschreibundlesesystemen. 
+
+EOI gibt es immer noch Software, die UTF-8 nicht /lesen/ kann. 
+Das ist dann aber wirklich ihr Problem. Beziehungsweise dasjenige jener, 
+die solche Software noch benutzen zu müssen glauben. 
+
+
+vG
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Enrico Bierwag über einen Anfängerthread in de.rec.musik.machen)
+-- <http://hjbalvsy.hdg> -- Ein Pinguin für jeden: <http://fambsd.mxa/> --

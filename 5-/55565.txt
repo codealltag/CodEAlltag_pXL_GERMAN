@@ -1,0 +1,23 @@
+Im mündlichen Gebrauch ist eine neutrale Wiedergabe ohne eigene
+Stellungnahme eher unüblich und auch oft nicht gewünscht. Immerhin
+stehen alle Beteiligten fest, und man muß nicht auf unbekannte Variable
+Rücksicht nehmen, da kann es als feige erscheinen, sich selbst eines
+Urteils zu enthalten. Etwa so, wie wenn jemand ein Zitat in eine
+Aboh-Gruppe stellt, und das als Diskussionsanstoß sehen will, ohne
+selber die Diskussion mit einer eigenen Stellungnahme zu beginnen.
+
+Mündlich interpretiere ich Indikativ und Konjunktiv primär so:
+
+  ... daß die Sprache Englisch ist. ("und das war auch so")
+  ... daß die Sprache Englisch sei. ("woran ich Zweifel habe")
+  ... daß die Sprache Englisch wäre. ("was ich nicht glaube")
+
+Da ist also auch "sei" nicht neutral. Will man ganz neutral sein, dann
+sagt man das besser explizit: 
+
+  Ich weiß es selber nicht, aber bekanntgegeben wurde damals,
+  daß die Sprache Englisch sei.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

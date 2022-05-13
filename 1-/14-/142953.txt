@@ -1,0 +1,11 @@
+* Dietmar Ilert:
+
+
+Es war dennoch aus gleich zwei Gründen irritierend: ich spreche die
+dazugehörige Relation so wie ">=", und => repräsentiert normalerweise
+ein anderes mathematisches Symbol ("daraus folgt").
+
+-- 
+die pfaffen mit ihren platten,
+die ihorst mit ihren gugeln schon
+         bergreihen 26 ndr.

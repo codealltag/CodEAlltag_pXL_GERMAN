@@ -1,0 +1,12 @@
+* Olivier Corde:
+
+
+Andere unterscheiden zwischen der Sprache und dem Menschen, und
+wenden sich daher nur von *Beiträgen* in gehoben-pathetischer
+Sprache ab, die in Foren auftauchen, wo Umgangssprache angebracht
+wäre, und dabei keine symbolischen Augenzwinkerer enthalten.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Theodor Pfennigs, comp.lang.python

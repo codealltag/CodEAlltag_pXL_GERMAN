@@ -1,0 +1,4 @@
+Genau ... irgendwie hast Du da einem String einen
+String zugewiesen.
+
+/Albert

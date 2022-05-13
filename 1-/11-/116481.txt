@@ -1,0 +1,29 @@
+Es gibt aber nicht beliebig viele, wenigstens nicht beliebig viele 
+Wurzelmorpheme. Nehmen wir mal deutsche Verben: die meisten haben eine 
+einsilbige Wurzel aus einem Konsonantencluster, einem Vokal oder Diphthong 
+und einem zweiten Konsonantencluster. Da von den Konsonantenclustern die 
+meisten phonologisch nicht möglich sind, sind das vielleicht rund 40�10�20 
+Kombinationen mit langem und 40�7�40 Kombinationen mit kurzem Vokal, 
+zusammen rund 20000. Die kann man alle aufschreiben und feststellen, 
+welche davon in der Sprache benutzt werden. Dann hat man eine erste Zahl, 
+die durchaus einige Aussagekraft hat. Dann macht man das unter 
+Einbeziehung von Vorsilben und bekommt eine zweite Zahl.
+
+Dasselbe kann man auch in vielen anderen Sprachen machen. Beispielsweise 
+in den semitischen Sprachen haben Verben eine in der Regel 
+dreikonsonantige Wurzel, aus der nach einer festen Menge von Bauplänen 
+(Binjan) Verben gebaut werden können. Auch da kann man eine ziemlich 
+vollständige Wurzelliste und eine ziemlich vollständige Verbliste 
+zusammenstellen und Zahlen nennen, die vielleicht einen Faktor 1,5 
+Spielraum haben, aber sicher nicht 10.
+
+Die Vergleichsarbeit ist dann natürlich nicht zu Ende, sondern fängt erst 
+an. Man mag dann herausbekommen, dass eine Sprache auf viele Wurzeln 
+setzt, eine zweite auf viele Formen aus den Wurzeln, eine dritte auf 
+Kombination mehrerer Wurzeln durch Zusammensetzung, eine vierte massenhaft 
+Homonyme in Kauf nimmt, während eine fünfte auf der Klaviatur der 
+übertragenen Bedeutungen ansonsten eindeutiger Wörter spielt. Das kann 
+durchaus interessante Vergleiche ergeben.
+
+-- 
+Heimo Vaders

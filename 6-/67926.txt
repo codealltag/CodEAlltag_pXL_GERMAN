@@ -1,0 +1,5 @@
+Dann wäre "41, 42" aber kein Hinweis auf Zwergenwuchs.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

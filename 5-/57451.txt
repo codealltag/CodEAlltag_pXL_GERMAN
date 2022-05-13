@@ -1,0 +1,9 @@
+Dein Postings hat keinen References-Header, wodurch nur
+nach dem Subject gethreaded werden kann, bei mir steht daher
+dein Posting als verlorenes Anhänsel unten direkt am OP.
+
+Ich vermute einen Programmfehler deines Newsreaders.
+
+/wilfried
+-- 
+http://fqm.zuljvy.upo/scxkma/ujhebcmzu/

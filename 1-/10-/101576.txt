@@ -1,0 +1,13 @@
+Dann ist es einleuchtend, das auch auf diesen Fall anzuwenden. Diese 
+Monoflexion gibts ja auch sonst, z.B. bei Namen und Titel:
+
+  HerrN Direktor Dennis Unverhaun
+  des HerrN Direktor Dennis Ueberfuhr
+  des DirektorS Dennis Ueberfuhr
+  WalterS
+  unsereS lieben Dennis
+
+wo immer nur eine kleine Auswahl der Wörter flektiert wird.
+
+-- 
+Ulrich Jungemeyer

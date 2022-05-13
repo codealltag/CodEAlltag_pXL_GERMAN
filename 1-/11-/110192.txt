@@ -1,0 +1,39 @@
+Übersetzungen von "virtually" sind ja u.a. "so gut wie",
+"gewissermaßen", "fast".
+Das passt dann auch erstaunlich gut zu meinem Verständnis von "virtuell".
+
+Eine virtuelle Maschine ist ein PC, der gewissermaßen existiert, aber
+nicht wirklich, weil es eigentlich nur ein paar Bytes in einem anderen
+PC sind. Er lässt sich aber fast genauso bedienen wie ein echter PC. Er
+ist also wahrnehmbar, aber nicht greifbar.
+
+Ein virtuelles Bild ist ebenfalls wahrnehmbar (sichtbar), aber nicht
+greifbar.
+
+Eine virtuelle Netzwerkkarte ist auch so ein simuliertes Ding, das nur
+im Computer in Form von Daten existiert. Wahrnehm- und benutzbar, aber
+nicht greifbar (also nicht körperlich vorhanden).
+
+Virtuelle Realität spielt dem Benutzer etwas vor (wahrnehmbar), das es
+aber nicht wirklich gibt (nicht greifbar).
+Im Unterschied zur "Augmented Reality", bei der die virtuellen
+Informationen in Bilder realer Umgebung eingebunden werden.
+
+
+Gänzlich andere Bedeutungen, wie z.B. "potentiell" sehe ich darin
+überhaupt nicht. Ein virtueller Gegenstand wird in der Regel auch später
+kein körperliches Dasein bekommen.
+
+Die Begriffe "abstrakt" und "irreal" sind nachvollziehbare
+Fehlübersetzungen, von Leuten, die nicht begriffen haben, was da gerade
+mit "virtuell" gemeint ist.
+Die Vorstellung eines virtuellen PC mag zwar abstrakt sein, der
+virtuelle PC selbst ist aber durchaus konkret und ebenso real (aber eben
+nicht greifbar) vorhanden.
+
+
+Nun überlege ich, ob "simuliert" eine gute allgemeingültige Übersetzung
+dieses Begriffs wäre. In den typischen IT-Fällen schon, beim virtuellen
+Bild passt's schon wieder nicht mehr.
+
+Manuel

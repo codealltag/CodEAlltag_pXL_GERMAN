@@ -1,0 +1,6 @@
+[ ] Du kannst zwischen einem Satzende- und einem Abkürzungspunkt
+unterscheiden.
+
+Gruss
+
+Tino

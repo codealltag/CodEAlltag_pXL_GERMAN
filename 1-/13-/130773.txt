@@ -1,0 +1,34 @@
+nicked *
+
+
+Was soll man sonst schreiben? Es käme wohl nur a in Frage. Das gibt
+nordenglischen Akzent gut wieder,  aber Geraszell ist für meine Ohren
+schon eher ä als a, und US-Aussprache fällt voll in den ä-Bereich.
+
+In der Phonetik gibt es keine Zwischentöne. Auf der Skala von a bis ä
+wird so gut wie jede Zwischenstufe als das eine oder das andere
+wahrgenommen, unsicher ist man sich allenfalls in einem winzigen
+Bereich. Also etwa so:
+
+[.......a.......]?[.......ä.......]
+
+Der Buchstabe gibt an, wo ein prototypisches deutsches a und ä liegt.
+(Die Wirklichkeit ist komplizierter, weil es Dialekte und individuelle
+Unterschiede gibt und mehr als eine Dimension, aber für den
+vorliegenden Fall sollte das Modell genügen.)
+
+Wo liegt nun das typische englische a? Ich gebe mal meine ungefähre
+Schätzung wieder:
+
+[.......a.......]?[.......ä.......]
+             ^^^^^^^^  ^^^^^^ 
+               brit.     US
+
+Abweichende Einschätzungen werden gerne entgegengenommen, ich bin alles
+andere als ein Dialektkenner, weder im Englischen noch im Deutschen.
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Charles Roik in "The Sign of the Claw" (1965)

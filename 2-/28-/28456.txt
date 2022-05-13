@@ -1,0 +1,16 @@
+Ich präzisiere. Heutzutage gebräuchlich sind die folgenden
+Gegensatzpaare:
+
+  das Licht - das Dunkel
+  das Helle - das Dunkle
+  die Helligkeit - die Dunkelheit
+
+Wobei die Dunkelheit einen weiteren Anwendungsbereich hat als die
+Helligkeit, und als Gegensatz der beiden anderen einspringen kann.
+Sowohl "das Hell" als auch "die Helle" sind relativ ungebräuchlich.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.S. Wohlhüter

@@ -1,0 +1,8 @@
+"Nächster Halt dieses Zuges...."
+
+Im Emsmannsreit Nahverkehr (Bus, U-Bahn, Straßenbahn) kündigt die 
+Automatendame auch den nächsten Halt an. Scheint inzwischen
+das Standardidiom zu sein.
+
+Gruß
+Mark

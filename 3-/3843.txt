@@ -1,0 +1,37 @@
+Die einzigen Fonts, bei denen das nicht gesichert ist, sind die
+paar, die Microsoft mit Windows mitliefert. Ich kenne z.B. keine
+von den hunderten Basis-Schriften, die die oberen Anführungszeichen
+verkehrt rum drin hat.
+
+Wie sollten auch sonst Schriftsetzer heutzutage Bücher setzen? Die
+kommen ja auch alle aus dem Computer, und verwenden ja auch die
+gleichen Schriften (nur halt nicht die von AZG).
+
+
+Also das versteh ich jetzt überhaupt nicht. Warum sollte 
+es schlaue Software stören, wenn mehr Zeichen in Unicode
+drin sind (oder in den Schriften). Wenn es dir um kontext-
+bezogene Ersetzungen geht, sowas kann man ja trotzdem machen.
+Z.b. Kann man in InDesign schön die ganzen OpenType-Features
+wie automatische Ligaturen, Minuskelziffern, "Swashes" (wie 
+heißen diese geschwungenen Anfangsbuchstaben?), etc. nutzen.
+Trotz Unicode, der einzelne dieser Features auch kodiert,
+andere wieder nicht.
+
+Eher ist das Problem, daß wir uns in "abendländischen"
+Kulturen durch 500 Jahre Metalllettern und 100 Jahre 
+Schreibmaschine an eine sehr vereinfachte und schematisierte
+Schrift gewöhnt haben.
+
+Bei uns investieren Softwarefirmen nicht in bessere typographische
+Funktionen, weil das, was jetzt schon geht "gut genug" ist.
+Bei Arabisch oder manchen indischen Sprachen wird da viel
+mehr Aufwand getrieben.
+
+
+/felix -- obwohl automatische Ligaturen im Deutschen eher
+          kompliziert automatisierbar sind, denke ich.
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Niels, "Rettet die Wale"

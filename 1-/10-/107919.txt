@@ -1,0 +1,6 @@
+Wilhelm Cannistra tat kund:
+
+
+Seltsam. Ziemlich viele Konstruktionen können zu
+Mehrdeutigkeiten führen. Das übliche Vorgehen ist,
+sie nicht zu verwenden, wenn sie das tun.

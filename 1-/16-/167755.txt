@@ -1,0 +1,19 @@
+* Otmar Dworzynski:
+
+
+Das fiel mir natürlich auch ein, ich fand es aber sowohl in der Form als
+auch der Bedeutung so anders, daß ich zu dem Schluß kam, daß das keine
+Übernahme ist. Wenn doch, dann haben die Übernehmer den englischen
+Ausdruck nicht richtig verstanden oder in einer sehr speziellen
+Situation kennengelernt.
+
+Wenn man von dem XY-Hut spricht, den man aufhat, dann ist man nicht
+unbedingt "zuständig", man hat eine von mehrere Rollen (natürlich ist
+man in einer Rolle auch für etwas zuständig, aber die Formulierung würde
+ich ohne weiteren Kontext so nur wählen, wenn im Team nur eine Person
+diese Rolle innehat). Die Bedeutung ist dann in etwa: "Von der Warte der
+Funktion X aus gesehen sage ich ..." 
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Emmerich E. Moßler

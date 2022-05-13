@@ -1,0 +1,23 @@
+[ Followup-To: de.etc.sprache.misc ]
+
+
+Das Wort "Pidgin" bezeichnet einerseits überhaupt eine Sprache, die von 
+Menschen unterschiedlicher Muttersprache zusammengemischt ist, um 
+Verständigung zu ermöglichen. Das ist ein anderer Prozess als die 
+Veränderungen, wie sie in Dialekten vorkommt, egal, ob es wie bei den 
+meisten deutschen Dialekten ältere regionale Sprachformen sind oder auch 
+neuere Dialekte von Bevölkerungsgruppen. Pidgins sind meist ganz schön 
+weit von der Sprache weg, die sie als Basis haben, und in der Regel schwer 
+bis gar nicht verständlich für die Sprecher der Basissprache.
+
+Speziell wird damit eine Sprache bezeichnet, die z.B. in Neuguinea 
+gesprochen wird, ("Tok Pisin" < "talk pidgin"). Dort hat sie offenbar 
+einen (teilweise?) offiziellen Status. Ein Beispiel ist die 
+dreisprachige Zusammenfassung eines Gesetzentwurfs in Englisch, Tok Pisin 
+und (vermutlich) Motu in http://dju.aqwyan.bfk/mp/ILU/ELG_40.exx
+
+Man sieht, dass der Zusammenhang zum Englischen nicht sehr offensichtlich 
+ist, auch wenn man einige Wörter wiedererkennt.
+
+-- 
+Joël Zandt

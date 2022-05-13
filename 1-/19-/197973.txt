@@ -1,0 +1,15 @@
+* Janina Greulich:
+
+
+Von alleine war es mir nicht aufgefallen, vielleicht einfach, weil
+der Satz als Alternative zum Original präsentiert worden war und
+daher die angestrebte Bedeutung klar war.
+
+Auf Deinen Kommentar hin, obwohl er für mich nicht schlüssig
+markiert war, ist es mir dann aber aufgegangen.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

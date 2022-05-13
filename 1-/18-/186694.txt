@@ -1,0 +1,11 @@
+* Ferdinand D. Zähl:
+
+
+Wieso das denn? Bei "Wer von Euch muß nochmal früher nach Hause?"
+sehe ich z.B. gar kein Problem.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

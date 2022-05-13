@@ -1,0 +1,76 @@
+Bevor man den lautgeschichtlichen Zusammenhang erklärt, muss man
+erst erklären, was ein Kausativ ist:
+
+  Ein Kausativ ist ein abgeleitetes Verb, das zu einem bestehenden Verb
+eine weitere Form (ein neues Verb ) liefert, das die neue
+Bedeutung hat: veranlassen, dass die in der Grundform des Verb
+ausgedrückte Handlung veranlasst wird.
+
+Um das zu verstehen, hilft es ein Beispiel:
+
+futtern    und  sein zugehöriger Kausativ:
+füttern
+
+  "futtern" bedeutet Nahrungsaufnahme von Tieren. Sein zugehöriger
+Kausativ "füttern" bedeutet: bewirken, dass jemand oder etwas
+futtert. Wenn ich also ein Tier füttere, dann bewirke ich, dass
+das Tier futtert.
+
+  Diese Möglichkeit aus einem bereits vorhandenen Verb ein neues
+Verb zu erschaffen war bereits im Indogermanischen angelegt.
+Alle Indogermanischen Sprachen kennen das Konzept. Aber dieses
+Konzept ist heute im Deutschen nicht mehr produktiv, heisst, heute
+kann  man nicht sich ein Verb greifen und davon dann den
+Kausativ bilden. Das würde nicht mehr verstanden werden.
+Die heute noch vorhandenen Kausative sind also Formen, die
+erstarrt sind.
+
+Wie bildete man damals einen Kausativ?
+
+Es gibt zwei Konzepte: Ablautung und Verändern der
+Konsonantengruppe am Ende der Stammsilbe.
+
+futtern  --  füttern (bewirken, dass etwas futtert)  -> Ablautung
+essen    --  atzen (bewirken, dass jemand isst)   -> Verändern der
+                                           Konsonanten + Ablaut
+
+blicken  --   blecken (bewirken, das etwas (er)blickend gemacht wird,
+                        z.B. die Zähne   -> Ablautung
+hängen   -- henken  (bewirken, dass jemand hängt)  -> Konsonanten
+
+liegen   -- legen  (bewirken, das etwas liegt) ->Ablautung
+sinken   -- senken  (bewirken, dass etwas sinkt) -Ablautung
+schwimmen  -- schwemmen
+ziemen   --  zähmen
+...
+
+Die Bildung mittels Ablaut ist die häufigere.
+
+Wie sieht das jetzt beim Kausativ von "beissen" aus?
+
+  Der Kausativ wird gebildet durch ändern der Konsonatengruppe
+am Ende der Stammsilbe: "beizen", mit der Bedeutung "bewirken, dass
+etwas beisst". Gebraucht wird das Wort in der Beizjagd, wo es darum
+geht, einen Greifvogel so abzurichten, dass er beisst, meint hier,
+dass er seine Beute beisst um sie dem Falkner zugänglich zu machen.
+
+  Im übertragenen Sinne wird das Wort verwendet um bestimmte
+Behandlungen  von Produkten oder Oberflächen zu beschreiben.
+Oberflächen werden durch beizen beissend gemacht, sodass sie
+zum Beispiel Farben oder Lasuren besser annehmen, in der
+Gerberei werden durch Beizen die Häute für die weitere
+Behandlung besser zugänglich gemacht und in der Küche
+bereitet die Beizung die Nahrungsmittel für den
+folgenden Verarbeitungsschritt auf.
+
+  Allgemein bezeichnet beizen heute eine Verarbeitungsschritt, der
+ein Produkt dem nächsten Verarbeitungsschritt mehr zugänglich macht,
+der also bewirkt, dass der folgende Verarbeitungsschritt mehr
+"beisst" im Sinne von bewirkt als ohne Beizung.
+
+  Ob die "Beiz" zu der Wortgruppe dazugehört, weiss ich nicht.
+Es wäre dann ein Ort wo die Leute beissend, möglicherweise
+im Sinne von essend oder diskutierend, gemacht werden.
+
+Gruss
+Otto

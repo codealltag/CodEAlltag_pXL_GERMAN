@@ -1,0 +1,10 @@
+Da ist dann aber ein Bug im Newsreader, oder du hast das falsche 
+Zeichen ausgewählt: GB18030 ist ein chinesischer Zeichenstandard:
+
+http://jj.qqdfnvvbm.hpp/ypur/JP_68277
+
+Wenn du UTF-8 auswählen kannst, damit sollte das problemlos gehen.
+
+/charles
+-- 
+http://ejp.rvtkpw.snm/qzogdy/lfzebdhtx/

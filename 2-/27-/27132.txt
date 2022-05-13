@@ -1,0 +1,10 @@
+Wenn Du es so genau wissen willst: Das ist mein üblicher Postingserver,
+aber zum Lesen benutze ich nicht nur den.
+
+
+Das ist dann der längste Spool im Backend - mal abgesehen vom lokalen
+Archivhamster. Und mein eigentliches Frontend ist der Leafnode mit 40
+Tagen Haltezeit.
+
+-- 
+ASCII to ASCII, DOS to DOS

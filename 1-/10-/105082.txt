@@ -1,0 +1,13 @@
+* Pierre Iffert:
+
+
+Richtig unidiomatisch erscheint es mir bei "zufolge".
+
+"zeugenaussagen zufolge" 614, ohne "very similar entries"
+"zufolge zeugenaussagen": 2 echte 
+(die anderen nach dem Muster "liegen dem Bericht zufolge Zeugenaussagen
+vor")
+
+-- 
+gugelfug,  m., süsze, unfug
+  GRIMM, Deutsches Wörterbuch

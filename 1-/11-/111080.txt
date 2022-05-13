@@ -1,0 +1,13 @@
+Arial Unicode ist installiert, und auch wenn ich in Euromaster bei "Ansicht >> 
+Zeichenkodierung" ausdrücklich Unicode UTF 8 wähle, tut sich nix. 
+Vielleicht braucht man noch einen Font? IPAPhon TT ist installiert und 
+wird in Word angezeigt, aber nicht im FF. Komisch.
+Grübel grübel ...
+
+-- 
+mfg
+Volkmar Buddenbohm
+Etzenhausen, Taiwan
+25�07'58"N 118�27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  I.V.

@@ -1,0 +1,8 @@
+On Feb 1, 11:59 pm, Günter 'AekuaejUyma' Inderelst <JfcjzhxW...@wvo.li>
+wrote:
+
+
+Dann definiere doch mal das inverse Element bezüglich der Addition.
+
+Marks Definition der Subtraktion kommt ohne das inverse Element
+aus, liefert es aber für den Spezialfall b=3D0 mit.

@@ -1,0 +1,5 @@
+N, "Steak" ohne Zusatz ist schlicht unbestimmt. Rind als
+Default-Wert anzunehmen ist falsch.
+
+Gruß
+Marc

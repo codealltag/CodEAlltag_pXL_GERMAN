@@ -1,0 +1,14 @@
+* Mirko Ohl:
+
+
+Ich habe darüber nicht oft genug auf Deutsch gesprochen, um mir sicher
+zu sein, aber ich vermute, ich würde "Archiv" sagen, wenn ich über
+theoretische Informatik spreche, und im konkreten Fall immer "ein Zip",
+"ein Rar" etc., denn wenn man solche Dateien austauscht, muß man
+normalerweise eh klären, ob das konkrete Format genehm ist.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Epib will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Detlef Biereichel

@@ -1,0 +1,13 @@
+Algorithmen sind davon unabhängig, Programme aber nicht. Programme sind
+für bestimmte Maschinen oder Interpreter geschrieben. Ein Programm[1]
+ist eine konkrete Formulierung eines Algorithmus, das ist nicht das
+gleiche wie ein Algorithmus, sowenig wie ein Satz das gleiche ist wie
+ein Gedanke.
+
+
+Der Turing-Test hat mit der Turing-Maschine nur den Erfinder gemeinsam.
+Er testet *nicht*, ob eine Maschine turing-vollständig ist.
+
+	hp
+
+[1] Nicht jedes Programm, aber das würde zu weit führen.

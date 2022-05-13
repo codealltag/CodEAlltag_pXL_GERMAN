@@ -1,0 +1,16 @@
+Das ist etwas anderes.
+
+Hochladen ist *eine* Methode des Einstellens: auf einem dezentraleren 
+Rechner bereitstellen und dann an den zentraleren (z.B. zuverlässig 
+ständig im Internet verfügbaren) Webserver kopieren, nach der Metapher 
+oben = zentral.
+
+Meine Webseiten pflege ich oft auf einem Rechner, auf dem das Dateisystem, 
+wo sie liegen, ebenso gemountet ist wie auf dem Webserver selbst, da wird 
+nichts nach "oben" geladen und von "unten" aus betrachtet; deswegen sind 
+mir diese Vorstellungen fremd. Für weitaus die meisten Menschen ist das 
+aber nicht so: die stellen ein, indem sie hochladen, egal über welches 
+Protokoll.
+
+-- 
+Valerius Wurmser

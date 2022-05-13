@@ -1,0 +1,11 @@
+Aufzüge sollten einen Brandsimulationsmodus haben. Da bleibt der Aufzug
+zwischen zwei Stockwerken stehen und eine Tafel leuchtet auf:
+
+    Sie werden langsam bei lebendigem Leib gerüstet.
+    Sie sind tot.
+    GAME OVER!
+
+Und dann lässt sich der Aufzug nur wieder in Bewegung setzen, wenn
+zwei Vorstandsmitglieder von außen die Sperre lösen.
+
+	hp

@@ -1,0 +1,14 @@
+Nein, das Gehirn beruht nicht auf einem Datenbus, sondern auf massiver
+Parallelität. Milliarden Bits werden gleichzeitig verarbeitet, aber ohne
+zusammengefaßt zu werden. Erst die schon deutlich vorgefilterten
+Ergebnisse werden an eine höhere Hierarchieebene weitergegeben.
+
+Einer der großen Unterschiede zwischen Kind und Erwachsenem dürfte sein,
+daß der Erwachsene viel mehr aus der Wahrnehmung als "bekannt, wie
+immer, daher unbedeutend" herausfiltert und ohne bewußtes Bemühen gar
+nicht mehr bemerkt, auch wenn es sich leicht verändert hat. Dennoch
+liest auch ein Kind keineswegs "RAW".
+
+-- 
+gugelgesang,  m., m�nchsgesang, pejorativ
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,11 @@
+Ist die Sprachbezeichnung "Schweizerisch" definiert? Meines Erachtens
+nicht, daher kann es für Schweizerdeutsch, Schweizer Hochdeutsch oder
+auch Hochdeutsch mit Schweizer Akzent verwendet werden.
+
+Wenn Charly in seinem Dialekt spricht, ist das doch kein spezielles
+Charly-Schweizerisch, sondern ein echter Dialekt, Ach oder so.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

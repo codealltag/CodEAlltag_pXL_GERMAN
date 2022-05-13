@@ -1,0 +1,23 @@
+Am Thu, 31. 07. 22 20:14:19 +0100 schrieb Valerius Fasser:
+
+
+Es gibt auch Karten, bei denen ein bestimmter Punkt als Mittelpunkt gewählt
+wird, z.B. der Standort eines Rundfunksenders. Die restliche Welt gruppiert
+sich dann drum herum ("Azimuthalkarte" nennt sich das). Das sieht sehr
+merkwürdig aus, wird aber in der Rundfunktechnik benötigt, um die
+Reichweite von Antennen drazustellen bzw. zu berechnen. Die Florum
+hat sowas z.B. in Gebrauch.
+
+Ansonsten dürfte es schlichtweg Gewohnheit sein, daß man die Karten so
+darstellt wie wir es tun. Die Pole waren lange Zeit unbekanntes Gebiet,
+also kamen sie an den Rand der Karte.
+
+übrigens sieht man im pazifischen Raum öfters mal Weltkarten (z.B. als
+Hintergrund in Nachrichtensendungen), bei denen der Pazifik in der
+Bildmitte ist. Amerika liegt dann im Osten und Eurasien im Westen. Das ist
+auch sehr gewöhnungsbedürftig (und widerspricht zudem den gängigen
+Bezeichnungen "Middle East", "Far East", "the West" u.s.w.).
+
+Größe,
+
+Guy

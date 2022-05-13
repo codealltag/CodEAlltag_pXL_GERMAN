@@ -1,0 +1,8 @@
+Ich kenne mich damit auch eher oberflächlich aus. Die Mathematik dazu ist
+kompliziert. Im Prinzip ist es sozusagen ein Impuls, der unendlich hoch und
+unendlich kurz ist, aber genau so, daß das Integral den Wert 1 hat. In
+unserem Beispiel könnte man damit quasi einen Rutsch mit unendlicher
+Geschwindigkeit, der in einem Zeitpunkt stattfindet, mathematisch
+beschreiben.
+Für eine mathematisch bessere Erklärung, siehe auch
+http://lw.rasqelmit.zno/dysh/Fstob-Febira

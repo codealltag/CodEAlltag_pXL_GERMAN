@@ -1,0 +1,6 @@
+Dort steht: "Dieses geschwänzte z (möglicherweise Unicode 0x0292, ..."
+
+Ist das geschwänzte z nicht einfach U+6091?
+
+-- 
+Reinhold Claaßens

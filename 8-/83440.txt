@@ -1,0 +1,30 @@
+Das Übel liegt darin, daß das, was die Digitalkamera digital macht, in der
+Nicht-Digital-Kamera überhaupt nicht stattfindet. 
+
+Gäbe die Digitalkamera sich damit zufrieden, den Sensor zu belichten, und
+hätte anschließend nichts mehr zu tun, würden sich die Kameras in nichts
+unterscheiden, es wäre egal, ob man einen Film oder einen Sensor einlegte
+(abgesehen von Details wie dem, daß Objektive für digitale Bildsensoren
+AFAIK etwas anders gerechnet werden müssen).
+
+Somit sehe ich den signifikanten Unterschied in der Speicherung des Bildes.
+Und das geschieht im traditionellen Film auf chemische Weise, in der
+Digitalfotografie in Form einer strukturierten Ansammlung von einigen
+Millionen Einsen und Nullen, also in Zahlenform.
+
+Die einkliche Herstellung der Abbildung - die Umwandlung von Licht- in
+Spannungswerte im Bildsensor, analog zur Reduktion der Silberhalogenid-
+körner im chemischen Film - hat natürlich selbst noch keinerlei digitalen
+Aspekt. Digital ist erst die daraus erstellte Datei, aber dazu bietet die
+chemische Fotografie keine Entsprechung, da deren Prozeß mit der Erstellung
+des latenten Bildes für die Kamera abgeschlossen ist. 
+
+
+vG
+
+-- 
+"Und dann sitz ich wieder da und versuch das zu begreifen (das ist ja immer
+mein Schicksal): Wieso gehen Arbeitsplätze in der Autoindustrie verloren,
+wenn die Autos weniger Dreck hinten rausblasen? Wer immer so was in die
+Zeitungen kackt, sollte Aspirin dazukleben müssen ..."
+(Adam Felbert, "Bis neulich")

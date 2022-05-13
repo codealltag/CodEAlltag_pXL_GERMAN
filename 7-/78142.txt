@@ -1,0 +1,11 @@
+$mike:~> desd-cc "zv7ngja0mwnh.zzn@tog.kvsrphe-vjnv.tp"
+[E439] (08775:20782) "reklamiere": Spammen verboten.
+[A270] (31662:27299) "Baumgärtner": Unbekannter Käse.
+[V950] (28635:46079) "Menschenrecht": Undeklariert.
+[E999] (62371:25443) "frech": Fataler Fehler.
+
+4 Fehler(s) gefunden.  Kompilation so nie gelinkt.
+Stopp.
+
+
+mi":-)"ke

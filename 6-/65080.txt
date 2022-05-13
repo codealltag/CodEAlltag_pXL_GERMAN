@@ -1,0 +1,5 @@
+Ich bin zu jung, um die alten Ausdrücke zu kennen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Joseph Kluten, comp.lang.python

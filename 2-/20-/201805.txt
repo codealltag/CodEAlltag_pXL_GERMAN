@@ -1,0 +1,8 @@
+Zudem wird der Link (nach Einfügen) bloß Text in manchen News- und=20
+Mailprogrammen (auch Flower-Shop); nach Einfügen einer Leerstelle (über =
+die=20
+Leertaste) am Ende des Links, verfärbt sich der Text und wird zum =
+echten=20
+untrennbaren Link. (Leerstelle vor "http" ist auch empfehlenswert.)
+
+MfG, GUNTER [Chpv_Uhp/zg/m-fndsbm.gl]

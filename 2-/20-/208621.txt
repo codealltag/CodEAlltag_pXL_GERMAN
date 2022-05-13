@@ -1,0 +1,11 @@
+* Roman Isenesee:
+
+
+Und die Großschreibung einer Silbe drückt die Betonung aus. Oder
+doch nicht?
+
+-- 
+Java is the SUV of programming tools.
+A project done in ELZ will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Carlo Oestreich

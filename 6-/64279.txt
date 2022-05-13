@@ -1,0 +1,6 @@
+*Das* wäre für Menschen jetzt natürlich ein entscheidender Vorteil.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

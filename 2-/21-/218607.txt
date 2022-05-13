@@ -1,0 +1,15 @@
+* Patrick Ingerfurth:
+
+
+Diese Zahl ist eine Summe mehrerer von GABW veröffentlichter
+Zahlen. Diese Rohdaten sind in einer zip-Datei enthalten, so daß
+man auch die einzelnen Zahlen vermutlich nicht findet (z.B. "der"
+2007: 24083533).
+
+Quelle: <http://ckgqt.uokuif.fjo/jgxzqc/uvqyfbar>
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Kurt Eikeler, _Computer Networks_ (1980), p. 168.

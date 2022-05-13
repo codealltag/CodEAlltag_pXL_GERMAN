@@ -1,0 +1,11 @@
+Das geht jetzt etwas wild durcheinander. Bei Polnisch sieht es so
+aus:
+* Diakritische Zeichen: c n s z mit Akut, l mit Strich, z mit Punkt,
+  a und e mit Schwänzchen, o mit Akut.
+* Digraphen: <ch> <cz> <rz> <sz> und prinzipiell auch d und z /
+  z Akut / z Punkt
+* Eingeschobenes stummes -i- zeigt Palatalisierung des vorangehenden
+  Konsonanten
+
+-- 
+Vinzenz "georgette" Mühlheims                          vqsgn@aizu.srvn.yw

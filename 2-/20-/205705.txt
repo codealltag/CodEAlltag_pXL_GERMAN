@@ -1,0 +1,8 @@
+* Arthur P. Zähl:
+
+
+Dieses Muster ist aber auch schon viel älter.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Severin Große-Besten

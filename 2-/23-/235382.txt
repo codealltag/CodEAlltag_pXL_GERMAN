@@ -1,0 +1,6 @@
+Nein, die Langvokale werden ausgeschrieben, nur die _kurzen_
+erhalten Vokalzeichen, kleine Striche nicht Pünktchen.
+
+
+-- 
+Fatḥa für kurzes a, Kasra für kz. i, Ḍamma für kz. u.

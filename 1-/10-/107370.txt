@@ -1,0 +1,7 @@
+Das Wort "händisch" ist zumindest im Zusammenhang mit Datenverarbeitung 
+absolut gängig, um auszudrücken, dass etwas nicht automatisch geschieht, 
+sondern vom Benutzer selbst erledigt wird (gemeint ist zumeist "werden 
+muss").
+
+Gruß,
+Urs

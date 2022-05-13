@@ -1,0 +1,44 @@
+Am Mon, 15 Sep 2007 19:25:34 +0200 schrieb Eilert Grobbrügge:
+
+Auf die Kritik von Enno hin, hier nochmal die Suchbegriffe und dahinter
+die Treffer in der Digitalen Bibliothek, Band 125, *nachdem* ich die
+Autoren ausgeschlossen habe, von denen vor 1749 oder nach 1899 gedruckte
+Bücher Teil der Daten sind.
+
+- Heilig* Vater: 214; heilig* Vater: 171
+- in Obacht nehmen: 5; in Acht nehmen: 138; in acht nehmen: 166
+- alles mögliche: 124; alles Mögliche: 116
+- groß schreiben: 1; großschreiben: 0
+- aufrechterhalten: 29; aufrecht erhalten: 136
+- instand halten: 0; in Stand halten: 3, in stand halten: 1
+- nichts ahnend: 14; nichtsahnend: 0
+- in bezug: 101; in Bezug: 277
+- mit Bezug: 27; mit bezug: 0
+- infolgedessen: 55; infolge dessen: 9; in Folge dessen: 139
+- statt dessen: 632; stattdessen: 1
+- irgend jemand: 296; irgendjemand: 11
+- irgendeiner: 487; irgend einer: 787
+- des weiteren: 419; desweiteren: 0
+- desgleichen: 585; des gleichen: 45
+
+- zutage: 195; zu Tage: 754
+- innehaben: 9;  inne haben: 20
+- innehalten: 55; inne halten: 32
+- mitnichten: 119; mit nichten: 204
+- zunichte: 64; zu nichte: 52
+- stetig: 96; stätig: 13
+- hierzulande: 98; hier zu Lande: 151
+- zuviel: 1145; zu viel: 3139
+- zuwenig: 118; zu wenig: 1133
+- kurzerhand: 6; kurzer Hand: 9
+- brachliegen: 3; brach liegen: 16
+- zurechtlegen: 32; zurecht legen: 14
+- zurechtmachen: 26; zurecht machen: 38
+- zurechtstellen: 4, zurecht stellen: 0
+- dementsprechend: 4; dem entsprechend: 6
+
+- wieviel: 1284; wie viel: 2402
+- wieviele: 10; wie viele: 1023
+
+Gruß
+Eilert.

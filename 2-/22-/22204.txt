@@ -1,0 +1,6 @@
+Das ist (leider) mehr als nur üblich. Im allgemeinen hängt dann noch ein
+HTTP-Proxy dazwischen, so dass auch ein auf Port 80 lauschender Newsserver
+nicht nützen würde.
+
+
+Vinzent.

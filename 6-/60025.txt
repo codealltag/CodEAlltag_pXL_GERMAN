@@ -1,0 +1,23 @@
+Nein, das Ergebnis einer laienhaften Formularerstellung ... ;-)
+
+Als Ehemann einer Grundschullehrerin, der sich in den letzten
+Wochen mal wieder mit der Aktualisierung der Zeugnisformulare
+rumschlagen durfte (da es ja jetzt PCs gibt, lassen die Schulen
+keine Zeugnisformulare mehr drucken - ist ja teuer - , sondern
+jede Schule entwirft sich ihre eigenen Formulare ...), gehe ich
+mal davon aus, dass es sich hier um ein Formatierungsproblem
+handelt:
+
+"Aussagen über die Lernentwicklung und den Leistungsstand in
+den Fächern" ist die Überschrift (d.h. sollte sein).
+Hinter "Fächern" fehlt also anscheinend ein Absatz oder zumindest
+ein Formatierungswechsel (Fett-kursiv-normal).
+
+Darunter kommen dann die einzelnen Fächer, zuerst Deutsch mit den
+drei Punkten (wie genannt), dann Englisch, Mathe, Sachunterricht ...
+
+Und darüber stehen die Kopfnoten ("Aussagen über das Arbeits- und
+Sozialverhalten"), oder?
+
+
+/Etienne

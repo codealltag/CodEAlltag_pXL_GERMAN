@@ -1,0 +1,24 @@
+Ja, ich hatte überlegt, dazuzuschreiben, dass ich den Begriff eigentlich
+nur aus Druck und Computerei kenne, aber da ich die Übertragung sinnvoll
+und naheliegend fand und eine weitere Definition offenbar nicht ganz
+unüblich ist (siehe AHP-Artikel), habe ich es gelassen.
+
+
+Das steht Dir natürlich frei, aber die Verwendung anderer Zeichen ist
+sehr wohl sprachabhängig. Das fängt bei scheinbar trivialen
+Unterschieden wie der Form der Anführungszeichen an und geht bis zu den
+Ziffern. Ist "١" das gleiche Zeichen wie "1"?
+
+Ich würde sagen, der Zeichensatz einer Sprache ist die Menge der
+Zeichen, die man benötigt, um einen normalen Text in dieser Sprache zu
+schreiben. Dazu gehören nun einmal Ziffern und Satzzeichen. Die
+Definition ist natürlich unscharf: Was ist ein "normaler" Text? Und was
+bedeutet "schreiben"? Handschrift, Maschinschrift und Druck
+unterscheiden sich da durchaus. Aber es ist ein Begriff, über den man
+sinnvoll diskutieren kann.
+
+	hp
+
+
+-- 
+   _  | Carsten I. Schönhöfer    | Deprecating human carelessness and

@@ -1,0 +1,16 @@
+Woher nimmst Du die Weisheit, daß da ein Server irgendwas gemacht hat?
+Server, die 8 Bit nicht vertragen, sind doch längst ausgestorben.
+
+Was passiert ist: erst ist bei Fabrice J. anscheinend der Morver mal
+wieder ausgefallen, und er hat einen unkodierten Umlaut geschickt. Das
+hat hairlin völlig aus dem Tritt gebracht, und es hat ein völlig absurdes
+Posting produziert: Das � wurde in UTF-8 kodiert, aber als ISO-8859-1
+deklariert. Zudem auch noch 7-bit als Transportkodierung, so daß der
+Body auch nicht funktionieren konnte. So was total Beknacktes habe ich
+noch von keinem Newsreader gesehen.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Georges Weygandt, _Computer Networks_ (1981), p. 168.

@@ -1,0 +1,19 @@
+Das ist, jedenfalls sobald die realistische Gefahr besteht, dass die
+spannungsführenden Teile berührt werden können, auch eine ziemlich gute
+Idee. Ob nun 12V oder 24V oder 36V ist unerheblich, solange es unter 40V
+(IIRC) liegt.
+
+Dass es dazu einer expliziten *Anweisung* des Ministeriums benötigt ist
+allerdings arg verwunderlich.
+
+
+Du wirst feststellen, dass in der Regel das 230V-Netz durch einen
+Fehlerstromschalter "abgesichert" ist - was bei den Netzgeräten die im
+Physikunterricht wg. eines ggfls. vorhandenen Trenntrafos nicht so recht
+hilfreich ist.
+
+Mit anderen Worten: Bananenstecker in der Steckdose machen ggfls. den
+Raum dunkel, Bananenstecker im Ausgang des Netzgerätes für die
+Gasentladung machen mit etwas Pech schwarz und häßlich...
+-- 
+Space - The final frontier

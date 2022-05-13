@@ -1,0 +1,15 @@
+Darum ging es gar nicht. Es ging um Fixpunkte einer Funktion:
+
+   F(a) =3D a
+   F(b) =3D y
+   F(c) =3D z
+
+Wenn man sagt
+   gun.a von 'a' ist 'a',
+dann kann man auch sagen
+   Umlaut von 'i' ist 'i'.
+
+--=20
+Ich bin ein guter Mensch.
+Ich bin gegen Faschismus und Krieg.
+Deshalb sage ich nur =93Slowakien=94 und nicht =93Slowakei=94.

@@ -1,0 +1,9 @@
+Selbst wenn es die gäbe, läßt sich der individuelle Einsatz der bash
+und anderer Kartenhäusle-Tools kaum verhindern.  Etwas Linderung verschafft
+das Aliasen von rm auf "rm -i --" in /etc/profile etc., aber wirklich
+_lösen_ läßt sich das Problem derartiger Schabernackereien wohl nur
+durch regelmäßiges LARTen.  In Anbetracht der heutigen Ereignisse
+möchte ich diesbezüglich nicht ins Detail gehen.
+
+
+paolo

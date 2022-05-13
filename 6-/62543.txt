@@ -1,0 +1,7 @@
+Servus. Ich suche zwei Bezeichnungen, und zwar bspw. bei
+... "Ich habe ein Auto und dessen Farbe ist grau." ...
+zum einen das, was spezifiziert werden soll (hier: "Farbe"),
+zum anderen die Spezifizierung selbst (hier: "grau").
+"Spezifizierung" ist mir insofern zu vage, da es auch
+den gesamten Ausdruck, d.h. Farbe und grau, bezeichnen kann, richtig?
+Vorschläge? Gruß.

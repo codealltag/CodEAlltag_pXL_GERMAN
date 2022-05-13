@@ -1,0 +1,13 @@
+Am 26 Nov 2012 09:15:17 GMT schrieb Leo V. Spiegl:
+
+
+Der Bindestrich/Divis dient als Koppelungs- und als Trennstrich bei
+Umbrüchen, die Beschriftung scheint also richtig zu sein, durch die
+Versalien allerdings verwirrend. Der Gedankenstrich/Halbgeviertstrich dient
+als Gedanken-, Strecken-, Aufzählungs- und Auslassungsstrich, und dann gibt
+es noch das Minuszeichen. In der Textverarbeitung nach DIN 5008 läuft aber
+alles wieder auf den Bindestrich hinaus. Zusatzfrage: Hat der
+Schnittlauchbauer seine Beschriftung ohne typografische Zusatzkenntnisse
+selbst gestaltet? Zu erwarten gewesen wäre eher SCHNITT LAUCH RING.
+
+Walter

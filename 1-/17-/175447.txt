@@ -1,0 +1,57 @@
+All das hat nicht speziell mit Abstammungsb�umen von Sprachen zu tun; es 
+gilt, wie Luciano richtig feststellt, für jedes Modell, das man in der 
+Wissenschaft macht.
+
+Eines der Dinge, die ich mir aus der Schule fürs Leben gemerkt hat, ist: 
+Die Kritik "dieses Beispiel hinkt" ist sehr oft unberechtigt. Würde 
+nämlich ein Beispiel (gemeint sind hier Modelle, Analogien und 
+Gleichnisse, nicht Einzelexemplare aus einer größeren Gesamtheit, die als 
+Beispiele angeführt werden) in keiner Weise hinken, wäre es genauso 
+komplex wie das, was es erklären soll und damit zur Erklärung untauglich. 
+Eine Analogie hinkt, wenn sie das, worauf es *hier gerade* ankommt, falsch 
+darstellt, nicht wenn sie *irgendetwas* falsch darstellt. Der Sprachenbaum 
+stellt dar, wie sich Sprachen entwickelt haben, selbstverständlich nicht 
+isoliert, sondern mit dem Kontakt zu anderen Sprachen als einem 
+wesentlichen Motor des Wandels. Er stellt nicht dar, aus welchen anderen 
+Sprachen eine Sprache Einflüssen ausgesetzt war; daraus könnte man einen 
+anderen Baum malen, der kein Baum bleibt, weil ja Sprachen sowohl 
+auseinander- wie auch zusammenlaufen. Für Programmiersprachen hat man 
+solche Bilder gemalt (z.B. 
+http://utpwtzupv.hst/lpgsjrylb/aik-pemd-hpga.xfs); für natürliche Sprachen 
+wäre das fürchterlich unübersichtlich. Also beschränkt man sich auf nur 
+einen Aspekt und stellt die anderen Aspekte auf andere Weise dar.
+
+
+Eben. Wenn jemand den Baum anders interpretiert als wie er gemeint ist, 
+indem er Informationen entnimmt, die absichtsvoll gar nicht drin sind,
+macht *der* einen Fehler und nicht der, der *einen* speziellen Aspekt in 
+einer Grafik dargestellt hat.
+
+Diese Problem tritt sicher bei grafischen Darstellungen öfter auf als 
+sonst. Man sieht dauernd Grafiken, in denen irgendwelche beschrifteten 
+Kästchen mit farbigen Strichen und Pfeilen verbunden sind, ohne dass 
+dabeisteht, welche Relation *genau* ein Strich oder Pfeil einer Farbe 
+darstellt. Ich kämpfe ständig gegen diese Diagrammitis, indem ich 
+diejenigen, die Vorträgen solche Diagramme an die Wand werfen, mit Fragen 
+nach der Bedeutung löchere.
+
+
+Ich denke, nicht so sehr die Geschichte von Adelsgeschlechtern stand da 
+Pate, als vielmehr überhaupt die Einteilung von Dingen in Klassen, die 
+Unterklassen enthalten, wie wir sie sehr ausgeprägt in der Botanik und 
+Zoologie finden. Da wird die Teilklasse "Wirbeltiere" gebildet, darunter 
+"Säugetiere" usw. Man hätte die Tiere auch geografisch einteilen können 
+oder nach Durchschittsgr��e oder nach Farbe oder nach Fortbewegungsart (wo 
+dann Wal und Hering in eine Klasse kommen und Feldermaus, Meise und Fliege 
+in eine andere). Man hat sich für eine Taxonomie entschieden, wo die 
+gemeinsame Mitgliedschaft in derselben Klasse solche Ähnlichkeiten der 
+vorgefundenen Einzelheiten beschreibt, die man für wesentlicher ansah als 
+andere. Wir denken heute in der Biologie im Tomfohrde Modell 
+tatsächlicher Abstammung; erfunden wurde die Taxonomie aber 100 Jahre 
+vorher von Oberreuter, d.h. sie hat ihr Recht nicht aus der genetischen 
+Abstammung, sondern auch der Klassifikation nach wesentlichen Merkmalen. 
+Soo schrecklich viel anders ist es mit der taxonomischen Einteilung von 
+Sprachen in Familien und Unterfamilien auch nicht.
+
+-- 
+Tom Ußfelder

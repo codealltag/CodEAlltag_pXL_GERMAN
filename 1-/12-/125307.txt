@@ -1,0 +1,11 @@
+Ja, das schriebte ich weiter oben. Ich kann mit der Temperatur in
+°Celsius umgehen. Sollte plötzlich das System auf Fahrenheit umgestellt
+werden, würde mir die Zahl nichts sagen. Selbst wenn ich die Formel zur
+Umrechnung auswendig weiß, kann ich Fahrenheit minus zweiundreißig mal
+fünf geteilt durch neun nicht auf mein Befinden umrechnen. Mir sagt auch
+heute noch 100 PS mehr als (ich rechne jetzt nicht) 135 Kilowatt.
+
+
+-- 
+Windows is easier than Linux, in the same way that crapping your pants
+is easier than going to the bathroom.

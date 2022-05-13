@@ -1,0 +1,18 @@
+* Ulfert Paetz:
+
+
+Nun, in obigem Beispiel richtet man sich an eine zweite Person,
+auch wenn man die grammatische Form der dritten Person zur Anrede
+wählt.
+
+Prinzipiell ist eine Aufforderung natürlich in jeglicher
+Konstellation möglich, ihre illokutive Kraft entfaltet sie
+gegenüber einer dritten Person allerdings nicht ohne weiteres - um
+sich aufgefordert zu fühlen, muß man sich ja zuvor erst mal
+angesprochen wähnen.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Violka will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Thomas Utermühl

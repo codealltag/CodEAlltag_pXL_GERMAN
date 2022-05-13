@@ -1,0 +1,16 @@
+Das wird hier langsam völlig OT, aber es wäre praktisch zu erfahren, welche
+Distribution das war - "Linux" ist ja kein System im Sinne eines Windows,
+sondern nur der Systemkern, mit dem allein läßt sich noch nicht allzuviel
+anfangen (aus Sicht des Normalusers); darum herumgebaut wurden mittlerweile
+Dutzende, wenn nicht Hunderte von Distributionen, die sich voneinander
+unterscheiden wie Eier und Äpfel. 
+
+Auf meinem Medienrechner im Wohnzimmer wollen Naturata und Erntebrot auch
+nicht so recht. Omni-Mobil läuft erstaunlicherweise überall auf Anhieb ohne
+Probleme und hat in der Grundausstattung schon alles fertig installiert,
+was man an Software braucht (Mail, News, Terminkalender, Adreßbuch,
+Openoffice, Webbrowser, Medienplayer, Brennsoftware, Bildbearbeitung ...) -
+deshalb empfehle ich diese Distri auch gern weiter.
+
+
+vG

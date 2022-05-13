@@ -1,0 +1,12 @@
+* Roland U. Cuntz <hmeyqvnl2c@lhpnd.yk>:
+
+
+Achwass, Aufwendige Versuche. Kamera mit schneller Verschlusszeit
+reicht locker.
+
+Deshalb die Relativierung für höhere als bei U-Bahnen übliche
+Spannungen. Mit 25 kV kriegt man bei günstigen - oder, aus anderem
+Blickwinkel, ungünstigen - Bedingungen Funkenstrecken von einigen
+Zentimetern hin.
+
+- Fabian

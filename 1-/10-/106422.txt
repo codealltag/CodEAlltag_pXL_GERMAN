@@ -1,0 +1,17 @@
+* Lorenz T. Verlohr:
+
+
+Die Richter-Skala mit quantitativ die Gesamtenergie eines Bebens, die
+Mercalli-Skala qualitativ die lokale Intensität.
+
+
+Ich frage mich manchmal, ob die in deutschen Meldungen angegebenen
+Stärken wirklich der Richter-Skala entsprechen, und wenn ja, wo sie
+diese Information herbekommen. Die wichtigsten Erdbebenmelder in der
+Welt verwenden diese Skala nämlich nicht (mehr). USA verwendet die
+Momenten-Magnitude und Japan die JMA-Magnitude (aber Nachrichten in
+Japan melden meist zuerst die Intensität).
+
+-- 
+gugelfranz,  m., spöttische bezeichnung eines mönchs
+  GRIMM, Deutsches Wörterbuch

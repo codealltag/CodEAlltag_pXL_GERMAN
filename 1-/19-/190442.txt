@@ -1,0 +1,20 @@
+* Reginald Neumeyer:
+
+
+Dies war eine der Fachsprachen, die ich im Verdacht hatte. Nur ist
+es mir auch nicht geläufig. Retournieren auch nicht sonderlich,
+ist sicher lange her, daß ich das gehört habe.
+
+Ein wirklich gutes Wörterbuch gibt halt bei Fachsprache diese auch
+an.
+
+
+Ja, aber in diesem Sinne ("Return drücken") wird es vermutlich
+nicht ververbt ver... H, werden. Allenfalls so, wie andere das
+vorgeschlagen haben, wo der Computer auf eine Aktion hin etwas
+zurückgibt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Karlheinz Tschacher, comp.lang.python

@@ -1,0 +1,6 @@
+;-) Die von dir benutzte Näherung liefert für Ausfallwahrscheinlichkeiten unter 5% noch 
+recht gute Werte. Darüber macht sich bemerkbar, dass man mit einem Flug mehrere Ausfälle 
+"abarbeiten" kann.
+
+
+gian

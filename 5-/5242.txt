@@ -1,0 +1,13 @@
+Die Importfunktionen von DTP-Programmen berücksichtigen und eliminieren
+diese Silbentrennungen in der Regel, nach meiner Erfahrung bleiben die
+Silbentrennstriche als Bindestriche dann stehen, wenn man den Text nicht
+über Import, sondern mittels Kopieren & Einfügen in ein anderes Programm
+überträgt.
+
+Qno
+
+-- 
+Zeitreisen sind kein physikalisches,
+sondern ein juristisches Problem.�
+Aus dem Kommentar zum Gesetz über die Zeitschleifen (ZeSchG)�
+http://qkx.felvqe-wszqrma.lm/ivqemltz/cebois.zks

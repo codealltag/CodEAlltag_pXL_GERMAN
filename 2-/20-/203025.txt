@@ -1,0 +1,14 @@
+Wenn mich jemand in seinen Filter schreibt, dann tut er das in der
+Regel, weil er erwartet, dass das Lesen meiner Postings seine Laune
+verdürbe. Das scheint mir in desd gut gelöst, denn man liest wenige
+Flamepostings. Das Thema Sprache selbst ist es sicher nicht, denn zur
+Sprache gehören ja nicht nur Syntax, Grammatik oder Etymologie,
+sondern bspw. auch Konnotationen, die durchaus Flamepotential haben
+können.
+
+In Anbetracht dessen, dass viele Gruppen zugemüllt werden, ist es
+unverständlich, dass sich das Problem nicht einfach von selbst löst.
+Gibt es in desd einen besonderen Trick?
+
+Wenn die Schwierigkeit darin bestünde, dass eine Filterliste zu gross
+würde, könnte man nicht eine Whitelist benutzen?

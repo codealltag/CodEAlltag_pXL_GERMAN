@@ -1,0 +1,4 @@
+Toleranz wird auch i.S.v. “Abweichung” oder “Spielraum” verwendet. Bspw. 
+Luftdruck von 2 Bar mit einer Toleranz von +- 0,5 Bar. Es gibt wohl 
+bessere Beispiele, aber mir fällt gerade keines ein. Wenn du nun 
+“Abweichung” einsetzt, dann ergibt der Satz Sinn.

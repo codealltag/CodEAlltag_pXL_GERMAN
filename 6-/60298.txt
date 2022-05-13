@@ -1,0 +1,11 @@
+Aber im Header stehen bei iso-8859-x erst mal 4-5 Bytes mehr. Man muß
+also die Zahl der 8-Bit-Zeichen im Body überschlagen und kann dann den
+effizientesten Zeichensatz wählen.
+
+Qno
+
+-- 
+Zeitreisen sind kein physikalisches,
+sondern ein juristisches Problem.�
+Aus dem Kommentar zum Gesetz über die Zeitschleifen (ZeSchG)�
+http://zyc.ucurjj-fruusur.vs/bxjlxazg/blddnn.cmi

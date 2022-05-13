@@ -1,0 +1,8 @@
+Das ist aber keine Caesar-Chiffre, sondern eine monoalphabetische
+Substitution. Die Caesar-Chiffre ist ein Spezialfall davon, bei dem das
+Alphabet um einen konstanten Betrag verschoben wird (es gibt also bei N
+Buchstaben nur N-1 mögliche Schlüssel). Benjamin soll sogar nur einen
+einzigen Schlüssel (+3, aus A wird also D, aus B E, etc.) verwendet
+haben.
+
+	hp

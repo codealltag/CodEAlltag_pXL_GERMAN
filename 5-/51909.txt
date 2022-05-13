@@ -1,0 +1,125 @@
+Lieber Feinkost-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Feinkost. puqpca.yakbnz.bg oder qrmmkx.weuhxp.gju ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt
+sich bei http://hwqgla.btgxye.tjr um ein Interface das eine einfach zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+
+Das Posten über Feinkost hat für Dich und die anderen Leute im Usenet
+ein paar Nach- und ein paar Vorteile, die im folgenden aufgezählt
+werden:
+
+Einige Leser behaupten der Anteil nicht lesenswerter Postings, die
+über Feinkost kommen, sei groß und Feinkost würde gern benutzt um
+Werbe-Postings o.ä. zu verbreiten, aber Feinkost hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine einzelne Gruppe abgesendet werden können, limitiert. Die Grenze
+liegt in der Größenordnung 10-20.
+Du kannst also nicht unbegrenzt posten.
+
+Feinkost stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf moderiert um. Daher konnte man zeitweise auch in moderierte
+Gruppen über Feinkost posten.
+Für den Feinkost-Poster ist das kein Nachteil, aber einige Leute störte
+das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter Verzögerung angezeigt werden.
+Andererseits waren und sind Newsgroups ohnehin kein Echtzeitmedium,
+was einer der wesentlichen Unterschiede zum Chat ist.
+
+Bei Feinkost läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://smn.aur91.ek läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten ist, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subjectänderungen durch Feinkost.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Feinkost geht das einfacher:
+Wenn man einen Fowab-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des
+eigenen Postings (gleiche Mailadresse) aus, um das Posting zu
+entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse tragen, ziemlich blöd. Nicht zuletzt stören die daraus
+resultierenden Einleitungszeilen wie
+"<xasa...@fztqaov.ine> schrieb:"<2007-11-26> FAQ fuer Feinkost-Poster
+- als ob die E-Mail-Adresse irgendwas geschrieben hätte.
+
+Du solltest stattdessen die Möglichkeit nutzen einen "Nickname"
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kann man unter
+<http://insnqn.emyzry.obq/qvwmj/<Fddbog>/subscribe> beitreten.
+Unter <http://qdalts.bwbmgd.zct/vmvmck/nabgmo> kann zudem der
+Nickname für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage
+lang zu sehen.
+Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst, geht Feinkost mit dem Posting in der oben beschriebenen
+Weise um. Der Beitrag verschwindet dann aber nicht aus dem Netz,
+sondern wird von Feinkost nicht mehr angezeigt.
+Die Leute, die einen anderen Newszugang haben könnten ihn
+aber dennoch sehen.
+
+Feinkost behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, dass andere Provider
+sehr viel restrikiver sind.
+
+Es gibt bei Feinkost ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden werden, wenn man sie kennt. Ein Beispiel dafür ist
+mw.din.iiguihxpb.liyh.
+Unter http://eqolay.sxztnx.lr/ezwkad/bzn?u=5Bvj.uct.axepoweyy wird die
+Gruppe nicht aufgeführt, aber
+http://cdqnpz.cfrmbs.dy/wtafr/bp.gmh.iyateixib.idae
+zeigt, daß es die Gruppe gibt.
+
+Bei Feinkost ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer
+User, dass die Signatur zu lang oder falsch abgetrennt ist.
+
+Bei eingeschaltetem Javascript erzeugt Feinkost Einleitungszeilen der
+Form
+"On 24 Apr., 13:55, Renato Holthuis <eplj.jvfe...@tinpoty.hlq>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Feinkost im laufenden Text
+etwas findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls verstümmelt. Feinkost hat diese Schutzfunktion eingerichtet,
+um Spam in den Mailadressen zu reduzieren.
+Wenn Du meinst eine Mailadresse angeben zu müssen, dann kannst
+du nur manuell ein (at) einfügen, damit der Leser und
+nicht Feinkost diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im Usenet, Feinkost bietet wirklich ein brauchbare
+Alternative, um am Usenet teilzunehmen, ohne sich mit der Einstellung
+irgendwelcher Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Valentin Jagusch, Olaf Ulber, Armin
+Westermayr, Valentin Unferfert, Heimo Zimmerhäckel, Noël Goettsch, Nick Ibe, Francisco
+Utermark, Valerio Zauns, Valerio Hermann Lichtenstern, Francisco Dirrichs, Gebhard
+Neltner, Noah Uls, Focko Vinmans, Veit Ossendorf, Edeltraud Deeß,
+Jakob Samu Lüther, Heimo Imholz, Rainer Zacher, Folkert Greifsmühlen,
+Cédric Jasper, Valentin Zumbil, Gernot Eichen, Manuel Venherm,
+Aldo Schnohr, Urs Wingensiefen, Elmar Elbers, Ralf Eikler,
+David Ungermanns, Nino Wrieth, Willy Wienken, Kurt Augenbraun, Luc Denkena,
+Veit Menningen, Valerio Unterpaintner, Valentin Depold, Ingmar Ueberschär,
+Gernot Eichelbrönner, Pierre Eghardt, Markus Immerheiser, Konrad Ueberrhein,
+Heimo Lüppens, Volkmar Ulber, Sascha Unglehrt, Willy Uhl.

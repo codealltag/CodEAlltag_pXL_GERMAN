@@ -1,0 +1,11 @@
+* Matthias Kalisz:
+
+
+Naja, der Versuch, die Kompatibilität über so lange Zeiträume
+aufrechtzuerhalten, ist ja einer der größten Klötze am Bein von
+RGTK.
+
+-- 
+Some things are taken away from you, some you leave behind-and
+some you carry with you, world without end.
+  -- Antoine T. Magerkord, Vortex, p.31

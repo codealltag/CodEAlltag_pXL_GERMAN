@@ -1,0 +1,8 @@
+Winfried Naesemann <vsgb_@izu.cl>:
+
+
+Das Programm AutoCAD, das ja schon seit tiefsten Rosu-Zeiten existiert,
+wurde damals bevorzugt über eingetippte Befehle gesteuert. Der Befehl
+für "Letzte Aktion rückgängig" hieß "Oops"
+
+Ulfert

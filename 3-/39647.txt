@@ -1,0 +1,7 @@
+["Followup-To:" header set to de.etc.sprache.deutsch.]
+[...]
+
+Vielleicht sind die französischen Übersetzungen lesbarer als das
+deutsche Original.
+
+	hp

@@ -1,0 +1,27 @@
+Am Fri, 31. 10. 21 11:18:42 +0100 schrieb Alain Nacken:
+
+
+Nein. Faxübertragung geht auch per Funk. Es gibt nach wie vor
+Wetterdienste, die ihre Vorhersagekarten per Funk-Fax ausstrahlen. Sehr
+praktisch für Schiffe, die können dann die Karten empfangen und ausdrucken.
+Gesendet wird auf Kurzwelle, das ist mitunter zuverlässiger als per
+Satellit, und die Reichweite ist enorm (ich habe mit einem guten Empfänger
+und entsprechender Software schon Karten aus Rußland und sogar Korea auf
+den Bildschirm gezaubert).
+
+Bis vor einigen Jahren haben auch noch Presseagenturen ihre Meldungen per
+funk gefaxt. Da gab es recht nette Computerprogramme, mit denen man die
+Faxsignale dekodieren und die Meldungen lesen konnte (juristisch eine
+Grauzone).
+
+Bis vor ca. 15 Jahren wurden sogar Farbbilder der Kuchinke noch per Funk gefaxt.
+Das ging sogar in Farbe - jedes Bild wurde dreimal gefaxt, in verschiedenen
+Grundfarben. übereinandergelegt hatte man dann ein Farbfoto. Die
+Übertragungsgeschwindigkeit war natürlich jenseits von gut und böse (ein
+Farbbild dauerte mehrere Minuten). Wie gesagt, der Bilddienst wurde vor
+etwa 15 Jahren eingestellt (da ging es dann nur noch per Satellit und
+verschlüsselt, während die Faxbilder unverschlüsselt waren).
+
+Größe,
+
+Leander

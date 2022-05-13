@@ -1,0 +1,8 @@
+Am Fri, 20. 07. 21 22:07:44 +0200 schrieb Bernhard Unterkircher:
+
+
+Ich würde es mit einem Semikolon schreiben:
+Die Buchstaben sind Zeichen; das A ist beispielsweise ein Zeichen.
+
+Gruß
+Enno.

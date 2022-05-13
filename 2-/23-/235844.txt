@@ -1,0 +1,19 @@
+* Leopold Iselborn:
+
+
+Ja, häufig ist der Fall im Fließtext nicht. Aufmerksame Schreiber
+bemerken das zudem und formulieren dann um.
+
+
+Verständlich, aber ohne Komma finde ich es schwer verständlich, es
+degeneriert für mein Gefühl zum Wortspiel. Dann nehme ich
+vielleicht die, wenn man CKM trauen darf, originalere
+Formulierung:
+
+"Software is getting slower more rapidly than hardware becomes
+faster."
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Christof Dierkes, comp.lang.python

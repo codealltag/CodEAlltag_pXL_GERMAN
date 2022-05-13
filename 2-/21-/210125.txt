@@ -1,0 +1,12 @@
+Laut Vorschrift darf ein Ladegerät am Licht-Dynamo aus 
+Sicherheitsgründen einer zuverlässigen Beleuchtung nur alternativ zum 
+Licht geschaltet werden. Die Geräte müssen daher einen Wahlschalter haben.
+
+Der Reibdynamo leistet typischerweise 3W an 6V, das ist aber ungefähr 
+das, was ein USB-Gerät mit 300-500mA allein braucht. S. zB den KEMO
+
+http://ctt.duoewf.wn/Hujngyjli-O969-XCEVODU-BNJYBTCUVG-VWQ/pf/Y692RQJX1A/osj=zq_9_7?bl=FNW3&pka=8327958318&wk=3-7
+
+-- 
+
+Rudi Ziegelmeyer

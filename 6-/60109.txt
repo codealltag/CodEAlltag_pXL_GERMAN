@@ -1,0 +1,14 @@
+* Walter <whjif_bc@ogsns.ujh>:
+
+
+Unschön ist das, weil es einfach eine Sauerei ist. Elektrisieren tut
+man sich so allerdings nicht. Ein Urinstrahl ist nach etwa 30 cm,
+spätestens aber nach 50 cm nicht mehr ein Strahl, sondern er hat sich
+bereits in Tropfen aufgeteilt. Wenn der "Strahl" also auf die
+Stromschiene trifft, leitet da gar nichts, und die Fahrspannung ist bei
+U-Bahnen so niedrig (in D typisch 750 V), dass auch kein Funke
+überspringt.
+
+Bei Vollbahnen und 15 oder 25 kV mag das anders aus(s|g)ehen.
+
+ - Urban

@@ -1,0 +1,16 @@
+"Wichtige Wörter werden großgeschrieben."
+
+Großgeschrieben werden das erste und letzte Wort, sowie Substantive,
+Pronomen, Verben, Adjektive, Adverbien, unterordnende Konjunktionen.
+Kleingeschrieben werden Artikel, Präpositionen und nebenordnende
+Konjunktionen. Präpositionen, die Bestandteil von _phrasal verbs_
+sind, gelten als Adverbien. Die Details sind nicht einheitlich.
+Manche Stilf�hrer schreiben vor, alle Wörter ab einer bestimmten
+Länge (drei Buchstaben, vier, ...) großzuschreiben, was sonst
+knifflige Unterscheidungen zwischen Präposition/Adverb/Konjunktion
+überflüssig macht.
+
+Viele Muttersprachler beherrschen diese Regeln nicht.
+
+-- 
+Folkert "isabel" Meckelnborg                          zwqxw@vyps.pgzl.zh

@@ -1,0 +1,12 @@
+Dann errät dein Unison die von Ingers OE nicht deklarierten Umlaute
+zufälligerweise korrekt. Sinnvollerweise verlässt 'man' sich aber nicht
+auf zufällig richtiges Raten, sondern deklariert Umlaute korrekt, bzw.
+lässt seinen NUA sie korrekt deklarieren. Dann klappt's auch Knode.
+
+
+Ciao
+Tina
+-- 
+ Welcome to slavery!
+ No, thanks, I already have a wife.
+ [Seth Gecko / From Dusk till Dawn]

@@ -1,0 +1,3 @@
+Und das "-" ist der Default-Operator... 
+
+Frédéric

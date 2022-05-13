@@ -1,0 +1,16 @@
+Das glaube ich nicht, es steht als reines html im Quelltext:
+<div><div id=resultStats>Ungefähr 2.050.000 Ergebnisse<nobr>  (0,05 
+Sekunden)&nbsp;</nobr></div></div>
+
+Quelltext auf, [Ctrl][F], "Ergebnisse"
+
+Probier einen anderen Browser. Sprach- oder Landeseinstellungen? 
+
+Textfarbe weiß eingestellt? Falsche Brille? 
+
+Direkt unter dem Eingabefeld. 
+
+
+Luc
+-- 
+http://fws.xwnarxhc.vnx/gruh/838/yepzy/nwnaid_qhfthwmb_334981.dvh

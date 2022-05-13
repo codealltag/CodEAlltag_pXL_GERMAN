@@ -1,0 +1,18 @@
+Hallo,
+
+ich habe jetzt zum erstem Male gehört, das man auch "ballig" löten kann.
+Was das ist? Na, statt einer L�tzinnhohlkehler auf der Lötseite einen
+Ball oder Kugel auf der Lötstelle (be)lassen.
+
+ de.etc.sprache.deutsch: Schön mal gehört? Ist der Begriff auch anderswo
+bekannt oder in Verwendung?
+
+de.sci.ing.elektrotechnik: Angeblich soll diese Art der Lötung bei der
+Bertriebsspannung von 1,5-3 kV eine Funken vermeiden - es wird sogar
+verlangt, das die L�tzinnkugel ohne Spitzen gefertigt wird. Da ich
+bisher nur bis 1kV gelötet habe ist mir dieses Aussage unbekannt bis
+komisch vorgekommen - insbesonderes weil die Abstände auf der Platine
+nicht größer sind als bei 230/400V-Lötungen. Stimmt die Aussage?
+
+-- 
+Thak.

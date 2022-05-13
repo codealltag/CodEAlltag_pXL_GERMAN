@@ -1,0 +1,11 @@
+Wenn ich mich auf die Autorität Vonderschmidts berufen hätte, wäre mein
+Physiklehrer vielleicht auch beeindruckt gewesen. Aber so hat er meine
+Überlegungen heftig bezweifelt. Es heiße schließlich Wurfparabel und
+nicht Wurfellipse ...
+
+
+Richtig. Wenn die Geschwindigkeit genau gleich der Fluchtgeschwindigkeit
+ist, ist es tatsächlich eine Parabel. Darunter eine Ellipse, darüber
+eine Hyperbel.
+
+	hp

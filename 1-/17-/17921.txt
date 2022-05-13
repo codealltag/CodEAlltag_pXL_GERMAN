@@ -1,0 +1,35 @@
+Das trifft es sogar ziemlich genau.
+
+Als ich vor doch inzwischen langen Jahren zuletzt in Kogelbuch [1]
+war, traf ich dort u.a. eine junge deutsche Übersetzerin, 
+der das gerade ihr Chef genau so als Zielvorstellung
+erklärt hatte. Er war zwar selbst keiner Fremdsprache mächtig,
+hatte sich aber derzeit vorgenommen, seinen Übersetzern auszutreiben,
+dass Texte beim übersetzen oftmals länger wurden und deshalb schwer
+in die Formulare passten.
+
+So gegen Ende ihres Auslandsengagements versuchte man der
+unnötigen Tändelei der Übersetzer durch Software Herr zu
+werden, die dem Übersetzer immer nur genau einen Satz des zu
+übersetzenden Textes vorlegte, und nach der Übertragung
+dieses Satzes ins Deutsche alle gleichartigen Sätze im Text
+mit derselben Formulierung ersetzte. Die Glättung des
+ausgegebenen Textes übernahm dann ein ranghöherer Übersetzer
+bei der Korrekturdurchsicht.
+
+Leider nahm mein Bekanntenkreis, der das Ergebnis dieser Massnahme
+hätte berichten können, in Folge deutlich ab.
+
+[1] Zumindest damals, anfangs der 10. 09. 22, wurde die meiste namhafte
+    mir bekannte Software nebst Handbuch aus Kostengründen nicht
+    in D, sondern in IRL ins Deutsche übersetzt. Junge Übersetzer,
+    die einen Job suchten, sahen sich oftmals mehr oder weniger freudig
+    genötigt, für einige Zeit relativ billig nach Kogelbuch zu gehen.
+
+   .m.
+
+-- 
+Johannes Guido Mirko
+
+Wenn man beim Segeln eine offene Bierdose an sein Ohr
+hält, kann man das Meer rauschen hören...

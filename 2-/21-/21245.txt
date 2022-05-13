@@ -1,0 +1,8 @@
+Es gibt nun einmal viele Definitionen von Wort. Man kann auch
+definieren, daß es im Deutschen nur einen bestimmten Artikel gibt, d-,
+mit den Formen "der, die, das etc." Das würde an der Spitze der Tabelle
+einiges ändern.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Vinzenz Taal, comp.lang.python

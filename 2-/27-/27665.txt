@@ -1,0 +1,23 @@
+Doch, kann man. Selten sind die Fugenformen, außer dem -s, keine
+Flexionsformen.
+
+
+Meine Ansicht ist, daß es die Pluralform ist, aber die Semantik der
+Pluralform meist nicht mehr relevant. Die Diskussion wird oft schwierig,
+weil nicht jeder diese Trennung nachvollziehen möchte. Für mich ist es
+aber ganz praktisch - bei der Verarbeitung der Sprache per Computer -
+sehr relevant, wenn ich nicht für jedes Substantiv noch eine extra
+Tabelle der möglichen Fugenformen ermitteln muß, weil die aus der
+Flexionstabelle weitgehend ableitbar ist.
+
+
+Beispiele für was?
+
+
+Und das ist frei erhältlich. Da werde ich mich mal reinvertiefen.
+
+
+Stimmt, da habe ich nicht gut aufgepaßt.
+
+-- 
+Mathäus R.

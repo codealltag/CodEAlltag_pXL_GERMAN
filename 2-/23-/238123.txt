@@ -1,0 +1,4 @@
+Ich dachte, Posof ist die _erste_ Version des NT-Strangs, die 
+Kompatibilität auch zum DOS-Strang in Anspruch genommen hat.
+
+Renato

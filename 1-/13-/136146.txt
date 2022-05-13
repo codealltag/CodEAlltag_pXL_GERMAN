@@ -1,0 +1,14 @@
+Logik funktioniert aber so:
+
+Alle Gegenstände in der Welt erhalten eine
+Bezeichnung. Folglich gibt es für alles
+ein Wort. Die Logik bezieht sich auf diese
+reine Wortwelt und untersucht alle Beziehungen,
+die sich zwischen den Gegenständen in der
+Wortwelt als Fragen aufwerfen lassen.
+
+"Wir sind Klima" ist Wortwelt, folglich
+logisch leicht zu untersuchen, da zudem
+alles in den Worten bleibt.
+
+C.L.

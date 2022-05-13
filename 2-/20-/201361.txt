@@ -1,0 +1,5 @@
+Da ging es um den 8-bit-Zeichensatz ISO/IEC 8859-1 Lateinisch 1. Dort
+wo die Ligaturen =8C und =9C zu erwarten wären, wurden bei der letzten
+Abstimmung die Rechenzeichen =D7 und =F7 eingesetzt.
+
+Tschüs, Thorsten

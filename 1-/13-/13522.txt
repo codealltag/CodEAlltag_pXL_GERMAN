@@ -1,0 +1,10 @@
+In diesem Fall ist es eine Tautologie, aber es gibt natürlich beliebig 
+viele nicht-tautologische irreale Aussagen, z.B.
+
+  Es war gut, dass wir so langsam gefahren sind. Bei diesen 
+  Straßenverhältnissen hätte es bei höherer Geschwindigkeit leicht einen 
+  Unfall geben können.
+
+
+-- 
+Dominik Fussbahn

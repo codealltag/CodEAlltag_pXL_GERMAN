@@ -1,0 +1,6 @@
+Nein, denn man kann aus jedem Individuum eine Klasse bilden,
+sogar aus der Nullmenge: {} --> {{}} --> {{{}}} usw.
+
+Gruss
+
+Claudio

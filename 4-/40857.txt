@@ -1,0 +1,8 @@
+Bei den Zänkl, Zenglein, O'Calla(g)hans usw. ist es
+nach meiner Erfahrung wichtiger darauf zu achten, dass
+nicht irgendein Programm beim Zusammenkleben den Apostroph
+als quote mark ansieht, und je nach aktuellem Status den
+linken oder rechten Teil des Namens verschluckt ...
+
+
+/Ludwig

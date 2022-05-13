@@ -1,0 +1,5 @@
+Es handelte sich nicht um mechanische Semaphoresignale, sondern um
+Lichtsignale dessen Signalleuchte einem anscheinenden Farbwechsel
+unterlief.
+
+Giorgio

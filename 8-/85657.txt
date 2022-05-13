@@ -1,0 +1,5 @@
+Die Vertauschung der Zeilen 1-2-3 gegen 7-8-9 auf dem
+Ziffernblock hat Euch noch nie irritiert?
+
+j/\a
+--

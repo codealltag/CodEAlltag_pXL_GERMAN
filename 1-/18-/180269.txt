@@ -1,0 +1,7 @@
+Aber die beabsichtigte URI kann man doch leicht erschließen:
+
+bible:///Matth.19.12
+
+Allerdings wäre die Angabe der gemeinten Version vorteilhaft:
+
+bible://Volxbibel/Matth.19.12

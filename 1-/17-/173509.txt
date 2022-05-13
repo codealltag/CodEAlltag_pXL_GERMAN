@@ -1,0 +1,15 @@
+* Björn Everth:
+
+
+Da es im Japanischen kein Rachen-ch (/x/) gibt, ging es sicher um: 
+  "A, soo" 
+
+Das würde ich übersetzen mit: "Ach? Aha." 
+
+Ist aber wohl nah genug für den öffentlichen Dienst.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Fußgänger will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Simon Wiebersiek

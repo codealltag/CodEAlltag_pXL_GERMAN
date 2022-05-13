@@ -1,0 +1,59 @@
+Das kommt darauf an. Wenn jemand einen englischen Text übersetzt, in dem
+das Wort "menu" eindeutig in der Bedeutung "Speisekarte" benützt wird,
+und hierfür das Wort "Menü" verwendet, dann würde ich das als "falsch"
+bezeichnen, weil das Wort "Menü" für die meisten deutschen
+Muttersprachler eine andere Bedeutung hat. Die Übersetzung ist für viele
+unverständlich und erfüllt daher ihren Zweck nicht (auch wenn diese
+Bedeutung im Wörterbuch steht). Wenn hingegen in einer bestimmten Gruppe
+von Deutschsprechenden (seien dies nun Schweizer oder Angestellte der
+gehobenen Gastronomie) die Bedeutung "Speisekarte" für "Menü" allgemein
+üblich und verständlich (und das Wort "Speisekarte" vielleicht sogar
+unüblich) ist, dann ist für diese Sprecher der abweichende
+Sprachgebrauch natürlich nicht falsch - es ist ein Regionalismus bzw.
+Berufsjargon. In einer Übersetzung, die sich speziell an diese Gruppe
+richtet, wäre die Übersetzung daher auch richtig, aber nicht in einer
+Übersetzung in allgemeinverständliches Deutsch.
+
+
+Daraus, dass klar ist, dass eine Bedeutung nicht gemeint sein kann,
+ergibt sich aber nicht automatisch eine andere Bedeutung. Für einen
+Deutschsprachigen, der "Menü" nur in der Bedeutung "Speisenfolge" kennt
+und weder Englisch noch Französisch kann, ist die Bedeutung
+"Speisekarte" nicht unmittelbar einsichtig.
+
+Hingegen ist für einen Deutschsprachigen, der "Speisekarte",
+"Landkarte", "Eintrittskarte" etc. kennt, unmittelbar klar, dass in
+einem Restaurant mit "Karte" nur die Speisekarte gemeint sein kann.
+
+
+Es geht in diesem Thread um die Entstehung von 1.a.2.a). Derjenige, der
+als Erster "Menü" in dieser Bedeutung verwendet hat, konnte sich
+natürlich nicht darauf berufen, dass diese Bedeutung existiert.
+
+Daher bleiben nur zwei Möglichkeiten über:
+
+1) 1.a.1.a) war damals (irgendwann um 1981, nehme ich an - spätestens
+   1987 war 1.a.2.a) im Deutschen etabliert) ausreichend weit
+   verbreitet, dass die Übersetzung von "menu" mit "Menü" akzeptabel war
+2) Der Übersetzer hat als Übersetzung "Menü" gewählt, obwohl das in
+   seinem sprachlichen Umfeld falsch war. Das kann mehrere Gründe gehabt
+   haben:
+
+   2.a) Unwissenheit bzw. Schlamperei.
+   2.b) Ihm war die Diskrepanz zwischen "menu" und "Menü" bewusst, aber
+        "Speisekarte" wäre einfach nur lächerlich gewesen und sinngemäße
+	Übersetzungen wie "Auswahlliste" zu umständlich. Daher hat er
+	absichtlich das kurze, knackige "Menü" gewählt, wohl wissend,
+	dass er die Bedeutung erweitert.
+  2.c) Ihm war die Diskrepanz bewusst, und er hat daher einen Rückgriff
+       auf das französische "menu" gemacht, das ja "menü" ausgesprochen
+       wird und dann die Schreibweise eingedeutscht.
+
+Mir erscheint 2.a) mit Abstand am wahrscheinlichsten, wenn ich mir so
+diverse Eindeutschungen aus dem IT-Englischen ansehe (mein jüngstes
+"Lieblingswort" ist der Zweiwege-Prozessor (bzw. inzwischen Vier- Sechs-
+oder Achtwege-Prozessor). Wie wenig Ahnung von Englisch und
+Prozessortechnik muss man haben, um einen "two-way processor" nicht als
+"Zweifachprozessor" zu übersetzen?)
+
+	hp

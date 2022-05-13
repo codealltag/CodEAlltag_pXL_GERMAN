@@ -1,0 +1,14 @@
+Claudio Buddenhagen schrob:
+
+
+Ich hoffe, Du meinst nicht mich damit. Denn das auszudrücken war nicht meine
+Absicht. Ich schrub bleistiftsweise, daß die E-Mailfuntkion eher rudimäntär
+ist. Aber auch sonst ist mir der von Dir genannte Trend nicht
+offensichtlich.
+
+Bei Emacs ist das schon anders:
+"Emacs mag ein gutes Betriebssystem sein, aber ihm fehlt ein guter Editor."
+:-)
+-- 
+Gruß | Greetings | Qapla'
+Diese Nachricht wurde komplett mit recycleten Elektronen geschrieben.

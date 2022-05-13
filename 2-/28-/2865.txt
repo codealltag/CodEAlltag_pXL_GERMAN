@@ -1,0 +1,17 @@
+Die Unlogik kommt immer dort herein, wo es zwei Satzenden gibt, die vom 
+zitierten und die vom zitierenden Satz:
+
+  Er sagte: "Das ist unlogisch.".
+
+Das finden die Leut nicht schön und lassen einen der beiden Punkte 
+unlogischerweise weg. Und streiten sie darum, welchen. Aber ein 
+Fragezeichen wollen sie nicht einfach weglassen:
+
+  Er fragte: "Ist das unlogisch?".
+  Sagte er: "Das ist unlogisch."?
+  Fragte er: "Ist das unlogisch?"?
+
+So wärs logisch, aber die Setzer machen nicht mit.
+
+-- 
+Willi Krauhs

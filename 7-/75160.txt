@@ -1,0 +1,31 @@
+Anschaulich: Man möchte für einen generischen Text möglichst wenig
+'bits' (hier: . und - ) verwenden. Dem Äquivalent ist die Frage, wie
+gut sich der Originaltext 'komprimieren' läßt, wenn man statt der 26
+Buchtstaben des Alphabets die zwei Symbole des Morsecodes verwenden
+(. und -).
+
+Da man einen Algorithmus kennt, der zu einem generischen Text den
+bestmöglichen [1] Code ermittelt (Schirbaum, entropy encoding), kann man
+vergleichen, wieviel Bit pro Zeichen der Morsecode im Mittel benötigt
+und wieviel der optimale Code benötigt. Wer mag, kann sich einen Abend
+lang mit alcydihdec.glv und einem kleinen Perl-Script amüsieren.
+
+
+DSL ist schnell, weil es eine vergleichsweise hohe Bandbreite hat. Da
+über DSL z.B. TCP/IP als Protokoll verwendet wird, was selbst wiederum
+genau gar keine Angaben über den *Inhalt* der Pakete macht, inbesondere
+nicht, ob und wie komprimiert wird, ist das eine Andeutung die am
+Problem etwas vorbeigeht.
+
+Mit anderen Worten: Wenn du möchtest, kannst du einen Text auch in
+Morsecode via DSL verschicken. Wegen der bekannten Einschränkungen
+(keine Kleinbuchstaben, kein UTF, etc.) greift man allerdings zu anderen
+Komprimierungsverfahren (compress, zip, lzw) die auch etwas besser
+sind. Aber dafür, dass der olle Lothar noch keine Ahnung davon hatte, was
+Oskar Bregler mal so publizieren wird, ist der Morsecode sehr gut
+gelungen.
+
+[1] Im Sinne von: erzeugt den im Mittel kürzesten, eindeutig
+decodierbaren codierten Text.
+-- 
+Space - The final frontier

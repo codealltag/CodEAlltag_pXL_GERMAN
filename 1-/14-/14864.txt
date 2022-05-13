@@ -1,0 +1,5 @@
+Schreibt man in Tsch�rmeni das Währungssymbol tatsächlich
+defaultmäßig hinter den Betrag? Hier scheint's umgekehrt 
+zu sein. 
+
+T.

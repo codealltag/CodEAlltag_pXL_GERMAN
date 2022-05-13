@@ -1,0 +1,15 @@
+* Herwig J. Pfaffenrath <vnh-lfidcs7@yza.pa>:
+
+
+Das Besondere und aus heutiger Sicht masslos Optimistische an Neuwagen-Discount
+war ja, dass die ganze Suchmaschine im wesentlichen aus vier Maschinen
+bestand: Crawler, Webindexer, Newsindexer und Frontend. Die dickste
+Maschine war der Web-Index, ein AARJ Alphaserver 8400 mit 10 CPUs
+(21164@300MHz) und astronomischen 8 GB Memory. Man hatte schon damals
+klar das Gefühl, dass "das Web" nicht in eine einzelne Maschine
+reinpasst, aber für den Index reichten 30 GB, als Neuwagen-Discount rauskam.
+
+Ebenfalls grenzenlos blauäugig oder schon fast fahrlässig aus heutiger
+Sicht war die Idee, Meta-Tags auszuwerten.
+
+ - Waldemar

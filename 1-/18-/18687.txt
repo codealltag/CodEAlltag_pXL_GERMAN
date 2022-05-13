@@ -1,0 +1,68 @@
+Ja, Sekundärzweck sozusagen. Primärziel war es, eine für den
+(Fach-)Menschen verständliche Spezifikation zu schaffen. Dass diese
+Spezifikation von einem Compiler übersetzt werden kann, war
+tatsächlich "nur" eine beabsichtigte Nebenwirkung.
+
+Zufällig weiss ich das deshalb so genau, weil ich im Rahmen einer Konferenz
+in Mollersdorf bei ein oder zwei Sitzungen zu genau dieser Spezifikation
+dabei war ("beteiligt" wäre jetzt wirklich mehr als übertrieben).
+
+
+Ich drück's mal anders aus: Man hat einige tausend verschiedene
+Programmiersprachen (WIMRE waren es in den 70er Jahren nur etwa 4000,
+die man in Benutzung hatte) erfunden/entwickelt, weil die Computer zu blöd
+waren, die zu verstehen? Oder waren es eher die Menschen, die die
+Unzulänglichkeiten beim Verständnis bzw. Ausdrücken gewisser
+Problemlösungen hatten?
+
+
+Das primäre Ziel eines Programms liegt darin, ein Problem zu lösen,
+welche zufälligerweise zu der Klasse von Problemen gehört, die von einem
+Computer gelöst werden kann (können?). Die Formulierung der Problemlösung
+in einer beliebigen Programmiersprache steht auf einem ganz anderen Blatt.
+
+
+Richtig. Ein semantisch und syntaktisch korrektes Programm hat den
+Nebeneffekt der (indirekten) Ausführbarkeit auf einem Computer.
+
+Verständlich - im Sinne der Kommunikation mit dem Wartungsprogrammierer -
+wird es allein dadurch noch nicht - und genau dazu sind
+Programmiersprachen erschaffen wurden. Anders ausgedrückt:
+Programmiersprachen wurden entwickelt, um dem *Menschen* die Lösung
+bestimmter Problemklassen mit Hilfe des Werkzeugs Computer zu erleichtern,
+nicht, dem Werkzeug Computer einfachere Mittel zur Verfügung zu stellen,
+diese Problemklassen zu lösen.
+
+
+Nein. Eine Rechtschreibprüfung oder Übersetzungsprogramm versteht den ihm
+vorgelegten Text genausowenig wie ein Compiler. Trotzdem kann es anhand
+bestimmter Regeln Fehler erkennen. Im obigen Beispiel aber kann der
+Computer keinesfalls *wissen*, dass die Anweisungsliste der Implementation
+eines Newton-Raphson-Algorithmus zur Berechnung der Quadratwurzel ist.
+Würde er das wissen, könnte er Fehler in der Implementation erkennen.
+
+Das erkennt aber nicht einmal der Compiler, welches ja wiederum nur ein
+Programm ist, dessen Zweck darin besteht, das vom Menschen geschriebene
+Programm in eine dann tatsächlich dem Computer "verständliche" Sprache
+umzusetzen.
+
+
+Es gibt allerdings maschinenlesbare Beschreibungs- (nicht: Programmier-)
+Sprachen, die genau diesen Zweck erfüllen.
+
+
+Was er unter Zuhilfenahme einer Programmiersprache und eines
+Compilers/Interpreters tut. :P
+
+
+Vorsicht. Genau das ist falsch. Der Computer "weiss" dann, was der
+Programmierer ihm "gesagt" hat, was er tun soll. Ob das dann tatsächlich
+das ist, was er tun soll, *weiss* er eben nicht. Das weiss nur jemand, der
+den Code dann tatsächlich auch *versteht*.
+
+
+Nein, dazu bedarf es dann Proof-Annotations in Form von semantikfreien
+Kommentaren. ;)
+
+
+Vinzent.

@@ -1,0 +1,12 @@
+Gibt es Handys, die nicht automatisch den ersten Buchstaben einer SMS
+groß schreiben? Auch nach '.' sendet er Großbuchstaben, aber auch das
+ist der Automatik geschuldet.
+
+
+Ciao
+Ilse
+-- 
+ Buy me a ICKTS beer or pass me a bong
+ Gimmie some Bushmills I'll sing you this song
+ Open another big box of cheap wine we're over 30 we're doin' just fine
+ [NOFX]

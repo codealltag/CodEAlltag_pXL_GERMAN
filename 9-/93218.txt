@@ -1,0 +1,9 @@
+Nils Boeß tat kund:
+
+
+Dann würde dieselbe Beschriftung mal einen erwünschten
+Zustand bezeichnen und mal nicht, je nachdem, wer
+aus den Knopf drückt. Und das würde für jede beliebige
+Beschriftung jedes Knopfes gelten, denn auf jeden Knopf
+kann ja jemand drücken, der die genannte Funktion
+gar nicht haben will.

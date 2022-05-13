@@ -1,0 +1,18 @@
+["Followup-To:" header set to de.etc.sprache.deutsch.]
+
+Die Neigung der Erdachse zur Ekliptik beträgt 23.4ö, und jeder Globus
+stellt das auch so dar - bei Globen ist also eine "diagonale"
+Darstellung der Pole Realität und wird offenbar nicht als "höchst
+unpraktisch" empfunden.
+
+
+Nein. Es geht nicht darum, ob die Erde objektiv wahrnehmbare Pole hat
+(die hat sie zweifellos), sondern um Lage dieser Pole relativ zu einem
+"oben" und "unten". Im Raum gibt es kein "oben" und "unten", die
+Festlegung, dass der Äquator oder die Ekliptik "waagrecht" seien, ist
+völlig willkürlich. Nimmt man z.B. die Ebene der Galaxis als waagrecht
+an, dann steht unser Sonnensystem ziemlich schief im Raum und die
+Erdachse weicht um 62.6ö von der Senkrechten ab, die Pole sind also eher
+"seitlich" als "oben und unten".
+
+	hp

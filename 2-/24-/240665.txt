@@ -1,0 +1,9 @@
+* Ullrich Kamperschroer:
+
+
+Das Beispiel macht auch noch nicht klar, ob 1.3 etwas anderes als
+ein Spezialfall von 1.2 ist, da es mit Artikel "eine Seele von
+einem Menschen" heißen kann.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

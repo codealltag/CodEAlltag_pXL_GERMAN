@@ -1,0 +1,18 @@
+Das Wort "dass" einzufügen, um etwas als Konjunktion zu kennzeichnen, ist 
+ein Mechanismus, den es in vielen Sprachen gibt, z.B.:
+
+  fr: Il lisait le journal aprös le jeuner.
+      Il lisait le journal aprös *qu'* il avait d�jeun�.
+
+Der Gebrauch von "dass" in "als dass" hat dieselbe Funktion.
+Oder "wie -> wie dass", "ohne -> ohne dass".  In vielen Fällen wird noch ein
+"es" (das dann vor einer Präposition zu "da-" wird) zusätzlich eingefügt, etwa
+deutsch "mit -> damit, dass" oder französisch "par -> parce que".
+
+In der süddeutschen Umgangssprache ist eine solche Markierung der Konjunktion
+etwas verbreiteter und wird manchmal überflüssigerweise angewandt, z.B.
+nicht nur "vor -> bevor", sondern deutlicher "vor -> bevor dass". Das aus der
+JLCO zitierte Beispiel würde ich in diese Kategorie einordnen.
+
+-- 
+Ihno Fennemann

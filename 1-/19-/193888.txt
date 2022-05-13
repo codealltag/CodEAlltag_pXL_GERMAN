@@ -1,0 +1,38 @@
+Es ist ein Präteritopräsens.
+Oder einfacher ausgedrückt: Es ist arg unregelmäßig.
+
+
+Nenne Gegenbeispiele.
+
+
+Ich korrigiere: tiens! va!
+Und warum die 2. Person Singular? Bei diesen Verben (außer "aller",
+s.u.) ist die Form der 1. Person identisch.
+
+Prinzipiell gibt es für die Personal- und Imperativendungen diese
+Möglichkeiten:
+
+           I      II
+     1.   -e      -s
+     2.   -es     -s
+     3.   -e      -t
+
+    Imp.  -e      -s
+
+Die einfache Regel, dass die Imperativendung jener der ersten Person
+entspricht, erfasst beide Varianten (und noch einige kleinere
+Komplikationen bei den unregelmäßigen Verben).
+
+Wie gesagt, die einzige Ausnahme ist "aller", das meist den Imperativ
+"va" hat (identisch zur 3. Pers. Sing. Präs. Ind.) und ausnahmsweise
+"vas" (identisch zur 2. Pers.), wenn das Pronomen "y" aber darauf
+kein Infinitv folgt.
+
+
+Naja, neben "aller" muss man die Verben kennen, bei denen der
+Imperativstamm dem Subjunktivstamm statt dem Präsensstamm entspricht.
+Aber auch dort bleibt die Regel gültig, dass die Personalendung
+jener der 1. Person (dann des Subjunktivs) entspricht.
+
+-- 
+Hinderk "isabel" Ortner                          bpenr@xyjf.lwuf.el

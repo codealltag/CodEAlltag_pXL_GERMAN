@@ -1,0 +1,1 @@
+Mit dem Lot wurde die Geschwindigkeit ermittelt, nicht mit dem Log.

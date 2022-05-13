@@ -1,0 +1,4 @@
+Der Z80 war 8080-kompatibel, eine Kombination von Z80 und 8080 erscheint
+mir daher wenig sinnvoll. Und "DOS" klingt mehr nach 8088 (oder 8086).
+
+	hp

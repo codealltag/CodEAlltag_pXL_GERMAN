@@ -1,0 +1,10 @@
+Klar, während die Themen "Security", "Reliability", "Dependability"
+usw. sehr englisch (oder amerikanisch) sind.
+Der "Beschäftigten" sollte man den Risks-Digest (comp.risks)
+so lange um die Ohren hauen, bis sie versteht wovon sie redet.
+
+Grasenhiller
+-- 
+Guy Ziegelschmid
+It is poor civic hygiene to install technologies that could someday
+facilitate a police state. (Ronny Moller)

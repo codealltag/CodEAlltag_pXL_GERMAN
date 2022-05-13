@@ -1,0 +1,38 @@
+Mit korrekten Begriffen:
+Der Benutzername authentisiert.
+
+das Kennwort wird zur Authentifikation von der Gegenstelle
+(vom Benutzer aus betrachtet) gebraucht.
+
+Um ein vollständiges Zutrittsmanagementsystem zu erhalten muss dem
+Benutzernamen die angeforderte Rolle mitgegeben werden.
+
+Bei einer Losung gibt es nur eine Rolle auf die alle Benutzer
+gemappt werden. Deshalb erübrigt sich die Angabe von Ben. und Rolle.
+
+Die Angabe der Rolle erübrigt sich, wenn jedem Benutzer genau
+eine Rolle zugeteilt wird. Das ist der häufigste Fall.
+
+
+verwendet | #Kennwort| #Rolle| #Benutzer |
+
+1.)
+Kennwort      1         1       N        entspricht der
+                                             Losung
+
+2.)
+Benutzer/     N         N       N        Rolle-Ben.beziehung
+Kennwort                                 eins zu eins; auf
+                                          Zielsystem vorh.
+
+3.)
+Benutzer      N         M       N        M Rollen pro Ben.
+/Rolle                                   dem Zielsystem und
+/Kennwort                                dem Benutzer bekannt
+
+
+Bei einem korrekt aufgesetzten System ist bei 3.) die Zahl
+der Kennworte N und nicht die Summe aller M über alle N.
+
+Gruss
+Pietro

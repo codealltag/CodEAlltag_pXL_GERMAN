@@ -1,0 +1,10 @@
+* Ullrich Oerthel:
+
+
+Ich habe nur für Ficus benjamini mal die Bezeichnung
+"Architektenbaum" gelernt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Simon Csermak, comp.lang.python

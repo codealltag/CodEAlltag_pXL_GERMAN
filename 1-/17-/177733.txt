@@ -1,0 +1,8 @@
+* Norman Geisendörfer:
+
+
+Nein, weil "kennen" statisch ist. "Er kannte sein Weib" ist nur schwer
+als Handlung zu ... erkennen, es ist ein Dauerzustand.
+
+-- 
+Press any key to continue or any other key to quit.

@@ -1,0 +1,14 @@
+Etwas Sprachphilosophie: Wörter stehen nicht allein in der Welt.
+Jedes Wort steht für eine Entität, deren Name es ist. Entitäten
+sind Dinge, Eigenschaften, Strukturen, Beziehungen, Klassen, usw.
+"nicht" bezeichnet die Eigenschaft des "Nichtseins" - "nicht" ist
+deshalb der Name dieser Eigenschaft. "Weil" bezeichnet die
+Eigenschaft des Abhängigseins, also lautet der Name dieser
+Eigenschaft "weil".
+
+Das Wort "Name" ist der Name der Beziehung von Wörtern und
+Entitäten der Welt.
+
+Gruss
+
+Didier

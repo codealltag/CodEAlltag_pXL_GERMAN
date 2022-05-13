@@ -1,0 +1,18 @@
+Weil ich nichts in online Wörterbüchern finde (mögliche Ursache: 
+Tomaten in den Augen), frage ich Euch:
+
+Wie nennt man auf Deutsch, was im Niederländischen bei Nachnamen ein 
+"tussenvoegsel" heißt?
+Es geht dabei um den Teil wie: 
+- "van der" in "Cornelius Lindholz"
+- "'t" in "Sebastian Danneker"
+- "de" in "Ute Fronhöfer".
+
+Ich benötige den Begriff, weil ich eine Anwendung erstelle, in der die 
+einzelnen Namensteile (Vorname, Nachname, 'tussenvoegsel', Titel vor 
+dem Namen, Titel nach dem Namen) separat eingegeben werden müssen.
+
+Danke.
+
+-- 
+Ralf

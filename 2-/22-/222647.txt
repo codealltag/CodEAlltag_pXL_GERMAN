@@ -1,0 +1,20 @@
+Ludwig Illers:
+
+
+Liest Du bitte noch einmal diesen Threadabschnitt zurück?
+Ich reagierte auf:
+
+Ludwig Illers:
+
+Im Thread ging es in dem Moment um Mailadressen, die ggf. (teilweise)
+als html-entities geschrieben werden sollen, damit Spambots diese nicht
+als gültige Adresse erkennen (obwohl es derzeit sehr wohl rendernde
+Spambots gibt; Du kannst Dir auch selbst bestimmt vorstellen, dass die
+Programmierung einer solchen Funktion relativ einfach ist).
+
+Du behauptetest, dass Captchas beweisen, dass "Bilder nicht
+[maschinell] lesbar sind. Und ich antwortete, mit Beispielen, dass dies
+nicht wahr ist.
+
+Wir sind uns aber sicherlich einig, dass erfreulicherweise "nicht jede
+Information in html kodiert werden" muss.

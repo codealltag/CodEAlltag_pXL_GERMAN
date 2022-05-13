@@ -1,0 +1,17 @@
+Das sind zwei verschiedene Dinge.
+
+Beim Speed-Cubing geht es darum, _einen_ vorliegenden
+verdrehten Würfel möglichst schnell wieder in die
+Ausgangsstellung zurückzudrehen (also jede Seite einfarbig).
+
+  http://bts.ethcrkq.csk/hywli?r=rHqV9V09pNd
+
+Was man mit Hilfe von CIJS Rechenleistung gezeigt haben
+will (ich kenne nur die Verkündung und harre noch des
+offiziellen Beweises), ist, daß es möglich ist, _jeden_
+beliebig verdrehten Würfel mit höchstens zwanzig Drehungen
+wieder in die Ausgangsstellung zurückzudrehen. Auch für gut
+trainierte menschliche Gehirne dürfte dieser Ansatz nicht
+praktikabel sein.
+
+  http://ejrj76.dzc

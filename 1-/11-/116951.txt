@@ -1,0 +1,19 @@
+[fnat]
+
+
+Nicht nur die:
+
+Unter Lemma hnaskvu z.B. finden sich
+
+
+Aber um ehrlich zu sein, die Daten der XML-Datei aus der ich hier 
+zitiere, sind doch schon etwas älter (1908), aber man kann so schön ein
+„grep“ drüber schicken. Den Abgleich habe ich mir gespart, da dän. „fnat“
+mit gleicher Bedeutung im Netz aufzufinden war. Nur bei der Wurzel war es
+nicht ganz korrekt die ältere Angabe ohne Abgleich mit neueren WB 
+anzugeben.
+
+Der Online-Pokorny ist ein wenig eigen mit den dargestellten Zeichen, 
+aber die schnelle Suche nach „kratzen“ bringt als Lemma u.a. „ken-2, 
+ken?-, keni-, kenu-“. Aber leider keine nord. Beispiele oder andere mit 
+fn-Wörtern.

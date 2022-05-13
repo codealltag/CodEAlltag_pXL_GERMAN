@@ -1,0 +1,21 @@
+Der Nummernblock auf der Tischrechenmaschine war ja an sich eine gute 
+Idee, bis die Telekom- und Fernbedienungs-Geräteproduzenten auf die 
+grandiose Idee kamen, die numerische Wahltastatur von kopfstehenden 
+Asiaten produzieren zu lassen. Ungefähr so idiotisch, wie Sebastian 
+Entscheidung, mit dem Scrollbalken das Fenster und nicht den Text zu 
+verschieben.
+
+Man merkt an solchen Stellen das zugrunde liegende Konstruktionsprinzip. 
+Bei der Fernbedienung denkt der Konstrukteur in der Geometrie der 
+hochgeklappten Tastatur, beim Scrollen programmiert der Assembleur 
+dynamische Masken auf festem Hintergrundtext.
+
+Die Folge ist, dass man den Damen die Bedienung sprachlich nicht 
+vermitteln kann, da in jedem Satz dreimal oben und unten zu veertauschen 
+sind, und vom Zugucken bleibt nichts hängen. So stand dann jahrelang im 
+Sekretariat ein Fernseher mit Videorekorder und der VHS-Kassette: 
+Bedienung von Word.
+
+-- 
+
+Torsten Jungermayer

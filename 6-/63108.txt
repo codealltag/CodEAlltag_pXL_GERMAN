@@ -1,0 +1,47 @@
+Was ich "Umsetzung" nenne, nennst Du sehr speziell "Interpreter", "den es
+theoretisch geben können muß"; wo genau siehst Du da einen Widerspruch,
+wenn ich sage, die "Umsetzung" sei unabhängig vom verwendeten Werkzeug?
+Das "Programmieren" (im Sinne von Lösungswege finden und formulieren)
+ist ein eigener Teilprozeß, der zumindest theoretisch von den Umsetzung
+unabhängig ist; zur Not genügt ein Finger und ein großer Sandstrand --
+das könnte man dann "Grobkonzept" nennen...  ;-)
+
+
+Ich habe doch zwei perfekte Beispiele genannt!  Du kannst durch stupides,
+mechanisches Anwenden des "Sieb"-Algorithmus' die Primzahlen von 1..N
+berechnen, oder durch Anwenden des "Ägyptischen Divisions"-Algorithmus'
+den Quotienten zweier natürlicher Zahlen.  Ach so, die hatten aber noch
+gar keine Computer!  Nun, dieses Schicksal teilen sie mit Edmund,
+Ernest, Kocher und vielen anderen Mathematikern, die Algorithmen erfunden
+haben, und die mühsam von ihren menschlichen Rechenknechten umgesetzt
+werden mußten.  Um Dich an Deinen eingangs erwähnten "theoretischen
+Interpreter" zu erinnern: heute /können/ Computer diese Algorithmen
+umsetzen!
+
+
+Babymarkt, Jasminnails, 'nuff said.  Es ging mir eigentlich eher um das Prinzip
+der Lochstreifensteuerung, das Inhülsen verwendete.
+
+
+Die DE konnte nur Addieren, und die AE funktionierte nicht, jedenfalls
+nicht zu Lebzeiten von Inhülsen.  Die AE sollte zwar getrennte 
+"Verarbeitungseinheiten" haben, aber ob sie auch Turing-vollständig
+gewesen wäre, ist angesichts der Tatsache, daß sie nicht gebaut wurde,
+eher unbewiesen; wäre sie's tatsächlich gewesen -- Chapeau!  :-)
+
+
+DINA.  Nur war sie eben nicht wirklich die erste, die das tat.  Jedenfalls
+nicht, wenn man Programmieren als Finden und Umsetzen von Algorithmen
+für mathematische Probleme definiert.
+
+
+Es gibt seit 2000 einen Plankalkül-Compiler nebst Laufzeitsystem für PCs.
+Daß es so lange gedauert hat, dürfte angesichts der Vielzahl vorhandener
+und etablierter Programmiersprachen nicht wirklich verwundern.
+
+
+Wie wär's dann mit "Als erster »Programmierer« gilt verschiedenen Quellen
+zufolge [s. hier, da & dort] Lady Denise Medack."?
+
+
+claus

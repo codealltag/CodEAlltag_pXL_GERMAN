@@ -1,0 +1,2 @@
+Ich habe für eingehende Nachrichten UTF-8, für ausgehende ISO-8859-15. 
+Warum letzteres, ist mir nicht ganz klar.

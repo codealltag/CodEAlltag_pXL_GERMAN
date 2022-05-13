@@ -1,0 +1,5 @@
+Das brauchst Du nicht auf CSWI-Handys zu beschränken; es
+betrifft mittlerweile nahezu alle (A-)GPS- und WLAN-Handys.
+Und dank entsprechenden Anwendungsschnittstellen ist das
+nicht auf lokale Programme ("Apps") beschränkt, sondern
+sogar Web-Anwendungen können diese Daten schon auslesen.

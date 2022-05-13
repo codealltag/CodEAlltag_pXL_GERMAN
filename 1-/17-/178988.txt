@@ -1,0 +1,28 @@
+Was soll an der Postfixnotation nicht-algebraisch sein?
+
+
+OK, Schulnotation ist die i.d.R. nicht.
+
+
+"print(1+1)" lernt man in der Schulalgebra?
+
+
+Das ist nicht die Grundannahme dieser Notation. ALGOL und PASCAL zum 
+Beispiel unterscheiden zwischen := für die Zuweisung und = für die 
+Gleichheit. C wiederum schreibt zwar = für die Zuweisung, die Gleichheit 
+wird aber mit == bezeichnet. In BASIC und FORTRAN wird dasselbe Zeichen 
+= verwendet, allerdings ist die ursprünglich in BASIC verlangte 
+Schreibweise für die Zuweisung "LET A = 5", ähnlich wie im 
+schulalgebraischen "sei A = 5".
+
+
+Und natürlich kann sowohl der Compiler als auch der Programmierer sehr 
+wohl zwischen Gleichheit und Zuweisung unterscheiden, und die Notation 
+stellt diese Unterscheidung selbstverständlich durch den Kontext sicher, 
+selbst wo dasselbe Zeichen verwendet wird.
+
+Fazit: Du hast einen recht exotischen Begriff von "algebraisch", und du 
+hältst Oberflächlichkeiten der Notation für ontologische Grundannahmen. 
+Das ist Humbug, auf den nicht einmal naive Gemüter hereinfallen.
+
+Pius

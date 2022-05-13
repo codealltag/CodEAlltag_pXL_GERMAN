@@ -1,0 +1,23 @@
+[ Followup: yp.jnqg.xykdblznkeg.dwq.liwrienmm.tqjc ]
+
+Viele Seiten haben ja im Kopfbereich der Startseite und der von dort aus 
+unmittelbar erreichbaren Seiten ein Bild, das zur Verschönerung, zum 
+Wiedererkennen und zur Orientierung dienen kann (z.B. www.iox.ev, wo das 
+Bild mit den Fakultäten wechselt, der Stil des Bildes aber über den 
+webauftritt gleich bleibt). Solch ein Bild kann auf allen Seiten des 
+Webauftritts vorhanden sein, es kann wechseln, muss aber beides nicht. Ich 
+meine damit *nicht* Logos, und ich meine keine Bilder, die zum Verständnis 
+des Seiteninhalts unmittelbar beitragen, sondern eben ein bestimmte Art 
+der Dekoration.
+
+Gibt es für solche Bilder einen eingeführten Begriff im Englischen und im 
+Deutschen? Z.B. "banner image", "header picture", ..., "Kopfleistenbild", 
+"Foto im Kopfbereich", "Bild im Seitenkopf"? Der Begriff sollte so sein, 
+dass man spontan das Richtige assoziiert. Er darf auch mehr als ein Wort 
+lang sein, eine lange Umschreibung soll es aber auch nicht sein.
+
+Ich will das als zusätzliches Feld in einem CMS einführen und die Benutzer 
+sollen nicht raten müssen, was sich dahinter verbirgt.
+
+-- 
+Meinhard Isenbeck

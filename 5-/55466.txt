@@ -1,0 +1,12 @@
+Stimmt, das hatte ich übersehen, und das ist das häufigste. Aber nicht
+um so viel häufiger wie "beet" gegenüber "beetroot".
+
+(DNVL)
+
+  "beet soup"     272,000
+  "beets soup"        813 
+  "beetroot soup" 104,000 
+
+-- 
+die gugel gehört seit je zur narrenkleidung:
+  GRIMM, Deutsches Wörterbuch

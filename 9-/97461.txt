@@ -1,0 +1,18 @@
+Hier ging es allerdings eher um "logische Interpretation" einer 
+einzelnen Aussage, als um die im Deutschunterricht übliche 
+Interpretation von ganzen Texten, Gedichten, Romanen usw.
+
+
+Man kann "Ist das wahr?" auch als:
+"Ist folgende Aussage A richtig?"
+verstehen.
+
+
+Und "Kann das stimmen?" dann als:
+"Gibt es ein x, so daß folgende Aussage A(x) richtig ist?"
+Also man betrachtet die fragliche Aussage gewissermaßen nicht als 
+konstant, sondern als 'Funktion' gewisser Eingabedaten.
+
+-- 
+gut, dann werde ich mir das morgen mal besorgen...
+(...Dialog aus m.p.d.g.w.a.)

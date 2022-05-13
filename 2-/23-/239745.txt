@@ -1,0 +1,10 @@
+Am 20.12.2013, 10:01 Uhr, schrieb Richard Elsberg  
+<eyhbyvudnjjrwgpn@thbdkuz.ti>:
+
+
+Wenn du versuchst, einen Morse-Dekoder zu programmieren, wirst
+du feststellen, daß der Code aus 4 (vier) Zeichen besteht:
+kurze und lange Signale plus kurze und lange Pausen.
+
+j/\a
+--

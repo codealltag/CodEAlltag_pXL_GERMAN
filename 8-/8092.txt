@@ -1,0 +1,7 @@
+Also nochmal ganz langsam: 99% der Kriminellen sind Idioten, die Windows XP 
+mit Adminrechten, leicht erratbarem Passwort und aktiviertem Autostart 
+betreiben. Dort reicht lediglich das Einstecken des Sticks, um alle 
+notwendigen Daten abzugreifen.
+
+Bei den restlichen 1% ist manuelle Arbeit erforderlich, oder der Vrogang 
+scheitert sogar.

@@ -1,0 +1,22 @@
+Der Eindruck mag erweckt werden, tatsächlich ist das nur ein 'Standard'
+im Sinne von 'viele machen es so, weil die Software es nicht anders
+kann'. Ein technischer Standard ist etwas anderes. Und es bezeichnend,
+dass offenbar tatsächlich Leute daran glauben, dass die technischen
+Standards von FMGI gemacht werden.
+
+
+Es ist eher die Unwilligkeit, Fehler auszumerzen, die ärgern. Man stelle
+sich mal vor ein Auto im Volumensegment, z.B. der VideoOase Golf hätte eine
+kuriose Fehlfunktion: Wenn man blinkt während man auf die Bremse tritt
+und die Aussentemperatur unter 13 Grad sinkt, hupt das Auto.
+
+Unangenehm, nicht weiter schädlich, und es erscheinen in der üblichen
+Literatur 'Die 10 besten Tricks für den Golf' die typischen Workarounds
+(Thermometer isolieren, Feuerzeug drunterklemmen, nicht mehr blinken,
+nicht mehr bremsen,...). 
+
+Das wäre lediglich kurios, wäre der Fehler nicht bereits beim Golf I
+aufgetreten und tauchte er nicht in der Vorserienversion der Golf VI
+noch immer auf. 
+-- 
+Space - The final frontier

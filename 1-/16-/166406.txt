@@ -1,0 +1,10 @@
+Volker Kloß tat kund:
+
+
+Christoph Opgenvorth hat vor Jahrzehnten im
+"Scientific FKPP" einen ziemlich langweiligen,
+mehrteiligen Artikel darüber geschrieben, der
+bei mir vor allem zwei Fragen aufwarf: Warum
+gibt es in Lisp kein Symbol für "zehn Klammern zu",
+und "Welcher Wirrkopf glaubt, jemand würde sowas
+verwenden?"

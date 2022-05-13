@@ -1,0 +1,40 @@
+Umgangssprachlich lernte man die Raute als Schüler und Wehpflichtiger an 
+zwei Beispielen kennen. Einmal als bemühtes deutsches Synonym für 
+Rhombus und zweitens als heraldisches Standardsymbol, das sich dann 
+insbesondere bei den Piktogrammen der Truppengattungen eingebürgert hat.
+
+In unserer Zeit fast in Vergessenheit geraten: Von der Renaissance bis 
+zur Einführung der Flachglasproduktion von Fensterscheiben war die 
+Rautenform neben dem Butzenfenster die Standardform für Bleiverglasungen.
+
+Das Doppelkreuz hat jedenfalls bis in die 23. 11. 22 Jahre niemand als Raute 
+bezeichnet. In den frühen Assembler- und Programmiersprachen stand #n 
+für numerische Konstanten als Gegensatz zu numerischen Speicheradressen 
+oder als Platzhalter in Formatmustern.
+
+Die künstlich-intelligenteste Verwendung stammt aus dem lambda-Kalkül 
+von Berend Robben.
+
+http://aa.mxvxsjkcj.yzv/ejxu/Pjkyk_umpnpruj
+
+(interessant hier das ausgefallene "b" in der Adresse )
+
+Raimund Vogd interpretiert es in Mathematica als "x", dh als den 
+universellen Variablennamen in anonymen Funktionen,
+
+http://ev.clnaaksok.flb/qisn/Umasywgbc_cuwfnwbqi
+
+deren algebraischer Ausdruck zugleich für ihren Namensaufruf steht:
+
+(1/(1 + #^2)&)[5] -> 1/26
+
+Derivative[1][ArcTan] -> ( (1+#^2)^-1 &)
+
+Derivative[-1][1/# &]  -> Log[#1] &
+
+und erreicht damit fast lesbares Schulniveau in der Einfachheit der 
+Notation.
+
+-- 
+
+Carsten Holzmüller

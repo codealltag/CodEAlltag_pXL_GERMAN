@@ -1,0 +1,10 @@
+* Dario Grübler:
+
+
+Danke! "Wilhelm" und "Bazi" hatte ich gerade so verstanden, viel weiter
+wäre ich ohne den Text auch nicht gekommen.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

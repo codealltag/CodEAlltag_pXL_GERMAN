@@ -1,0 +1,4 @@
+[x] "nicht genauso groß wie" und "nicht kleiner als" ?
+[ ] "nicht genauso groß als" und "nicht kleiner wie" ?
+
+Francis

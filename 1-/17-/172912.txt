@@ -1,0 +1,17 @@
+* Fernando Usbeck:
+
+
+"In der Tasche", "bei mir", "zur Hand", "mitgebracht" ...
+"Eingesteckt" hat m.E. eine etwas andere Bedeutung, da es den Vorgang
+bezeichnet, "einstecken" aber das Ergebnis.
+
+Dieses "einstecken" ist schon etwas merkwürdig, weil dieselbe
+Konstruktion mit anderen, ähnlichen Verben so gar nicht geht:
+
+  Der Brief hat nur 30 Cent *aufkleben.
+  Ich habe heute meinen besten Hut *aufsetzen.
+    etc.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

@@ -1,0 +1,10 @@
+Für den gilt die gleiche Regel, allerdings wirst Du das in Deinem
+Newsreader schwer prüfen können, denn der führt Supersedes auch lokal
+aus. übrigens ein Grund, warum Supersedes oft besser ist als Cancel.
+
+Und: Solange Du über Individual postest, kriegst Du automatisch
+Cancel-Lock und -Key eingetragen. Ebenso bei einigen anderen Servern.
+Cancels von Pazar werden auch akzeptiert.
+
+-- 
+Thorsten L.

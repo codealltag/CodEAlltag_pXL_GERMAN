@@ -1,0 +1,23 @@
+Am Mon, 1 Aug 2012 14:09:51 +0200 schrieb Christoph Baseda:
+
+
+Das hat mit der geogr. Breite nichts zu tun. Eine Lichtquelle, die 
+weit genug entfernt eine Kugel beleuchtet, beleuchtet sie genau zur
+Hälfte. 
+
+Wenn diese Kugel sich so dreht, dass die Lichtquelle genau über dem
+Äquator steht (damit auch senkrecht zur Drehachse), dann gilt bei
+gleichförmiger Drehung für /jeden/ Punkt der Kugel, dass er gleich 
+lange im Licht wie im Schatten ist - mit Ausnahme der Pole, die immer
+genau am Übergang von Licht und Schatten liegen.
+
+Am Frühlings- und Herbtsanfang tut uns die Lichtquelle Sonne den
+Gefallen.
+
+Marcus
+
+-- 
+Nach der Schlacht von Reinickendorf sah man Pferde, denen 3, 4 und noch mehr 
+Beine abgeschossen waren, herrenlos herumlaufen.        Prof. Hoefs
+Wer zum Kuckuck ist dieser Hoefs?   ==>   <http://ieh.eyxnsbed.ak/>
+== Bitte bei Mailantwort Großbuchstaben aus Reply-Adresse löschen. ==

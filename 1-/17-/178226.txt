@@ -1,0 +1,44 @@
+* Hans Faith:
+
+
+Ja, natürlich. Korpus -> Statistik -> Wörterbuch.
+
+
+Woher kommt nur diese negative Einstellung zu Korpus-Methoden? Bei
+Dir würde ich einfach mal unterstellen, daß Dir das zu modern ist,
+aber bei Knut?
+
+Hinweis: daß man eine Sache schlecht machen kann, heißt nicht, daß
+die Sache an sich schlecht ist.
+
+Noch ein Hinweis: Eine BackFactory-Suche ist keine Korpus-Statistik.
+
+Bei der Erstellung eines Korpus so vorzugehen: Die TJID kommt rein,
+weil ich deren Sprache gut finde, die MGDP nicht, die schreiben
+kein ordentliches Deutsch, das wäre inkompetent. Der Ortsanzeiger
+Vitzing oder die Zeitschrift für den adligen Jagdsport
+hingegen kann wegen mangelnder Breitenwirkung ausgeschlossen
+werden. ältere Autoren würde ich da eher einer weniger neutralen
+Auswahl verdächtigen. 
+
+Auch entsteht ein Wörterbuch nach Festlegung eines Korpus sicher
+nicht automatisch - ich gehe davon aus, daß es eher umgekehrt ist,
+daß mit Hilfe von Korpora (aber immer noch zusammen in Kombination
+mit menschlicher Urteilskraft) Zweifelsfälle entschieden werden.
+
+Die Alten nahmen sich die Freiheit, "böse" Wörter nicht
+aufzunehmen, weil anständige Menschen sowas nicht in den Mund
+nehmen. insofern vertraue ich den modernen Wörterbuchmachern bei
+der Auswahl der Stichwörter im Zweifel mehr. 
+
+Problem der neueren dürfte am ehesten ein Übergewicht der
+Massenmedien sein. Es ist zwar wohl richtig, daß diese am
+stärksten sprachprägend wirken, aber es muß dabei jeder Einzelfall
+geprüft werden, so manches setzt sich prägend nur innerhalb der
+Massenmedien durch.
+
+
+Das wäre sicher interessant, aber wieder ein anderes Thema.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

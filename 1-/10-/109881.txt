@@ -1,0 +1,12 @@
+Es ist anders - "quadrat" ist eine andere Art Vorsilbe als "Kilo" und daher
+nicht austauschbar. Es bezeichnet nämlich nicht die Multiplikation mit
+einem konstanten Faktor. Solange du bei "milli", "kilo", mikro", "mega"
+etc. bleibst, funktioniert alles wieder - ein Millikilogramm ist durchaus
+dasselbe wie ein Kilomilligramm. Ein (km)² ist aber was anders als ein
+k(m²)
+
+Francis
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

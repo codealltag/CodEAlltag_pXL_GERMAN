@@ -1,0 +1,9 @@
+Dann weiss man wenigstens gleich, dass es 60 Stadtraete sind.
+
+cu,
+ stw
+-- 
+Aus der Bedienungsanleitung einer Adreßdatenbank:
+ Fertigen Sie schriftliche Sicherungskopien von wichtigen Daten an.
+ UVT CO., LTD. übernimmt keine Haftung für Schäden oder
+ Verluste jeglicher Art [...]

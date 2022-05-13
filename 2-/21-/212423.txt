@@ -1,0 +1,61 @@
+Es ist eine Eigenschaft vieler Sprachen, dass man von der Grammatik -- 
+nicht nur den Regeln, die die Grammatiker aufgeschrieben haben, sondern 
+auch den Regeln, die die Nutzer der Sprache von allein befolgen -- 
+gezwungen wird, bestimmte Informationen mitzuliefern, ob man die braucht 
+oder nicht.
+
+Im Deutschen ist es etwa die Zeit. Man erzählt eine Geschichte, und 
+verwendet in *jedem* Satz die Vergangenheit, obwohl der Hörer oder Leser 
+doch nach dem ersten Satz weiß, dass die ganze Geschichte in der 
+Vergangenheit spielt -- reine Verschwendung ohne irgendeine Bedeutung für 
+die Aussage. Das biblische Hebräisch geht da viel nützlicher vor: da gibts 
+auch unterschiedliche Verbformen, aber sie können *alle* in der Geschichte 
+vorkommen, und zwar nicht um unterschiedliche Zeiten auszudrücken, sondern 
+unterschiedliche Bedeutung für die Geschichte: Fortgang der Geschichte, 
+Hintergrundinformation, wiederholte gewohnheitsmäßige Handlungen, ...
+
+Eine andere Information, die im Deutschen ständig überflüssigerweise 
+mitgegeben wird, ist die Bestimmtheit von Substantiven. Natürlich gibt es 
+einen Unterschied zwischen "ein Haus" und "das Haus"; würde man aber die 
+bestimmten und unbestimmten Artikel streichen, wäre in 95% der Fälle klar, 
+wie es gemeint ist, und in den restlichen 5% könnte mans ja dazusagen, 
+z.B. "irgendein Haus" oder "dieses Haus".
+
+Im Russischen etwa ist die Unterscheidung der Zeiten nicht so fein wie im 
+Deutschen und Artikel gibts auch nicht. Dafür muss man bei *jedem* Verb 
+eine von zwei Formen wählen: eine für Handlungen mit einem Ziel, die zu 
+einem Abschluss führen oder eine andere für den Fortgang der Handlung ohne 
+den möglichen Abschluss zu betrachten. Im Deutschen gibts das zwar auch 
+("ich lese die Zeitung durch" vs. "ich lese Zeitung"), aber es ist eine 
+der Schwierigkeiten für einen Deutschen, der Russisch lernt, das bei jedem 
+Verb immer richtig einzusetzen.
+
+Das Chinesische zeichnet sich dadurch aus, dass es recht wenig solche 
+Zwangsinformation mitführt. Man braucht nicht zu sagen, wann es war, man 
+hat keine Artikel (außer etwas ähnliches nach Zahlwörtern). Deswegen ist 
+für einen Chinesen schwer verständlich, dass man solche Dinge dazusagen 
+muss, wenn doch die Information im Satz anderweitig schon drin ist.
+
+
+Das ist eine andere Frage als die des Chinesen, warum man *überhaupt* die 
+Zeit ins Verb packen muss. Jetzt gehts darum, *wie* sie hineingepackt wird.
+
+Im schriftlichen Standarddeutsch wird das Perfekt ("ich bin ... gewesen") 
+verwendet, wenn man über die Gegenwart spricht und etwas aus der 
+Vergangenheit erwähnt, was die gegenwärtige Situation beeinflusst oder 
+erklärt. "Sie ist gekommen" heißt, das sie da ist; "Sie kam" heißt, dass 
+sie in der Vergangenheit kam, ohne dass man weiß, was aus ihrer 
+Anwesenheit wurde: ging sie wieder, ist sie noch da oder verstarb sie 
+hier? Bei dieser Unterscheidung hat "Ich bin gestern zu Hause gewesen"
+nicht viel Sinn: was soll es jetzt für einen Einfluss haben, dass ich 
+gestern zu Haus war? Ein Satz wie "Ich bin gestern nach Hause gekommen"
+kann dagegen einen Sinn haben.
+
+In der Umgangssprache vor allem im Süden Deutschlands (dort immer, im 
+Norden auch manchmal) wird das Perfekt außerdem als Ersatz für das 
+Präteritum verwendet. Und so würde ich den Satz auffassen: "Ich bin 
+gestern zu Hause gewesen" ist die südlich-umgangssprachliche Version von 
+"Ich war gestern zu Hause".
+
+-- 
+Bernard Imberg

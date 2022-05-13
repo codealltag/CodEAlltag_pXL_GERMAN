@@ -1,0 +1,13 @@
+Doch, sie ist technisch unsinnig, aber wegen des häufig fehlenden 
+technischen Hintergrundwissens um die ganze Kodiererei wird die Kodierung 
+mit dem mit ihr kodierbaren Symbolvorrat gleichgesetzt. Erica meinte also 
+eigentlich: „Welchen Font benutzt Du für Zeichen, die nur mit Unicode 
+vernünftig kodiert werden können?“
+
+Bei deutschen Windosen entspricht das also allem, was nicht westeuropäisch 
+ist. Allerdings benutzt er Windows 7, das eigentlich, anders als seine 
+Vorgänger, Fonts für alle Lebenslagen mitliefert (bei Vista weiß ich’s jetzt 
+nicht).
+-- 
+Gruß | Greetings | Qapla'
+Wenn ich tausend Zungen hätte, wärt ihr alle nach meinem Geschmack!

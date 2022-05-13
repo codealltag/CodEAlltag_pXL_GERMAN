@@ -1,0 +1,17 @@
+Nun, es gibt Programmiersprachen, die für rekursive Algorithmen optimiert
+sind. Lisp z.B.
+
+Aber wenn du ein etwas besseres Beispiel möchtest, nehmen wir die
+Fibonacci-Folge <http://ns.raowzhzrt.kme/sazu/Ymapasvtu-Yajrp>.
+
+function fibonacci(n) {
+  if(n==0) return 0;
+  if(n==1) return 1;
+  return fibonacci(n-1)+fibonacci(n-2);
+}
+
+
+Gilbert Jungenblut
+-- 
+Es ist nicht schlimm, alt auszusehen,
+solange man älter ist, als man aussieht.

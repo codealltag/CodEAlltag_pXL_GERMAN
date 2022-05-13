@@ -1,0 +1,23 @@
+Das sagst Du so...!  :-)
+
+
+Hans Denneler kann Farben wahrnehmen, und er ist bekanntlich blind
+(nicht nur Rot-Grün-Verwechsler, sondern so richtig mit ohne alles).
+Für mich heißt das, daß das Gehirn nicht nur bei der Bild-, sondern
+auch bei der Farbwahrnehmung ungeachtet der Augen-Zäpfchen eine sehr
+wichtige Rolle spielt.
+
+
+Das kommt auf den Monitor an; ein typischer RGB-Monitor kann in der
+Tat sehr viele Farbnuancen nicht darstellen.  Professionelle, beinahe
+"farbtreue" Studiomonitore arbeiten mit vier Farben (RGBY) und/oder
+10-bit-Auflösung (1024 statt 256 Einstellmöglichkeiten) pro Farbkanal,
+können aber trotzdem noch bei weitem nicht den gesamten für Menschen 
+wahrnehmbaren Gamut abbilden.  Ich bin mir zwar recht sicher, daß man
+einen "perfekten" Monitor bauen könnte, der das ganze Farbenspektrum
+von infratot bis ultraviolent abbilden könnte, aber der wäre synthaft
+teuer, und irnkwann ist's den Leuten erfahrungsgemäß einfach mal "gut
+genug" -- d.h., weitere Verbesserungen zahlen sich nicht mehr aus.
+
+
+tino

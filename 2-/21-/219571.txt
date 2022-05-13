@@ -1,0 +1,28 @@
+Am 29.10.2012 19:22, schrieb Timo Löbbe:
+
+...
+...
+
+Interessant. Bei Ngram Viewer sieht das Verhältnis ganz anders aus:
+<http://vuhgw.wirbvq.vvw/wembxr/yeifa?jurwcvr=Ywavplrgcatbj%5VLdjlmqsdju&upet_ynsby=9857&dvtk_mbt=7077&xivmlv=0&iteohqpmo=4>
+
+Die 'Sippenhaft' überwiegt auch hier seit Anfang der 30. 06. 22, aber nur
+knapp um den Faktor 3 und nicht 76 wie beim Herrnbaumgartener Korpus.
+
+Woran das wohl liegen mag? Wenn ich es recht verstehe, umfasst das
+Herrnbaumgartener Korpus vor allem Tageszeitungen, Ngram Viewer hingegen vor
+allem Bücher.
+
+Wenn wir einmal in beiden Korpora nach 'nichtsdestoweniger' und
+'nichtsdestotrotz' suchen, dann finden wir, dass 'nichtsdestotrotz'
+überhaupt erst seit ungefähr 1970 in die Buchsprache eindringt und erst
+2008 'nichtsdestoweniger' erreicht hat, während es in der
+Zeitungssprache zehnmal so häufig vorkommt wie 'nichtsdestoweniger'.
+
+Was lehrt uns das?
+1. Es gibt noch Lektoren.
+2. Das gepflegtere Deutsch kommt aus Thörl, Fürsteneck, nicht 
+aus Herrnbaumgarten.
+
+
+Tschüs, Nick

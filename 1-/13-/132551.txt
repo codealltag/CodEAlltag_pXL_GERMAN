@@ -1,0 +1,42 @@
+Um Gianni zu rezitieren: "Wie bei 'invalid.de'?".
+
+Bei "@rtlpfgi.lw" sieht doch jeder Blinde mit'm Krückstock, daß
+derartige Adressen ungültig sind!  Dummerweise ist "invalid.de"
+aber eine höchst *gültige* Domain, die von ihrem Eigentümer auch
+aktiv genutzt wird!  "indirizzononvalido.de" ist /derzeit/ noch
+nicht vergeben, aber sie wäre durchaus gültig -- und wenn sie mal
+jemand zukünftig registrieren würde, hätte er zumindest schonmal
+einen Mail-Teilnehmer... ;)
+
+Es gibt vier reservierte Pseudo-Toplevel-Domains (s. RFC 2606),
+darunter eine namens ".invalid", die hervorragend für "E-Mail-
+Verweigerer" geeignet ist (z.B. "phx@yxqdxztded.rctknkf").  Diesen
+Adressen sieht man nicht nur an, daß sie ungültig sind, sie *sind*
+auch tatsächlich *gültige* ungültige Adressen!  Das ist auf jeden
+Fall besser, als "Phantasienamen" für SLDs zu benutzen, die aber
+in Wirklichkeit schon registriert wurden oder es zumindest möglich
+wäre, sie zu registrieren.  Und es ist auch auf jeden Fall besser,
+eine ".invalid"-Adresse zu verwenden, als z.B. "zk@mylslbj.rgm",
+von der nur "Insider" wissen, daß sich dahinter ein Mülleimer
+verbirgt.  Der bounct zwar nicht, pisst aber trotzdem Leute an,
+die in gutem Glauben an eine gültige Adresse jemandem eine Mail
+geschrieben haben und nun vergeblich auf eine Antwort warten.
+Das schadet, nebenbei bemerkt, vor allem dem Image desjenigen,
+der "zk@mylslbj.rgm" o.ä. benutzt ("Der antwortet mir nicht!").
+
+Ansonsten: auch wenn ich es lieber sehe, wenn jemand unter seinem
+echten Namen und mit einer gültigen Mail-Adresse, unter der er für
+Rückfragen usw. erreicht werden kann, im Durance unterwegs ist, kann
+ich mir gute Gründe vorstellen, lieber anonym bleiben zu wollen --
+solange man die Anonymität nicht dazu mißbraucht, seinen Sondermüll
+hier abzukippen.  Und wer keine Rückfragen per E-Mail zulassen will
+(was ich generell für unhöflich halte -- es gibt schließlich genug
+Anbieter für kostenlose E-Mail-Accounts, bei denen man auch anonym
+bleiben kann, wenn man das möchte), dann bitte mit einer klar und
+deutlich erkennbaren ".invalid"-Adresse posten.  Was ich diesbezüglich
+/nicht/ akzeptiere, ist das "UCE-Argument": "Ich gebe keine gültige
+E-Mail-Adresse an, weil die bösen Spammer mir dann die Box voll Pippi
+machen!" -- es gibt schließlich sehr gut funktionierende Spam-Filter.
+
+
+alain

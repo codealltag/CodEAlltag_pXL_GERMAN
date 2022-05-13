@@ -1,0 +1,17 @@
+On 14.07.2008 17:48, Willi Ueker wrote:
+
+[format=flowed]
+
+Da gibt's auch kein Men oder eine leicht zugängliche Option für. über
+'Tools - Options - Advanced - Config Editor' müsstest du diese beiden
+Einstellungen vornehmen:
+
+mailnews.display.disable_format_flowed_support - true
+mailnews.send_plaintext_flowed - false
+
+
+Ciao
+Wiltrud
+-- 
+ Theorie ist sehr schön.
+ Aber das Leben besteht vorwiegend aus Praktikum.

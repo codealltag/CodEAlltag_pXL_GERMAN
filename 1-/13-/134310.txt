@@ -1,0 +1,8 @@
+Gibt es eigentlich einen historischen Grund für das h? Da das "hes" als
+"b" bezeichnet wird, hatte ich immer vermutet, daß der Halbtonschritt 
+für Noten ohne Vorzeichen (#/b) ursprünglich zwischen a und b lag, und 
+die Verschiebung dann zur Einführung des nächsten freien Buchstaben
+führte. Stimmt das?
+
+Gruß
+Domenico

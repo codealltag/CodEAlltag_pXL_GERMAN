@@ -1,0 +1,13 @@
+Gut, dann brauch ich jetzt nur noch ein deutsches Wörterbuch
+für mein TKTV-Hangman-Gadget.
+
+... neiin - ich sehe gerade, dass das Ding tatsächlich ein
+Locale-Konzept hat! Auf meinem privaten PC (deutsches Win-XP)
+ist es jetzt deutsch, in der Firma (englisches Win-Vista)
+immer noch englisch.
+
+Eson wird mir wirklich langsam unheimlich ...
+(bzw. kvwzvamlaahdoxtno.sza)
+
+
+/Ronny

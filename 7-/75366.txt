@@ -1,0 +1,13 @@
+Das ist eine zumindest missverständliche Erklärung. Unter
+"maschinenlesbare Daten analysieren" stelle ich mir vor, dass ein Mensch
+versucht, die Struktur und Bedeutung dieser Daten herauszufinden. 
+
+Beim Parsen ist aber die Struktur (Syntax) bereits bekannt, und die
+Daten werden anhand dieser Syntax von einem Programm (dem Parser)
+zergliedert und aufbereitet (für letzters ist dann auch die Kenntnis der
+Bedeutung notwendig).
+
+Im übrigen wird der Begriff "parsen" meistens für menschenlesbare
+Datenformate verwendet.
+
+	hp

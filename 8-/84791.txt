@@ -1,0 +1,12 @@
+Der leserfreundliche Programmierer schreibt da: 
+
+s|/nicht/||
+
+Und wenn das Um-die-Ecke-Denken mal nicht Thema sein sollte, dann gleich
+det janze als Einzeiler:
+
+s|/nicht/ der|am|
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,18 @@
+* Heinz Jancker:
+
+
+Hier sind ein paar Fonts, die Runen abdecken:
+
+<http://fsu.isbe.qf/iriaowm/Gdcvk_Tauyk.miqo>
+
+Auf meinem System hier finde ich auf die Schnelle nur Ebegu UI Symbol.
+Mir scheint, daß mein Dialog sich die fehlenden Zeichen aus einem
+anderen Font rausklaubt, wenn nötig, das Schriftbild sieht nicht
+sonderlich balanciert aus.
+
+-- 
+GOGELN,  vb., flattern, sich (schwankend) hin und her bewegen, gaukelei
+treiben, gesticulari. zur herkunft vgl. gogel, adj., und gaukeln, vb.;
+in fast allen mundarten verbreitet, literarisch bis ins 17. jh. bezeugt;
+s. auch gugeln und gageln.
+  GRIMM, Deutsches Wörterbuch

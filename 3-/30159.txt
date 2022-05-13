@@ -1,0 +1,26 @@
+Es gibt offenbar zwei Definitionen:
+
+Multiple-Choice-Frage
+1. (im weiteren Sinn) Frage, bei der mehrere feste Antworten vorgegeben
+sind, von denen je nach Test genau eine oder auch andere Anzahlen
+ausgewählt werden sollen. Gegensatz: Ja-Nein-Frage, offene Frage,
+Skala-Frage
+2. (Spezialisierung von 1.) Frage, bei der n feste Antworten vorgegeben
+sind, von denen alle zutreffenden anzukreuzen sind. Gegensatz:
+Single-Choice-Frage
+
+Semantisch bezieht sich bei 1. das "choice" auf die vorgegebenen
+Wahlmöglichkeiten, bei 2. auf die auszuwählenden Elemente.
+
+Mir kommt die Definition 2. wenig sinnvoll vor, da dann trotzdem wieder
+eingegrenzt werden muß, wenn bestimmte Anzahlen ausgeschlossen sind.
+Beim Funkkolleg war das damals so, nach dem Schema: "von fünf Antworten
+ist mindestens eine und sind höchstens drei richtig". Daher reicht es,
+nur Bedeutung 1 zu verwenden und die mögliche Anzahl richtiger Antworten
+als Parameter hinzuschreiben: MC(1), MC(0,n), MC(1,3). 
+
+Im Gespräch mit Leuten aus dem nichtdeutschsprachigen Raum ist mir
+bisher noch niemand begegnet, der überhaupt andere als MC(1) kannte.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

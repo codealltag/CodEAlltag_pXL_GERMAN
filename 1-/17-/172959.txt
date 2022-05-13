@@ -1,0 +1,12 @@
+* Torsten Johannimloh:
+
+
+Auch, wenn man dort nur den Kindergeldantrag abgibt?
+
+Gut, daß der zum Arbeitsamt geht, ist eh alles andere als intuitiv.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Kosmed will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Volkmar Ossenbrügger

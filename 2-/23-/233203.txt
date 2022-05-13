@@ -1,0 +1,8 @@
+* Tobias Nemnich:
+
+
+Anderes Problem - wenn beides gesagt wird, sollte auch beides
+geschrieben werden können (wie Einkommensteuer, Einkommenssteuer).
+
+-- 
+ASCII to ASCII, DOS to DOS

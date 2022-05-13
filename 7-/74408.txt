@@ -1,0 +1,15 @@
+Sinusfrequenzen ab 16 Hz nimmt das Ohr als (sehr tiefen) Ton wahr, das
+ist aber was anderes als Morsesequenzen: bei 3 Zeichen pro Sekunde,
+sagen wir alles Ziffern (je 5 Symbole), sind das schon 15 Impulse pro
+Sekunde, die aber keinesfalls einen Sinuston von 15 Hz erzeugen
+(die Morsetöne selbst liegen normal im kHz-Bereich).  Und 3 Zeichen
+pro Sekunde entsprechen "erst" WPM 36, also knapp der Hälfte des
+Weltrekords.  Optisch entsprechen die "dits" und "dahs" kurzen "Blips"
+(nicht etwa bewegten Bildern, die das Auge ab 24 pro Sekunde als Seqenz
+wahrnimmt); versuch mal, 3x5 Blips pro Sekunde auseinanderzuhalten, die
+zudem noch unterschiedlich lang sind (1 "dah" entspricht 3 "dits", und
+Pausen zwischen Symbolen/Zeichen/Worten 1/3/7 "dits"): "sehen" kann
+man das wahrscheinlich noch, aber nicht mehr verarbeiten.
+
+
+niklaus

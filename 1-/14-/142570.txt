@@ -1,0 +1,19 @@
+Dann lies dies mal vor:
+
+ =B9  superscript 1
+ =B2  superscript 2
+ =B3  superscript 3
+ =BC  fraction 1/4
+ =BD  fraction 1/2
+ =BE  fraction 3/4
+ =D0  D stroke
+ =F0  d stroke
+ =DE  Thorn
+ =FE  thorn
+ =DD  Y acute
+ =FD  y acute
+ =D7  multiply sign
+ =A6  broken bar
+
+--=20
+Umlaute im Subject sind b?se.

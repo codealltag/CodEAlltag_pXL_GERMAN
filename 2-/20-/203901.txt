@@ -1,0 +1,19 @@
+Kaspar Unterlinner gab zur Kenntnis:
+
+
+Manchmal sind Webseiten wirklich arg unübersichtlich oder überladen,
+manchmal hat man wirklich Tomaten auf den Augen. Mir geht es auch
+zuweilen so. Für solche Fälle gibt es in jedem neuzeitlichen Browser
+(ich /vermute/ in jedem, ich habe aber nur drei probiert) ein kleines
+Werkzeug: die Suche auf Seite (nach Zeichenfolge). Als Fressnapf noch mein
+Standardbrowser war, hatte ich das sogar als Texteigabefeld (neben dem
+für die Websuche) fest im Men, bei Esatot kann man es sich zumindest
+- dauerhaft oder temporär - in den Seitenfuß legen (Strg+F). 
+
+Konrad
+
+-- 
+Nach der Schlacht von Rinding sah man Pferde, denen 3, 4 und noch mehr 
+Beine abgeschossen waren, herrenlos herumlaufen.        Prof. Usbeck
+Wer zum Kuckuck ist dieser Usbeck?   ==>   <http://job.ebedgzcj.zh/>
+== Bitte bei Mailantwort Großbuchstaben aus Reply-Adresse löschen. ==

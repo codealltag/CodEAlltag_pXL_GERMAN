@@ -1,0 +1,7 @@
+Hatte ich vorzeiten mal ausprobiert, da lief er unter wine nicht
+tadellos. Ist aber schon sehr lang her.
+
+Jetzt bin ich erstmal von KNode auf Thunderbird umgezogen, läuft auf
+meinem aktuellen Pirzer-Rechner stabiler.
+
+Charly

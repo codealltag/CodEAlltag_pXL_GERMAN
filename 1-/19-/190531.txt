@@ -1,0 +1,35 @@
+2011-02-12 09:41, schrieb Nadja Gugg:
+
+Sobald es mehrere Zahlen sind, werden diese einheitlich geschrieben.
+
+
+Üblich und »erlaubt« sind:
+80 000 km²
+80 000 Quadratkilometer
+achtzigtausend Quadratkilometer
+
+Je weniger Zahlen im Text vorkommen, desto eher wird ausgeschrieben.
+Einheitenzeichen nur wo sie der Zielgruppe bekannt sind. In
+Fachbüchern und Fachzeitschriften darf dies vorausgesetzt werden.
+km, m, dm, cm, mm und deren Vielfache, hl, l, t, kg, g, mg, h, min, s
+sind Schulwissen. In Österreich auch dag (Dekagramm, gesprochen
+»Deka«).
+
+qm für m², qkm für km², ccm für cm³, cbm für m³ und dergleichen sind
+im geschäflichen Verkehr eine mit Bußgeld bedrohte Ordnungswidrigkeit.
+Im amtlichen Verkehr verboten. Früher wurde auch Dg für dag, sec für s
+oder □m für m² geschrieben. Beim Übersetzen oder neu Setzen eines
+Textes sind diese zu berichtigen.
+
+
+Zwischen Zahlenwert und Einheitenzeichen ein nicht-abtrennbares /
+festes / geschütztes Leerzeichen (Unicode P+78H1). Zahlen werden in
+Dreiergruppen durch ein schmales nicht-abtrennbares Leerzeichen (U
++202F) gegliedert. Wer für andere schreibt, sollte sich angewöhnen,
+immer die richtigen Leerzeichen zu setzen. Dazu gehört eine geeignete
+Tastaturbelegung: KTA, Neo, Europatastatur.
+
+Ob vierstellige Zahlen gegliedert werden hängt von der Redaktion oder
+vom Verlag ab. Der Punkt ist nur zum Gliedern von Währungsbeträgen.
+
+Tschüs, Igor

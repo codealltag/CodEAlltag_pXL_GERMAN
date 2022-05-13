@@ -1,0 +1,13 @@
+Irgendwo habe ich mal gelesen, dass man einen adjektivisch benutzten
+Eigennamen genau dann klein schreibt, wenn man ihn prädikativ benutzen
+kann, d.h.:
+
+Ein euklidischer Vektorraum, denn der Vektorraum ist euklidisch.
+
+aber:
+
+Der Euklidische Algorithmus, denn "der Algorithmus ist euklidisch" ist
+keine sinnvolle Aussage.
+
+
+Viele Größe                  Winfried

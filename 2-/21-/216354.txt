@@ -1,0 +1,38 @@
+Jein. Text lese ich[1] mind. wortweise[2]. Mein Lesefluß stockt
+merklich bei "schlechten" Schriften oder Schreib- und Setzfehlern
+(inkl. falsche Trennungen). Überschriften überfliege ich nur. Und
+deswegen geht's mir wie Matthias, mich springen falsche Wörter im
+Fließtext auch an.
+
+-jean
+
+[1] vorzugsweise in einer Serifenschrift wie Garamond gedruckt, oder
+    am Bildschirm in einer von mir ausgewählten, an den Schirm
+    angepassten Schrift (im Browser Verdana, sonst "misc-fixed" aus
+    den X11 core fonts).
+
+[2] klappt sowohl auf Deutsch als auch Englisch, ich kann mit einem
+    Affenzahn diagonal ne Seite überfliegen, wenn ich was suche, bei
+    Englisch bei ner Suche nach was Großgeschriebene, speziell
+    Eigennamen, 30-60 Seiten/min. Da schau ich wirklich nur noch nach
+    Wortformen / Schwarzwerten. Im Nichterfolgsfall braucht der 2te
+    Durchgang natürlich länger, aber dann kann ich meist den in Frage
+    kommenden Seitenbereich genauer eingrenzen. Auf Deutsch ist's
+    etwas langsamer, wg. der Großschreibung von Substantiven,
+    andererseits hilft genau das wiederum ungemein dabei, den Worten
+    ein besser unterscheidbares Aussehen zu geben, letztlich etwa
+    pari-pari, evtl. eher noch Vorteile bei Deutsch. Und ja, das
+    "Gegentiel" oben läßt mich stocken, auch wenn ich solche Dreher
+    erstens selber allzuoft fabriziere (flasch z.B. schreib ich fast
+    nie im ersten Versuch "falsch" ;) und zweitens "stell ich meinen
+    Parser" hier im Usenet (und erst recht im Chat) auf "autoignore"
+    von solchen offensichtlichen Fipptehlern[tm], das ist dann mehr
+    wie ein Kiesel, über den man mit dem Auto führt statt, bei so nem
+    Fehler in einem Buch, wie wenn über so nen "Bremshubbel" in ner
+    30iger Zone o.�. r�berbrettert.
+
+-- 
+A: Weil es die Lesbarkeit des Textes verschlechtert.
+F: Warum ist TOFU so schlimm?
+A: TOFU
+F: Was ist eins der groesste Aergernisse im Grafitty?

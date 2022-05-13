@@ -1,0 +1,12 @@
+Rolf Epskamp:
+
+
+Sonst wären es ja auch keine Nachkommastellen gewesen.
+
+
+Wenn sie fehlerhaft gewesen wäre, hätte die Software auf einem Punkt
+bestanden. Da sie aber internationalisiert war, mußte der arme Ingmar
+doch glatt das Komma verwenden. Bei wem liegt dann doch gleich der Fehler?
+
+Viele Grüße
+Oswald

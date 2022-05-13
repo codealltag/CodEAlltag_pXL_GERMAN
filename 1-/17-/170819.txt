@@ -1,0 +1,10 @@
+Ja, man kann 'generell' natürlich auch so interpretieren; und das mit
+gutem Grund. Ulfs verkorkste Umlaute in UTF-8-Zitaten sind mir aber so
+präsent, dass ich den nicht unter 'generell' rubriziert hatte. Er
+scheint an dem ollen Netscape zu hängen.
+
+
+Ciao
+Anke
+-- 
+ The problem with troubleshooting is that trouble shoots back.

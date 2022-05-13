@@ -1,0 +1,12 @@
+Wie jeder weiß, ist jeder Rechenschritt im Schnitt mit 12 logischen 
+Entscheidungen, 24 Datenbewegungen und 48 Adressberechnungen behaftet. 
+Leute, die im Sinne des Wortes nennenswert rechnen müssen, benutzen 
+Computeranlagen und passende Softwarepakete, keine Rechner.
+
+Kein Mensch nennt Bildverabeitung Bilderrechnen oder dergleichen. Und um 
+den täglichen Sprachgebrauch geht es nunmal beim Netzfrontend mit seinen 
+ärmlichen Infotainmentzugaben.
+
+-- 
+
+Francisco Zeman

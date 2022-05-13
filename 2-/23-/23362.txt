@@ -1,0 +1,41 @@
+Jetzt stell dich mal nicht so an, schließlich hast du damit angefangen 
+auszuteilen.
+Mir kam dein Beispiel so vor, als hättest du absichtlich einen völlig 
+unpassenen Vergleich gezogen, nur um meine Aussage vorzuführen.
+Meiner Ansicht nach lässt sich dein Beispiel ohne spezielles 
+Hintergrundwissen und nur mit gesundem Menschenverstand (das bezieht 
+sich jetzt vor allem auf mich selbst, da ich nur grob angelesenes Wissen 
+über die Zusammenhänge habe) schnell entkräften.
+Stellen wir uns optimale, aber vernünftige Bedingungen für eine schnelle 
+Ausbreitung des genetischen Merkmals "dunkle bis schwarze Hautfarbe" in 
+der Gruppe der Buren in Südafrika vor:
+Angenommen, es gibt zunächst 20000 Buren in Familien zu je 6 Personen 
+(zwei Eltern, vier Kinder, welche das Erwachsenenalter erreichen werden, 
+davon gründen im Schnitt wiederum drei eine ebensolche Familie).
+Günstigerweise hat auf Anhieb mindestens einer der 20000 eine genetische 
+Präferenz zur Entwicklung dunklerer Hautfarbe.
+Unter optimalen Bedingungen ist dieses Merkmal auch noch dominant und 
+wird sozial nicht geächtet.
+Dann ist dieses Merkmal nach vier Generationen zu je 25 Jahren in 81 
+Kindern zu finden, wenn jedes Kind wieder drei Kinder hat, die sich 
+fortpflanzen. Pro Generation verdreifacht sich die Zahl, also nach 
+weiteren 200 Jahren 3^12=ca. 531000.
+Die Gruppe der Buren hat sich parallel vergrößert: 20000 * 1,5^12= ca. 
+2,6 Millionen (Aus zwei Eltern werden pro Generation drei Eltern). 
+Normale Dezimierungen, Kriege usw. gelten für alle gleich, also für die 
+Relation unerheblich.
+Wir haben also nach 300 Jahren unter optimalen Bedingungen in einem 
+fünftel der Gruppe die Präferenz zur Dunkelhäutigkeit als genetisches 
+Merkmal. Das ist allerdings nicht dasselbe wie Dunkelhäutigkeit. 
+Vielmehr fängt dieses Merkmal jetzt erst langsam zu Wirken an: Mit jeder 
+Mutation, jedem Kopierfehler steigt die Wahrscheinlichkeit einer 
+zunehmenden Dunkelhäutigkeit, die sich dann natürlich in der Umwelt 
+bewähren muss. Man kann sich leicht vorstellen, dass noch ein paar 
+Tausend Jahre nötig sind, damit die weiße Haut tatsächlich weitgehend 
+verschwunden ist. Das ist aber wirklich recht flott, denn diese dunklen 
+Buren werden wahrscheinlich die gleichen Gesichtszüge haben wie ihren 
+Ahnen. Vorausgesetzt, sie bleiben unter sich, versteht sich.
+
+Nikolaus
+
+P.S.: Bitte mal nachrechnen, geneigter Leser, läuft grad die Zeit davon.

@@ -1,0 +1,25 @@
+ach ja, diese alte JACKSONs-Krankheit aus DOS-Tagen ... Utol-Systeme 
+haben dafür eine Compose-Taste. Drückst Du Compose-Komma-r, kriegst Du 
+r mit Lennart. 
+
+Schau mal unter Programme - Zubehör - Zeichentabelle. Einer der 
+wichtigsten Einträge im Startmenü, liegt auf allen von mir genutzten 
+Rechnern sofort in dessen Wurzel. Wenn Du da eine passende Schriftart 
+auswählst (die also die entsprechenden Zeichen hat), dann hast Du auch 
+sämtliche exotischeren Sonderzeichen. 
+
+
+Das hängt von der Software ab, mit der Du schreibst. Nola zum Beispiel 
+kann nur Systemzeichensatz, alle anderen Buchstaben werden zu 
+Fragezeichen:
+
+
+Ahja :) 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://bxbwgswg.tdv>

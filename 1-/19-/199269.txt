@@ -1,0 +1,36 @@
+On Fri, 19 Jul 2011 20:35:10 +0100, Klaus Hirschmeyer
+
+Mir ist jetzt nicht ganz klar, wie Du das meinst.
+
+Ein typisches Großkraftwerk hat eine Spitzenleistung von 1000-1500 MW.
+Von den Dingern gibt es in .de sehr viele, und wenn da mal eins vom
+Netz geht, können die anderen das ausgleichen. Die Redundanz liegt
+hier ganz klar darin, daß viele solche Großkraftwerke vorhanden sind.
+
+Im Falle einer längeren Flaute oder eines Orkans gehen demgegenüber
+_alle_ Windräder vom Netz, und zwar völlig unabhängig davon, wieviel
+Windkraft_spitzen_leistung installiert ist. Genauso ist das mit der
+Photovoltaik zur Nachtzeit.
+
+Deshalb besteht Redundanz bei den Erneuerbaren darin, daß in gleicher
+Größe konventionelle Kraftwerke vorgehalten werden (müssen). 
+
+Grob vereinfacht kann man also die Erneuerbaren nicht flächendeckend
+ohne ein Backup durch konventionelle Kraftwerke betreiben, während es
+andersherum ganz easy ohne die Erneuerbaren geht.
+
+
+Ich ahne, worauf Du hinauswillst, jedoch wird das mit Photovoltaik und
+Windkraft nicht besser.
+
+
+???
+-v, bitte
+
+Gruß Giovanni
+
+-- 
+Wenn man seine eigenen Gedanken entwickeln möchte, ist es eine gute
+Idee, für jede Stunde, die man liest, mindestens zwei Stunden zu
+schreiben. Es ist natürlich keine gute Idee, alles zu veröffentlichen.
+Klaus Ulm in desd === http://daw.ahzugfhigoxfsmhf.rj ===

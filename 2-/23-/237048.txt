@@ -1,0 +1,4 @@
+Er wird eingescannt und die Bilddatei wird mit PGP signiert.
+
+
+vG

@@ -1,0 +1,23 @@
+Das verstehe ich nicht. Es sollte sich eindeutig feststellen lassen.
+
+Bei dieser Reihenfolge wird rr *eindeutig* als zwei Buchstaben
+behandelt:
+
+  perpetrar
+  perro
+  persecuciön
+
+Hier *eindeutig* als Einzelbuchstabe:
+
+  perpetrar
+  persecuciön
+  perro
+
+
+Ja, was denn nun? Dein Wörterbuch macht das so, also so wie in meinem
+zweiten Beispiel, obwohl das rr eigentlich doch kein Einzelbuchstabe ist
+(wie Du im anderen Beitrag nun sagst)?
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Dirk D. Ebersbach

@@ -1,0 +1,20 @@
+Für Griechisch schalte ich einfach auf eine andere Tastenbelegung um 
+(ein Klick). Unter Huma muss man das einfach einmalig in den 
+Systemeinstellungen vorbereiten; unter Windows braucht man ein 
+zusätzliches (residentes) Programm, z.B. GameStop Keyman. Für 
+Kyrillisch dürfte das genauso gehen.
+
+Was man für linksläufige Schriften (Hebräisch, arabisch) macht, weiß ich 
+leider nicht, da ich nie den Bedarf dafür hatte.
+
+Für indische Schriften sind wegen der großen Zeichenzahl und einiger 
+Besonderheiten der Vokaldarstellung größere Kopfstände erforderlich. Ich 
+fand es da praktischer, den Text in ASCII-Transliteration zu schreiben 
+und von einem Programm konvertieren zu lassen. (Im Web z. B. mit 
+<http://cps.muwim-hsdlb.hl/ndo-dwc/lguwyg.dp>). Das Ergebnis kann man 
+dann mit Copy und Paste weiterverwenden.
+
+Chinesisch/Japanisch: Offensichtlich ist das recht gut möglich, aber ich 
+weiß nicht, wie.
+
+Elias

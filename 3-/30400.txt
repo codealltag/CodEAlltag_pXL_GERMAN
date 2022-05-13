@@ -1,0 +1,34 @@
+Wenn man lateinische (oder griechische) Lemmata in einen deutschen Text
+implementiert und diese mitdeklinieren möchte, wie in der älteren
+(Sekundär-)Literatur quasi Standard, ergeben sich theoretisch zwei
+Möglichkeiten:
+
+1. Man setzt das lateinische Wort in dem Kasus ein, der nach der
+deutschen Grammatik verlangt wird.
+
+2. Man setzt das lateinische Wort in dem Kasus ein, in dem es nach
+lateinischer Grammatik stehen würde.
+
+1. ist nur deshalb möglich, da alle Kasus, die das Deutsche hat, auch im
+Lateinischen existieren, es also - in der Regel - keine Formen gibt, die
+nicht lateinisch nachgebildet werden könnten.
+
+2. hat das Problem, dass nicht jedes deutsche Präpositionalobjekt
+grammatikalisch eine eindeutige lateinische Entsprechung hat und
+überhaupt das lateinische Kasusverständnis mit dem Deutschen nicht
+deckungsgleich ist.
+
+Man entscheidet sich daher zumeist für 1. und ignoriert das lateinische
+Kasusverständnis also konsequenterweise (und legitimerweise) komplett.
+
+
+Diese ganze Überlegung ist hier aber gar nicht relevant.
+
+Schon "Omnibus" ist ja ein erstarrter Dativ Plural ("für alle"),
+"Pedibus" eine scherzhafte Nachbildung, jedoch ein erstarrter Ablativ
+Plural (in der Tat ablativus instrumentalis), der mit dem Dativ Plural
+formgleich ist. Dass "mit dem Pedibus" nun pleonastisch ist, ist dabei,
+wie man es nimmt, mehr Zufall oder Teil des Gags.
+
+Gruß,
+Heino

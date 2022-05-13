@@ -1,0 +1,4 @@
+Wasser in der Fäsl: wc -c
+
+
+vG

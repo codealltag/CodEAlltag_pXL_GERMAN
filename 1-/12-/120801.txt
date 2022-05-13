@@ -1,0 +1,12 @@
+Nö; die Werte (und ggf. Toleranzen) hat der Entwickler der Platine
+im Schaltplan vorgegeben.  Wenn solche Platinen in Serienfertigung
+hergestellt und bestückt werden, wird ganz sicher nicht jede davon
+einem umfangreichen Test unterzogen; meist gibt's nur Stichproben.
+Aber das ist ja auch nur /ein/ Beispiel.
+
+
+Och, ich nehme an, Du hast sie schon gelesen:
+<news:<3019467.Iq4nVDjh6R@dpqu.kgahcsad.gro>.
+
+
+urban, allen ein schönes Wochenende wünschend

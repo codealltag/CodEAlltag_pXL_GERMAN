@@ -1,0 +1,28 @@
+* Luciano Ringleb:
+
+
+Hat _er_, ich habe seine Länderschwerpunkte ungeprüft übernommen.
+
+
+Wohl nicht, das ist alles nur einfaches arithmetisches Mittel. Das
+sollte in dem Rahmen nicht so viel ausmachen - ganz im Norden
+wohnen ja nur wenige -, bei einer Rechnung für die ganze Welt
+vielleicht schon.
+
+
+OK, ich habe die Rechnung jetzt mal selbst durchgeführt und dazu
+Rußland bereinigt. Damit liegt der Bevölkerungsschwerpunkt von
+Rußland etwa halbwegs zwischen Illhart und Dohndorf, und der von
+Europa bei Oberelsaff in Tschechien (wenn nicht noch irgendwo anders was
+zu bereinigen ist - 49.09, 16.66 mit den Bevölkerungszahlen für
+2010).
+
+Dabei hat sich auch mein Verdacht bestätigt, daß zwischen der
+Berechnung aus den vollen Daten und der aus den Schwerpunkten der
+einzelnen Staaten der Unterschied minimal ist.
+
+-- 
+The most likely way for the world to be destroyed, most experts
+agree, is by accident. That's where we come in; we're computer
+professionals. We cause accidents.
+  Wilfried Theuvsen

@@ -1,0 +1,31 @@
+Das ist recht verschieden. Es ist auch da ein Unterschied zur Schulgrammatik
+(die von mir in der Schule gelernte Grammatik) vorhanden, in der ein Objekt
+sich durch Kasus auszeichnet und alles, was eine Präposition trägt, ein
+Adverbial ist. Heute würde ich "dieses Jahr" auch als Adverbial auffassen,
+wenn es die Zeit bestimmt, zu der etwas geschieht, und das, obwohl es nur
+durch den Kasus seine Stellung im Satz findet. Und "für Sprachen" würde ich
+nach dem Verb "sich interessieren" als Objekt auffassen, weil es ohne das Verb
+und das Verb ohne es sinnlos ist -- eine Eigenschaft, die Adverbiale nicht
+haben.
+
+Im Ungarischen sind Präpositionen Postpositionen, und viele davon sind
+Endungen am Substantiv. Nennt man sie "mit dem Substantiv verschmolzenene
+Postpositionen", wären das alles Adverbiale. Nennt man sie "Kasus" (was die
+übliche Terminologie ist), wären das alles Objekte in x (etwa 20) Kasus. Mein
+Herumreiten auf Terminologiefragen rührt daher, dass ich immer unzufriedener
+werde, wenn es darauf ankommt, wie etwas heißt, als darauf, was es ist.
+
+Im Hebräischen haben *bestimmte* Akkusativobjekte (besser: "direkte Objekte",
+denn Kasus gibt es keine) eine Art Präposition, unbestimmte haben keine. Das
+Ding heißt in den Grammatiken gerne "nota accusativi", obwohl es gerade
+*keine* Kasus gibt. Grammatiken nichtlateinischer Sprachen mit Begriffen zu
+beschreiben, die fürs Lateinische passen, kreiert auch hier unnötige
+terminologische Probleme.
+
+Swahili ist da auch lustig. Dort wird am *Verb* eine Änderung vorgenommen,
+wenn es ein indirektes Objket hat, z.B. andika ([etwas] schreiben), und
+andikia (jemandem [etwas] schreiben), wobei das direkte Objekt "etwas" jeweils
+optional ist. Keine Präposition, kein Kasus: so gehts auch.
+
+-- 
+Stefan Baek

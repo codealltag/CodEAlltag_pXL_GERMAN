@@ -1,0 +1,20 @@
+7,5 Pfund Safran kosten 90 Taler.
+
+
+11,5 Pfund kosten x Taler
+
+<==> x = 90 Taler * 11,5 Pfund / 7,5 Pfund
+
+Das rechnet man nach alter Väter Sitte mit Brüchen:
+
+7,5 = 15/2, 11,5 = 23/2
+
+==> x = 90 Taler * 23 / 15 = 138 Taler.
+
+"Der rechner packt den dreisatz aus
+  und rechnet 138 thaler aus."
+
+Das mal nebenbei zu altertümlichen Zahlenbezeichnugen.
+
+Tsch, wa!
+Wolfram

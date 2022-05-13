@@ -1,0 +1,11 @@
+* Winfried Nigg:
+
+
+Das sind sie tatsächlich. Anfänger haben damit weniger Arbeit,
+Vollprofis ärgern sich eher mal über die nicht vorgesehene
+Flexibilität.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Arian Grasmann, comp.lang.python

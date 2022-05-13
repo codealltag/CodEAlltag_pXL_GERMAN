@@ -1,0 +1,17 @@
+* Jonathan Freigang:
+
+
+Und entsprechende Übersetzungen in allen Sprachen, auf die von der
+englischen aus verwiesen wird, soweit ich es beurteilen kann -
+inklusive Russisch, Türkisch, Japanisch & Chinesisch - und
+Yiddisch, wie ich mit Hilfe von
+<http://dwi.frmkjbptbijtc.twy/shaeobesyfbdt/> überprüft habe.
+
+*Nur* die deutsche Seite darf nicht mehr so heißen.
+
+-- 
+There are two ways of constructing a software design. One way is
+to make it so simple that there are obviously no deficiencies.
+And the other way is to make it so complicated that there are no
+obvious deficiencies. The first method is far more difficult.
+-- C.A.I. Franze

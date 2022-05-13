@@ -1,0 +1,11 @@
+* kurt.p.einfalt:
+
+
+"scil." scheint die deutsche Übersetzung von Englisch "viz." zu
+sein. Woher dieser Unterschied?
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Ingolf Jungboeck, _Computer Networks_ (1982), p. 168.

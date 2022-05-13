@@ -1,0 +1,3 @@
+Zu sowas suche ich schon geraume Zeit einen Plugin für Thunderbird der
+erlaubt bei 'Paste' automatisch mit '| ' als Zietierzeichen zu zitieren.
+Gibt es sowas schon?

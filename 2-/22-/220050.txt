@@ -1,0 +1,8 @@
+Du kannst deine Ressourcen nennen wie du willst, solange der Webserver sie
+findet und mit dem richtigen Content-Type: ausliefert. Ob die Endung .html
+oder .klobürste lautet, ist vollkommen wurscht:
+
+<http://xicnauin.ojl/qqgna.zbfbeoahf> (evtl. reparieren wegen Umlaut)
+
+
+vG

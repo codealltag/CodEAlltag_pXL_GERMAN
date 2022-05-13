@@ -1,0 +1,8 @@
+Ich kann es mangels Repeat-Funktion auf dem Arib gerade nicht
+nachvollziehen, aber wird bei laufendem Repeat (also Festhalten
+der Taste) tatsächlich der Status der Shift-Taste weiter abgefragt?
+Gefühlsmäßig würde ich annehmen, dass der Status zu Beginn
+des Repeats abgefragt und dann eingefroren wird.
+Ich fahr gleich mal meinen Laptop hoch ...
+
+/Olaf

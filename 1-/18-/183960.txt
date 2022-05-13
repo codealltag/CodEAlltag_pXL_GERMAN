@@ -1,0 +1,14 @@
+Auch transitive Verben können Dativobjekte haben. Ein intransitives Verb 
+(im Deutschen) ist ein solches, das _kein Akkusativobjekt_ hat. (Aber 
+eigentlich sollte man Transitivität gar nicht über die Kasus von 
+Objekten definieren, das geht dann spätestens bei den Ergativsprachen 
+schief. Der richtige Ansatz läuft mMn über Semantische Rollen).
+
+
+In der deutschen formalen Standardsprache ist es leider nicht möglich, 
+ein Dativ-Objekt zum Subjekt eines entsprechend ins Passiv gesetzten 
+Satzes zu machen. (Im Englischen geht übrigens die analoge Bildung).
+
+In der Umgangssprache kann man "ich bekomme geholfen" sagen.
+
+David

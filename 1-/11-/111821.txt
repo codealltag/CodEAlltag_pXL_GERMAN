@@ -1,0 +1,4 @@
+Ja, weil nach Update von 1.9 auf aktuell nichts mehr im Agent
+funktioniert (hab's in der virtuellen Machine simuliert) und
+zahlreiche zeitraubende Nachbesserungen erforderlich wären.
+Nur damit man utf-8 sehen kann? Ich danke.

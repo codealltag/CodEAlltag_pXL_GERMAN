@@ -1,0 +1,13 @@
+Knut Hofgräf *
+
+
+Ich meinte: wenn es den Zeichensatz selbständig reduzieren kann, Warum
+ist dann diesmal nicht ISO-8859-x rausgekommen? Vielleicht übernimmt es
+den Zeichensatz vom Vorposter und ändert nur dann was, wenn's damit
+nicht klappt - dann wäre Deine Info, daß Du UTF-8 verwendet hast (im
+Editor, nehme ich an), irrelevant.
+
+-- 
+Schnell, Garantiert - Nur bei Uns				    
+Die wertgeminderten Designer Armbanduhrkopien sind jetzt sogar mehr
+wertgemindert. Spampoesie

@@ -1,0 +1,15 @@
+Nachricht von Florian Iwersen:
+
+Mhhhh ja, wenn du bei einem Mathematiker-Ehepaar eingeladen bist, schon. =
+
+Menschen, die sich bei solchen Gelegenheiten der Umgangssprache=20
+befleißigen, erwarten drei mögliche Antworten:
+- Ja, einen Tee bitte
+- Ich hätt gern einen Kaffee
+- Nein, danke, weder noch.
+
+Im übrigen ist auch hier das "oder" nicht die Vorlage für die=20
+Ja-Nein-Entscheidung, die steht nur zufällig dabei, weil in dem Satz=20
+gleich noch eine weitere Boolesche Variable abgefragt wird.
+
+Alwin

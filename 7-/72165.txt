@@ -1,0 +1,6 @@
+Nein, sofort noch nicht. Erstmal werden noch die Effekte der
+Pseudo-Verkleinerung eines Pixels angeworfen - Aufhellen oder
+Nachdunkeln, je nach Nachbarschaft. Dem Begriff 'unendliche' wird dies
+aber sicherlich nicht gerecht.
+-- 
+Clemens

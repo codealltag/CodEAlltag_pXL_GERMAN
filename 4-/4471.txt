@@ -1,0 +1,9 @@
+Mein Solarrechner kann auch dezimal bruchrechnen, er hätte aber 
+zuwenig Platz für 60 Nummern-Tasten. Wenn schon weg vom 
+Dezimalsystem, dann zum Hexamalsystem, das hätte Vorteile für 
+Schule und kleine Eingabegeräte. Das kleine Einmaleins würde 
+wesentlich kürzer - dafür die Lohnzifferfolgen länger.
+
+Gruss
+
+Siegfried

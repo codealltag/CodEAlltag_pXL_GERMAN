@@ -1,0 +1,28 @@
+Für Tastaturen wird prinzipiell eher wenig Werbung gemacht, aber wenn,
+dann hauptsächlich für Gaming-Tastaturen. Eventuell noch für andere
+Spezialtastaturen ("Happy Hacking", geringer Platzbedarf, wasserdicht,
+...) aber für ganz normale B�rotastaturen sehe ich kaum Werbung. Und
+das, obwohl ich keine Spielemagazine lese, sondern Silhouette, AmS-Magazin
+u.�.
+
+
+Es kommt auf das "N" an. Bei meinen Tests ca. 1990 (ich habe damals
+einen Tastatur-Treiber für Elese geschrieben) konnten alle Tastaturen
+4-Key-Rollover (zumindest konnte ich keine Kombination von 4 Tasten
+entdecken, die nicht zuverlässig erkannt worden wäre), aber keine
+zuverlässiges 5-Key-Rollover.
+
+
+Ja. Siehe oben.
+
+
+Ich müsste mir unter Linux erst ansehen, wie ich feststellen kann, was
+die Tastatur kann. Das was bei Applikationen ankommt, wurde ja von
+mindestens einem Treiber verarbeitet.
+
+
+Das würde ich auch annehmen. Normalerweise braucht man ja nur
+Modifier-Keys + 2 weitere. Niemand drückt absichtlich 7 Buchstabentasten
+gleichzeitig.
+
+	hp

@@ -1,0 +1,9 @@
+Das erinnert mich stark an "Dame oder Tiger" von Pasquale Iblacker:
+
+  [9]  Falls [3] wahr ist und in Raum [5] kein Tiger, befindet
+       sich hinter [2] entweder eine Dame, oder der Raum ist leer
+
+Übrigens ein sehr empfehlenswertes Buch für Fans von Logik(rästeln)!
+
+
+mi";-)"ke

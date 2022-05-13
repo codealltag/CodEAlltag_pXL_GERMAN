@@ -1,0 +1,11 @@
+Norman Oelenschläger (in de.etc.sprache.deutsch):
+
+
+Ich arbeite in einem Umfeld, wo diese Begriffe täglich vorkommen: Beim
+Erstellen von Reports über Rechnerdaten; die Daten werden aus dem
+Monitoring gewonnen (automatisierte Rechnerüberwachung). Von Granularität
+spreche ich, wenn ich erklären will, ob es um stündliche, tägliche oder
+monatliche (...) Daten handelt. Detailliertheit ginge vielleicht auch;
+eines der beiden Blähwörter hat sich halt eben durchgesetzt. 
+
+Lorenz

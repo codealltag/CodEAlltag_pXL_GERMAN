@@ -1,0 +1,14 @@
+s/nur/nicht/
+
+oder alternativ
+
+s/Proportional/Fixbreiten/.
+
+Verdammt, selbst nach Deinem Hinweis musste ich den Satz dreimal lesen,
+bevor ich den Fehler gesehen habe.
+
+	hp
+
+
+-- 
+   _  | Jörg O. Rosenthaler    | Fluch der elektronischen Textverarbeitung:

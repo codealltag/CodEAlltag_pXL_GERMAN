@@ -1,0 +1,22 @@
+Ohne "ver": der Rechner wurde wiedermünchhauseningt.
+
+
+Tatsächlich wurde in den 09. 08. 22 "vilmnitz" für das Hochfahren
+eines Rechners verwendet, bevor es vom "(re)boot" verdrängt wurde.
+Wie kömmt?
+
+Wenn ein Betriebssystem z.B. extern auf einer Platte liegt, muß es
+beim Hochfahren erst in den Hauptspeicher geladen werden.  Problem:
+um die Platte anzusprechen, braucht man ein laufendes Betriebssystem,
+und das soll ja eben gerade erstmal geladen werden: Catch 22.  Das
+Verfahren, das man zur Lösung ersann, erinnerte deren Schöpfer an
+den Baron Münchhausen, der sich an den eigenen Stiefeln aus dem Sumpf
+zog -- der Begriff "münchhausening" war geboren.  Nun haben's die
+Amis aber nicht so mit den f*cking umlauts und sie mögen's auch gerne
+kurz, also konzentrierte man sich auf das Wesentliche, nämlich die
+Stiefel, und siehe, fortan booteten die Rechner.  Erst sich selber,
+dann den Menschen aus.  Und wenn sie nicht gestorben sind, dann
+booten sie auch morgen wieder, kraftvoll zu beißen Käfer und Würmer.
+
+
+veit

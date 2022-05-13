@@ -1,0 +1,14 @@
+Nun, Thunderbird ist Open-Source-Software. Es gab in der entsprechenden
+Diskussionsumgebung einen deutlichen Wunsch der Nutzer, jedenfalls
+derer, die sich beteiligt hatten, genau diese Funktion einzubauen. Nun
+ist sie drin und, logischerweise in meinen Augen, 'scharf' geschaltet.
+Sie lässt sich jederzeit abschalten, zugegebenermaßen aber nicht über
+einen ONU-klickt-was-an-Knopf.
+
+
+Ciao
+Karla
+-- 
+ I was a punk
+ before you were a punk.
+ [The Tubes]

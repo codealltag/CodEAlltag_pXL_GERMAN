@@ -1,0 +1,7 @@
+Danke! Ich war in Eile und hatte zunächst nur unter dem gleichen Subject
+gesucht. Inzwischen war ich auch bei dem genannten Artikel angelangt und
+hatte gemerkt, daß der gemeint war.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Olivier Jennrich, comp.lang.python

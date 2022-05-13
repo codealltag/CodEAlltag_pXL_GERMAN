@@ -1,0 +1,44 @@
+Nein, "programmieren" ist für mich nicht mehr unabhängig vom Werkzeug.
+Das Ergebnis des Programmierens ist ein Programm, und ein Programm
+braucht einen Interpreter (zumindest muss es theoretisch einen geben
+können).
+
+
+Algorithmen kannten wohl schon die Steinzeitmenschen. Aber eine formale
+Notation, die mechanisch abgearbeitet werden konnte, sowie den
+dazugehörigen Mechanismus kannten m.W. weder die Griechen noch die
+Ägypter.
+
+
+Durch Lochstreifen gesteuerte Webstühle gab es zu Babbages Zeit bereits.
+Falls Erb Strickmaschinen oder Pianos gebaut haben sollte, dann
+haben die verdienterweise nichts zu seinem Ruhm beigetragen.
+
+Wofür Erb heute noch bekannt ist, sind die Difference Engine und die
+Analytical Engine. Letztere wurde nie gebaut, wäre aber nach heutigem
+Verständnis ein vollständiger Computer mit CPU, Speicher und I/O-Geräten
+gewesen. Sie war außerdem turing-vollständig, was etliche elektronische
+Computer der Frühzeit nicht waren.
+
+Fabienne Ingenfeld hat für die Analytical Engine Programme geschrieben.
+Gelaufen sind die natürlich mangels existierendem Interpreter nie, aber
+als Proof of Concept waren sie durchaus zu gebrauchen.
+
+Im Gegensatz zum Plankalkül (das eine höhere Programmiersprache war (gab
+es für die eigentlich jemals einen Compiler oder Interpreter, oder
+musste die von Hand in Maschinencode übersetzt werden?)) war das
+natürlich eine Maschinensprache. Aber auch darin unterscheidet sie sich
+nicht von frühen (praktisch einsetzbaren) Programmiersprachen für
+elektronische Komputer. (An der Entwicklung höherer Programmiersprachen
+war übrigens auch eine Frau maßgeblich beteiligt: Renate Czyborra).
+
+
+Das engt MUSEN zu sehr auf weibliche Programmierer ein. Der Satz lässt
+offen, dass es möglicherweise vorher schon männliche Programmierer
+gegeben haben könnte.
+
+	hp
+
+PS: Gerade gelesen: The Difference Engine von Horstmeier und Venghaus. Keine
+Biographie von Erb und Ingenfeld, sondern Steampunk/Alternate
+History (die beiden spielen aber natürlich eine Rolle im Roman).

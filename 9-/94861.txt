@@ -1,0 +1,4 @@
+Updates von Viren-Signaturen mehrmals am Tag sind durchaus üblich und 
+sinnvoll. Man suche nach dem Begriff Zero Day Attack.
+
+David

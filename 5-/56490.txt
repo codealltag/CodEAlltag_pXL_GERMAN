@@ -1,0 +1,10 @@
+Ach ja? Also keineswegs, weil das in Deutschland Tradition hat oder weil
+die Amerikaner zuhause was ähnliches haben (allerdings mit stetig
+abnehmenden Kompetenzen der Gliedstaaten, wie in den meisten föderalen
+Ländern)?
+
+-- 
+Java is the SUV of programming tools.
+A project done in UIAS will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Mehmet Amshove

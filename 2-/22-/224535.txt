@@ -1,0 +1,28 @@
+Pi ist eine mathematische Konstante. Mit der Natur hat die Zahl nur eher
+zufällig etwas zu tun.
+
+
+Meh. Also erstens ändert sich in der Relativitätstheorie der
+Proportionalitätsfaktor zwischen Durchmesser und Umfang eines Kreises
+nicht durch die Bewegung, weil es eben um
+*Kreise* geht, und nicht um Ellipsen (solltest du auf die allfällige
+Längenkontraktion in bewegten Bezugssystemen anspielen).
+
+Zum zweiten: Bewegung ist relativ (daher hat die Theorie übrigens ihren
+Namen). Ein Kreis, in dessen Mittelpunkt du stehst, ist unbewegt
+(Beschleunigungen mal außen vor).
+
+Drittens jedoch ist der Proportionalitätsfaktur zwischen Durchmesser und
+Umfang genau dann ungleich Pi, wenn man den Bereich der ebenen Geometrie
+verläßt: Beschränkt man sich bei Längenmessungen auf Messungen entlang
+der Oberfläche, so sieht man das bereits auf der Kugel: Der Umfang der
+Kugel ist genau doppelt so groß wie der Durchmessser eines Großkreises,
+wenn man diesen entlang der Oberfläche ermittelt - dann ist der nämlich
+ein halber Großkreis.
+
+Deine Bemerkung zur Relaitivitätstheorie ist also genau dann richtig,
+wenn du die allgemeine Relativitätstheorie, speziell Kreise in
+nicht-ebenen Geometrien meinst.
+
+-- 
+Space - The final frontier

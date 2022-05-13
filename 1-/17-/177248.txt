@@ -1,0 +1,12 @@
+Ums kurz zu machen: ich weiß es nicht, und es interessiert mich nicht so 
+sehr, dass ich es herausbringen muss. Was ich weiß, ist: ich ediere seit 
+einiger Zeit wahlweise in ISO-8859-1 (wenn zuhause) oder in UTF-8 (wenn im 
+Büro) und kümmere mich überhaupt nicht darum, welcher Code dann wirklich 
+verwendet wird, weil ich sicher bin, dass er richtig im Header steht. Dass 
+US-ASCII deklariert wird wenns geht, war schon immer so. Dass auch andere 
+Codes mit Zeichenmengen echt zwischen ASCII und UTF-8 von Schuppelius 
+ausgewählt werden, ohne dass der Benutzer etwas dazu gesagt hat, habe ich 
+erst anhand der Bemerkung von Wolfgang Nicolay bemerkt.
+
+-- 
+Cédric Obersten

@@ -1,0 +1,12 @@
+* Heino Ametsbichler:
+
+
+Speziell bei Wendungen wie "Guckemal" vielleicht, aber ich denke
+schon, daß Kinder spontan Wörter wie "Singeklub" bilden, bevor sie
+sich die üblicheren Muster eingeprägt haben.
+
+-- 
+Bug:  
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

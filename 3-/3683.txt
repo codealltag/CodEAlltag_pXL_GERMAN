@@ -1,0 +1,28 @@
+Naja, das was du da oben machst ist auch kein Apostroph sondern
+ein gerader ASCII-Strich (ja, er heißt in den Unicode-Tabellen
+Apostroph, wird aber nicht empfohlen und entspricht auch nicht
+den typographischen Gewohnheiten bei uns), der „richtige“
+Apostroph ist ’. Aber wenn ich mich über seltsame Typographie
+aufregen würde, dann hätte ich viel Frust ;) und ich hab auch
+schon mal das Akzentzeichen verwendet, einfach weil meine Tastatur
+nichts anderes hergeben wollte. Und die richtigen Gänsefüßchen
+verwende ich ja auch nur zu feierlichen Gelegenheiten wie hier.
+
+Im übrigen stört mich bei dicktengleichen Schriften (wie man
+sie im Usenet verwendet) das Zeichen gar nicht, weil sowieso
+der Abstand zu groß ist, ganz egal, was man nimmt.
+
+
+Klar. Und um on-topic zu bleiben, ich habs [sic] eher weniger auf
+typographischer, mehr auf sprachlicher Ebene gemeint. Ottmar 
+anscheinend auch, sonst hätt er wohl nicht ein echtes falsches
+Apostroph in seinen Satz eingebaut, sondern ein scharfes
+ß durch ein β, oder ein n durch ein Aleph א ersetzt oder so.
+
+Auf seiner Webseite kann ers [!] ja auch ;)
+
+/carlo
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Arno, "Rettet die Wale"

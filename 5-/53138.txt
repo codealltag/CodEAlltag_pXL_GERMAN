@@ -1,0 +1,5 @@
+Stimmt.Das ist toll.Dann können wir uns ja sparen, nach dem Satzende 
+ein Leerzeichen zu setzen.Bei Patrik wird es ja dann dennoch richtig 
+angezeigt.Gilt das auch für Kommata? ;-)
+Gruß
+Friedrich

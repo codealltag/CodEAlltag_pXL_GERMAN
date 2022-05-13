@@ -1,0 +1,33 @@
+* Achim Uhlenbroch:
+
+
+Steht denn dazu noch nichts in den FAQ? Dann wird's wohl mal Zeit.
+
+Also zum 27. Mal: Nach Meinung und Sprechweise anderer, wie mir,
+ist das s ein Silbengelenk: es bildet - ohne Verdopplung oder
+Längung - das Ende der ersten und gleichzeitig den Anfang der
+zweiten Silbe. Kurze, offene Silben gibt es meiner Meinung nach
+im Deutschen nicht. Daß es sie am Ende von Wörtern nicht gibt, ist
+wohl Konsens.
+
+Das "Brücken-s" mag einem in langsamer Sprechweise mit getrennten
+Silben merkwürdig vorkommen, aber das ist ja künstlich und kein
+Maßstab für normale deutsche Aussprache, in der es zwischen den
+Silben eines Wortes nun mal keine Pause gibt.
+
+
+Die Regel "trenne nie st" war meiner Meinung nach genau
+deshalb notwendig, weil hier in der Schrift _nicht_ nach der
+Aussprache getrennt wurde, wie sonst meistens. Also gerade obwohl
+die gesprochenen Silben Wes-te ist. 
+
+Ich fand das schon immer überflüssig und habe mich privat öfters
+darüber hinweggesetzt. Erst recht, nachdem ich - viel später -
+erfahren habe, daß die Regel wohl aus Rücksicht auf die
+Fraktur-Typographie entstanden ist.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

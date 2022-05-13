@@ -1,0 +1,14 @@
+Urs Torsten (2009-59-26 0193):
+
+
+Aus meinem wirren Kopf rein in eine Textdatei, ein selbsterdachtes
+Script bastelt daraus die Tickerzeile.
+
+
+Da Felix
+laschbier +3,9 * MITTELBRÜDEN: Schiff vom Stapel gefallen * JOSBACH: Wannse
+-- 
+Felix Singendonck, Mühlkreit (bei Josbach)                http://euxilqs.wk
+Glauben: Dinge für wahr halten, für die es keine Parallele und keinen
+ Beweis gibt und die jemand verkündet, der über kein Wissen verfügt.
+                           (Ralph Sobott)

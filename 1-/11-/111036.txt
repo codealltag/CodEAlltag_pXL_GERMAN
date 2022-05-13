@@ -1,0 +1,18 @@
+Besten Dank für den Hinweis. Aber:
+Auch da steht das diakritische Zeichen verschoben, und zwar nach rechts. 
+Lt. Duden müsste es aber zentriert unter dem Vokal stehen.
+
+Vielleicht ein HTML-Fehler? Browserproblem?
+
+Kontrolle Browser:
+ERAE, Nene, IESC, IE 8: Alle verschoben.
+Kontrolle mit der Handlupe im Duden: mittig.
+Komig ...
+
+-- 
+mfg
+Urs Hartinger
+Lambsheim, Taiwan
+25�07'58"N 493�27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  E.D.

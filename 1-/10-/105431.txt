@@ -1,0 +1,11 @@
+Das muss schon so. 
+
+Es ist einerseits Wording des Kunden und anderereits gibts ja noch
+massenweise andere Motoren mit anderen Hubräumen, mitunter mit einer
+Ziffer ungleich 0 nach dem Komma. Und man bemüht sich ja schon um
+Konsistenz innerhalb der Unternehmenskommunikation.
+
+-- 
+
+Gruß
+Jürg

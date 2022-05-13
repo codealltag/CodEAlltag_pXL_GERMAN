@@ -1,0 +1,55 @@
+Man sollte die Wünsche erst einmal aufschreiben, zum Beispiel:
+
+1) Eine eindeutige Wortfuge oder die Fuge zwischen eindeutiger Vorsilbe 
+   und Rest des Wortes wird zum Trennen benutzt. (Die Diskussion der 
+   Eindeutigkeit ist eine andere, die mich aber *jetzt hier* nicht
+   interessiert -- gerne wann anders woanders.)
+
+2) Getrennt wird so, dass die beiden Hälften zusammen das ungetrennte Wort 
+   ergeben. GgBsp nach Urer: Brök-ke, Schiff-fahrt.
+
+3) Getrennt wird so, dass Di- und Trigraphen, die zusammen einen Laut ergeben,
+   möglichst nicht aufgetrennt werden, wobei es in manchen Fällen Ausnahmen
+   geben kann. Affrikate werden dabei nur dann als "ein Laut" gezählt, wenn
+   schon einer der Buchstaben den ganzen Laut darstellt (also -tz- ist ein
+   Laut, -pf- sind zwei).
+
+   Kandidaten für Ausnahmen:
+   a) doppelt geschriebene Konsonanten am Silbengelenk wie in Rat-te
+   b) ebenso, wenn zwei verschiedene Buchstaben benutzt werden: Kat-ze, Brök-ke
+   c) Vokal mit Dehnungs-h vor dem Silbenende: M-he
+   d) ng am Silbengelenk: Rin-ge
+
+   Generell machen beide RS die Ausnahmen a, c und d, sowie b bei tz aber
+   nicht bei ck.
+
+4) Getrennt wird so, dass der Teil auf der neuen Zeile nur dann mit Vokal
+   beginnt, wenn dort ein Glottisschlag stehen kann. GgBsp nach ARS/NRS:
+   Bau-er, GgBsp nach ARS: hin-ein.
+
+5) Getrennt wird so, dass der Teil auf der neuen Zeile mit einem Vokal oder
+   mit einem solchen Konsonantencluster beginnt, das auch am Anfang eines
+   Wortes stehen könnte.
+
+6) Getrennt wird so, dass der Teil auf der alten Zeile dann und nur dann mit
+   Vokal endet, wenn dieser Vokal lang ist (oder lang wäre, wenn er betont
+   wäre). GgBsp: He-xe, Ta-sche.
+
+Nein, man kann diese Regeln nicht gleichzeitig erfüllen. Die Regel 5 wird
+m.W. in beiden RS erfüllt; das geschieht aber auf Kosten von Regel 6. Würde
+man diese für wichtiger halten, dann müsste man Mo-nde trennen. Die Ausnahme
+3a ist offenbar gemacht worden, weil man bewusst oder unbewusst der Regel 6
+eine so hohe Priorität geben wollte, dass Ra-tte nicht in Frage kam (obwohl
+die Neuschreibler nichts gegen Br-cke haben, was höchst inkonsequent ist).
+
+Ich weiß nicht, ob das alle denkbaren plausiblen, d.h. mit den Sprechsilben
+konformen Regeln sind. Falls ja, könnte man diese Regeln priorisieren und
+dadurch Trennungsregeln schaffen, die mit den Sprechsilben konform sind,
+*soweit* das geht.
+
+Mein Vorzug wäre eine hohe Priorität für 1, 2, 3 (bis auf die genannten
+Ausnahmen, die dann aber konsequent) und 5, und die anderen Regeln nur, wenn
+man dann noch die Wahl hat.
+
+-- 
+Gerard Ueberbach

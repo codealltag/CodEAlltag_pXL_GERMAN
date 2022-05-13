@@ -1,0 +1,12 @@
+* Albin Overwien:
+
+
+Die Länder, die zuerst die Zahl der Götter auf 1 reduziert haben,
+haben sie in der Folge zuerst auf 0 reduziert. So gesehen durchaus
+folgerichtig.
+
+-- 
+The most likely way for the world to be destroyed, most experts
+agree, is by accident. That's where we come in; we're computer
+professionals. We cause accidents.
+  Oscar Achterkamp

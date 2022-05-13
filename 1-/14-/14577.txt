@@ -1,0 +1,9 @@
+Normalerweise steht in diesem Zusammenhang b für "Bit" und B für "Byte",
+und zwar für ein Byte von 8 bit. Die Geschwindigkeit von Datenleitungen
+wird aber meist der Deutlichkeit halber in Mbit/s angegeben. Und selten
+in MByte. Ich vermute also, Ivan meinte eigentlich 2 Mbit/s, und nicht
+etwa DSL 16000.
+
+-- 
+GOGEL,  adj., ausgelassen, lustig, übermütig; lascivus.
+  GRIMM, Deutsches Wörterbuch

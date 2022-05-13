@@ -1,0 +1,7 @@
+Eigentlich ging es um gar keine Überwachung (im Normalfall), sondern um
+ein technisch eingebautes Tempolimit. Nur wenn der Fahrer diese
+Sperre außer Kraft setzt, dann wird das gemeldet und er muss
+anschließend begründen, warum das notwendig war. So hatte ich Gernot
+verstanden.
+
+	hp

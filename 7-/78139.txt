@@ -1,0 +1,14 @@
+Morphologisch stimmt das vielleicht, weil es da im Englischen nicht viel
+Auswahl gibt. Phonologisch gibt es aber gut erkennbare Unterschiede,
+gerade bei Wörtern aus dem Französischen, das ja über Jahrhunderte
+Hauptquelle neuen Wortschatzes war. Man vergleiche mal /tournament/ und
+/entourage/ - das erste, das mir gerade auf Anhieb so einfällt, man kann
+aber wohl hunderte solche Paare finden.
+
+Nur: wozu soll die Unterscheidung dienen? Welche Regeln gelten denn für
+die eine Klasse als ganze, und für die andere nicht, abgesehen von
+denen, die die Unterscheidung erst konstituieren?
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Jens Igelspacher, comp.lang.python

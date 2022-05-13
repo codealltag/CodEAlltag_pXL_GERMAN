@@ -1,0 +1,4 @@
+Mir ist es völlig neu, dass irgendjemand "das Web" für etwas anderes als 
+HTTP verwendet. Auch das mit den FTP-Links war mir nicht bekannt.
+
+Ernst

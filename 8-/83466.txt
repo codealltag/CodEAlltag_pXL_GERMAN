@@ -1,0 +1,8 @@
+Winfried Danne tat kund:
+
+
+Wie setzt du denn den Zustand eines Bits im RAM in eine
+mathematische Gleichung ein? Die Ampel ist zumindest ein
+sehr schlechtes Beispiel für ein Analogsignal, weil
+sie entweder grün oder rot ist und somit eher ein
+Beispiel für den Zustand eines Bits.

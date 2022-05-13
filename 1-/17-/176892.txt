@@ -1,0 +1,10 @@
+* Niclas A. Kaierleber:
+
+
+Im Usenet schreiben 15 Leute unter 6,5 Milliarden Pseudonymen.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.R. Kauerauf

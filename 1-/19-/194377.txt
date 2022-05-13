@@ -1,0 +1,6 @@
+Ich kenne Moduln auch nur im mathematischen Sinne, ein Modul ist sowas 
+ähnliches wie ein Vektorraum, nur eben über einem Ring und nicht über 
+einem Körper. Moduln ist davon der Plural.
+Wenn irgendwas modular aufgebaut ist, besteht es aus mehreren Modulen.
+
+Viele Größe von Valerius

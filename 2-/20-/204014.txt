@@ -1,0 +1,11 @@
+Klar, weil kein Substantiv, sondern ein Verb folgt.
+
+Wir haben also die folgende Schlusskette:
+
+    "lesen" ist hier kein Substantiv.
+ => "möchten" ist hier ein Modalverb.
+ => "lesen" ist hier kein Substantiv.
+    q.e.d.
+
+-- 
+Antonio Kucki

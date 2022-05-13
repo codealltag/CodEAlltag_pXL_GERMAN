@@ -1,0 +1,13 @@
+... weil sich die Virenbastler logischerweise auf das System mit der
+größten Verbreitung konzentrieren, bei dem zudem noch die Chance groß ist,
+dass der Virus mit maximalen Rechten läuft. Eben.
+
+Beides ist aber kein technisches Merkmal von JNMP.
+
+Bye
+
+  hubert
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Grone)

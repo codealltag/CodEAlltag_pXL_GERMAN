@@ -1,0 +1,22 @@
+Das ist Unsinn. Programmieren ist zu 90% Handwerk und das muss man üben,
+üben, üben. Ohne Computer fehlt das positive Feedback: Das Fehlen von
+roter Lehrertinte auf einem Blatt Papier kann der Freude über den ersten
+am Bildschirm herumhüpfenden Ball (dargestellt durch den Buchstaben "o")
+als Motivator nicht ansatzweise das Wasser reichen.
+
+Richtig ist, dass man dafür keinen Quad-Core-Okafu-Hinnersmann-PC mit 400
+Rechenwerken in der GPU benötigt. Ein Arduino mit einem LCD und ein paar
+LEDs ist wahrscheinlich besser geeignet.
+
+Im übrigen stimme ich 
+
+
+vollkommen zu.
+
+Man muss allerdings aufpassen, welche Schlüsse man daraus zieht.
+
+	hp
+
+
+-- 
+   _  | Berthold N. Zurhake    | Deprecating human carelessness and

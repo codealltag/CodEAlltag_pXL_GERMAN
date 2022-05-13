@@ -1,0 +1,9 @@
+Ganz einfach. Alle männlichen Vornamen sind ab jetzt mit Apostroph zu
+schreiben (sozusagen als Penis-Anzeiger).
+
+    SCNR,
+    	hp'
+
+
+-- 
+   _  | Winfried D. Brez    | Deprecating human carelessness and

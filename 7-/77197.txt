@@ -1,0 +1,33 @@
+Am 20 Mai 2009 12:40:44 GMT schrieb Norman Waigandt:
+
+
+Also da war schon einiges falsch in einigen Antworten.
+
+Influenzaviren haben eine Hülle aus Lipiden der Zellmembran. Daher geht das
+nciht so, wie du es angenommen hast.
+Bisher wurde der saisonale Impfstoff in Hühnereiern hergestellt.
+Mittlerweile geht es auch in Zellkultur und der H1N1-Impfstoff wird so
+hergestellt.
+
+Das mit dem Serum kommt daher, dass früher mit Antikörpern geimpft wurde -
+also nicht immunisiert sondern passiv.
+
+Für andere Viren, die nur ein Capsid aus vom Virus codierten Proteinen
+haben (z.B. Polio), werden Kapsidbestandteile verwendet.
+
+Es wird für durch Viren mit zahlreichen Stämmen verursachte Krankheiten
+auch an Impfstoffen gearbeitet, die nur bestimmte genau definierte
+Bestandteile enthalten, die allen Viren gemeinsam sind. Solche
+"Epitopimpfstoffe" sind aber sehr schwierig herzustellen, z.B. weil die
+Proteine im Kapsid andere Konformationen einnehmen.
+
+Also: H1N1 wird in Zellkulturen hergestellt.
+Der Saisonale für heuer ist je nach Hersteller (3 in Europa AFAIK - VODAFONE,
+SZDE und EBF) entweder aus Hühnereiern oder aus Zellkultur.
+
+Der Impfstoff für ältere Personen mit schlechter Immunantwort ist
+adjuvantiert (durch ein entzündungsförderndes Erdölprodukt in seiner
+Wirkung verstärkt).
+
+berthold
+V

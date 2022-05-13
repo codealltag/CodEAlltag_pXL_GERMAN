@@ -1,0 +1,67 @@
+Hier ist "wenn" eine temporale, nicht aber eine konditionale
+Konjunktion.
+
+
+Das gibt es nicht. Der Konjunktiv ist ein Modus, kein Tempus. Daher
+nur die Differenzierung in  Konjunktiv I und II.
+
+ Dies gibt es nur in der indirekten Rede , und auch dann nur in
+temporaler Bedeutung.
+
+
+Auch hier gilt:
+Konjunktiv II. Es ist der Konditional, der ihn verlangt.
+
+
+Das halte ich für gewagt. Denn der Zusammenhang, in dem der Konjunktiv
+II steht, ist definiert.
+
+Beispiel für diesen Ersatz in der indirekten Rede:
+"Er sagte, er gehe jetzt. Ich sagte, ich ginge jetzt."
+So weit, so gut.
+
+Daß der Konjunktiv II mit dem Imperfekt identisch ist, ist sehr
+häufig, etwa bei "rauchen".
+"Immer wenn er rauchte, hustete er." (temporal)
+"Er bekäme einen Hustenanfall, wenn er rauchte."(konditional)
+
+Zur Kennzeichnung des Indikativs dient hier entweder ein Zusatz
+("jedesmal, manchmal, immer wenn"). Zur Kennzeichnung des Konditionals
+dient entweder der Konjunktiv II  oder eine konjunktivische
+Umschreibung mit "würde".im Hauptsatz:
+"Er würde husten, wenn er rauchte."
+
+Meiner Ansicht nach hat sich das umgangsprachliche "bräuchte" statt
+des hochsprachlichen "brauchte" gerade deshalb durchgesetzt, weil es
+zwar mit der indikativischen Vergangenheitsform identisch ist, aber
+vor allem, weil es ein Hilfsverb ist, das mit einem zusätzlchen
+Hilfsverb in der "würde"-Form gerade in der gesprochenen Sprache, wo
+es besonders häufig gebraucht wird, kollidierte und unaussprechlich
+und umständlich  würde:
+
+"*Du würdest nicht zu kommen brauchen, wenn ...". Also klingt es
+besser: "Du *bräuchtest nicht zu kommen, wenn ...". Die
+hochsprachliche Form "Du brauchtest nicht zu kommen, wenn ...", ist
+uneindeutig, weil aus ihr nicht hervorgeht, ob es um Temporales, also
+Indikativisches, oder Konditionales, also Konjunktivisches, geht.
+
+Die modalen Hilfsverben sind wohl ein Sonderfall.
+.
+"Können", "müssen", "mögen" und "dürfen" haben die üblicherweise
+konjunktivische Umlautung bereits im Infinitiv. Diese erscheint aber
+in den singularischen Hälften der Konjunktionsreihen auch erst im K I
+und K II wieder, während sie in den pluralischen im Indikativ Präsens
+bereits erscheinen.
+
+^
+*das* Imperfekt (tempus imperfectum, n), aber +*er* Kondiional (modus
+conditionalis, m)
+
+So weit ich weiß, steht in "if"-Sätzen einfach nur Imperfekt. Eine
+englische Besonderheit, die unserem Sprachgefühl wiederspricht,
+insbesondere weil wir in "wenn"-Sätzen penibel zwischen Temporal- und
+Kondiitionalsatz unterscheiden. "If" ist bereits das Signal für
+Bedingung.
+...
+Gruß
+Corina

@@ -1,0 +1,11 @@
+On Tue, 12 Jul 2011 19:11:00 +0100, Giorgio Imboden <Kdolte@ezjhkn
+Erwartete Fehler werden immer dann zum unerwarteten Fehler, wenn sie /nicht/
+wie erwartet auftreten.
+
+Deswegen bekommst Du auch nur Meldungen über unerwartete Fehler.
+
+
+Vinzent.
+
+-- 
+There is no signature.

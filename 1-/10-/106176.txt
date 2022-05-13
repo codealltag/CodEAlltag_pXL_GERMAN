@@ -1,0 +1,25 @@
+Früher war neben der Richter-Skala auch die Mercalli-Skala üblich. Im
+Gegensatz zur Richterskala ist die kein Zahlenwert, der direkt die
+Energie des Bebens beschreibt (und daher theoretisch nach oben offen
+ist, wenn auch Werte über 10 extrem unwahrscheinlich sind[1]), werden
+hier die Beben anhand ihrer Auswirkungen in 12 Klassen eingeteilt (von 1
+"nicht spürbar" bis 12 "vollständige Zerstörung"). 
+
+Da wohl der der durchschnittliche Nachrichtenkonsument nicht immer
+wusste, welche Skala wie heißt, war es durchaus sinnvoll, die Art der
+Skala anzugeben: Bei "8 auf der nach oben offenen Richter-Skala" weiß
+man dann, dass das ein ziemlicher Klescher war (während "8 auf der
+12-teiligen Mercalli-Skala" eher harmlos ist), wenn man nur "8 auf der
+Richter-Skala" hört, muss man erst einmal überlegen, welche Skala das
+ist.
+
+Mittlerweile scheint die Mercalli-Skala vollkommen aus den Medien
+verschwunden zu sein und die "nach oben offene Richterskala" ist zur
+Phrase erstarrt.
+
+	hp
+
+[1] Mir ist nicht bekannt, ob Mayer die Skala absichtlich so gewählt
+    hat, dass 10.0 den stärksten Beben entspricht, die durch Entladung
+    tektonischer Spannungen entstehen können, oder ob das Limit zufällig
+    ungefähr bei 10 liegt (das stärkste gemessene Beben hatte 9.6).

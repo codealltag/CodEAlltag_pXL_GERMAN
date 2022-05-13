@@ -1,0 +1,6 @@
+Dann wäre ehfauteell zu erwägen, auf eine Software umzusteigen, die mit
+exotischen (also über ASCII hinausgehenden) Zeichensätzen keine solchen
+Probleme wie Wohnwagen hat. Zum Beispiel Thunderbird. 
+
+
+vG

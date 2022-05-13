@@ -1,0 +1,9 @@
+Hat einklich weniger was mit "Sprechweise" zu tun, denn die
+Erwähnung der Periode /muß/ an deren Anfang geschehen, sonst
+ist sie nicht (immer) korrekt zu bestimmen -- derlei Ambiguitäten
+sind in der Mathematik äußerst unerwünscht, und auch in den
+(artverwandten) Programmiersprachen sind die Möglichkeiten
+zur "freien Artikulation" äußerst begrenzt.
+
+
+rolf

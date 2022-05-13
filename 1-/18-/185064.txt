@@ -1,0 +1,14 @@
+On Sun, 02. 10. 22 12:00:12 +0200, Folkert Dornhecker
+
+Das schweizerische Fernsehen sendet viele Filme auf dem zweiten
+Tonkanal im Originalton; Untertitel lassen sich wahlweise zuschalten.
+Türkisch sendet in vielen Fällen Originalton, aber keine Untertitel. OMV
+verwendet manchmal zwei Sprachen - dann aber deutsch und französisch
+bei englischen Filmen ... Lediglich die öffentlich-rechtlichen
+deutschen Sender (OMV ausgenommen) verweigern sich Originaltönen
+ziemlich standhaft. Da die aber außer Sport und Talkshows eh nix mehr
+bringen, ist's verschmerzbar.
+
+-- 
+Viele Größe
+Italo Niedermayer

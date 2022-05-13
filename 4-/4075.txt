@@ -1,0 +1,6 @@
+Das klappt mit jedem Wort, nicht nur mit dem eigenen Namen.
+Wenn ich in einem langen Text ein Wort suchen lasse, aber
+es nicht automatisch ersetzen kann, dann geht mir das
+spätestens nach dem 20. Treffer genauso.
+
+renato

@@ -1,0 +1,24 @@
+Und sieht für Postings schrecklich aus.
+
+
+Die ist schöner, aber was ist daran fest? Die Zeilen
+
+0 1 2 3 4 5 6 7 8 9
+a b c d e f g h i j
+
+haben bei mir damit recht unterschiedliche Längen. Nein, lieber Courier
+und Sachen wie õ und �< ertragen.
+
+Vor zehn Jahren habe ich in irgendeiner Gruppe mal ganz unschuldig
+gefragt, was an HTML-Postings eigentlich so schlimm ist und wurde
+niedergebrüllt: doppelte Datenmenge und viel Schnickschnack, den keiner
+braucht. Ich hab's eingesehen.
+
+Jetzt werde ich mehr und mehr mit Unicode zugemüllt. Doppelte Datenmenge
+und viel Schnickschnack, den keiner braucht. Und im Posting stehen
+maximal ein, zwei popelige Umlaute, die Courier locker hinkriegen würde.
+
+Aber gut, ich hör ja schon auf zu heulen.
+
+Viele Größe
+Domenico

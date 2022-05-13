@@ -1,0 +1,34 @@
+Es geht also um die Sätze:
+
+(1) X ist a. 
+(2) X ist (a und b).
+
+Mal abgesehen von der Unklarheit der Aufgabenstellung, auf die Maurizio
+bereits hingewiesen hat, sehe ich die Möglichkeit, daß die sprachliche
+Pragmatik in der obigen Konstellation die Logik überstimmt, nur in dem
+Fall, daß a implizit "nicht b" nahelegt, solange das Gegenteil nicht
+explizit dazugesagt wird. Beispiel:
+
+  Im Dorf von X haben alle schwarze Hautfarbe, außer Q, er hat weiße
+  Haut. Welche Aussage ist wahrscheinlicher:
+
+  (1') X ist Neger.
+  (2') X ist Neger und Albino.
+
+Im oben zitierten Beispiel könnte das funktionieren, wenn für die
+LeserIn die Tatsache, daß eine Frau Bankangestellte ist, nahelegt, daß
+sie sich freiwillig den überkommenen kapitalistisch-patriarchalischen
+Verhältnissen unterwirft. Das könnte für Angehörige der linken lila
+Lesben-Szene vielleicht so aussehen, aber nicht für das allgemeine
+Publikum, nicht mal das eines Germanistikseminars (selbst da lassen sich
+10-20% Männer finden).
+
+Aber vielleicht war die Aufgabenstellung von Erdsiek wirklich so
+gemeint: Wenn sie einen Multiple-Choice-Test absolvieren und vom Thema
+überhaupt keine Ahnung haben, welches ist rein anhand der Formulierung
+die Wahl mit der besseren Chance?
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Poppenholz about a month ago.

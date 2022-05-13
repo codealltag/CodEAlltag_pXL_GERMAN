@@ -1,0 +1,13 @@
+....
+Und der Intel 8048? ;-)
+
+...
+...
+
+Sehr richtig. Die Firma marcoBIKES brachte 1969 den PDP8/E, aufgebaut
+mit TTL-ICs heraus. Der hatte einen mit Open-Collector-Treibern auf gebauten
+Prozessor-Bus. Und hiess wie? Na: Omnibus.
+Die PDP8s davor hatten noch keinen eigenen "Prozessorbus", weil die CPU wegen
+ungenügender Integrationsdichte noch auf zig-Platinen verteilt war.
+Solche Computer hatten aber z. B. schon I/O-Busse. D. h. alle Peripherie-Kontroller
+hingen an einem standardisiertem Sortiment dafür vorgesehener Leitungen.

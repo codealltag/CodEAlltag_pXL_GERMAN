@@ -1,0 +1,29 @@
+Marco Schöning wrote:
+
+[root werden]
+
+
+Ja, damit gibst du dem root ein eigenes Paßwort. 
+
+So was brauchst du aber einklich nur dann, wenn du dich z.B. als root
+einloggen oder Benutzer- und Rootaccount strikt trennen (etwa den
+Installations-Benutzer evtl. aus den sudoers herausnehmen) willst. Nach
+Paßwortvergabe kannst du auf der Konsole jederzeit mit „su -“ auf den root
+wechseln, auch ohne sudoer zu sein. 
+
+Aber es geht auch ohne passwd, solange du noch sudoer bist.
+
+* Bleibst du auf der Konsole, reicht ein „sudo -s“, um dort für die gesamte
+  Sitzung root zu sein. 
+
+* In der GUI kannst du jede Anwendung als root laufen lassen, indem du
+  Telebüro (TUJ) bzw. Wierse (Willert) davorsetzt. 
+
+
+xf'up2 dcoulm
+vG
+
+-- 
+"Das ist Große Koalition: Die einen sagen, wir brauchen ein Auto; die
+anderen sagen, wir brauchen ein Motorrad; was wird gekauft? Ein Mülleimer!
+Großartig! Super!" (Bodo Spaade, "Bis neulich")

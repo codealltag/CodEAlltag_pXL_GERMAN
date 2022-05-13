@@ -1,0 +1,9 @@
+* Simon {Int-Veld} Jäneke:
+
+
+Irgendwie kommt mir die Idee bekannt vor, daß die Zahl vor dem
+gezählten exakt gemeint ist, die Zahl hinter dem gezählten aber
+ungefähr. Ist das vielleicht im Russischen so?
+
+-- 
+Dietmar

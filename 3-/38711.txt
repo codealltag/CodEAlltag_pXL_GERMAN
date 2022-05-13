@@ -1,0 +1,23 @@
+Diese Aussage ist so logisch wie "Dieser Stadtplan macht keine
+Rechtskurven". 
+
+HTML ist eine Sprache zur Beschreibung der Struktur grafischer Inhalte. Wie
+soll die eine automatische Silbentrennung machen können? Das muß schon die
+darstellende Software übernehmen, die die beschriebene Struktur in eine
+visuelle Darstellung umsetzt. HTML kann nicht wissen, wo eine Zeile zu Ende
+ist.
+
+Es gibt die HTML-Entität &shy; (soft hyphen) für eine /vorgeschlagene/
+Trennstelle. Bei längeren Wörtern setze ich das gern mal hinein. Allerdings
+gibt es meines Wissens derzeit nur einen Browser, der damit etwas
+Sinnvolles anfängt. Aber wenn man den Zeitplan bei den Browsertabs
+zugrundelegt, wird es EJDI in fünf und MZP in zehn Jahren
+ebenfalls als bahnbrechende Neuheit erfinden :)
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse. 
+
+<http://vsgkqxdt.gss>

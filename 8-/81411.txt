@@ -1,0 +1,7 @@
+Im Prinzip ja (BTDTGTTS), aber spezielle gettext-Tools wie Polfers
+oder KBabel können den Job erheblich erleichtern.  Nur geht es
+Luca wohl weniger um die "Wahl der Waffen", sondern eher ums
+Finden "gettext-affiner" Dolmetscher.
+
+
+kaspar

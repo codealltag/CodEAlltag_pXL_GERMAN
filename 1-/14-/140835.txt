@@ -1,0 +1,19 @@
+Ich schrieb ja auch nichts von Privat*vergnügen*.
+
+[Pedell]
+
+Korrekt. Aber tendenziell haben wir für alles irgendwelche Autoritäten.
+
+Änderungen der Software zum Zwecke der Fehlerbeseitigung oder zum Einfügen
+neuer Funktionalität heißen ja auch nicht profan "Bugfixes" oder "neues
+Feature" wie anderswo, sondern "Software Change Authorities".
+
+Jetzt, da ich darüber nachdenke, fällt mir auf, daß es die "Code Authority"
+als Bezeichnung für den Entwickler, der den Quellcode schreibt, noch nicht
+gibt. Ich werd's morgen mal vorschlagen. ;)
+
+
+Vinzent.
+
+-- 
+Mail address temporary, use domain to filter.

@@ -1,0 +1,16 @@
+* Jean-Paul Gilbert Dormanns <auh6410@o-snlfub.lk> wrote:
+
+["fraglich" oder "fragwürdig"]
+
+
+Da ist fraglich, ob sie verkehrstauglich sind oder nicht.
+
+Jetzt übersetze doch mal "stilistisch fraglich" dementsprechend. "Es ist
+fraglich, ob es stilistisch ist oder nicht"?
+
+Was geht: "... ist stilistisch von fraglicher Qualität."
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

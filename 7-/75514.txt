@@ -1,0 +1,20 @@
+Moin!
+
+In einem Fachbuch, das ein Kapitel über "Richtiges Zitieren" enthält,
+sah ich kürzlich folgendes (als korrekt ausgewiesenes) Beispiel:
+
+- Er bezeichnet sich als "guter Redner" (Z. 14). [Nominativ]
+
+Hier wurde ich stutzig. Muss es nicht heißen:
+
+- Er bezeichnet sich als "gute[n] Redner" (Z. 14). [Akkusativ]
+
+Oder geht gar beides? Wo kann man dergleichen nachschlagen?
+
+
+Bin gespannt auf eure Antworten.
+
+
+Schönen Gruß
+
+Maik

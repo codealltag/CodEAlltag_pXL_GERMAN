@@ -1,0 +1,6 @@
+Für den Programmierer, der da in [2] aus Dir sprach: menschliche
+Sprachen mögen zwar verschieden sein, aber bei weitem nicht derart
+radikal verschieden wie etwa BASIC, LISP und Smalltalk. 
+
+-- 
+Pentiums melt in your PC, not in your hand.

@@ -1,0 +1,29 @@
+Gut möglich, dass ich da dem Fachjargon aufgesessen bin.
+
+
+Das ist etwas anderes: da wird gar nicht entschieden, vielmehr wird eine 
+Lösung gefunden.
+
+Worauf es mir ankam, war, dass "sich entscheiden" etwas über die Antwort 
+aussagt, nicht-reflexives "entscheiden" eher etwas über die Frage. Aber 
+das Beispiel war doof, und nicht-reflexives "entscheiden" wird eher 
+intransitiv mit "über" gebraucht, z.B. "über einen Antrag entscheiden".
+
+
+Wer sind "sie"?
+
+Die Mathematiker unterscheiden streng zwischen ungelösten Problemen, die 
+natürlich jederzeit gelöst werden können, und unentscheidbaren, von denen 
+bewiesen ist, dass es keine Entscheidung geben kann (womit wiederum das 
+Problem abschließend gelöst ist, ob es entscheidbar ist).
+
+Meist geht es wirklich um Entscheidungen. Ein Beispiel: man sehe sich ein 
+Computerprogramm an und entscheide, ob es zu Ende kommt oder immer 
+weiterläuft. Bei vielen Programmen sieht man, welcher Fall eintritt, aber 
+es kann bewiesenermaßen kein Verfahren geben, das es für jedes Programm 
+entscheidet. Damit ist das Problem unentscheidbar. Man muss dazu natürlich 
+die Spielregeln festlegen, was erlaubt ist, z.B. nicht die Befragung eines 
+allwissenden Orakels.
+
+-- 
+Adam Layer

@@ -1,0 +1,4 @@
+Wenn man es ganz genau nimmt, ist der Apostroph ’ auch nicht das 
+Zollzeichen '. Aber ich bin zumeist auch zu faul, ASCII 0146 zu tippen.
+
+Timo

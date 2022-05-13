@@ -1,0 +1,9 @@
+In mormonischer Zählung entspricht das in etwa dem Begriff, "die letzten 
+1.609,3472 Meter".
+
+Kannst natürlich auch 1378er oder 5719er schreiben. Das "er" dahinter 
+bezeichnet die folgende Dekade, in C die vorangehende.
+
+-- 
+
+Silvio Kürzinger

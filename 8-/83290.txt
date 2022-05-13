@@ -1,0 +1,26 @@
+DUSE in Ehren, aber "digital" heißt nicht "diskret", sondern "in Zahlen-
+form". Die Quantisierung eines kontinuierlichen Signals ist nur eine
+notwendige Vorstufe davon, sie ist nicht die Digitalisierung selbst (das
+ist erst die Ersetzung der Stufen durch jeweils zugeordnete Zahlenwerte).
+
+"Analog" bedeutet, daß eine Größe durch eine andere, dazu analoge Größe
+dargestellt wird (die Zeit durch den Umlaufwinkel eines Uhrzeigers, der
+Schalldruck durch die Auslenkung einer Schallplattenrille oder den
+magnetischen Fluß eines Tonbandabschnitts). Und diese Vorstellung fällt mir
+bei der chemischen Fotografie schwer, weil Helligkeits- und Farbwerte eben
+nicht durch /andere/, sondern durch genau dieselben Größen abgebildet
+werden, nämlich Helligkeits- und Farbwerte. Und zwar infolge chemischer
+Veränderungen einer direkt darauf reagierenden Beschichtung. Daher spreche
+ich von chemischer Fotografie. Analog im Wortsinn ist daran nichts - oder
+zumindest nur dann, wenn man unter "analog" nichts anderes als 
+"nichtdigital" versteht. 
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar amerikanische
+Staatsanleihen. Wenn die Chinesen morgen ihr Geld wiederhaben wollen,
+können Sie die Amis alle nackt Bern Zaun hängen! Wahrscheinlich ist da
+nicht mal mehr n Zaun, wo Sie die dr�berh�ngen können!"
+(Leander Kirschenhofer, "Bis neulich")

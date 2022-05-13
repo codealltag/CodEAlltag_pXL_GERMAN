@@ -1,0 +1,31 @@
+Das von Dir verwendete Web-Interface scheint auch im Textrumpf vorkommende
+Message-IDs zu verstümmeln, weil es sie für e-mail Adressen hält.
+
+Ich hatte mich aber leider auch vertippt.
+Die Message-ID deines ersten Beitrages war
+<w77d2w49-1502-4399-9f21-8e6i055939qc@b20s4897mkw.mdxcehbuaeks.nxw>
+also (for those hooked on Haimmerer) ohne spitze Klammern 
+w77d2w49-1502-4399-9f21-8e6i055939qc@b20s4897mkw.mdxcehbuaeks.nxw
+
+thread/yhck2s86pm72z83x/12019f22ig3awrka?bakz_nyfee=59974o21ec8thotf
+
+Ich habe keine Ahnung was Du meinst. Dieser Verweis führt zu der
+Diskussion "linksfluessig - rechtsfluessig", in der Du Deinen ersten
+Beitrag beigesteuert hast. Aber den Thread kannte ich bereits,
+denn dort hatte ich ja den oben zitierten Beitrag her.
+
+Erschien Dir vielleicht Dein erster Beitrag zu unhöflich, und hattest
+Du deshalb eine zweite Version geschrieben, vielleicht in der Hoffnung,
+dass aufgrund des "X-No-Archive: Yes", die erste Version aus dem Archiv
+gelöscht wird und die zweite Version entsprechend länger dort verweilt?
+
+Das funktioniert aber nur für diejenigen Leser, die NG mittels dieser
+Web-Zugänge lesen. Die meisten älteren Usenet Teilnehmer verwenden aber
+noch sogenannte Newsreader, um Beiträge in der Form zu lesen, wie sie auf
+richtigen Newsservern abgelegt sind. So eine Newsserver ignoriert
+solche Phantasieeinträge im Textrumpf.
+
+Sollte Dir also ein Beitrag peinlich sein, ist es immer hilfreicher,
+dies z.B. in einem Folgebeitrag geeignet richtigzustellen.
+
+Arne

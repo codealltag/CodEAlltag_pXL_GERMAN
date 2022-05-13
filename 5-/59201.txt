@@ -1,0 +1,16 @@
+Man muss gegebene rationale Dezimalzahlen nicht berechnen, denn
+man muss nur die angegebene Periode beliebig oft wiederholen. Das
+hat allerdings auch etwas Irreales. Aber man kann zweifelsfrei
+von 0.666... auf 2/3 schliessen, während man von
+1.7320508075688772935274463415059 nicht auf Wurzel(3) schliessen
+kann, sondern nur auf
+Wurzel(3) +- 0.0000000000000000000000000000001.
+
+
+Ich sprach von Mathe - nicht von Physik. Die experimentelle
+Physik braucht keine reellen Zahlen, denn diese kann man nicht
+messen.
+
+Gruss
+
+Tobias

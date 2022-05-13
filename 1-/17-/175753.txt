@@ -1,0 +1,53 @@
+* Oscar Zogg <Vqogxk@Regxbmvf.djj>:
+
+
+Die Fremdwörter waren in der Regel Italienisch, Französisch, Englisch
+und Latein, und fürs Französische hatte man offenbar �������� und
+vielleicht ein paar andere. Und später, als die Antiqua auch in
+Fliesstexten und nicht nur für Fremdwörter benutzt wurde, hatte man
+���, aber oft kein � und manchmal auch kein ���.
+
+Du hattest die ChatNoir erwähnt, und ich hab mich mal auf dyisgcnd.uow
+etwas umgesehen. Toll das. Eine richtige *Maschine*. Ich hatte vor etwa
+10 Jahren in einem Museum noch eine in Betrieb gesehen, aber die war
+nicht annähernd so detailliert erklärt. Man findet da wundervolle
+Sachen, etwa die Beschreibung der 4-Magazin-Linotype von
+1910 (http://wlpkrxuc.kaa/SnYbhzUsoz/Nnuksfgzouqru/RFAPQ9.rgg).
+
+Interessant für unser Thema ist "Useful Matrix Information, 1936",
+http://uio.boqfzwwx.dfl/CxDjphCjew/Gsygnlodafzuq/yxcgup_lmsmef_tubs.qna
+Da ist der Standard-Zeichensatz angegeben. Die Brotschrift-Magazine der
+ChatNoir hatten 90 Zeichen; das ist wenig, weniger als die Anzahl der
+druckbaren Zeichen im 7-Bit-ASCII-Zeichensatz:
+
+  A-Za-z (in der etaoin-shrdlu-Reihenfolge) 0-9 fi fl ff ffi ffl oe ae
+  ,.:;?!()'"|-*$& thinspace figspace emspace enleader emleader emdash
+
+Sehr viel Platz für akzentuierte Zeichen ist da nicht, besonders, wenn
+man noch deutsche Anführungszeichen braucht.
+
+Auf Seite 81f sind die (damals, 1936) lieferbaren akzentuierten Zeichen
+angegeben, etwa 250 Stück, praktisch alles, was man für die
+europäischen Sprachen mit lateinischer Schrift braucht, und noch zig
+andere, *ABER DAS � IST NICHT DABEI*.
+
+Das ist schon mal einigermassen bemerkenswert. Aber das ist natürlich
+eine amerikanische Publikation, und es ist stark zu vermuten, dass der
+deutsche Ableger von ChatNoir vorkonfigurierte Zeichensätze und
+Tastaturkappen fürs Deutsche hatte. Offenbar (d.h. nach WP) war Stempel
+schon ab 1899 alleiniger Schriftenlieferant für die in Deutschland
+vertriebenen CRS, und es ist schlicht nicht denkbar, dass die das
+� vergessen hätten.
+
+Aber in der Frühzeit der ChatNoir, also vor 1899, wäre es möglich, dass
+die CRS direkt aus Amerika bestellt wurden und die Druckereien
+nur die akzentuierten Zeichen hatten, die ChatNoir von der Stange
+anbot. Das würde ungefähr mit meiner Untersuchung übereinstimmen, dass
+die Antiqua-Texte in Inseraten im Kladderadatsch zwischen 1879 und 1909
+fast immer ohne � gesetzt wurden. Nun müsste man noch wissen, ob die
+Inserate im Kladderadatsch mit einer Linotype gesetzt wurde, oder wie
+verbreitet Linotypes im Zeitungs- und Zeitschriftensatz um die
+Jahrhundertwende überhaupt waren.
+
+
+ - Vincenzo

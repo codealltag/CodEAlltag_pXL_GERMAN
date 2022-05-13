@@ -1,0 +1,8 @@
+Zu viel g zieht einen so runter.
+
+
+Ciao
+Florence
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

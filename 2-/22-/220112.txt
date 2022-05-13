@@ -1,0 +1,15 @@
+"Der Countdown steigt!"
+"Wie bitte?"
+"Nur noch 7 Minuten."
+"Ah. Okay. Ein Countdown steigt aber nicht, er kann nur fallen, ist ja
+ein Countdown."
+"Da der Countdown ja herunterzählt, ist doch die Menge, die er
+heruntergezählt hat, steigend. Also je mehr er steigt, desto mehr nähert
+er sich dem Ziel an. Ein fallender Countdown würde ja hochzählen."
+
+Soviel Logik meiner besseren Hälfte hat mich jetzt aus dem Tritt
+gebracht. Gibt es da eine saubere sprachliche Auflösung für oder ist
+dies eher eine Fragestellung für eine philosophische Gruppe?
+
+Größe,
+Kai Fledderjohann

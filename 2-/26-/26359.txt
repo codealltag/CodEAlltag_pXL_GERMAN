@@ -1,0 +1,8 @@
+Kommentar: das habe ich gestern geschrieben, war wohl hängengeblieben.
+Nicht daß man meint, ich hätte heute gepostet ohne mitzulesen ...
+
+-- 
+Java is the SUV of programming tools.
+A project done in Tabac&Co will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Philipp Glätzel

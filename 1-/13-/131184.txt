@@ -1,0 +1,4 @@
+"private Browsing". Legt keine History an etc. Allerdings ist das so 
+eine Sache mit der Privacy, Flash speichert z.B. auch Kram lokal ab.
+
+Elias

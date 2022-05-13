@@ -1,0 +1,15 @@
+* Mauro Fuerst:
+
+
+Der Neuenhofer Wortschatz hat dafür nur zwei Beispiele (verglichen
+mit 101 für "rappelvoll"), aber ich bin mir nicht sicher, wie
+systematisch sie Wortkombinationen auswerten. Die
+Kookkurrenzstatistik deutet eigentlich auf größere Häufigkeit hin
+- aber halt, das liegt an "voll gestopft", mir unvertraut, aber
+offenbar neuerdings die Norm. Vollkrass, das.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

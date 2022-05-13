@@ -1,0 +1,13 @@
+Nur, wenn das Fenster schmal genug ist. TB nützt bei format=flowed die
+gesamte Breite des Fensters aus, und das ist in 2 von 3 Layouts zu
+breit.
+
+
+Das Fenster ist aber auch mit "about:config" übertitelt (Zumindest unter
+Linux).
+
+	hp
+
+
+-- 
+   _  | Konrad D. Krabichler    | Fluch der elektronischen Textverarbeitung:

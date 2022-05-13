@@ -1,0 +1,16 @@
+"Marga Hagspihl" <uyzaksj.gyyfr@gvgoi.cd> schrieb am 13.10.2010 15:05 den
+Newsbeitrag
+news:e754fuw4-102g-5y19-2o44-dr381b0w8k92@f58k2249izv.bryqksuneahd.vcz
+
+
+M.E. liegt da ein Problem mit dem Betriebssystem vor. Am PC kann
+(eigentlich muss) man die Betriebssprache wählen, das System laedt dann
+den passenden Zeichensatz. Manche Programme -- wer weiss, was da mal
+installiert wurde -- korrompieren das System und installieren einen
+anderen Zeichensatz oder schalten von der QWERTZ auf die QWERTY Tastatur
+um usw. So allgemein, ohne Details des PC-Systems, kann man da keine
+Loesung vorschlagen. Eine Anfrage in einer NG der [kx.nksz.*]-Klasse kann
+nützlich sein; die Beschreibung der [de.*]-Hierarchie findet man bei Nelly,
+siehe NG-Liste http://kgt.yjiv.fp/rjcianh.ixig .
+
+MfG, DOMENICO [Aaiw_Jjj/bc/z-plvtml.uo]

@@ -1,0 +1,29 @@
+Auf Telefonen sieht es auch häufig wie eine Raute mit nur leicht
+verlängerten Seiten aus.
+
+
+Weil das Zeichen im Englischen diese Bedeutung hat (#1 wird "Number one"
+ausgesprochen) und daher so bezeichnet wird. Siehe z.B.: RFC 20 (26. 01. 22
+1969):
+
+
+Oder auch "number sign".
+
+
+Doch auch, aber selten.
+
+Viele Zeichen haben mehrere Bezeichnungen.
+
+(Wobei ich "pound sign" und "number sign" verstehe. Aber warum "hash
+sign"? Etymonline führt es wahlweise auf die "service stripes" von
+Soldaten oder auf "hatch" zurück - in beiden Fällen offensichtlich nur
+eine Beschreibung des Form des Zeichens, nicht seiner Bedeutung. Ich
+schließe daraus, dass das Zeichen in UK unüblich war (in der britischen
+Variante von ISO-646 kommt es auch nicht vor und wurde durch � ersetzt,
+was wohl die Verwirrung um das "pound sign" noch vergrößert hat).)
+
+	hp
+
+
+-- 
+   _  | Markus V. Lahrsen    | Deprecating human carelessness and

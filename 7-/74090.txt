@@ -1,0 +1,24 @@
+Nein; Steno umfaßt ja Silben oder gar ganze Wörter.  Mit "speziellen
+Buchstaben" sind wirklich einzelne Buchstaben gemeint, nur daß sie
+halt so geformt sind, daß man sie möglichst ohne Absetzen/Neuansetzen
+des Stifts schreiben und ohne viel "Hoch- und Runterstriche" schreiben
+kann.  Beispiel "f" (sieht in ASCII-Art latür komisch aus, so wie ein
+Notenschlüssel):
+           _
+          / \
+         /
+        /|
+       < |
+        \|
+         +---
+         X
+
+Man fängt beim X unten an, und zieht den Rest in einem durch: erst den
+"Hochstrich", dann die rechte und schließlich die linke Schlaufe mit
+dem finalen Querstrich durch den anfänglichen "Hochstrich".  Wenn man
+das übt, geht das echt ratzfatz, und ist -- ganz wichtig! -- auch bei
+"struddeligem", schnellen Schreiben noch deutlich erkennbar (weil von
+anderen solchen "eiligen" Buchstaben hinreichend unterscheidbar).
+
+
+charles

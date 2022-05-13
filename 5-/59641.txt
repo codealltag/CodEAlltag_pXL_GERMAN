@@ -1,0 +1,34 @@
+Für Hinderk sind aber "junge Menschen unter 20" keine Männer und Frauen
+sondern Buben und Mädchen. Daher müsste für ihn die Graphik eigentlich
+so aussehen.
+
+ weiblich männlich
++--------+--------+
++--------+--------+
++--------+--------+
+
+Und da ist dann "Männer und junge Menschen" gleichbedeutend mit B+C+D
+während "Frauen und ältere Menschen" gleichbedeutend ist mit "A+B" also
+"ältere Menschen". Aber vermutlich sieht er da noch eine dritte Zeile:
+
+ weiblich männlich
++--------+--------+
++--------+--------+
++--------+--------+
++--------+--------+
+
+Dann ist Männer und junge Menschen gleichbedeutend mit B+D+E+F, 
+während "Frauen und ältere Menschen" gleichbedeutend mit A+C+A+B ist.
+Und die Überlappung bei A stört ihn dann.
+
+Ich glaube aber, dass das "und" hier überhaupt keine Mengenverkn�fung
+sein soll, sondern nur eine sprachlich etwas missglückte Verknüpfung von
+zwei orthogonalen Aussagen:
+
+1) Männer (lies: männliche Menschen) werden eher von Hunden gebissen,
+   Frauen (lies: weibliche Menschen) eher von Katzen.
+
+2) Jüngere Menschen unter 20 werden eher von Hunden gebissen, 
+   ältere Menschen (über 20) eher von Katzen.
+
+	hp

@@ -1,0 +1,25 @@
+Die Sonne laeuft (im Rahmen dieses Modells) auf der Nordhalbkugel in
+12 Stunden im Uhrzeigersinn um 180° von Ost nach West. Der kleine
+Zeiger der Uhr bewegt sich in dieser Zeit (nona) ebenfalls im
+Uhrzeigersinn, allerdings um 360°. Durch den ersten Teil der
+Messvorschrift ("kleinen Zeiger auf die Sonne ausrichten"), dreht
+sich die Uhr im Lauf des Tages also um 180° _gegen_ den
+Uhrzeigersinn. Der zweite Teil der Messvorschrift ("halbieren des
+Winkels zwischen kleinem Zeiger und der 12 am Ziffernblatt")
+ueberlagert die beiden 180°-Drehungen und sorgt daher fuer ein
+konstantes, idealerweise nach Sueden weisendes Endergebnis.
+
+Auf der Suedhalbkugel laeuft die Sonne natuerlich auch im Lauf des
+Tages um 180°, allerdings _gegen_ den Uhrzeigersinn, weshalb man mit
+_dieser_ Messvorschrift ueberhaupt keine konstante Richtung erhaelt,
+weder Sueden noch Norden.
+
+Servus,
+   Kurt
+
+-- 
+http://bpjbolncdvba.mp/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von ursula
+
+Geht nicht!? Geht doch: Kurt, denn alles ist armseliger, als ferklig.
+(Sloganizer)

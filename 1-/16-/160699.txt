@@ -1,0 +1,15 @@
+Genau, bei Starrflüglern ist es erheblich besser umgesetzt und ergibt
+auch Sinn. Weil es eben wirklich zwei verschiedene, redundante Systeme
+sind. Auch die Leistung ist glaube ich recht gut auszunutzen.
+
+Bei Helis gibt es aber oft z.B. eh nur einen Tank. Und beide
+Antriebswellen beider Motoren müssen wieder zusammengeführt werden, weil
+es nur einen Rotor gibt. Dieses Getriebe hat auch schon einige Male böse
+versagt (und in einem einmotorigen gibt es das erst gar nicht). Es ist
+sozusagen der Teil, der eh am wenigsten Probleme macht redundant
+ausgeführt ;-)
+
+Ich habe nur so einen Eindruck - ich weiß nicht ob es so ist. Deshalb
+wäre eine echte Untersuchung/Statistik sehr interessant.
+Ein kleiner Sicherheitsvorteil mag vorhanden sein - allerdings bei
+welchem Aufwand?

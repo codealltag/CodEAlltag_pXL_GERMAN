@@ -1,0 +1,28 @@
+[...] 
+
+
+Ja.
+
+
+Ja, und zwar MESZ. Ich muß sie allerdings immer für den ganzen Monat
+festlegen.
+
+Das Umrechnen der Zeitzonen ist übrigens etwas, das keine anderes mir
+bekanntes Statistikprogramm macht.
+
+
+Und hier machen die verbreitetsten Statistikprogramme Unsinn - sie geben
+die Gesamtzahl pro Wochentag (Montag, Dienstag) an, wodurch meist
+diejenigen Wochentage gewinnen, die in dem Monat fünfmal vorkommen.
+
+
+Wie willst Du das messen?
+
+Unter meinen irgendwann mal geplanten Statistiken ist zum Beispiel die,
+wieviele Leute an jedem einzelnen Tag was geschrieben haben, und
+umgekehrt, wer an wievielen verschiedenen Tagen gepostet hat. Das
+letztere würde ich aber schon nicht mehr veröffentlichen wollen.
+
+-- 
+GOGELICH,gogelig, (...) 'fröhlich, lustig, ausgelassen'
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,19 @@
+Am 03.08.2010 15:45, schrieb Cédric Hägermann:
+[...]
+
+Ganz so einfach ist die Sache auch nicht, daß die Lösung mit ROT13 gute
+Ergebnisse liefern würde. ROT13 macht z. B. aus "t" (Oberlänge) ein "g"
+(Unterlänge), so wird etwa "tut" zu "ghg". Es ergibt sich eine andere
+Verteilung von Ober- und Unterlänge, das Textbild sieht also anders aus.
+
+Ein brauchbarer Blindtext soll unter anderem auch die Ober- und
+Unterl�ngenverteilung eines "normalen" Textes simulieren. Im Idealfall
+sind also die Wortlängen, die Konsonanten und Vokale sowie die Ober- und
+Unterlängen genauso, wie in einem "normalen" Text verteilt. Um durch den
+Inhalt des Blindtextes nicht abgelenkt zu werden, sollte er auch noch
+"unverständlich" sein.
+
+Nur wenn die genannten Bedingungen erfüllt sind, läßt sich das
+Erscheinungsbild einer Seite gut beurteilen.
+
+Schönen Gruß, Hazekamp.

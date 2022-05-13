@@ -1,0 +1,29 @@
+Das ist die eigentliche Frage. Es gibt durchaus Eigenheiten von 
+Fremdwörtern, aber jede davon könnte, da die Grenze eh unscharf ist, 
+natürlich auch zur Unterscheidung herangezogen werden und so als "Regel 
+für die ganze Klasse" ausfallen.
+
+Beispiel: Genitivbildung bei unbetonter Endsilbe mit -s/z/x am Ende
+
+  deutsch:  des Firnisses, des Ereignisses 
+  fremd:    des Virus, des Index
+  unklar:   des Zirkusses oder des Zirkus
+
+Beispiel: Pluralbildung auf -en unter Verlust der unbetonten Endsilbe
+
+  deutsch:  gibts das?
+  fremd:    Virus/Viren, Thema/Themen, Spektrum/Spektren
+
+Beispiel: Pluralbildung auf -er (m/n) oder -e (f)
+
+  deutsch:  Männer, Häuser, Kinder, Hände
+  fremd:    gibts das?
+
+Diese Regeln werden durchaus unbewusst auch angewandt. Niemand würde die 
+Pluralbildungen Sachsenmaier/Stadtmüller oder Farm/Fre für denkbar halten, selbst wenn 
+er die korrekten Pluralformen nicht kennt. Und zwar deswegen nicht, weil 
+es Fremdwörter sind -- die verhalten sich nicht so wie deutsche 
+(Glas/Gläser; Hand/Hände).
+
+-- 
+Torsten Vormberge

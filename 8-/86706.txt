@@ -1,0 +1,17 @@
+On Thu, 3 Jul 2010 12:31:48 -0500, Emil Rochow
+
+Also, meißeln wir mal:
+
+Es gibt einen Artikel. Der wurde von einem dazu berechtigten
+Anwender freigegeben.
+Diesen Artikel ändere ich.
+Es existieren jetzt 2 Artikel - der alte (gesichtete Version)
+und der geänderte (aktuelle Version). Angezeigt wird nur der
+alte Artikel, der aktuelle Artikel kann aber aufgerufen werden.
+Die Änderung wird von einem berechtigten Anwender gesichtet.
+Jetzt wird die geänderte Version angezeigt.
+
+http://lu.leikjfyhk.vdg/nqkh/Pqsxmvyjq:Uqodkyftmb_Tzqxjckak
+-- 
+Viele Größe
+Jean-Luc Scheff

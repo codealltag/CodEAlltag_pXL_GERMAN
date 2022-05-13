@@ -1,0 +1,7 @@
+* Manfred Buchheim:
+
+
+"Staatlichen Error"? Ja, paßt.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

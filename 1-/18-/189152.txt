@@ -1,0 +1,72 @@
+[ Followup-To: de.etc.sprache.misc ]
+
+
+Die öffnen sich wirklich: zwei Stück.
+
+
+Aber nicht auf den viel dickeren "Jetzt downloaden"-Button!
+
+
+Und das ist ein *Tipp*: so ne benutzerfeindliche Spamschleuder?
+
+Okay, ich habs gefunden. Ich konnte mich an den einen falschen 
+Swahili-Satz erinnern, der da drin war, um zu sehen, ob er korrigiert 
+ist. Natürlich nicht. Er lautet:
+
+  Farasi anakula no gurkor saladi.
+
+Welcher Babelfish hat denn den verbrochen? Offenbar ist, vom Deutschen 
+oder Englischen ausgehend, eine Wort-für-Wort-Übersetzung versucht worden:
+
+  The horse  eats    no cucumber salad.
+  --- farasi anakula ?? ??       saladi
+
+Drei Wörter gefunden, eines richtig als nicht zu übersetzen erkannt 
+(zufällig, denn manche Artikel werden doch übersetzt), bei zwei Wörtern 
+mangels einer Übersetzung Zielwörter wie "no" und "gurkor" erfunden. 
+Richtig wäre gewesen, die Verneinung ins Verb einzubauen, "Gurke" heißt 
+"tango" und für Gurkensalat sagt man "saladi ya matango" (Salat von 
+Gurken), auch wenn das vermutlich kein typisch ostafrikanisches Gericht 
+ist. Also:
+
+  Farasi hali saladi ya matango.
+
+Was lernen wir nun über Schriftsprachen-Effizienz?
+
+Die Form "hali" (er/sie isst nicht) ist doch unheimlich effizient. Der 
+Wortstamm "essen" ist gerade noch mit einem "-l-" vertreten, das Subjekt 
+mit einem "-a-" und die Verneinung mit einem "h-" am Anfang und einem "-i" 
+am Ende. Wenn das nicht effizient ist!
+
+Die Form "anakula" (er/sie isst) ist viel ineffizienter. Hier ist auch der 
+Wortstamm ist mit einem "-l-" vertreten (meist rechnet man auch das "-a" 
+am Ende mit dazu, das nur selten wie eben durch eine andere Endung ersetzt 
+wird)  und das Subject durch "a-". Dann gibt es zwei weitere Silben: 
+"-na-" für die Verlaufsform der Gegenwart und "-ku-" als Relikt eines 
+Infinitivs ohne Bedeutung.
+
+Natürlich ist die Verlaufsform der Gegenwart inhaltlich falsch: "Farasi 
+anakula saladi ya matango" würde heißen "Das/ein Pferd isst [gerade] 
+Gurkensalat" und nicht, wie es in Swahili richtig wäre:
+
+  Farasi hula saladi ya matango.
+
+was im Deutschen nur durch das höchst ineffiziente 
+
+  Das Pferd pflegt Gurkensalat zu essen.
+
+richtig wiedergegeben wird.
+
+Was lernen wir nun darüber, wie man Schriftsprachen-Effizienz mit einem 
+einzigen noch dazu falsch übersetzten Satz vergleichen kann? Dass es nicht 
+geht. Eigentlich nicht wirklich überraschend. Am besten, man tritt das 
+Ding in die Tonne; es ist auch mit mehr oder besseren Beispielen nicht zu 
+retten.
+
+Kuna farasi walioonwa wakitapika, hata mbele ya duka la dawa. (Man hat 
+schon Pferde kotzen sehen, und das vor der Apotheke.) Keine Ahnung, ob man 
+da so sagen würde. Aber ich schreibe ja auch keine Sprach- und 
+Stilvergleiche.
+
+-- 
+Samuel Nischwitz

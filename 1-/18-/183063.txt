@@ -1,0 +1,17 @@
+* René Schiff:
+
+
+Weder eine falsche noch eine richtige Schreibweise hat Wortart,
+Genus, Betonung, Deklination und Bedeutung - sowas haben Wörter.
+Einzig die Worttrennung hängt auch von der Schreibweise ab.
+
+Für den Rest ziehe ich mich mal auf ein IANAL zurück, denn ich
+kann nicht beurteilen, ob man vor Gericht mit dieser spitzfindigen
+Auslegung durchkäme; beim gesunden Menschenverstand
+selbstverständlich nicht.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

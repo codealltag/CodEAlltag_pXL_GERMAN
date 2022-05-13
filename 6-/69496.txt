@@ -1,0 +1,17 @@
+Bruno Puengeler (30.11.2009 11:05):
+
+
+Bei mir schon, denn ich starte damit alle meine Programme.[1]
+
+
+Da Johannes, da nix mehr auf dem Desktop braucht.
+
+Verfu�genotetes:
+================
+[1] Win K(ommunikation) - W(ebbrauser) startet den Weltbild Verlag - obwohl
+    das nicht nötig ist, weil beim Startup schon vom Starter-Skript
+    erledigt. DANKE, Autohotkey!
+-- 
+Johannes Trier, Rußberg (bei Treseburg)                http://wbsmroc.qa
+
+            np: ANDROMEDA MEGA EXPRESS ORCHESTRA Take Off!

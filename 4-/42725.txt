@@ -1,0 +1,38 @@
+Sie entsprechen einer weniger stringenten Norm. Sind N1, ..., Nk Normen, 
+dann ist "genügt mindestens einer der Normen N1, ..., Nk" auch eine, und 
+zwar für die Vereinigungmenge. Und genau so funktioniert es auch: spricht 
+der eine "lustik" und der andere "lustich", dann ist das eben beides 
+Deutsch, wenn auch nicht beides Siebssches Deutsch.
+
+
+Ja, das haben Mengen so an sich, dass sie sich manchmal inkludieren, 
+manchmal überlappen und manchmal weder noch.
+
+
+So war es gemeint.
+
+
+Die Aussage "X und Y gehören zur selben Sprache" klingt so, als gäbe es 
+die Sprache von X und die Sprache von Y und jetzt muss man nur noch 
+feststellen, ob X=Y.
+
+Was ich aber meinte, wäre präziser ausgedrückt "Zu X und Y gibt es eine
+Sprache, zu der beide gehören" oder kürzer "X und Y gehören zu einer
+gemeinsamen Sprache". Es kann eine geben, oder keine oder mehrere. Ich zitiere
+mich:
+
+
+Will man der Vereinbarung folgen, dass "Sprachfamilien" Äußerungsmengen nach
+einer Norm sind (die also systematische Gemeinsamkeiten aufweisen) und
+"Sprachen" solche Sprachfamilien, deren Norm zur gegenseitigen
+Verständlichkeit ausreicht, dann könnte man sagen, dass Edelbeuren und Hölzlöd
+zu mindestens einer gemeinsamen Sprachfamilie (z.B. "indogermanisch" oder
+"indogermanisch/nicht-indoarisch)") gehören, jedoch zu keiner geminsamen
+Sprache in diesem Sinne.
+
+�) Das wird gemeinhin nicht so eingeteilt, aber haben nicht die italischen und
+germanischen Sprachen wirklich mehr Gemeinsamkeiten als andere Zweige der idg
+Sprachen?
+
+-- 
+Norbert Toomes

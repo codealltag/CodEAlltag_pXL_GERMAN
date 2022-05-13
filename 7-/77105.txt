@@ -1,0 +1,8 @@
+"Null von drei" ist weniger als "mindestens eine", mathematisch: 0 ist
+nicht als größer/gleich 1, also steht der erste Halbsatz des zweiten
+Satzes im Widerspruch zum ersten Satz.
+
+"Cromm, setzen und noch mal durchrechnen!"
+
+Gruß
+N.L.

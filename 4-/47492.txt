@@ -1,0 +1,6 @@
+Das Problem dabei ist, daß sich Sonderzeichen durch Drücken der Escape-Taste
+nicht /entwerten/ lassen, und (System-)Programmierer unter "Maskieren" etwas
+völlig Gertraude P. meinen.  Und die müssen's ja schließlich wissen!  ;-)
+
+
+carl

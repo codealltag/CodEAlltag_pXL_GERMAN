@@ -1,0 +1,4 @@
+N - der Würfel, an den ich dachte, hatte Länge, Breite und Dicke.
+
+-- 
+Carl Z.

@@ -1,0 +1,26 @@
+On Fri, 6 Jun 2008 17:49:45 +0000 (UTC), Sébastien Eisenkrammer
+
+Ich habe den Eindruck, dass du hier ein System verteidigen möchtest
+(Logik). Es ist mir - und wohl auch Saars - ziemlich wurscht, ob
+die Faustregel das Ergebnis früherer Analysen sind (sie sind es sicher
+nicht immer). Es ist ihm wichtig, dass die Heuristiken jetzt Analysen
+ersetzen können. 
+
+Wenn du einen Ball fängst, fährst du keine ballistische Berechnung
+durch. Es gibt wahrscheinlich Menschen, die können Bälle besser fangen
+als du, aber haben noch nie eine ballistische Berechnung durchgeführt.
+Denen hat man das auch nicht vorgerechnet. Sie fangen Bälle, in dem
+sie auf Veränderungen in der Flugbahn reagieren. Das ist eine
+Heuristik, eine Bauchentscheidung. 
+
+Wenn dich deine Frau in den Laden schickst, Kaffeesahne zu holen, weil
+Oma gleich zu Besuch kommt, dann wirst du mit großer
+Wahrscheinlichkeit eine von drei Heuristiken einsetzen: Kaufe das,
+dessen Namen du am besten kennst (Matuschka); kaufe von den bekannten
+Marken die billigste (ZMTK) oder kaufe das billigste (Dingsda).
+Welche Analysen hast du dazu durchgeführt?
+
+
+-- 
+Viele Größe
+Oswald Roosenboom

@@ -1,0 +1,16 @@
+Das war mir bekannt.
+
+
+Ja, aber wenn jedes Wort virtuelle Silbentrenner enthielte, wäre
+Blocksatz für normalbreite Textspalten kein Problem.
+
+
+Mich kümmert es auch nicht sehr.
+
+
+Das hätte ja das Programm aufgrund eines Wörterbuchs zu machen.
+Mein Prozessor ist zu 99% idle - er hat also genügend Zeit.
+
+Gruss
+
+Gernot

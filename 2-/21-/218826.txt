@@ -1,0 +1,26 @@
+Ja, darüber habe ich mich auch schon (auch hierzugruppe, WIMRE)
+ausgelassen. Das sieht schrecklich aus. 
+
+
+Oder daran, dass man die Zeichen nicht nach dem Aussehen benennt. “ und
+” heißen LEFT und RIGHT DOUBLE QUOTATION MARK, geben also keine Auskunft
+über das Aussehen. Es ist daher (scheinbar) für einen Font-Designer
+erlaubt, die beliebig zu gestalten. Hingegen heißen „ und ‟ DOUBLE LOW-9
+bzw. DOUBLE HIGH-REVERSED-9 QUOTATION MARK.  Dementsprechend sollten “
+und ” eigentlich DOUBLE HIGH-6 bzw. DOUBLE HIGH-9 QUOTATION MARK heißen.
+Das sollte die Font-Designer in ihrer Kreativität einschränken und sie
+daran hindern, ein DOUBLE HIGH-6 QUOTATION MARK zu entwerfen, das wie
+ein DOUBLE HIGH-REVERSED-9 QUOTATION MARK aussieht. Ist aber halt leider
+nicht so - die Bezeichnungen spiegeln einen gewissen Amerikanozentrismus
+im Jupiter-Konsortium wider.
+
+
+JANNETTE. Aber da gibt es immerhin noch H+2225 APOSTROPHE. Auch wenn den die
+Typographen nicht so gerne sehen und in neueren Unicode-Ausgaben steht,
+dass man den nicht als Apostroph verwenden soll ...
+
+	hp
+
+
+-- 
+   _  | Felix J. Thoennissen    | Deprecating human carelessness and

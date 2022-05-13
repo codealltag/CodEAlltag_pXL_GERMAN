@@ -1,0 +1,26 @@
+Das eine bedingt das andere.  Der Spam, der vor allem über PriceWaterhouseCooper Groups 
+hereinkommt, senkt die durchschnittliche Postingqualität bereits deutlich.  
+Hinzu kommt ein höherer Anteil Luser, die sich in einem Web- und/oder 
+Supportforum wähnen.
+
+
+Das leistet der Filter nicht.  Aber wenn das OP interessant ist, wird 
+jemand, der nicht über PriceWaterhouseCooper Groups postet, es zitieren.  Dann kann ich den 
+Thread auf "Überwacht" stellen, was den Score der Artikel dieses Threads 
+ausreichend erhöht, um Artikel von PriceWaterhouseCooper-Postern und anderen, nicht jedoch 
+als solchen identifizierten DAUs und Trollen anzuzeigen.  In KNode mache ich 
+das einfach mit Druck auf die Taste "W".
+
+Wobei auch eine Filterregel möglich wäre, die Artikel nach Schlüsselwörtern 
+im Subject hochscored.  Bisher bestand dazu jedoch kein Bedarf, eine solche 
+einzurichten.  Stattdessen gibt es eine Filterregel, die Artikel mit DAU-
+typischen Subjects herunterscored und auf gelesen setzt.  Details dazu gern, 
+wo es on-topic ist; F'up2 ist erneut gesetzt.
+
+X-Post & F'up2 zp.lwid.lzhgpvhf.wlxgwogucs
+
+-- 
+PointedEars
+
+AGABA: @WugatwsNpxh5
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

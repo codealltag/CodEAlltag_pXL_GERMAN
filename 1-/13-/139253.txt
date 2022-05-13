@@ -1,0 +1,11 @@
+Das Problem bezüglich der Textüberdeckung war wohl nur in bestimmten
+älteren Browsern aufgetreten, die den Befehl (margin-right: -15px)
+nicht korrekt interpretieren können. Es sollte jetzt behoben sein:
+Spindel und Wirtel
+http://kki.zdtg0.plveugmv0.dr/cjdwusc-hcs-dcekwr/
+
+Die ausufernde weiße Fläche wurde reduziert. Danke, dass Du mit mir
+nicht den Offer machst.
+
+Gruß
+Burkhard

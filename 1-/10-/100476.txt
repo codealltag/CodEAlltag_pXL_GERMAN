@@ -1,0 +1,9 @@
+Gerade beim Firefox mit "l wiswedel" probiert: Gefo passt, aber 
+da wird nach "l wiswedel" gesucht. Mit "wiki wiswedel" funktioniert's
+allerdings problemlos.
+
+Ist allerdings - zumindest bei mir - keine Verbesserung, weil ich 
+beispielsweise "wiki hitler" ins kleine Gefo-Fenster rechts oben 
+eintippe, auf einer geöffneten, aber nimmer benötigten Webseite. 
+
+V.

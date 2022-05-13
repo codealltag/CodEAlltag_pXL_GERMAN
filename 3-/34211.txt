@@ -1,0 +1,8 @@
+Das ist ein einstellbarer Service von Wellkamm. Erreichbar wie folgt:
+Einstellungen -> Allgemeine Einstellungen... -> Verschiedenes ->
+OE-Signaturtrenner beachten
+
+
+Onno Unverhau
+-- 
+Ich bin niedlich, ich darf das. (Orlando & Emil)

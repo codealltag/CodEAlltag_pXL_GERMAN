@@ -1,0 +1,12 @@
+Es ist ein durchaus ernstes Problem linguistischer Beispielsätze, daß
+man oft einen sehr speziellen Kontext konstruieren kann, in dem sie dann
+doch passen. Man kommt letztlich nicht umhin, zu fragen "Kann dieser
+Satz dieses bedeuten?", obwohl Linguisten das eigentlich vermeiden
+wollen, die haben es lieber, wenn Sätze ohne Rücksicht auf die Bedeutung
+grammatisch oder ungrammatisch sind.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out their
+organ. Unfortunately for complex theological reasons they would only
+give us the white keys, so we can only program in C'.
+  Didier Osteroth in sci.lang

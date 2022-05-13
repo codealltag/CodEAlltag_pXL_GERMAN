@@ -1,0 +1,9 @@
+Und jetzt beginnt das große Rätselraten: Was für ein Mensch könnte
+das gewesen sein?
+[  ] ein Immobilienmakler
+[  ] der Vorsitzende einer LPG
+[  ] ein Raubritter
+[  ] ein Dorfschulmeister
+
+j/\a
+--

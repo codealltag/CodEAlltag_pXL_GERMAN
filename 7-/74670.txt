@@ -1,0 +1,4 @@
+DSL arbeitet mit einer festen Matrix, beim Morsecode ist die
+Matrix logarithmisch und kann sich überall anpassen.
+
+Gilbert

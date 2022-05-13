@@ -1,0 +1,8 @@
+Otmar Tilger:
+
+
+Der Plural ist hier mE nicht angebracht, es wird doch jeweils nur ein
+einzelner Beruf ergriffen, folglich "Berufergreifende".
+
+-- 
+Ullrich

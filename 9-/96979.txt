@@ -1,0 +1,16 @@
+Im Vergleichen von "innert" gegen "innerhalb" ist aber schon etwas Vorsicht
+geboten. Da die beiden Wörter unterschiedlichen Wortarten (loc./temp.
+Präposition) angehören, müsste man zumindest alle "innerhalb" auf diesen
+Umstand hin noch genau nachprüfen.
+Im Vergleich wären sie also nur dann aussagekräftig, wenn sie als temporale
+Präpositionen dastehen.
+
+Um ein Beispiel zu nennen:
+   Man kann sagen: innert einer Woche oder innerhalb einer Woche  
+   aber nicht: *innert der Gruppe; *innert des Hauses, ... 
+
+"Innerhalb" kann also sowohl lokale wie auch temporale Präposition sein,
+"innert" nur temporale.                                           
+
+-- 
+Ilona Boecken

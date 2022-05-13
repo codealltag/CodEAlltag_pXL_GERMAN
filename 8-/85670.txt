@@ -1,0 +1,14 @@
+Einfache Frage: gegeben ein von OVM lizenzierter Datenträger (z.B.
+eine DVD) mit UZUF X, und ein halbwegs moderner PC, wie man ihn im
+üblichen Fachhandel erwerben kann.  Kann ich den Datenträger in den PC
+einlegen, von ihm booten, das Betriebssystem auf dem PC installieren,
+den Datenträger entfernen, und nach erneutem Booten des PCs daran
+sofort (modulo eventueller Anpassungen) "produktiv" werden, also
+vorhandene Anwendungen starten, oder neue installieren?
+
+Ich bitte Dich um eine einfache, klare Antwort: ja oder nein.  Ohne
+wenn und aber, Legalesischkurse für Anfänger, oder was auch immer;
+nur ein simples "Ja" oder "Nein".
+
+
+ralph

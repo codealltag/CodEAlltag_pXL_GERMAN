@@ -1,0 +1,8 @@
+Das sind nette Beispiele. Allerdings sind die Regeln alle komplizierter als 
+f(n) = 2n bzw f(n+1) = f(n) + 2.
+Wer eine von den komplizierteren Folgen meint, gibt fairerweise so viele 
+Glieder der Folge an, dass die sich aufdrängende Folge
+ausgeschlossen ist.
+
+Viele Größe
+Klaus

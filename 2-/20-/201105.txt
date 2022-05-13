@@ -1,0 +1,23 @@
+* Fredy Fischereder:
+
+
+Es sind einfach verschiedene Skalen: auf einer Skala von 0 bis
+unendlich ist das Gegenteil von "hoch" "niedrig", auf einer Skala
+von minus unendlich bis plus unendlich ist das Gegenteil "tief".
+Bei Temperaturen entsteht Verwirrung, weil es sich eigentlich um
+den ersten Typ handelt, und daher "niedrig" besser wäre, die
+übliche Bezeichnungsweise aber auch mit negativen Zahlen
+operiert[1]. Dennoch bleibe ich dabei: Plustemperaturen können
+für mich keinesfalls "tief" sein, nur bei Minusgraden lasse ich
+das durchgehen, ohne es wirklich gut zu finden. Daran ändert auch
+der feste Terminus "Tiefsttemperatur" nichts.
+
+[1] Manche verteidigen die Fahrenheit-Skala damit, daß sie einem
+die doofen Minusgrade ersparen würde, aber dazu lebe ich am
+falschen Ort ;-)
+
+-- 
+Mina: Uncle Günther ... why do they call this a word processor?
+Günther:  It's simple, Jonas ... you've seen what food processors
+do to food, right?
+  Cartoon by Friedhelm Ingendaa

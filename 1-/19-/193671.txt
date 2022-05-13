@@ -1,0 +1,23 @@
+Nach Pohlkamp ist ein -h-, das inmitten eines Morphems nach einem Vokal 
+steht, fast immer ein Dehnungs-h und wird nicht gesprochen. Ausnahmen 
+sind: Ahorn, Uhu, und Interjektionen wie aha, oho, haha, hihi (das 
+lautmalende "Uhu" ist ja eigentlich auch sowas).
+
+
+Gerade bei "See" mit einem Vokal [ze:] und "see" mit zwei Vokalen [ze:@] 
+seiht man, dass das nicht schlau wäre.
+
+Und der SS6 ist ja eigentlich ganz gut gelungen. Es wird ja auch nicht 
+behauptet, dass das -h- gesprochen werden soll; vielmehr wird es als 
+Dehnungs-h aufgefasst. Nur die Einleitung zu Abschnitt 1.3 ist etwas 
+verunglückt. Es heißt da:
+
+  Folgt im Wortstamm auf einen betonten Vokal kein Konsonant, ist er lang.
+  Die regelmäßige Kennzeichnung mit h hat auch die Aufgabe die Silbenfuge zu
+  markieren, zum Beispiel K|he; vgl. � 6.
+
+Die Silbenfuge zwischen einem langen Vokal und dem dazugehörigen Dehnungs-h
+sieht blöd aus, wie wäre die Silbenfuge "Ke|hle"? 
+
+-- 
+René Neteler

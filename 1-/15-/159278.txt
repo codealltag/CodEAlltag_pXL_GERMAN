@@ -1,0 +1,9 @@
+Es ist natuerlich guenstiger, wenn in einem Woerterbuch moeglichst
+viele Stichwoerter eingebracht wurden. Der Suchende findet dann immer
+das Gesuchte. Die Zusatzinformationen zu jedem Stichwort sind natuer-
+lich das eigentlich Interesante.
+
+
+Beides gleichzeitig will auch gemacht werden koennen.
+
+G.I.

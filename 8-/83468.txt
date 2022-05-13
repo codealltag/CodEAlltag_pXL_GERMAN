@@ -1,0 +1,31 @@
+Naja, nicht ganz: digitale Signalverarbeitung ist solche, die abstrakt
+durch mathematische Operationen erledigt wird. Im engeren Sinn
+benoetigt man also durchaus Zahlen dafuer.
+
+Bei den Signalen selbst gibt es neben den klassischen, analogen
+Signalen auch noch zeit- und/oder wertdiskrete Signale. Nur ein
+zeit- UND wertdiskretes Signal kann digital verarbeitet werden.
+
+Ob so ein Signal dann in Zahlenform oder z.B. hoechst abstrakt als
+Folge von Phasenspruengen auf einem Traeger vorliegt, macht aber in
+der Praxis nur fuer denjenigen einen wirklichen Unterschied, der es
+uebertragen oder ver- bzw. entschluesseln muss. Insofern kann man
+auch beim modulierten Signal durchaus von einem "digitalen Signal"
+reden, weil es jederzeit verlustfrei in ein solches ueberfuehrt
+werden kann.
+
+
+Prinzipiell ist es vor allem einmal ein schoenes Beispiel fuer ein
+rein wertdiskretes Signal, z.B. bei Handsteuerung der Kreuzung. Erst
+durch die real verwendeten Schaltungen, die gektaktet arbeiten, wird
+dieses Signal dann auch zeitdiskret.
+
+Servus,
+   Raimund
+
+-- 
+http://ioiwsfvfqcac.od/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von regula
+
+Raimund - Der Spaß, der keine Grenzen kennt: Naschen wenn es weht!
+(Sloganizer)

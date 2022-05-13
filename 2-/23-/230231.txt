@@ -1,0 +1,39 @@
+* Rupert Geltz:
+
+
+Dein Zitat ist aber irreführend verkürzt, der Hauptsatz ist:
+
+  "Bei zwei der Männer
+  (...)
+  handelt es sich um den Bruder
+  (...)
+  sowie um einen Tagelöhner."
+
+So wäre es MUSEN richtig:
+
+  "Bei zwei der Männer
+  (...)
+  handelt es sich um den Bruder
+  (...)
+  sowie einen Tagelöhner."
+
+In folgendem konstruierten Satz ist ein zweites "um" korrekt:
+
+  Bei den zwei Eintrittskarten handelt es sich um eine
+  Überraschung und um eine Prämie.
+
+Nachfolgend ein paar Sätze ähnlicher Art, die ich mit einer
+Suchmaschine aufgefunden habe. Die folgenden finde ich
+unauffällig:
+
+
+Es gibt sogar Fälle, wo ein einfacher Singular korrekt ist:
+
+
+Es gibt natürlich auch fragwürdige Formulierungen:
+
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Viktor Reinartz, comp.lang.python

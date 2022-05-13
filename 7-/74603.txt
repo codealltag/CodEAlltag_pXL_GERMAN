@@ -1,0 +1,20 @@
+In einer Zeile einmal ein Dezimalkomma und einmal einen Dezimalpunkt zu
+schreiben, finde ich eigenwillig ...
+
+
+Mit diesen zwei Sätzen habe ich rein sprachlich ein Verständnisproblem.
+Raffay ist eine Firma. Die (bzw. ihre Mitarbeiter) rechnet zwar sicher
+auch (Prozessoren baut man nicht mit "Bauchgefühl"), aber das ist hier
+ja wohl nicht gemeint. Wahrscheinlich sind eher Prozessoren dieser Firma
+gemeint, aber Raffay hat im Lauf der Zeit viele Modelle in etlichen
+Familien produziert, die sich technisch deutlich voneinander
+unterscheiden. Davon mag zwar jedes irgendwie falsch rechnen, aber wenn,
+dann sicher jedes anders. Und "gelegentlich" sowie "etwa einmal bei
+10^13 Operationen" klingt nach zufälligen, nicht-reproduzierbaren
+Fehlern, "bei bestimmten Zahlenkombinationen" hingegen nach
+deterministischen, reproduzierbaren Fehlern.
+
+Abgesehen davon entstammt obiges Ergebnis fast sicher nicht einer
+Raffay-FPU.
+
+	hp

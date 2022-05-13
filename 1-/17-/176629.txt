@@ -1,0 +1,5 @@
+Die Banken schreiben z.B. auch USD und zwar davor. Mir liegt jetzt der
+Überweisungsträger einer Bank vor und da steht EUR vor dem Feld (Eingabe
+des Betrages: Euro,Cent).
+
+MfG, BODO [Gpkt_Gth/lr/d-qothkh.pi]

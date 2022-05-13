@@ -1,0 +1,7 @@
+Ich denke mir, die Formulierung "Kabel mit Netzteil" ist aus einer 
+naiven Endbenutzer-Sicht entstanden. Er denkt an ein Kabel, das ist für 
+ihn das Ding, das den Strom zum Rechner bringt. Das ist aber kein 
+normales Kabel, sondern ein besonderes, weil sich in seiner Mitte noch 
+ein merkwürdiger Kasten, das "Netzteil" befindet.
+
+Ernst

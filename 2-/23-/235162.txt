@@ -1,0 +1,1 @@
+Dann brauchen wir dafür auch einen eigenen Zeichencode.

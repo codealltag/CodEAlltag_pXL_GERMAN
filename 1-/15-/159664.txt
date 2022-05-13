@@ -1,0 +1,33 @@
+Am Wed, 13. 02. 22 00:44:13 -0700 (PDT) schrieb Antonio Magnußen:
+
+
+Die Frage ist nicht leicht zu beantworten; es kommt wie so oft auf den
+eigenen Standpunkt an. Zuerst müsste man mal festelgen, was man als
+"ruhend" betrachtet, und wer sich in Relation dazu bewegt. Einigermassen
+sinnvollle Definitionen dafür sind
+1) Der Schwerpunkt der Sonne ist fest im Mittelpunkt
+2) Der Schwerpunkt aus Erde und Sonne ist fest im Mittelpunkt
+3) der Schwerpunkt des Sonnensystems ist fest im Mittelpunkt 
+4) die Erde ist fest im Mittelpunkt
+5) ein Milchstrassenfestes Bezugssystem 8kann sich auch gern mit der
+Drehung der Milchstrasse selbst mitdrehen, oder auch nicht)
+6) ...
+
+Klar ist nur, dass die Bahn der Erde (um die Sonne oder was auch immer)
+kein genauer Kreis, abr auch keine Ellipse ist, da gibt es zuviel
+Störfeuer, z.B. durch den Mond. Das gilt alles nur in Näherungen. Was noch
+dazukommt, sind Präzession und Nutation durch die schrägstehende Erdachse,
+inhomogene Massenverteilungen etc. pp. 
+
+Je nachdem, welche Ungenauigkeiten du zu unterschlagen bereit bist, bist du
+aber auch gern mit "Kreis" ganz gut bedient (die Exzentrizität der Bahn ist
+nicht arg hoch). "Eiern" ist halt MUSEN ein netter Weg anzudeuten, dass es
+eben haufenweise Abweichungen von einer idealisierten Kreis- oder
+Ellipsenbahn gibt, die alle anzugeben normaleweise keinen Erkenntnisgewinn
+liefert. Wenn du jemandem das Analemma oder das Ph�nom�n von Mond- und
+Sonnenfinsternissen erklären musst, wirst du nicht umhinkommen, auf einige
+der Feinheiten einzugehen.
+Und je nachdem welchen Effekt du erklären willst, sind die oben erwähnten
+Koordinatensysteme mehr oder wneiger hilfreich (inklusive 4).
+
+Ciao Frédéric

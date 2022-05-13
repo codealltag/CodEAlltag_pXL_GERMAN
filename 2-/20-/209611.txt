@@ -1,0 +1,6 @@
+Die genaueste Angabe lautet deshalb wohl "0,NIX",
+wobei sich die Frage stellt, ob "o,nix" genauerer ist
+als die Variante "0,nix". Dem Problem scheint sich
+noch keiner wirklich gestellt zu haben.
+
+O.J.

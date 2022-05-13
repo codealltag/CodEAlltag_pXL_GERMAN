@@ -1,0 +1,9 @@
+Am Sun, 8 Dez 2009 18:42:33 +0200 schrieb Fernand Fickewirth:
+
+
+"Klicken Sie 3x links und einmal rechts um das geheime Tor zu öffnen"
+"Klicken Sie irgendwo im geöffneten Fenster, um dieses zu aktivieren"
+
+"Klicken" = "eine Maustaste niederdrücken".
+
+H

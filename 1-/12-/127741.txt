@@ -1,0 +1,20 @@
+<span style="color:white;background-color:#4169E1">Oliver Zuidinga</span> 
+wrote:
+
+
+Im Usenet wird <span style="color:white;background-color:#4169E1">es</span> 
+aber nicht gern gesehen, wenn <span style="color:white;background-
+color:#4169E1">man</span> HTML verwendet. 
+
+
+vG, nicht wissend, inwieweit  <span style="color:white;background-
+color:#4169E1">Newsreader</span> CSS-Klassen auswerten
+
+"Wenn <span style="color:white;background-color:#4169E1">alle Chinesen, 
+alle Inder</span> so viele Autos wie wir haben, dann können <span 
+style="color:white;background-color:#4169E1">wir alle</span> nochmal den 
+Zündschlüssel umdrehen, 15 Minuten rumfahren, und dann ist <span 
+style="color:white;background-color:#4169E1">das Öl</span> weg. Für immer. 
+Und <span style="color:white;background-color:#4169E1">die 
+Atmosphäre</span> natürlich auch."
+(Louis Nonnengäßer, "Bis neulich")

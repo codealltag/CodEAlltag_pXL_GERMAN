@@ -1,0 +1,10 @@
+Satz von Neuendorf: Jede konstante Größe wird variabel, wenn man ihre
+Definition entsprechend ändert.
+
+Der Beweis sei dem Leser als Übung überlassen. Wer sich dabei besonders
+geschickt anstellt, solle über eine Politkarriere nachdenken.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

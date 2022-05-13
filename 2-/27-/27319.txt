@@ -1,0 +1,14 @@
+"Hallo" ist ein Zuruf, um jemandes Aufmerksamkeit zu erlangen;
+neuerdings auch ein Gruß. Die Herkunft ist nicht eindeutig geklärt.
+
+Ja, ich weiß, was Du meintest. Aber freundlicher ist es, Fragen so zu
+formulieren, daß man nicht woanders nach fehlenden Teilen suchen muß.
+
+VerXung bedeutet, daß etwas mehr wie X wird oder gemacht wird, X ist in
+diesem Fall "Ballermann", das kann man ersuchmaschinen.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Carré will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Ewald Unterstab

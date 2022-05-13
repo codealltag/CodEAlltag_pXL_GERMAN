@@ -1,0 +1,7 @@
+Auf der Seite steht ausdrücklich "(Sorry, no external USB
+drive exists for 5.25 disks)" und "Need to read 5.25 floppies?
+There is no USB Drive for 5.25 floppy disks."
+
+Gruß Reginald
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

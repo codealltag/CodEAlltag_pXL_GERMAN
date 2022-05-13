@@ -1,0 +1,12 @@
+Ja, weil man es jetzt in der Not direkt an den Reaktorkern bringt. Unter
+normalen Bedingungen wird man Meerwasser eher nicht für den *primären*
+Kreislauf, wo hoher Druck und hohe Temperatur herrschen, verwenden
+(abgesehen davon, daß das ohnehin ein geschlossener Kreislauf ist^Wsein
+sollte). Für die Dampfkondensation wird man es aber sicherlich verwenden
+können.
+
+
+Und das hätte drei, vier Kilometer weiter im Landesinneren drastisch
+anders ausgesehen?
+-- 
+bli

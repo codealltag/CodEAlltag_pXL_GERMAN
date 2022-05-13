@@ -1,0 +1,9 @@
+Auch dann nicht, wenn die Teilung asymmetrisch ist? Was, wenn der
+kleinere Teil anfangs nur aus einer einzelnen Zelle besteht, A aber 60
+Billionen Zellen?
+
+	hp
+
+
+-- 
+   _  | Henning I. Coman    | Deprecating human carelessness and

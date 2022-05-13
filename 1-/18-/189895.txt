@@ -1,0 +1,35 @@
+["Followup-To:" header set to de.comp.text.tex]
+
+(Die Fragezeichen kann mein Programm nicht aufloesen, auf einem
+anderen Bildschirm werden sie als Anfuehrungszeichen dargestellt)
+
+Welcher Kringel ist ein Gradzeichen? Ich weiss nicht, wie LaTeX hier
+den 'Kringel' macht. Der Ursprung des Zeichens wird wohl eine
+Abkuerzung von "_N_umer_o_" sein, also ist es ein urspruenlich "o",
+klar
+
+
+Richtig. Und der war:
+
+   \documentclass{article}
+   \usepackage[french]{babel}
+   \begin{document}
+   \No {3} %%In spitzen Klammern die Zahl, "3" ist ein Beispiel.
+   \end{document}
+
+
+Ich weiss nicht, ob das _immer_ so sein muss, was ich gefuden habe,
+funktioniert ja nur mit [french]. Ich habe mal das Followup-To: auf
+dct.tex gesetzt.
+
+Zum Ein_tippen_ habe ich noch gefunden:
+N[Compose]o_ ergibt N oder
+N[Ctrl-k]o- ergibt auch N
+Aber das ist bei _mir_ so, ob es auch bei der OP so funktioniert, kann
+ich nicht wissen. Mein "code" fuktioniert jedenfalls ueberall.
+
+Sina
+
+-- 
+Nicht das Schicksal zu aendern, sondern sich ihm zu unterwerfen, macht
+den Heroismus des autoritaeren Charakters aus.              (V. Castendiek)

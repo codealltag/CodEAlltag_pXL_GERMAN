@@ -1,0 +1,36 @@
+Es gibt eine Besonderheit des germanischen Kausativs, die beweist,
+dass die zugrundeliegende grammatikalische Regel nicht direkt
+aus dem indogermanischen abgeleitet werden kann und zwar der Umstand,
+dass Kausative schwach gebeugt werden.
+
+Die schwache Beugung ist sekundär entstanden, die kausativerzeugende
+Regel muss zwingend nach diesem Vorgang produktiv geworden sein.
+Wäre sie vorher produktiv gewesen, dann würden heutige Kausativ nach
+der siebten Ablautreihe, der ehemaligen Default-Reihe, gebeugt werden.
+
+Also etwa so: füllen - fiel - gefällen
+               schwemmen - schwimm - geschwemmen
+               henken   -  hink  - gehenken
+
+Chronologisch ergibt sich folgende Entwicklung der Verben auf dem
+Weg zum Germanischen:
+
+1.Schritt:  Der unregelmässige indogermanische Ablaut wird
+             grammatikalisiert in 7 Ablautreihen.
+2.Schritt:  Als 8. Konjugationsreihe entsteht die Gruppe der
+             regelmässigen Verben, die die neue Defaultreihe wird.
+3.Schritt:  Der unregelmässige indogermanische Kausativ
+             wird grammatikaliert in einer einfachen Regel:
+
+             "An die zweite Ablautstufe des Verbstammes wird ein
+             '..jan' angehängt. Das Verb wird regelmässig konjugiert."
+
+             Denkbar und wahrscheinlicher ist, dass der Kausativ
+             wieder neu erfunden wird.
+
+Man kann hier deutlich den beginnenden deutschen Ordnungssinn spüren.
+Alles soll nach Regeln ablaufen.
+
+
+Gruss
+Wolfram

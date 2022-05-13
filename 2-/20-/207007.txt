@@ -1,0 +1,13 @@
+Die Satzzeichen selbst kann man als =93linke Klammer=94 und =93rechte
+Klammer=94 bezeichnen. Vgl. =93left parenthesis=94 & =93right parenthesis=
+=94
+in Unicode.
+
+Nur im Zusammenhang mit linksläufiger Schrift muss man zwischen
+=93öffnender Klammer=94 und =93linker Klammer=94 unterscheiden.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

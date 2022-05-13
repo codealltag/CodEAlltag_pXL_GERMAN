@@ -1,0 +1,4 @@
+mein Vobu meint
+’ U+2019 = Apostroph
+' U+0027 = Ersatzapostroph
+` U+0060 = Gravis-Akzent

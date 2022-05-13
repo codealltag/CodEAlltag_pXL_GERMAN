@@ -1,0 +1,37 @@
+Ich glaube, es liegt an der engen Bindung mit dem Bindestrich.
+"Sowjet-Spion" würde MUSEN genauso funktionieren. Wichtig dabei ist,
+dass der Präfix produktiv ist - man kann "US-", "Sowjet-", "DDR-" mit
+einem beliebigen Begriff X verbinden und es bedeutet immer "ein X das zu
+$Land gehört oder von dort kommt".
+
+Bei den meisten Ländernamen geht das aber nicht, da muss die Beziehung
+über ein Adjektiv hergestellt werden: "Ein Schweizer Spion", nicht "ein
+Schweiz-Spion" (und da letzteres unüblich ist, ist auch nicht eindeutig
+- siehe Kalbsschnitzel vs. Kinderschnitzel). "Ein chinesischer Schweizer
+Spion" funktioniert dann auch nicht mehr wirklich. 
+
+
+Ja, ebenso beim "Schweiz-Spion". Das ist mehrdeutig und vermutlich sucht
+man dann unbewusst einen ähnlich gebildeten Begriff und landet
+vielleicht beim "USA-Touristen" bzw. "Schweiz-Touristen", der die USA
+bzw. Schweiz besucht und nicht von dort kommt.
+
+
+Unabhängig. Alle Kombinationen sind möglich. Du kannst die beiden
+Eigenschaften in ein rechtwinkliges Koordinatensystem eintragen:
+
+
+  ------ USA - China - Schweiz -...... -----> spioniert für
+USA       x      x        x
+China     x      x        x
+Schweiz   x      x        x
+ .
+ .
+ .
+ v
+Staatsbürgerschaft
+
+	hp
+
+-- 
+   _  | Gianni W. Viellehner    | Deprecating human carelessness and

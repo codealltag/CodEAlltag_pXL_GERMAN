@@ -1,0 +1,25 @@
+Guten Tag
+
+Es gibt eine Diskussion in rec.games.bridge. Es handelt sich um
+Meldungen und weder sie mit Einzahl oder Mehrzahl benutzt werden.
+Heisst es also
+
+  	drei Karos
+
+oder 
+
+  	drei Karo
+
+wenn man meldet?
+
+Im Dänischen ist es schwierig zu entscheinden, weil Einzahl und
+Mehrzahl dasselbe heisst - vielleicht mit einer Ausnahme bei
+"hjerter". Wenn man von mehreren Karten spricht, heisst es
+nämlich "tre hjertere", aber bei Meldungen nur "tre hjerter".
+
+Bei Sans ist es ohne zweifel Einzahl, denn da können wir auch
+"uden trumf" (ohne Trumpf) sagen, und das wäre "uden trumfer" in
+Mehrzahl.
+
+-- 
+Gruß, Winfried

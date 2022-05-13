@@ -1,0 +1,10 @@
+Weder noch. Das hängt eher mit der Korngröße von Film zusammen: Je
+geringer die Korngröße (Granularität), desto mehr Details sind
+erkennbar. Andererseits führt zu geringe Granularität zu geringer
+Lichtempfindlichkeit und hohem Rauschen. 
+
+Das lässt sich sinngemäß von der Fotographie auf jede Art der
+Datenerfassung übertragen, insofern finde ich das Bild von feiner und
+grober Granularität geglückt.
+
+	hp

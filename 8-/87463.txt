@@ -1,0 +1,10 @@
+Farbliche Hervorhebungen oder die Sonderbehandlung von URIs
+sind /immer/ eine Sache der Interpretation des Newsreaders.
+Bei Web-Brausern auch -- nur sollte man von denen erwarten
+können, daß sie sich mit URIs auskennen.  Wenn ein Newsreader
+das kann, ist das Kür, nicht Pflicht, aber die Anzeige von
+URIs vom Content-Type abhängig zu machen, ist bei einem rein
+textorientierten Medium wie dem Usenet extrem Sinn unmachend.  ;-)
+
+
+urban

@@ -1,0 +1,11 @@
+Beine vorn                  2
+Beine hinten                2
+Beine links                 2
+Beine rechts                2
+Beine an den Ecken          4
+Elfenbeine                  2
+                           ===
+Summe                      14
+
+
+vG

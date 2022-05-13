@@ -1,0 +1,9 @@
+Nachträgliche Volksetymologie halt. Macht aus dem Locator eine
+Location, dann paßt das "falsche" Geschlecht schon. 
+
+
+Es heißt erst mal so, wie der Erfinder es genannt hat. Und der hat es
+nun mal Universal Resource Locator genannt.
+
+Ob sich der Rest dran hält, ist wie gesagt nichts was er kontrollieren
+kann. Schließlich sagt man ja auch "das Modem".

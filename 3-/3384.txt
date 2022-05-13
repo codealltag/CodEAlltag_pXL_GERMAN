@@ -1,0 +1,18 @@
+Hallo,
+
+kann mir jemand mit dem "geschützten Bereich" helfen? Der Ausdruck kommt aus 
+einer EG-Konformitätserklärung. Hier der Kontext:
+
+Ziegelwerk (...) erklärt nach Par. 9 des Bauproduktgesetzes (Umsetzung der 
+Bauproduktenrichtlinie 88/106/EWG), dass für LD-Mauer - Zahnziegel (...) 
+vorgesehen für die Verwendung in Mauerwänden, Stützen und Trennwänden 
+tragend und nicht tragend im geschützen Bereich, hergestellt im Ziegelwerk 
+(...) die zum Nachweis der Konformität vorgeschriebenen Verfahren 
+durchgeführt wurden und die Voraussetzungen für die CE-Kennzeichnung (...) 
+erfüllt sind.
+
+Ist hier ein Bereich im Sinne von "Raum" (geschützt von äußeren Faktoren) 
+gemeint oder eher ein "Parameterbereich"?
+
+Gruß
+Leo

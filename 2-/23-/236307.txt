@@ -1,0 +1,11 @@
+* Salvatore Johannsmanns:
+
+
+Es ging jetzt gerade um Politik. Also im Extremfall um "lieber arm
+in der Schweiz als reich unter Gehrk".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Rena will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Arno Lamskemper

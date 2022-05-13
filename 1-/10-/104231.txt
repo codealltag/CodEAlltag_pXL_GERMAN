@@ -1,0 +1,4 @@
+Gib' halt „Lohnverrechner“ in eine Suchmaschine ein.
+
+-- 
+Pascal

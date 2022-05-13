@@ -1,0 +1,13 @@
+500&year_end=2000&corpus=8&smoothing=1
+
+00&year_end=2000&corpus=8&smoothing=1
+
+Noch besser bekommt man das im direkten Vergleich der beiden Wörter hin. 
+(Leider funktioniert die URL-Weitergabe hier nicht).
+
+Man muss einfach beide Stichwörter, durch ein Komma getrennt, in das Suchfeld
+eingeben und sieht an den beiden Kurven dann sofort, dass "raisonieren" die
+ursprüngliche Schreibung ist.  
+
+-- 
+Adele Ganß

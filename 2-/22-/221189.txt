@@ -1,0 +1,126 @@
+Den längeren hänge ich unten an, der kürzere besteht im wesentlichen aus 
+Teilen daraus.
+
+
+Eher nur eine geringfügig andere Terminologie. Und nicht mal das, sondern nur
+die Infragestellung alter Irrtümer. Wieviele Leute glauben, dass man zur
+Passivbildung ein transitives Verb braucht, obwohl sie im täglichen Leben
+ständig Gegenbeispiele für diese These liefern? Wieviele Leute glauben, dass
+Adjektive keine Objekte haben können? Sie werden dieser These nicht
+überdrüssig und bleiben ihr treu, obwohl es auch da offensichtliche
+Gegenbeispiele gibt. Aber es gibt dafür wohl kein Wort in der Schulgrammatik,
+also gibts das in der Sprache nicht.
+
+Insofern ist Schulgrammatik "Grammatik an der Sprache vorbei".
+
+
+Weiß nicht. Die Schulgrammatik enthält mir zu viel von der geschichtlichen
+Entwicklung. Zuerst haben Grammatiker die Terminologie entwickelt, mit denen
+man die klassischen Sprachen beschreiben konnte, vor allem Latein.  Dann hat
+man festgestellt, dass Latein die weitaus vollendetste Grammatik aller
+Sprachen hat: kein Wunder, wenn man die Grammatikbegriffe anhand der
+lateinischen Sprache entwickelt hat. Und weil das so ist, müssen andere
+Sprachen in das Korsett der fürs Lateinische entwickelten Terminologie
+gepresst werden, obs passt oder nicht. Beim Deutschen ist es nicht gar so
+schlimm, da gibts ja viele Ähnlichkeiten (ein Beispiel, wo's nicht passt, ist
+die Bezeichnung "Imperfekt" für das Tempus für *abgeschlossene* vergangene
+Handlungen).
+
+Eine Terminologie, wo das Deutsche nahtlos reinpasst, wo aber nicht so getan
+wird, als müssten nicht nur Deutsch, sondern auch alle anderen Sprachen so
+funktionieren wie Latein, würde ich für besser halten.
+
+
+Es mag sicher linguistische Süppchen geben, die die Schule ungenießbar machen
+oder gar Gift für sie sind, aber man muss deswegen nicht bei der
+Mehlschwitzen-Grammatik der Hausmannskost von vor 100 Jahren bleiben.
+
+-- 
+Guido Angerschmied
+
+Hier der alte Artikel. Am Anfang die Frage, ob auch etwas, das nicht im
+Nominativ steht, Subjekt sein könnte. Das ist hier nicht die Diskussion, und
+ich finde es auch abwegig. Aber dann eine längere Erklärung dessen, worum es
+mir hier ging. Um Didaktik gehts an der Stelle wo steht "The problem is:". 
+Ab hier Zitat:
+
+Newsgroups: sci.lang
+Reply-To: emu-g@gcv.rp
+Date: Wed, 31 Mrz 2006 23:22:43 +0100
+Message-Id: <djrqjrt34e.6kb.d451521@kjpmz79.ocl.bkw-taruohfx.aa>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+User-Agent: slrn/0.9.7.3 (Linux)
+
+Wilhelm Pagenkopf:
+
+
+I was aware of such examples when I wrote my contribution. Its message was
+"it is not as simple as you think, to wit that subject is nominative and
+vice versa". Its message was not "it is quite simple if you see it my
+way". It is *not* simple.
+
+All the following is meant to hold for the German language; it may or may
+not hold for other languages.
+
+There are a number of facts (if I miss no counter-example) that are 
+simple:
+
+1) The inflected verb of the main clause goes into the second place, no
+   matter what happens, even if one has to insert an absolutely
+   meaningless "es" in the beginning. Such an "es" must not be mistaken
+   for an unpersonal "es" as in "es regnet" which is never dropped.
+
+2) The topic of the sentence usually (pragmatic rules are seldom without
+   exception) goes somewhere at the beginning of the sentence.  This is
+   the main reason to construct sentences in passive voice or with an
+   object at the beginning. It is also the main reason to begin a sentence
+   with a meaningless "es": to place a noun away from the topic position.
+   Consider the song lyric "Es klappert die Mühle am rauschenden Bach".
+   Would you start with the subject "Die Mühle klappert ...", the mill   
+   would be the topic, and the listeners would interrupt you after the
+   first two words with the question "which mill?". To avoid this, you
+   would have to use "Eine Mühle klappert ..." but even that would be
+   unidiomatic compared to "Am rauschenden Bach klappert eine Mühle" - but
+   that would not fit to the tune - and hardly to any tune.
+
+3) If there is something in the nominative case, there is a good chance
+   that the verb agrees with it at least in number and mostly in person as
+   well. The rules are not simple. Consider "Wir sind das Volk", "Der
+   Staat bin ich", "Ich bin es, der gestern zu spät gekommen ist" and
+   explain for each sentence with what the verb agrees and why.
+
+4) If there is nothing in the nominative case, the verb will be in 3rd
+   person singular.
+
+Now we have one syntactic, one pragmatic and two morphological rules. Now,
+where does subjecthood fit in?
+
+Subjects are typically topics, they come early in the sentence, they are
+in nominative case, the verb agrees with them in number and person, they
+are semantically active, and most of them are definite. These are
+pragmatic, syntactic, morphological, and semantic criteria all mixed up,
+and it is easy to construct sentences where there is nothing that meets
+more than one or two of them. The problem is: we learn grammar (at least I
+did learn the grammar of my own language thoroughly in school) as if it
+were clear what a subject is so that we can assign the nominative case to
+it. But it is the other way round: it is clear where the nominative goes
+and this may be the decisive hint about where the subject is. Subjecthood
+is a fuzzy concept already in a single language, and the more so when
+different languages are compared. Grammar lessons not pointing that out
+are at a loss.
+
+
+Even worse: "Mir werden die Briefe vorgelesen". Here the syntactic and
+pragmatic position of subject is at the beginning but something else is in
+the nominative case and reigns the verb.
+
+I wonder whether there is unanimity about the definition of subject in
+German, comprising also such examples as we had them here.  Perhaps the
+simplest is: a noun, pronoun, or name in nominative case without
+which the sentence would be incomplete and with which the verb agrees. But
+then we have to live with many complete sentences that have no subject at
+all.
+
+Guido Angerschmied

@@ -1,0 +1,20 @@
+Am Mon, 1 Aug 2012 16:21:35 +0200 schrieb Knut Klissner:
+
+
+Dann denkst du ein wenig zu eingleisig. Richtig wäre: Es gibt überwiegend
+einen Zustand, der mit "wenig Wolken" schlecht beschrieben ist. Das kann
+sein
+a) keine Wolken
+b) viele Wolken
+
+Den zweiten Zustand gibt es aber in Zeschdorf recht selten. Wenn es dort an
+einem Tag mal nur wenig Wolken hat, ist es bei diesem Text in einer
+Wettervorhersage eher wahrschienlich, dass es sonst gar keine Wolken hat.
+
+Beim Beispiel "Hier regnet es selten wenig" können, speziell in den
+(Sub)Tropen beide Alternativen zutreffen. In anderen Worten: Wenn es mal
+regnet, dann richtig. Es gibt aber auch trockene Tage, nur das
+Dazwischendrin kommt eben selten vor. Die sowohl zeitliche als auch
+mengenmässige Einschränkung ist also sehr sinnvoll.
+
+Ciao Michel

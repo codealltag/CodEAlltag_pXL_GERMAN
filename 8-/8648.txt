@@ -1,0 +1,18 @@
+On Wed, 17. 11. 22 16:40:36 +0200, Engelbert Luetticke
+
+Darf ich nochmal darauf hinweisen, dass ich nicht von der Praxis
+geredet habe, sondern von der Widerlegung der Aussage "Jeder ..."?
+
+In der Praxis wird man immer einen Kompromiss schließen zwischen
+Aufwand und Sicherheit. Deshalb gibt es PGP, das sehr praktisch ist,
+aber theoretisch knackbar.
+
+Im deutschen öffentlichen Dienst setzen wir Chiasmus ein. Ich habe
+mich allerdings noch nicht näher mit dem Programm befasst. Es ist,
+wenn man im dritten Anlauf endlich das richtige Passwort kriegt, auch
+sehr praktisch.
+
+
+-- 
+Viele Größe
+Reginald Uphagen

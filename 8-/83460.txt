@@ -1,0 +1,16 @@
+Ursprünglich ja. Ob das immer noch damit assoziiert wird, ist eine andere
+Frage. Ich tue es nicht (Lateinbanause, der ich bin), aber mein MS ist ja 
+auch U, deswegen würde ich jetzt keine Aussage über die Assoziationen des
+durchschnittlichen Muttersprachlers treffen.
+
+
+D.h. Daten, die man nicht mit Rechenoperationen, sondern z.B. durch logische
+Verknüpfungen auf Bitebene manipuliert, sind nicht "digital"? Wobei
+das wiederum von deiner Definition von "Rechenoperation" abhängt.
+
+
+Eben - für mich ist das Äquivalent. Mag sein, daß "diskret" das präzisere
+Wort ist, aber für praktische Zwecke ist es halt identisch zu "digital".
+
+Gruß
+Thorsten

@@ -1,0 +1,33 @@
+Es geht nicht um "null Menschen", sondern um die implizite Implikation.
+
+Ich schreibe mal "kaum jemand" statt "niemand", um das Null-Menschen-Problem
+zu umgehen.
+
+Ich lese den Satz "1976 benutzte kaum jemand Computer zum Schreiben" mit 
+einer impliziten Implikation "Wer 1976 Computer benutzte, tat das nicht 
+zum Schreiben". *Dem* habe ich widersprochen.
+
+Falls aber gemeint war "1976 benutzte kaum jemand Computer, also 
+insbesondere nicht zum Schreiben", widerspreche ich nicht.
+
+Den Computer zum Schreiben zu nutzen, war ja eine sehr naheliegende Idee: 
+Texteingabe und Editoren gab es fertig, geeignete Ausgabegeräte auch (bei 
+mir wars ein NKD Vetriebs-Fernschreiber, der eine ordentliche Schrift mit 
+Groß- und Kleinschreibung ablieferte; Typenraddrucker gabs 1976 vielleicht 
+auch schon). Deswegen werden viele Leute den Computer zum Schreiben 
+benutzt haben, soweit sie überhaupt Zugang zum Computer hatten. Was man 
+selbst machen musste, war im wesentlichen der Zeilenumbruch und eine 
+Möglichkeit, potentielle Trennstellen in sehr langen Wörtern zu markieren. 
+Wenn einer dafür nichts hatte und trotzdem den Computer zum Schreiben 
+benutzen wollte, musste er eben bei einer Neuformulierung eines Absatzes 
+die Zeilen neu umbrechen, immer noch weniger Arbeit als mindestens die 
+Seite neu zu tippen -- bei dieser Alternative war jeder blöd, der den 
+Computer nicht wenigstens so zum Schreiben verwendete.
+
+Außerdem war damals der Normalfall, das man Programme selbst entwickelte, 
+und der Ausnahmefall, dass es etwas fertig gab. Daher war auch die 
+Hemmschwelle geringer als für den Durchschnitts-PC-Benutzer heute, eine 
+fehlende Funktion in ein paar Stunden selbst zu basteln.
+
+-- 
+Pietro Kleinermeier

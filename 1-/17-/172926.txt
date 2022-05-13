@@ -1,0 +1,13 @@
+Am 29. 01. 23 18:07, schrieb Bernadette Aftermann:
+
+Geht auch mit Schlüsseln oder alten Batterien.
+
+Aber für meine *Ober*österreichischen Ohren ein wahrer Graus. Wir haben 
+allerhand in unseren Taschen eingesteckt. Vom alten Brot über verklebte 
+Zuckerl bis hin zu den eigenen Händen...
+
+
+-- 
+Distribution: Jawoll! squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 29. 01. 23 11 21:35:22 UTC 2012 x86_64 
+GNU/Linux

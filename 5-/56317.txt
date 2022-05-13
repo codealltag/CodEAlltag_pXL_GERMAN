@@ -1,0 +1,10 @@
+Zumindest reicht einer der üblichen westeuropäischen Zeichensätze, Das
+da 'Content-Type: text/plain; charset="gb18030"' halte ich hingegen für
+übertrieben.    *g*
+
+
+Ciao
+Annika
+-- 
+ Death before Dishonour
+ [The Exploited]

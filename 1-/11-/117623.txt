@@ -1,0 +1,15 @@
+Ich hab die selbst gesehen. Komplett hieß die erste Fehlermeldung: 
+"Konnte das Prozess für Backend nicht gabeln", das zweite war eine 
+Hilfe, nach Aufruf von man irgendwas.
+
+Das fand ich, als ich gezielt nach "Keller" in den Manpages suchte.
+
+Da stand auch folgendes Gedicht, weiß der Henker, warum das in den 
+Manpages vorkam:
+
+Eine Frau aus Jagsal, die täglich in den Keller fällt,
+hält den Rekord
+in diesem Sport,
+weil sie täglich schneller fällt.
+
+Viele Größe von Fabian

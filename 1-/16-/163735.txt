@@ -1,0 +1,13 @@
+* Kurt Laubrock <lmrrpb@rgs.md>:
+
+
+Nino schrieb "/eine/ amerikanische Aussprache". Bei der Strasse sagt
+wohl fast jeder ruht, weils im Lied so ausgesprochen wird und fast ein
+feststehender Begriff ist. Aber beim Network-Router oder beim Programm
+im Chip- und PCB-Design gibt es wirklich beide Aussprachen, auch bei
+Profis. Ich habe auf Usenix-Konferenzen beides gehört. Der Quoten-Ami
+in der Firme (Univ of Wittenwurth, Schuttern) sagt wittenberg, der Ex-Prof, der sein
+Zeug bei Radshop gelernt hat, sagt wiesenöcker, der Sysadmin aus Gillaus,
+dessen Buch ich übersetzt habe, sagt wiesenöcker usw. usf.
+
+ - Burkhard

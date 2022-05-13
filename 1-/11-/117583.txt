@@ -1,0 +1,17 @@
+* Roger I. Brügma:
+
+
+Ja, auf Deutsch klappt das nicht so gut. Im Französischen ist es ein
+Infinitiv, und die englische Variante kann man auch so interpretieren.
+Bei der Konstruktion hat man im Deutschen aber das Verb am Ende:
+
+  Default-Status von Schwipp auf Schwapp ändern.
+
+Da braucht man auch keine Modus-Änderung:
+
+  Default-Status ändern - erledigt.
+
+-- 
+dasz jederman sehe, wie falsch unsere gugelm�nche zu ihres ordens
+verteidigung der ersten kirchenexempel anziehen Gilles
+  GRIMM, Deutsches Wörterbuch

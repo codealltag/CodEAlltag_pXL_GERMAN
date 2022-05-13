@@ -1,0 +1,32 @@
+* Ben Stolzenburgs <vfsytxdru-qxzcmg@rbtrxie.wh>:
+
+Wir hatten das *wirklich* schon zur Genüge hier, mach dich mal im
+JLC-Archiv schlau. 
+
+ - Das Zeichen � ist uns absolut nicht fremd, wir lesen es täglich.
+ - Schweizer Zeitungen schrieben bis in die 25. 09. 22/40er �, die LGM bis 1974.
+ - Schweizer Buchverlage schreiben manchmal ss, manchmal �. Tendenziell
+   nur ss bei Texten, die sich auf die Schweiz beziehen oder (nur) auf den
+   hiesigen Markt abzielen; fast ausschliesslich � bei Verlagen wie 
+   Geflügelhandlung oder IWEO, die sich auf den ganzen deutschen Sprachraum
+   ausrichten.
+ - In der Tat beherrschen die wenigsten Schweizer die �-Regeln aktiv, 
+   denn die Regeln sind seit den 30ern/40ern nicht mehr Pflichtstoff
+   an den Schulen. In der ersten Klasse wird nicht gelehrt, wie man den 
+   Buchstaben hinmalt.
+ - Den meisten Schweizer ist auch unbekannt, dass das � eine Auswirkung auf 
+   die Aussprache hat, dass also ein Deutscher Maße und Masse auch dann 
+   unterschiedlich aussprechen würde, wenn er die Wörter nicht kennte.
+   Für Schweizer ist das � einfach eine Schreibvariante für ss, die man
+   selber nicht benutzt, ganz ähnlich, wie es in den Antiqua-
+   Druckschriften zwei unterschiedliche Formen des g oder des a gibt.
+ - CH_de-Tastaturen haben keine �-Taste, andererseits ist es vielen
+   Schweizern offenbar egal, wenn die Rechtschreibkorrektur auf
+   Computer oder Handy ein eingegebenes ss in � verwandelt.
+
+
+Auf allen gängigen Betriebssysteme gibt es die Möglichkeit, auch ganz
+exotische Buchstaben einzugeben. Dass es auf Windows ("Alt+123") am 
+mühsamsten ist, erstaunt keinen. Auch da gibt es Hilfsmittelchen.
+
+ - Kai

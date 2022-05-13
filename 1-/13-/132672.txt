@@ -1,0 +1,22 @@
+Ursela Tonnemacher <ryer.orpyw@wokyr.ygd>:
+
+
+Vielleicht gibt sich auf den Dschungel der Nennungen doch ein Reim (und
+hinter meinem Beispiel versteckt sich doch nur die erstere Situation):
+
+- Wenn in der Sprechsituation damit zu rechnen ist, dass die Nennung
+'Klavier' eine Abstraktion anspricht, so wird man das Pianino bzw. den
+Flügel explizit machen müssen, wenn der Unterschied eine Rolle spielt.
+
+- Ansonsten ist damit zu rechnen, dass mit der Nennung 'Klavier' sehr
+wahrscheinlich ein Pianino gemeint ist.
+
+Ich fand alleine schon wenn ich ein wenig bei Klavierhäusern schmökerte:
+Trotz des Branchentitels wird im Sortiment dann wahrscheinlich 'Flügel'
+gegen 'Klavier' gestellt sein.
+
+
+Nein, ich meinte, 'das Piano' als Instrument heißt ausdrücklich 'das
+Pianino'.  'Das Piano' wird spontan kaum verstanden werden.  Höchstens dann
+wieder im Sinn des Imports von vordefinierten Klangdesigns bei
+elektrifizierten Zeitgenossen.

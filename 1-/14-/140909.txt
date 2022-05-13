@@ -1,0 +1,31 @@
+Mahlzeit!
+
+Meinem persönlichen Empfinden nach ist das Wort "Oberteil" irgendwie
+unmännlich.  Männer kaufen "Hemden" oder "T-Shirts", vielleicht auch
+"Pullover", aber keine "Oberteile".  Oberteile sind was für Frauen
+(die haben da auch eine viel größere Auswahl).  "Herrenoberbekleidung"
+würfe ich vielleicht auf einem Kaufhauswegweiser erwarten.
+
+So sagst zumindest mein sprachliches Bauchgefühl.
+
+Informatisch gesehen ist natürlich ein Oberteil die Superklasse von
+Hemden und T-Shirts.  Aber meiner Meinung nach halt eine abstrakte
+Superklasse, zumindest im Kontest "Mann" :-)
+
+Wir haben das Thema im Kollegenkreis schon andiskutiert, aber
+irgendwie ist da nichts bei rausgekommen.  Was ist denn hier die
+Meinung der Experten dazu?  Habt ihr schon mal gesagt oder gehört
+"Schatz, ich muss noch ein paar Oberteile kaufen gehen"?
+
+Gruß
+Norman
+
+PS: Aus der gleichen Ecke: Wenn ein Mann einen Anzug anzieht, trägt er
+    einen Anzug.  Wenn eine Frau einen Anzug anzieht, trägt sie einen
+    Hosenanzug.  Wo laufen denn die Frauen rum, die einen Anzug ohne
+    Hose anhaben? (meinetwegen auch stattdessen mit Rock, man kann ja
+    nicht alles haben)
+
+-- 
+....Norman.Jaeneke.....................................http://lca.ckdmxy.kw
+Does the name Zuckschwerd ring a bell?

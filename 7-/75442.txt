@@ -1,0 +1,19 @@
+Nein, die Struktur der konkret vorliegenden Sätze ist nicht bekannt,
+bekannt ist nur die Grammatik. Anders ausgedrückt: Der Parser kennt die
+möglichen Strukturen und sucht dann die zum Satz passenden (und
+eventuell daraus eine wahrscheinlichste) heraus (nicht im Sinne eines
+Durchprobierens, denn in der Regel sind es unendlich viele mögliche). 
+
+
+Du denkst wohl an eine Programmiersprache? Oder schon an den
+metaphorisch parsenden Menschen? Wenn es sich um Verarbeitung
+natürlicher Sprache im Computer handelt, ist umstritten, ob und in
+welchem Sinne ein Computer die Bedeutung kennen kann, aber selbst wenn
+das möglich sein sollte, würde man diese Kenntnis dann nicht in den
+Parser packen.
+
+Im übrigen spreche ich die persischen Parsen mit stimmhaftem S, das
+Parsen aber mit stimmlosem.
+
+-- 
+The Internet? Is that thing still around? - Karl Eydens

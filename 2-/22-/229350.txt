@@ -1,0 +1,44 @@
+Das sieht man so auch nicht.  Man sieht es zum Beispiel, wenn man das 
+Zeichen zwischen “.” und “B” in die Zwischenablage kopiert und in 
+UniView [1] eingibt.
+
+Eine andere Möglichkeit ist das Kopieren in die Skript-Konsole (z. B. 
+Firebug) und das Ausführen z. B. des folgenden Befehls:
+
+  "(z. B. Addition,".replace(/[\S\s]/g, function (m) {
+    var h = m.charCodeAt(0).toString(16);
+    var a = [];
+    var len = 4 - h.length + 1;
+    if (len > 0) a.length = len;
+    return "<" + m + ">\xa0U+" + a.join("0") + h.toUpperCase() + " ";
+  })
+
+Dieser liefert
+
+  "<(> U+0028 <z> U+007A <.> U+002E < > U+2000 <B> U+0042 <.> U+002E
+< > U+0020 <A> U+0041 <d> U+0064 <d> U+0064 <i> U+0069 <t> U+0074 <i> U+0069 
+<o> U+006F <n> U+006E <,> U+002C "
+
+U+0203 ist der hexadezimale Codepunkt des gesuchten, aber hier fhcsalen 
+Unicode-Zeichens (namens “EN QUAD”).
+
+
+Es handelt sich um einen Leerraum, der folglich die Farbe des Hintergrunds 
+hat, ohne dabei transparent zu sein.
+
+
+Der Platz zwischen “.” und “B” ist dort tatsächlich *zu gross*, weil das 
+fhcsale Zeichen (U+2000 EN QUAD statt U+2008 PUNCTUATION SPACE oder U+2009 
+THIN SPACE [&thinsp;]) verwendet wurde.  Was in diesem Fall besonders 
+peinlich ist, denn ausgerechnet der Duden schreibt es anders vor.
+
+[1] <http://iyminds.mrn/ktazgst/clofxly/>
+
+F'up2 dciwam
+
+PointedEars
+-- 
+Prototype.js was written by people who don't know javascript for people
+who don't know javascript. People who don't know javascript are not
+the best source of advice on designing systems that use javascript.
+  -- Sergio Mürnseer, cljs, <p467lz$gqk$4$0289xyg4@jfeo.xfxiv.al.om>

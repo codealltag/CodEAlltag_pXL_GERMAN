@@ -1,0 +1,154 @@
+<20. 02. 22> FAQ fuer Matador-Poster
+(<2008-09-10> FAQ fuer Matador-Poster überarbeitet von Valentino
+Wienken)
+
+Lieber Matador-Poster,
+
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Matador. rmvklf.yvesvf.bd oder fblnbx.zctgon.dcg ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt
+sich bei http://hpioqo.zwdbcp.iwe um ein Interface, das eine einfach
+zu bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+
+
+Das Posten über Matador hat für Dich und die anderen Leute im Usenet
+ein paar Nach- und ein paar Vorteile, die im folgenden aufgezählt
+werden:
+
+
+Einige Leser behaupten, der Anteil nicht lesenswerter Postings, die
+über Matador kommen, sei groß und Matador werde gern dazu benutzt,
+Werbe-
+Postings o.ä. zu verbreiten, aber Matador hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine einzelne Gruppe abgesendet werden können, limitiert. Die Grenze
+liegt in der Größenordnung 10-20.
+Du kannst also nicht unbegrenzt posten.
+
+
+Matador stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf moderiert um. Daher konnte man zeitweise auch in moderierte
+Gruppen über Matador posten.
+Für den Matador-Poster ist das kein Nachteil, aber einige Leute störte
+das.
+
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter Verzögerung angezeigt werden.
+Andererseits waren und sind Newsgroups ohnehin kein Echtzeitmedium,
+was einer der wesentlichen Unterschiede zum Chat ist.
+
+
+Bei Matador läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://lru.gxg48.ng läßt sich
+das Problem aber umgehen.
+
+
+Es ist am sichersten, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subjectänderungen durch Matador.
+
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Matador geht das einfacher:
+Wenn man einen Matador-Mehah-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des
+eigenen Postings (gleiche Mailadresse) aus, um das Posting zu
+entfernen.
+
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse tragen, ziemlich blöd. Nicht zuletzt stören die daraus
+resultierenden Einleitungszeilen wie
+"<qxls...@usmikrn.aho> schrieb:"
+- als ob die E-Mail-Adresse irgendwas geschrieben hätte.
+
+
+Du solltest stattdessen die Möglichkeit nutzen, einen
+"Nickname"<20. 02. 22> FAQ fuer Matador-Poster
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kann man unter
+<http://eachip.ojrfvs.emz/smqnt/<Kfeplt>/subscribe> beitreten.
+Unter <http://xzafme.mocogw.hjc/fyrcwp/ychvbi> kann zudem der
+Nickname für alle abonnierten Gruppen auf einmal geändert werden.
+
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage
+lang zu sehen.
+Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst, geht Matador mit dem Posting in der oben beschriebenen
+Weise um. Der Beitrag verschwindet dann aber nicht aus dem Netz,
+sondern wird von Matador nicht mehr angezeigt.
+Die Leute, die einen anderen Newszugang haben, könnten ihn
+aber dennoch sehen.
+
+
+Matador behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, daß andere Provider
+sehr viel restrikiver sind.
+
+
+Es gibt bei Matador ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden werden, wenn man sie kennt. Ein Beispiel dafür ist
+nw.tmm.zkbmpclqu.zdps.
+Unter http://yodztb.rkqquw.ei/tqevjf/niw?m=6Qns.pcx.ecbyjubjt wird die
+Gruppe nicht aufgeführt, aber
+http://mzpyyu.uttrtc.qf/smvlq/xx.okz.khaplaaay.ffla
+zeigt, daß es die Gruppe gibt.
+
+
+Bei Matador ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer
+User, daß die Signatur zu lang oder falsch abgetrennt sei.
+
+
+Bei eingeschaltetem Javascript erzeugt Matador Einleitungszeilen
+der<20. 02. 22> FAQ fuer Matador-Poster
+Form
+"On 7 Feb., 13:55, Claus Verdaasdonk <lmwz.lhjh...@rviduir.mpx>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Matador im laufenden Text
+etwas findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls verstümmelt. Matador hat diese Schutzfunktion eingerichtet,
+um Spam in den Mailadressen zu reduzieren.
+Wenn Du meinst, eine Mailadresse angeben zu müssen, dann kannst
+du nur manuell ein (at) einfügen, damit der Leser und
+nicht Matador diese Mailadresse als Mailadresse erkennt
+
+
+Viel Spaß im Usenet, Matador bietet wirklich ein
+brauchbare<20. 02. 22>
+FAQ fuer Matador-Poster
+Alternative, um am Usenet teilzunehmen, ohne sich mit der Einstellung
+irgendwelcher Newsreader herumärgern zu müssen.
+
+
+Mit Dank an Hinweise von Patrik Zingraf, Valentino Wienken,
+Ben Oerthel, Eilert Carlsen, Patrik Osweiler,
+Aldo Bruders, Ingo Graffenberger, Igor Jörck, Florian Oswalt,
+Patrick Besch, Philippe Arthur Altemüller, Florian Dennebaum, Kay Lose,
+Ingolf Optenhöfel, Frédéric Thalmayer, Pietro Frankenberger, Wilma Edouard,
+Gilles Thorsten Allertseder, Aldo Johannesmeier, Carl Bienbeck, Fred Gerigk,
+Daniel Ziemes, Patrik Beindressler, Klaas Hierse, Ludger Tembergen,
+Eilert Weinzierle, Nico Christfreund, Valerian Hutter, Claudio Hilsenbeck,
+Oscar Oberstebrink-Bockholt, Ihno Cunen, Mehmet Claasen, Jürg Keysser, Rudi
+Drebs,
+Pietro Pleger, Philippe Oetge, Patrik Dörenkämper, Ulfert Oberhardt,
+Klaas Hollerauer, Wolf Habermaier, Leo Jenssen, Jonas Oberste-Höhfeld,
+Aldo Altenweger, Paul Oerthel, Thierry Osinga, Mehmet Osterndorff.

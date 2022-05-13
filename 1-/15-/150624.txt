@@ -1,0 +1,23 @@
+Oliver . K u s m i e r z *
+
+
+Natürlich tut es das, es übererfüllt sie sogar. 
+
+Ich nehme an, auch in Deinem Fall ist das Geschrieben nicht immer das
+Gemeinte.
+
+Es sind beliebig viele Modelle möglich, um die Anforderungen gerade so
+zu erfüllen. Eine einfache wäre zum Beispiel, im Fall, daß ein
+Geschlecht unterrepräsentiert ist (also <1/3), die Stimmenzahl der
+Kandidaten dieses Geschlechts mit dem minimalen Boostfaktor zu
+multiplizieren, der die Quote gewährleistet (wenn einen die
+Reihenfolge interessiert, sonst kann man auch einfach die letzten n
+des starken Geschlechts durch die obersten n nichtgewählten des
+schwachen Geschlechts ersetzen). Was sinnvoll ist, hängt auch von den
+Details des Wahlvorgangs ab.
+
+-- 
+Klonen von Zeitmessern von hoechster Qualitaet.
+Wozu zahlen tausende Euro fuer Edel chronometer brand, 
+wenn alles was Sie brauchen ist Reputation von dem Brand.
+  Spampoesie

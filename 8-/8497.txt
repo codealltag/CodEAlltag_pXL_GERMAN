@@ -1,0 +1,4 @@
+Es gibt z.B. "one-time-pads", wo der Schlüssel ebensolang ist, wie die 
+Nachricht selber.
+
+Viele Größe von Walter

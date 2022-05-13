@@ -1,0 +1,7 @@
+Anders ausgedrückt: es gibt durchaus das Jahr 0 und Jahre mit negativer 
+Jahreszahl, nur ist es üblich, für das Jahr -x (mit x = 0, 1, 2, ...) die 
+Bezeichnung "x+1 v.Chr." (oder "x+1 v.u.Z." oder anderes politisch 
+Korrektes) zu verwenden.
+
+-- 
+Cornelius Storjohann

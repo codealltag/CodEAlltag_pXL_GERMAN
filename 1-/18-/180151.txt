@@ -1,0 +1,24 @@
+Im technischen Sprachgebrauch ist der Ruck die Änderung der
+Beschleunigung. Der Begriff ist gut gewählt, den eine Änderung der
+Beschleunigung ist unmittelbar erfahrbar.
+
+  Während eine konstante Geschwindigkeit oder eine konstante
+Beschleunigung im Innern eines Fahrzeugs als angenehm empfunden
+wird --man könnte in beiden Fällen erfolgreich ein Kartenhaus bauen,
+muss dazu allerdings im Falle der konstanten Beschleunigung die
+Tischplatte schräg stellen-- wird die Änderung der Beschleunigung
+als unangenehm, weil ruckartig erlebt. Ein Kartenhaus fiele bei
+einem Anstieg des Ruck(-betrag)s zusammen.
+
+  Konkret erfahrbar ist der Ruck beim Halten eines Zuges. Er tritt
+in dem kurzen Augenblick auf, bevor der Zug endgültig hält und
+sich die konstant gehaltene Bremsverzögerung (entspricht einer
+konstanten negativen Beschleunigung) schlagartig ändert.
+
+  Konstanten Ruck grösser Null über eine längere Zeitspanne,
+versucht man bei Beförderungsmitteln zu vermeiden, da dies als
+sehr unangenehm empfunden wird. (Man muss in einem solchen Fall,
+um gerade zu stehen, langsam nach vorne oder hinten kippen)
+
+Gruss
+Nico

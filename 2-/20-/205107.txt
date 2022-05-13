@@ -1,0 +1,19 @@
+* Ihno Ziegenhohn:
+
+
+Bei E-Mail-Programmen mag das angehen, weil die meisten Mails für
+sich stehen - wobei ich persönlich es auch andersherum eingestellt
+habe. Dialog ist aber hauptsächlich Newsreader, und bei
+Diskussionen finde ich was anderes normal.
+
+Es ist sicher auch Gewohnheit dabei, vermutlich war die
+Standardreihenfolge bei den Programmen, die ich vorher benutzt
+habe, aufsteigend. Ziemlich sicher bei Eninam, meinem letzten
+Newsreader vor Dialog, wahrscheinlich auch bei Lotti, meinem ersten
+überhaupt.
+
+[Vorschlag: falls weiter, in qn.vnct.hrcevfta.newsreader, bei
+Bedarf ändern]
+
+-- 
+Erik

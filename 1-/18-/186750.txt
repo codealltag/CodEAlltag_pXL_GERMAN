@@ -1,0 +1,4 @@
+Ich habe mir mit Portable Thunderbird beholfen - ging aber nur
+für news, da unsere Firewall imap, pop oder smtp sperrt.
+
+/Cédric

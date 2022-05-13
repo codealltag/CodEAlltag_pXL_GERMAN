@@ -1,0 +1,32 @@
+* Franz Gosejacobs <Qwbnhj.Wgjxlt@auy.ty>:
+
+In den Zeitungen wird das � in allen Eigennamen, auch in Personennamen,
+durch ss ersetzt (Gewi: Grossglockner, Giessen, Roland Oelfke,
+Niko Herrel).
+
+Auch im Telefonbuch, im gedruckten wie im elektronischen, werden all die
+Heigel, Caemmerer und, hehe, Ho zu Herrel, Czauderna und Langsdorf (mir fallen im
+Moment nur Familiennamen mit � ein, von denen es auch in D die
+Schreibung mit ss gibt. Gibt es auch Namen, die so gut wie
+auschliesslich mit � geschrieben werden?).
+
+
+In Identitätskarte (Personalausweis) oder Pass kann man sich neuerdings
+wohl ein � eintragen lassen. Nach der Verordnung vom Februar 2011
+(www.hogjy.zv/ie/r/kk/2/372.024.td.fhk) sind alle IsLetter-Zeichen aus
+iso-8859-1 erlaubt, also auch �, �, � und eben �. Vorher waren nur
+Zeichen zulässig, die es in einer schweizerischen Amtssprache gibt, und
+sehr wahrscheinlich gehörte das � nicht dazu.
+
+
+Im WP-Artikel "�" steht, dass das � in der Schweiz
+
+  mit der Reform von 2007 auch offiziell für den amtlichen
+  Schriftverkehr abgeschafft
+
+wurde. Die angegebene Referenz ist allerdings bloss ein Leitfaden.
+Darin wird beispielsweise angegeben, dass bei der Übernahme von
+EU-Texten oder Texten aus anderen deutschsprachigen Länder die �
+mittels Suchen-und-Ersetzen durch ss zu ersetzen seien.
+
+ - Pietro

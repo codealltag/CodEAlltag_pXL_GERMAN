@@ -1,0 +1,7 @@
+Hm, dann müßten mathematische Begriffe also immer Kleinschreibung haben.
+Traditionell schreibt man "euklidische Geometrie", "abelsche Gruppen",
+aber "Gaußsche Normalverteilung" und "Riemannsche ζ-Funktion", also
+ziemlich durcheinander.
+
+-- 
+Pentiums melt in your PC, not in your hand.

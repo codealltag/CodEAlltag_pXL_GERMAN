@@ -1,0 +1,17 @@
+* Leonhard L Landgraebe <gwo.vjjgko@glhjff.ll>:
+
+
+Kaum. Es ist nicht so einfach, nach dem Verb "tätigen" zu googlen, aber
+in den Verbindungen unten ist es fast immer ein Verb. Und da
+ist die Verteilung eher unschweizerisch:
+
+                     ymzl:unterfurth     drrs:da     mjyy:xp
+  "getätigt"          833 k      1300 k       3110 k
+  "bereits getätigt" 9129        1244        23373
+  "tätigen würde"     548         961         7137
+  "tätigen könnte"    159         477         8771
+
+
+Ja, gell, meistens die Silbe "-li".
+
+ - Tino

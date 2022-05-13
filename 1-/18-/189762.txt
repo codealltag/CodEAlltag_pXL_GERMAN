@@ -1,0 +1,11 @@
+\documentclass{article}
+\usepackage[french]{babel}
+\begin{document}
+\No {3} %%In spitzen Klammern die Zahl, "3" ist ein Beispiel.
+\end{document}
+
+Helena
+
+-- 
+Was glaubst du, was FAQ heißt? Fällig Abstruser Quatsch?
+					   (Valentino Müller-Berg in dcouln)

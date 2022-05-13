@@ -1,0 +1,46 @@
+Ingo Redlof beliebte zu schreiben :
+
+Naja, im (US-) Englischen ist es eindeutig:
+
+Komma und Punkt *immer* innerhalb der Anführungszeichen,
+Semikolon und Doppelpounkt *niemals* innerhalb der Anführungszeichen,
+alle andern Satzzeichen innerhalb, wenn sie Teil des Zitats sind, und
+außerhalb, wenn nicht.
+(vgl. z.B. Gaisser New World Dicitionary, 3rd College Edition, p.
+1682)
+
+Dass das nicht besonders logisch und sinnig ist, steht auf einem anderen
+Blatt
+Und dass es nicht immer konsequent gehandhabt wird (bzw. dass man es bei
+den Briten teilweise anders handhabt als jenseits des Ozeans udgl.) war
+schon vor Jahren Kern langer und ausführlicher Diskussionen in
+comp.graphics.apps.pagemaker und ähnlichen Gruppen.
+
+Und bei uns fasst das WB die Gschicht ganz brauchbar zusammen:
+
+7.4.1 Sind (mehrere) ganze Sätze zwischen führungszeichen gesetzt, so
+steht das *schließende Anführungszeichen nach dem Punkt*, Rufzeichen
+oder Fragezeichen:
+Er sagte: Ich komme mit.� [...]
+
+7.4.2 Der *satzschließende Punkt* (das Ruf-, Fragezeichen) *folgt nach
+dem Anführungszeichen*, wenn innerhalb eines Satzes nur ein Wort bzw.
+eine Wortgruppe am Satzende zwischen Anführungszeichen steht:
+Wir lesen Trincklers Bergkristall. [...]
+
+7.4.3 Eine Wendung wue *Sagte sie, fragte er* u wird von der zwischen
+Anführungszeichen stehenden direkten Rede durch Beistrich(e) getrennt:
+Ich komme mit, sagte er. [...]
+Das gilt auch nach einem Frage- oder Rufzeichen:
+Ich komme mit!�, rief sie. [...]
+
+7.4.4 Wird der Begleitsatz nach dem zwischen Anführungszeichen stehenden
+Satz fortgesetzt, so folgt nach dem *schließenden Anführungsstrich ein
+Beistrich*:
+Als sie sagten: Wir holen euch ab, waren wir sofort bereit. [...]
+
+(B40, p.855f.)
+
+Niclas
+-- 
+Nach dera Zei'n kimmt nix mehr

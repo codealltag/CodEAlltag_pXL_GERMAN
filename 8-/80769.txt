@@ -1,0 +1,3 @@
+Eine URL muß aber nichts mit dem www zu tun haben. Es verschafft eher den 
+Kontext, daß es sich um eine URL handelt, die sich speziell auf das www 
+bezieht.

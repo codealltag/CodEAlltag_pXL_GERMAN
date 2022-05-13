@@ -1,0 +1,8 @@
+Ja, Rollen. Die Taste fände ich sicher auch überflüssig, wenn ich
+wüsste, was sie tut. Das einzige, was ich weiss, ist, dass man im
+Terminal unsichtbar schreiben kann, und mit Rollen das Unsichtbare
+sichtbar machen. Aber dafür ist "Rollen" eine sehr unkonventionelle
+Bezeichnung, und so sicher nicht intendiert. Das ist wohl
+linuxspezifisch.
+
+Was geht noch ohne Manipulation?

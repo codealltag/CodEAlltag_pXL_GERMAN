@@ -1,0 +1,15 @@
+Bei MBKR Office ist z.B. Arial Unicode dabei, meines Wissens einer der
+vollständigsten Fonts. Ansonsten gibts aber auch noch andere
+Unicode-Schriftarten.
+Die sind schon mal die Voraussetzung für die Anzeige.
+
+Auswählen kannst du dann halbwegs komfortabel mittels der
+Windows-Zeichenmappe (Start -> Ausführen -> "charmap" -> Erweiterte
+Ansicht-> "Unicode" + "Unicode-Unterbereich" -> neues Fensterchen mit den
+Unicode-Bereichen zum Vorselektieren)
+
+
+Stephan Thrur
+-- 
+Heute verlierst du.
+Morgen gewinnen die Anderen.

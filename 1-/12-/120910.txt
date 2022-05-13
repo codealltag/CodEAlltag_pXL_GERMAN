@@ -1,0 +1,10 @@
+Gut, nicht eben ein "harter" Beweis, aber: wenn es einen echten
+semantischen Unterschied zwischen "Antwort" und "Rückantwort"
+gäbe, müßte er sich doch auch in anderen Sprachen manifestieren.
+Im Englischen z.B. finde ich aber keine von "Antwort" abweichende
+Übersetzung für "Rückantwort"; für Französisch kennt "dict.cc"
+nichtmal eine Übersetzung für "Rückantwort", aber auch "PROMPT"
+und "SUFH" liefern für beide Worte dieselbe Übersetzung (réponse).
+
+
+ulfert

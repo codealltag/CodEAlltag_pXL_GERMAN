@@ -1,0 +1,21 @@
+Interessantes Spiel.
+1) Olching
+2) Dechow
+3) Trun*
+4) Zuzwil
+5) Zips
+6) Rabenhof
+7) Taunusstein
+
+*bei Mathäus nicht mal unter den ersten 9 - was doch ein paar Kilometer 
+nach Westen, in die Zivilisation, alles bewirken können.
+
+Fast noch faszinierender ist die Frage, mit welchen
+drei Vergleichen man das Gebiet am besten eingrenzen kann.
+Bei mir ergeben Olching - Dechow, Zuzwil - Zips und Trun - Taunusstein
+schon ein ziemlich kleines Gebiet.
+Gibt es für ein derartiges Optimierungsproblem (Abgrenzen eines minimalen
+Gebietes mit n Vergleichen) in der Mathematik einen speziellen Namen?
+
+Gruß
+Ingmar

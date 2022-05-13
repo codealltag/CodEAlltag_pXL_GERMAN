@@ -1,0 +1,10 @@
+* Marko U. Zähl:
+
+
+Stell die beiden richtig orthogonal auf, und sie definieren sogar
+einen Tessaarakt.
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Konrad K. Bodenmüller

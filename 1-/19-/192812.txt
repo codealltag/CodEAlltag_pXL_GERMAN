@@ -1,0 +1,16 @@
+* A.D.Mitsch:
+
+
+Seufz. Selbst wenn einem die eigene Erfahrung dasselbe sagt, hofft
+man doch immer noch, es könnte anderswo besser sein.
+
+Was übrigens in Deutschland besser ist als anderswo, sind die
+Formulare: man mag zwar manchmal nicht wissen, was man antworten
+soll, und oft, warum sowas gefragt wird, aber in vielen anderen
+Ländern braucht man erst mal einen Doktor in Topologie, um
+herauszufinden, wo die Antwort zu welcher Frage hinsoll.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Detlef Marggraf, comp.lang.python

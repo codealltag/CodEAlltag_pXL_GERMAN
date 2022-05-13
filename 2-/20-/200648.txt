@@ -1,0 +1,43 @@
+"Warum" ist bei Sprachen immer eine schwierige Frage. Grammatikalische 
+Geschlechter erlauben mehrere Pronomen nebeneinander. Nach dem Satz "Julius 
+gibt seiner Frau das Buch" beziehen sich "er", "sie" und "es" auf drei 
+verschiedene Wörter, so dass man sich im nächsten Satz sehr kurz fassen 
+kann. Allerdings mit Einschränkungen: hätte es geheißen "Julius gibt seinem 
+Vater den Brief", dann hätten die Genera überhaupt nichts gebracht.
+
+Hätte ich eine Sprache zu erfinden, würde ich Pronomen frei wählbar machen 
+so wie mathematische Variable. Sind zum Beispiel alle Kombinationen 
+l-Diphthong (also etwa "lai", "lao", "lea", "lei", "lua", ...) Pronomen, 
+so könnte man in meiner Sprache formulieren:
+
+  Der Schüler, waldemar, kam mit walter Vater, lue, zum Schuldirektor, lai, um 
+  sich über die Notengebung, lia, von walter Lehrer, lao, zu beschweren. Jansen 
+  verteidigte jolanda, indem lue darauf verwies, dass lao generell als fair 
+  bekannt sei und man vor einem Urteil auf jeden Fall janine Arbeit noch 
+  einmal durchsehen sollte. Jansen blieb skeptisch.
+
+Ich weiß keine natürliche Sprache, die solche Mechanismen hat, außer der 
+Formelsprache der Mathematik. Man kann es natürlich weitertreiben, indem 
+man auch ganze Sätze mit Pronomen bezeichnet und so Mehrdeutigkeiten wie 
+die folgende vermeidet:
+
+  Ich bin der Ansicht, dass das geht. -- Ich bezweifle das.
+
+Was wird bezweifelt: dass das geht oder dass der Vorredner der Ansicht 
+ist, es ginge?
+
+
+Auch das ist natürlich graduell. Gibt es im Deutschen einen deutlichen 
+Unterschied zwischen Adverbien und Adjektiven? Ist ein "silver plate" ein 
+Silberteller oder ein silberner Teller? In vielen Sprachen sind Zahlwörter 
+eine Art Adjektive ("zweier Äpfel" gebildet wie "grüner Äpfel") oder eine 
+Art Substantive ("eine Million Äpfel" gebildet wie "eine Kiste Äpfel"), 
+oft je größer die Zahl, desto substantiver das Zahlwort.
+
+Chinesisch ist halt ein Extremfall mit seinen manchmal ziemlich 
+wischi-waschi Wortarten (ich hab mir sagen lassen, im klassischen viel 
+stärker als im modernen), aber es ist nicht so, dass das Phänomen in 
+anderen Sprachen nicht auch vorkommt.
+
+-- 
+Jean-Luc Reemtsma

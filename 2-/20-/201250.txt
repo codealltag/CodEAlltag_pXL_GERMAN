@@ -1,0 +1,17 @@
+* Alessandro Ruchöft:
+
+
+Wenn sie überhaupt geschrieben werden. Beides ein Hinweis darauf,
+daß sie keine Vollmitglieder des Alphabets sind.
+
+Eigentlich haben sie am Ende nichts zu suchen, denn wenn man in
+einer Sortierung das � hinter dem Z anordnet, findet das im
+deutschsprachigen Raum keiner. Im Unterschied zu z.B. Finnisch und
+Schwedisch, wo das so normal ist.
+
+In Datenbanken z.B. wird oft neben einem Zeichensatz auch eine
+Sortierung festgelegt, und man hat da viiiel Auswahl.
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use
+the 'Net and he won't bother you for weeks.

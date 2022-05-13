@@ -1,0 +1,9 @@
+Ich auch. Im Druck denkt man vielleicht ja vorher mal nach, was man
+später noch so braucht. Hanschriftlich an der Tafel kommt man eher
+schon mal in die Verlegenheit, den vorschnell eingeführten konstanten
+Verschiebvektor mit \vec a zu bezeichnen und dann spuater festzustellen,
+dass man den ja eigentlich für die Beschleunigung gebraucht hätte...
+
+
+-- 
+Space - The final frontier

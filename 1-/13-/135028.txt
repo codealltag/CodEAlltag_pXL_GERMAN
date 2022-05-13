@@ -1,0 +1,13 @@
+Ist IMHO im Wesentlich Gewöhnungssache.
+
+
+das ist definitiv so. Daraus abzuleiten, dass HEK per se sicherer sei,
+wäre allerdings albern.
+
+Bye
+
+  thierry
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Knödel)

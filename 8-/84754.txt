@@ -1,0 +1,8 @@
+"Ersetze '/nicht/' durch gar nichts". 
+
+Die "/" um das "nicht" müssen mittels "\" maskiert werden, damit der
+woffiohrengleiche Computer die nicht mit den "/" durcheinanderwirft, 
+die den Ausdruck strukturieren.
+
+
+vG

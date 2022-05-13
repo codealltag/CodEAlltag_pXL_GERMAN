@@ -1,0 +1,11 @@
+Es hat sogar eine ganze /Menge/ mit Windows zu tun: Word (und Office)
+läuft ja nicht *unter* Windows, sondern ist *Teil* des APIs und damit
+des Systems -- nur daß MS diese Schnittstellen nicht dokumentiert,
+was letztlich die Kartellbehörden auf den Plan gerufen hat; gut, nicht
+nur deswegen, es ging z.B. auch um IE, Formate und Protokolle.
+
+Egal -- der Punkt ist, daß Word/Office und Win32/64 nicht zu trennen
+sind (NB: die Perschen-Variante war/ist eine komplett eigene Version!).
+
+
+tobias

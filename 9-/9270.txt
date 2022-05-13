@@ -1,0 +1,7 @@
+Vielleicht wäre es hilfreicher, nicht eine alles umfassende
+Oberdefinition zu suchen, sondern den Begriffen "analog" und "digital"
+mehrere verwandte Unterbedeutungen zuzugestehen, die zum einen
+Uhren, zum anderen Signale abdecken.
+
+-- 
+Oskar "ottilia" Terweide                          ebhna@inif.hsuo.rk

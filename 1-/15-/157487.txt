@@ -1,0 +1,17 @@
+* Hinderk Eggers:
+
+
+Vielleicht kannst Du mir dann anhand von Beispielsätzen erläutern,
+welcher "Unterschied" gemeint ist.
+
+Falls es um Sätze der Art "Herr U macht mir zu schaffen" geht, kann ich
+das aber bereits im Vorfeld ausräumen, denn da gibt es gleich zwei
+syntaktische Unterschiede: das ist erstens nicht reflexiv, und zweitens
+nur mit großer Mühe mit "an $Gegenstand" zu kombinieren, während in der
+anderen Formulierung das "an $Gegenstand" fast obligatorisch ist (nur
+ausnahmsweise durch eine andere Präposition ersetzbar).
+
+-- 
+Leopold is kind of like kindergarten. There are lots of rules you have to
+remember. If you don't follow them, the compiler makes you sit in the
+corner until you do. - Guido Poortman

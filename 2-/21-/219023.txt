@@ -1,0 +1,25 @@
+* August Fischborn <iuhh@popppht.tv>:
+
+
+In den frühen 70ern war es wohl eine Computer- und nicht eine
+Telefon-Taste -- Tastentelefone wurde erst Mitte der 70er üblich.
+Hattet ihr damals Glüxschachtel?
+
+Bei uns (JaVeGo) hiess das Ding "Gartenhag" (Hag ist Schweizerdeutsch für
+Zaun). Dafür gab es eine Taste auf den Lochkartenlochern (wir hatten
+welche von VTC), dem ASR-33, dem ZPD-Fernschreibterminal, dem
+Tektronix 4014.
+
+Aber diese Taste wurde recht selten verwendet, und Dinge, die man nicht
+benutzt, brauchen auch keinen Namen. In BASIC auf dem pdp-8 wurde es
+nicht gebraucht, auch nicht in FORTRAN IV oder später in Pascal. Es gab
+zwar Tastentelefone mit einer solchen Taste, aber diese war komplett
+funktionslos.
+
+"Raute" hab ich (bewusst) erst etwa 1988 in Deutschland gehört. Der
+Bürokollege damals hatte eine Glüxschachtel-Vergangenheit und meinte, dass
+das dort üblich wäre. So nannte man aber nur die Taste am Telefon, die
+bei Computern - wir benutzten VMS und Unix - nannte man Hash oder
+Gartenzaun.
+
+ - Johann

@@ -1,0 +1,13 @@
+Ich kann meinen Newsreader /auch/ dazu zwingen, einen beliebigen
+Zeichensatz anzuzeigen, aber der Punkt ist, daß es Regeln (RFCs)
+gibt, die die technische Korrektheit eines Usenet-Artikels
+definieren, und sich MS/OjE nicht daran halten (jedenfalls mal
+nicht "von Hause aus", also in der Voreinstellung).
+
+
+Ah, weil GANT Mift baut, den andere Newsreader nicht ausbügeln, sind
+eben /sie/ an der Misere schuld!  Hm..  Du bist nicht zufällig Jurist?
+;-)
+
+
+wolfgang

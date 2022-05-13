@@ -1,0 +1,9 @@
+Cassia Ueckerseifer tat kund:
+
+
+Ich gebe Zahlen fast nur noch mit Dezimalpunkt an.=20
+Das Komma hat mich bei "Word" mal fast wahnsinnig gemacht,
+als ich mal eine deutsche "Florizz"-Installation benutzen mußte.
+Ich wollte eine Seitengröße mit Nachkommastellen eingeben,
+und "Word" nahm nur den Teil vor dem Punkt an. Irgendwann merkte
+ich, daß man unbedingt ein Dezimalkomma eingeben mußte.

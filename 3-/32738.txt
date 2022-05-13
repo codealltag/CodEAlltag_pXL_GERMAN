@@ -1,0 +1,11 @@
+* Rainer Timmerhans tat kund und zu wissen:
+
+
+Mit dem Begriff "fester Speicher" würde zumindest ich nicht verstehen,
+was damit gemeint ist. "Physikalischer Speicher" oder schlicht und
+einfach "RAM" sind wohl die gängigsten Begriffe. Wenn's denn unbedingt
+originär deutsch sein muss, würde ich vielleicht so etwas wie
+"tatsächlich vorhandener Speicher" sagen.
+
+Gruß,
+Kai

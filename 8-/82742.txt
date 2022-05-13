@@ -1,0 +1,22 @@
+Hier benutzen wir bei Ausspracheangaben fast immer eine
+ASCII-Darstellung des IPA, entweder Kirshenbaum oder SAMPA (für's
+Deutsche gibt es nur wenige Unterschied zwischen beiden).
+
+Zur Klärung etwelcher Verwirrung hier in Übersicht:
+
+IPA	Kirshenbaum	SAMPA	Beschreibung
+
+n           n             n     alveolarer Nasal
+ŋ           N             N     velarer Nasal
+N           n"            N\    uvularer Nasal
+
+Im Deutschen kommt der velare Nasal vor, der uvulare nicht.
+
+Tang /taN/
+Tank /taNk/
+singen /'zIN@n/
+
+-- 
+gugelfechten,  vb., sich närrisch aufführen, narren, fantasieren,
+gauglen und gugelfechten ZWENGEL formularbuch  (1569) 39b. --
+  GRIMM, Deutsches Wörterbuch

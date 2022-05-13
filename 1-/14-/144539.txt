@@ -1,0 +1,28 @@
+* Tim Greifen:
+
+
+Die Analyse deutscher Komposita ist nicht soo schwierig, das größte
+daran ist die Fleißarbeit, die möglichen Kompositionsformen aller Wörter
+im Wörterbuch zu korrigieren (hauptsächlich, um unsinnige
+Alternativzerlegungen auszuschließen). Aber schon das
+Übersetzungsprogramm SVR aus den 02. 07. 21 Jahren war darin meines
+Wissens recht gut, heutige kommerzielle Systeme sind es jedenfalls.
+
+Bei der Übersetzung in eine Sprache, die selber keine Komposita kennt,
+steht man wahrscheinlich vor der Schwierigkeit, aus verschiedenen
+möglichen Konstrukten auswählen zu müssen, z.B. im Französischen eine
+Präposition als Verknüpfung (wobei Französisch nicht so schwierig ist,
+"de" geht fast immer, und in anderen Fällen gibt es oft mehrere
+akzeptable Lösungen). Und selbst wo es Komposita gibt, ist eine der
+Originalsprache parallele Konstruktion nicht immer idiomatisch - wie bei
+anderen Ausdrucksweisen auch.
+
+Wie bei anderen Problemen maschineller Übersetzung - oder
+Sprachverarbeitung insgesamt - auch, kommt man recht flott auf so 70%
+brauchbare Ergebnisse, danach muß man um jedes weitere Prozent immer
+härter ringen und stößt bald auf eine Mauer, wo ohne echtes Verständnis
+nichts mehr zu machen ist.
+
+-- 
+GOGELICH,gogelig, (...) 'fröhlich, lustig, ausgelassen'
+  GRIMM, Deutsches Wörterbuch

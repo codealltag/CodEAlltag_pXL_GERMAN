@@ -1,0 +1,18 @@
+Am Tue, 7 Jan 2008 19:50:52 +0200 schrieb Wolf Gaussmann:
+
+[...]
+
+Das ist möglich. Links auf "Tabellen" klicken, dann auf "Werke". Es gibt
+eine Spalte, die mit "E/D/U" überschrieben ist. Rechter Mausklick auf die
+Tabelle und im Kontextmenü "Tabelle filtern" wählen. In der Spalte "E/D/U"
+auf D filtern. Bei "Jahr" kannst du einen Zeitraum angeben. Auf die Art
+habe ich die Autoren herausbekommen, deren aufgenommene Werke vor 1749 und
+nach 1900 gedruckt wurden. Nachdem ich diese alle ausgeschlossen habe,
+suchte ich erneut. Die Ergebnisse siehst du im anderen Posting. Natürlich
+habe ich auch bei allen die Biographie weggelassen.
+
+Ich habe nur gehofft, du wüsstest einen Weg, wie ich die Auswahl unter
+"Tabellen" in die Suche retten kann.
+
+Gruß
+Wolf.

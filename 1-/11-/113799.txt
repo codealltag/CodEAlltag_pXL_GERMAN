@@ -1,0 +1,36 @@
+Tja, diese Frage habe ich mir einerseits auch schon ein paar mal 
+gestellt, denn ich bin im Moment mitverantwortlich für das weltweite 
+Deployment unserer Experimentsoftware. Andererseits sind alle Talks 
+(Kurzvorträge?) über dieses Thema sowieso immer auf Englisch, sodass ich 
+mir dann doch wieder weniger Gedanken gemacht habe.
+
+"Software einführen" - passt nicht, denn wir deployen etwa ein bis zwei 
+mal pro Woche, manchmal aber sogar mehrmals täglich, neue Versionen 
+unserer Software. "Wir führen jetzt in unserer Firma Scientific Linux 5 
+ein", "Wir führen Windows 7 ein" - dann würde es passen.
+
+"live schalten" - passt schon gar nicht. Das hört sich ja so an, als 
+könne ich einfach irgendwas umschalten und schon wäre die Software 
+verfügbar.
+
+"Schulung der Anwender" - haha! Das ginge gar nicht bei der 
+Update-Frequenz, der Größe unserer Software - und vor allem ginge es 
+nicht, weil wir weltweit verteilt arbeiten. Schulung ist etwas anderes 
+als Deployment und gehört meiner Meinung nach nicht dazu. Vor allem 
+finden Schulungen auch immer am jeweiligen Standort (oder zumindest im 
+jeweiligen Land) statt und beziehen sich immer auf ein bestimmtes Thema, 
+während das Deployment einmal zentral durchgeführt wird.
+
+"ausrollen" - ich kann Valentin Argumenten nicht so ganz zustimmen, aber 
+ich würde dieses Wort auch nicht verwenden.
+
+"installieren" passt eigentlich auch relativ gut, aber beschreibt einen 
+einzelnen Installationsprozess. Deployen beschreibt alle nötigen 
+Installationsprozesse auf allen Rechnern, die die Installation 
+benötigen. So mag die einzelne Installation auf einem Rechner vielleicht 
+eine Stunde dauern, das Deployment kann sich aber eine Woche lang 
+hinziehen, weil zum Beispiel ein Rechenzentrum irgendwo in der Welt 
+gerade eine Downtime hat ("gerade nicht verfügbar ist" - jemand eine 
+bessere Übersetzung?).
+
+- Robert

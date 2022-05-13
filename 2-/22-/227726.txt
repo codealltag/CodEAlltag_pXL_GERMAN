@@ -1,0 +1,9 @@
+Ich könnte mir z.B. eine Krawatten-app fürs IPad vorstellen, in der man im
+split screen in der einen Halfte ein "Soll-Video" und in der anderen Hälfte
+mit Hilfe der Frontkamera ein "Ist-Video" (sozusagen als Spiegel) zeigt, um
+gleichzeitig Soll und Ist vergleichen zu können. Natürlich mit
+einstellbarer Geschwindigkeit und single-step, sprachgesteuert.
+
+Wenn schon Nerd, dann richtig.
+
+/Andre

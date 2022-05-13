@@ -1,0 +1,17 @@
+format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+Dankeschön, WWG.
+
+
+Das Wiktionary meint dazu
+
+
+und:
+
+
+Ob das stimmt weiß ich nicht.
+Gruß
+Ivan

@@ -1,0 +1,15 @@
+Bei mir funktioniert die Anmeldeseite (im Kulturspeicher) schlicht nicht, sie
+geht in eine permanente Schleife zwischen zwei Servern. Einmal blieb die
+Schleife stehen, dann erhielt ich die Meldung "Der Anmeldeserver steht
+leider nicht zur Verfügung". Das könnte ja daran liegen, daß ich
+versuche, aus dem Ausland zuzugreifen. Es könnte aber auch an vielem
+anderen liegen. 
+
+Ah tatsächlich, im IE geht's. Also schlechte Programmierer.
+
+Und die Geschäftsbedingungen kann ich anscheinend erst am Ende des
+Anmeldeprozesses einsehen - also auch schlechte Juristen. Oder gute?
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

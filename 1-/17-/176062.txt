@@ -1,0 +1,13 @@
+Eine reelle Zahl ist in der Binärdarstellung eine Bitkette. Das 
+Datenkompressionsverfahren der Arithmetischen Kodierung besteht im 
+Prinzip darin, die zu komprimierende Nachricht durch eine geschickt 
+gewählte Intervallschachtelung auf der Basis der Textstatistik in eine 
+solche Bitkette zu verwandeln.
+
+Unabhängig davon kann man natürlich durch genaue Einstellung der 
+Raumtemperatur eine Nachricht absetzen, die später jemand mit einem 
+Thermometer lesen kann. (Man muss sich über die Genauigkeit und die 
+Festlegung des Nachrichten-Endes einigen). Je genauer die Temperatur 
+sich einstellen/ablesen lässt, desto längere Nachrichten kann man kodieren.
+
+Pius

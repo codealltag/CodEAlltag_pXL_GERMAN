@@ -1,0 +1,13 @@
+Die autodidaktischen Fertigkeiten waren bei Netscape 4.75 zur
+Markteinführung im Jahr 1999 noch nicht sonderlich ausgeprägt; kein
+Wunder also, dass der das nicht mehr erlernt hat. Die Vorstellung von
+UTF-8 lag da gerade 7 Jahre zurück, und Standard war es noch lange nicht.
+Anachronistisch zu nennen wäre wohl eher das Beharren auf dem Einsatz
+dieses antiken NUAs.
+
+
+Ciao
+Bea
+-- 
+ This is no time to make new enemies.
+ [Voltaire, when asked on his deathbed to forswear Satan]

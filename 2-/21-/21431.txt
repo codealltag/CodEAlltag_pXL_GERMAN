@@ -1,0 +1,38 @@
+Kernsatz: "Geistreiches Blödeln hat sicher
+seinen Reiz, aber eben nur solches."
+
+
+Kein Zweifel.
+
+
+Ganz so fatalistisch sehe ich es nicht.
+
+Natürlich ist es keine Überraschung, daß die von der Kritik
+getroffenen Hunde sogleich pawlowsch Ad-personam-Angriffe
+vor sich hin sabbern. Und daß Daniel Ziehm den Namen,
+nicht aber die Feindbilder gewechselt hat, wundert mich
+jetzt auch nicht gerade.
+
+Wenn aber auch nur einer der übrigen gelernt hat,
+daß es eine "kill subthread"-Funktion gibt, dann
+war es das schon wert.
+
+Sammeln wir mal für die d.e.s.d-"Top UserAgents":
+
+- Weltladen: geht meines Wissens nicht
+
+- Thunderbird (nightly builds): Shift-K
+
+- Outlook Express: geht meines Wissens nicht
+
+- 40tude: Message, Ignore (Taste "i")
+
+- Agent (4.x): Taste "i"
+
+- Xnews: skip down
+
+- slrn: Esc d
+
+- MacSOUP: auto-kill subthread
+
+Vielleicht mag das ja jemand ergänzen oder korrigieren.

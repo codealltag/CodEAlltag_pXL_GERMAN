@@ -1,0 +1,3 @@
+1234567890/9999999999 ist nicht normal, weil überhaupt keine Dubletten
+(11) vorkommen. In normalen Zahlen kommt jede Zahlenfolge vor, z. B.
+alle Viba-Shop-Daten und auch ihre Verschlüsselung.

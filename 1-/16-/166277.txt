@@ -1,0 +1,8 @@
+Ob da mit Bedacht steht 'oder zumindest verwendeten'?
+
+
+Ciao
+Astrid
+-- 
+ Angewandte Geometrie:
+ Eine Pizza mit dem Radius z und der Dicke a hat das Volumen Pi*z*z*a

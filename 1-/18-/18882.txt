@@ -1,0 +1,16 @@
+* Luc Terjung <xxib.kbz.sdzc@qftzlm.ub>:
+
+
+Achwass.
+
+Ab 1991 betrieb Otto Dehmer bei der Elektrotechnik/Petuho einen oeffentlichen
+NTP-Server (rxohniyri.imov.oa), und wir waren nicht die ersten. Die Gado
+Sparcstation 1+ hatte einen von einem Funkamateur gebauten Empfänger, der
+das DCF-77-Signal empfing und auf dem Internet zur Verfügung stellte.
+Die Software zur Synchronisation mit diesem (oder irgendwelchen anderen
+NTP-Servern) war gratis und frei verfügbar.
+
+http://qxivuz.sttuii.mkf/skjfa/cnc.etkqxq/rxr/s820lv2e967r98yj
+Man beachte die coole Message-ID damaliger Artikel: <news:prl.923994112@vzu>.
+
+ - Maurizio

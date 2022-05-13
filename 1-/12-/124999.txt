@@ -1,0 +1,15 @@
+Hm, wie wird das benutzt? Etwa:
+korrumpiert: Loch drin, oder: falsch abgeschrieben,
+unleserlich: Fleck drauf, Sauklaue?
+Wenn das strikt so durchgehalten wird, könnt ichs noch verstehen,
+daß man das unterscheidet, denn bei "unleserlich" bestünde dann
+noch Hoffnung, daß es mal jemand entziffern kann, "korrumpiert"
+hingegen wäre "eindeutig mit Verlusten behaftet".
+Wenn man z.B. alte Handschriften eines Archivs transskribiert,
+könnte eine solche Unterscheidung evt. gebraucht werden.
+
+
+Ja, die "Datenbankkorruption" z.B., die eigentlich nichts anderes
+heißt als "Datenbank zerschossen" oder "Datenbank kaputt", weil
+durch eine Eingabe mit Nebenwirkungen diverse Zeilen
+durcheinandergeraten sind.

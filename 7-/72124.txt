@@ -1,0 +1,23 @@
+Wobei die Optimierung darin besteht, dass der Lisp-Compiler die
+tail-recursion erkennt und automatisch eine Schleife daraus macht ;-).
+
+
+Das ist eigentlich ein noch schlechteres Beispiel, weil hier die
+rekursive Implementierung sehr viel ineffizienter ist als die mittels
+einer Schleife (Schleife ist O(n), rekursiv ist O(1.618^n)). Also ein
+gutes Beispiel, warum man Rekursion vermeiden sollte!
+
+Ein Beispiel, wo der rekursive Algorithmus wirklich sehr einfach und
+elegant ist, ist quicksort:
+
+    1) Nimm irgendein Element der zu sortierenden Liste: m
+    2) Teile den Rest der Elemente in zwei Teillisten: Alle die 
+       kleiner und alle die größer sind als Element m
+    3) Sortiere die beiden Teillisten mit dem gleichen Verfahren
+    4) hänge die Teilliste mit den kleineren Elementen, m und die
+       Teilliste mit den größeren Elementen zusammen.
+
+Das ist ohne Rekursion deutlich komplizierter und überhaupt nicht mehr
+elegant.
+
+	hp

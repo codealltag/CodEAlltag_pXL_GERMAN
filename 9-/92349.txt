@@ -1,0 +1,17 @@
+Ich weiß nicht, wie das heute gelehrt wird. Aber ich habe noch gelernt,
+dass es das 'kleinste gemeinsame Vielfache', das ist was du beschreibst,
+gibt, sowie den 'größten gemeinsamen Teiler (bzw. Nenner)', z.B. für das
+Paar 42 (Teiler: 1, 2, 3, 6, 7, 21) und 48 (1, 2, 3, 4, 6, 8, 12, 24)
+wäre das die 6.
+
+
+Dennoch ist der 'kleinste gemeinsame Nenner' die 1, was als Aussage
+absolut trivial ist, nicht nur im mathematischen Sinne. Vielleicht
+stehen Politiker deswegen drauf.
+
+
+Ciao
+Renée
+-- 
+ Denken Sie immer daran: jetzt sind die guten, alten Zeiten,
+ von denen Sie in zwanzig Jahren schwärmen werden.

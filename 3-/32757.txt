@@ -1,0 +1,7 @@
+Eben. Ein physischer Speicher ist körperlich. Du kannst ihn in die Hand
+nehmen. Bei einem virtuellen Laufwerk geht das nicht.
+
+Jetzt können wir noch raten, wie die englische Übersetzung von
+'physisch' lautet.
+
+Heiner Dickehut

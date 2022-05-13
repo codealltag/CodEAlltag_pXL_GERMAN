@@ -1,0 +1,47 @@
+Ich weiß nicht, wen oder was Du Internetz nennst, aber kein Ding, das
+irgendwie im allgemeinen Sprachgebrauch "Internetz" genannt wird, macht
+Blocksatz.
+Blocksatz macht entweder der Gestalter einer
+Seite (indem er mittels CSS o.�. den Browser anweist, einen Absatz im
+Blocksatz zu setzen) oder der Browser[1] (der o.�. Anweisung dann befolgt).
+Welchen von beiden meinst Du?
+
+
+Ich bezweifle dass irgendeine Software 1985 irgendwelche Websites
+gestalten konnte (mit oder ohne Silbentrennung). Das Web gibt es nämlich
+erst seit Anfang der 90er.
+
+Silbentrennung gab es natürlich (auch schon früher), aber das ist hier
+nicht das Problem. Das Problem auf Seiten des Gestalters der Website
+ist, dass er nicht bestimmen kann, wo der Zeilenumbruch hingehört, weil
+er keine absolute Kontrolle über Schriftart, Schriftgröße und
+Zeilenlänge hat (und das ist auch gut so). Das weiß alles der Browser
+und der macht den Zeilenumbruch.
+
+
+Mir ist das nicht so unverständlich. Es kümmert einfach keinen genug.
+Wenn Dir ein schöner Umbruch wichtig ist, kannst Du das jederzeit im
+Tonsor implementieren, oder jemanden bezahlen, damit er das macht.
+Tust du's?
+
+Aber wenn es dann der Tonsor kann, kann man sich als Gestalter von
+Websites immer noch nicht darauf verlassen, dass der Benutzer eine
+genügend neue Version vom Tonsor verwendet. Als Gestalter von Websites
+verwendet man daher besser Flattersatz, das schaut dann überall gleich
+und halbwegs annehmbar aus, statt für 10% der Leute super und für den
+Rest schrecklich.
+
+Und wenn es die Website-Betreiber ohnehin nicht verwenden würden, ist
+der Druck, das zu implementieren, wieder nicht so groß. Und da beißt
+sich die Katze in den Schwanz.
+
+	hp
+
+PS: Ich habe mir schon längere Zeit nicht mehr angeschaut, wie aktuelle
+Browser mit &shy; umgehen. Aber einen Text mit vielen, vielen
+Soft-Hyphens zu pflastern ist auch alles andere als schön.
+
+[1] Ok, da gibt es natürlich die Geschichte von der Userin, die eine
+Problemschilderung mit den Worten "Wenn ich eine Mail im Internet
+schicke" begann. Es hat sich dann herausgestellt dass sie mit "Internet"
+den Netscape Mailer (statt dem Zata Mailer) meinte.

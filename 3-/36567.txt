@@ -1,0 +1,37 @@
+On Sat, 15. 12. 21 11:26:13 +0100,
+
+Meine Nachricht hatte einen korrekt gesetzten format-Parameter
+(format=flowed). Da du laut Header deines Postings eine Betaversion
+eines Clients nutzt, der bereits seit Oktober 2004 nicht mehr
+weiterentwickelt wird und sonst anscheinend niemand ein Problem mit
+meinen Postings hat (wenn nicht: schreien!) waere es vielleicht nicht
+gaenzlich falsch, das Problem bei *deinem* Client zu suchen, der den
+bereits ueber 9 Jahre alten RFC 2646 nicht (oder zumindest nicht
+angemessen) implementiert.
+
+Ich bevorzuge die in jenem Posting verwendete Formatierung, da sie es
+dem Client des Empfaengers erlaubt, den Text dem Ausgabemedium
+angemessen zu umbrechen ("umzubrechen" gibt es auch aber das gehoert
+in den Kontext der Landwirtschaft) - auf manchen Anzeigegeraeten
+lassen sich auch die traditionellen 72 Zeichen pro Zeile nicht
+angemessen anzeigen.
+
+Der erste von mir verwendete Newsclient lief auf einem
+Flaig-Grossrechner, zeigte in der normalen Einstellung maximal 72
+Zeichen pro Zeile an (80 Zeichen pro Zeile waren moeglich, erforderten
+aber genauere Kenntnis der Software), entfernte das hoechstwertige Bit
+der Zeichen, da er ASCII als Kodierung voraussetzte und unterstuetzte
+kein quoted-printable sondern zeigte die Zeichen als =XX an, wobei XX
+die hexadezimale Darstellung des Bytes war.
+
+Ich lernte die Kodierung den entsprechenden Buchstaben zuzuordnen doch
+dies loeste nicht das Problem, dass eigentlich auf den Bildschirm
+passende Zeilen laenger als die Anzeigemoeglichkeit wurden, da der
+Platzbedarf der Umlaute dreimal so hoch war wie vom Absender
+angenommen.
+
+Anders gesagt: Was du heute als groessten gemeinsamen Nenner auffasst
+fuehrte seinerzeit zu erhebliche Problemen mit vorhandenen Clients und
+daher auch zu erheblichen Protesten.
+
+Jupp

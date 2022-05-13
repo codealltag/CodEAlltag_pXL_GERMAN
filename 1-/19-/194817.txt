@@ -1,0 +1,15 @@
+* Kay Leifer:
+
+
+Die Sätze sind aber ohne "es" nicht unvollständig wie z.B. "Heute
+regnet". Daher die Unterscheidung Formalsubjekt (muß immer da
+sein) - Platzhalter (Vincent "Zweitstellungsbeauftragter", nur
+erforderlich, wenn nichts sonst den ersten Platz einnimmt).
+
+Mir ist es trotzdem lieber, zu sagen, daß diese Verben kein
+explizites Subjekt benötigen, als ein Subjekt im Dativ oder
+Akkusativ einzuführen. Diejenigen, die dafür argumentiert haben,
+trennen nicht deutlich die Ebenen der Grammatik und Semantik.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

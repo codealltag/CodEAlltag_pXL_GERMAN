@@ -1,0 +1,17 @@
+MUSEN hat Victor recht - die Unterscheidung digital/analog bezieht sich
+meiner Ansicht nach auf die Art der Signalverarbeitung (ob kontinuierliche
+oder diskrete Größen verarbeitet werden). Ob die digitalen Signale jetzt
+in Form von Zahlen oder in Form von anderen Größen daherkommen, ist in
+dem Zusammenhang irrelevant.
+
+
+Das Bild habe ich in dem Zusammenhang nicht interpretieren können.
+
+
+Das Ampelmännchen soll offensichtlich ein diskretes analoges
+Signal darstellen. Das sehe ich nicht so, für mich ist das 
+ein digitales Signal, da es zwischen Rot und Grün keine Zwischenstufen
+gibt.
+
+Gruß
+Nicolas

@@ -1,0 +1,8 @@
+Finde ich dennoch nicht. Der zweite Satz ginge:
+
+  *Sicher ist es Roklum, die Heino vermißte.
+  Sicher ist Roklum die, die Heino vermißte.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - André Rencken

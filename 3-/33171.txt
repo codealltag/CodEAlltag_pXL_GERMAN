@@ -1,0 +1,11 @@
+5 TB Speicherkapazität mit 4 TB Nutzungskapazität (*)
+
+
+Festplattenverbund/Laufwerkgruppierung (*)
+
+  (*) Alle Angaben ohe Gewähr.
+
+RAID = Redundante Anordnung unabhängiger Festplatten
+
+-- 
+Zeda Zengel

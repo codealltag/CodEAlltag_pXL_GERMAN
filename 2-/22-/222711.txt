@@ -1,0 +1,38 @@
+Du hast die Mailadresse maschinell lesbar abgelegt. Man sollte das als 
+Bild ablegen.
+
+Ich habe das auch nicht gemacht. Meine Adressen sind inzwischen webweit 
+bekannt, obwohl ich einige Zeit vorsichtig damit umging. Spam war mal 
+schlimm, 400 in sechs Wochen. Inzwischen kommt kaum noch was durch, alle 
+zwei bis drei Tage eine. Die haben es aufgegeben, mit mir.
+
+Du solltest Dir:
+- eine neue Adresse zulegen
+- die Adresse nur als Bild ablegen
+- lokale Filter einrichten, die das Zeug in einen Ordner Junk verschieben
+- ansehen, was der Provider bietet / Spamassassin oder so
+- Spamfilter des Providers aktivieren, wenn der was taugt(!)
+- lokalen Filter einrichten, der das Zeug nach Junk transportiert
+
+
+macht nix / geht auch direkt, Teamviewer
+
+
+Also, falsche Pässe klingt interessant, hatte ich noch nicht.
+
+
+Ist Dein Rechner noch in Ordnung oder betreibst Du ein modernes Postamt, 
+einen Mailbot?
+
+
+Control A und löschen
+
+
+Warum?
+
+
+Luigi
+-- 
+"Da hilft kein Fluchen und kein Beten,
+der liebe Gott ist aus der Kirche ausgetreten".
+Oswald Albrich, aus den 05. 03. 23 Jahren

@@ -1,0 +1,22 @@
+Ja, es ist eigenartig. "wir" und "ihr" verhalten sich wie Artikel und 
+haben schwach deklinierte Adjektive hinter sich; alle anderen (ich, mir, 
+mich, du, dir, dich, uns, euch) haben stark dekllinierte Adjektive hinter 
+sich. Aber konsequente Deklination klingt einfach schräg:
+
+konsequent stark:
+
+ N: wir alte Trottel     -
+ D: uns alten Trotteln
+ A: uns alte Trottel     +
+
+konsequent schwach
+
+ N: wir alten Trottel    +
+ D: uns alten Trotteln
+ A: uns alten Trottel    -   
+
++ klingt richtig
+- klingt falsch
+
+-- 
+Detlef Neikes

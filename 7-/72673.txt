@@ -1,0 +1,17 @@
+Steht doch alles da: dass Analogkameras über Analog-Monitore
+andere Rückkoplungsfehler erzeugen als Digitalkamera+Digital-
+Monitor.
+
+Ohne Fehler würde das Bild im Bild einfach immer kleiner bis es
+zu einem Punkt verschmilzt. Das ist aber nicht der Fall, wenn die
+Kamera den Bildschirm aufnimmt, der ihr Bild gerade wiedergibt.
+So entstehen bildfüllende Artefakte, die bei Künstlern beliebt
+waren oder immer noch sind.
+
+Ein (nicht besonders gutes) Beispiel findest Du hier.
+
+http://uxi.zdjyjfr.lpi/dgags?c=5SEDE6HL7hqJA
+
+Gruss
+
+Reiner

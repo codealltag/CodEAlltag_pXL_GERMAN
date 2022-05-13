@@ -1,0 +1,15 @@
+Selbst ohne das Runterfahren:
+
+Die Wahrscheinlichkeit, dass der Fehler auftritt, ist gering, wenn er bis 
+jetzt nicht aufgetreten ist (kommt auf die Art des Fehlers an), und wenn 
+er trotzdem auftritt, weiß man, wie man ihn behebt. Die Wahrscheinlichkeit,
+dass der Update einen *neuen* Fehler enthält, ist nicht vernachlässigbar, 
+und wenn der dann auftritt, sind die Folgen nicht vorhersagbar.
+
+Irgendwann stimmt die Rechnung nicht mehr, wenn das Betreiben einer 
+Uraltversion selbst ein neues Risiko ist. Trotzdem: Software muss ebenso 
+wie Rindfleisch gut abgehangen sein, bevor sie genießbar ist (und bei 
+beidem kann man das auch übertreiben).
+
+-- 
+Pierre Dombrowski

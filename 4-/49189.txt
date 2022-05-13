@@ -1,0 +1,2 @@
+"Rura Zeitgeist is a tool for easily browsing and finding files on your
+computer"

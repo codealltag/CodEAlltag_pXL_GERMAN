@@ -1,0 +1,11 @@
+[XP d.e.s.d, (& F2) d.a.arnooo]
+
+
+"Wenn die Tini die Tini macht": kann man das einklich
+als behelfsmäßige Rekursionsdefinition durchgehen lassen?
+
+"Rekursion: s. Rekursion" wird nämlich langsam langweilig
+-- und die nächste Anfrage kommt bestimmt!
+
+
+italo

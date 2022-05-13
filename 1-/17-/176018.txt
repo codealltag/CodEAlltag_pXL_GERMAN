@@ -1,0 +1,105 @@
+Ich habe zu einer von mir verfassten Webseite über die Definition von 
+Primzahlen, in welcher zu Beginn das Wort "dumm" vorkommt, darob die 
+Beschwerde eines österreichischen Lesers bekommen. Meine Replik habe ich 
+mir aufgehoben und möchte sie euch nicht vorenthalten. Die doppelten 
+Zitatzeichen rühren daher, dass mir der Brief weitergeleitet wurde. Ich 
+antworte also durchaus auf den Brief selbst, nicht auf ein Zitat:
+
+Date: Mon, 15 Mai 2007 13:11:34 +0100 (CET)
+From: Albert Voppichler <g560586@rcdb.jhi-xbjecmug.xa>
+Subject: Re: dumme Fragen und weiter Dummheiten bei den Primzahlen.
+
+Sehr geehrter Herr ivano,
+
+
+Eine Bemerkung vorweg: was immer unter /tmp steht, ist nicht fertig und 
+wird auch von der Homepage aus nicht thematisch verlinkt. Zum Teil sind es 
+erste Entwürfe, zum Teil sind es Zusammenstellungen, die für irgendeine 
+Diskussion gebraucht wurden und gar nicht Inhalt eines Artikels werden 
+sollten, mir aber dann doch zu schade zum ersatzlosen Wegwerfen waren.
+Insofern wäre verständlich, dass die Qualitätsanforderungen geringer sind
+als bei Beiträgen, die gründlicher überarbeitet wurden.
+
+
+Och, ich habe die Schule eigentlich ohne größere Schäden überlebt,
+auch wenn Sie mir das kaum konzedieren werden.
+
+Was das "dumm" angeht: es kommt genau in einem Kontext vor, nämlich bei der
+Diskussion, ob eine sachlich richtige Definition damit automatisch eine
+inhaltlich weiterführende ist, oder ob es sein kann, dass eine auf den
+ersten Blick weniger aussagekräftige Definition gerade dadurch den Kern der
+Sache besser trifft.
+
+
+Nein, kein Lehrer, kein Pädagoge. Aber auch leuchtende Vorbilder der
+Pädagogik, etwa der Physiklehrer aus dem Film "Feuerzangenbowle", setzen das
+Wort "dumm" in dem von mir intendierten Sinne ein, nämlich um temporär von
+schon bekanntem oder weiterführendem Wissen zu abstrahieren, um so zum im
+Grunde einfacheren Kern vorzustoßen: "Wat is en Dampfmaschin? Da stellen wir
+uns erst mal janz dumm."
+
+
+Die Stelle mit den "dummen Fragen" habe ich jetzt nicht gefunden. 
+
+
+Vielleicht reicht das Material doch nicht ganz für einen fundierten
+tiefenpsychologischen Befund aus. Trotzdem finde ich es rührend, dass Sie
+sich um meine Verfassung so viele Sorgen machen.
+
+
+... und um die der potentiellen Opfer
+
+
+... und aller übrigen Opfer des Schulsystems im Freistaat.
+
+
+Da stimme ich Ihnen voll zu. Es geht gerade *nicht* darum, die
+Sachinformation zu vermitteln. Die steht, was die Primzahlen selbst angeht,
+in vielen Schulbüchern drin, und was die Notwendigkeit einer Unterscheidung
+zwischen "prim", "unzerlegbar", "irreduzibel", "primitiv" und ähnlichen
+fast, aber nicht ganz, gleichbedeutenden Begriffen angeht, in
+Uni-Lehrbüchern über Algebra oder über Zahlentheorie. Was ich dort vermisst
+habe, und weswegen ich den Beitrag geschrieben habe, ist ein Zurücktreten um
+fünf, sechs Schritte von der vollgeschriebenen Tafel mit Definitionen, um
+Fragen zu stellen wie "Wozu machen wir das? Was ist wesentlich? Was ist nur
+Detail? Wo knüpfen wir an längst Bekanntes an? Wo würde uns das längst
+Bekannte auf eine falsche Fährte setzen?" Und dazu muss man eben das
+Bekannte hinter sich lassen und sich "erst mal janz dumm" stellen.
+
+
+Ich fürchte -- und hoffe --, da unterschätzen Sie Ihre Schüler ganz gewaltig.
+Die sind sehr wohl in der Lage, zwischen einem bewusst flapsigen Ton unter
+weitgehender Vermeidung gelehrt klingender Diktion einerseits und
+tatsächlicher Inhaltsleere andererseits zu unterscheiden. Spätestens wenn sie
+für die sieben Beispiele am Ende die Fragen beantworten, was erklecklichen
+Gehirnschmalz erfordert, werden sie merken, dass die Sache trotz der
+Sprache, die der Trivialliteratur entlehnt ist, alles andere als trivial
+ist.
+
+
+Ich kann weder "negative 'pädagogische' Kommentare" noch "Aggresivität"
+entdecken, und es war auch nicht meine Absicht, so etwas darin
+unterzubringen.  Vielmehr war es meine Absicht, durch bewusst banale Sprache
+darzutun, dass die Fragestellungen trotz der vermeintlichen Einfachheit
+faszinierend sein können. Genau das geht nämlich bei wissenschaftlicher
+Sprache gern verloren. Natürlich hätte man beginnen können mit
+
+  Sei S = <M, ·> eine Struktur, bestehend aus einer Menge M und einer
+  zweistelligen assoziativen und kommutativen Operation mit folgenden
+  Eigenschaften: [...] Ein Element von M heiße "prim", wenn gilt: [...]. 
+  Ein Element von M heiße "unzerlegbar", wenn gilt: [...]. Dann gilt:
+  Jedes prime Element ist unzerlegbar.
+
+(Auf diesen Satz lasse ich lieber den Leser selbst kommen. Vielleicht
+braucht ein Schüler eine Woche dafür -- und noch länger dafür, zu bemerken,
+dass die Umkehrung nicht allgemein gilt --, aber die Woche Selberdenken
+wars dann wert.)
+
+Die Sprache wäre eindeutig gewesen und hätte das Wort "dumm" nicht enthalten.
+Die Botschaft wäre gewesen: es ist alles höllisch komplex und nur für
+Mathematik-Esoteriker zugänglich. Aber Artikel in dieser Sprache mit dieser
+Botschaft gibts schon. Meine Botschaft ist das nicht.
+
+Mit besten Grüßen / Best regards
+
+Albert Voppichler

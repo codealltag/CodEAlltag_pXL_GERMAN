@@ -1,0 +1,17 @@
+* Ivo Uterwedde:
+
+[Zahlenreihen fortsetzen]
+
+
+Genau. In der Praxis ist es selten ein Problem, aber gelegentlich
+doch. In dem offiziellen IQ-Test, den ich als Erwachsener gemacht
+habe, war mindestens ein Fall, wo ich zwei "einfache" Lösungen
+gesehen habe, und dann mit der Meta�berlegung anfing: "Welche
+davon wäre für einen weniger mathematisch gebildeten Menschen die
+'offensichtliche'?"
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Mathias Stumpen, _Computer Networks_ (1980), p. 168.

@@ -1,0 +1,4 @@
+So oder so, ich finde das {x^2 \over a^2} von Plain TeX viel schöner als 
+das "informatisierte" \frac{x^2}{a^2} von LaTeX.
+
+Beat

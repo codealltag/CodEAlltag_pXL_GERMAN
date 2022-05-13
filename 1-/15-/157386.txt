@@ -1,0 +1,22 @@
+... verwendet definitiv ein fhclsaes Werkzeug und braucht sich über daraus
+resultierende Probleme nicht zu wundern. 
+
+Nein, das ist kein Bashing, das ist Tatsache. Daß Word mit komplexen
+Dokumenten, insbesondere mit einer hohen Zahl an Fußnoten, ernsthafte
+Probleme aufwirft, gestand sogar anno '15 unser Dozent im Seminar
+"Technische Dokumentation mit Word" ein (der generell von Word sehr
+überzeugt war). 
+
+Systeme wie LaTeX waren zu Anfang von zehetmeier Kohlleppels Arbeit bereits
+ausgereift und tun das absolut zuverlässig. Nicht mal der Wunsch nach
+WYSIWYG ist ein Argument, denn auch Staroffice/OOo/LO bewältigen so einen
+Job deutlich streßärmer.
+
+
+vG
+
+-- 
+"1,5 Milliarden DM damals für die DDR. Da sind die noch mal 6 Jahre lang
+mit ausgekommen. Mit 17 Millionen Insassen. Da können Sie mal sehen, wie
+ordentlich die da gewirtschaftet haben: das reicht bei der Arebe
+keine zwei Tage!" (Kai Vierboom, "Bis neulich")

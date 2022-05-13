@@ -1,0 +1,15 @@
+Hier ging es mir um Kleinbuchstaben. Trotzdem danke. So sieht also der
+Hinweis auf das Wandeln von Ö in OE aus. In drei Sprachen.
+
+
+Im Moment beschränken die Banken bei der Eingabe noch mehr als zuvor.
+Vorher funktionierte über zehn Jahre oft stillschweigend ISO/IEC
+8859-1 Latin 1. Allerdings sollten jetzt aus Griechenland griechische
+Buchstaben kommen.
+
+Als Benutzer darf man erwarten, dass in der EU künftig die
+lateinische, griechische, kyrillische, georgische und armenische
+Schrift benutzt werden kann. Die Europäischen Normen zum Sortieren
+usw. solcher Dokumente gibt es bereits.
+
+Tschüs, Leo

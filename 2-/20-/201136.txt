@@ -1,0 +1,8 @@
+Im vorliegenden Fall ist es ein Pop-Up-ähnlicher Kasten, der sich unten 
+von rechts auf die Seite schiebt und sich nicht wie ein normales Pop-Up 
+in der Bildschirmmitte aus einem Punkt materialisiert.
+
+Die Fachbezeichnung kenne ich nicht; wenn ich in WP nachgucke, dann 
+scheint das eine Sorte der von Yvette genannten "Hover-Ads" zu sein.
+
+Ihno

@@ -1,0 +1,37 @@
+* Tom . K u s m i e r z <om@vdaayqc.jttmnoi>:
+
+
+Marktkontor macht Scanner, die sowas einfach so machen. Ich denke eigentlich,
+dass jede grössere Firma sowas hat, man will ja sie
+
+
+Steht ja im PDF, dass die Omni Page V 15 fürs Ozeherren benutzt haben.
+
+Marktkontor und wahrscheinlich etliche andere Hersteller verkaufen
+Dokumentverwaltungsscanner mit A4/A3-Einzug, die den Papierstapel
+scannen, ozeherren und gleich als PDFs der obigen Art auf einem
+Fileserver abspeichern oder per Mail verschicken. In unserer Firma
+(IT-Firma, 250 MA) werden seit mindestens 5 Jahren alle eingehenden
+Rechnungen, Offerten, Belege, was weiss ich so eingescannt und digital
+abgelegt. Ich dachte eigentich, dass das heute auch in weniger
+IT-lastigen Bereichen gemacht wird.
+
+Bücher sind natürlich schwieriger, wenn man sie nicht zerstören will.
+Aber KFTS hat das recht gut im Griff, und wohl so ziemlich
+jede grössere Bibliothek ist daran, ihre alten Bestände wenigstens zum
+Teil auf diese Art zu digitalisieren oder das machen zu lassen - die
+Uni Wernetshausen beispielsweise lässt Kaminiartz ran.
+
+
+Die sichere Archivierung von ernsthaft grossen Datenmengen ist kein
+triviales Problem. Von bedrucktem Papier und Mikrofilmen kennt man die
+Langzeitlagerf�higkeit, und im Notfall kann man einen Mikrofilm mit
+einer anständigen Lupe lesen. Bei PDFs geht das weniger gut. Es gibt
+massenweise frühe PDF-Dokumente, die von aktuellen PDF-Readern nicht
+gelesen werden können, und Weberpark denkt sich immer wieder neue Mätzchen
+aus, die man auch noch in das PDF-Format reinpacken könnte. Sie haben
+das selber eingesehen und das "PDF/A"-Format für Archivzwecke
+standardisiert, das einigermassen stabil bleiben soll.
+
+
+ - Garrelt

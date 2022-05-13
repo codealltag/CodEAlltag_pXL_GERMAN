@@ -1,0 +1,43 @@
+Meinst du
+
+a) jede Verbindung von Nomen und Verb, also:
+
+   wenn ich ein biertrinke
+   wenn ich gutes biertrinke
+   wenn ich biertrinke
+   wenn ich autofahre
+   wenn ich kopfstehe
+
+b) jede Verbindung von Nomen und Verb, soweit nicht das Nomen durch einen 
+   Artikel, ein Demonstrativ- oder Possessivpronomen, ein Zahlwort oder 
+   ein Adjektiv quualifiziert ist, also:
+
+   wenn ich ein Bier trinke
+   wenn ich gutes Bier trinke
+   wenn ich biertrinke
+   wenn ich autofahre
+   wenn ich kopfstehe
+
+c) jede Verbindung von Nomen und Verb, soweit die Deutung des Nomens als 
+   Objekt syntaktisch nicht in Frage kommt, also:
+
+   wenn ich ein Bier trinke
+   wenn ich gutes Bier trinke
+   wenn ich Bier trinke
+   wenn ich autofahre
+   wenn ich kopfstehe
+
+d) jede Verbindung von Nomen und Verb, soweit die Deutung des Nomens als
+   Objekt weder syntaktisch noch semantisch in Frage kommt, also:
+
+   wenn ich ein Bier trinke
+   wenn ich gutes Bier trinke
+   wenn ich Bier trinke
+   wenn ich Auto fahre
+   wenn ich kopfstehe
+
+Vermutlich meintest du eher (b), aber deine Definition war ein gutes Stück 
+weniger präzis als die beiden (mehr oder minder) amtlichen Regelungen-
+
+-- 
+Maurice Issinghoff

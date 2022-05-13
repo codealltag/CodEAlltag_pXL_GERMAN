@@ -1,0 +1,25 @@
+Richtig.
+
+
+Falsch. Sondern, daß eine gewisse Zahl von Benutzern es nützlich
+fanden. Das ist doch eine logisch ganz andere Struktur, nämlich eine
+Aussage über den Umfang eines Begriffs, während deine Formulierung
+eine Nicht-Existenzaussage ist.
+Daß niemand es nützlich findet oder, drastischer, daß jeder es unnü=
+tz
+findet, ist eine andere Formulierung, die du für den (zugegeben
+ungeschickt) ausgedrückten Sachverhalt eingesetzt hast. Darauf kannst
+du aber die Frage "Sie auch?" nicht beziehen.
+
+Gegenbeispiel: "5 Personen waren im Fahrstuhl. Sie auch?"
+Jetzt kann ich folgendermaßen beckmessern: Die Aussage ist äquivlanet
+zu "Die Kardinalität der Menge der Personen, die im Fahrstuhl waren,
+ist kleiner 6, aber größer 4." Aber was soll dann "[Sind] Sie auch
+[kleiner 6, aber größer 4]?" heißen?
+
+
+Alles. :)
+Wäre folgendes "Eine unbekannte Zahl von Benutzern fanden den
+Kommentar nützlich. Sie auch?" denn deiner Meinung nach zulässig, oder
+müßte man, um das "auch"  zu rechtfertigen, von einer "unbekannten,
+positiven Zahl" reden?

@@ -1,0 +1,23 @@
+Wenn ein vorangestellter Artikel/Pronomen/Adjektiv schon eine Endung
+hat, die den Genitiv anzeigt, dann wird beim Namen das Genitiv-s
+gerne ausgelassen.  Ich weiß aus dem Stegreif nicht, ob das
+standardsprachlich akzeptiert ist.
+
+
+Hättest du "eines Unser" oder "eines Wirs" erwartet?
+
+Wenn Personalpronomen substantiviert werden, dann werden sie nicht
+mehr wie Pronomen, sondern wie Substantive gebeugt. Die typische Beugung
+ist wohl
+
+     Sg  Pl
+  N  -   -s
+  A  -   -s
+  D  -   -s
+  G  -s  -s
+
+wobei das Genitiv-s in der Einzahl dann auch manchmal wieder
+eingespart wird.
+
+-- 
+Denis "nelly" Helme                          skufl@ikph.cxds.vx

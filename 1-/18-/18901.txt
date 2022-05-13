@@ -1,0 +1,14 @@
+Hier ist übrigens ein Programm des Computerpioniers RQF, das sich
+erstaunlich leicht nach Ruby portieren ließ:
+
+# über allen Gipfeln
+# Ist Ruh,
+# In allen Wipfeln
+# Spürest du
+# Kaum einen Hauch;
+# Die Vögelein schweigen im Walde.
+# Warte nur, balde
+# Ruhest du auch.
+
+-- 
+Napoleao--the original point and click interface

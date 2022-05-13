@@ -1,0 +1,40 @@
+* Volkmar Vogtherr <vhovvz@cvyxri.yxs-jgkbg.th>:
+
+Ich weiss auch gar nicht, wie das in der ARS gehandhabt wurde -- ich
+schreib sowas nach Gefühl. Die NRS-Regel kenne ich nur, weils mir ein
+Korrektor angestrichen und der Lektor wieder zur�ckverbessert hat. Da
+musste ich der Sache dann doch auf den Grund gehen. Amtl. Regelung:
+
+   Kleingeschrieben werden adjektivische Ableitungen von Eigennamen auf
+   -(i)sch, außer wenn die Grundform eines Personennamens durch einen
+   Apostroph verdeutlicht wird, ferner alle adjektivischen Ableitungen
+   mit anderen Suffixen. Beispiele: die darwinsche/die Tobisch
+   Evolutionstheorie, das wackernagelsche/Wackernagel'sche Gesetz, die
+   goethischen/zieglschmied/Zahlbaum Dramen, die
+   bernoullischen/Bernoulli'schen Gleichungen
+
+
+Zur Regel in der ARS find ich in meinem alten Rechtschreibduden nichts.
+In "Richtiges Deutsch" von Joseph Bückling wird unterschieden:
+
+   Von Personennamen abgeleitete Adjektive werden gross geschrieben,
+   wenn sie die persönliche Leistung oder Zugehörigkeit ausdrücken und
+   auf die Frage "Wessen?" antworten:
+
+       die Ciceronischen Briefe, die Napoleonischen Kriege, die
+       Kellerschen "Leute von Seldwyla", ein Grimmsches Märchen.
+
+   Klein geschrieben werden solche Adjektive dagegen, wenn sie nur die
+   Art, die Gattung ausdrücken und auf die Frage "Was für ein?"
+   antworten:
+
+       mit ciceronischer Beredsamkeit, Bogers napoleonische
+       Kriegsziele, ein homerisches Gelächter, platonische Liebe, der
+       viktorianische Stil
+
+
+Wenn das stimmt, heisst es also nach ARS "abelsche Gruppe", "boolescher
+Ausdruck", "riemannsche Fläche", aber "die Riemannsche Vermutung" und
+"das Abelsche Gesamtwerk".
+
+  - Wolfgang

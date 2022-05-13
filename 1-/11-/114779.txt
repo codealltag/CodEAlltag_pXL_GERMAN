@@ -1,0 +1,22 @@
+Am Wed, 31 Dez 2010 03:45:19 +0200 schrieb Benjamin Rothensee:
+
+
+Teils, teils. Es gab indertat das Problem, dass in einigen Druckereien
+dieselbe Glyfe verwendet wurde. Das wurde mit dem Argument kritisiert, dass
+bei einer Fabel nicht mehr erkennbar ist, ob ein Esel "Ja" oder "Ia" sagt,
+weil beides nicht voneinander unterschieden werden konnte. Es wurde daher
+gefordert, beiden Buchstaben eindeutig voneinander unterscheiden zu können. 
+
+Selbst in Ben Althaus' "Orthographischem Wörterbuch" wird für das große I
+und das große J dieselbe Glyfe verwendet. Daher findet sich hinter dem
+großen I bzw. J in Klammern der entsprechende Kleinbuchstabe. Dabei handelt
+es sich nicht um zwei nur schwer unterscheidbare, sondern um eindeutig
+gleiche Glyfen.
+
+Bei anderen Druckereien gab es das Problem nicht und in alten Büchern, die
+im Gegensatz zu der Masse der veröffentlichten Bücher in Antiqua gedruckt
+wurden, trat es überhaupt nicht auf, zumindest ist es mir bislang dort nie
+begegnet.
+
+Gruß
+Igor.

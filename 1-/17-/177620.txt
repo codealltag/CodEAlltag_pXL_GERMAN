@@ -1,0 +1,31 @@
+Ich hatte nach dem "meist ... Entscheidungen" noch einen zweiten Absatz, 
+den ich aber weggelassen hatte, um die Verwirrung nicht noch zu steigern. 
+Unentscheidbar kann auch die Gültigkeit einer Aussage hinsichtlich einer 
+Theorie sein, dann nämlich, wenn man die Aussage oder ihr Gegenteil zu den 
+Axiomen der Theorie hinzunehmen könnte, ohne einen Widerspruch zu bekommen 
+(siehe etwa Kontinuumshypothese in der WP). Dieser Fall ist aber nur 
+interessant, wenn man vorher angetreten ist, etwas ganz Bestimmtes durch 
+Axiome einigermaßen vollständig zu beschreiben, wie die ZFC-Axiome der 
+Mengenlehre oder die Peano-Axiome der natürlichen Zahlen. Weitaus die 
+meisten Axiomensysteme lassen solche Lücken absichtlich und ermöglichen so 
+Sätze über sehr *verschiedene* Modelle der Theorie.
+
+
+Die Terminologie ist mitunter nicht ganz einheitlich.
+
+Entscheidungsprobleme sind Aufgaben, die durch einen Algorithmus gelöst 
+werden oder durch den Beweis, dass es keinen gibt. Ein mathematisches 
+Problem ist dagegen meist eine Vermutung, also eine noch unbewiesene 
+Aussage, und solche Probleme werden durch Beweis oder Widerlegung gelöst
+und nur ganz ausnahmsweise durch Beweis der Unentscheidbarkeit (und dann 
+hinsichtlich eines genau spezifizierten Axiomensystems).
+
+Normalerweise heißen unbewiesene Aussagen "Vermutung" bis zum Beweis. Die 
+Bezeichnung "Hypothese" ist unüblich mit Ausnahme des Kontinuumshypothese, 
+die Bezeichnung "Satz" gebührt der Aussage erst nach dem Beweis (obwohl 
+der "Große Fermatsche Satz" im Volksmund schon immer so hieß). Und 
+"Theorie" passt gar nicht. Siehe meinen Beitrag 
+<Dcaf.XWR.7.20.0029920151417.37003@vivpe93.mau.ihl-nrtqdmtl.jz>.
+
+-- 
+Waldemar Moss

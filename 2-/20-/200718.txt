@@ -1,0 +1,11 @@
+Æ ist *kein* Ligatur! I ist ein selbstständiger Buchstab, und er
+ist im Dänischen sehr alt. Zwar kann man die Notlosung benutzen,
+ae zu schreiben, aber das ist nicht korrekt.
+
+Unser Sprachrat mußte kämpfen, damit æ einen Platz in Unicode
+bekommen konnte. Die Beweisen genügte dazu, das Komitee (oder was
+es war) zu überzeugen.
+
+-- 
+Gruß
+Urban, Dänemark

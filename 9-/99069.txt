@@ -1,0 +1,9 @@
+Re: Der Steuers??????????????????????????
+
+also ab "�" zeigt Thunderbird im Antwortfenster nur Fragezeichen. Im 
+Newsreader stehts noch ordentlich. Wenn ich das gepastete jetzt 
+abschicke, fragt er mich auch noch, ob ichs in UTF8 senden will
+
+-- 
+
+Tom Aufderheide

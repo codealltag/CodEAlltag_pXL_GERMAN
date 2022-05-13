@@ -1,0 +1,5 @@
+Locker bei Komprimierung auf 1 Bit.
+
+-- 
+
+Justin Nirenberg

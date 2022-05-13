@@ -1,0 +1,19 @@
+Am Sat, 05. 05. 22 17:36:59 +0100 schrieb Daniel Juelich:
+
+Nette Idee. Ich denke, das Hauptproblem bei sowas bleibt die Identifikation
+der Sprachen. 
+
+Das Problem haben gerade auch Sprachen, die nicht in Lateinschrift
+geschrieben werden. Wenn Leute SMS schreiben oder von ihren Handys
+twittern, dann verwenden sie nicht selten ASCII-Umschrift - vorzugsweise
+wenn ihr Handy die Originalschrift nicht unterstützt. Wenn ich russische
+SMS auf meinem deutschen Handy schreibe, mache ich das auch. Für die
+Mehrheit z.B. von Arabern oder Russen in Deutschland dürfte das auch
+gelten. 
+
+Formen wie "4e ho4ew?" als Russisch oder "3awiz 7a'ee" als Arabisch zu
+identifizieren ist schon für einen Menschen gar nicht so einfach.
+ASCII-Umschriften sind häufig graphemisch und neigen dazu, recht wild
+auszusehen. Da dürfte die Library an ihre Grenzen stoßen. 
+
+Bruno

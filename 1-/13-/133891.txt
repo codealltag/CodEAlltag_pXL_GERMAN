@@ -1,0 +1,14 @@
+Am 28.08.2010 00:16, schrieb Valentino Intorp:
+
+...
+...
+
+Ich weiß es auch nicht, habe aber nach einem Hinweis hier den Cache auf 
+"0" gesetzt. Bislang ist das Problem nicht wieder aufgetaucht, und auch 
+Laurents Beitrag konnte ich lesen, nachdem ich die MSF-Datei dieser NG 
+gelöscht hatte.
+
+Danke allen, die sich dazu geäußert hatten!
+
+
+Tschüs, Charly

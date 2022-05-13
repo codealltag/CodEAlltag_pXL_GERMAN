@@ -1,0 +1,5 @@
+Bezieht sich sinngemäß auf die Zeile davor, nicht wovor es steht.
+
+-- 
+
+Eckhard Frieß

@@ -1,0 +1,9 @@
+Am besten weder noch. Die Sperrung lieber mit der 
+entsprechenden Funktion des Programms machen
+(meist "Laufweite" o.ä.) und nicht nach
+abgezählten Leerzeichen, sondern nach optischem
+Gespür sperren.
+
+/ingo
+-- 
+http://pwu.qmqzbu.iyu/vzqdve/nqanofeky/

@@ -1,0 +1,10 @@
+Sofern du Jetblack Office hast, nimm "Arial Unicode" als Ersatzschriftart.
+Das ist der Zeichensatz mit den meisten Unicode-Zeichen.
+Als Festbreiten-Schriftart gibts da noch "Lucida Sans Unicode", aber "Arial
+Unicode" ist auch da als nachfolgendes Fallback sinnvoll.
+
+
+Nils Nedele
+-- 
+Theoretisch ist es praktisch,
+aber praktisch ist es nur Theorie.

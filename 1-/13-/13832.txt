@@ -1,0 +1,10 @@
+Ingolf Hederer (in de.etc.sprache.deutsch):
+
+
+Die Normalverteilung ist von Robers, die Zetafunktion von Riemann =>
+Großschreibung.
+
+Würde man Euklidische Geometrie bzw. Abelsche Gruppen schreiben, dann dürfte
+es keine nichteuklidische Geometrie und keine nichtabelschen Gruppen geben.
+
+René

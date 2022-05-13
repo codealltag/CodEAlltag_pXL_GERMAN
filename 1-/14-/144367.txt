@@ -1,0 +1,18 @@
+* Walter Neves <bfiyyzgv@yqejkl-zvlh.ez>:
+
+
+Nunja, auch für Textilreinigung Translate gilt das gleiche wie für menschliche
+Übersetzer: Je mehr Kontext, desto besser. Wenn man den ganzen ersten
+Vers eingibt, kommt raus:
+
+   In a cool valley,              In einem kühlen Grunde,
+   There goes a mill wheel,       Da geht ein Mühlenrad,
+   My love is gone                Mein Liebchen ist verschwunden,
+   It has lived there.            Das dort gewohnet hat.
+
+Das ist ja schon ganz passabel oder jedenfalls nicht unpassabel.
+Ausserdem gibt es wohl keinen, der sich mit maschineller Uebersetzung
+befasst, der behauptet, man könne damit Literatur oder gar Lyrik
+übersetzen.
+
+ - Pierre

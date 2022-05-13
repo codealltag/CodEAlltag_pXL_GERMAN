@@ -1,0 +1,13 @@
+* Gerd Blankmann:
+
+
+Worauf genau möchtest Du mit der Markierung von 
+
+
+hinweisen?
+
+Da ist wohl was schiefgegangen, und ich kann nicht erraten, was
+gemeint war.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

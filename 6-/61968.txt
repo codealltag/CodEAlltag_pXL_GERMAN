@@ -1,0 +1,10 @@
+Die neueren Busse hierzustadt haben seit ein paar Jahren
+Bewegungssensoren (und Drucksensoren direkt an der Tür) als Öffner,
+inzwischen glauben wohl nur noch wenige, daß bei der Handwedelei Magie
+im Spiel sei.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Komander will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Olivier Reitenberger

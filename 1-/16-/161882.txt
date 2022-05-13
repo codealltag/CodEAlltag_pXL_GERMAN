@@ -1,0 +1,7 @@
+Moderne Betriebssysteme berücksichtigen von allein die 
+Zeitumstellung. Hast du vielleicht die Uhr deines Computers 
+zusätzlich manuell umgestellt? Das würde erläutern, warum 
+dein Schreiben mit "Datum: 15:58" erscheint, obwohl es laut 
+meinem Computer 15.46 Uhr und laut Armbanduhr 15.48 Uhr ist.
+Viele Größe
+Christof

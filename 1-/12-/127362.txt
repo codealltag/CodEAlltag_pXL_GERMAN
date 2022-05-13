@@ -1,0 +1,31 @@
+[Farbmischung durch RGB-Pixel]
+
+
+Klar, Du müßtest einfach nur negative Subpixelwerte
+aussenden (also das RGB-Dreieck zum CIE-Hufeisen ausbeulen),
+um die Mitanregung der spektral benachbarten Zapfen zu
+kompensieren. Kannst es ja mal durch schmalbandiges,
+kohärentes Pixellicht und Phasenverschiebung der
+Pixelfarben zueinander probieren. Die Patentämter
+dieser Welt harren Deiner Einreichung. (Oder auch
+nicht mehr, nachdem ich es jetzt beschrieben habe.)
+
+
+Du kannst die spektrale Überlappung der
+Empfindlichkeitskurven der Zapfen nicht aufheben.
+
+
+Nein, ich habe erklärt, warum aufgrund der spektralen
+Überlappung der Zapfen nicht jede _Mischung_ durch RGB
+möglich ist.
+
+
+Bingo. Genausowenig, wie Du mit einem (jeweils
+schmalbandigen) RGB-Ensemble an Scheinwerfern (neudeutsch:
+Energiesparlampe) ein aus hinreichend vielen verschiedenen
+Pigmenten bestehendes Gemälde dem menschlichen Auge genauso
+erscheinen lassen kannst wie unter Sonnenlicht, so kannst
+Du auch mit einem RGB-Monitor nicht alle möglichen
+Farbeindrücke des menschlichen Auges erzeugen - solange
+Du nicht jeden Zapfen auf der Netzhaut einzeln verkabelst.
+(Versuche mit Lasern bitte nicht auf _meiner_ Netzhaut.)

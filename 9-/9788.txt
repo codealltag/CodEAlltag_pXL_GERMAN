@@ -1,0 +1,16 @@
+Nein, eigentlich nicht. Es trifft sich nur gut, daß die Hälfte
+von 60 Minuten mal 60 Sekunden halbwegs genau die Anzahl von
+Metern einer Seemeile ergibt.
+
+Seemeilen pro Stunde leuchtet ja unmittelbar ein. Die Seemeile
+ergibt sich aus der Winkelteilung in Grad und Minuten, indem
+eine Seemeile dem Bogen von einer Winkelminute auf der Erd-
+oberfläche entspricht. Ob du die Erde als Kugel oder Geoid
+auffaßt und ob du mit Äquator- oder Meridianumfang rechnest,
+das ist in der Praxis ziemlich egal. Auf See genügt es, wenn
+die Navigation auf 100 oder 200 Meter genau ist, was bei der
+Winkelmessung (wie früher traditionell mit dem Sextanten) der
+Größenordnung von Zehntelminuten entspricht. GPS ist genauer.
+
+j/\a
+--

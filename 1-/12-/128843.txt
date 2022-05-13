@@ -1,0 +1,10 @@
+Das stimmt schon. Aber hat das irgend eine praktische oder
+mathematische Bedeutung? Hast Du ein Beispiel, wo der Begriff
+Passante hilfreich ist? Wo die Vorgabe "gegeben ein Kreis und
+eine Gerade" nicht genügt? - Es ändert sich doch am allgemeinen
+Fall nichts, wenn die Gerade zur Tangente und später zur Sekante
+wird.
+
+Gruss
+
+Willi

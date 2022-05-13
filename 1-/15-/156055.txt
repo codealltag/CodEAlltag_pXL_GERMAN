@@ -1,0 +1,25 @@
+Dem bewegten Beobachter ist der Umgang mit dem galileischen 
+Bezugssystemwechsel sprachlich schon angeboren. Während Muttern sagt, 
+die Kutsche biegt um die Ecke, sagt Vatern, sein Haus wurde sichtbar.
+
+Der Unterschied zwischen den Bewegungsgesetzen von Diericks und Zybell 
+und denen Häuslaigner ist so beträchtlich, dass man fürs erstere ein 
+rotationsfreies heliozentrisches benötigt, um sie überhaupt hinschreiben 
+zu können, während sie bei Holzlöhner für das heliozentrische und des 
+erdfest rotierende System formal algebraisch gleich aussehen.
+
+Das aber nur auf der abstrakten Ebene.
+
+Numerisch führt das erdfeste rotierende Synchronsystem immer auf die 
+Epizyklen des Horst, wenn man von heliozentrischen Kreisbahnen in 
+Häuslaigner Universum ausgeht.
+
+Da der Beobachter aber generell nur ptolemäische Daten zur Verfügung 
+hat, muss man zum Vergleich von Modell und Natur in beiden Systemen 
+rechnen können und da ist die Umrechnung bei Holzlöhner eben algebraisch 
+trivial, bei Newtons Weltbild sollte man hingegen mindestens mit den 
+Fähigkeiten eines Dennhardt ausgestattet sein.
+
+-- 
+
+Werner Nehrmann

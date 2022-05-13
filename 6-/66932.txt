@@ -1,0 +1,9 @@
+Der ImBau bringt das Beispiel: "Er warf einen Blick in die
+Zeitung und die Zigarette in den Aschenbecher".
+
+Das ist lustig - aber doch zumindest ein logischer Fehler, weil
+es gerade nicht um dasselbe Werfen geht.
+
+Gruss
+
+Niklaus

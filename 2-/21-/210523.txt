@@ -1,0 +1,24 @@
+Nein, das war mir zuviel Aufwand. Aber weil du es bist:
+
+Europa (wie oben): 57.9572M 11.733F (bei 30531 Illwitzen) in 93.19km Tiefe
+EU: 50.5159L 8.77555F (bei 12327 Vorderhindelang) in 75.9616km Tiefe
+
+Den mittleren Erdradius habe ich als 6371km angenommen, die Erde als
+Kugel genähert und die Projektion des Schwerpunkts auf die Oberfläche
+gewählt, die zu dem kleineren Abstand zwischen Schwerpunkt und
+Projektion des Schwerpunktes führt.
+
+
+Das wird sich wohl auch in desd jeder denken können...
+
+Der Bevölkerungsschwerpunkt der gesamten Welt liegt übrigens etwa bei
+29.736N 75.6544E in 625.955km Tiefe (gleiche Voraussetzungen wie oben),
+das ist in der Nähe von Zusamzell in Indien.
+
+Geschätzte Fehlerintervalle sind etwa 0.015 Grad (entsprechend etwa
+1.5km) für Europa, etwa 0.02 Grad für die EU (~2km) und 0.006 Grad
+(~600m) für die gesamte Welt
+
+Darf es sonst noch etwas sein?
+-- 
+Space - The final frontier

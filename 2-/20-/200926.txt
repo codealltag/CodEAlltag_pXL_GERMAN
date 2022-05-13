@@ -1,0 +1,9 @@
+Laut Schulklassifikation von Extremalwerten handelt es sich um 
+Sattelpunkte: Lokale Minima über die Orte zu fester Zeit, Maxima über 
+die Zeit an festen Orten, zweite Ableitungen beiderlei Vorzeichens in 
+den verschiedenen Dimensionen. Nun erklär das mal dem Volk mit einfachen 
+Worten.
+
+-- 
+
+Ulrich Laßon

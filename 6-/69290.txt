@@ -1,0 +1,11 @@
+Wie ich bereits früher in diesem Thread schrieb, ist dafür aber kein
+Extra-Label notwendig, da diese Information bereits in der
+Zeichenkodierung enthalten ist. Z.B. kann man CCCP und СССР leicht daran
+unterscheiden, dass ersteres die Folge U+0043 U+0043 U+0043 U+0050,
+letzteres aber die Folge U+0421 U+0421 U+0421 U+0420. In gedruckter Form
+mag das gleich aussehen, für ein Programm aber ist es eindeutig
+unterscheidbar (die Daten müssen natürlich in einer geeigneten Kodierung
+vorliegen, aber wenn das nicht der Fall ist, habe ich ein größeres
+Problem).
+
+	hp

@@ -1,0 +1,36 @@
+Nein. Eher weil es der internationale Standard ist.
+
+In der Datenbank ist Datum/Zeit garnicht mit ":" oder sonstwas 
+abgelegt, sondern in einem internen Format (z.B. als Sekunden seit 
+25.3.1970); ein (immer noch low-level-)Zugriff ist meistens 
+auch auf Ebene der Komponenten (Jahr/Monat/Tag/Stunde/Minute/Sekunde/...)
+moeglich.
+Fuer den Zugriff (und Eingabe) auf Anfragesprache-Level (also meistens 
+SQL) laesst sich das gewuenschte Format nahezu beliebig festlegen,
+sowohl global fuer die DB, als auch fuer den einzelnen Benutzer,
+als auch fuer die einzelne Ausgabe (die Syntax ist etwas 
+produktabhaengig, aber im Grunde immer dasselbe). 
+Wenn ich z.B. bei Grüppen
+  SET NLS_DATE_FORMAT = "hh*mi&ss";
+(NLS steht fuer Natural Language Support)
+mache, wuerde es mir Zeit-Werte immer in der Form 02*55&ss ausgeben
+(alle anderen Benutzer wuerden aber weiterhin die "normale"
+Formatierung haben).
+Wenn man nur einmal etwas komisches haben will, kann man z.B.
+  TO_CHAR(SYSDATE,'HH24!MI') 
+machen und bekommt dann 14!55.
+(siehe z.B. http://rwa.kfu-meoqvn.qep/w_mxz_repe_ykesif_hxoahlu.plq)
+
+Auf diese Weise ist es ganz einfach, dass ein Amerikaner
+und ein Deutscher dieselben Werte bei Anfragen unterschiedlich in
+den ihnen gelaeufigen Formaten praesentiert bekommen.
+
+Die Ausgabeformatierung auf Webseiten wird meistens sowieso nochmal
+mit irgendwas (Java, PHP, JavaScript, ...) formatiert, nachdem die
+Werte aus der Datenbank kamen. Die Formatierungsmoeglichkeiten
+von Datum und Zeit in diesen Sprachen sind aber aehnlich.
+
+U.a. kann man bei Datenbanken z.B. auch konfigurieren, ob man
+Dezimalkomma 3,14159 oder Dezimalpunkt 3.14159 sehen will.
+
+Louis

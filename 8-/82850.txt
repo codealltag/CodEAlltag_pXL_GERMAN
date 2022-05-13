@@ -1,0 +1,6 @@
+* Udo Clemenz <ltfkwnwhvj@ubr.diw>:
+
+
+ed-, ex- und vi-Benutzer verwenden den nur wenn nötig.
+
+ - Bodo

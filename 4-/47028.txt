@@ -1,0 +1,14 @@
+So mich mein Langzeitgedächtnis nicht trägt, war es zu meiner Zeit
+(um 1986, SysV/BSD4.3) problemlos möglich, mittels creat() ein File
+z.B. namens "*" anzulegen, sicher auch "*.pdf".
+
+Und wenn ich mir die man page ansehe, scheint das auch heute noch
+möglich zu sein - jedenfalls sehe ich da kein "EINVALIDCHAR" oder
+ähnliches.
+
+
+Ach ja, ein File namens "-f" im homedirectory oder in / war auch
+sehr beliebt ...
+
+
+/Torsten

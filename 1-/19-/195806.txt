@@ -1,0 +1,35 @@
+* Ludwig Hußmann:
+
+
+Ich schreibe "." und lese "Komma". Die Aussprache ist also
+sprachabhängig ("trois virgule un quatre"), die Schreibweise
+nicht.
+
+Für die Versionsangabe eines Programms ist "drei Punkt eins vier"
+freilich idiomatisch.
+
+Anders als Urs behaupte ich nicht, daß das jeder immer so
+handhaben müsse, aber Punkt und Komma nicht als
+Tausendertrennzeichen zu verwenden, finde ich auf jeden Fall
+empfehlenswert. Ich selber finde es selber umständlich und
+verwirrend, je nach Sprache eine andere Schreibweise für den
+Dezimaltrenner verwenden zu müssen. Manchmal steht die Sprache ja
+noch nicht einmal fest, wenn ich eine numerische Angabe
+niederschreibe, oder ich weiß bereits, daß ich diese Zahlen in
+zwei Sprachen benutzen will.
+
+Jetzt fällt mir ein Zusammenhang ein, in dem ich immer wieder
+genau nachdenken muß, mit welcher Sprache ich es nun zu tun habe:
+
+Land           BIP (Milliarden $)
+
+Montenegro     6,724
+Liechtenstein  5,028
+
+Hier könnte man, um die Zahlen nicht verändern zu müssen, in der
+englischen Fassung "Milliarden $" als "million $" 'übersetzen'.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Wolfgang Steineke
+   in km.ine.tvoedpnt.recovery)

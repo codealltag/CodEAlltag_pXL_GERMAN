@@ -1,0 +1,5 @@
+Die Header-Zeilen finde ich originell. Soll wohl bedeuten "Ja, wir
+kennen MIME und den RFC 2646, haben aber keine Lust, das korrekt zu
+implementieren".
+
+	hp

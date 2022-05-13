@@ -1,0 +1,6 @@
+Lustig: nach Helmuts de_AT-Einleitung habe ich "Geishas" zuerst
+als "Geizhals", dann als "Geis-Has(e)" gelesen, bevor mein Parser
+schließlich korrekt auf Nippon umgeschaltet hat...  :-)
+
+
+ingmar

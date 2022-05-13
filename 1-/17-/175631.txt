@@ -1,0 +1,13 @@
+* Mark Friessnegg:
+
+
+Die üblichen Schreibweisen im Englischen, nach meinem bisherigen
+Kenntnisstand.
+
+
+Danke, aber so wird es gemeinhin weder im Deutschen noch im Englischen
+geschrieben.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Pius Trurnicht, comp.lang.python

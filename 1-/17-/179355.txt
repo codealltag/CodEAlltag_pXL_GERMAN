@@ -1,0 +1,10 @@
+Nein. Deine Software wandelt CR LF in Dein lokales Format um.
+
+Wirf mal einen Blick in RFC 5865, Abschnitt 3.6. Aber schon
+RFC 977 von 1987 (!) hat CR LF als Zeilenende festgelegt.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

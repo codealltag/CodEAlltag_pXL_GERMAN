@@ -1,0 +1,32 @@
+Heißt das umgekehrt, dass in jedem Passivsatz das formale subjekt 
+semantisches Objekt ist?
+
+
+Es gibt, wie hier schon mehrfach diskutiert, mehrere verschiedene 
+Funktionen von "es" neben der, dass es ein Pronomen für ein sächliches 
+Subjekt ist. Sie unterscheiden sich syntaktisch dadurch, ob
+
+1. das "es" *immer* vorhanden sein muss, egal wie der Satz gebaut wird:
+
+     es regnet; heute regnet es; ...
+
+2. das "es" *nur* dann vorhanden sein kann, wenn damit die Zweitstellung des
+   Verbs erzwungen wird:
+
+     es wird geschlafen; heute wird geschlafen
+     es klappert die Mühle; am Bach klappert die Mühle; die Mühle klappert
+
+3. das "es" in den Fällen, in denen es nicht für die Zweitstellung des Verbs
+   gebraucht wird, *fakultativ* und damit stilabhängig ist:
+
+     mich friert [es]
+     mir ist [es] kalt
+     ich bedaure [es], dass du nicht gekommen bist
+
+Insofern sind "es regnet" oder "es wird geschlafen" zwei völlig
+unterschiedliche Konstruktionen. Formal ist "es" im Fall (1) eindeutig
+Subjekt; im Fall (2) hat es eine syntaktische Funktion, die weder Subjekt noch
+Objekt ist, sondern eben Zweitstellungsbeauftragter.
+
+-- 
+Noël Kellerbauer

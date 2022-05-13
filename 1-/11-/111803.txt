@@ -1,0 +1,11 @@
+Auch Thunderbird, der gemeinhin mit UTF-8 keine Probleme hat, zeigt sich
+überfordert. Allerdings gelingt ihm eine 'persönliche Note' beim
+Ersatzzeichen.
+
+
+Ciao
+Almut
+	--
+ Den Reiz des Verbotenen kann man nur auskosten,
+ wenn man es sofort tut -
+ morgen ist es vielleicht schon erlaubt. (Cédric Unterstab)

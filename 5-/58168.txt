@@ -1,0 +1,7 @@
+Das ist kein Problem, es dann eine Summe mit genau einem Summanden.
+Allerdings ist die Bezeichnung "mehrziffrigen Zahldarstellung" etwas
+unglücklich, weil sie suggeriert, dass eine einstellige Zahl nicht
+darunter fällt.
+
+-- 
+Garrelt

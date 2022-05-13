@@ -1,0 +1,21 @@
+[...]
+
+Offenbar bindet der Vergleich hier stärker als die Negation. 
+
+"A ist nicht so groß wie B" 
+
+wird also als
+
+"A ist nicht (so groß wie B)" (!(A == B))
+
+verstanden und nicht als
+
+"A ist (nicht so groß) wie B". (A != B)
+
+Es ist also ein Vergleich auf Gleichheit, dessen Ergebnis negiert wird,
+nicht ein Vergleich auf Ungleichheit.
+
+
+IITW tendiert zu "nichts anderes als als".
+
+	hp

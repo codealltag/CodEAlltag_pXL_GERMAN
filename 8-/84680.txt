@@ -1,0 +1,10 @@
+Am Mon, 8 Aug 2010 19:42:58 +0100 schrieb Siebelt Theo:
+
+
+Ich fühle die starke Versuchung, ein Groß-� einzugeben. Wenn ich jetzt nur
+wüsste, wo es sich in Unicode versteckt.
+
+Gruß
+Diedrich.
+
+PS: Ich habe es gefunden: U+1E9E ;-)

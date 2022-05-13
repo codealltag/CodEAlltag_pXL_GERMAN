@@ -1,0 +1,4 @@
+Wenn ein französischer Text dazu führt, dass eine chinesische Kodierung
+verwendet wird, so kommt mir das spanisch vor.
+
+	hp

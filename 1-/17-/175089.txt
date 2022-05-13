@@ -1,0 +1,6 @@
+Asterix funktioniert wie das TeXbook. Auch wenn man es als Kind bereits
+gelesen hat, liest man es als Erwachsener noch gern und versteht dann
+auch weitere Details.
+
+-- 
+Jörn

@@ -1,0 +1,19 @@
+Das kommt MUSEN auf den für den Neustart zu treibenden Aufwand an.
+
+Die Formulierung legt nahe, daß es mit einem einfachen Aus- und
+Wiedereinschalten nicht getan ist.
+
+Was mich bei diesem modernen Tragsprecherzeux aber nicht mal wundern
+würde. Wahrscheinlich muß man da erst einmal alle Anwendungen schließen,
+die Datenbanken einer Konsistenzprüfung unterziehen, die aktuellen
+GPS-Koordinaten noch mal an den Server schicken und im non-volatile RAM
+zum Neuabgleich nach dem Neustart speichern, den Virenscanner laufen lassen
+und schlußendlich den Bootsektor neu schreiben. Ach, und die
+Installation der Neustartanwendung darf man natürlich auch nicht
+vergessen, sonst geht es nicht. ;)
+
+
+Vinzent.
+
+-- 
+Beaten by the odds since 1975.

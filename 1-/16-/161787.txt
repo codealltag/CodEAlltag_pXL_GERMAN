@@ -1,0 +1,20 @@
+... und zwar in mehreren Streifen. Nach dem PGPN-Atlas:
+
+A: westlich von B
+B: Kleinharbach, Richenthal, Unterankenreute, Zimmerwald
+C: Schweiz
+D: Lommersum, Dürnau
+E: Niederach, Christofberg
+F: Österreich östlich von D und E
+
+A     viertel vor x   viertel nach x
+B,F   dreiviertel x   viertel x+1
+C     viertel vor x   viertel ab x
+D     dreiviertel x   viertel nach x
+E     dreiviertel x   viertel über x
+
+Ich finde, es gehört zur Kenntnis der deutschen Sprache, *alles* das zu 
+verstehen, auch das, was man im eigenen Dorf nicht selbst verwendet.
+
+-- 
+Rolf Hövelberend

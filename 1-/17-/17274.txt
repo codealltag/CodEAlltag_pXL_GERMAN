@@ -1,0 +1,16 @@
+Als reiner Leser habe ich kaum Probleme mit der W&S, und nur
+gelegentlich mit ihren Kollateralschäden. Ich bin da nicht so
+empfindlich wie einige andere. Drum war meine erste Reaktion, als die
+Reform wieder Erwarten Wirklichkeit wurde, "Was, für das bißchen?"
+
+Das letzte Quentchen Einheitlichkeit nützt mir eher in meiner
+Eigenschaft als Schreiber, indem ich dann weniger nachdenken muß, was
+richtig/üblich ist. Wenn von vier denkbaren Schreibweisen nur eine
+richtig ist, ist das intuitiv leichter unterscheidbar, als wenn zwei
+gehen und zwei nicht. 
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.S. Dwilies

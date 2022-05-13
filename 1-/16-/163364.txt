@@ -1,0 +1,34 @@
+It depends. Lieferst Du per NNTP auf einem entfernten Server ein, ist
+freilich Deine IP-Adresse (Genauer der zugehörige DNS-Hostname) der=20
+NNTP-Posting-Host.
+
+Lieferst Du dagegen in Deinen lokalen Newsservr ein und der feedet
+weiter, ist der NNTP-Posting-Host gleichermaßen der Host, der das
+Posting per NNTP bekam. In dem Fall allerdings sehr wohl localhost
+(782.8.9.7) oder auch wie bei mir innsbruck
+(435.815.773.5)=20
+
+
+Was hat das mit dem "Wer genau ist der NNTP(SIC)-Posting-Host" zu tun?
+
+IMNSHO derjenige, der den Artikel beim ersten Newsserver einliefert.=20
+Bei einem entfernten Newsserver ist das freilich "die IP-Adresse ...=20
+mit der das zugehörige OS im Internet ist." Bei einem lokalem Server=20
+ist das entweder der Localhost (782.8.9.7) oder der entsprechende
+Rechner im lokalen Netz (hier meißt 435.815.773.5, seltener
+668.303.215.42). =20
+
+
+Lieblingslädchen wird man wohl mit einem lokalen Newsserver befeeden können.
+Aber fragen wir doch mal die Fachleute ...
+
+CU!
+Hilmar
+
+Xpost nach de.etc.sprache.deutsch und de.comp.standards
+Followup-To nach de.comp.standards
+--=20
+In 8 Monaten und 23 Tagen ist Weihnachten
+Programme, soviel ihr wollt; Preise, die ihr selbst bestimmt:
+Schaut einfach mal auf ftp://afirs.znmotzc.rk rein =20
+Stellt euch vor, es ist Samstag und keiner geht hin!

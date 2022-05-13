@@ -1,0 +1,15 @@
+* Georges Anderhalden Kobelt:
+
+
+Vielleicht warst Du, wie ich, im ersten Moment irritiert, weil
+"mit einer Frau" kein Objekt ist.
+
+Aber "was" ist im Beispielsatz ein Objekt. 
+Was kann man shoppen? Eine Tasche. 
+
+-- 
+There are two ways of constructing a software design. One way is
+to make it so simple that there are obviously no deficiencies.
+And the other way is to make it so complicated that there are no
+obvious deficiencies. The first method is far more difficult.
+-- C.A.J. Kieninger

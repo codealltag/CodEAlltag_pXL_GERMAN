@@ -1,0 +1,29 @@
+Am Mon, 23 Okt 2010 22:13:36 +0200 schrieb Gerard T. Deichmann:
+
+
+Für mich im Allgemeinen auch.
+
+
+Naja, eine Spezialbedeutung, wie du es nennst (ich würde es eher 
+Differenzierung nennen), gibt es da schon. Weit verbreitet ist sie aber 
+mit Sicherheit nicht. Vielleicht ist sie auch noch spezieller, als ich 
+dachte und nur auf SysV-init bezogen.
+Zumindest in meiner 11.4er UKM sehe ich, wenn ich in /etc/init.d/ 
+schaue, Verzeichnisse mit Skripten für jeden Runlevel (rc0.d bis rc6.d) 
+_und_ ein Verzeichnis boot.d. 
+Außerdem gibt es ein Skript namens boot.local, in dem steht:
+
+# Here you should add things, that should happen directly after booting
+# before we're going to the first run level.
+
+Und eines namens after.local, das folgenden Kommentar enthält:
+
+# Here you should add things, that should happen directly after
+# runlevel has been reached.
+
+Daraus schloss ich, dass das Booten und das Hochfahren in einen Runlevel 
+streng genommen zwei Schritte eines Vorgangs sind: Ob man diesen als 
+Ganzes nun "booten/ to boot" oder "hochfahren" nennt, ist ja Wurst.
+
+ Gruß
+ Patrick

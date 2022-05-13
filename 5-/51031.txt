@@ -1,0 +1,15 @@
+ich zitiere mal:
+
+"Nimm einfach den Newsserver von Enek. Dafür brauchst du Enek 
+Zugangsdaten. Die gibt es auch für Nicht-Euronics-Kunden kostenlos hier: 
+<https://vypfopes.hsp.f-fzjleu.xp/zdurjtv/xwou/ngcmovfi.dyqc>. 
+
+Deinen Newsclient musst du so einrichten, dass er sich per SSL (Port
+563) mit dem Server verbindet. Damit klappt die Verbindung auch von
+einem Nicht-Enek-Zugang (ohne SSL ist eine Einwahl über Enek
+zwingend erforderlich)."
+
+<61er16VmcyvpX2@sim.ecm-omrtvb.ti>
+
+Gruß
+Reinhold

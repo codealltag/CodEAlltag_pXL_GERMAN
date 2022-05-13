@@ -1,0 +1,30 @@
+Ich schmeiße das Auto nicht bei einem bestimmten Kilometerstand weg, eher 
+schon bei einem bestimmten Alter: wenn es wegen Rost nicht mehr durch den 
+TV kommt oder wirklich reparaturanfällig wird oder wenn es im Vergleich 
+zu neueren Autos zu hohen Verbrauch hat. Mein jetziges hat 190000 auf dem 
+Buckel und zeigt keinerlei Alterserscheinungen oder Rost, nur der 
+Verbrauch ist mit 5,8l/100km vermutlich mit neueren Autos unterbietbar.
+
+
+Die gehen auf die km und nicht auf die Jahre. Aber die Anschaffungskosten 
+sind mehr.
+
+
+Da sind aber die Fixkosten wenigstens zum großen Teil drin.
+
+Wenn man aber Zeit t und Fahrstrecke s trennt, also Kosten = a*t + b*s, 
+kommt mir b=0,3 EUR/km immer noch viel vor. Die Anschaffung geht in beides 
+ein, hauptsächlich aber in die Zeitabhängigkeit a, Steuer nur in a, 
+Versicherung fast nur in a (bis auf das erhöhte Risiko einer Rückstufung 
+bei mehr Strecke). Was bleibt ist Sprit (wechselnd, ca. 0,07 EUR/km), 
+anderer Verbrauch (l, Reifen) und Wartung/Reparaturen, zusammen nach 
+meinen Unterlagen 5300 EUR auf 107000 km, also nochmal 0,05 EUR/km. Das 
+sind zusammen 0,12 EUR/km, also nicht mal die Hälfte von 0,30 EUR/km.
+
+Selbst wenn man die Anschaffung auf die Fahrstrecke statt auf die Zeit 
+umlegen würde, kämen bloß weniger als 0,10 EUR/km dazu, da ich keine 
+Neuwagen kaufe, sondern guterhaltene gebrauchte (beim Jetzigen 8700 EUR, 
+bis jetzt für mich 107000 km gelaufen).
+
+-- 
+Pasquale Doescher

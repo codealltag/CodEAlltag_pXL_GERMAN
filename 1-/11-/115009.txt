@@ -1,0 +1,11 @@
+Laut Mathematischer Definition ist die Differenz der 
+Abstand(Differenz=Unterschied) das Ergebnis eine Substraktion.
+Bei einer Addition (Summand+Summand=Summe) will man aber nicht den 
+Unterschied zwischen 2 Zahlen wissen, sondern das, was zusammengezählt wird.
+Beispiel: 5 +7 =12
+Die Differenz der beiden Summanden ist jedoch 2, ich nehme mal an, dies 
+liegt wohl daran, diese beiden somit sprachlich zu unterscheiden.
+
+Gruß
+
+Udo

@@ -1,0 +1,24 @@
+Die Krümelkackerei bezüglich der Unterscheidung von ', ` und ´ hat
+hierzugrupps lange Tradition. ° vs º passt da m.M.n. dazu.
+
+
+Kaum. "Grad Celsius" sind zwei Wörter, und ich sehe weder logisch noch
+typographisch einen Grund, warum man das nicht als zwei Symbole (°C)
+schreiben sollte. Dass es in Unicode auch ein spezielles Symbol gibt,
+ist hübsch, aber einen Zwang, es zu verwenden, sehe ich nicht,
+ebensowenig wie ich einen Zwang sehe, "hoﬀentlich" statt "hoffentlich"
+zu schreiben, nur weil es eine ff-Ligatur gibt (abgesehen davon schauen
+Ligaturen in Fixbreitenschriften (die ich im Usenet bevorzuge)
+schrecklich aus).
+
+
+Bei mir[1] (und offenbar auch bei Alexandre) ist das mit bloßem Auge sichtbar,
+und ein Kringerl mit Strich darunter ist nun mal kein Grad-Symbol.
+
+Es gibt auch Schriftarten, in denen "I", "l" und "1" nicht
+unterscheidbar sind, trotzdem würdest Du vermutlich nicht behaupten,
+dass diese Zeichen austauschbar seien.
+
+	hp
+
+[1] http://ups.eru.ok/wwil/tf-ptfkfb.qsa

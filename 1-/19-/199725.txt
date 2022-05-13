@@ -1,0 +1,19 @@
+Ich würde es auch für Personalpronomen in anderen Kasus so sehen:
+
+  Die Katze stieß die Tasse um. Wir haben sie dabei beobachtet.
+  Die Katze stieß die Tasse um. Wir haben ihr dabei zugesehen.
+
+"sie" und "ihr" ist dabei die Katze, weil sie zuvor das Subjekt war. 
+
+
+Nein. Es ging um das *vorangegangene Subjekt*, nicht das neue.
+
+Das "gewöhnlich" hat, so nehme ich an, einen anderen Grund. Manchmal wird 
+es eindeutig sein, worauf sich ein Pronomen bezieht, auch wenn es nicht 
+zuvor das Subjekt war:
+
+  Ich habe Tante Noemi einen Brief geschrieben. Sie antwortet auf Briefe 
+  immer so ausführlich und liebevoll.
+
+-- 
+Noël Dodenhoff

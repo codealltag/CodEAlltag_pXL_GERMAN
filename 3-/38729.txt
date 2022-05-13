@@ -1,0 +1,19 @@
+Ja, tut es. Aus RFC 4810:
+
+   A generating agent MUST:
+
+   o  Space-stuff lines which start with a space, "From ", or ">".
+
+Thunderbird fügt also vor allen Zeilen, die mit einem Leerzeichen
+beginnen, ein weiteres Leerzeichen ein. Bei der Darstellung löscht er es
+dann wieder raus (darum sieht es bei Dir richtig aus), aber Newsreader
+die format=flowed nicht beherrschen (das sind die meisten) tun das
+natürlich nicht, daher sind die Zeilen 1, 3, 4 und 5 Deiner Sig
+verschoben.
+
+Am einfachsten fügst Du in Deine Sig ein Leerzeichen vor jeder Zeile
+ein. Dann werden alle Zeilen verschoben, und es fällt nicht mehr auf.
+
+Alternativ kannst Du natürlich auch format=flowed abschalten.
+
+	hp

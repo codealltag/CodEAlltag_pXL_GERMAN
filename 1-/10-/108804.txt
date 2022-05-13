@@ -1,0 +1,15 @@
+Nee, geht viel einfacher :-)
+(Wir nehmen mal an, das jeder Satz endlich lang ist)
+Sortiere die Menge aller "uninteressanten Sätze" alphabetisch
+Der erste dieser Sätze hat die Eigenschaft "Der kleinste
+uninteressante Satz" zu sein.
+Also sticht der Satz aus der Menge alle Sätze mit dieser besonderen
+Eigenschaft heraus.
+Daraus folgt, das er nicht in der Menge der "uninteressante Sätze"
+sein kann.
+Also gibt es einen anderen kleinsten "uninteressanten Satz"
+Wiederhole die Schritte
+Irgendwann ist auch der obige erwähnte Satz dran
+q.e.d
+
+Gruß Lorenz

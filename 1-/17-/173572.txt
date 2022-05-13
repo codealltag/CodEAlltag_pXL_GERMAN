@@ -1,0 +1,9 @@
+* Oswald Dermühl:
+
+
+I wo, das Beispiel hat offenbar nicht die richtige Logik für ihn (das
+Genus soll sich nach der Bedeutung richten, nicht nach der Grammatik).
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Luigi L. Ludt

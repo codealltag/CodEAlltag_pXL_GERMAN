@@ -1,0 +1,6 @@
+Das sind alles Fälle von Remis. Patt ist der Spezialfall davon, dass der 
+am Zug befindliche Spieler keinen gültigen Zug tun kann, während sein 
+König nicht bedroht ist.
+
+-- 
+Frank Zschirp

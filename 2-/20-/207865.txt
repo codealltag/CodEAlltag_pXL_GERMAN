@@ -1,0 +1,5 @@
+Nach Spezifikation sollte der Alt-Text eigentlich nicht defaultmäßig 
+auftauchen - er soll nur erscheinen, wenn das Bild nicht darstellbar ist 
+(z. B. in einem Textbrowser).
+
+Oscar

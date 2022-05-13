@@ -1,0 +1,25 @@
+Das Währungszeichen wird dem Betrag m.W. vor allem im Bankgeschäft 
+(bankintern, wie auch gegenüber den Bankkunden), auf Rechnungen und 
+Kassenzetteln vorangestellt. Auch im Börsenteil einer Tageszeitung wird 
+das Währungszeichen vorangestellt.
+
+"Devisen
+Währungen 	Aktuell 	+/- 	+/- % 	Zeit
+EUR/CHF 	1.2237 	-0.0097 	-0.79 	15:10:15
+USD/CHF 	0.8443 	-0.0039 	-0.46 	15:09:11
+GBP/CHF 	1.3603 	-0.0038 	-0.28 	15:10:15
+EUR/USD 	1.4487 	-0.0055 	-0.38 	15:10:09
+GBP/USD 	1.6108 	0.0023 	0.14 	15:09:07
+USD/JPY 	81.0300 	0.2600 	0.32 	15:10:09.
+
+(Quelle: GWK vom 10.8.10)"
+
+Im nicht-geschäftlichen Bereich wirkt es etwas seltsam, wenn das 
+Währungszeichen vorangestellt wird. Dazu ein Beispiel (ist nicht 
+konstruiert): "Noch im letzten Jahr verdiente Emmerich Zeitlmann über 20 
+Millionen Franken." Wenn ich in diesem Satz das Währungszeichen nach dem 
+Betrag verwende kommt folgendes heraus "Noch im letzten Jahr verdiente 
+Emmerich Zeitlmann über CHF 20'000'000".
+
+Gruss
+Klaas

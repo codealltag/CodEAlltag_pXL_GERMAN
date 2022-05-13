@@ -1,0 +1,22 @@
+* Hans Veidt <vklyr.wvhdxo@mif.yv>:
+
+Das habe ich in den folgenden 2 Sätzen, wo du nicht mehr weitergeklesen
+hast, angedeutet. Es ist nicht so, dass man in desd jedes auftauchende
+Problem zuerst in der WP nachschlagen muss, aber wenn man unsanft
+darauf hingewiesen wird ("man Autoprotolyse" bedeutet, dass du
+gefälligst "Autoprotolyse" nachzuschlagen hast), dann schon.
+
+Nun denn: In Wasser findet die Reaktion H2O = H+ + HO- (oder von mir
+aus 2 H2O = H3O+ + OH-) dauernd statt, und zwar ziemlich schnell. Im
+Jargon sagt man, dass das Proton (das H+) "schnell austauscht", für das
+Deuteron gilt das auch. Gesetzt den Fall, du hättest tatsächlich eine
+grössere Anzahl von HDO-Molekülen in einem Behälter, dann würden sich
+die H-s und D-s sofort statistisch auf die vorhandenen O-Atome
+verteilen, und das ergibt je gleich viele H-O-H, H-O-D, D-O-H und
+D-O-D-Moleküle. H-O-D und D-O-H ist das Gleiche, daher 1:2:1.
+
+Ganz ähnlich ist es übrigens mit dem H der OH-Gruppe bei Alkoholen oder
+dem "sauren" H von Säuren, auch dem der COOH-Gruppe (Carbonsäuren),
+auch die "tauschen aus".
+
+ - Charles

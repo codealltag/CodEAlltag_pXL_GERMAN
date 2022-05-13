@@ -1,0 +1,14 @@
+Ist ein passwort-geschützer Server für Dich Teil des WWW? Ist er es
+noch, wenn er sich in einem Intranet befindet?
+
+
+Allerdings erlaubt es das nur, wenn die potentiellen Kommentatoren auch
+Zugang zu dem Blog haben. Auf einem privaten Rechner ohne Netzanschluss
+ist das eher eingeschränkt. Da kann man nur selbst seine Ergüsse
+kommentieren.
+
+	hp
+
+
+-- 
+   _  | Ulrich D. Zichaus    | Deprecating human carelessness and

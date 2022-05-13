@@ -1,0 +1,9 @@
+Ach ja, vergessene Kulturtechniken - in meinen fr}hen Computerjahren konnte
+ich nicht nur Z80-Maschinencode lesen und schreiben, sondern auch die
+Kommentare mit korrekten Umlauten versehen: das sah zwar am Bildschirm
+gr{~lich aus, aber man gew|hnte sich dran, und wenn man den Zeichensatz am
+Drucker korrekt einstellte (mit M{useklavier oder sp{ter dann dank
+Zusatz-ROM softwarem{~ig via ESC-Sequenz), sah es richtig gut aus. MAZV
+MX-80, 9 Nadeln, also echte Unterl{ngen.
+
+/Dominik

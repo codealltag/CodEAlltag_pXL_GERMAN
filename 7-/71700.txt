@@ -1,0 +1,12 @@
+Ein Akronym, das sich selbst enthält, heißt "rekursives Akronym"[1].
+Vielleicht also einfach "rekursives Bild" dazu sagen? 
+
+
+vG
+
+[1] Beispiele: 
+EZHH: EZHH Ain't an MP3 Encoder
+Fakewo:  GNU's Not Unix
+Wine: Wine Is Not an Emulator
+
+Warum sind die einklich immer verneint?

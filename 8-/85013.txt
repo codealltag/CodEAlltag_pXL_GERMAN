@@ -1,0 +1,9 @@
+*grins*  Hab' ich nicht: der TI-99/4A hatte die o.g. TI9900-CPU
+eingebaut (16-bit, 3.3 MHz; Baujahr 1980).  Auf diesem Teil habe ich
+mit einem selbstgebastelten BASIC-Programm meine Morsefähigkeiten
+trainiert und verbessert; der TI liegt jetzt bei mir unten im Keller
+(sollte noch voll funktionsfähig sein, aber das Netzteil fe lt
+oder versteckt sich hartnäckig, genauso wie das Assembler-Modul).
+
+
+othmar

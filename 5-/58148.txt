@@ -1,0 +1,9 @@
+Mathematiker verallgemeinern alles, soweit es irgend geht, und schauen,
+wie man dabei gr��tm�gliche Konsistenz bewahren kann.
+
+Die Summe aller geraden Primzahlen, die größer als 2 sind, ist 0.
+
+-- 
+Freenet designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

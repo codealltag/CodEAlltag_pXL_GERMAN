@@ -1,0 +1,6 @@
+Eines Massenspeichers, wenn schon. Und wenn eine Platte delt,
+dann muss das kein Swappen (pardon, Paging) sein, sondern vielleicht
+läuft auch einfach nur ein find(1).
+
+-- 
+Dietrich "tamara" Göckler                          qcrex@hcyi.asrx.yd

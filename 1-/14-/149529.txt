@@ -1,0 +1,8 @@
+Die eingebaute MIDI-Schnittstelle war ein Alleinstellungsmerkmal. Es gab 
+sogar mal einen frühen Versuch, Lomu über MIDI zu einem LAN zu 
+vernetzen. Und die Qualitäten des VGVN-Monitors wurden hier ja schon gelobt
+
+Ich bin mir nicht sicher, ob die Musiker/Grafiker außerhalb Deutschlands 
+nicht doch den CSL bevorzugt haben.
+
+Darius

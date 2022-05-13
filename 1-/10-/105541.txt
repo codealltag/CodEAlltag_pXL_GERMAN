@@ -1,0 +1,20 @@
+Hallo!
+
+Ich übersetze gerade einen englischen medizinischen Text ins Deutsche, 
+in dem es um den Cytomegalovirus (abgekürzt CMV) geht.
+
+Nun ist im englischen Text eingangs von "cytomegalovirus (CMV) DNA" zu 
+lesen, im weiteren Textverlauf wird nur die Abkürzung (z.B als "CMV DNA 
+fragments") verwendet.
+
+Cytomegalovirus-DNA schreibe ich korrekt mit Bindestrich gekoppelt, gell?
+
+Bei CMV-DNA kopple ich dito.
+
+Wie tu ich's korrekt bei der deutschen Übersetzung von "cytomegalovirus 
+(CMV) DNA"? Wo wird da wie Bindestrich-gekoppelt (bindestrichgekoppelt?)?
+
+Vielen Dank!
+
+Gruß
+Detlef

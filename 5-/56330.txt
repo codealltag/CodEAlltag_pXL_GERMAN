@@ -1,0 +1,5 @@
+Nein, in RFC-1036-konformen Messages und im NNTP-Protokoll. Lokal kannst
+Du das Zeilenende darstellen wie Du willst, aber während der Übertragung
+muss es CRLF sein.
+
+	hp

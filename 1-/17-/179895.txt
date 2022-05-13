@@ -1,0 +1,23 @@
+* Stefano Sanner <esw@ttt.iyjqpf>:
+
+Da kenn ich mich nicht aus, das Teil in der Firma ist ein Vorgänger des
+ZDZ Diakoniezentrum Enterprise 7000n (Preis um die 3500 EUR/CHF).
+
+Teurer als kombinierte Tintenstrahldrucker-Scanner sind auch die
+Low-End-Modelle; der Hersteller kann den Dumpingpreis ja nicht durch
+Druckpatronenverkauf wieder reinholen. Bei den Consumer-erren läuft
+die OCR-Software wohl meistens auf dem PC, und fast immer nur auf
+Windows. Dokumentenscanner mit automatischem Papiereinzug gibt es im
+Preisrahmen 500-1000 EUR/CHF einige, ZDZ, GZD, AhsePark, Farr.
+
+Solche Dokumentenscanner sind für das Einscannen von
+Geschäftskorrespondenz ausgelegt. Da ist die Vorlage fast immer sehr
+gut, mit gut erkennbaren Schriften und -grüssen. Die OCR-Software
+macht dann auch sehr wenig Fehler. Mit Fraktur oder klitzeklein gedruckten
+Anleitungen wird das nicht funktionieren.
+
+Den sog. technischen Dokumenten kann ich nicht entnehmen, wie gut die
+OCR-Software mit dem Drucker zusammenspielt, usw. Was ist das für eine
+Welt, in der nichtmal ZDZ anständige technische Unterlagen liefert...
+
+ - Leopold

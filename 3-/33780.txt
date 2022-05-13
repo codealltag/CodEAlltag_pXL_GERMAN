@@ -1,0 +1,13 @@
+Weil in Computern (ausser Akku und Batterie) alles "physikalisch"
+ist, ist "physikalischer Speicher" ein Pleonasmus. (Die Natur
+kennt aber auch chemische Speicher: DNA und Synapsen z.B.)
+
+Um in einem virtuellen Speicher etwas zu finden, braucht es
+Mathematik (Umrechnung von virtuellen Adressen in physische
+Adressen) - aber weil es überall Mathematik braucht, ist das
+schon wieder ein Pleonasmus, deshalb das ";-)". :-|
+
+
+Gruss
+
+Cornelius

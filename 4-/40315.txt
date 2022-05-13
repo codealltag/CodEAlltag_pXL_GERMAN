@@ -1,0 +1,94 @@
+Hm, ich dachte, es war klar, daß ich mit keinem Deiner beiden Begriffe
+ganz zufrieden bin. Kannst Du mir denn das "nur" oben erklären? Für mich
+gibt es da kein "nur", denn die "Sprache Deutsch" ist ein Abstraktum,
+das im richtigen Leben immer in Form einer seiner Varietäten daherkommen
+muß. Der Mensch als Abstraktum hat ein unbestimmtes Geschlecht, aber
+fast jeder konkrete Mensch hat ein bestimmtes, und kommt als Mann oder
+Frau daher (mir ist mal aufgefallen, daß es mich sehr ablenkt, wenn ich
+nicht innerhalb einer Minute klären kann, welcher dieser Sorten mein
+Gegenüber, mit dem ich spreche, angehört).
+
+
+Nein - ich hätte nicht "Ideal" schreiben sollen. Philosophisch sind wir
+vermutlich inkompatibel, das auszudiskutieren führt jetzt zuweit. Aber
+Platoniker bin ich bestimmt nicht. Die Oberbegriffe sind für mich
+(menschengemachte) Abstraktionen aus den konkreten Individuen, und daher
+ist es umgekehrt trivial, daß die Individuen Repräsentanten der
+Abstrakta darstellen.
+
+
+Das aber auch nur, wenn man Deine Definition über die Verständlichkeit
+anerkennt, die mMn schwer zu operationalisieren ist.
+
+Gerade die Annahme dieser Definition führte mich aber zu der Idee der
+"Makrosprache". Ich werde in diesem Beitrag vorübergehend einen neuen
+Terminus "Supersprache" benutzen, um Verwechslungen mit "Dachsprache" zu
+vermeiden.
+
+
+Gut. aber was ist dieses "westgermanisch"? Eine Sprache soll es ja nicht
+sein.
+
+
+Dein Ansatz läuft darauf hinaus, daß es eine "westgermanische
+Sprachfamilie" gibt. Ich bin unzufrieden, diese sich doch recht
+nahestehenden Dialekte terminologisch auf eine Stufe mit der
+"indogermanischen Sprachfamilie" zu stellen (obwohl "Sprachfamilie"
+rekursiv ist, das heißt, eine Familie von Sprachfamilien ist auch eine
+Sprachfamilie).
+
+Darum schlage ich einen weiteren Begriff vor, der geeignet ist, Deine
+Definition der Sprache über die Verständlichkeit zu retten(!)
+
+Im folgenden ist das Testverfahren stets, zwei Sprecher S1, S2
+auszuwählen, und sie ihre jeweilige Muttersprache sprechen zu lassen.
+Dabei soll S1 keine besondere Kenntnis der Muttersprache von S2 haben
+und umgekehrt. Man fragt sich, ob sich S1 und S2 verständigen können.
+
+- Eine Sprache S: S1 und S2 verstehen einander in aller Regel (hierfür
+wäre eine bestimmte Schwelle anzusetzen).
+- Sprachfamilie F: Für zwei beliebige Sprecher S1, S2 aus F ist die
+gegenseitige Verständigung nicht gewährleistet. Man kann die Familie
+aber in zwei oder mehr Teile (A, B, C ...) unterteilen, so daß zwei
+Sprecher aus demselben Teil einander in der Regel verstehen, Sprecher
+aus verschiedenen Teilen in der Regel nicht.
+- Supersprache S: Für beliebige S1 und S2 ist die Verständigung weniger
+sicher, als der Grenzwert für eine Sprache vorsieht. Es läßt sich aber
+keine Unterteilung in zwei Teile A, B finden, so daß ein S1 aus A und
+ein S2 aus B sich in der Regel nicht verstehen
+
+
+Das hat Einfluß auf den alltäglichen Begriff "eine Sprache", der eben
+traditionell-sozial definiert ist - eben darum aber nicht nur auf der
+Verständlichkeit beruht. Ich versuche dagegen, ein rein-linguistisches
+Modell zu schaffen, das ohne diese Referenzen auskommt. In so einem
+Modell sind dann die Typen unwichtig. Standarddeutsch lasse ich nur die
+Sprecher sprechen, deren Muttersprache es ist.
+
+Wobei die Linguisten ganz gut ohne so ein Modell auskommen, sondern
+"Sprache" und "Dialekt" nur fallweise hinreichend, aber nicht
+erschöpfend definieren. Wie übrigens auch andere ihrer Begriffe, z.B.
+"Wort".
+
+
+Autsch - es sollte doch klar sein, daß als Analogon für die
+Äquivalenzrelation "einander verstehen" im Vergleich steht: daß es einen
+Oberbegriff für zwei Farben gibt.
+
+
+Hier ist tatsächlich eine Grenze des Vergleichs, da alle Farben ein
+Kontinuum bilden, während es zwischen Sprachen auch deutliche Grenzen
+gibt.
+
+
+Dort steht "Deutsch" verkürzt für diese eine Varietät. Damit ist aber
+meiner Meinung nach nicht schon ausgesagt, daß es keine anderen Sorten
+von Deutsch gibt.
+
+
+Interessanter für mich ist, was es bedeutet, daß jemand als
+Muttersprache "Deutsch" hat.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

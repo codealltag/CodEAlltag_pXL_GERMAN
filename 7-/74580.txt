@@ -1,0 +1,40 @@
+Pascal . K u s m i e r z wrote:
+
+
+Anfang der 80er.
+
+
+Es ist wenig hilfreich, per Deckwort übertragene Kriegserklärungen
+erst Tage später auszuwerten.  Sprachübertragungen wurden aufgezeichnet
+(nach vollständiger Auswertung wieder gelöscht), Tastfunkübertragungen
+dagegen nie (jedenfalls nicht von uns).
+
+
+Ja, das habe ich damals auch gefragt.  Einfache Antwort: geht nicht.
+Das hat mindestens zwei Gründe: das menschliche Ohr ist verzeihender
+gegenüber Störungen, zum anderen gab es reichlich Q- und vor allem
+Z-Trigramme, die zweimal am Tag geändert wurden.  Was morgens noch
+"Freq. um 10 kHz erhöhen" hieß, konnte abends sonstwas bedeuten.
+Nach Gabe unbekannter Z-Trigramme und danach abbrechendem Funkverkehr
+mußten die Horchfunker sofort "auf die Pirsch" gehen, den Sender
+wieder einfangen und anpeilen.  Im Erfolgsfall wußte man dann, was
+dieses Trigramm für die nächsten 12 Stunden bedeutete.  2-3mal im
+Jahr wurde sogar das komplette Trigramm-Schema gewechselt, dann
+dauerte es etliche Tage, bis wieder einigermaßen "nach Schema Z"
+gearbeitet werden konnte.
+
+Das geht erstens nicht maschinell, und zweitens nicht zeitversetzt.
+Wir hatten einen irre teuren Scanner von Geywitz, der
+Dutzende Frequenzen gleichzeitig überwachen konnte, auch dynamisch
+über einen einstellbaren Frequenzbereich, um etwa neue Sender
+ausfindig zu machen.  Ich kann mich nicht erinnern, daß er uns
+jemals etwas "verraten" hätte, was wir nicht schon längst selbst
+herausgefunden hatten...
+
+
+Mit nur einem Watt Leistung und minimalem Equipment kabellos rund um
+die Welt in Echtzeit kommunizieren zu können, ist ein militärisch
+ausgesprochen wertvolles Feature, findest Du nicht?  :-)
+
+
+marcel

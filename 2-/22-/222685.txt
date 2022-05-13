@@ -1,0 +1,14 @@
+Ich präzisiere:
+
+Jede die Sprache beschreibende Grammatik enthält [...] Sonderregeln und
+Ausnahmen.
+
+Dass es keine die Sprache *genau* beschreibende Grammatik gibt, schon weil die
+Sprache durch unterschiedliche Sprachgewohnheiten ihrer Sprecher geprägt wird,
+ist mir auch klar. Eine "die Sprache beschreiben wollende Grammatik" ist mir
+aber wiederum zu dünn; es geht schon um Grammatiken, die die in der Grammatik
+erwähnten Teile der Sprache mit hinlänglicher Treffsicherheit beschreiben; der
+pure Wille dazu genügt nicht.
+
+-- 
+Leander Zaunseder

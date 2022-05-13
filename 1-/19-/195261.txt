@@ -1,0 +1,12 @@
+Ja. Chronologisch im 15 Minuten-Abstand: 9 Uhr, viertel zehn, halb zehn, 
+dreiviertel zehn, [("ganz") zehn = 10.00 Uhr]
+
+
+Das ist keine Eselsbrücke, sondern eine Esel-Erzeuger-Brücke, da die 
+Redundanz fehlt. Beispiel:
+
+"Wir treffen uns um viertel ... [Tonstörung] zehn".
+
+Wann ist der Treffpunkt?  Um 9.45 Uhr oder um 10.15 Uhr?
+
+jean-paul

@@ -1,0 +1,23 @@
+On Mon, 29. 07. 22 23:57:07 +0200, Cornelius Paolo <yggzj05@cmkogqfts
+
+Nein, ich finde es einfacher, wenn sich schon jemand für mich die Arbeit
+gemacht hat[1], das am häufigsten verwendete brauchbare Zeugs
+zusammenzusuchen und in einem zentralen Repository zur Verfügung zu
+stellen.
+
+
+Damit stehen also per Default gute 22'000 Pakete zur Verfügung.
+
+
+Lass es. Ich habe keine Lust, das Prinzip eines Package-Repositories für
+eine Linux-Distribution zu erklären. Abgesehen davon, ist ein Igitt-Pad
+eine denkbar ungeeignete Entwicklungsplattform.
+
+
+Vinzent.
+
+-- 
+[1] 7-Zip, Audacity, Cygwin, Gimp, Orthomobil, GraphViz, Notepad++, Postshop,
+      OpenOffice.org, TrueCrypt, VLC, VirtualBox.[2]
+[2] Das ist das Geraffel, dass ich mir unter Windows jedesmal immer wieder
+      selbst zusammensuchen und einzeln runterladen darf.

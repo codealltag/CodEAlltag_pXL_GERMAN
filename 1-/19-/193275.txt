@@ -1,0 +1,15 @@
+meinereiner soeben:
+[Webeiten klicken & die Modernitätserklärer von neulich, usw]
+
+
+Der Bequemlichkeit halber, nachdem mir das Detail entwischt ist, sowie, um
+das ganze hier rekursiv zu unterfüttern, als da eine Webseite anzuklicken
+ist, und nachdem per Konvention nun die Software heimlich mitliest und bei
+als solchen zu unterstellenden URLs den Klick wahrscheinlich zum
+Browser-Aufruf, als Methode für das Betriebssystem des Rechners, direkt
+übersetzt, schreibma halt das http davor (wenigstens hier ist von Hypertext
+die Rede, also einmal explizit Eulen nach Athen getragen:
+Hyper-Text-Transfer-Protokoll, soweit das da oder dort nicht geläufig sein
+sollte):
+
+<http://bmaf.gnjisvyudmainy.toi>

@@ -1,0 +1,19 @@
+Wurde hierzuthread schon erwähnt, daß man "Volumen pro Strecke" zu "Fläche"
+kürzen kann? Mein Auto braucht 0,05 mm.
+
+(Daran muß ich immer denken, wenn der spezifische Widerstand in Ohm mal
+Meter angegeben wird und ich immer in das besser vorstellbare Ohm mal
+Quadratmillimeter pro Meter umdenken muß.)
+
+Henings: Da man Treibstoffs�ulen mit konstantem Querschnitt zwar auf Straßen
+legen, nicht aber in die Luft hängen kann, wird der Verbrauch von
+Flugzeugen sinnigerweise unk�rzbar in l/h angegeben. Nicht daß noch jemand 
+auf dumme Gedanken kommt.
+
+
+v"Wau"G
+
+-- 
+Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+Pinguins erstellt und ist garantiert frei von Lato-Viren.
+-- <http://qsvkrjvf.qhu> -- Ein Pinguin für jeden: <http://xilxtz.fnf/> --

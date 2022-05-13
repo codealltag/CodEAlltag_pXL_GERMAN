@@ -1,0 +1,6 @@
+Gérald Csanyi tat kund:
+
+
+Jedenfalls alle, für die die "alte 4.2-BSD-Manpage zu crontab(5)"
+eine normative Bedeutung hat. Aber du sprachst ja auch von einem
+"überschaubaren Bereich".

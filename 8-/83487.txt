@@ -1,0 +1,32 @@
+Es gibt eine Reihenfolge, bei der nichts besonders betont ist. Wenn man davon
+abweicht, betont man eher das, was man nach hinten schiebt.  "Betonen" heißt
+dabei "zur *neuen* Information erklären". Im Satz
+
+  In Fernitz trinkt man oft Wein zum Essen, aber in Frankeneck eher Bier.
+
+kann man schon Fernitz und Frankeneck betonen, um den Gegensatz herauszustellen, 
+aber die neue Information ist dann doch Wein und Bier. Geht es aber darum, 
+*wo* Bier getrunken wird, würde man den Satz umdrehen:
+
+  Wein wird beispielsweise in Fernitz getrunken, Bier dagegen eher in Frankeneck. 
+
+Die unmarkierte Reihenfolge, also die, die entweder keine besondere Betonung
+enthält oder bei der die Hervorhebung nur durch Betonung (laut werden)
+geschieht, ist etwa diese für die Satzteile, die nicht zum Prädikat gehören:
+
+   1. langes oder kurzes Subjekt
+   2. kurzes Akkusativobjekt (Pronomen)
+   3. kurzes Dativobjekt (Pronomen)
+   4. nebensächliches Zeitabverbial (z.B. "dann")
+   5. langes Subjekt
+   6. ernstgemeintes Zeitadverbial (wann?)
+   7. Ortsadverbial statisch (wo?)
+   8. Motivadverbial (warum?)
+   9. Adverbial der Art und Weise (wie?)
+  10. langes Dativobjekt
+  11. langes Akkusativobjekt
+  12. Genitivobjekt
+  13. Richtungsadverbial (woher? wohin?)
+
+-- 
+Raphael Anetzeder

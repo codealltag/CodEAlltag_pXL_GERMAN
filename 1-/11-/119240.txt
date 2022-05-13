@@ -1,0 +1,12 @@
+Das hat einen einfachen Grund. Laut Trümmer und Co können zwei Ereignisse 
+zur selben Zeit stattfinden, aber nicht zwei physikalische Objekte am 
+selben Ort sein.
+
+Abstände von 0,0 in höherdimensionalen Räumen wie zB 
+Supermarktausstattungen machen nur Sinn mit Angabe eines genügend groben 
+Abstandsmaßes, zB der Sortimentszahl oder des umsatzgewichteten 
+Preismittels.
+
+-- 
+
+Achim Clausnitzer

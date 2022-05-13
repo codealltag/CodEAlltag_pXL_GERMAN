@@ -1,0 +1,5 @@
+Wenn meine Familienmitglieder mal wieder ihr Passwort vergessen haben, 
+wird sowas nötig. Auch bei Installationen, beim Bearbeiten von 
+Konfigurationsfiles in /etc etc.
+
+Thorsten

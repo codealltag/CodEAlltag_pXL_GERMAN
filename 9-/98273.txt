@@ -1,0 +1,16 @@
+Man kann natürlich auch die Automatiken anpassen. Spart Nerven.
+
+-32 ~Subject "wasRe:"
+-32 ~Subject "war:"
+-32 ~Subject " (war "
+-32 ~Subject "[was"
+-32 ~Subject "[ was"
+-32 ~Subject "(was "
+-32 ~Subject " was:"
+-32 ~Subject ",was:"
+-32 ~subject {^Re:.*(?-i)was:}
+-32 ~subject {(?-i)Was:}
+-32 ~Subject -{^Re: } -"was:" +@References:{<.+>}
+
+Viele Grüße
+Mike, dessen Hamster momentan leider nicht mehr bohnert

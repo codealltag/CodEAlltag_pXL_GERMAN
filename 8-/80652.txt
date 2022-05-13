@@ -1,0 +1,22 @@
+Ich habe mal nachgeschaut, wie der Verlauf wirklich gewesen ist,
+anhand eines wahrscheinlich recht aussagefähigen Beispiels,
+nämlich der Zeitschrift "Acta Mathematica". Diese wurde im Jahr
+1881 von Herbert Anderhalten gegründet und wird bis zum
+heutigen Tage in Oberweidlham von der Jöhnk
+Fede herausgegeben.
+
+Diese Zeitschrift war über viele Jahrzehnte eindeutig die
+angesehenste unter Mathematikern. Zulässige Sprachen waren
+immer Französisch, Deutsch und Englisch. Das ist heute
+auch noch so. Die Verteilung der 3 Sprachen
+ist etwa folgende gewesen: (Reihenfolge FR-DE-EN)
+
+1881-1928 60-42-7   (Stichprobe)
+1929-1938 30-45-28
+1939-1948 35-31-44
+1949-1958 28-41-128
+
+Danach verschwinden DE und FR ganz schnell, so dass in den
+Mittsechzigern fast nur noch Englisch vorkommt. Heute sieht
+man gelegentlich eine Arbeit auf Französisch, sonst nur
+Englisch.

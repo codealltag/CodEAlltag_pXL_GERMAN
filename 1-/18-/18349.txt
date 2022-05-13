@@ -1,0 +1,10 @@
+Nun, es ist zwar ein allgemein missverstandenes Konzept, aber auch
+Computersprachen wurden in erster Linie zur (Fach-)Kommunikation zwischen
+Menschen entworfen.
+
+Der maschinelle Übersetzer interessiert sich höchst selten für
+Formatierung, Variablennamen oder gar diese überflüssigen Dinger - ähm,
+wie hiessen die gleich noch mal? Ach ja - Kommentare.
+
+
+Vinzent.

@@ -1,0 +1,12 @@
+MUSEN sollte hier stehen: "...-Implementationen deutlich langsamer
+sind." Wenn es aber wichtig ist, daß es sich um jeweils genau eine
+Implementation handelt, dann hat die deutsche Sprache dafür kein
+wirklich elegantes Instrumentarium (und auch keine andere mir bekannte
+Sprache). Ich versuche es mal:
+
+"Es wurden dort auch eine Python- und eine Ruby-Implementation getestet,
+und wie man sieht, sind sie [beide] deutlich langsamer."
+
+-- 
+das beten vermöge niemant dann die grawen wittge GROTTENTHALER V. Nattermoos
+  GRIMM, Deutsches Wörterbuch

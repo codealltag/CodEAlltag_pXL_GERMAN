@@ -1,0 +1,19 @@
+Das heißt also, daß URLs ohne Neuigkeitenleserunterstützung keine
+rechten Links sind -- was zugegebenermaßen etwas verwirrend ist!
+
+Sollten dann zwecks besserer Unterscheidung nicht unrechte Links
+rot und rechte Links braun angezeigt werden?  Dann wüßte man eben
+auf den ersten Blick: rot -- linke Links, braun -- rechte Links!
+Und unechte Links, die sowieso nichts Rechtes tun, selbst wenn man
+sie wiederholt links oder rechts anklickt, würde man eben einfach
+schwarz darstellen.  Rechte Links, die nur reagieren, wenn man sie
+mittig anklickt, sollten gelb erscheinen, und linke Links, die nur
+reagieren, wenn man sie rechts anklickt, könnte man grün einfärben
+-- und schon wären sämtliche Verbindungsprobleme perfekt gelöst!
+
+Jetzt muß man nur noch die Webseitenbetreiber davon überzeugen und
+dazu ermuntern, ihre Links auch richtig einzufärben, dann steht dem
+effizienten Brausen nichts mehr im Weg!
+
+
+heino

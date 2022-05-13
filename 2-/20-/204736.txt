@@ -1,0 +1,47 @@
+Nein. Ein Feuerwand ist eine Wand aus Feuer, d.h. ein undurchdringlicher 
+Brand. Das nicht aufgrund der Logik (schließlich ist ein Feuerlöscher auch 
+nicht ein Lüscher aus Feuer), sondern weil ich es wohl schon so gehört 
+oder gelesen habe, und weil so etwas vorkommt, also Bedarf für ein Wort 
+besteht. Hingegen besteht kein Bedarf für ein zusätzliches Wort für eine 
+Brandmauer. 
+
+
+Die Argumentation setzt voraus, dass das deutsche Genus sich immer nach 
+dem Genus einer Überstzung richtet. Das Thema hatten wir hier schon öfter, 
+mit mir zuletzt im Mai 2012. Ich zitiere mich selbst, weils kurz ist:
+
+--- Zitat ---
+
+Die Regel, dass für Entlehnungen ein deutsches Genus gebildet wird, indem 
+das Genus eines vorhandenen Synonyms übernommen wird, kann durchaus in 
+Einzelfällen zutreffen, aber das lässt sich nicht überprüfen, weil es zu 
+viele Synonyme gibt, so dass sich fast jedes Genus *so* begründen lässt:
+
+der Brief => der E-Mail
+die Mitteilung => die E-Mail
+das Schreiben => das E-Mail
+
+der Locator, der Netzort => der URL
+die (Netz-)Adresse => die URL
+das Netzdomizil => das URL
+
+Ich halte diese Regel sowieso für nachrangig gegenüber der Form des Worts 
+("die Garage", weil im Deutschen Wörter auf -e fast alle feminin sind, 
+wenn sie nicht wohldefinierten Klassen angehören, die anderes Genus 
+verlangen) und gegenüber offensichtlich verwandten Wörtern ("das Date" 
+(Stelldichein, nicht die dort anzutreffende Person) wegen "das Datum").
+
+--- Ende Zitat ---
+
+Ein besseres Beispiel für verwandte Wörter ist "der Swimmingpool" trotz 
+"das Becken" und "das Bassin": hier scheint das verwandte, aber im 
+Deutschen ausgestorbene Wort "der Pfuhl" seine Urständ zu feiern.
+
+Insofern ist "der Firewall" auch denkbar wegen "der Wall". Früher habe ich 
+gern dieses Beispiel gebracht, um das Nebeneinander der konkurrierenden 
+Genusbildungsregeln zu erläutern, was erklärt, dass die Hälfte "der 
+Firewall" und die Hälfte "die Firewall" sagt. Mittlerweile ist die zweite 
+Hälfte wohl die deutlich größere.
+
+-- 
+Eugen Schoenmacker

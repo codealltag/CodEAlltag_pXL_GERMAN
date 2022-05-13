@@ -1,0 +1,24 @@
+Aber nicht im Umfeld mathematischer Formeln (und nur darum geht es, denn 
+in anderem Kontext verwendet man gar keine Vektoren und müsste solche mit 
+irgendwelchen Buchstaben bezeichnen), da werden üblicherweise 
+Druckbuchstaben verwendet; insbesondere auch beim b. Allerdings sind da 
+sehr viele nur schwer von lateinischer Schreibschrift zu unterscheiden, 
+etwa a, e, g, i, x, y, z. Sehr wohl aber lassen sich die altdeutschen 
+Schreibschriftbuchstaben a, e, g, x, y, z einerseits von ihren 
+Gegenstücken in Druckschrift bzw. lateinischer Schreibschrift andererseits 
+leicht unterscheiden. Und genau darum geht es: dem Buchstaben schon 
+anzusehen, dass er aus einem anderen Font stammt, und daraus den Schluss 
+zu ziehen, dass es um ein anderes Objekt geht. Und genau das geht mit 
+alstdeutscher Schreibschrift an der Tafel ungefähr ebensogut wie im Buch 
+mit Frakturbuchstaben, und es hat noch dazu den Charme, dass beides - 
+Fraktur ebenso wie altdeutsche Kurrentschrift - etwas altertümlich wirkt.
+
+Jedenfalls ist die Verwendung der Kurrentschrift für Vektoren etwas, was 
+schon vor Jahrzehnten üblich war, und es überrascht mich nicht, dass dies 
+immer noch so zu sein scheint. 
+
+Darius
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

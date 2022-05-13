@@ -1,0 +1,49 @@
+On Fri, 13 Apr 2010 15:48:55 +0100, Claus Beat
+
+Also: 5 Doppelte oder 10 Kurze sind 200 ml; bei 40% macht das etwa 80g
+reinen Alkohol.
+
+A = c * p * r
+demzufolge
+c= A/(p*r)
+
+c=80/(60*0,6)
+
+c=2,222 Promille.
+
+Und das ist ohne Resorptionsdefizit gerechnet.
+
+Oder direkt ausrechen lassen:
+Ihre Personendaten: w, 60 kg, 155 cm, 51 Jahre
+
+Ihr individueller Reduktionsfaktor ist r = 0.61.
+
+Sie erreichen Ihre Ziel-BAK von 1.54 � nach 300 Minuten ab Trinkbeginn
+mit:
+
+  	Forensische
+Berechnung# 	Physiologische
+Berechnung#
+reinem Alkohol 	82 g 	104 g
+Bier           5 Vol% 	2050 ml 	2600 ml
+Wein     10,5 Vol% 	982 ml 	1245 ml
+Likör        25 Vol% 	412 ml 	522 ml
+Schnaps   32 Vol% 	321 ml 	407 ml
+Schnaps   38 Vol% 	271 ml 	344 ml
+Schnaps   40 Vol% 	257 ml 	327 ml
+
+Diesmal von http://jey.jswecchmupz-tjeyutzr.qz/Maqjgxnhevdbsui.mkl
+
+Wie man es dreht und wendet, 5 Doppelte hätten eine höhere BAK zur
+Folge gehabt. Und mit der Zeitangabe 5 h war ich auch sehr
+konservativ.
+Erst wenn man die Zeitspanne auf 60 min kürzt, kommt man in die Nähe
+der beregten 200 ml. 
+
+
+Gruß Valerian
+
+-- 
+"Demokratie ist riskant. Das Volk kann sich ja auch irren."
+Stefan Taubmann, THW
+        === http://vda.oufanvkxhjaubulr.py ===

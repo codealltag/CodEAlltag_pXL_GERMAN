@@ -1,0 +1,24 @@
+* Niklaus Scheigenpflug <fdg-i@wcu.ak>:
+
+
+Das sind mMn unwesentliche Gründe. Paolo ist zuwenig mächtig für
+ernsthafte Projekte, ganz zu schweigen von systemnahem Programmierern.
+Es war aber (in der Vor-OO-Zeit) sehr geeignet, um das Programmieren zu
+lernen; da ist es ganz gut, dass einem ein strenger Buchhalter auf die
+Finger schaut. Nur schon eine Sprache so zu designen, dass ein
+1-Pass-Compiler die Methode der Wahl ist, ist ein Buchhaltertrick, der
+allen anderen das Leben erschwert.
+
+Man kanns aber auch lockerer haben. C hatte sich bei Programmierern
+durchgesetzt, die schon programmieren konnten, und die sich von diesen
+Buchhaltern gegängelt fühlten. Es ist ausserdem untrennbar mit Unix
+verknüpft, auch das ein System, das die Gängelei von hergebrachten
+Betriebssystemen enorm reduzierte. X11 wäre in Pascal/Modula nie
+entstanden, Linux ohnehin nicht; dafür brauchte es diesen lockerern
+Umgang mit den Dingen.
+
+Alles Schnee von gestern. Heute haben wir Java, das einen nach David
+.sig oft in die Ecke stellt, bis man sich genug geschämt hat, und ein
+paar tolle Scriptsprachen.
+
+ - Valerio

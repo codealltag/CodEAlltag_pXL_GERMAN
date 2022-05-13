@@ -1,0 +1,18 @@
+Das erscheint mir allerdings auch nicht als die korrekte (EDV-)Bedeutung
+von "zeitkritisch".
+
+Zeitkritisch in der heutigen Bedeutung sind spezifische Operationen, die
+innerhalb einer bestimmten Zeit durchgeführt werden /müssen/.
+
+"In fünf Minuten geht die Bombe hoch. Entschärfen sie sie bis dahin!" wäre
+eine zeitkritische Aufgabe, im Gegensatz dazu ist "Entschärfen sie die Bombe
+so schnell wie möglich." bezüglich ihres zeitlichen Risikos keine, auch wenn
+"so schnell es geht" etwas anderes suggeriert.
+
+Wobei subjektiv betrachtet beides "dringend" iSv. "time-critical" sein kann.
+
+
+Vinzent.
+
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

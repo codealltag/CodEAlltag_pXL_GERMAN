@@ -1,0 +1,13 @@
+Mit der 4890902 (oder auch jedem beliebigen anderen Wert) haben wir 9 
+Stützstellen, können also das Polynom ax⁸+bx⁷+...+hx+i = y für die Paare 
+(x,y) = (1,2), (2,4), (3,6), ... (8,16), (9,4890902) aufstellen und 
+erhalten ein lineares Gleichungssystem für die Unbekannten a,b,c, ...i. 
+Daraus erhalten wir Koeffizienten für ein Polynom. Dieses Polynom 
+realisiert genau die beabsichtigte Folge.  Ja, das klappt für beliebige 
+Werte.
+
+Arnold
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

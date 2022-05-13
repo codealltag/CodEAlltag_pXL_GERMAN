@@ -1,0 +1,12 @@
+Das nutzt nichts. Die Zeilen müßten schon im Header stehen. Wenn es eine
+Einstellung gibt, beliebige Header hinzuzufügen, dann könnte das ein
+erträglicher Workaround sein, dann aber bitte:
+
+Content-Type: text/plain; charset="CP1252"
+Content-Transfer-Encoding: 8bit
+
+Ansonsten wäre Morver ein Programm, das dieses Problem lösen könnte, bei
+Fragen dazu kannst Du mich ruhig anschreiben.
+
+-- 
+Ignaz F.

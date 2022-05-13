@@ -1,0 +1,9 @@
+Nicht write only, aber fire and forget.
+Es gibt keinen "sent items"-folder, also kann man
+einmal angeschickte postings nur finden, wenn man
+sich erinnert, in welchem Tread man geschrieben hat,
+oder alle durchsuchen. Also umständlich.
+Ja, ich weiß, dass mir gleich jemand erklärt, wie
+es schneller geht ;-)
+
+/Werner

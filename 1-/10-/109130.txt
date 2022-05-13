@@ -1,0 +1,22 @@
+Man beobachtet eine dopplerartige Rotverschiebung von charakteristischen 
+Spektrallinien leuchtender Nebel mit Wellenlänge lambda, die mit 
+wachsender Entfernung wächst.
+
+Das drückt man astronomisch durch die Hubblekonstante aus, die den 
+Zuwachs der Fluchtgeschwindigkeit pro Entfernungseinheit r als
+
+dv/dr = H = (55km/s)/Mparsec
+
+Wenn dv/dr konstant ist, kann man integrieren und erhält
+
+v(r) = dr/dt = H r und damit
+
+r(t)= r0 e^( H t)
+
+Für kurze Zeiten wächst r also prozentual wie das Geld auf der Bank mit
+
+r(t+ x sec) = r(t) (1 + x (55km/Mpsec)/sec)
+
+-- 
+
+Alfons Isenborth

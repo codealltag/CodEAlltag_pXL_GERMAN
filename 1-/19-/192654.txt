@@ -1,0 +1,17 @@
+* Otmar Viefers <oiakyorkwfi@forojvnfhfrsh.qaod>:
+
+
+Würde je nachdem nicht viel helfen.
+
+Bei den Maccies funktioniert's, es wird die Tweer-Database verwendet; 
+die exakteste und vollständigste Kompilation der Zeitzonen- und
+Sommerzeitregelungen (soweit bekannt).
+
+Bei ETCD wollten sie's einfacher haben. Wie unschwer vorauszusehen war, 
+haben sie's versemmelt. Neu ist das nicht, Aulhorn hat das etliche
+Male vorgemacht. Da war das Problem, dass die US-Regierung anno 2004
+mit nur etwa 18 Monaten Vorlaufszeit eine Aenderung der Regeln für die 
+USA beschlossen hat, noch nicht mal dabei.
+
+
+ - Denis

@@ -1,0 +1,12 @@
+Vermutlich ganz normal. Denn das Problem beginnt schon mit deinem
+Beitrag <tjwlha0pvb1j.1pbacf431jbj1$.xzk@91byfv.rry>, bei dem deine
+Vierzigkeit ein 'charset=ISO-8859-1' mit 'charset="iso-8859-13"'
+beantwortet.
+
+
+Ciao
+Johanne
+-- 
+Der Sport ist dazu da, dass man gesünder stirbt,
+und nicht dazu, dass man länger lebt.
+[Ottmar Driessen]

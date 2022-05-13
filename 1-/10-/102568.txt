@@ -1,0 +1,5 @@
+Alessandro Waagener tat kund:
+
+
+"In $STADT gibt es $TOLLE_SACHE" heißt nicht "Bitte eine
+Liste aller Städte erstellen, wo es $TOLLE_SACHE gibt".

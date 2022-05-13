@@ -1,0 +1,20 @@
+Da hast Du meinem Vorposter geantwortet.
+
+
+SMS und Tweet sind sehr kurze (140) Textnachrichten, längere Texte=20
+werden entspr. aufgeteilt. Das ist nicht der Fall im Usenet.
+
+
+Es ist Sache der Einstellung des Newsprogramms. Mein R.A.D. Großhandel-OE kann auch=20
+lange URLs problemlos darstellen, so daß der Leser diese anklicken =
+kann,=20
+soweit er/sie ein vergleichbares modernes Programm benutzt. Dein ist=20
+"User-Agent: MacSOUP/D-2.8.3 (Rume OS X version 10.7.4 (x86))".
+
+
+Du kannst auch eine maximale (fast unendliche) Zeilenlänge einstellen, =
+
+mein Programm ist auf 72cpl (chars per line) eingestellt und würde=20
+längeren Zeilen (in der Antwort) einen Umbruch verpassen.
+
+MfG, ERHARD [Tdwn_Gjo/sx/n-prsfuo.vy]

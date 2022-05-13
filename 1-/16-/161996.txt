@@ -1,0 +1,23 @@
+Ich würde das so unterscheiden:
+
+ - Bedeutungsgleich heißt, dass man jedes Vorkommen des einen Wortes durch 
+   das andere ersetzen kann. Das ist sehr selten.
+
+ - Bedeutungs�berlappend heißt, dass es Zusammenhänge gibt, in denen die 
+   Wörter bedeutungsgleich sind.
+
+Synonyme sind Wörter mit einem Überlappungsbereich, der in dem 
+Zusammenhang, um den es gerade geht, recht breit ist. Geht es um eine 
+Zeitung, können "Anzeige" und "Annonce" vollständig synonym sein, geht es 
+um die Darstellung des Betriebszustands eines technischen Systems, können 
+"Anzeige" und "Display" synonym sein, geht es um strafrechtliche 
+Ermittlungen, passt keines dieser beiden Synonyme von "Anzeige".
+
+Dort, wo es Synonyme gibt, differenzieren sie sich mitunter nach 
+Sprachregister, aber es gibt auch *wirkliche* Synonyme, z.B. "Anschrift" 
+und "Adresse" im Zusammenhang von Post- oder Wohnanschriften. Was wegen 
+der oben erwähnten Kontextabhängigkeit nicht heißt, dass man statt 
+"Speicheradresse" auch "Speicheranschrift" sagen kann.
+
+-- 
+Manuel Uffermann

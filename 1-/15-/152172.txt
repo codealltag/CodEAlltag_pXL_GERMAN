@@ -1,0 +1,11 @@
+In SI-Einheiten sind
+  20 miles/gallon = 8.50288*10^6 m^-2.
+
+Der Phantasie sind bei der Erklärung dieser denkwürdigen Einheit keine 
+Grenzen gesetzt.
+
+In Energieeinheiten etwa 1 m/Joule, damit könnte man sogar was anfangen.
+
+-- 
+
+Bruno Sußmann

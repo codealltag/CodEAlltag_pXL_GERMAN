@@ -1,0 +1,8 @@
+"Schleudern" war mir bisher allerdings nur transitiv geläufig, so daß
+die Schlagzeile mir den kürzlich im Fernsehen gesehenen "Hulk" in
+Erinnerung rief. Habe ich nur nicht gut aufgepaßt?
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,28 @@
+Angenommen, Fritz Lobers wohnt zur Untermiete bei Jasmine Zar.
+
+Da gibt es ja dieses schöne angelsächsische "c/o" für die
+Adressierung.
+
+Aber wie herum ist es eigentlich richtig?
+
+So:
+
+Fritz Lobers
+   c/o Jasmine Beispiel
+
+oder so:
+
+Jasmine Zar
+   c/o Fritz Lobers
+
+?
+
+Ich habe beides schon gesehen, ersteres aber sehr viel öfter.
+
+c/o meint ja "care of". Das lässt sich auf Deutsch in beide
+"Richtungen" auflösen, einmal nominal (care > Sorge, Obhut...), einmal
+verbal ((ver)sorgen, (sich) kümmern...).
+
+Wie ist es nun formal *richtig*?
+
+MELITTA

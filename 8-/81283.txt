@@ -1,0 +1,9 @@
+Hallo!
+
+Ich möchte eine Überschrift mit 4 Wörtern gesperrt schreiben. Muss ich dann
+alle Abstände verdoppeln? Also zwischen zwei Buchstaben eine Leerstelle und
+zwischen zwei Wörtern zwei Leerstellen?
+Für Hinweise bin ich dankbar.
+
+Gruß
+Heiko

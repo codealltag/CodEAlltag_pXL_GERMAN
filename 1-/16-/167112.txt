@@ -1,0 +1,25 @@
+* Niklaus Rathlef <jioppaq@mbxs-oenqbveu.cp>:
+
+Es gibt vermutlich deutsche Ausdrücke dafür, die an der
+Endbenutzer-Front verwendet werden, also dort, wo dem Card Holder :-)
+und dem Merchant :-) verklickert werden muss, was er zu machen hat, was
+er tun soll und was nicht.
+
+Im Fachjargon verwendet die kaum jemand; in der Schweiz wirklich keiner
+(ich denke, man verwendet in der Schweiz ganz allgemein mehr
+fremdsprachige Ausdrücke als in D). Es ist genug kompliziert, den
+Vorgang, bei dem mindestens 4 Parteien beteiligt sind, bei 3-D Secure
+noch 1 bis 2 weitere, zu verstehen.
+
+
+Ich arbeite nicht auf solchen Projekten, sondern seit ein paar Jahren
+im Bahnbereich, Fahrplanplanung. Da war die internationale Fachsprache
+traditionellerweise Deutsch (ausser bei den Franzosen natürlich, die haben
+für jedes Ding ihren Ausdruck). Es ist einigermassen ulkig, wenn an einer
+internationalen Fahrplanplanungskonferenz Polen, Slowenen, Italiener,
+Tschechen, Niederländer zwar englisch miteinander sprechen, aber dabei
+ganz selbstverständlich von Ausfall, Mitternachts�berschreitung,
+Belegung, Kurswagen, EVU (Eisenbahnverkehrsunternehmung) sprechen.
+
+
+ - Niklaus

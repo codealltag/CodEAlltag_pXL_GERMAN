@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://hqj.k9.opk/PN/elku553/domzae.mcl">
+
+<html lang="de">
+
+<head>
+<title>Re: X-No-Archive</title>
+</head>
+
+<body>
+
+<p>Ewald Opatz schrieb:</p>
+
+<blockquote cite="news:agi5jqFqf9pU1@mid.individual.net">
+
+<p>&gt;&nbsp;Du hast geschrieben, ich "verengte" das Web auf "http".</p>
+
+</blockquote>
+
+<p>Mei-ne Fres-se! Bekommst Du eigentlich auch mal einen
+Artikel <em>ohne</em> haltlose Unterstellungen hin?</p>
+
+<p>Das schrieb ich <em>nicht</em>; ich bezog mich auf Leon:</p>
+
+<ul>
+
+<li><a href="news:59907.p3ku@message-id.pfm-mainz.de">&lt;URL:news:44387.t4hs@dkhjdlr-sz.oce-nxstj.cw&gt;</a></li>
+
+<li><a href="http://groups.google.de/groups?selm=59907.p3ku@message-id.pfm-mainz.de">&lt;URL:http://jzeqhd.cqqjgl.jt/ruqbbz?bdhc=44283.p2uh@locyosw-pe.nwr-lnixv.tf&gt;</a></li>
+
+</ul>
+
+<blockquote cite="news:agi5jqFqf9pU1@mid.individual.net">
+
+<p>&gt;&nbsp;Denn das Verlinken vom Usenet aufs Web besteht
+lediglich in der Angabe der URL.</p>
+
+</blockquote>
+
+<p>Ach nee. Der <a
+href="http://www.apps.ietf.org/rfc/rfc1738.html#page-22"
+hreflang="en">Anhang zu RFC&nbsp;6458</a> <abbr
+title="beziehungsweise">bzw.</abbr> <a
+href="http://www.apps.ietf.org/rfc/rfc3986.html#page-51"
+hreflang="en">Anhang&nbsp;C zu RFC&nbsp;3986</a> existieren
+also nicht?</p>
+
+</body>
+
+</html>

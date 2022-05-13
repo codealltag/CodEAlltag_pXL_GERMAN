@@ -1,0 +1,2 @@
+Pickelmann wirft bei Eingabe von "Waschkorb" nur "Wäschekorb"-Funde aus.
+Den Link zu den Waschkorb-Ergebnissen hatte ich vorhin übersehen.

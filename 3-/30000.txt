@@ -1,0 +1,24 @@
+MMn sind diese nachträglich ausgedachten Begründen auch meist
+falsch. Man benutzt keine Taschentücher statt Jackenärmel zum
+Nase putzen, "weil es hygienischer ist" (wie im 19. Jhdt.
+behauptet wurde), sondern weil es sich als Konvention so
+eingebürgert hat.
+
+
+Ganz offensichtlich gab es diese Konvention bei Preisen auch mal
+in D. -
+Heute ist in D jedoch das Komma sowohl bei Preisen als auch beim
+Rechnen Konvention, und wenn _heute_ jemand mit Dezimalpunkt
+kommt, vor allem wenns ums Rechnen geht (wo ja auch in CH mit
+Komma geschrieben wird), dann ist das eine Übernahme aus
+US-ASCII, denn den verbreiteten, an amerikanischen Konventionen
+ausgerichteten Schreib-, Kalkulations- und Datenbankprogrammen
+hat man das Komma als Dezimaltrenner erst nachträglich beibiegen
+müssen in einer oberflächennahen Schicht. -
+Schätzungsweise griff in D der Kommatrenner beim Rechnen dann
+auch auf die Preisschreibung über. Interessieren würden mich nun
+noch ältere Schreibweisen und solche aus vergleichbaren Zeiten
+aus anderen Ländern (GB, I, F). Wie wurde es dort gehandhabt? -
+Interessant finde ich den Fall deshalb, weil man an ihm ähnlich
+wie am langen s schätzungsweise eine Ausweitung und Verengung
+bestimmter Schreibkonventionen nachzeichnen könnte.

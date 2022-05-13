@@ -1,0 +1,6 @@
+Das wäre ein Armutszeugnis, da das feste Leerzeichen Bestandteil von
+ISO-8859-1 und ähnlichen Zeichensätzen ist. Ich vermute eher, daß die
+meisten Leute nicht wissen, wie man es eingibt.
+
+-- 
+Werner L.

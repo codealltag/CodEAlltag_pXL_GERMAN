@@ -1,0 +1,1 @@
+Das Verhältnis der Größe von Bytes und Worten unterstellst Du implizit?

@@ -1,0 +1,10 @@
+Das Komma trennt Verben ist doch hier eindeutig eine plakative 
+Verkürzung von Das Komma trennt solche Satzteile voneinander, von denen 
+jedes ein eigenes Verb hat. Ich bin nicht sicher, dass das genau genug 
+passt. Man müsste mindestens extra festlegen, wann Verben so stark 
+aufeinander bezogen sind, dass sie nicht durch Komma getrennt werden:
+
+  *Er hätte, sich nicht operieren, lassen, sollen.
+
+-- 
+Ignaz Linsenmaier

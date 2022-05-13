@@ -1,0 +1,14 @@
+Am Wed, 21. 10. 22 22:11:34 +0200 schrieb Bernard Schockert:
+
+
+Das wird ganz normal über Bluetooth realisiert. Insofern ist es eigentlich
+kein Autotelefon mehr sondern nur eine Schnittstelle, die man mit jedem
+handelsüblichen Handy (das Bluetooth hat) koppeln kann.
+
+Klassische Autotelefone mit festeingebautem Gerät mit Hörer und Schnur
+dürften mit dem Ende des C-Netzes ausgestorben sein. Man dürfte sie während
+der Fahrt ja auch gar nicht mehr benutzen (mit dem Hörer).
+
+Größe,
+
+Armin

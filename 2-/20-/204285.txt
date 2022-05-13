@@ -1,0 +1,32 @@
+* Ulrich Lennart Lomans:
+
+
+Das n des Plurals stünde zur Verfügung (Arbeitenzeit).
+
+Die allermeisten Vorderglieder von Komposita sind
+- gleich dem Nominativ singular
+- gleich dem Nominativ plural
+- oder dem Nominativ singular + s, was dem Genitiv entsprechen
+kann oder auch nicht.
+
+Das heißt insbesondere, daß -e, -n, -en typischerweise nur zur
+Verfügung stehen, wenn sie die Pluralform sind. Typischerweise,
+Ausnahmen gibt es.
+
+Dativformen, wo sie vom Nominativ verschieden sind, werden selten
+herangezogen. Andere eindeutige deklinierte Formen haben deutsche
+Substantive nicht, der Akkusativ beispielsweise wiederholt immer
+nur den Nominativ oder den Genitiv.
+
+Daneben gibt es noch eine Reihe anderer Kompositionsformen, die
+dann aber jede für sich so selten sind, daß sie vielleicht gar
+keine Regel darstellen, sondern als Einzelausnahmen gelernt
+werden.
+
+Statt von Fugenlauten spreche ich lieber von der Form des ersten
+Konstituenten, das erklärt die Umlautung, und erlaubt auch
+ausgefallene e (Schulzeit, Gebirgswanderung) und ein paar andere
+Spezialfälle ohne Verrenkung zu beschreiben. 
+
+-- 
+Oscar

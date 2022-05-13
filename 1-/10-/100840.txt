@@ -1,0 +1,5 @@
+Am 2010-09-11 13:31 schrieb Benno Eveslage:
+
+Goldmann ist eben nicht rekursiv.
+
+/Karsten

@@ -1,0 +1,13 @@
+* Ingo P. Zeindlmeyer:
+
+
+Als ich in einer Software-Dokumentation einst schrieb "... der Computer
+delt eine Weile herum, dann [nächster Schritt]", trug das sehr zur
+Auflockerung bei. Es war wichtig, an dieser Stelle auf den Rechner zu
+warten, bei den verwendeten Rechnern war das Festplattenger�usch
+auffällig genug, und dafür war dieses Verb wohl recht sprechend.
+
+-- 
+The most likely way for the world to be destroyed, most experts agree,
+is by accident. That's where we come in; we're computer professionals.
+We cause accidents. -- Ulf Ungelenke

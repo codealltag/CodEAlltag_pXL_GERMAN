@@ -1,0 +1,11 @@
+* Dennis Fahldieck:
+
+
+Dann mußt Du halt genauest auf Kommas achten, denn die können den
+obigen Satz ins Gegenteil verkehren:
+
+Er ging anders, wie die PKTM-Anhänger, vor.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Ulrich Graebe

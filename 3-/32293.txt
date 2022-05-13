@@ -1,0 +1,5 @@
+Ein Zeitpunkt ist keine Zeitdauer. Man kann (bzw. muss) nur zur Angabe
+des Punktes eine Differenz zu einem bekannten Zeitpunkt (Mitternacht,
+1969, Christi Geburt, ...) angeben.
+
+	hp

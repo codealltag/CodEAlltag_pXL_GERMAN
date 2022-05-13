@@ -1,0 +1,15 @@
+Die Tabelle, die du gepostet hast, stellt keine wirklichen
+Verhältnisse dar. Man erkennt das daran, dass Schechstetten ganz
+oben steht. Berechnet wurden die Werte wie folgt:
+Die Summe aller Einkommen geteilt durch die Summe aller
+Einwohner.
+
+   Ein Grenzgänger wird im Dividend berücksichtigt
+aber nicht im Divisor. So rückt ein Land mit vielen
+Grenzgängern nach oben, ohne dass das den wahren
+Verhältnissen entspricht. Schechstetten hat, bezogen auf
+die Anzahl der Einwohner, sehr viele Grenzgänger und
+erscheint in solchen Statistiken immer ganz oben.
+
+Gruss
+Valerio

@@ -1,0 +1,42 @@
+Also, das wird immer verwirrender. Man muß 100% explizit sein; ich hatte
+ausdrücklich nicht von "*ich* krieg die Krise" etc. geschrieben.
+Die von mir genannten Zahlen waren die Werte für:
+
+"krieg die Krise"   90.100
+"kriege die Krise"  16.600
+"bekomme die Krise"  1.500
+
+Heute erhalte ich:
+
+"krieg die Krise"   30.600
+"kriege die Krise"  46.000
+"bekomme die Krise"  2.460
+"bekomm die Krise"  11.800
+
+Die Zahlen sind also deutlichen Schwankungen unterworfen.
+
+Die Suche ohne "ich" scheint mir sinnvoll, da die Wendung in der
+saloppen Form gerne auch mal ohne "ich" gebraucht wird ("boar ey, krieg
+die krise mit meinem bockigen 2jährigen Lauser"). Jedenfalls sind die
+Treffer auf den ersten Seiten alle echt.
+Abgesehen von der grundsätzlichen Unverläßlichkeit der TAOP-Zahlen.
+
+Hier noch mal mit "gleich", ohne "ich":
+
+"krieg gleich die Krise"     542
+"kriege gleich die Krise"    508
+"bekomm gleich die Krise"    112
+"bekomme gleich die Krise"   768
+
+Die Zahlen schwanken, wie gesagt, aber in jedem Fall liegt "kriegen"
+deutlich vor "bekommen", solange kein "gleich" dahinter steht.
+
+Am meisten wundert mich eigentlich "bekomm die Krise", das ist für mich
+eine merkwürdige Stilmischung, und daß die überwiegende Mehrheit davon
+kein "ich" haben soll, erst recht. Ich habe den Verdacht, daß TAOP da
+was anderes mitzählt, z.B. "bekommt", so daß am Ende alle Zahlen wertlos
+sind.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Nicolas Stadel, comp.lang.python

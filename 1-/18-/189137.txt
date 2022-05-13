@@ -1,0 +1,9 @@
+Das sind doch ganz verschiedene Dinge. "Mmh" gehört zum 
+Übertragungsprotokoll und heißt "Die Leitung steht noch, und ich kann Sie 
+gut verstehen". Hört man am Telefon länger als etwa eine Minute zu und 
+unterlässt das "Mmh", dann wird der Andere �bertragungsprotokollelemente 
+wie "Sind Sie noch dran?" einschieben. "Ja" gehört dagegen zu den 
+Nutzdaten und heißt "Ich bin mit dem einverstanden, was Sie sagen".
+
+-- 
+Niels Henßel

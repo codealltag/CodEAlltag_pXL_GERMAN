@@ -1,0 +1,36 @@
+Gerne!  Eine handelsübliche Schere läßt sich in endlicher Zeit
+öffnen und schließen, wie jeder aus persönlicher Anschauung weiß.
+Interessant ist jetzt der exakte Schnittpunkt zwischen den beiden
+Schneiden, der sich stufenlos durch die beiden Scherengriffe
+verändern läßt, indem man sie auseinander- oder zusammendrückt.
+Es macht übrigens auch keinerlei Unterschied, ob man nun beide
+Griffe bewegt, oder nur einen, während der andere fixiert ist.
+
+Beträgt die Schnittlänge einer Schere 10 cm, und die zuvor offene
+Schere wird in einer halben Sekunde geschlossen, ergibt sich für
+den Schnittpunkt eine Geschwindigkeit von 0.1[m]/0.5[s], also
+0.2 m/s -- weit von der Lichtgeschwindigkeit entfernt.  Nur ist
+das eben die Durchschnittsgeschwindigkeit, nicht die Momentan-
+geschwindigkeit des Schnittpunkts zu einem bestimmten Zeitpunkt.
+
+Wenn man von unwichtigen Dingen absieht, könnte man auch eine
+Schere basteln, deren beiden Griffe immer noch bequem in eine
+menschliche Hand paßten, und sich auch genauso schnell bewegen
+ließen, nur daß die Schneiden jeweils 300000 km lang wären.  Der
+Schnittpunkt bewegte sich dann im Schnitt mit 600000 km/s, also
+mit doppelter Lichtgeschwindigkeit -- wohlbemerkt: im Durchschnitt!
+Das heißt, es muß auch Momente gegeben haben, in denen er schneller
+war als "2c".  Und sogar bei unserer Haushaltsschere tut er das,
+nämlich in der Nähe der Achse, aber das ist nicht annähernd so
+anschaulich zu erklären wie bei der o.g. "Mondschere"...  ;-)
+
+Ergo: es *gibt* Überlichtgeschwindigkeit!  Hatte "unser" Daumke
+also unrecht?  Keineswegs, denn der Schnittpunkt hat keine Masse,
+und er überträgt auch keinerlei Information.  Kein Bitchen.
+
+Aber wenn Herr Klooster weiter so trainiert, wird er sicher irnkwann
+auf 100 Metern die Lichtgeschwindigkeit knacken und uns dabei die
+Frohbotschaften seiner Werbepartner überbringen!  :-)
+
+
+günter, 100[m]/9.58[s] als Allgemeine Dopingkonstante vorschlagend

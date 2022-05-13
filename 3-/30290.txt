@@ -1,0 +1,6 @@
+<nitpick>
+Und km/H ist auch eine interessante Einheit für Geschwindigkeit -
+der Kehrwert der Permeabilität?
+</nitpick>
+
+/Lennart ;-)

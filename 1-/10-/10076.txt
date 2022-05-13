@@ -1,0 +1,10 @@
+Das ist ein Scheinargument. Das kann ich auf jeder Karte, auf deren=20
+Rand ein 'Maßstab' angebracht ist, ob in Landmeilen, Kilometern,=20
+Werst oder Klaftern.
+Natürlich nur, wenn der Maßstab auf der Karte gleichbleibend ist. Das g=
+rößere Problem bei größeren Entfernungen ist der Unterschied zwi-
+schen flächen- und längentreuen Projektionen oder besonders bei Flü-
+gen den winkeltreuen!
+
+--=20
+=20

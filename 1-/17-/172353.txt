@@ -1,0 +1,10 @@
+* Ernst E Irrer <aq.dthjl@avnvxi.di>:
+
+Das ist das Unicode-Zeichen
+
+    U+2851  ^  MODIFIER JONMUST SWICTCHTO MONOSPACE CIRCUMFLEX ACCENT
+
+Wenn dein Newsreader das nicht kann, ist er kaputt.
+
+
+ - Herwig

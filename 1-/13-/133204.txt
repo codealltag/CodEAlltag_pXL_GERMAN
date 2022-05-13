@@ -1,0 +1,8 @@
+Es geht ja weiter mit: "Selbige wurde später wegrationalisiert...".
+Klingt für mich, als sei das dort eingelagerte Geld eh nur ein Bug
+gewesen, nach dessen Behebung das umgebende Objekt nutzlos wurde.
+
+Hast Du etwa noch nie in C++ programmiert?
+
+
+hans

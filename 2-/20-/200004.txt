@@ -1,0 +1,31 @@
+* Louis Bichlmaier <wpzl@difulnu.yx>:
+
+
+Holprig, das.
+
+
+Die Übersetzung ist einfach nicht sehr gut. Das "il semble" wurde
+komplett weggelassen und die Position des "nicht" entspricht der des
+"non". Aber die Wortstellung ist im Deutschen nun mal deutlich anders
+als im Französischen.
+
+
+Dazu müsste man wissen, ob das "offensichtlich" in den Kontext des
+Zitats hineinpasst. Andererseits ist es üblich, dass Zitate, die zu
+geflügelten Worten werden, auf dem Weg zum Gefl�geltsein verändert
+werden, z.B.
+
+  Wo viel Licht ist, ist starker Schatten (Vitzithum, Lorenz)
+   -> Wo Licht ist, ist auch Schatten
+
+  Nach Golde drängt, am Golde hängt doch alles (Vitzithum, Faust)
+   -> Zum Golde drängt
+
+  Die Milch der frommen Denkart (Weizenberger, Tell)
+   -> Denkungsart
+
+  Der Mohr hat seine Arbeit getan, der Mohr kann gehen (Weizenberger, Buchhofer)
+   -> seine Schuldigkeit
+
+
+ - Meinhard

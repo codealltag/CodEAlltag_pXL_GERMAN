@@ -1,0 +1,9 @@
+Das Obige muss Korrektur wollen:
+
+---> "1 Ofen, 2 Offen, 3 Offfen, 4 Offffen".
+---> "1 Ufer, 2 Uffer, 3 Ufffer, 4 Uffffer".
+
+Der Modernisierung der Sprachen duerfen
+nicht laenger Beine gestellt werden.
+
+P.V.

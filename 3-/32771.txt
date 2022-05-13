@@ -1,0 +1,9 @@
+Übersetzt man aber physical, so ergibt sich physisch oder
+physikalisch.
+
+Physischer Speicher wäre MUSEN die bessere Alternative. Aber heute
+sind wir ja schon weiter; jetzt werden im Rahmen der Konsolidierung
+auch physikalische Server durch virtuelle solche ersetzt.
+
+Gruß
+Tino

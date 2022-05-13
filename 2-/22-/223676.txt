@@ -1,0 +1,9 @@
+Wolltest Du den "Sprachwandel" demonstrieren?
+
+"Ein Kauf lohnt sich nicht ..."
+                     ^^^^
+"... nur wegen der einen Geschichte"
+     ^^^^^^^^^
+
+
+Traude

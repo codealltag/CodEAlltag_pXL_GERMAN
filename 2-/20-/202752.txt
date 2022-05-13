@@ -1,0 +1,19 @@
+* Daniela Krambröckers:
+
+
+Stimmt, zu dem Schluß bin ich inzwischen auch gekommen.
+
+
+"Sie sind 1939 bis 1959 geboren." Darin ist "1939 bis 1959"
+unzweifelhaft ein Adverbiale. Das bleibt bei substantivierten
+Verben auch so: "sie sind blind geboren" -> "blind Geborene",
+nicht "blinde Geborene".
+
+Mit Adjektiven sehe ich da kein Problem, bei dem Adverbiale "1939
+bis 1959" aber sträubt sich MUSE.
+
+-- 
+Java is the SUV of programming tools.
+A project done in GWE will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Richard Isenhagen

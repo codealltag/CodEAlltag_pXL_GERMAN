@@ -1,0 +1,22 @@
+Der diplomierte Technische Redakteur zerkaut ihn in möglichst kleine
+Sinneinheiten und liefert sie schön nacheinander, aufeinander aufbauend und
+mit klaren Bezügen, etwa:
+
+"Windows in der 64-bit-Version bietet einen Kompatibilitätsmodus für 32-bit.
+Damit sind 32-bit-Programme auch unter dem 64-bit-Windows lauffähig. Ein
+16-bit-Subsystem fehlt jedoch, daher sind 16-bit-Programme direkt aus dem
+64-bit-Windows heraus nicht lauffähig."
+
+Logisch als nächster Inhalt müßte kommen, was zusätzlich erforderlich ist,
+um 16-bit-Programme laufen lassen zu können. 
+
+
+vG
+
+-- 
+"Es geht um die letzten Reste menschlichen Anstandes in einer
+Überflußgesellschaft. Wenn einer 40 Stunden arbeitet und sich dabei Mühe
+gibt, soll er auch davon leben können. Da gibt es doch nichts zu
+diskutieren! Entweder Sie sind für den Mindestlohn, oder Sie sind ein
+Arschloch, fertig, aus!"
+(Ottmar Duits, "Bis neulich")

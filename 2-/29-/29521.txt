@@ -1,0 +1,6 @@
+Üblicherweise nicht, aber für den gegenwärtigen Zweck kann man
+Primzahlen auch mal so definieren. Nenne es Primzahlen_1, denke an die
+Menge N_0 (ℕ₀ - hm, sieht in diesem Font nicht überzeugend aus).
+
+-- 
+Michel D.

@@ -1,0 +1,18 @@
+Frs Russbült schlage ich � vor, das gibts schon im Albanischen.
+
+
+Man könnte auch diakritische Zeichen für lange *und* für kurze Vokale haben
+und die dann jeweils weglassen, wenn sich die Länge schon aus der Umgebung
+ergibt (z.B. ein folgenden Konsonant => lang; zwei folgende Konsonanten =>
+kurz, also: Hose, Mor, kosten, Korb, Rast, Herz; jedoch Bst, Mnd, rst,
+Rz.
+
+Spaß machen würde es mir schon, etwas zu erfinden, das regelmäßiger ist als
+alles Bisherige und trotzdem die Texte nur mäßig verunstaltet. Wenn man eine
+bestimmte Sprache zugrundelegt, muss eine phonetische (mit Zugeständnissen
+an die Phoneme) Schreibweise nicht so hässlich aussehen wie Lautschrift.
+Aber ich will ja gar keine Änderung, und bin auch nicht der Meinung, dass
+die exakte Wiedergabe der Lautung vornehmste Aufgabe der Schrift ist.
+
+-- 
+Ulrich Chemnitzer

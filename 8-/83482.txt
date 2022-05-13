@@ -1,0 +1,39 @@
+Die Satzstellung kann aber eines von mehreren Indizien sein, die 
+tatsächliche Betonung ein anderes.
+
+Die generelle Regel, die viele Ausnahmen zulässt, würde ich so formulieren:
+
+1. Es gibt eine unmarkierte Reihenfolge, durch die keine besondere
+   Hervorhebung eines Fokus (auch "Rhema" genannt, also die durch den Satz
+   vermittelte *neue* Information, im Gegensatz zum "Thema", dem schon
+   bekannten Kontext) vermittelt wird. Die Länge eines Satzglieds kann dabei
+   eine Rolle spielen: je länger das Satzglid ist, desto eher wird es ohne
+   bestimmten Grund nach hinten verfrachtet.
+
+2. Wer von der unmarkierten Reihenfolge abweicht, setzt dadurch den nach
+   hinten verschobenen Satzteil in den Fokus.
+
+3. Wer in der unmarkierten Reihenfolge einen Satzteil betont, setzt ihn
+   dadurch in den Fokus.
+
+4. Wer in der markierten Reihenfolge den Satzteil im Fokus zusätzlich betont,
+   setzt ihn dadurch noch deutlicher in den Fokus.
+
+5. Wer in der markierten Reihenfolge einen anderen Satzteil als den im Fokus
+   zusätzlich betont, verwirrt die Leute.
+
+Beispiele:
+
+1. Ich habe meinem Bruder dieses Buch gekauft.
+
+2. Ich habe dieses Buch meinem Bruder gekauft. (also nicht jemand anderem)
+
+3. Ich habe *meinem Bruder* dieses Buch gekauft. (also nicht jemand anderem)
+
+4. Ich habe dieses Buch *meinem Bruder* gekauft. (also nicht jemand anderem,
+   wie ihr sicher alle gedacht habt)
+
+5. Ich habe *dieses Buch* meinem Bruder gekauft. (also was denn nun?)
+
+-- 
+Wilhelm Mölder

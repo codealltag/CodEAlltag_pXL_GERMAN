@@ -1,0 +1,7 @@
+Ivan Conradsen tat kund:
+
+
+Bei One Time Pads macht man das aber so, oder sollte
+es zumindest. Der Schlüssel paßt zwar auch zu anderen
+Texten, darf aber, damit die volle Sicherheit erreicht
+wird, nur einmal verwendet werden.

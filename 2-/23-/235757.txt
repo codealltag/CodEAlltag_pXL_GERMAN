@@ -1,0 +1,28 @@
+über "1+1=2" wird ja auch nicht abgestimmt, sondern allenfalls über eine
+Vorgehensweise, eine Strategie oder ein Gesetz, das in seiner Begründung von
+der Gesetzmäßigkeit "1+1=2" Gebrauch macht. Die Aussage ist dann nicht,
+"1+1=2" sei aus irgendwelchen Axiomen herleitbar, sondern vielmehr, die
+Wirklichkeit hinter dem Vorhaben sei ein Modell der Theorie, in der man
+"1+1=2" beweisen kann, mithin seien die Sätze der Theorie dort anwendbar.
+Diese Aussage ist aber eine Sachaussage.
+
+
+Die Reihenfolge bei jedem Schluss ist:
+
+1. Was ich in der Wirklichkeit vorfinde, wird durch die Axiome beschrieben.
+2. Aus den Axiomen schließe ich auf Sätze.
+3. Wenn (1) zutrifft, kann ich die Sätze auf die Wirklichkeit anwenden. 
+
+Weil die Wirklichkeit, in der ich pleite gehe oder nicht, unter anderem durch
+die der Arithmetik zugrundeliegenden Axiome ganz gut beschrieben wird, ist es
+sinnvoll, die Arithmetik zur Vermeidung einer Pleite einzusetzen, obwohl sie
+nur mathematischer Natur ist.
+
+Der Schritt (1) ist praktisch immer induktiver Natur: weil es bis jetzt immer
+so war, wird es wohl immer so sein, und die Aussage "es ist immer so" ist ein
+nützliches Axiom meiner Theorie. Die Mathematik und die Logik formalisieren
+diesen Schritt nicht, sondern nur den Schritt 2. *Dafür* aber sind die
+praxistauglich.
+
+-- 
+Lars Bartelme

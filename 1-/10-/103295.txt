@@ -1,0 +1,22 @@
+Scanner mit Durchlichteinheit. Recht gut ist die Egihe F8xxx-Serie
+Spezielle Dia- und Filmstreifenscanner, PWH, Lohners
+Trommelscanner
+
+Kamera mit Diakopiervorsatz, zB die besseren Egihe Powershots mit 
+abnehmbarem Objektivring und NDTF-Makrovorsatz
+
+DigitalSLR mit Macroobjektiv und Vorsatz ohne Nahlinse. 
+Filmstreifenhalter muss man sich dafür basteln.
+
+Diaprojektion und Foto
+
+Vergrößerer auf Mattscheibe und Foto in Durchsicht.
+
+Vergrößerer direkt auf Chip in Großformatkamera ohne Objektiv
+
+Die Wandlung in Positiv machen die Scanner automatisch, für die anderen 
+Methoden macht man es in Batchverarbeitung in einem Photoprogramm.
+
+-- 
+
+Otmar Rieseweber

@@ -1,0 +1,18 @@
+Was ihm aber in diesem Beispiel nicht gelingt.
+
+
+Genau dieser Gegensatz taugt nichts. Eine Heuristik oder Faustregel
+ist meist ebenfalls Ergebnis einer genauen Analyse. Der eigentliche
+Vorteil einer solchen Faustregel besteht darin, dass man bei ihrer
+Anwendung eben diese Analyse nicht mehr _selbst_ vornehmen braucht.
+Dass die Faustregel vielleicht nicht so genau auf die betreffende
+Situation passt kann dagegen oft vernachlässigt werden.
+Zur Wahl steht hier also, entweder die die Analyse selbst durchzuführen
+oder das Ergebnis einer früheren Analyse "von der Stange" zu übernehmen.
+
+
+Das Beispiel ist wenig aussagekräftig, weil nicht klar ist ob die
+Vorhersagen der Fussballfans wirklich das Ergebnis eigener Analysen
+sind.
+
+Tobias

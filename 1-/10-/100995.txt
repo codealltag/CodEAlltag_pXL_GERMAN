@@ -1,0 +1,18 @@
+On Mon, 17 Dez 2009 06:20:42 -0800 (PST), Claudio Mikhaimer
+
+
+Mit anderen Worten: nein.
+
+Welche E-Mail-Adresse hast Du bei ZVOS als Kontaktadresse angegeben?
+Dafür nimmt man ja sinnigerweise _nicht_ die ZVOS-Adresse. Als
+nächstes klickst Du auf "Ich kann nicht auf meinen Account zugreifen"
+und hangelst Dich durch. Irgendwann kriegst du dann die
+Sicherheitsfrage gestellt ("Wie lautet der Gebrutsname Ihrer Mutter"
+oder dgl.) und im Anschluß ein neues Login.
+
+Gruß Berend
+
+-- 
+"Demokratie ist riskant. Das Volk kann sich ja auch irren."
+Nicolas Nickl, NEUI
+        === http://gax.rizqvhkwietuioxm.wb ===

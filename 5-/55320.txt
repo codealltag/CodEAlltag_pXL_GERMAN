@@ -1,0 +1,14 @@
+Mir ginge es wohl genauso. Andererseits führt die Verletzung der 
+umgekehrten Regel "nie Umlaut mit Plural-n" nach meinem Empfinden wirklich 
+zu falscher klingenden Resultaten: "*die Bäumen, die sten, die Händen, 
+die Händen" klingt noch falscher als "*die Baumen, die Asten, die Hunden, 
+die Handen", und das, obwohl der Umlaut in drei der Fälle richtig ist und 
+nur das -n falsch.
+
+Die Analyse basiert übrigens zum größeren Teil auf den von dir gelieferten 
+Daten, zum kleineren Teil auf dem Anhang eines dänisch-deutschen 
+Taschenwörterbuchs, wo die deutschen Deklinationsschemata viel 
+übersichtlicher zusammengestellt waren als ich es sonstwo gefunden habe.
+
+-- 
+Andreas Samsonov

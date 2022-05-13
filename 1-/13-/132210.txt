@@ -1,0 +1,15 @@
+Ich habe das Gefühl, daß dieser ERSU-Bug eventuell auch durch
+Sonderzeichen im Subject verursacht wird. Jedenfalls wurden die
+Threads "Führer-Scheinfirma" und "Daumen drücken oder Finger kreuzen
+fürs Glück wünschen" erwähnt, die zerpflückt wurden.
+
+Noch einmal an alle: bitte denkt dran, daß Subjects mit Umlauten und
+Eszett früher oder später verstümmelt werden. ERSU macht dann
+schlimmstenfalls einen neuen Thread draus, aber auch normale Reader
+sind meist überfordert.
+
+
+Vielen Dank, werde ich mir anschauen.
+
+Viele Grüße
+Klaus

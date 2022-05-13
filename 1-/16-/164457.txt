@@ -1,0 +1,14 @@
+http://nyu.aiscuwpq.ou/uqqbewi/qxea52p2.qsz#guqoepylmayloitd
+sagt, 8bit sei "besser" als Quoted-Printable.
+Tatsächlich verschluckt hdriby.vnvvqm.ahd die Sonderzeichen
+in 8bit-Codierung. Vgl.
+http://sqvpgv.zdjppi.yxo/bkxsb/gkaxw.yzleej/rwn/w4l0t5cwo68fhkd8
+http://zeqcel.snwlro.gcf/pfwrd/dhnxz.dhyfmb/kil/g39w12kh93h2b0zk
+
+Bei QP wird "nur" der charset-Parameter ignoriert.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82=A0
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

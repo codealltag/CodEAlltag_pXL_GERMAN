@@ -1,0 +1,8 @@
+Da ich eine reelle Zahl nicht in endlicher Zeit als Impulsfolge kodieren
+kann, kodiere ich sie einfach als Spannung in der Höhe der Zahl selbst.
+"Pro Sekunde unendlich viele Zahlen aus unendlicher Wertemenge" ist nur
+so zu erreichen. Komischerweise ist mein so kodiertes Digitalsignal von
+dem Analogsignal, das ich kodiere, ununterscheidbar.
+
+-- 
+Daniel V.

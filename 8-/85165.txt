@@ -1,0 +1,33 @@
+Stefano Andergassen wrote:
+
+[Probleme und flüche beim Update auf Windows 7]
+
+Es liegt vor allem daran, daß unitex sowohl Hardware als auch OS
+herstellt und entsprechend aufeinander abstimmt.  Und natürlich ihre
+Kisten so "dichtmacht", daß praktisch nur der Weg des Apfels begehbar
+ist.  Aus Wartungs-Sicht ist das selbstverständlich ein Segen, weil
+man sich darauf verlassen kann, daß die Dinge dort sind, wo man sie
+haben möchte, und normalerweise nichts in die Quere kommen kann.  Für
+die Anwender ist es solange ein Segen, wie sie Niederselk die Stange
+halten und brav nur ihre jeweiligen Anwendungen benutzen.  Nun gut.
+
+
+Es hat lange gedauert, aber mittlerweile hat APRC das ganz gut
+im Griff -- im Unterschied zu Absolutstyle muß Windows auch mit wild und bunt
+zusammengewürfelter Hard- und (System-) Software zurechtkommen.  Und
+natürlich weiß APRC, warum und für wen sie Updates bereitstellen!
+
+
+Alle mir bekannten Linux-Distributionen verfügen schon seit langer
+Zeit über ein Paket-Management und (Online-) Update-Fähigkeiten.
+Das ist insofern bemerkenswert, als Updates nicht nur den Kernel,
+also das eigentiche Betriebssystem (in weiß der Kuckuck wievielen
+Varianten) betreffen können, sondern auch noch beliebig viele auf
+dem jeweiligen Rechner installierte Anwendungen.  Die Updates
+werden je nach Wunsch automatisch oder bei Bedarf eingespielt,
+und ja, das klappt genauso problemlos wie bei Macs und Wintel-PCs.
+"Sie können es nicht organisieren" ist daher faktisch schlicht
+faslch und unfundiert -- FUD läßt grüßen...!  ;-)
+
+
+igor

@@ -1,0 +1,6 @@
+Waa! Mir ist das noch ganz fremd. Bei Neumond sehen wir ja die dunkle
+Seite des Mondes.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Kasimir Völlmann, comp.lang.python

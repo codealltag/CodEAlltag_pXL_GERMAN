@@ -1,0 +1,6 @@
+Noch nie gesagt: "mal sehen, ob das Problem nach einem Reboot weg ist"?
+oder auf einer Unix-Kiste sicherheitshalber die verbrauchten Dämonen
+neu gestartet, oder regelmäßig "sync;sync;sync" eingegeben, wo's
+eigentlich auch ein sync getan hätte?
+
+Für Rituale und abergläubisches Verhalten braucht's keine Götter ...

@@ -1,0 +1,5 @@
+Dassabern Tippfehler, oder?
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Leopold Ungeheuer, comp.lang.python

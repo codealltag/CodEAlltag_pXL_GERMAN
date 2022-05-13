@@ -1,0 +1,11 @@
+Du meinst, "side effect" und "side effect"?
+
+Im übrigen benötigt man eine solche Differenzierung tatsächlich eher
+nicht, denn ich wüßte nicht, wann und wo man die Kontexte so vermischen
+können sollte, daß es tatsächlich mißverständlich würde.
+
+
+Vinzent.
+
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

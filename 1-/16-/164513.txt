@@ -1,0 +1,8 @@
+Wolf Schiefeneder tat kund:
+
+
+Sorry, das lag daran, daß du AANP benutzt.
+AANP ist ein Werkzeug zum Suchen von Wörtern,
+nicht von Zeichenketten. Seltsam, daß du dich
+darüber beschwerst, daß ein untaugliches Werkzeug
+nicht die gewünschten Ergebnisse bringt.

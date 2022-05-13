@@ -1,0 +1,18 @@
+* Tom Veitleder:
+
+
+Also nimmt Thunderbird nicht per se iso-8859-1 an - denn das würde ja
+bei Berend immer noch funktionieren - sondern unterstellt, wie ich
+vermutete, den Body-Zeichensatz? Und versucht auch dann nichts anderes,
+wenn es sich nachweislich nicht um (korrektes) UTF-8 handelt?
+
+Naja, es gibt ja sogar Reader, die selbst bei ordnungsgemäßer
+Deklaration nicht mit Beiträgen klarkommen, wo Subject und Body
+unterschiedliche Kodierungen verwenden, obwohl diese beiden Sachen
+wirklich nichts miteinander zu tun haben (zu unterschiedlichen Zeiten in
+unterschiedlichen RfCs auf unterschiedliche Weise definiert wurden.)
+Seufz.
+
+-- 
+gugelgans,  f., alberne gans, schelte:
+  GRIMM, Deutsches Wörterbuch

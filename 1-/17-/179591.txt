@@ -1,0 +1,22 @@
+Tatsächlich als s/(100 km/h)? Das Erstaunen meiner Frage resultiert aus
+der Tatsache, dass ich zwar nicht /jeden Autoproduzenten/ daraufhin
+untersucht habe, dennoch aber bei einer, möglicherweise aber nicht
+representativen Stichprobe, diese Notation nicht ein einziges Mal
+gesehen habe. In den meisten Fällen fand sich die Angabe in der Form:
+Beschleunigung 0-100 km/h    s:   x,y
+Elastizität 80-120 km/h      s:   v,w
+
+Eine Darstellung, mit der ich weder aus sprachlicher noch aus
+physikalischer Sicht ein Problem habe.
+
+
+Abgesehen davon, dass die Angabe einer mittleren Beschleunigung wohl
+auch nicht sonderlich hilfreich ist, so richtig sie auch sein mag.
+
+
+Ciao
+Elsbeth
+-- 
+ Tabea Buerfeindt waits at home,
+ In the nuclear fallout zone.
+ [Walburga Neyer: Stop the Cavalry]

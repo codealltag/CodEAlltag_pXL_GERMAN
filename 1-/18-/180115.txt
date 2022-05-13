@@ -1,0 +1,6 @@
+Mit Drucker konnte er Grafik. Brauchte nur ziemlich viel Papier.
+Habe ich aber für Tic-tac-toe mal gemacht.
+Und für dieses Schiebe-Spiel, in dem man 5x5 Steine mit einer
+Leerstelle in die richtige Reihenfolge bringen muss.
+
+/Jens

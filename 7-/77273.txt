@@ -1,0 +1,14 @@
+Nach einem Kalender, der keinen 10. September enthält, wäre Dein
+Geburtstag natürlich auch nicht am 4. September, sondern am 37.
+Krullmux oder was auch immer.
+
+Der balinesische Kalender hat zum Beispiel einen 210-Tage-Zyklus, danach
+hat man schon mal in fast jedem unserer Jahre zwei balinesische
+Geburtstage. In China gab es zwei Kalender, einen religiösen und einen
+bäuerlichen. Nach Informatikersitte kann man feiern, daß man 12000 Tage
+oder 12500 Tage alt wird etc.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

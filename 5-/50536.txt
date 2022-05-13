@@ -1,0 +1,18 @@
+[...]
+
+
+Dieses Beispiel läßt auch keine Zweifel über den Bezug aufkommen.
+
+Mich stört im Original, daß das "was" auf eine falsche Fährte lockt, und
+das würde es vielleicht sogar im mündlichen. Ich erwartete nämlich
+zuerst sowas wie:
+
+"Manchmal genügen ganz kleine Zeichen, wie das, was die Familie Antz
+mit ihrem Gemüsegarten vor dem Weißen Haus [gemacht haben. Sie verwenden
+dort keinen Kunstdünger mehr.]"
+
+-- 
+Java is the SUV of programming tools.
+A project done in Inspiration will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Simon Broeckmann

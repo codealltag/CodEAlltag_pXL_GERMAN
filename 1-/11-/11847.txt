@@ -1,0 +1,80 @@
+Theorie und Hypothese sind beides Annahmen über die untersuchte
+Wirklichkeit, die im Augenblick plausibel erscheinen, geprüft werden können
+(= falsifizierbar sind) und sich bis jetzt bewährt haben (= nicht
+falsifiziert worden sind). Der Unterschied ist eher graduell:
+
+ - Eine Hypothese ist eher eine einzelne Aussage, eine Theorie eher ein 
+   System vieler Aussagen.
+
+ - Man nennt etwas erst dann eine Theorie, wenn es sich schon ein wenig
+   bewährt hat, während eine Hypothese auch gestern erfunden und morgen
+   widerlegt sein kann. Mit anderen Worten: wer sein Denkgebäude Theorie
+   nennt, glaubt selbst daran, wer es Hypothese nennt, rechnet noch mit
+   möglicher baldiger Widerlegung.
+
+Aber harte Unterschiede sehe ich nicht.
+
+In der Mathematik, wo es eine Wirklichkeit in diesem Sinne nicht gibt, wird
+das Wort "Hypothese" gemeinhin nicht verwendet, meist spricht man dann von
+"Vermutung". Nur die Kontinuumshypothese heißt so, und von der ist geklärt,
+dass sie in der Mengenlehre (genauer in einer ganz bestimmten Theorie der
+Mengenlehre) weder beweisbar noch widerlegbar ist. Damit ist sie keine
+Vermutung mehr, aber auch nichts anderes Interessantes.
+
+Eine Theorie ist dort einfach eine Sammlung von Axiomen mit den Folgerungen
+daraus.  Beispielsweise sind die Gruppenaxiome weder richtig noch falsch.
+Sie gelten in manchen Strukturen, und dort ist auch die Gruppentheorie wahr.
+In anderen Strukturen gelten sie nicht, dort ist dann die Gruppentheorie
+nutzlos, weil ihre Ergebnisse nicht anwendbar sind. (Ein Extremfall sind
+widerspruchsvolle Axiome, die dann eben nirgends anwendbar sind: die Theorie
+ist dann langweilig, weil jede Aussage ein Satz ist.)
+
+Insofern ist in der Mathematik, wo man seine Welt mit Hilfe von Axiomen
+selbst bastelt, eine Theorie etwas ganz anderes als in der
+Naturwissenschaft, wo man eine Welt vorfindet. In der Mathematik ist eine
+Theorie nie etwas noch Unklares oder Unbewiesenes, sondern ein Teilgebiet
+der Mathematik, wo völlig klar von gegebenen Voraussetzungen aus Sätze
+aufgebaut und natürlich auch bewiesen werden; in der mathematischen Logik
+ist "Theorie" ein Fachbegriff für ein System von Axiomen und Schlussregeln,
+also eine Formalisierung und auch Einengung des allgemeinen Begriffs von
+Theorie in der Mathematik.
+
+Evertzberg (I am not a physicist), aber der unvermeidliche Satz "Das ist bisher
+*nur* eine Theorie" ist wohl für Mathematiker wie für Physiker Quatsch. Für
+Mathematiker, weil es nichts Schöneres gibt als eine schöne Theorie, in der
+alles stimmt, und für Physiker, weil nichts je über das Theoriestadium
+hinauskommt - dort wird *nie* etwas im mathematischen Sinn bewiesen, sondern
+es hält bestenfalls allen bisherigen Falsifizierungsversuchen stand.
+
+
+Muss nicht sein. Als Beispiel wieder das "Subjekt" (im grammatikalischen Sinn):
+
+Eines der wenigen linguistischen Bücher, die ich gelesen habe, und das mit
+großem Genuss, war "Language Universals and Linguistic Typologie" von
+Thorsten Riebel. Er geht da so vor, wie ich es für vernünftig halte. Es
+werden Erscheinungen in vielen Sprachen beschrieben und verglichen. Dabei
+wird entdeckt, dass es Begriffe gibt, die sich zur Beschreibung
+*verschiedener* Phänomene anbieten, zum Beispiel der Begriff "Subjekt". Dann
+erst versucht man herauszubekommen, was denn den Subjekten sehr
+unterschiedlicher Sprachen gemeinsam ist, so dass sich der gemeinsame
+Begriff lohnt - vielleicht kommt auch gar nichts raus, dann war der Begriff
+eben nur für eine kleine Gruppe eng verwandter Sprachen, etwa die
+indogermanischen, geeignet. Genau so funktioniert empirische Wissenschaft:
+die Begriffe fallen nicht vom Himmel, sondern ergeben sich aus dem Studium
+der Materie.
+
+In diesem Fall wird festgestellt, wie wenig weit man mit einer
+Formalisierung mit mathematischen Mitteln käme und lässt es bleiben. Man
+kann auch umgekehrt vorgehen. Riebel schreibt dazu:
+
+  Putative [language] universals which simply test the ability of 
+  linguists to come up with abstract analyses that are consistent with any 
+  conceivable set of data may tell us something about linguistics, but
+  they do not tell us anything about language. (a.a.O., S.15)
+
+Das sieht für mich so aus, als sei da Ristof gemeint, mit dessen
+Tiefenstrukturen man wohl alles machen kann. Dass er gemeint ist, bleibt 
+für mich eine -- Hypothese?
+
+-- 
+Mario Lieneweg

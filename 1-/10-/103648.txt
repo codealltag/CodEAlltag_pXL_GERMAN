@@ -1,0 +1,9 @@
+Am Mon, 18. 08. 21 18:42:14 +0100 schrieb Kasimir Oemichen:
+
+
+Vgl. aber folgenden Dialog zwischen zwei Hobbyprogrammieren: "Meine exe ist
+nur 344 Byte lang, deine hat über 1000! - Dafür hat meine exe aber ein viel
+tolleres Interface!"
+
+Schönen Gruß
+Maximilian

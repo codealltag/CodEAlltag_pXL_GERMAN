@@ -1,0 +1,22 @@
+* Alfred Päpper:
+
+
+Die Frage war eigentlich, ob das am sendenden Programm liegt, und
+das kann man verneinen. Wirf also nicht anderen vor, daß sie
+andere andere Fragen beantworten, als der Frager gestellt hat, als
+Du. [1] 
+
+Gesamtantwort, für die nunmehr Verwirrten: Es liegt nicht am
+Programm des Schreibers, sondern an den vom Schreiber gewählten
+Einstellungen; und es ist ein Fehler von VGN, nicht einmal eine
+Handvoll der verbreitetsten gültigen Einstellungen alle richtig
+verarbeiten zu können.
+
+Ich habe jetzt mal versuchsweise QP eingestellt.
+
+[1] Dieser schöne Satz ist der Hauptzweck dieses Beitrags.
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Ingmar I. Ensel

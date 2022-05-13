@@ -1,0 +1,10 @@
+Maik Dorer Oßenbrügge:
+
+
+:-(
+Demnächst lese ich zuvor den Thread - versprochen!
+
+-- 
+for ($i=1; $i<=100; $i++) {
+	print "Ich bin ein Trottel \n";
+}

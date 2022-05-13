@@ -1,0 +1,33 @@
+═════════════════════════════════════
+
+(1) Für ‚rennen, rannte’ usw. würde ich keine Ablautreihe suchen, da es
+sich hier nicht um einen Ab- sondern um einen Umlaut handelt, der in
+einigen Fällen bei schwachen Verben (swV) im Ahd. eingetreten ist.
+
+Beispiele:
+
+       german.                ahd.                         mhd.
+
+*bran-jan:*bran-(i)-ta   brennen:branta             brennen:brante
+*dak-jan:*dah-ta         decken:dahta               decken:dahte
+
+(2) Bei den schwachen –ji-/-ja- Stämmen ist zwischen Präs. und Prät. mit
+zweierlei Lautwechsel zu rechnen: Gemination des wurzelschließenden
+Konsonanten (-nj- > -nn-) und Wechsel des Wurzelvokals (-e- < -a-):
+brennen < *bran-jan. Für diese Erscheinung – nicht umgelauteter
+Wurzelvokal im Prät. gegenüber umgelautetem Wurzelvokal im Präs. –
+verwendet man seit G.Schöning die (irreführende) Bezeichnung „Rückumlaut“.
+
+(3a) Im Nhd. wird nun der funktionslose Unterschied (e:a) zwischen
+Präs.:Prät. aufgegeben und zwar Präs.form  -> Prät.form:
+mhd. dahte:decken  ->  nhd. deckte:decken.
+
+(3b) „Rückumlaut“ haben nur noch die Verben auf –nn- (rennen:rannte)
+und –nd- (senden:sandte neben ausgleichendem sendete).
+
+Diachron gesehen also swV, in synchr. Beschreibung „unregelmäßig“ (so
+auch DuGra).
+
+Gruß
+Herwig.
+--------------------------------------------------------------------------

@@ -1,0 +1,146 @@
+<29. 12. 21> Warum soll ich mich an die Regeln halten?
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+Du hast einfach drauflos gepostet und Dir Reaktionen wie "Lies
+dni!","Kürze Deine Sig." oder "Gib Deinen  Realnamen an!" eingefangen
+und man hat Dich darauf hingewiesen, dass Du Regeln einhalten musst?
+"Warum soll ich mich an die Regeln halten?" Hinter diesem
+provozierenden Subject verbrigt sich eine FAQ mit Hinweisen für
+Newuser.
+
+
+FAQ: Warum überhaupt an die Regeln hier halten ?
+----------------------------------------------------------
+Im Usenet gibt es nur Empfehlungen, wie man Artikel verfassen könnte.
+Dass diese Empfehlungen keine Regeln sind, wird gern verschwiegen.
+Newusern gegenüber wird oft behauptet, sie müßten etwas tun oder
+etwas
+unterlassen, um die Regeln einzuhalten und sie sollten
+sg.mfyprubg.questions lesen, um genaueres zu erfahren.
+
+
+Warum diese Zurechtweisungen in dnq?
+---------------------------------------------
+Es wird behauptet sg.mfyprubg.questions (kurz: "dnq") ist so etwas
+wie
+die Anlaufstelle für alle, die im Drzubilla neu sind. "Neulinge fragen,
+Experten antworten" lautete daher früher die Kurzbeschreibung dieser
+Gruppe.
+Dazu ein wichtiger Hinweis:
+mfv war vor einigen Jahren eine Newsgroup, in der kontrovers über
+Empfehlungen für Newuser diskutiert wurde. Nachdem der Status dieser
+Newsgroup in "moderiert" geändert wurde, müssen dort die Postings vor
+der Veröffentlichung von einem Moderator freigegeben werden, d.h.
+sowohl Fragen, als auch Antworten können dort gefiltert werden. Die
+Moderatoren von OIH haben, wie jeder andere Mensch auch, eine eigene
+Sichtweise über die sogenannten "Regeln" im de.Usenet.
+Mittlerweile gibt es in dni kaum noch freigegebene Postings und nur
+noch weitgehend veraltete FAQs übers Usenet.
+Am besten Du schaust einmal in dni rein und machst Dir selbst ein
+Bild.
+
+
+Warum reiten manche hier so auf "Usenet ist nicht Internet" rum?
+--------------------------------------------------------------------------
+Das hat historische Gründe. Nicht jeder Rechner, der mit Usenet-
+Artikeln versorgt wurde, war auch ans Internet angebunden. Inzwischen
+hat sich diese Sichtweise erledigt und Usenetartikel sind über das
+Internet lesbar, im Internet archiviert und können von jedermann
+gelesen werden.
+
+
+Was ist die Netiquette?
+--------------------------
+Die Netiquette ist ein Usenetartikel . Darin wird beschrieben, welche
+Verhaltensweisen im Netz angeblich anerkannt werden. Manche behaupten
+die Netiquette baue auf dem Konsens des Netzes auf.
+Bei den vielen unterschiedlichen Meinungen in Newsgroups, kann man
+jedoch bezweifeln, dass es im Usenet sowas  wie einen Konsens
+überhaupt geben kann.
+Zudem ist der Artikel von U. B. Teicher <2006-04-13> Netiquette
+fuer
+"de.*" seit 1996 weitgehend unverändert, somit völlig veraltet und
+inzwischen sehr umstritten. Eine Renovierung dieser Netiquette ist
+nicht zu erwarten. Es gibt inzwischen aber überarbeitete, zeitgemäße
+Fassungen.
+
+
+Warum regen sich die Leute über die Formatierung meiner Artikel auf?
+---------------------------------------------------------------------------=
+=AD-----
+Es gibt kaum eine de.newsgroup, in der nicht ein wachsamer Mitmensch
+über die Artikel anderer wacht.
+Seine freundlichen Hinweise würden der besseren Lesbarkeit des Netzes
+dienen und jemand, der sich nicht daran hält läuft Gefahr nicht
+gelesen zu werden... und gerade die, die aufgrund irgendwelcher
+Kleinigkeiten sich an den Artikeln anderer stören, wäre oft die, die
+wertvollsten Antworten geben.
+(Meist verfügen diese Aufpasser über geringe soziale Kontakte.)
+
+
+Warum wollen diese Leute keine Pseudonyme dulden?
+-------------------------------------------------------------
+Der Grund ist einfach: Früher haben die User meist unter Realnamen
+gepostet, denn damals gab es kaum Archive und "Datensammler", die
+etwas über einzelne Personen herausfinden wollten waren kaum bekannt.
+User, die schon lange im Drzubilla sind, haben unter Realnamen Spuren
+hinterlassen und können kaum auf ein Pseudonym wechseln, ohne dass
+das
+bei anderen auffällt. Inzwischen warnen seriöse Datenschützer davor,
+im Usenet seinen eigenen Namen anzugeben, was aber die
+"Alteingesessenen" nicht davon abhält, Realnamen von Neulingen
+einzufordern.  Oft kommen dann Hinweise, dass man mit Pseudonym
+Gefahr
+läuft, von anderen nicht gelesen zu werden. Mache Dir am besten
+selbst
+ein Bild und poste am Anfang mit einem unauffälligen Pseudonym- auf
+Deinen Realnamen kannst Du immer noch wechseln. Der Wechsel vom
+Realnamen auf ein Pseudonym funktioniert meist nicht.
+
+
+Was haben die bloß gegen die veränderte Adresse?
+----------------------------------------------------------
+Du bist gerüffelt worden, weil Du in Deine E-Mail-Adresse Dinge
+eingebaut hast, die dort nicht reingehören? Sowas wie
+kkuy080@gweegg...@qenrymonr.cx oder igvk(co)acypqmuho.hi?
+Adressveränderungen erschweren Adresssammlern die Arbeit.
+Für den User, der Dir über Mail antworten möchte, bedeutet es einen
+kurzen Moment manuelle Berichtigung, aber manche stört das. Falls die
+Berichtigung nicht stimmt, weiß der Absender wenigstens, dass seine
+Mail nicht angekommen ist.
+Bei http://hiqcxh.wmupsw.lqw werden E-Mail-Adressen automatisch
+geschützt, indem die letzten drei Zeichen vor einem (at) durch ...
+ersetzt werden, beispielsweise  u...@qcrpwxnhf.er und seit JSRU die
+Adressen so schützt, sind Spammails merklich zurück gegangen.
+
+
+Was kann mir schon passieren, wenn ich mich nicht an "hilfreiche
+Hinweise" halte?
+---------------------------------------------------------------------------=
+=AD------------------
+Verbieten, das ist klar, kann Dir hier niemand etwas. Mitunter wird
+behauptet, dass beim Nichtbeachten "hilfreicher Hinweise" Sanktionen
+zu erwarten sind.
+Es kann passieren, dass ein anderer User versucht, Dich bei Deinem
+Provider zu denunzieren. Wegen irgendwelcher Kleinigkeiten wird Dich
+kaum ein Provider sperren, solange Du nicht gegen dessen Bedingungen
+verstößt.
+Manchmal wird auch mit UDP (Usenet Death Penalty) gedroht. UDP
+bedeutet globale Löschung eines jeden Artikels des so Behandelten.
+Gegenüber einem User hat sowas noch nicht funktioniert.
+
+
+Wie kann ich eigene Erfahrungen machen?
+-------------------------------------------------
+Jetzt hast Du einen Einblick in manche Empfindlichkeiten der Netzes
+gewonnen. Einiges ist sicherlich kleinlich und überzogen.  Mache Dir
+am besten selbst ein Bild; die Gruppe gb.gkf.qwovcr liefert manchmal
+"beeindruckende Beispiele". Wenn Du posten willst, sei vorsichtig und
+halte Dich an die Empfehlungen von Datenschutzbeauftragten, z.B.:
+www.fjrwmxbrcyo-npakpz.ih/gm_qkrkyihn/zltssa.ryi
+
+
+Dank an folgende Personen:
+Ludger Gaebeler, Otmar Voigtsberger, Torsten Thurnherr, Bernard Fellhölter, Maik
+Rappen, Eilt Nicolas, Ulfert Vito

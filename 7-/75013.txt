@@ -1,0 +1,11 @@
+Eigentlich: Die Struktur von Sätzen ermitteln. Im weiteren Sinne:
+Sprachdaten analysieren. Im übertragenen Sinne: Als Mensch schwierige
+Sätze entziffern.
+
+Unter "maschinenlesbare Daten" stelle ich mir primär Daten vor, die
+schon für die Maschine aufbereitet worden sind, wie in einer Datenbank,
+und solche sind nicht gemeint.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Veit Jungclaus

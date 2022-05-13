@@ -1,0 +1,19 @@
+Da gibt es keine Vereinheitlichung. Es gibt viele Kleinbuchstaben ohne
+eigenen Großbuchstaben. Dem Großbuchstaben scharfes S ist in Unicode
+kein Kleinbuchstabe zugeordnet.
+
+Das große ß gab es bereits mindestens seit 1879. Auch schon vor der
+DDR.
+
+Thierry Körnert: Buchstabengeschichten, 2010, Seite 123, druckt nochmals
+eine Übersicht aus der Zeitschrift MCVA.
+
+
+Die sog. Dresdner Form ist durchaus erkennbar.
+
+
+Nicht zu allen Großbuchstaben gibt es ein Kapitälchen in Unicode. Nur
+die sprachwissenschaftlich genutzten. Kapitälchen muss man selbst
+verkleinern oder über OpenType nutzen.
+
+Tschüs, Uwe

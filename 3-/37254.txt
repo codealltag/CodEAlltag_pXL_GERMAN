@@ -1,0 +1,11 @@
+Ich kenne keine Naturwissenschaft, in der so unvollständig zitiert wird.
+Man spart such dort lediglich die vollständige Literaturangabe im laufenden
+Text oder in einer Fußnote auf der aktuellen Seite.
+Dadurch kommt man dann zwar beim Verweis mit so etwas
+wie "siehe Nieman [42, Seite 20]" oder "siehe [Kant54, Seite 20]" aus,
+aber die Angaben in der Literaturliste sollen natürlich vollständig sein.
+
+
+In der Regel zitiert man dass, was man benutzt.
+
+Volkmar

@@ -1,0 +1,15 @@
+Außerhalb des Sports bedeutet "zeitgleich" dasselbe wie "gleichzeitig",
+und in den deutschen Printmedien ist der Ausdruck beliebt.
+
+Ein Blick ins Tahot-Korpus zeigt mir den ersten Beleg aus dem Jahre 1958,
+aber eine stark zunehmende Beliebtheit seit Ende der 80er. Jeder
+einzelne Beleg hat die Bedeutung "gleichzeitig".
+
+Im Vergleich mit "gleichzeitig" hat "zeitgleich" weniger übertragene
+Bedeutungen, daher mag es manchem präziser vorkommen.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.R. Barchmann

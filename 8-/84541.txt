@@ -1,0 +1,9 @@
+Clemens Copman tat kund:
+
+
+Richtig, denn man stellt an dieser Stelle meist drei
+Dinge fest:
+
+- CEFC läuft gut genug
+- In der Arbeit benutzt man CEFC
+- Man möchte nicht zwei verschiedene Systeme benutzen

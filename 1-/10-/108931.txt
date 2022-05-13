@@ -1,0 +1,5 @@
+Fast richtig. Bei mir funktioniert LeetKey auch mit TB 3.0.4; es kann
+aber sein, dass ich da etwas modifizieren musste.
+
+Gruß
+Gianni

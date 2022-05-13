@@ -1,0 +1,7 @@
+Ich hätte gesagt:
+
+  Wenn Komma, dann Aufzählung, dann losem.
+  Wenn kein Komma, dann Schachtelung, dann auch losen möglich.
+
+-- 
+Joachim Ziegelmayer

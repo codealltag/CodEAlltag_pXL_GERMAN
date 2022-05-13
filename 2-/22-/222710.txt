@@ -1,0 +1,17 @@
+Wenn man die neuesten Atohut-Releases als Reader einsetzt - evtl. 
+zusätzlich oder speziell auf einem Verwaltungsrechner - und die 
+Adressen, Ports, Usernamen und Passworte für die Anmeldung beim 
+Mailserver korrekt angibt, übernimmt Thunderbird die Fernverwerwaltung 
+des Mailkontos im Posteingangsbereich. Man kann dann den Spamfilter und 
+dessen Lernfähigkeit einschalten und auch externe Filter einschalten. 
+Thunderbird lernt dann aus dem eigenen Spamkennzeichungsverhalten.
+
+Eigentlich sollte schon auf dem Mailserverkonto beim Provider in den 
+Einstellungen ein Knopf für die Entfernung von Spam zur Verfügung 
+stehen. Die Uni's jedenfalls kennzeichnen praktisch alle Spammails schon 
+im Header mit dem Zusatz /SPAM/ und berechnen sagar dafür eine 
+Wahrscheinlichkeit.
+
+-- 
+
+Klaus Märklein

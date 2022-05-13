@@ -1,0 +1,13 @@
+[...]
+
+Das Problem ist Deine unorthodoxe Verwendung des Begriffs "spurgebundene
+Verkehrsmittel". Darunter versteht man normalerweise Verkehrsmittel, die
+technisch so ausgelegt sind, dass sie nur entlang einer vorgegebenen
+Spur fahren können. Dazu zählen z.B. Schienenfahrzeuge, Seilbahnen und
+O-Busse. Fahrräder und Autos zählen nicht dazu. 
+
+	hp
+
+
+-- 
+   _  | Walter J. Tewordt    | Deprecating human carelessness and

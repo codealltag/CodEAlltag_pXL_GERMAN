@@ -1,0 +1,37 @@
+Hallo,
+
+erstens Dank für die bisherigen Antworten.
+
+Zweitens wie gewünscht ein bisschen mehr Kontext.
+
+In einigen streng typisierten Programmiersprachen gibt es die
+Möglichkeit, so genannte "generische Methoden" zu benutzen. Beispiel:
+statt
+
+integer Addiere(integer a, integer b)
+
+und
+
+fließkommazahl Addiere(fließkommazahl a, fließkommazahl b)
+
+kann ich schreiben:
+
+Typ Addiere<Typ>(Typ a, Typ b)
+
+Das in den spitzen Klammern legt fest, welche Art von Zahlen denn da
+nun addiert werden können sollen. Das Generische daran ist eben, dass
+für alle Zahlentypen, die Programmiersprachen so kennen, die Addition
+definiert ist, sodass es mit dieser Fähigkeit der Programmiersprache
+nicht nötig ist, für jeden Zahlentyp die Addition neu zu erfinden.
+Dies verführt jedoch zu Quelltexten (also "source code"), die völlig
+daneben sind, denn für selbst definierte Typen wie etwa "Benutzer" ist
+eine Addition einleuchtenderweise nicht definiert. Denn was kommt wohl
+heraus, wenn ich zwei "Benutzer" addiere? Nachwuchs oder Streit?
+
+Also möchte ich in einer Anleitung zum Verfassen ordentlicher
+Quelltexte einen Satz schreiben, der aussagen soll: "Vermeiden Sie
+Parametertypen, die (Generizität) nur vorgaukeln."
+
+Ich hoffe, ich habe mich halbwegs verständlich ausgedrückt.
+
+Lukas

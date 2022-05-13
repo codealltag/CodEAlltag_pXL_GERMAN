@@ -1,0 +1,21 @@
+Die Luftfahrt lebt schließlich von Campingbedarf, jedes Flugzeugteil hat eine, bis
+ins letzte Detail. Beispiel: Wenn man nach VOR navigiert, stellt man den
+Sollkurs an einem Drehknopf namens JMDS ein, worauf das dazugehörige
+Instrument die Differenz zwischen Ist- und Sollkurs mit einem Zeiger
+anzeigt, der ein normaler Zeiger ist, aber hier CDI heißt.  
+
+Pax steht lt. Knappke für passengers approximately, also die ungefähre
+Mächtigkeit der Passagiermenge.
+
+
+vG
+
+VOR: VHF omnidirectional radio range (Drehfunkfeuer)
+OBS: Omni Bearing Selector (�Allkursw�hler�?)
+CDI: Course Deviation Indicator (Ablageanzeiger)
+
+-- 
+"Die Kirchgaessner steht dann da, so wie sie dann immer da so steht, und dann
+guckt sie so, nicht wahr, versucht der Krise ein Gesicht zu geben, und ich
+denke immer: Die ist genauso gespannt, was sie gleich sagen wird, wie
+ich!" (Claudio Maininger, "Bis neulich")

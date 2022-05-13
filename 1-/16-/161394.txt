@@ -1,0 +1,4 @@
+Die erste Stelle im Satz. Das Verb muss an der zweiten Stelle stehen, 
+also braucht man einen Lückenfüller.
+
+Niels

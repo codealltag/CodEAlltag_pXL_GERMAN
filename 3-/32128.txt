@@ -1,0 +1,7 @@
+Die beleseneren haben wahrscheinlich schon mal von der HNI
+RFC (Eduz) gehört, aber man muß das in der Tat nicht
+analysieren können.
+
+-- 
+The generation of random numbers is too important to be left to chance.
+  Wolf W. Tänzer

@@ -1,0 +1,17 @@
+Mir fällt gerade auf, dass ich den Claves-Spruch immer
+als "Melde gehorsamst: das nicht." interpretiert hatte.
+"Dass nicht" macht aber auch Sinn ;-) ... interessant.
+
+
+In Langform würde ich wahrscheinlich formulieren:
+"Was /ist/ das? /Sind/ das neue Spikes?"
+Die Mehrzahl hört sich auf jeden Fall seltsam an,
+egal, ob man "Was sind die?" oder
+"Was sind das?" fragt.
+
+
+Nicht mal Thunderbird bekommt das mit. Normalerweise
+interpretiert er "/" ja als Kursiv-Markierung, hier nicht.
+Wahrscheinlich verwirrt ihn der einzelne Gänsefuß.
+
+/Pascal

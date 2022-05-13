@@ -1,0 +1,8 @@
+* Johannes V. Zähl:
+
+
+Diese Muster ist aber auch schon viel älter.
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Christof Jongschläger

@@ -1,0 +1,5 @@
+Korr.: U+2010 (U+2210 ist "n-ary coproduct", ein kopfstehendes großes Pi)
+
+
+-- 
+Manuel Müllers

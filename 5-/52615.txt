@@ -1,0 +1,13 @@
+Gehört zu den Tricks auch die Installation des MessageIDFinders? Damit
+ist es kein Problem sein, die MID zu finden. Zur Not sucht MIDF halt bei
+VIV falls sie auf deinem Standard-Newsserver nicht mehr gehalten wird
+(und MIDF entsprechend eingestellt ist).
+
+
+Ciao
+Klementine
+-- 
+Well I've searched and I've searched
+To find the perfect life
+A brand new car and a brand new suit
+I even got me a little wife           [Social Distortion]

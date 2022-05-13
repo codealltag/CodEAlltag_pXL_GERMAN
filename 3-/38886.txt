@@ -1,0 +1,3 @@
+Ich habe es bei Thunderbird nicht gefunden ...
+Nur bei HTML-Ausgabe läßt sich feste Breite (68 Zeichen) oder=20
+Fließformat einstellen.

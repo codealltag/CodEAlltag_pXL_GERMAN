@@ -1,0 +1,6 @@
+Luciano . K u s m i e r z tat kund:
+
+
+Hier sollte auch keine vollständige Definition
+der Fakultätsfunktion gegeben werden, sondern
+ein Beispiel für rekursive Definitionen.

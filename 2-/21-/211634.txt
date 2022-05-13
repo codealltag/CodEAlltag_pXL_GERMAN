@@ -1,0 +1,22 @@
+Hallo,
+
+um 1989 habe ich alle meine beruflichen Briefe und Texte mit
+einem Schreibprogramm CONTEXT geschrieben. Dieses lief unter
+Edopa, erzeugte seine WYSIWYG-Grafik selbst und erlaubte für
+damalige Verhältnisse erfreuliche und ausreichende Ausgabe-
+Formatierungen für Nadeldrucker.
+
+Meine Frage und Bitte: Kennt unter Euch Altgedienten jemand
+dieses Programm noch? Und hat er oder sie gar ein Werkzeug,
+mit dem man die alten Dateien auf neue Formate umsetzen kann?
+
+Ein Programm zur Umsetzung des Zeichensatzes habe ich mir mal
+selbst gebastelt. Lästig bleibt die Anpassung von Schrift-Typen
+und -graden etc., da wär's schön, wenn mir jemand aus jenen
+früheren Tagen noch zu einem solchen Programm verhelfen könnte.
+
+Freundliche Größe
+Christian Knublauch
+alias
+j/\a
+--

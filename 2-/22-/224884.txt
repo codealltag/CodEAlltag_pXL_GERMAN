@@ -1,0 +1,14 @@
+* Olivier Zumborn:
+
+[Erklärung zum "gaffer"]
+
+
+Und wie unterscheidet er sich vom "key grip"?
+
+Antworten: <http://dlr.dhzx.xna/vkmnllku/>
+
+-- 
+Ulf is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Karsten Peperkock

@@ -1,0 +1,20 @@
+Wenn man eine Allaussage hat und man will sie negieren, braucht man dazu 
+keine Regel, sondern man schreibt � davor und bei Bedarf Klammern drumrum. 
+Mächte man aber die Quantoren wieder ganz vorn haben soweit das geht, muss 
+man eine Regel anwenden, wie sie der OP angewandt hat, und zwar richtig.
+
+Soviel zum Inhaltlichen. Nun zum Formalen.
+
+Da der Beitrag des OP als ganzer nicht in mathematischer Formelsprache, 
+sondern auf Deutsch abgefasst war, muss man auf ihn auch die 
+Interpretationsregeln der deutschen Sprache anwenden, und die sehen eben 
+oft Typanpassungen (das was in Algol 68 "coercion" oder in C "cast" heißt) 
+vor, auch implizite, selbst wenn mathematische Sachverhalte ausgedrückt 
+werden sollen. Ich habe beispielsweise auch keine Mühe mit "x-x-1 ist ein 
+Polynom", obwohl allenfalls "lambda x.(x-x-1)" ein Polynom sein kann. Wo 
+vom Kontext eine Funktion erwartet wird, stattdessen aber ein Term mit 
+einer freien Variablen geliefert wird, die noch dazu x heißt, ist die 
+notwendige Typanpassung offensichtlich.
+
+-- 
+Olivier Meinecke

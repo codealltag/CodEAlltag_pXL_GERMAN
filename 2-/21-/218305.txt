@@ -1,0 +1,13 @@
+* Benedikt Preuschoff:
+
+
+Und wieviel Prozent der Leute, die _vor 1969_ das Studium begonnen
+haben, sind Jahrgang 1949? 
+
+Prozent ist zugegeben nicht mehr Grundschulmathematik.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

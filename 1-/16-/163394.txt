@@ -1,0 +1,11 @@
+Du denkst eben noch zu schnell. Mein Hirn ist derart langsam, dass ich
+beim schreiben immer warten muss, bis ich weiß, was ich wohl schreiben werde.
+Es kommt natürlich darauf an, was man so an Texten schreibt.
+Ich habe immer wieder mit verschiedenen Layouts in verschiedenen Ländern
+zu tun gehabt, und habe meist zuerst das Layout so getauscht, dass ich
+z.B.  für \ [ ] { }  |  _keine_ ALT-Taste brauche (obwohl immer noch
+besser als eine Kölsch-Taste). Die paar Umlaute und das ß macht mein VI
+wenn ich es mal brauche.
+
+-- 
+Philippe

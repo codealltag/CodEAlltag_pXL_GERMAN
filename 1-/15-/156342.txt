@@ -1,0 +1,6 @@
+Heute hat's meinen Klappfix entschärft. Nach dem Einschalten erscheint
+jetzt immer ein Fenster "System Tool" und identifiziert 38
+Infektionen. Programme werden nicht mehr ausgeführt, es erscheint der
+Hinweis "Application cannot be executed. The file (...) is infected."
+
+Kann man da selbst Abhilfe schaffen? CÉCILE

@@ -1,0 +1,7 @@
+...
+
+Es kann gar nicht sein, dass es mehr englische als deutsche Wörter gibt! 
+Aus obiger Quelle ergeben sich unmittelbar folgende Zahlen:
+
+englisch: 500'000 Wörter
+deutsch:  685'000 Wörter (185'000 originär deutsche + 500'000 Anglizismen)

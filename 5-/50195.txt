@@ -1,0 +1,12 @@
+Die Ampelfarben sind rot, gelb und grün
+
+Dass eine Ampel "orange" geleuchtet hat, bedeutet in meinem
+Sprachgebrauch etwas ganz anderes, nämlich dasselbe wie "dunkelgelb"
+oder auch "feuerwehrgelb" - nämlich dass sie zu dem betreffenden
+Zeitpunkt eben nicht mehr gelb, sondern bereits rot leuchtete.
+
+Charles
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

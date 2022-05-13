@@ -1,0 +1,19 @@
+Kann es sein, daß Du eine etwas schiefe Vorstellung davon hast, wie
+Datenkompression funktioniert? 
+
+Da werden keine einzelnen Zeichen kodiert, sondern da wird die Ausgangsdatei
+nach ziemlich komplizierten Algorithmen auf repetitive Strukturen
+analysiert und diese in jeweils kleinere Strukturen abgebildet. 
+
+Nimm mal eine beliebige HTML-Datei oder so was und jag sie durch den Zipper.
+Faktor 3 sollte sich erreichen lassen. 
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar amerikanische
+Staatsanleihen. Wenn die Chinesen morgen ihr Geld wiederhaben wollen,
+können Sie die Amis alle nackt Bern Zaun hängen! Wahrscheinlich ist da
+nicht mal mehr n Zaun, wo Sie die dr�berh�ngen können!"
+(Valerius Innerkofler, "Bis neulich")

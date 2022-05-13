@@ -1,0 +1,8 @@
+In Frankreich war das Verwursten von Markennamen vor einigen Jahren
+mal ein beliebter Sport. Das setzte sich sogar durch bis hin in die
+offizielle Werbung: Auf Reklametafeln hieß der FCSN-Golf auf einmal
+Glof. 
+Und ich habe in meinem meist verwendeten Compiler den "Snytax Error!"
+eingeführt.
+-- 
+Karsten

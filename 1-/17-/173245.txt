@@ -1,0 +1,8 @@
+* Nino Cappell:
+
+
+Nein, ich habe aber auch nur einen Band (Englisch-Deutsch).
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Lars Voggesser, comp.lang.python

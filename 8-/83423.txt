@@ -1,0 +1,16 @@
+Ich möchte dann weiter fragen. Nun hat der Satz eine Zeitbestimmung.
+Ich addiere dazu Art und Ort-Bestimmung:
+
+Ulf trägt heute gerne einen Pullover.  (Zeit, Art)
+Ulf trägt heute im Wald  gerne einen Pullover. (Zeit, Art und Ort)
+Ulf trägt heute im Wald einen Pullover. (Zeit, Ort)
+Ulf trägt im Wald gerne einen Pullover. (Ort, Art)
+
+Ist das so richtig? Ist die Reihenfolge beliebig änderbar, und ist
+immer der erste am meisten betont?
+d.h wäre sogar auch:
+Ulf trägt gerne im Wald heute einen Pullover.  (Art, Ort, Zeit)
+richtig? Und würde das gerne am meisten betont, der Wald an der
+zweiten Stelle und das heute an der dritten Stelle?
+
+Danke im voraus.

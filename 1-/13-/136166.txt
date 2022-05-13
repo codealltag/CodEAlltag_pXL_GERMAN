@@ -1,0 +1,5 @@
+Netter Dreisatz. Fast so gut wie
+
+configure
+make
+make install

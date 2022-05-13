@@ -1,0 +1,40 @@
+Am 14.04.2013 09:20, schrieb Ulfert Pfleghard:
+
+...
+
+Dazu gäbe es beim Niederländischen kaum einen Anlass. Die
+Vereinheitlichung der Kennzeichnung langer und kurzer Vokale hat das
+Niederländische längst hinter sich, nur noch in Eigennamen finden wir
+das Chaos, das diesbezüglich in der deutschen Rechtschreibung herrscht.
+
+Wenn eine Sprache mehr Vokalphoneme hat als das Lateinische
+Vokalbuchstaben hatte (und das haben bis auf das Jiddische alle mir
+bekannten germanischen Sprachen), dann gibt es mindestens vier (nicht
+selten auch kombinierte) Möglichkeiten, die überzähligen Phoneme zu
+schreiben: Man kann "ungenutzte" Konsonantenbuchstaben verwenden (was,
+wenn man das 'y' nicht als solchen ansieht, eher selten geschieht, aber
+siehe z. B. walisisch 'w'), man kann neue Buchstaben erfinden (auch das
+geschieht selten, einige westafrikanische Sprachen benutzen z. B. ein
+paar Zeichen des IPA), man kann diakritische Zeichen verwenden
+(Ligaturen, Akzente etc.) oder man verwendet Di- (manchmal auch
+Tri-)graphe (wie z. B. dt. 'ie', 'aa').
+
+Für Letzteres haben sich nun einmal die Niederländer entschieden.
+Außerdem kennzeichnen sie die Vokallänge (die bei /i(:)/, /y(:)/, /u(:)/
+außer vor /r/ keine mehr ist, aber das nur nebenbei) in geschlossener
+Silbe durch Doppelschreibung des Vokals (außer bei /i(:)/ = 'ie'), in
+offener Silbe durch Einfachschreibung des Konsonanten, was für uns
+gewöhnungsbedürftig ist, aber Tinte spart.
+
+Nun hat das niederländische geschlossene (historisch) lange /y(:)/
+('uu'/'u') ein kurzes offenes Gegenstück, das niederländische
+geschlossene /u(:)/ hingegen hat keines (es sei denn, man betrachte das
+geschlossene kurze /o/ einiger Dialekte als solches, aber das würde hier
+jetzt wirklich zu weit führen). Da liegt es doch ausgesprochen nahe, die
+fünf ursprünglichen lateinischen Vokalbuchstaben für _die_ Vokale zu
+verwenden, die auch ein kurzes Gegenstück haben, während man diejenigen
+Vokale (neben /u(:)/ = 'oe' auch noch das /� :/ = 'eu'), die _nur_
+(historisch) lang vorkommen mit Digraphen schreibt.
+
+
+Tschüs, Erich

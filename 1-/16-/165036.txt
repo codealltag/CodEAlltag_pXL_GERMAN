@@ -1,0 +1,5 @@
+Die Komplementärfarbe von Blau ist allerdings Gelb (additiv).
+Oder aber: Magenta+Cyan (subtraktiv).
+
+-- 
+Iris Vermaten

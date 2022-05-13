@@ -1,0 +1,15 @@
+Da sollte es in Thorstens Fall funktionieren, da TB in solchen Fällen
+standardmäßig iso-8859-1 versucht. Und damit schreibt Pascal.
+
+
+Die TBs der beiden verhalten sich m.W. gleich. Mich würde schon arg
+wundern wenn Svens TB mit dem, dank Wolframs UTF-8, dann endgültig
+versauten Subject nocht zurechtkäme.
+
+
+Ciao
+Bernadette
+-- 
+ Der Sport ist dazu da, dass man gesünder stirbt,
+ und nicht dazu, dass man länger lebt.
+ [Oscar Weyand]

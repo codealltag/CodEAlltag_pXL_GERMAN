@@ -1,0 +1,11 @@
+* Ottmar Jüttendonk:
+
+
+Nö, damit erfragt man nur, ob "der Hühnerstall" der eigene war. Ich
+könnte auch berichten, heute einen 48-Core-Server gecrasht zu haben,
+ohne daß ich einen solchen besitze.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

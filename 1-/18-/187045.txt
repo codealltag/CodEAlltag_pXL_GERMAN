@@ -1,0 +1,22 @@
+Das ist nicht korrekt. Man muss eine Fallunterscheidung machen.
+
+Und zwar kann man in die indirekte Rede hineincodieren, ob man
+dem Gesagten, über das man berichtet, selbst Glauben schenkt oder
+nicht.
+
+Schenkt man dem Gesagten selbst Glauben, verwendet man dem Konjunktiv I
+sonst verwendet man Konjunktiv II.
+
+Im Beispiel A heisst also die zugehörige indirekte Rede
+"Simon sagte, ich könne etwas essen" wenn ich als Sprecher glaube,
+das dieses Angebot von Simon Ernst gemeint war. Wenn ich das nicht
+glaube, lautet die indirekte Rede "Simon sagte, ich könnte etwas essen".
+(Ich selbst als Sprecher glaube aber, dass das Angebot nicht ernst
+gemeint ist.)
+
+Der B-Fall ist kompliziert, indem dort bereits der Konjunktiv
+verwendet wird. Kaskadieren kann man den Konjunktiv nicht. Es
+bleibt also nur die direkte Rede zu verwenden.
+
+Gruss
+Volker

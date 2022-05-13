@@ -1,0 +1,14 @@
+Das sollte ein Witz werden?
+
+Wenn ich "Tankflo�" eingebe suche ich nicht "tankflo�", Tankfloss",
+"tank floss". Wenn man eine Zeichenkette sucht, dann sucht man eine
+Zeichenkette und nicht die Interpretation durch ein bescheuertes
+Programm. Diese absichtliche Verschlechterung in den letzten Jahren muß
+Gründe haben. Ob die Verschwörer was wissen?
+
+
+Udo
+-- 
+"Die Dummen nutzen das Internet nur zur Unterhaltung und als
+Pornographiequelle, die Schlauen informieren sich nebenbei noch."
+Maurizio Stärke

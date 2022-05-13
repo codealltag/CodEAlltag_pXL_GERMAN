@@ -1,0 +1,26 @@
+* Eckhard Manuel Märckl:
+
+
+Natürlich ist nicht jedes Telefon, das sich zuhause befindet,
+deswegen ein Festnetztelefon, es gibt ja auch noch VoIP, was man
+mit entsprechenden Adaptern mit Festnetztelefonen verwenden kann.
+Es gibt auch schon seit vielen Jahren kombinierte
+DECT/GSM-Modelle. "Festnetztelefon" oder "Mobiltelefon" bezeichnet
+daher auch nicht eineindeutig bestimmte Geräte.
+
+In konkreten Sprachsituationen braucht man aber auch selten genau
+das, noch seltener muß man genau alle Festnetztelefone (inklusive
+Telefonzellen) bezeichnen. Meistens muß man die Nummern
+unterscheiden, unter denen man eine Person erreichen kann. Daher
+enthalten Formulare auch oft - jedenfalls hier in Kanada - die
+Kategorien:
+
+  Telefon (zuhause)
+  Telefon (Arbeit)
+  Telefon (mobil)
+
+-- 
+Dorothea: Uncle Stefano ... why do they call this a word processor?
+Stefano:  It's simple, Thierry ... you've seen what food processors
+do to food, right?
+  Cartoon by Heribert Ibel

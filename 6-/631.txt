@@ -1,0 +1,8 @@
+Hm, Du warst schneller. 
+
+In der vollständigen Fehlerkaskade geht dem dann noch ein
+schiefgelaufener Liebesakt und ein fehlappliziertes Gelöbnis voraus. 
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Christof Loebe, comp.lang.python

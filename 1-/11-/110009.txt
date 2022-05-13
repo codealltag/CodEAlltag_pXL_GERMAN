@@ -1,0 +1,42 @@
+Das ist missverständlich. Ein Quadratkilodingsda ist ein 
+Megaquadratdingsda, ein Kubikkiloschnurzelpaps ist ein 
+Gigakubikschnurzelpaps, und zwar immer.
+
+Steht also die Potenz im Wort vor dem Einheitenzusatz, muss der 
+Einheitenzusatz mitpotenziert werden, wenn der Einheitenzusatz
+vor die Potenzbezeichnung wandert, denn dieser ist ein Faktor.
+
+
+Das scheint mir des Pudels Kern zu sein. Es gibt offenbar keine 
+wirklich verbindliche Bezeichnungsnomenklatur.
+
+Für die Umrechnung der Einheiten-Vorsätze ist es simpel und klar,
+wie oben vorgeführt.
+
+Für die abgeleiteten Einheiten gilt das aber grade nicht.
+Was ist eine Quadratmetersekunde?
+	( m x s)^2	?
+	  m^2 x s	?
+	  m x s^2	?
+
+Oder sollte man,  je nach Fall
+	Metersekunde Quadrat,
+	Sekundenquadratmeterquadrat,
+	Sekundenquadratmeter,
+	Meterqudratsekunde
+
+sagen?
+Und was ist nun was?
+
+Insofern liegt hier tatsächlich ein Hund begraben.
+
+
+Konventionellerweise folgen Einheitenbezeichnungen
+gewissen rein sprachlichen Regeln und richten sich
+eben nur teilweise nach den sachlichen Gegebenheiten.
+So wird man für ein Joule die Bezeichnung Wattsekunde
+finden, aber nicht Sekundenwatt, obwohl das eigentlich
+nur dasselbe sein kann.
+
+
+F.

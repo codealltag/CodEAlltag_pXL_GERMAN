@@ -1,0 +1,8 @@
+Könntest du folgende Regel prüfen und dein Ergebnis mitteilen:
+
+Wenn die zweite Person umlautet, wird der Imperativ aus der nicht
+umgelauteten Form gebildet.
+Wenn die zweite Person ablautet, wird auch der Imperativ abgelautet.
+
+Gruss
+Wolf

@@ -1,0 +1,22 @@
+Im Deutschen passt die Eins bei dieser Unterscheidung besser zu den 
+Deteminantien, weil der Kasus damit abgearbeitet ist und das folgende 
+Adjektiv schwach gebeugt wird:
+
+  einem kleinen Kind; nicht: *einem kleinem Kind
+
+Die Zahlen im Plural passen aber besser zu den Adjektiven, weil sie mit 
+diesen stark oder schwach gebeugt werden:
+
+  stark gebeugt:
+  zweier kleiner Kinder; nicht: *zweier kleinen Kinder
+
+  schwach gebeugt:
+  der zwei kleinen Kinder
+
+Das für die Eins Gesagte gilt allerdings nicht, wenn sie nicht vorne in 
+der Phrase steht; dann wird sie mit dem Adjektiv schwach gebeugt:
+
+  meinem einen kleinen Kind; nicht: *meinem einem ...
+
+-- 
+Leopold Leitel

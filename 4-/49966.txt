@@ -1,0 +1,3 @@
+Anzahl der Schüler in einer Klasse.
+"Extrem hohe Klassenfrequenz" dürfte wahrscheinlich so 40, 50
+Schüler pro Klasse bedeuten.

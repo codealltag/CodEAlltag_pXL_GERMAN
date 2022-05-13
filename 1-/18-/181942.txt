@@ -1,0 +1,7 @@
+Deutsch => Dänisch:
+Hose => bukser (Mehrzahl)
+Strumpf => hose
+
+-- 
+Gruß
+Bruno, Dänemark

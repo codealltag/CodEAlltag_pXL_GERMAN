@@ -1,0 +1,9 @@
+Fast richtig.
+"Nein!" = "Nein, er hat das Ziel nicht erreicht."
+Denn "Nein, ich höre Sie nicht." wäre völlig unlogisch. Hätte 845 die
+erste Frage nicht gehört, die zweite aber schon, könnte er z. B.
+antworten: "Jetzt schon", oder schlicht "Ja", wenn er gar nicht weiß,
+dass es eine erste Frage gab. Dieses "Ja" wäre dann hingegen
+tatsächlich mehrdeutig.
+Gruß
+Klaus

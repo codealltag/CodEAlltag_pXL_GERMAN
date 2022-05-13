@@ -1,0 +1,6 @@
+Man erfährt höchstens, dass "had" und "hat" verschieden klingen. Der
+Unterschied zwischen "had" und "head" wird vernachlässigt, obwohl er
+Hunderte von Minimalpaaren ergibt.
+
+Größe,
+Ingo

@@ -1,0 +1,22 @@
+Ohne Bild sicher nicht.
+
+
+Ich bin ein Unzeichner. :-(
+
+"Sie haben einen Virus - in 5 Minuten wird Ihre Festplatte neu
+formatiert. Alle Daten werden unwiderruflich gelöscht".
+
+Es gibt nur 2 Auswahlbalken:
+
+{Abbrechen }
+{Fortsetzen}
+
+Der {Fortsetzen}-balken ist hell!
+
+(Natürlich würde ich unter Windows dann Ctrl-Shift-Esc drücken
+und den Prozess killen - und statt rechter Maustase drücke ich
+die funktionsidentische Win-Taste)
+
+Gruss
+
+Bernard

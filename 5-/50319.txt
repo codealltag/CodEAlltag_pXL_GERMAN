@@ -1,0 +1,10 @@
+Leser/-innen ist eine verkürzte Schreibung für Leser/Leserinnen. Es
+stimmt, daß man auch sowas wie Leser/innen liest, aber eigentlich ist
+die Virgel hierin falsch benutzt, sie bezeichnet ja eine Alternative und
+keinen fakultativen Teil; dafür sind eben die Klammern richtig.
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.N. Butterbrodt

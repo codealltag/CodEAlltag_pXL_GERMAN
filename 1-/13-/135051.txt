@@ -1,0 +1,10 @@
+Marrying ist nicht Teil des APIs (wie auch?), sondern *nutzt* höchstens
+undokumentierte Teile des APIs. Erksnnst Du den Unterschied? 
+
+Bye
+
+  nino
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Hasenschar)

@@ -1,0 +1,11 @@
+Was ist der Unterschied zwischen "Eingabemarker" und "Einfügemarke"? 
+
+
+Mir ist unklar, was Du unter Cursor verstehst. Der Text-Cursor (meistens
+nur Cursor, manchmal Caret genannt) blinkt eigentlich auf sehr vielen
+Systemen, insbesondere dann, wenn eine Eingabe erwartet wird. Der
+Maus-Cursor (oft Pointer genannt, um ihn vom (Text-)Cursor zu
+unterscheiden) blinkt so gut wie nie, insbesondere *nicht* auf Grund
+eines Systemfehlers oder Viruses. 
+
+	hp

@@ -1,0 +1,13 @@
+Er wird unlesbar, wenn er UTF-8 kodierte Beiträge zitiert; zumindest
+deren Umlaute werden es. Der von ihm verwendete Netscape 4.75 hat damit
+immense Probleme; besser gesagt, er kann damit nicht umgehen.
+Wenn also alle Beiträge in UTF-8 kämen, wäre Siegfried D. so gut wie
+unlesbar. Paula?
+
+
+Ciao
+Wilfriede
+-- 
+ Es ist besser, Deiche zu bauen, als darauf zu hoffen,
+ dass die Flut allmählich Vernunft annimmt.
+ [Dennis Dangl]

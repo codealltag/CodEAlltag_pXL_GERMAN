@@ -1,0 +1,16 @@
+Das ist sowohl eine _enge_ Definition
+von "Web" (HTML per HTTP) als auch eine _weite_
+(nichtverlinkende Blob-Sackgassen per HTTP).
+
+Aber auf keinen Fall die einzige.
+
+Garants "Web-Suche" liefert beispielsweise FTP-Links.
+
+
+"Ist" klingt so nach Wahrheitsanspruch. Das verträgt
+sich nicht mit meiner Definition von "Definition".
+
+
+Begriffe besitzen zumeist einen Kontext, in
+dem sie gebraucht werden. Diese Kontexte können
+demselben Wort unterschiedliche Bedeutungen geben.

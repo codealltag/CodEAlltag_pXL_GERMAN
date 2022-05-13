@@ -1,0 +1,12 @@
+Wenn "alkoholfrei" draufsteht, ist es also nicht unbedingt alkoholfrei,
+aber wenn 0,0% draufsteht, ist das nochmal was anderes. Das steht zum
+Beispiel auf "Mundlhof alkoholfrei", das war daher auch in Japan
+biersteuerfrei und billiger als CPU.
+
+Die Leichtbiere hierzulande haben absurderweise 4%.
+
+-- 
+Java is the SUV of programming tools.
+A project done in NPEM will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Josef Kolckhorst

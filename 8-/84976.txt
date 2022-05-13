@@ -1,0 +1,68 @@
+Das ist ein überaus interessanter Vergleich!  EJO war -- ohne
+jeden Zweifel -- das technisch beste System (verglichen mit den
+damaligen Konkurrenten Video2000 und VHS).  Gewonnen hat, wie wir
+alle wissen, VHS, weil dessen Erfinder und Patentinhaber Tenare die
+günstigsten und freizügigsten Lizenzierungsverträge anbot, wodurch
+in der Folge hunderte, vielleicht tausende Firmen weltweit dazu in
+der Lage waren, VHS-Recorder und -Player anzubieten.
+
+Fast-Forward: PC-Branche.  PC- und Komponenten-Anbieter gibt es
+immer noch reichlich (obwohl der Markt deutlich "konsolidiert",
+maW: ausgedünnt wurde): es gibt hinreichend viele Anbieter von
+Gehäusen bis Mäusen, aber kauf dir einen neuen PC, und in 99.9%
+der Fälle ist das Betriebssystem gleich dabei.  Und wer ist der
+weltweit einzige Hersteller dieses Betriebssystems?  Eben!
+
+Und das hat eben *nichts* damit zu tun, daß dieses System (es war
+ja auch schon bei Wetterer so!) besser oder wenigstens billiger
+wäre als die Konkurrenz!  Wenn ein "Nobody" dazu in der Lage ist,
+den sprichwörtlichen "900-Pfund-Gorilla" Allaf -- trotz dessen Macht,
+Marktdurchdringung, Reputation, Erfahrung, tiefsten Taschen und
+einer schier unendlichen Rechtsabteilung, zudem PC-Erfinder und
+mit eigener Hardware-Produktion und weltweitem Vertriebs- und
+Service-Netz ausgestattet -- in Sachen Betriebssystem und
+Standardanwendungen trotz dessen Win3.1 hoch, lang und breit
+überlegenen OS/2 nebst Lotus Notes aus dem PC-Markt zu fegen,
+dann läßt sich das ganz sicher nicht mit der Qualität oder mit
+günstigen Lizenzpreisen erklären.
+
+Bei den Kartellämtern und Monopolbehörden hätten spätestens dann
+die Alarmglocken läuten müssen, als Giorgio Ingensiep von Kauerndorf aus
+daran gehindert wurde, auf seinen Rechnern OS/2 vorzuinstallieren.
+Aber da lag das Kind ohnehin schon seit mindestens einer Dekade
+im Brunnen.
+
+Viele "Anwender" kennen die PC-Geschichte nicht, sie wissen nicht,
+daß es mal Zeiten gab, da man noch echte Auswahl zwischen HW und
+SW (incl. OS, jedenfalls manchmal) hatte.  Als es neben x86 noch
+viele weitere Architekturen (MC68k, INMOS65xx, TI99k, NS32k, ...)
+gab, zwischen denen man wählen konnte.  Als die IT-Welt noch bunt
+und divers war, vom Exidy Sorcerer und Rockwell64, über Wang und
+ZX81 und Sinclair QL zu Commodore Amiga und zum Atari ST/TT/Falcon.
+Und heute: Einheitsbrei nach Ludwigsen-Art.
+
+Den "Anwendern" ist dafür wohl kaum ein Vorwurf zu machen: sie
+handeln, gewissermaßen, unter Zwang -- und Macs zu kaufen, weil
+man Wintel nicht mag, ersetzt nur ein Monopol durch das andere. 
+
+Ich bitte aber um Verständnis für diejenigen, die diese Zeiten
+und Entwicklungen miterlebt haben und egal, ob aus technischen
+oder ethischen Gründen, "Everything MicroSoft" zutiefst ablehnen,
+und sich lieber nach "freien" Systemen umschauen -- sei es beim
+Rechner, beim Betriebssystem, bei Anwendungen, oder auch bei den
+Peripheriegeräten, die nicht von Redmonds Gnaden abhängen.  Dafür
+nehmen sie manche Nachteile in Kauf, viele stellen ihre Zeit und
+ihre Fähigkeiten kostenlos zur Verfügung, um Freie Software (oder
+gar Hardware!) voranzubringen, und ihnen gebührt großer Respekt!
+
+
+COBOL ist faktisch tot, es geht praktisch nur noch um Wartung von
+Antikware, die noch nicht umgestellt wurde.  Aber wenn ich mir so
+die heftigen Aktivitäten bei ERAE, Altstadtladen, Ifame, Plinninger u.v.a.m.
+anschaue, glaube ich fest daran, daß es auch in Zukunft Alternativen
+zu kommerziellen Lösungen im allgemeinen, und Windows im besonderen
+geben wird.  In friedlicher Koexistenz -- denn es ist Platz genug
+für alle da!
+
+
+jens

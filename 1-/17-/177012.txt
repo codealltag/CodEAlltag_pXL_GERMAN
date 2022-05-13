@@ -1,0 +1,29 @@
+Tja, da ich keine der damals getesteten Tastaturen mehr herumliegen habe,
+werden wir das nicht mehr entscheiden können.
+
+Ist aber auch vollkommen egal. Meine Aussage war, dass vor 20 Jahren
+handelsübliche Tastaturen eine gewisse Anzahl von gleichzeitig
+gedrückten Tasten erkennen konnten, aber diese Anzahl relativ klein war.
+
+
+Ich kenne Braille-Tastaturen, ich habe sogar schon einmal auf einer ein
+paar Wörter geschrieben (natürlich nicht blind).
+
+
+Ich schrieb von "7 Buchstabentasten". Wenn ASDFJKL� als Brailletastatur
+verwendet werden, sind sie keine Buchstabentasten mehr, weil eine Taste
+nicht mehr einem Buchstaben entspricht. Außerdem schrieb ich
+"normalerweise". "Normalerweise" wird eine Tastatur entsprechend der
+aufgedruckten Belegung verwendet und nicht als Braille- oder
+Klaviertastatur (auch schon gesehen). Daher bauen Hersteller ihre
+Tastaturen so, dass das Schreiben natürlichsprachiger Texte mit der
+aufgedruckten Belegung funktioniert. Wenn man sie darüber hinaus auch
+als Brailletastatur und Klaviatur verwenden kann, ist das nett, geht
+aber über den vorgesehenen Einsatz hinaus.
+
+
+Nein, das sagt wenig aus: Da kann der Tastaturtreiber noch ordentlich
+dazwischenfunken. Wirklich aussagekräftig ist nur, die Make/Break-Codes
+der Tastatur zu betrachten.
+
+	hp

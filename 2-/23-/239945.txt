@@ -1,0 +1,13 @@
+Ich scheine mit newsTap wohl Glück zu haben - obwohl ich auch endlose
+Zeilen schreibe, bricht Flohr sie jedenfalls annehmbar um. 
+Andererseits gibt es beim Zitieren Chaos, wenn ich versuche, beim Schreiben
+die Zeilen "nach Gefühl" umzubrechen.
+
+Kann man bei Friderici irgendwo den Quelltext (bzw Font-Definition etc) anzeigen
+lassen? Würde mich interessieren, ob es Zufall ist, oder ob ich irgendwann
+mal was richtig eingestellt habe. Die offensichtliche Einstellung betrifft
+hier anscheinend nur die font family, aber nichts zum Format.
+
+(Ich komme hier die nächste Zeit nicht an einen "richtigen" newsreader ...)
+
+/Gustav

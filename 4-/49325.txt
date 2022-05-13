@@ -1,0 +1,7 @@
+Da wird kein Buchstabe ausgelassen, sondern ein anderer Laut ausgesprochen.
+Deshalb braucht man hier keinen Apostroph, sondern eher einen
+Wortzwischenraum. Bei Auslassungen wie der in der Verbform setzt man dagegen
+in der Regel einen Apostroph, also: "spiel'n se".
+
+Größe,
+Oscar

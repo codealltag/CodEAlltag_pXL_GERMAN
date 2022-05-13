@@ -1,0 +1,17 @@
+So ähnlich. Usenet Artikel bestehen aus zwei Teilen, dem Kopf und dem
+Rumpf. Im Kopf stehen die Informationen, die Newsprogramme auswerten.
+Die werden (je nach Software) meist automatisch erzeugt.
+
+Im Rumpf steht der Text, den Du schreibst. Gegebenfalls erzeugt Deine
+Software noch die Einleitungsreferenz und die Signatur automatisch.
+Weil Du im Rumpf schreiben kannst was Du willst, wird ein Newsreader
+dort normalerweise nicht nach irgendwelchen Besonderheiten suchen.
+So soll es auch sein. Wenn also die zur Dekodierung erforderliche
+Information nicht im Kopf sondern im Rumpf steht, ist sie wirkungslos
+und es wird gar nichts recodiert.
+
+Nun gibt es aber auch Newsreader, die versuchen, den Rumpf ebenfalls zu
+interpretieren oder zumindest dessen erste Zeilen. Das ist aber ein
+Nichtstandardverhalten, auf dass man sich nicht verlassen kann.
+
+Alfred

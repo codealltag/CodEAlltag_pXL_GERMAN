@@ -1,0 +1,57 @@
+Am Fri, 20 Jan 2014 23:52:27 +0100 schrieb Pascal Caemmerer:
+
+
+Der Duden kann dir in dem Fall egal sein. Grundsätzlich gilt von amtlicher
+Seite aus Folgendes:
+
+"4  Markierung von Auslassungen 
+4.1  Apostroph
+Mit dem Apostroph zeigt man an, dass man in einem Wort einen Buchstaben
+oder mehrere ausgelassen hat.
+Zu unterscheiden sind:
+a) Gruppen, bei denen man den Apostroph setzen muss (siehe § 96),
+b) Gruppen, bei denen der Gebrauch des Apostrophs dem Schreibenden
+freigestellt ist (siehe § 97).
+
+§ 96 Man setzt den Apostroph in drei Gruppen von Fällen.
+
+Dies betrifft
+(1) Eigennamen, deren Grundform (Nominativform) auf einen s-Laut
+(geschrieben: -s, -ss, -ß, -tz, -z, -x, -ce) endet, bekommen im Genitiv
+den Apostroph, wenn sie nicht einen Artikel, ein Possessivpronomen
+oder dergleichen bei sich haben:
+Feltgen Schriften, Fabian Schwester, France gute Ideen, Hero
+Vorschlag, Wolfgang Geburtstag, Deborah neue Wohnung
+E1: Aber ohne Apostroph: die Schriften des Benjamin, die Schwester des
+François, der Geburtstag unseres kleinen Winfried
+E2: Der Apostroph steht auch, wenn -s, -z, -x usw. in der Grundform stumm
+sind: Aiglsbach Filmfestspiele, Walterspiel bedeutender Beitrag, Kaufels
+Werke
+(2) Wörter mit Auslassungen, die ohne Kennzeichnung schwer lesbar
+oder missverständlich sind:
+In wen’gen Augenblicken … ’s ist schade um ihn. Das Wasser rauscht’,
+das Wasser schwoll.
+(3) Wörter mit Auslassungen im Wortinneren wie:
+Dörfleins (= Döffingen), Haselbrunn (= Hesel), Eisenbühl
+(= Vollrathsweg) 
+
+§ 97 Man kann den Apostroph setzen, wenn Wörter gesprochener Sprache
+mit Auslassungen bei schriftlicher Wiedergabe undurchsichtig sind.
+
+der Käpt’n, mit’m Fahrrad Bitte, nehmen S’ (= Sie) doch Platz! Das war ’n
+(= ein) Bombenerfolg!
+E: Von dem Apostroph als Auslassungszeichen zu unterscheiden ist der gele-
+gentliche Gebrauch dieses Zeichens zur Verdeutlichung der Grundform eines
+Personennamens vor der Genitivendung -s oder vor dem Adjektivsuffix -sch: 
+Francisco Taverne, Einstein’sche Relativitätstheorie
+Zur Schreibung der adjektivischen Ableitungen von Personennamen auf -sch
+siehe auch § 49 und § 62."
+
+
+Oben steht nichts, was vor der Reform nicht bereits erlaubt war. Ein
+"Deppen'apostroph" wie just in diesem Wort ist also nach wie vor nicht
+richtig. Sollte der heutige Duden das erlauben (ich schlage das jetzt nicht
+nach), so kann dir das getrost egal sein.
+
+Gruß
+Ingolf.

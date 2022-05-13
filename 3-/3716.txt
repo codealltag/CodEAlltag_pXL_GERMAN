@@ -1,0 +1,16 @@
+Er (oder sein Newsreader) hat ihn URLencodet als %7c.
+
+Geht bei mir aber auch ohne:
+
+http://xes.gkytfl.ee/~zzvfh/|.ule
+
+Wobei ich den Link händisch in den Browser kopieren muß,
+weil das Terminal in dem ich News lese denkt, daß die
+URL nach dem letzten / aus ist (und ich kann es ihm nicht
+verübeln).
+
+/elmar
+-- 
+Rettet die Wale und stürzt das System, und trennt euren Müll, 
+denn viel Mist ist nicht schön!"
+                                    Karl, "Rettet die Wale"

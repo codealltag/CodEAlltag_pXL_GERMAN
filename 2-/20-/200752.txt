@@ -1,0 +1,11 @@
+Wie definierst Du "Zeichensatz"? 
+
+Für mich gehören zum Zeichensatz alle verwendeten Zeichen, nicht nur die
+Buchstaben. Für die deutsche Sprache also auch die Ziffern und
+Satzzeichen sowie spezielle Symbole wie � und �. 
+
+	hp
+
+
+-- 
+   _  | Siebelt D. Opitz    | Deprecating human carelessness and

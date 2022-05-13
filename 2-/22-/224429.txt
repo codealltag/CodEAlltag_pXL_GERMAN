@@ -1,0 +1,19 @@
+* Juan Thran:
+
+
+Könnte, aber das scheint mir eher selten der Fall zu sein. Die
+drei wichtigsten Einflußfaktoren würde ich nach Wichtigkeit so
+anordnen: 
+- Lautgestalt
+- Genus einer Übersetzung
+- Genus in der Quellsprache
+
+Zu reihenweisen Übereinstimmungen kommt es, wenn die Zuordnung
+Lautgestalt-Genus in der Quellsprache und im Deutschen gleich
+funktioniert (in manchen Fällen sekundär durch frühere
+Entlehnungen). Derselbe Effekt führt aber auch zu reihenweisen
+Abweichungen wie eben gerade im Fall Frz. -age (m.), Dt. -age (f.)
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Siebelt Riedmair

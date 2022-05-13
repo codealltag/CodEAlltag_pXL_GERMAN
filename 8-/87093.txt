@@ -1,0 +1,10 @@
+Fragwürdige Änderungen sind alle, die von Benutzern ohne Sichterstatus
+(also unangemeldeten oder noch ziemlich neuen) vorgenommen und noch von
+keinem Benutzer mit Sichterstatus beugt worden sind. 
+
+Sichterstatus kann ein angemeldeter Benutzer beantragen, wenn er schon eine
+bestimmte Zahl von sinnvollen Bearbeitungen vorweisen kann und aus diesen
+ein Wille zur enzyklopädischen Mitarbeit erkennbar ist. 
+
+
+vG

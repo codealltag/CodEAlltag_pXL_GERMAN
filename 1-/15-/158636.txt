@@ -1,0 +1,22 @@
+Es gehen nach meinem Verständnis diese Variationen:
+
+- ..., die Versorgung der Zehntausende von Menschen bleibt
+ aber schwierig.
+
+-..., die Versorgung von Zehntausenden von Menschen bleibt
+ aber schwierig.
+
+- ..., die Versorgung  Zehntausender von Menschen bleibt
+ aber schwierig.
+
+- ..., die Versorgung  Zehntausender Menschen bleibt
+ aber schwierig.
+
+- ..., die Versorgung von mehreren zehntausend* Menschen bleibt
+ aber schwierig.
+
+*Im letzten Fall bin ich mir nicht ganz sicher, ob die Kleinschreibung
+auch richtig ist.
+
+Gruß
+Hanne

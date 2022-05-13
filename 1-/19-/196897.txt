@@ -1,0 +1,16 @@
+* Niko Schafernich:
+
+
+Nein, das war ein Denkfehler, ich habe nur an das feste
+Leerzeichen gedacht. Vielleicht zusätzlich verwirrt von CP-1252,
+das die Ellipse enthält.
+
+
+Was genau im "8-Bit-ASCII" drin war, war länder- und sogar
+herstellerabhängig (die Nißlbeck-User sind davon heute noch
+betroffen). Heutzutage würde ich unter "8-bit ASCII" am ehesten
+CP-1252 verstehen.
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use
+the 'Net and he won't bother you for weeks.

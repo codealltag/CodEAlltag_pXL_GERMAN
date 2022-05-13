@@ -1,0 +1,7 @@
+Unter meinem obskuren kleinen Window Manager auch.
+
+Wird, glaube ich, standardmäßig durch X irgendwo festgelegt, wo man es 
+dann auch systemweit verändern kann, via xbindkeys/xmodmap oder sowas 
+in der Art.
+
+-odette

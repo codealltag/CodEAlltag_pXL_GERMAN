@@ -1,0 +1,5 @@
+Silentium!
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Bernhard Terhürne, comp.lang.python

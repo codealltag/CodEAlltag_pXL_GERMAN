@@ -1,0 +1,17 @@
+Das war auch nicht so gemeint, als dass du das solltest. Sorry, falls
+das so rübergekommen war. üblicherweise produziert dein Dialog
+vernünftige Postings. Er scheitert halt, eben wg. UTF-8, bei defekten
+Kopfzeilen des Vorpostings. Das halte ich aber nicht für ein Problem des
+Dialogs, auch wenn es da andere Auffassungen gibt.
+
+Dein Dialog entzückt viel eher damit, dass er ohne erkennbaren Anlass
+immer mal wieder mit iso-8859-13 oder anderen Exoten daherkommt.   :)
+
+
+Ciao
+Pauline
+-- 
+ Well I've searched and I've searched
+ To find the perfect life
+ A brand new car and a brand new suit
+ I even got me a little wife           [Social Distortion]

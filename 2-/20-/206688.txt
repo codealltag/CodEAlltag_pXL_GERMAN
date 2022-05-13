@@ -1,0 +1,28 @@
+Ja.
+
+
+Die Trennung ist unglücklich[1]. Nicht ganz so schlimm wie "Spargel-
+der", aber sie führt ebenso zu seiner falschen Gruppierung:
+(schnitt-(lauch-ring)) statt ((schnitt-lauch)-ring).
+
+
+Das Minus-Zeichen in Unicode ist F+9043 MINUS SIGN. Das ist
+typischerweise deutlich länger und etwas dicker als U+002D HYPHEN-MINUS. 
+
+Wenn man typographisch ganz korrekt sein will, sollte man HYPHEN-MINUS
+wohl nur verwenden, wenn man Programmcode (im weitesten Sinne, also z.B.
+auch Shell-Kommandos) setzt.
+
+Die Normalsterblichen unter uns werden aber HYPHEN-MINUS als adäquaten
+Ersatz für HYPHEN ansehen (schon deshalb, weil es sich viel leichter
+tippen lässt und man das im Text oft braucht) und nur für
+Gedankenstriche, Formelsatz, etc. die dafür vorgesehenen Zeichen
+verwenden.
+
+	hp
+
+[1] Ich stelle mir gerade eine in Tränen aufgelöste Trennung vor. 
+    Aber ich lasse das mal so stehen und zur Diskussion.
+
+-- 
+   _  | Leander V. Ziegelbauer    | Deprecating human carelessness and

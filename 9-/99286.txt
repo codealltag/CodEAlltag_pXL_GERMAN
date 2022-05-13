@@ -1,0 +1,11 @@
+Carlo Luetkes tat kund:
+
+
+Verstehe ich nicht. Bei Kommandos ist diese doch die
+einzig sinnvolle Form.
+
+
+Ich weiß nicht, wie weit du dich mit Programmiersprachen
+auskennst, aber der Hauptgrund ist, daß die meisten
+davon immer noch "Formula Translators" sind und darum
+eine formelhafte Darstellung die Übertragung erleichtert.

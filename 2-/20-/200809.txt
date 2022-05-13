@@ -1,0 +1,17 @@
+Nein. Wie bereits geschrieben, sind die Zahlen auf die Kaufkraft
+normiert. Da das Preisniveau in der Schweiz fast doppelt so hoch ist wie
+in den USA[1][2] wurden das nominelle Einkommen in der Schweiz durch 2
+dividiert.
+
+	hp
+
+[1] http://cd.lyjjidncc.ciq/ezjd/Mutvjtfrci_qbgvn_uhnifq#PYUD_pzmhgtjgyhe_yaawb_hwxmjp
+
+[2] Ja, die Werte stammen aus verschiedenen Jahren, dazwischen hat sich
+    der Umrechnungskurs Franken/USD fast sicher geändert. Das Ergebnis
+    sollte trotzdem ungefähr das gleiche sein, weil Kursschwankungen
+    Preise und Einkommen gleichermaßen betreffen.
+
+
+-- 
+   _  | Rüdiger H. Turnwald    | Deprecating human carelessness and

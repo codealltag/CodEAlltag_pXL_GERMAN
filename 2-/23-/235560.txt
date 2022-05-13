@@ -1,0 +1,2 @@
+Bei XFCE auch, das ist schon auf der Ebene des X-Servers in halbwegs
+aktuellen Linux-Distributionen so eingestellt.

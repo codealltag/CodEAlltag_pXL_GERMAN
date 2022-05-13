@@ -1,0 +1,5 @@
+Das ist zwar möglich, aber dadurch wird die Relation "gegenseitige 
+Verständlichkeit" nicht asymmetrisch. (Die Verständlichkeit selbst 
+natürlich schon).
+
+Waldemar

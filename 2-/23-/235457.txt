@@ -1,0 +1,26 @@
+* Kora Daubenthaler:
+
+
+Und π natürlich. Und Σ. Vielleicht auch Π? 
+
+In Uni-Mathe (um die es hier ging) benutzte man daneben WIMRE
+mindestens ικλμν (z.B. für Ganzzahliges) und φχψω (z.B. für
+Winkel) regelmäßig. Und das neben Kurrent für Vektoren und
+Matrizen! Für die Mathematik gibt es einfach nie genug Buchstaben.
+
+In Physik sind noch etliche andere gebräuchlich, und nicht
+willkürlich zu ersetzen, da lohnt es sich nicht mehr, nicht gleich
+alles zu lernen. Fand ich, es gab natürlich auch welche, die das
+fallweise lernten und dann immer wieder einzelne vergaßen oder
+spontan die Aussprache verwechselten, und schon gar kein lesbares
+Kleinvieh [1] schreiben konnten.
+
+Übrigens hat noch keiner Matrizen erwähnt, die bei uns mit
+Kurrent-Großbuchstaben geschrieben wurden. Von den griechischen
+Großbuchstaben sind aber nur ungefähr 10 brauchbar.
+
+"φ macht auch Mist"
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

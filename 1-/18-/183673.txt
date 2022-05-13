@@ -1,0 +1,21 @@
+Wie sprachliche Mehrdeutigkeiten in juristischen Texten aufgelöst werden.
+
+Beispiel:
+
+  Die Verordnung gilt für Bären und Hunde, die nicht Bimbo heißen.
+
+Gilt sie nun für alle Bären sowie für diejenigen Hunde, die nicht Bimbo 
+heißen, oder gilt sie alle Bären und alle Hunde, es sei denn, das 
+betreffende Tier heiße Bimbo?
+
+Das *ist* sprachlich mehrdeutig.
+
+In manchen Fällen ist eine Deutung einleuchtender als die andere, dann 
+wird wohl die gemeint sein -- deswegen mein bewusst absurdes Beispiel, in 
+der keine Deutung einen Sinn ergibt, so dass die Deutung nach Sinn nicht 
+funktioniert. Wenn man das mehrfach verschachtelt wie im Ausgangsbeispiel, 
+ist die aufgrund des Weltwissens naheliegendere Deutung nicht mehr 
+offensichtlich.
+
+-- 
+Ludger Altenhofer

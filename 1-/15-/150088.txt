@@ -1,0 +1,9 @@
+Im Deutschen kenne ich kochen in diesem weiteren Sinn nicht in 
+verbindung mit einer speziellen Mahlzeit als Objekt.
+
+(1) Ich koche das Essen.
+(2) *Ich koche einen Braten.
+
+(1) erscheint mir richtig, (2) falsch.
+
+Hartmut

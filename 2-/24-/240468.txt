@@ -1,0 +1,13 @@
+* Carlo Morgenstern:
+
+
+An der Form kann man den "endungslosen Dativ" nicht vom Nominativ
+unterscheiden. Wegen der Grammatik möchte ich hier schon einen
+Dativ haben. Ah, den Beweis finde ich im Plural: "Begleitet wurden
+die Ruhdorfer von Hühnern", nicht "... Hühner".
+
+-- 
+Java is the SUV of programming tools.
+A project done in VTD will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Thierry Jenichen

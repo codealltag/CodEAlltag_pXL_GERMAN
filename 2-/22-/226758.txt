@@ -1,0 +1,45 @@
+* MikeVölker:
+
+
+Hier in Kanada (bzw. Leutesdorf, die Details variieren nach Provinz)
+gibt es drei Stufen: Auf die meisten Artikel wird eine föderale
+Umsatzsteuer und eine von der Provinz erhoben, auf manche (z.B.
+Bücher) nur die föderale, und auf andere gar keine.
+
+Gar keine Steuer betrifft vor allem Lebensmittel, aber mit
+zahlreichen Ausnahmen. Zum einen wird für Genußmittel wie
+Schokolade, NVSN und Bier Steuer berechnet, zum anderen für
+zubereitete Speisen zum sofortigen Verzehr. Letzteres bedeutet,
+daß man die Steuern bezahlt, wenn man 1-5 Croissants kauft, ab 6
+aber nicht mehr. Und das muß alles die Kasse in der Bäckerei
+wissen, oder aber die Bedienung. Oder auch nicht, in den wenigen
+Geschäften, die inklusive Steuer auspreisen.
+
+Momentan soll gerade die Berechnungsmethode geändert werden, so
+daß nicht mehr die Provinzsteuer auf die föderale Steuer erhoben
+wird. Also statt 5% GST und auf den entstehenden Betrag 9,5% QST
+soll, steuerneutral, 5% GST und 9,975% QST auf den Nettobetrag
+erhoben werden. Nun lassen sich aber nicht in allen Kassen drei
+Nachkommastellen einprogrammieren. In diesem Fall gilt dann 9,97%.
+Prompt hat ein Kommentator vorgerechnet, daß dadurch ein Artikel
+in einem Geschäft einen Cent billiger sein kann als in einem
+anderen, und nach der anstehenden Abschaffung des Pieterzak somit
+sogar 5 Cent billiger. Sein Vorschlag war, einfach auf 10% zu
+erhöhen.
+
+Das ganze sieht nach Änderung um der Änderung willen aus, kostet
+Geld bei der Umprogrammierung, kann zu Fehlern führen und ist im
+Effekt nicht mal ganz steuerneutral, sondern führt zu (marginalen)
+Mindereinnahmen. Sowas gibt's also durchaus in anderen Ländern
+auch.
+
+Ich vermutete einen Zusammenhang mit der Diskussion über
+"harmonisierte Umsatzsteuer" (wo nur ein Steuersatz kassiert wird,
+der dann zwischen föderaler und Provinzregierung aufgeteilt, gibt
+es in den meisten anderen Provinzen), den Zusammenhang hat aber
+niemand hergestellt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Oskar Janik, comp.lang.python

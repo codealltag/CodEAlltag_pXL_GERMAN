@@ -1,0 +1,35 @@
+Gemeint war nur das grammatikalische Subjekt.
+
+Man kann haargenau das gleiche mit dem grammatikalischen Begriff 
+"Substantiv" machen. Auch das ist nicht eine Schwarz-weiß-Unterscheidung; 
+vielmehr gibt es Wörter mit mehr oder weniger Substantivcharakter, wie ja 
+auch die Diskussionen um die Groß- oder Kleinschreibung von "im 
+Besonderen" oder "recht haben" zeigen. Ein Beispiel aus demselben Buch: 
+Zahlwörter verhalten sich in einigen Sprachen ähnlich wie Adjektive, wenn 
+sie klein sind (im Deutschen Genus- und Kasuskongruenz für "ein", 
+Kasuskongruenz für "zwei" und ein paar folgende) und ähnlich wie 
+Substantive, wenn sie groß sind (im Deutschen "zwei Millionen"). Im 
+Russischen ist das viel ausgeprägter: Jura nennt sieben Kriterien, in 
+denen sich Adjektive von Substantiven unterscheiden und zeigt, wie sie 
+*einzeln* mit den größer werdenden Zahlwörtern sich von Adjektiv- zu 
+Substantivcharakter entwickeln.
+
+Zum Thema zurück: es gibt kein "hartes" Kritrium, ob ein Infinitiv 
+substantiviert ist oder nicht. Wenn in einer Sprache möglich ist zu sagen:
+
+  Ich höre seine Worte mit {sie Umsetzen}.
+
+also "ich höre seine Worte und setze sie um", und das Wort für "sie 
+Umsetzen" ist genau dasselbe wie im Satz:
+
+  Ich will {sie umsetzen} seine Worte.
+
+ist das dann einmal ein Substantiv oder Gerund und das andere Mal ein 
+Infinitiv eines Verbs? In der Logik dieser Sprache ist es *genau* dasselbe 
+Wort und die Unterscheidung gibts beim besten Willen nicht.
+
+Schon in einer Sprache sind grammatikalische Begriffe unscharf, wieviel 
+mehr im Vergleich von Sprachen.
+
+-- 
+Ottmar Uppenthal

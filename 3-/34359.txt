@@ -1,0 +1,7 @@
+Guido Gogrefe (in de.etc.sprache.deutsch):
+
+
+Für mich bedeutet Usage "Ausmaß der Benutzung", "Ressourcenauslastung". Wie
+in "CPU-Usage".
+
+Arne

@@ -1,0 +1,12 @@
+Wenn Du die Oxalsäure mit CaCl2 binden willst, dann passiert
+
+CaCl2 + HOC(O)-C(O)OH ---> Ca[OC(O)C(O)O] + 2 HCl
+
+und es entsteht als starke Säure Salzsäure, die eben eine starke Säure 
+ist und Calciumoxalat fällt als unlösliches Salz aus.
+
+In Bucheckern ist übrigens Trimethylamin enthalten, das bindet die Oxalsäure
+
+2 N(Me)3 + HOC(O)C(O)OH ---> [H+N(Me)3]2 -OC(O)C(O)O-
+
+Valentin

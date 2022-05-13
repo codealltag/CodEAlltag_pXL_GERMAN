@@ -1,0 +1,13 @@
+Du setzt hier an der falschen Stelle an. Der Satz sagt nicht aus, dass
+nicht beides vorkommt, sondern dass dann die Summe nicht ungerade ist
+(eigentlich nicht einmal das, denn strenggenommen macht der Satz über
+diesen Fall keine Aussage, ein Mathematiker würde ihn daher eher als
+"Die Summe zweier ganzer Zahlen ist genau dann ungerade, wenn ..."
+formulieren (oder "dann und nur dann, wenn", abgekürzt "dund")).
+
+
+Ich finde den Satz überhaupt nicht verquer, sondern ganz normal.
+
+Verquer finde ich nur deine analoge Interpretation.
+
+	hp

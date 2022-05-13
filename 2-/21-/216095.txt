@@ -1,0 +1,17 @@
+* Kay Dörfner:
+
+
+Als ich in die 5. Klasse kam, lag unser Klassenzimmer
+ungewöhnlicherweise gegenüber einem der "Oberprima". Man sagte
+uns, daß die Bezeichnungen bei den höheren Klassen noch in
+Gebrauch seien ...
+
+
+... die Abschaffung der 5. und 6. Klasse Gymnasium stand da aber
+schon im Raum. 
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

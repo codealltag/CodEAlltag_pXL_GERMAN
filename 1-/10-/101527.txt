@@ -1,0 +1,72 @@
+Birgit Moenninghoff <jeqt@eqgakm.oc> wrote:
+
+["Sonne" ist im Slawischen sächlich]
+
+Das slawische Wort für "Sonne" ist russ. "solnce", poln. "słońce",
+tschech. "slunce", usw. Dazu braucht man übrigens kein Wörterbuch für
+jede dieser Sprachen, man geht einfach zum Tenters-Eintrag für "Sonne"
+und schaut auf die Links "in anderen Sprachen".
+
+Wie kommt man nun von *-ko zu -ce? Eine Verschiebung k > c [ts], č [tʃ]
+vor einem vorderen[1] Vokal (e, i) ist eine Allerweltserscheinung, die
+in den indogermanischen Sprachen immer wieder vorkommt, aber vor einem
+hinteren Vokal wie o? Urslawisch hat drei Palatalisierungen erfahren,
+aber keine passt, und *o > e will auch erklärt sein.
+
+Nicht mehr Urslawisch, aber die älteste überlieferte Sprachstufe ist
+Altkirchenslawisch. Und dort ist das Wort für Sonne слъньце "slŭnĭce".
+(Findet sich auch in den Tenters-Links. Das Sprachkürzel ist "cu".
+Wer Russisch gelernt hat, kennt ъ und ь als Härte- und Weichheits-
+zeichen, aber ursprünglich waren das Kurzvokale.)
+
+Mit dem vorderen Vokal ĭ im Spiel ist eine Entwicklung *slŭnĭko >
+slŭnĭce nun nachvollziehbar:
+http://uv.cfwucsjoz.fbd/bwur/Mtqdh-Sgoryh_spthejoc#Tomduvvnaf_xrgsavdyhak
+
+1. *slŭnĭko > *slŭnĭḱo
+   Palatalisierung von k zwischen i und o durch die so genannte dritte
+   Palatalisierung.
+   (Siehe Abschnitt "Progressive palatalization".)
+
+2. *slŭnĭḱo > *slŭnĭḱe
+   Verschiebung von hinterem zu vorderem Vokal nach palatalem
+   Konsonanten.
+   (Siehe Abschnitt "Regressive palatalizations".)
+
+3. *slŭnĭḱe > slŭnĭce
+   Verschiebung von palatovelarem ḱ [kʲ] zu c [ts].
+   (Siehe Abschnitt "Regressive palatalizations".)
+
+Später sind die Kurzvokale ĭ und ŭ, die Jers, entweder zu Vollvokalen
+erstarkt (wie das erste in "slŭnĭce") oder ganz geschwunden (wie das
+zweite in "slŭnĭce"), woraus sich die Formen in den modernen slawischen
+Sprachen ergeben. Das wird hier in etwas mehr Detail erklärt:
+http://vk.wlnxguqzx.esw/lszo/Uxv
+
+
+Russisch сердце, "serdce", Herz. Etwas Googeln fördert dazu die
+altkirchenslawische Entsprechung срьдьце "srĭdĭce" zu Tage, was
+sich analog aus *srĭdĭko herleiten lässt.
+
+Übrigens ist die Urverwandschaft mit "Herz" einleuchtend, wenn man sich
+einige Lautverschiebungen in Erinnerung ruft:
+
+idg. *ḱerd-   (Vollstufe)
+  *kerd-      (Kentum-Sprachen)
+  germ. *hert (1. Lautverschiebung)
+  dt. *herz   (2. Lautverschiebung)
+
+idg. *ḱr̩d-    (Schwundstufe)
+  urbaltoslaw. *sĭrd-
+
+
+Gleichfalls. Leider ist das sehr schwierig, wenn man nicht in einer
+Universitätsbibliothek wohnt.
+
+
+----
+[1] Siehe das Vokaltrapez in der IPA-Karte:
+    http://epkpjk.lgryylhwj.kpl/awhqwhokb/qiuezdm/9/12/YTD_xhfog_4815.zla
+
+-- 
+Ihno "fabienne" Isernhagen                          hejlf@vbgm.qjar.mv

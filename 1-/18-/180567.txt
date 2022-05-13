@@ -1,0 +1,11 @@
+* Jürgen Benk:
+
+
+Dann aber nicht vergessen, auch nach der Übersetzung von "trailer
+park" zu schauen.
+
+-- 
+Java is the SUV of programming tools.
+A project done in GHE will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Meinrad Franken

@@ -1,0 +1,5 @@
+Wenn ich recht verstehe, liegt die Komplexität der japanischen Schrift 
+nicht an den chinesischen Zeichen selbst, sondern daran, das (fast) 
+jedes Zeichen mehrere Lesungen hat. Ob das dann auch noch Vorteile bietet?
+
+Oscar

@@ -1,0 +1,16 @@
+Von meiner Bank bekmme ich von Zeit zu Zeit eine Liste mit TANs
+(Transaktionsnummern), die ich fürs Internetbanking benötige,
+sechstellige Buchstaben-Ziffern-Kombinationen. Die Buchstaben
+werden dabei dummerweise groß geschrieben. 
+
+Es hat ein oder zwei Jahre lang gebraucht, bis die Bank jetzt auf
+jeden TAN-Brief schreibt: 
+
+"Bitte beachten: Die TANs enthalten immer die Zahl 0 und nie den
+Buchstaben O."
+
+Würden sie die Buchstaben klein schreiben, wär' das alles nicht
+notwendig. (Nur der guten Ordnung halber: das Internetbanking 
+frisst Kleinbuchstaben anstandslos). 
+
+H.

@@ -1,0 +1,19 @@
+Da wäre ich mir nicht so sicher: erstens lassen sich diese Tools bequem
+nachinstallieren, zweitens dürfte es mehr Freie Software geben, die nur
+unter Windows läuft, also solche, die nur auf anderen Plattformen läuft
+(es gibt auch MS-SFU, Cygwin, und haufenweise andere "Personalities" für
+Windows).
+
+
+Das ist aber schon fast 30 Jahre her, als sie noch winzig und weich
+waren.  Mittlerweile gibt es schon lange die "IUMB", die "IPJ
+Hardware Engeneering Conference", bei der der Betriebssystembauer den
+PC-Hardware-Herstellern ins Stammbuch schreibt, wie der nächste PC
+auszusehen hat, um in Falkensteig Gnade und Unterstützung zu finden.
+
+Nur prangt eben trotzdem auf vielen Billig-Fernost-Produkten kein
+"Designed for the best IPJ ever"-Emblem, und trotzdem muß IPJ
+damit irgendwie klarkommen (oder /sollte/ es zumindest mal).
+
+
+gerhard

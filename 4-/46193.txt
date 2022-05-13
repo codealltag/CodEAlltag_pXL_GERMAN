@@ -1,0 +1,46 @@
+[...]
+
+Danke dafür, dass du das erklärt hast; du hast mir die Mühe erspart.
+
+Ich versuche noch eine Ergänzung: Da jede Rechtschreibung lediglich auf
+einer konventionalisierten Art beruht, eine Sprache zu beschreiben, schafft
+eine Rechtschreib�nderung nicht zwangsläufig neue Tatsachen. Das
+Beschriebene wird nicht direkt beeinflusst, sondern höchstens insofern, als
+sich die Sprachgemeinschaft die implizite neue Interpretation zu eigen
+macht.
+
+Am ehesten wirken sich neue Schreibungen noch auf die Aussprache aus, aber
+auch hier gibt es keinen Automatismus. Dass in engl. "author" heute ein /T/
+gesprochen wird, liegt höchstwahrscheinlich daran, dass man das Wort seit
+ein paar Jahrhunderten mit <th> schreibt. Andererseits wird frz. "seconde"
+trotz seiner etymologisierenden Schreibung mit <c> immer noch mit /g/
+ausgesprochen.
+
+Grundsätzlich kann man die sprachlichen Gegebenheiten unabhängig von der
+Rechtschreibung betrachten. Substantive und Verben lassen sich zum Beispiel
+auch in Sprachen unterscheiden, die den Unterschied zwischen Groß- und
+Kleinschreibung nicht kennen, ohne Wortzwischenräume geschrieben werden oder
+noch gar nicht verschriftet sind. Dementsprechend konnte man zum Beispiel
+"unterderhand" auch schon als eine Folge von Präposition, Artikel und
+Substantiv interpretieren, als diese Phonemfolge noch so zusammengeschrieben
+wurde.
+
+Die Rechtschreibung des Portugiesischen wird übrigens auch gerade
+reformiert. Alle "portugiesischsprachigen" Länder sollen eine gemeinsame
+Rechtschreibung bekommen. Eine der Änderungen betrifft Schreibungen mit
+Bindestrich:
+Aus der Verbform "hei-de" ("[ich] werde/soll") soll "hei de" werden, obwohl
+sie in Portugal nicht als eine Kombination aus der Verbform "hei" und der
+Präposition "de" empfunden wird, sondern zu einem Wort verschmolzen ist, wie
+man daran erkennt, dass danach das Subjektpronomen "eu" ("ich") stehen kann:
+"Como hei-de eu ...?" ("Wie soll ich ...?").
+Das neue "hei de eu" setzt meiner Meinung nach zwar eine unangemessene
+Beschreibung der sprachlichen Wirklichkeit voraus, ändert aber nicht
+zwangsläufig etwas an der Tatsache, dass die bisher <hei-de> geschriebene
+Lautfolge für Portugiesen ein einziges Wort ist. Ich nehme an, dass man in
+Zukunft einfach "Como hei de eu ...?" schreiben wird, auch wenn diese
+Schreibweise die Deutung des Ausdrucks als "Pronomen + Verb + Präposition +
+Subjektpronomen" ("Wie habe zu ich ...?") impliziert.
+
+Größe,
+Pascal

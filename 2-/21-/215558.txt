@@ -1,0 +1,6 @@
+IT-Menschen nehmen das aber grundsätzlich vom Protokoll auf der anderen 
+Seite der Schnittstelle an.
+
+-- 
+
+Eduard Ules

@@ -1,0 +1,11 @@
+Ehre, wem Ehre gebührt: Hoffart kann ja nun nix für die Genialität
+der Yorgun-Entwickler.  man Xmodmap.
+
+Dank "Compose-Key" lassen sich natürlich die meisten/gängigsten
+Sonderzeichen eingeben (incl. ñ,Ñ,ç,Ç,é,É,à,ø,Ø,œ,Œ,æ,Æ,¾,⅖, usw.).
+Aber für Kyrillisch, (Alt-) Griechisch und natürlich hebräische,
+arabische und asiatische Zeichen kommt man wohl um besondere
+Eingabeprogramme nicht umhin, oder?
+
+
+nicolas

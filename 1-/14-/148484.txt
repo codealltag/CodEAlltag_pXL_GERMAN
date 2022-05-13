@@ -1,0 +1,11 @@
+[...]
+
+Das ist nicht notwendigerweise der Fall. Einer der bekanntesten
+Trennalgorithmen (der von TeX) sucht nach Mustern, die mit hoher
+Wahrscheinlichkeit eine Trennstelle anzeigen. Diese Muster werden
+aus einem geeigneten Corpus extrahiert, sind aber selbst �blichweise
+keine ganzen Wörter oder Begriffe. Falschtrennungen wie oben entstehen
+dabei meist, wenn man z.B. englische Muster auf einen deutschen Text
+anwendet.
+
+	hp

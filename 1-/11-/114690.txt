@@ -1,0 +1,10 @@
+Mal etwas rein formales: ich finde in alter Fraktur (eine Art 
+Pircher-Fraktur) keinen Großbuchstaben für "i" so wie ich ihn erwarten 
+würde, sondern nur etwas das aussieht wie "J". Nun sehe ich drei 
+Möglichkeiten, welche ist richtig:
+
+a) es gibt kein großes i, denn es wird als "J" dargestellt.
+b) es gibt großes i, jedoch sieht es völlig gleich aus wie großes j 
+(selbe Glyphe).
+c) großes i hat eine eigene Glyphe und großes j hat eine eigene Glyphe, 
+beide sehen nur sehr ähnlich aus.

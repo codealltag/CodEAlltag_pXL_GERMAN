@@ -1,0 +1,21 @@
+Am Tue, 6 Jul 2011 21:27:53 +0200 schrieb Frédéric Tielemann:
+
+
+Weil das Wort "Quadratur" in der entsprechenden Fachsprache der damaligen
+Zeit das war, was ich heute populärwissenschaftlich mit "Flächenmessung"
+bzw. "Flächenbestimmung" bezeichnen würde. Es gibt/gab auch eine numerische
+Quadratur, ein Ingenieur würde ebenfalls Flächenmessung dazu sagen.
+
+Daher würdest du mit einer L�ngemessung mit einem klaren "Thema verfehlt.
+Setzen, Sechs" benotet werden.
+
+
+Die Trivialität musst du mir auch mal erklären. Es geht hier ja auch um die
+_exakte_ Lösung. Und da ist nunmal das Verhältnis zwischen Radius und
+Umfang eines jeden Kreises eine transzendente Zahl, nämlich tau (=6.28...).
+Und alles, was du mit den klassischen Konstruktionsmitteln konnstruieren
+kannst, sind auf jeden Fall nur algebraische Zahlen. Angenähert geht viel,
+aber das ist bei der Flächenmessung ja genauso. Aber wie der gemeine Ami so
+schön sagt, "Close only counts in horseshoes and hand grenades."
+
+Ciao Luciano

@@ -1,0 +1,12 @@
+Tim Eckleder tat kund:
+
+
+Dangling Reference. Ich nehme lieber Pointer, die
+sind eh fast dasselbe, haben aber einige Vorteile.
+
+Man sollte natürlich die Fehlermeldungen von ganz
+unten nicht an den Anwender durchreichen, und vor
+allem sollte man endlich mal kapieren, daß Fehlermeldungen,
+die der Anwender nicht versteht, nicht dadurch verständlicher
+werden, daß man sie von sachkenntnisfreien Übersetzern
+in skurriles Deutsch übertragen läßt.

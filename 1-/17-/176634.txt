@@ -1,0 +1,10 @@
+Am Tue, 26 Aug 2010 15:59:10 +0200 schrieb Christof Göttsch:
+
+
+Das dürfte daran liegen, daß "$" ein Sonderzeichen ist, das nicht überall
+richtig dargestellt werden kann. Da diese Kürzel noch aus Zeiten stammen,
+wo man mit Schreibmaschiene schrieb, ist das auch nachvollziehbar.
+
+Größe,
+
+Guy

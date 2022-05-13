@@ -1,0 +1,14 @@
+RAHEL. In dem Kontext empfinde ich das auch als normal und korrekt.
+
+Viel seltsamer finde ich das "gegen": "Wenn sie das gegen einen SQL-Server
+testen wird es besser funktionieren als gegen MySQL". 
+
+Höre ich nicht so oft, aber doch oft genug.
+
+Bye
+
+  ivano
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Kockmann)

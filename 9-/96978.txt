@@ -1,0 +1,3 @@
+Mir ist nicht klar, wie ein "weil" in einer Logikaufgabe überhaupt
+zeitlich zu verstehen sein soll. Wie wäre dessen Analogie zum kausalen
+"weil", welches hier als Implikation zu beschreiben wäre?

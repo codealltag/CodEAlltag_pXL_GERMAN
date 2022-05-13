@@ -1,0 +1,11 @@
+Tatsächlich? Mir ist das unbekannt. "Li-Ion" findet man zwar als
+Beschriftung auf den Akkus, aber ich hielt das eher für unsprechbar (und
+habe es auch noch nie gehört).
+
+Größe, Cornelius
+
+
+PS: Lithium-Ionen und Lithium-Polymer sind zwei Bauformen. Eigentlich
+zwar nicht, denn ein Li-Poly ist ein Li-Ion mit einem Gel statt eines
+flüssigen Elektrolyten, also eine Untermenge, aber im technischen
+Sprachgebrauch schon.

@@ -1,0 +1,25 @@
+On Thu, 20. 01. 23 00:01:32 -0700 (PDT), Laurent Windhöfel
+
+Das mit den Gedichten funktioniert auch nicht :-)
+
+Angenommen, du verschlüsselt einen Text mit 10.000 Zeichen auf diese
+Art. Ein Entschlüsseler kann jetzt hergehen und den Text nach
+bestimmten Wörtern durchsuchen. Er verwendet z.B. das Wort "eine".
+Jetzt nimmt er die Buchstaben 1 bis 4 und tut so, als wäre der
+Klartext eine (er erzeugt den Schlüssel quasi andersrum). Dann macht
+er das mit den Buchstaben 2 bis 5, dann 3 bis 6 .... dann 997 -
+10.000. Jetzt schaut er, ob er damit gängige Silben erzeugt hat (sch,
+en, ck, ung usw). Trifft er auf solche Silben, schaut er sich die
+Nachbarbuchstaben an und hat flugs herausgebracht, ob ein deutsches
+Wort für den Schlüssel verwendet wurde. Hat er das ermittelt, prüft er
+die Nachbarn dieses Wortes ...
+
+Verschlüsselung ist seit vielen Jahrhunderten eine Wissenschaft und
+eine Kunstform. Wer sich dafür interessiert, dem sei Pierre Odijk
+"Geheime Botschaften" ans Herz gelegt. Da erfährt man dann auch, wie
+man eine ENIGMA knackt ...
+
+
+-- 
+Viele Größe
+Klaas Wiehmann

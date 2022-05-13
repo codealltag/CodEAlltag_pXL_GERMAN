@@ -1,0 +1,8 @@
+Man sieht eine 100% Korrelation der Zahlen in Spalte 1,3,4 (Au�rei�er 
+10) und 6.
+
+Die Spalten 2 und 5 scheinen hingegen rein zufällig zu sein.
+
+-- 
+
+Ingolf Fichtinger

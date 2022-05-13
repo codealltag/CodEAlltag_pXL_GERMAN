@@ -1,0 +1,26 @@
+Das mag sein. Das Problem ist, dass die Temperatur ja nicht angegeben
+wird, um den Leuten zu ermöglichen ihre Indium-Vorräte in den Keller zu
+bringen, bevor sie hinfortrinnen, sondern um ihnen z.B. die Auswahl
+einer halbwegs passenden Kleidung zu ermöglichen oder die Planung für
+körperlich anstrengende Arbeiten zu erleichtern [1]. Und dabei kommt es
+eben auf den Wärmehaushalt des Körpers an. Da dieser u.a. durch
+Schwitzen geregelt wird, dessen Effektivität von Luftfeuchtigkeit
+und Luftbewegung (Wind) abgt, ist es schon sinnvoll anzugeben, wie
+warm es sich *anfühlt*: 30 Grad bei 12% Luftfeuchte und Windstärke 3
+fühlt sich deutlich kühler an als 30 Grad bei 98% Luftfeuchte und
+absoluter Windstille.
+
+
+Das ist meiner Meinung nach eher einer gewissen Klarheit
+geschuldet - den Verbrauch deines Autos misst du ja auch nicht in
+Quadratmillimetern.
+
+
+Die langweiligste Wetterlage seit...
+
+
+[1] Mal ganz ehrlich: Wer ohnehin jeden Tag einen Anzug anzieht und
+einer sitzenden Tätigkeit (vorzugsweise im klimatisierten Büro) nachgeht
+für den ist der Wetterbericht komplett überflüssig.
+-- 
+Space - The final frontier

@@ -1,0 +1,13 @@
+Massimo Neuschwenders:
+
+[Y2K]
+
+Alles richtig. 
+Aber merkwürdigerweise waren auch viele Lieferanten von Embedded
+Systemen recht spät dran. Wann kamen sie mit ihren neuen Versionen,
+z.B. für den Fahrstuhl, den Eintritts- und Zeiterfassungskartenleser,
+den Backofen, usw?
+
+
+-- 
+Ralf

@@ -1,0 +1,15 @@
+* Willy H. Vennen:
+
+
+[...]
+
+
+Du (oder Deine Soltware) müßtest sie aber halt ändern, wenn Du nicht
+dazu passende Zeichen einfügst. Zu meiner Zeit hat OE in solchen Fällen
+nachgefragt, ob man UTF-8 wolle, vielleicht hast Du ihm irgendwann
+gesagt, er solle diese lästige Fragerei sein lassen? 
+
+-- 
+es sol kain leitgeb eim paurnknecht nicht mer parigen
+dann sein gurtelgewant, ... swert und gugel wert ist
+  Österr. weist.

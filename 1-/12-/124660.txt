@@ -1,0 +1,6 @@
+Ich würde, unabhängig vom Duden, denselben Leerschritt nehmen, den ich
+uch zwischen Zahl und Einheit verwende - NARROW NO-BREAK SPACE (Unicode
+202F).
+
+-- 
+Space - The final frontier

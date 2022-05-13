@@ -1,0 +1,14 @@
+* Hendrik Niederschäfer:
+
+
+Nur daß das dann immer noch kein Deutsch wäre.
+
+  Als Vellinghausen mit dem Hintergrund „Hochdeutsch als erste 
+    Fremdsprache“ ...
+  Als Vellinghausen mit dem Hintergrund, Hochdeutsch als erste 
+    Fremdsprache erlernt zu haben ...
+
+-- 
+The generation of random numbers is too important to be left to
+chance.
+  Bodo B. Aichler

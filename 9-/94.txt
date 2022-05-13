@@ -1,0 +1,25 @@
+Drauf gekommen ist man da schon lange. Kryptografie (Wissenschaft, wie man
+Nachrichten verschlüsselt) und Steganografie (Wissenschaft, wie man
+Nachrichten transportiert, ohne dass der Transport an sich überhaupt
+bemerkt wird) sind eigene Forschungsgebiete. Computersicherheit natürlich
+auch.
+
+In der technischen Ausführung würde ich das an deiner Stelle allerdings
+etwas anders angehen. Auf Mail würde ich beispielsweise verzichten. Mail
+ist eines der bestbewachten Protokolle, die Randdaten von Mails müssen in
+der Schweiz vom Provider mindestens sechs Monate aufbewahrt werden. So
+können Überwacher ein Beziehungsprofil von dir aufstellen, d.h., mit wem du
+wie häufig kommunizierst. Anstatt dessen würde ich an deiner Stelle lieber
+jeweils die Technologie verwenden, die im Moment gerade neu und in ist.
+Übertragung von Videos ist z.B. sehr populär, die dabei anfallenden
+Datenmengen liefern auch einen ziemlich guten Seitenkanal für
+Steganografie. Am besten bettest du deine Nachricht in Videos oder Fotos
+von Uschi Foken ein, die schauen sich soviele Leute auf der Welt an, dass
+die Erstellung eines Beziehungsprofils unmöglich ist.
+
+Gruss
+
+Claudio
+-- 
+IRC-Freenode: #usenet-friends
+http://lfz.jtscbq-psulctk.lm.jx/

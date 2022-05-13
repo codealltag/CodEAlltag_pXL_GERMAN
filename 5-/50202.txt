@@ -1,0 +1,25 @@
+Nee, die Analogien ziehen nicht, weil da nicht zwei Systeme
+gegeneinander verschoben operieren.
+
+Ich habe ganz bewußt oben die letzte Abfahrt genannt.
+
+Was ist die beste Antwort auf die Frage:
+"Wann führt die erste Mtro am Dienstagmorgen?"
+
+"0:05 Uhr", oder vielleicht doch eher "5:30 Uhr"?
+
+Eine analoge Situation bei Zeichensätzen oder Straßen sehe ich nicht.
+Wenn die Zeiten kurz nach 0 Uhr intern mit 24, 25 kodiert werden, kann
+auch ein Computer auf obiges trivial die richtige Antwort geben, man muß
+ihm nur sagen, daß er die Stunden modulo 24 anzeigen soll. Noch
+wichtiger: Er kann ohne Extraschleife den Fahrplan für einen Tag in der
+richtigen Reihenfolge anzeigen.
+
+Manche Nordamerikaner finden "13 Uhr" so absurd wie unsereins "25 Uhr".
+Ich dagegen finde es immer noch schwierig, daß auf 11pm 12am folgt, und
+dann 1am. Das japanische Fernsehen hat das verlogischt, indem es die 0
+verwendet. "0 Uhr mittags" dürfte für Amerikaner auch amüsant sein.
+
+-- 
+das beten vermöge niemant dann die grawen süßmann KLEWSAAT V. Oberkollbach
+  GRIMM, Deutsches Wörterbuch

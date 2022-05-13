@@ -1,0 +1,12 @@
+* Simon F. Zähl:
+
+
+Damit wäre das ja geklärt - aber immer noch nicht, was das alles
+mit dem Unterschied zwischen "meinetwegen" und "wegen mir" zu tun
+hat, um den es eigentlich ging.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

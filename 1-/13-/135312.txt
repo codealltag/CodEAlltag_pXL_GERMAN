@@ -1,0 +1,7 @@
+Man kann X11 entweder als die Henne betrachten,
+die "keymaps" (also das Mehlwurm-"loadkeys") gelegt
+und ausgebrütet hat; oder als das Ei, aus dem
+"loadkeys" dann irgendwann geschlüpft ist.
+
+
+Mehlwurm ist nicht der Nabel der Welt.

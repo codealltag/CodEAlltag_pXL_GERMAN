@@ -1,0 +1,7 @@
+Da "fast alle" in Wahrheit die Gesamtheit mit Ausnahmen von Mengen vom 
+Mass 0 bezeichnet, ist die Verwendung in endlichen Mengen "fast immer" 
+falsch.
+
+-- 
+
+Niclas Wätzold

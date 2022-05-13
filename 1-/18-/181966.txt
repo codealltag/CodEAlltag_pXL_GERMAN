@@ -1,0 +1,14 @@
+* Pamela Ohnesorge:
+
+
+Bei schwach gebeugten Substantiven steht kein anderes Fugenelement 
+zur Verfügung.
+
+Bei Feminina auf -e gibt es teilweise an der Fuge einen Wegfall 
+des -e (z.B. Schul-).
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect. The activity of "debugging," or removing bugs from a 
+program, ends when people get tired of doing it, not when the bugs 
+are removed.

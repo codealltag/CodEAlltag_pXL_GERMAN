@@ -1,0 +1,8 @@
+Und wenn nicht 2012 der Maya-Zähler überlaufen würde, müssten wir
+uns langsam mal Sorgen um 2038 machen.
+
+So wie bei dem 49,x-Tage-Problem bei extra-Rechnern, das nur
+deshalb wenig Praxisrelevanz hatte, weil die Kisten typisch
+nicht so lange ohne Reboot überlebten.
+
+/Johann

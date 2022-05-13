@@ -1,0 +1,22 @@
+Das sind dann aber keine 'klassischen' Wandler-Automaten. Bei denen gibt
+es systembedingt Verluste durch Schlupf im Drehmomentwandler; das ist
+auch nicht zu kompensieren.
+
+Du sprichst vermutlich die sogenannten 'automatisierten Schaltgetriebe'
+an. Die haben, in ihrer modernsten Form, aber keinen Drehmomentwandler
+sondern zwei Kupplungen (DKG = Doppelkupplungsgetriebe), die ihrerseits
+automatisch (elektro-hydraulisch) geschaltet werden. Bei denen lässt
+sich i.d.T. ein besserer Wirkungsgrad als beim manuellen Handschalter[1]
+erzielen.
+
+[1] Natürlich ist 'manueller Handschalter' eigentlich ein Pleonasmus. Da
+aber auch DK-Getriebe manuell geschaltet werden können, und somit
+Handschalter sind / sein können, fiel mir nicht besseres ein.
+
+
+Ciao
+Irma
+-- 
+ Den Reiz des Verbotenen kann man nur auskosten,
+ wenn man es sofort tut -
+ morgen ist es vielleicht schon erlaubt. (Alois Jansen)

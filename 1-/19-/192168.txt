@@ -1,0 +1,7 @@
+In mathematisch-wissenschaftlichen Texten steht das bestimmt nicht
+so.
+Da heißt es "Jede differenzierbare ..." oder "Ist eine Funktion
+differenzierbar, dann ist sie auch stetig."
+
+Ein Mathematiker könnte deine Formulierung auch verstehen als "Es
+existiert eine differenzierbare Funktion, die auch stetig ist."

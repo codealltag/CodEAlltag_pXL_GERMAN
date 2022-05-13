@@ -1,0 +1,9 @@
+Besonders nett fand ich, dass Musikstadl irgendwann mal von My/Mein zu
+Own/Eigene gwechselt ist.
+Jetzt habe ich Programme, die als Default ihre Daten in
+"Eigene Scans" ablegen wollen, während andere auf "Meine Scans"
+bestehen. Umd Symlinks oder wie auch immer das in Windows
+heißt funktionieren auch nicht - zumindest der Dime-Scanner
+*WEISS*, wo seine Daten liegen sollen ...
+
+/Ulrich

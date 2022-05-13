@@ -1,0 +1,181 @@
+Helmut Gerstmeier schrieb:
+(...)
+
+Ach weisst Du: Mir ist das egal. Ich hatte nur Angst, dass jemand,
+der sprachliche Praezision einfordert, bei der Verwendung das
+Begriffs "digitale Teilnehmeranschlussleitung" darauf bestehen
+koennte, dass eine Leitung selbst nicht digital oder analog sein
+kann, sondern hoechstens das darueber uebertragene Signal. Und
+selbst da koennte man noch drauf hinweisen, dass ein Signal nicht
+digital oder analog ist, sonder hoechstens seine Interpretation.
+
+
+Warum? Im Kontext des Hinterfragens von Abkuerzungen findest Du
+zwar, dass Uebersetzung immer ihre Tücken hat, findest aber das
+Aufloesen der Abkuerzungen zu diesem Zweck offensichtlich ok,
+obwohl ich Dir auch da die Tuecken aufgezeigt habe.
+
+Ich verstehe wirklich nicht, warum das eine pauschal ok ist, das
+andere aber nicht. Ich sehe da eine willkuerliche Grenze.
+
+Ich arguemtiere: Es sind Begriffe, die irgendwann mal eingefuehrt
+wurden und unter denen jeder Mensch trotz gewisser Ungenauigkeiten
+das gleiche versteht. Es ist primaer das, worauf es ankommt, nicht
+das, was eine Abkuerzung genau bedeutet.
+
+Nochmal: Das heisst wohlgemerkt nicht, dass ich "LC-Display" ablehne,
+aber ich werde deswegen jetzt eben nicht auch "US-Bus" schreiben.
+Ebensowenig werde ich Menschen die Faehigkeit zum Denken absprechen,
+nur weil sie "LCD-Display" schreiben.
+
+
+Der Punkt ist: Hast Du schonmal jemanden sagen hoeren, dass er ein
+Logik-Design in "Very High Speed Integrated Circuit Hardware
+Description Language" entwickelt hat? Oder glaubst Du, dass die
+Person eher sagen wuerde, dass sie es in VHDL gemacht hat?
+
+Die Sprache, um die es geht, heisst eben VHDL, nicht "Very High Speed
+Integrated Circuit Hardware Description Language". Zudem hat man mit
+dem Begriff "VHSIC", von dem das "V" in "VHDL" abgeleitet ist, einen
+Modebegriff der damaligen Zeit benutzt, den man damals auch in der
+Matrix eines Bullshit-Bingos haette finden koennen. Was soll "VHSIC"
+in diesem Zusammenhang aussagen? Dass alles, was nicht "VHSIC" ist,
+sich mit VHDL nicht modellieren laesst bzw. dass VHDL besonders
+geeignet fuer VHSIC-Entwuerfe ist? Ein falscher Schluss, fuer den ich
+aber Verstaendnis haette.
+
+Mein Fazit:
+Das Beispiel ist lang, ungenau und traeg nicht zum Verstaendnis bei.
+Im Gegenteil: Es sorgt eher fuer Verwirrung als fuer Klarheit.
+
+
+Sie wurde eingefuehrt, von einer Arbeitsgruppe des DoD.
+
+
+Der Volltext ist ohne naehere Erklaerung irrefuehrend.
+
+
+Und was ist dann der Grund dafuer, diese Sprache bei CitySatShop unter
+dieser Bezeichnung zu fuehren? Die Sprache heisst VHDL, nicht
+"Very High Speed Integrated Circuit Hardware Description Language".
+
+Warum benutzt man nicht einfach die Bezeichnung, unter der diese
+Sprache bekannt ist und eingefuehrt wurde? Was sich ihrer Erfinder
+bei ihrer Benennung "gedacht" haben, ist ein Aspekt, auf den man
+dann im Text eingehen kann.
+
+
+Da hast Du durchaus recht. Man kann sich fragen, was sich die
+imageLAND-Erfinder dabei gedacht haben. Die Bezeichnung USB hinterfrage
+ich deswegen trotzdem nicht. USB bezeichnet fuer viele eben keinen
+"seriellen Bus", sondern einen gemeinsamen Aspekt bei Dingen, mit
+denen sie taeglich umgehen: Anschluesse, Geraete, Datentraeger u.v.m.
+
+Fuer diesen Aspekt interessiert es nicht, was sich die Erfinder
+bei der Abkuerzung gedacht haben oder ob sie vielleicht doch nicht
+richtig nachgedacht haben. Was die Abkuerzung bedeutet bzw. bedeuten
+sollte, ist eben nur ein Teilaspekt beim Thema USB. Aber das Thema
+heisst eben USB, nicht "Universal Serial Bus".
+
+Ein gutes Beispiel dafuer, dass die Bedeutung einer Abkuerzung
+meist in der Hintergrund tritt, ist RAID. Urspruenglich war es
+mal die Abkuerzung fuer "Redundant Array of Inexpensive Disks".
+Heute uebersetzt man es lieber mit "Redundant Array of Independent
+Disks".
+
+(...)
+
+Was dachtest Du, wollte ich mit folgender Aussage sagen:
+
+"Auch Begriffe wie USB, AGP und LCD sind genaugenommen doch
+eigenstaendige Bezeichungen geworden, die einfach sagen, worum
+es geht"
+
+Und bitte: Zeig doch nicht immer mit dem Finger auf mich, wenn
+Du etwas nicht gelesen oder verstanden hast. Ich gestehe ja
+gerne ein, dass ich viel geschrieben habe, aber fass Dir doch
+bitte hin und wieder auch mal an die eigene Nase.
+
+Ich bin mir sicher, dass Du genauso davon ueberzeugt bist,
+stringent und logisch argumentiert zu haben, wie ich. Aber
+nur weil der eine den Punkt des anderen noch nicht verstanden
+hat, musst Du doch nicht immer mit den Finger auf mich zeigen.
+
+(...)
+
+Ok. Es war ein "Dich" im Sinne von "man wird nicht verstanden,
+wenn...". Aber mal ehrlich: "US-Bus" hab ich noch nie jemanden
+sagen hoeren.
+
+(...)
+
+Nein. Habe ich nicht. Selbstverstaendlich beziehe ich mich hier
+auf den Eindruck, den ich habe. Ich habe wirklich noch nie
+irgendwo "US-Bus" statt "USB-Bus" gelesen und wenn Du gegenteiliges
+behaupten willst, dann wuerde ich Dich bitten, mir zu zeigen, wo
+ich das schonmal gelesen haben koennte/sollte/muesste. Es ist
+unbestreitbar die absolute Ausnahme und das behaupte ich, ohne
+darueber eine Statistik angefertigt zu haben.
+
+Und "LC-Display" hoere ich auch mittlerweile haeufiger als
+"LCD-Display" und ich stehe auch zu der Behauptung, dass das eine
+genauso verstanden wird wie das andere. In meinem Umfeld auf
+jedenfall.
+
+
+Gut. Da hast Du vielleicht sogar recht. Aber wenn jemand mit
+diesem Begriff ein Problem hat, werde ich es nicht zu meinem
+Problem machen :p
+
+(...)
+
+Die Aussage "LCD-Display ist ein Flüssigkristallbildschirmbildschirm"
+kam zumindest von Dir.
+
+Soweit ein Mensch ueberhaupt weiss, was ein "Fluessigkristall-
+bildschirm" ist, wird er unter "LC-Display" und "LCD-Display"
+immer einen Fluessigkristallbildschirm verstehen und nicht
+ein Fluessigkristallbildschirmbildschirm.
+
+(...)
+
+Wie auch immer. Es war nicht unser Thema.
+
+(...)
+
+Ja. Von Dir.
+
+Ist Dir nicht aufgefallen, dass das eine fast woertwoertliche
+Parodie Deiner Rhetorik war? Du sagtest doch, ich moege einwenden,
+"Wörter seien Wörter". Ueberleg doch einfach mal, was Du mir da
+fuer eine Binsenweisheit in den Mund legen wolltest?
+
+Weisst Du: Ich ging auf diese Unsachlichkeit bewusst nicht ein,
+aber bitte hoer auf damit, jetzt weitere Unsachlichkeiten
+nachzulegen.
+
+Ich verstehe uebrigens wirklich nicht, was Du mit der Aussage,
+Zitat: 'daß in diesem Thread einer, der präzise Ausdrucksweise
+für so völlig überflüssig hält, andererseits behauptet, er habe
+sich an einem 3000-=B5F-Elko von 10V "einen, nicht leichten Schlag"
+bekommen' zum Topic der Diskussion beitragen wolltest.
+
+Das klingt fuer mich wirklich wie eine Unterstellung, mein
+Standpunkt waere der Praezision von Sprache abtraeglich. Darauf
+habe ich Dir geantwortet.
+
+Wenn ich damit Deiner Intention nicht gerecht werde, dann erklaere
+sie mir einfach. Was wolltest Du im Kontext dieser Diskussion damit
+aussagen? Ich habe es wirklich nicht verstanden und wenn Du mir
+schon Vorwuerfe machst, es laege an mir, dass Du nicht verstanden
+hast, was ich eigentlich deutlich geschrieben habe, dann kannst
+Du von mir nicht erwarten, Deinen aus meiner Sicher ebenso
+komischen Gedankengaengen zu folgen.
+
+
+Das Thema "präzise Ausdrucksweise" hast Du ins Spiel gebracht (s.o.)
+Ich habe nur darauf hingewiesen, das ein Begriff, unter dem jeder
+das gleiche versteht, sprachlicher Praezision nicht entgegensteht.
+
+Wenn Du diesen Aspekt nicht in die Diskussion einbringen wolltest,
+warum fuehrst Du ihn an?

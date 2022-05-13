@@ -1,0 +1,9 @@
+Ich bin nicht sicher, aber es könnte "Aktwort" gegen
+"Aktionswort" sein. Die Aktion heisst Werfen, der Akt ist ein
+Wurf. Vergleiche token vs. type.
+
+SASCHA
+
+Gruss
+
+Udo

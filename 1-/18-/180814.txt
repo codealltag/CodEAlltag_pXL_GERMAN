@@ -1,0 +1,20 @@
+Nein, das tust Du nicht, denn...
+
+
+..."Instanz" ist kein sprachwissenschaftlicher Begriff, sondern unter 
+Informatikern (und in ganz anderer Bedeutung in der Juristerei) 
+gebräuchlich. In der Informatik gibt es, wie andere schon geschrieben 
+haben, Instanzen einer Klasse. Wobei man die, wenn man ein einzelnes 
+meint, oft als Objekte bezeichnet.
+
+
+Laurent Parkmann ist eine Instanz der Klasse Politiker - jedenfalls wenn 
+ich irgendwelche Fachanwendungen für Demoskopen oder so schreiben 
+muss.
+
+
+Politiker ist dann die Klasse, zu der Laurent Parkmann gehört. Vielleicht 
+auch der Typ von Laurent Parkmann.
+
+Gruß,
+Edmund

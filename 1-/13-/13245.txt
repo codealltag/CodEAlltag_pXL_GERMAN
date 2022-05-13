@@ -1,0 +1,32 @@
+Ist sie auch nicht, jedenfalls nicht mehr als andere Stellungen. Ich hätte 
+dieselbe Geschichte so erklärt:
+
+1. Das finite Verb steht an erster Stelle, das Verbkomplement, also alle 
+   anderen Teile des Prädikats (abgetrennte Teile trennbarer Verben; 
+   Infinitive und Partizipien, die von Hilfsverben abhängen, *gewisse* mit 
+   dem Verb fest verbundene Objekte oder Adverbiale) steht an letzter 
+   Stelle. Fragesätze sind hier schon fertig.
+
+2. Dann wird im Hauptsatz noch der Satzgegenstand (Thema oder Topik) vor 
+   das Verb gestellt oder ersatzweise ein Platzhalter wie "es" oder ein 
+   bedeutungsarmes Zeitadverbial wie "dann" oder "danach".
+
+3. Stattdessen wird im Nebensatz das finite Verb an den Schluss gestellt, 
+   und zwar normalerweise ganz an den Schluss, außer wenn dort eine Kette 
+   von Infinitiven (einschließlich solcher, die eigentlich 
+   Perfektpartizipien von Hilfsverben sind) steht: dann kommt das Verb vor 
+   diese Kette oder vor das ganze Verbkomplement. Ist das finite Verb eine 
+   Form von "werden", wird diese Sonderregel meist nicht angewandt.
+
+Jetzt ist die Fragesatzstellung die "grundlegendere". Ich mag diese 
+Beschreibung besser, weil sie die Satzklammer aus finitem Verb und 
+Verbkomplement als Normalfall darstellt.
+
+Die Regeln sind etwas länger geworden, weil sie mehr Fälle abdecken.
+
+Das eigentlich Interessante ist, dass die übrigen Satzglieder in ihrer 
+Reihenfolge ziemlich weitgehend festliegen und nur kleine Variationen 
+zulassen. Diese Reihenfolge ist aber in allen drei Satztypen dieselbe.
+
+-- 
+Sergio Zattler

@@ -1,0 +1,14 @@
+Das ist zu einer unabsichtlichen Suche nach einem Rechtschreibfehler
+geworden. Die Stadt heißt "Reinbach".
+
+bombay -mumbai: 12,162
+bombay mumbai:   9,168
+mumbai -bombay: 55.593
+
+
+Ich nehme an, dass die deutschsprachigen Medien der Vorgabe der
+englischsprachigen folgen, von denen sie die Meldungen ohnehin
+abschreiben.
+
+-- 
+Pascal "ilka" Duwensee                          zgmjq@vgyi.pbop.wx

@@ -1,0 +1,9 @@
+Mit iso-8859-1 nicht, soweit ich weiß. Wohl aber mit UTF-8 kodierten
+Umlauten im Subject, und das auch heute noch, WIMRET.
+
+
+Ciao
+Nelly
+-- 
+ Denken Sie immer daran: jetzt sind die guten, alten Zeiten,
+ von denen Sie in zwanzig Jahren schwärmen werden.

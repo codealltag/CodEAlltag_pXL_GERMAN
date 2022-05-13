@@ -1,0 +1,23 @@
+[...]
+
+Was wären hier die Glieder der Aufzählung? 
+
+Wir sind ...
+ * ein Restaurant mit Sitz in Edling
+ * am nördlichen Rand des Ruhrgebiets
+ * kochen seit vielen Jahren tolle Gerichte
+
+"Wir sind am nördlichen Rand" klingt schon ein bisschen komisch und "Wir
+sind kochen seit vielen Jahren" noch mehr. Also 
+
+Wir ...
+ * sind ein Restaurant mit Sitz in Edling
+ * am nördlichen Rand des Ruhrgebiets
+ * kochen seit vielen Jahren tolle Gerichte
+
+jetzt passt der das erste und letzte Glied, aber dem mittleren fehlt das
+Verb. Passt also auch nicht.
+
+Als Aufzählung kann ich das nicht auffassen.
+
+	hp

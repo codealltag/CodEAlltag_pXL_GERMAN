@@ -1,0 +1,40 @@
+Ja, der Satz mit und ohne Objekt ist unterschiedlich. Aber um welche
+davon geht es eigentlich? Vielleicht keinen davon? Die Diskussion
+verzettelt sich, weil wir die Übersicht nicht haben, und mein
+Sprachgefühl verläßt mich darob immer wieder.
+
+Der Ausgangssatz war:
+
+  (1) Da wäre ich nie draufgekommen.
+
+Der Duden führt nun zwar "draufkommen", aber mit einer durchaus anderen
+Konstruktion als Beispiel (Universalwörterbuch):
+
+  (2) die Polizei ist ihm sehr schnell draufgekommen.
+
+Da ist sogar die Bedeutung etwas anders: während in (1) die Bedeutung
+"eine Idee haben", "einfallen" im Vordergrund steht, ist es in (2)
+"herausfinden", "dahinterkommen", "durchschauen".
+
+Dein Zitat aus dem Rechtschreibduden erwähnt beide Bedeutungen, aber die
+zweite zuerst.
+
+Von der ganz wörtlichen Bedeutung, in der man (1) etwa benutzen könnte,
+während man über einen geschickten Baumkletterer staunt, sehen wir mal
+ab.
+
+Letztlich würde ich so wie Kistmacher im Satz (1) das "gekommen" betonen,
+also auseinander schreiben, und "da ... drauf" als Klammerung eines
+"darauf" interpretieren; "da ... auf" geht ja interessanterweise nicht,
+was uns auch im ungetrennten Fall bereits das r beschert.
+
+Welche genaue Bedeutung sehen denn die "draufkommen"-Sager im Satz (1)?
+Eine andere als nur in "darauf kommen"?
+
+Vielleicht kann auch jemand noch ein paar Beispielsätze angeben, in
+denen "draufkommen" ihm natürlich erscheint, am besten welche mit "da"
+und welche ohne.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Siebelt Neben, comp.lang.python

@@ -1,0 +1,40 @@
+Hermann Stephenson beliebte zu schreiben :
+
+Damals [TM], wie die Zeitung noch (zeilenweise) mit echtem Bleisatz
+gesetzt worden ist und wie man Titel und dergleichen überhaupt noch
+buchstabenweise mit der Hand gesetzt hat, damals also, in den späten
+02. 02. 22, da hab ich noch gelernt:
+
+"Die Ellipse ist als und wie ein Satzzeichen zu setzen: Als
+*Fortführung* eines Wortes oder Satzes ohne Spatium davor, mit Spatium
+danach; wenn sie aber für Ausgelassenes steht, wird sie wie ein
+Gedankenstrich spationiert."
+
+Wobei allerdings folgende Einschränkung gemacht wurde:
+Die Punkte dürfen aber nicht 'abreissen', d.h., der Abstand zwischen dem
+letzten Buchstaben und dem ersten der Punkte darf nicht kleiner sein als
+jener zwischen den Punkten selbst.
+
+Mit anderen Worten: Es hängt stark von der jeweils verwendeten Schrift
+ab, ob man eventuell noch vor der Ellipse von Hand ausgleichen muss oder
+nicht (und bei Festbreitenschriften wie der Courier -- so gern ich sie
+für manche Sachen habe -- kann man die drei Futzelpunkterl sowieso nicht
+wirklich verwenden).
+Ein "ganzes Leerzeichen" jedenfalls (sprich: ein Viertelgeviert) wird
+als Ausgleich vor der Ellipse in der Regel viel zu viel sein; selbst
+das, was im Setzerneudeutsch "thin space" oder "l-space" heißt, ist
+meist schon an der obersten Grenze.
+
+Aber ich gebe jenen Vorschreibern recht, die darauf hingewiesen haben,
+dass das heutzutage ohnehin meist nimmer so genau genommen wird -- in
+einer Zeit, in der der kurze Bindestrich als Strecken- und als
+Gedankenstrich herhalten muss und in der es (bei manchen Verlagen)
+niemandem auffällt, wenn der Apostroph von M$Würg selbst innerhalb einer
+Wortgruppe wie "l'aquila" vollautomagisch in ein einfaches schließendes
+Anführungszeichen umgedengelt wird, und das dann auch genau so mit dem
+umgedrechten Sechser [*schauder*] im Druck erscheint -- in so einer Zeit
+wundert einen eh schon garnix mehr.
+
+Arne
+-- 
+Nach dera Zei'n kimmt nix mehr

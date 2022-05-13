@@ -1,0 +1,18 @@
+Russisch verwendet für
+- die 1. und 2. Person ein adjektivisches Possessivpronomen
+  (mit der üblichen Deklination nach Genus/Numerus/Kasus des
+  Bezugsworts),
+- die 3. Person einfach den Genitiv der Personalpronomen,
+- reflexiv für alle Personen ein adjektives Possessivpronomen.
+
+Ich sehe gerade, dass das im Polnischen genauso ist, wird dann wohl
+auch für weitere slawische Sprachen gelten.
+
+(Das slawische reflexive Possessivpronomen sv- entspricht offenkundig
+den lateinischen und germanischen (m, n) Possessivpronomen der
+dritten Person. Das sieht verdächtig danach aus, dass Slawisch hier
+ursprünglicher ist und dass Latein und Germanisch die reflexive
+Form in den Dienst der dritten Person gepresst haben.)
+
+-- 
+Dennis "tini" Isenthal                          yzmcl@mukd.nacf.pi

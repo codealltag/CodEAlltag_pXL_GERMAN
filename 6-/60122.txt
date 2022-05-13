@@ -1,0 +1,14 @@
+how to electrocute yourself: Ja ...
+Ist mir gestern beinahe passiert; wir hatten 5-10 cm Wasser
+im Keller durch Rückstau bei Starkregen, und ich bin ohne viel
+nachzudenken rein (mit nackten Füßen) und habe erst mal den
+Server runtergefahren, dann erst den Stecker aus der Steckdose
+gezogen. Man will ja keinen Datenverlust riskieren.
+Das Problem war die Netzleitung - die Zuleitung der Steckerleiste
+ist zu kurz, daher Verlängerung. *Deren* Kupplung war im Wasser
+gewesen; glücklicherweise war der Wasserspiegel mittlerweile
+gesunken.
+
+Ich muss wohl mal meinen FI-Schalter checken lassen ...
+
+/Enno

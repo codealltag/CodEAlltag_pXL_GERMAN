@@ -1,0 +1,17 @@
+* Fritz Corver <mvdvlnyw.ielfaxu@e-cycega.ui>:
+
+Das Problem ist halt, dass man deine Frage gleich zweimal
+unterschiedlich interpretieren kann:
+
+  1a Dass es sich um einen Fehler handelt, ist klar. Aber ist es ein
+     Rechtschreibfehler oder ein Grammatikfehler?
+
+  1b Ist es überhaupt ein Fehler?
+
+  2a ... wenn bei einem Begriff wie Schneeball-System der Bindestrich
+     fehlt (also "Schneeballsystem")
+
+  2a ... wenn bei einem Begriff wie Schneeball-System der Bindestrich
+     fehlt (also "Schneeball System").
+
+ - Werner

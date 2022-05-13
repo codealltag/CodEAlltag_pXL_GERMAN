@@ -1,0 +1,43 @@
+Teresa Illig wrote:
+
+[gutgemeinte Quotinganleitung]
+
+
+Leider nein. Die von Anunal benutzte und bekanntermaßen - H - nicht 
+ganz fehlerfreie Software 
+
+
+setzt AFAIK genau dann keine Zitateinr�ckung, wenn der zitierte Beitrag 
+in der Transportkodierung "quoted-printable" abgeschickt wurde /und/ 
+keinen Datei-Anhang trug. 
+
+ähnlich sinnvoll wäre es, das von der Mondphase abhängig zu machen, 
+aber das sind nun mal die ewigen Geheimnisse von Microschrott.
+
+Da Deine Beiträge in qp-Kodierung verschickt werden, sind sie von 
+diesem Fehler betroffen. 
+
+Falls Du dennoch keine Dateien anhängen möchtest: Bis vor einigen 
+Jahren genügte es, in die erste Zeile "begin  irgendwas" zu schreiben, 
+dann hielt Orlando das Folgende für einen Dateianhang (und zeigte es nicht 
+als Text an, was seine Nutzer nicht wenig verwirrte). Aktuelle 
+Versionen tun das nicht mehr, aber vielleicht lassen sie sich damit 
+immer noch zum Dekodieren von qp überreden. In dcs.o-e weiß man sicher 
+Genaueres dazu. 
+
+Oder - einfachere Lösung - Michelle steigt auf einen richtigen Newsreader 
+um, zum Beispiel Hausrausch Thunderbird. OjE hat zugegebenermaßen einige 
+Vorteile, aber auch gewaltige Käfer.
+
+Oder - noch einfachere Lösung - Du steigst auf 8bit-Kodierung um. 
+Inzwischen sollte das wirklich kein Problem mehr darstellen und erfreut 
+nebenbei auch Estrellitas. 
+
+
+xf'up2 pu.qtjl.ckbrnksg.newsreader (d.h. da geht's weiter)
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://xpnxwnsf.lqc>

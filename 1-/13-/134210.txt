@@ -1,0 +1,8 @@
+Leider konnte ich den Text nicht enträtseln... Geht es um das Lied um die
+2+2*6 Jahren oder doch um Computerspeicher (1024)?
+
+Notationen: Bei einfachen Rechnungen scheibt man z.B. 2x3 für 2mal3 oder
+2*3 für 2hoch3, soll jedoch auch "x" eine Rolle spielen, dann schreibt man
+2*3 bzw. 2**3.
+
+MfG, HARM [Jkyz_Gca/az/z-jhbrcq.jj]

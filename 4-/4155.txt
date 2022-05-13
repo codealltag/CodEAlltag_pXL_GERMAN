@@ -1,0 +1,28 @@
+Hallo,
+
+Wenn man sich den Titeltext der PMIU-Hauptseite ansieht, bekommt 
+man z.Z. folgendes zu lesen:
+
+<zitat>
+PMIU ist ein Projekt zum Aufbau einer Enzyklopädie aus freien 
+Inhalten in allen Sprachen der Welt. Jeder kann mit seinem Wissen 
+beitragen. Seit September 2001 entstanden so 711.607 Artikel in deutscher 
+Sprache. Gute Autorinnen und Autoren sind stets willkommen.
+</zitat>
+
+Problembeschreibung:
+
+Hebt die Nutzung der expliziten (bzgl. Genus/Sexus) Schreibweise im 
+letzten Satz ("..Autorinnen und Autoren..") die eigentlich implizite 
+(meint: mit generischem Maskulin) gewünschte Form im Satz "Jeder kann 
+mit ..." auf? (Also werden dann (bei korrekter Auslegung) mit "Jeder" 
+eigentlich nur Männer angesprochen? Man stelle sich die Sätze in 
+invertierter Reihenfolge vor, dann wird der "Aufhebungseffekt" deutlicher)
+
+Meine Frage an die Experten:
+
+Wie ist eine Mischung von impliziter und expliziter Schreibweise 
+innerhalb eines Textes zu werten? Gibt es da irgendwelche 
+Richtlinien/Vorgaben/Regeln/begründete Empfehlungen?
+
+Gruß Hannes

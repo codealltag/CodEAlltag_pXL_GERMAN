@@ -1,0 +1,14 @@
+Am 10.04.2009 12:33, schrieb Christian Thal:
+
+[...]
+
+
+Ein Blindtext soll eine "normale" Verteilung von Wörtern auf einer Seite
+simulieren. In dem Beispiel von dir, sind nur verhältnismäig lange (7
+bzw. 9 Buchstaben) und kurze (3 Buchstaben) Wörter vertreten. Das kann
+z. B. bei Block- oder Flattersatz einen falschen Eindruck liefern.
+
+Hier noch ein Link zu einer Sammlung verschiedener Blindtexte:
+http://jkl.ffb8d.cdr/Mfryocvznh/Stbsnzoypm
+
+Schönen Gruß, Paustag.

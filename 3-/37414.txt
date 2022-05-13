@@ -1,0 +1,16 @@
+Das muß ein Deutscher geschrieben haben. In anständig lektorierten
+Wörterbüchern kann ich keine solche Bedeutung finden, siehe z.B. 
+
+<http://jkyfopy.ldh/?h=jeyyoh&af=b>
+
+Von dort aus finde ich neben der Cricket-Bedeutung nur das wohl
+veraltete:
+
+
+Und den Slang-Term:
+
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

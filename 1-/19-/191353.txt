@@ -1,0 +1,38 @@
+Ich habe mal ein wenig überlegt zu dieser Konstruktion.
+
+Es gibt eindeutige Fälle, wo auch du vermutlich das 'nicht' nur auf
+das letzte Element beziehen würdest:
+  François trinkt, Fernando singt, Frédéric tanzt nicht gern.
+Die einzelnen Elemente bilden vollständige Sätze. Es gibt keinen Grund
+zur Annahme, dass François nicht gern trinke.
+
+Dann gibt es Fälle, wo das 'nicht' sich auf alle Elemente beziehen
+muss, damit die Aufzählung Sinn ergibt:
+  Töten darf, stehlen soll, lügen muss man nicht.
+'Töten darf' und 'stehlen soll' sind unvollständig, erst in
+Kombination mit 'man nicht' bilden sie sinnvolle Sätze.
+
+Deine beiden Beispiele sind Zweifelsfälle, bei denen es auf das
+jeweilige Sprachgefühl ankommt.
+
+  Rum muss, Zucker kann, Wasser braucht nicht zu sein.
+Im Kontext mit Grog kann (aber muss nicht) man 'Rum muss' und 'Zucker
+kann' als vollständige umgangssprachliche Sätze ansehen.
+
+  Töten darf, stehlen soll, lügen muss nicht sein.
+Wie oben sind 'Töten darf' und 'stehlen soll' unvollständig, ergeben
+jedoch sowohl mit 'sein' als auch mit 'nicht sein' Sinn. Dass das
+'nicht' zu allen Elementen gehört, erschließt sich aus dem
+Zusammenhang.
+
+Ersetzen wir mal die eindeutig bösen Tätigkeiten durch neutrale
+Farben. Wie soll dein neuer Pullover aussehen?
+  Braun darf, blau soll, gelb muss nicht sein.
+Da tendiere ich dazu, die Elemente wie beim Grog als umgangssprachlich
+vollständige Sätze anzusehen. (Ähnlich flapsig würde man nicht üb=
+er
+moralische Normen reden.)
+
+
+Conclusio: Ich würde das nachgestellte 'nicht' nur dann auf jedes
+Element der Auszählung beziehen, wenn sonst Unsinn entsteht.

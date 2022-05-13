@@ -1,0 +1,14 @@
+* Werner A. Prühß:
+
+
+"Häkeln" auch: 
+Als "österreichisch umgangssprachlich, sonst landschaftlich".
+
+
+"Aufziehen", "necken".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Grasmehr will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Wolfram Anlauf

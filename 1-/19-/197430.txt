@@ -1,0 +1,5 @@
+Nicht anachronistischer als NUAs, die fast 20 Jahre nach dessen
+Erfindung immer noch kein utf-8 können. 
+
+
+vG, scnr

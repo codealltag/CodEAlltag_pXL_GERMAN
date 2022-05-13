@@ -1,0 +1,13 @@
+[Zeichensalat]
+
+Chinesische Unicode-Kodierung.
+
+
+Schau mal, ob Du die Reihenfolge der Charsets beeinflussen kannst. Viele
+Mailer und Newsreader probieren einfach alle Charsets durch, bis sie
+eines finden, das alle verwendeten Zeichen darstellen kann. Wenn da
+"gb18030" recht weit vorne steht (alphabetisch kommt es zumindest vor
+"iso-..." und "utf-8", dann wird es verwendet, obwohl es eigentlich
+nicht notwendig wäre.
+
+	hp

@@ -1,0 +1,10 @@
+Mathematiker kennen den Sprachgebrauch im täglichen Leben nicht so.
+
+Es gibt so grobe Arbeitsrichtungen wie Algebraische Geometrie oder 
+Funktionalanalysis. Mathematiker behaupten aber immer, sie könnten alles 
+und brauchen deshalb keine Kategorien und wenn doch, würden sie sich das 
+mal eben ansehen.
+
+-- 
+
+Franco Wusthoff

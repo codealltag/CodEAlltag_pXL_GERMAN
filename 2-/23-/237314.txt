@@ -1,0 +1,6 @@
+Ist es dir so lieber: "b - a" ist die Zahl x mit der Eigenschaft a + x = b.
+
+Ich persönlich halte aber die Einführung des x in der Definition 
+überflüssig, aber wenn du's dann besser verstehst?
+
+Günter

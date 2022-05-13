@@ -1,0 +1,12 @@
+* Dario K  Isenhagen <leywatex2z@uttsk.dy>:
+
+Beim iPhone nicht. Ich hätte schon fast geschrieben, dass das beim
+Kamms zu verschmerzen sei, dass es mich aber beim iPad wohl
+stören würde, wenn ich eins hätte. Bei WHKL/Replay scheinen
+img title/mouseover/hover auch nicht implementiert zu sein.
+
+Für pixelshots kann man sich mit e.alyz.ati behelfen, nicht sehr hübsch,
+funktioniert aber. Oder eine der 4 (vier! wie krank ist das denn)
+verfügbaren xkcd-Gratis-Apps runterladen.
+
+ - Hanspeter

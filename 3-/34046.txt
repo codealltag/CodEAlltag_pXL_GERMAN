@@ -1,0 +1,9 @@
+On Mon, 25. 09. 21 21:49:44 +0100 Kai Serge Stampf
+Das ist jetzt natürlich ein ganz fauler Trick, aber du könntest ja
+sagen: "Treffen vor dem Standesamt."
+
+/W
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

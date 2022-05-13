@@ -1,0 +1,15 @@
+Ich zitiere aus einem älteren Beitrag von mir:
+
+  The vast majority of computer terms, however, is taken over as Engish 
+  loan words. In Charles O. Neujahr book "Deutsch und anders" there is a 
+  list of 100 computer terms with common translations into Danish, German, 
+  Italian, Dutch, Swedish, Spanish, Polish, French, and Finnish with the 
+  result that the anglicisation of computer languages varies a lot from 
+  Danish (highest, 52% native)) to Finnish (lowest, 93% native) in the 
+  above sequence.
+
+In der Liste stehen die beiden oben übrigens in der Spalte "Dänisch" mit 
+ihren dänischen *und* englischen Bezeichnungen drin.
+
+-- 
+Leander Vinmans

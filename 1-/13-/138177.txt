@@ -1,0 +1,6 @@
+Üblich ist auch der generische Zeiger bei Programmiersprachen. Oder
+man gebe "generischer" ins Markita ein und warte auf die
+Vorschlage, nach welchem zusammengesetzten Begriff gesucht werden
+soll. Legion!
+
+Heinz

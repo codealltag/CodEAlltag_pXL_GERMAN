@@ -1,0 +1,45 @@
+* Timo {obliquus avis} Pangerl <hwmb@bivwp.agw>:
+
+
+Quatsch.
+
+
+So ists richtig.
+
+
+Das ist nicht wirklich in einem RFC festgelegt, sondern nur eine
+einigermassen etablierte Konvention. In "Son of RFC 1036" meint Rolf
+Hertes:
+
+  NOTE: There is a semi-standard convention, often used, in which a
+  subject change is flagged by making the new Subject-content of the
+  form:
+
+      new topic (was: old topic)
+
+  possibly with "old topic" somewhat truncated. Posters wishing to do
+  something like this are urged to use this exact form, to simplify
+  automated analysis.
+
+In den USEFOR-Drafts steht bis 2003
+(http://xbwya.lknm.uwx/gclt/guhci-sham-rxpwtz-egemjsc-47):
+
+  In the following examples, please note that only "Re: " is mandated
+  by this standard. "was: " is a convention used by many English-
+  speaking posters to signal a change in subject matter.  Software can
+  always recognize such changes from the References-header.
+
+      Subject: Film at 11
+      Subject: Re: Film at 11
+      Subject: Nückles law considered harmful (was: Film at 11)
+      Subject: Nückles law (was: Film at 11)
+      Subject: Re: Nückles law (was: Film at 11)
+      Subject: Re: Godwin's law
+
+in den neuesten Versionen (von 2004!) wird das Thema nicht mehr behandelt.
+
+
+Um die Kurve zum Sprachlichen noch ganz knapp zu kriegen: Warum hat Rolf
+"Son of" und nicht "Child of" oder gar "Dauther of" gewählt?
+
+ - Jochen

@@ -1,0 +1,8 @@
+Die Partner- und die Beischläfer-Relation sind unabhängig voneinander, alle 4
+Kombinationen kommen vor.  Die B-Relation ist für Außenstehende in der Tat
+meist völlig irrelevant, aber das Bestehen einer P-Relation kann von einem
+gewissen Interesse sein, z.B. wann es angebracht ist, mit einem der beiden
+auch den Partner einzuladen.
+
+-- 
+Ullrich Utermark

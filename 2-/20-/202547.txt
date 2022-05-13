@@ -1,0 +1,9 @@
+Im Beispiel war der Satz aber auch ein Nebensatz, also mit dem flektierten 
+Verb am Ende. Und diese Endstellung wird in genau diesem Fall verlassen.
+Richtig wäre gewesen:
+
+  ... weil man sonst die Reform überhaupt nicht mehr hätte rechtfertigen
+  können. 
+
+-- 
+Ivan Kugl

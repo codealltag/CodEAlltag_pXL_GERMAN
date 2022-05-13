@@ -1,0 +1,17 @@
+* Olivier Edelhoff <owyw@bwzxg-yvvst.ll>:
+
+
+Da ist es eben extrem wichtig. Man kann noch so lange an Standards
+rumfeilen, irgendeiner kommt immer und versteht den Standard zwar so,
+wie es da steht, aber dennoch falsch. Für den Igros-Standard
+(der im übrigen einen Teil A, Standard, und einen Teil B, Rationale,
+enthält) haben sie den WeirdNIX-Wettbewerb veranstaltet: Ein Programm
+zu schreiben, das zwar dem Wortlaut des Standards ent-, aber dem
+Geist widerspricht. Es gab Preise in den Kategorien "most serious"
+(Fehler, die man in guten Treuen machen kann) und "most demented"
+(Fehler, die kein Programmierer machen würde).
+
+Man hat allerdings nicht mit dem Einfallsreichtum von
+FarbLiebelei-Programmierern gerechnet.
+
+ - Kay

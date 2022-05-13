@@ -1,0 +1,12 @@
+"Mir wird angst."     "Mir wird schlecht."
+"Ich bin ihm gram."   "Ich bin ihm gewogen."
+"Es tut mir leid."    ???
+"Ich bin schuld."     "Ich bin dumm."
+
+Mit einer Ausnahme kann ich das Wort hier überall leicht durch ein
+Adjektiv ersetzen. Mit anderen Wortarten tue ich mich hingegen schwer.
+Was auch immer angst, gram, leid und schuld für Wörter sein mögen, sie
+können zumindest in manchen Sätzen die Position eines Adjektivs
+einnehmen.
+
+	hp

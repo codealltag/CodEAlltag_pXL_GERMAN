@@ -1,0 +1,17 @@
+Natürlich. Allerdings kamen noch zwei Gymnasialjahre Deutsch dazu, ehe
+man uns in der 3. Klasse Latein vorsetzte.
+
+
+Klar braucht's ein Maß. AFAIK haben zumindest Informatiker versucht,
+die Komplexität von Sprachen an der Menge der Interdependenzen ihrer
+Elemente festzumachen. Das scheint plausibel. Etwas ist, auch
+systemtheoretisch gesehen, umso komplexer, je mehr Relationen es
+zwischen den Systemelementen gibt. Da Latein mehr solche Relationen
+hat als Deutsch, davon bin ich gef�hlsm��ig überzeugt, belegen kann
+ich es freilich nicht.
+
+Nochmal: Um Logik geht's hier nicht wirklich. Logisches Vorgehen
+bedeutet, von unzweifelhaftem Bekannten auf Unbekanntes zu schließen.
+Wenn ich weiß, wie der Dativ der a-Deklination lautet, kann ich
+logisch weder erschließen, wie der Akkusativ der a-Deklination noch
+der Dativ der i-Deklination lautet.

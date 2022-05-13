@@ -1,0 +1,13 @@
+Für die Bildung von Mengen von Objekten ohne Farbe und Ton haben wir die 
+Mengenlehre, für deren Beziehungen untereinander Graphentheorie und 
+Ullmann-Algebren, für komplexe unvollständige Datenstrukturen 
+Datenbanksprachen.
+
+Es gibt natürlich immer noch Philosophen mit Kennverhältnis zu 
+Prozentrechnung und Dreisatz, die die in der deutschen Sprache nicht 
+vorhandenen Bezeichnungen multipler Beziehungsgeflechte in den 
+Kategorien von Numerus und Sexus komprimiert gekonnt auszudrucken versuchen.
+
+-- 
+
+Renato Flesch

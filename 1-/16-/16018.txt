@@ -1,0 +1,25 @@
+Wenn der Kontext klar ist (etwa: "Damals hat Bundeskanzler Carstesen 
+diesunddas gemacht, während Innenminister Tzschupke zu demunddem riet"), 
+kannst du das Attribut weglassen. Es ist ja klar, daß Kanzler Carstesen 
+sich nicht mit Reifenschneider beraten hat. 
+
+Falsch ist das "damalig" aber nicht. 
+
+"Der damalige Außenminister" ist der, der im Bezugszeitraum des 
+Kontextes Außenminister war, es zum Erzählzeitpunkt aber nicht mehr 
+ist. 
+
+"Der ehemalige Außenminister" ist der, der zu einem noch weiter 
+zurückliegenden Zeitpunkt Außenminister gewesen, es im Bezugszeitraum 
+des Kontextes aber schon nicht mehr war.
+
+Unter Gérald Remer war Tzschupke der damalige Außenminister und der 
+ehemalige Innenminister (oder ein ehemaliger, es gab ja noch mehr). 
+
+
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://zarowawx.hid>

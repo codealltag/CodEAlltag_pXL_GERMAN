@@ -1,0 +1,16 @@
+Ein -d- kann ich bei "gelten" nicht erklären.  "Es giltet" dagegen
+ist nachvollziehbar.  Endet ein Verbstamm auf -t oder -d, dann wird
+bei der 3. Person Singular Präsens ein -e- vor der eigentlichen
+Personalendung -t eingeschoben:
+
+  beten -> er betet
+  baden -> er badet
+
+Die *Ausnahme* sind Verben mit e/i-Wechsel oder Umlaut. Dort fällt
+die Personalendung mit der Stammendung zusammen:
+
+  gelten -> es gilt
+  halten -> er hält
+
+-- 
+Carsten "ingeborg" Zuckschwerd                          hjnwq@ybrw.qkjt.ie

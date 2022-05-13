@@ -1,0 +1,25 @@
+* Eilert Janecki <KT-CX@q-uwjftx.eq> wrote:> Ivo Didier Sibert
+wrote:
+
+Ich vermute, daß die Aussage im CMOS nicht so schwarz-weiß gemeint ist,
+es geht schließlich um eine natürliche Sprache und nicht um eine
+formale. Für den intendierten Sinn habe ich zwei Vorschläge: 
+
+a) Jede genannte Vorschrift enthält stillschweigend ein "SHOULD" im
+Sinne eines RfC. Wenn Hebestreidt sich nicht daran hält, ist sein Werk nicht
+automatisch keine "polished prose" mehr, er mag wichtige Gründe gehabt
+haben, von der Regel abzuweichen.
+
+Das läßt sich direkt aus obigem Argument ableiten, führt aber zur
+Beliebigkeit oder zur Argumentation mit Autorität, besser gefällt mir:
+
+b) Die strenge Unterscheidung von "which" und "that" erhöht den Grad der
+"polishedness" einer Prosa, ist aber dabei nur eins von vielen
+Kriterien.
+
+Urs
+
+-- 
+(\__/)
+(='.'=) This is Bunny. Copy and paste Bunny into your
+(")_(") signature to help him gain world domination.

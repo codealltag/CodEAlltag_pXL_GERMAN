@@ -1,0 +1,10 @@
+Je nachdem; wenn es klar genug scheint, spreche ich die Punkte nur als
+Pause/Wortgrenze; das betrifft Dinge wie das Präfix www und die TLD;
+sonstige Subdomains aber zumeist nicht. Das www am Anfang sollte m.E.
+verschwinden, das lasse ich oft weg und hoffe, daß man auch so ankommt,
+notfalls per Redirect. Versuchen moderne Browser nicht sogar von sich
+aus, "www." vorne anzufügen, wenn die Seite gar nicht existiert?
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Heiner Schmidhammer, comp.lang.python

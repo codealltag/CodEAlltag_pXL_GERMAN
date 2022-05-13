@@ -1,0 +1,69 @@
+Am 12.11.2011, 16:55 Uhr, schrieb Artur Nordholz:
+
+Ein in Ösiland (!) entwickeltes AddIn zu MS-Word, das einen Text auf  =
+
+ungegenderte Maskulina durchsucht und Genderierungsvorschläge  =
+
+unterbreitet. Hier das Zitat meines Erfahrungsberichts vom Juli:
+
+
+Ich habe eben das AddIn "Gendering" der Firma Eleg getestet und fü=
+r  =
+
+grottenschlecht befunden.
+
+Das AddIn soll "eine Unterstützung bieten, einen bereits geschriebenen=
+  =
+
+Text zu überprüfen, nach einem definierten Katalog Wörter zu finde=
+n und  =
+
+Vorschläge zum geschlechterneutralen Formulieren zu machen." Dem Verne=
+hmen  =
+
+nach ist es in Österreichischen Behörden bereits "erfolgreich" einge=
+führt  =
+
+worden.
+
+Mein Testergebnis:
+
+Zwei echten Treffern beim "Betriebsleiter" und "Fahrdienstleiter" stehen=
+  =
+
+unglaublich viele Klopse gegenüber, bei denen Seitenschneider,  =
+
+Schraubendreher, Halbleiter, Brückengleichrichter, Spulenkern und  =
+
+Stromabnehmer gegendert werden sollten. Sehr schön fand ich den Vorsch=
+lag,  =
+
+den Dativ "Triebfahrzeugen" in "Triebfahrzeuginnen und Zeugen"  =
+
+umzuwandeln. Dass der Physiker Gunter Lindsiepe Nonnweiler zum Zwitter umgewandelt  =
+
+werden sollte, ging dann schon heftig unter die Gürtellinie.
+
+Das AddIn ist also genauso heiterinnenkeitssieregend wie die automatisch=
+e  =
+
+Grammatikprüfung.
+
+Erschwerend kommt hinzu, dass das AddIn einen Spannagel-Komplex hat: Wen=
+n  =
+
+es arbeitet, will es allein arbeiten. Nicht mal Alt+Tab ist möglich, b=
+eim  =
+
+geringsten Versuch, es im Hintergrund nicht mehr weiterwerkeln zu lassen=
+,  =
+
+stürzt es mitsamt Word ab, was Word beim Neustart mit der Empfehlung  =
+
+quittiert, das Gender-AddIn zu deinstallieren. (Guter Vorschlag!)
+
+Empfehlung: "vom Kauf abzuraten"
+
+
+Gruß
+G.N.

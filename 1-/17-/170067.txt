@@ -1,0 +1,9 @@
+* Ihno Schwörke:
+
+
+Außerdem sind da viele Pseudokommas dabei, die eigentlich Punkte sind;
+sogar die Großschreibung nach dem Satzende ist erhalten geblieben.
+Voehringer hat offenbar einfach ein s/./,/g über seinen Text laufen lassen.
+
+-- 
+Was hat Voehringer wohl verwendet - vi oder Emacs?

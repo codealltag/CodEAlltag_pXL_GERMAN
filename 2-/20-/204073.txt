@@ -1,0 +1,9 @@
+Lexikondefinitionen hatte ich ja ausgeschlossen. Ich wollte ein Beispiel, 
+wo das Wort nicht definiert, sondern *verwendet* wird, d.h. wo die 
+Definition implizit beim Leser vorausgesetzt wird. Aber das geht wohl 
+nicht, weil nicht jeder Leser ein Lexikon zur Hand nimmt -- also kann man 
+es nicht in dem Sinne verwenden, wie er nur im Lexikon, nicht aber im 
+Wortschatz in den Hirnen der Leser steht.
+
+-- 
+Pietro Unterste

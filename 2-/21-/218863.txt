@@ -1,0 +1,13 @@
+Am 29.07.2013 18:54, schrieb Philipp Hüppauff:
+
+- Du hast wohl einen Laptop mit ziemlich
+
+Sofern Normalbedingungen herrschen, sollte die Schriftgröße mit Ctrl+ 
+oder neuerdings mit zwei TatschFingern auf dem Pad spreizend bewegt 
+vergrößert werden können. Die jetzt üblichen 15" Bildschirme mit 
+1300x700 Auflösung sind ja praktisch nicht mehr lesbar. Allerdings kann 
+man bei den Bildschirmeinstellungen die Standardschriftgröße skalieren.
+
+-- 
+
+Eberhard Gothknecht

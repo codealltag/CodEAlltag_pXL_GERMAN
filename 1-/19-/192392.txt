@@ -1,0 +1,20 @@
+Aufgabe bis nächsten Montag:
+
+übersetzten sie in logische Notation
+
+Er geht davon aus, es sei rechtmäßig geschehen,
+Sie geht nicht davon aus, es sei rechtmäßig geschehen
+Wir gehen davon aus, es sei nicht rechtmäßig geschehen
+Sie gehen nicht davon aus, es sei nicht rechtmäßig geschehen
+
+Der Anwalt geht davon aus, es sei zu Unrecht nicht geschehen,
+Die Öffentlichkeit geht nicht davon aus, es sei zu Unrecht nicht geschehen
+Unsere Mandaten gehen davon aus, es sei nicht zu Unrecht nicht geschehen
+Die Richter gehen nicht davon aus, es sei nicht zu Unrecht nicht geschehen
+
+Nicht zu Unrecht können wir nicht davon ausgehen, die Sache könne nicht 
+rechtmäßig ungeschehen gemacht werden.
+
+-- 
+
+Manfred Wolther

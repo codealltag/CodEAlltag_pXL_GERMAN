@@ -1,0 +1,15 @@
+The message <sk.kk1sw9zd9qapes@7176207071-3969.suakqt.flnguzoi.duj>
+from "Steffen Gaissmayer" <lnpvtdumahl@hlteulok.scv> contains these words:
+
+
+                                    ^^^^^
+
+
+Es ist anzunehmen, daß diese Methode bei dir nicht klappt weil du UTF-8
+eingestellt hast. 
+Vesuchs mal mit ISO.
+
+-- 
+
+Gruß
+Achim

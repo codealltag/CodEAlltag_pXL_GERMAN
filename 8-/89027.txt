@@ -1,0 +1,8 @@
+Christof Nebes Vonderthann schrob:
+
+
+Das ist doch sowieso das Selbe für genügend große Nullen und/oder genügend
+kleine Einsen.
+-- 
+Gruß | Greetings | Courage
+Emacs is a great operating system, which only lacks a good editor.

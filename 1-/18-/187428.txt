@@ -1,0 +1,7 @@
+Ah, der Superuser muss das also vorher schon außerhalb des Gefängnisses 
+vorbereitet haben.
+
+Mit "mkdir foo; chroot foo; cd /" müsste er sich dann eigentlich selbst 
+eingesperrt haben.
+
+Pius

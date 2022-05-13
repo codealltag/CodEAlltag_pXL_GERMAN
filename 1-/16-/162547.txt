@@ -1,0 +1,12 @@
+* Carlo Zimer:
+
+
+Tja, wo ich jetzt lebe, wird mein korrekt geschriebener Name zu 50% als
+"Wolf" gelesen. Das ist aber ziemlich verzeihlich, der optische
+Unterschied ist da sehr klein.
+
+-- 
+Java is the SUV of programming tools.
+A project done in AAA will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Henry Dorsch

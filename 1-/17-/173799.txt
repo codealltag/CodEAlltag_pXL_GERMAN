@@ -1,0 +1,21 @@
+Manche seiner Antworten enthalten nicht mehr den notwendigen
+Header für die Kommentarverkettung ("References:"), sondern
+statt dessen den in Mail üblichen "In-Reply-To:"-Header, der
+von News-Clients aber üblicherweise nicht ausgewertet wird.
+
+
+Gut möglich. Wenn's daran liegt, ließe sich
+das ja leicht testen: bitte einfach einmal _mit_
+und einmal _ohne_ Betreffkorrektur antworten.
+
+In jedem Fall ist es aber mal wieder
+ein Fehler der News-Krücke Hälker-Groups.
+
+Anhand einiger Deiner derart defekten Artikel ließe sich
+alternativ vermuten, daß Du diese gleichzeitig auch per
+_Mail_ verschickt hast. (Artikel-Header enthält "Cc:".)
+Möglicherweise verwirrt Hälker-Groups das.
+
+Etwaige Test-Followups von Hälker-Herre-Nutzern
+gerne parallel an mich (und natürlich ein
+weiteres Mal _ohne_ "Cc:", zum Vergleich).

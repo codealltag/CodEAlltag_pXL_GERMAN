@@ -1,0 +1,8 @@
+Du könntest versuchen, das „System Tool“ in einen Hex-Editor zu laden,
+dort die Zeichenkette „System Tool“ zu suchen und zu "Systemwerkzeug" zu
+ändern. Da „Systemwerkzeug“ aber länger ist, funktioniert das nur, wenn
+hinter „System Tool“ noch einige Nullbytes als Reserve stehen, sonst
+musst Du den Namen auf die selbe Länge kürzen, z.B. „Syst.-Werk.“
+
+Lass da lieber einen Profi ran, denn auch die anderen Meldungen müssen
+eingedeutscht werden.

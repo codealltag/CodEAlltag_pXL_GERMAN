@@ -1,0 +1,26 @@
+* Franz Munster:
+
+
+Stimmt. Dann Vorschlag: Reduziert wird innerhalb eines Morphems
+nur vor Schwa, außerdem vor Endungen. Erst dachte ich, auch bei
+Komposita, aber da folgt in Standardaussprache auf das ng ein
+Knacklaut, das gilt nicht ("gesangartig"). 
+
+
+... als das Schwa? Dann ist die Regel ja so richtig, wie ich sie
+geschrieben habe: "vor Schwa", nicht "vor reduziertem Vokal".
+
+Was nebenbei bestätigt, daß das -us in Fungus im Deutschen nicht
+als Endung interpretiert wird, trotz fungizid etc.
+
+
+... die mir weiterhin unvertraut ist, ich hatte jetzt fälschlich
+ein Schwa in Erinnerung.
+
+In dem Fall also auch /-Ng-/, wie erwartet.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

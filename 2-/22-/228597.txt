@@ -1,0 +1,15 @@
+Im Deutschen werden stimmlose Plosive (k, t, p) behaucht. Dies sind also 
+behauchbare Konsonanten.
+D.h. deutsches k, t, p spricht sich gewöhnlich [kʰ], [tʰ], [pʰ].
+Dies aber nicht, wenn andere Konsonanten folgen, dann entfällt die 
+Behauchung.
+
+Ein Cluster (= eine Gruppe) behauchbarer Konsonanten wäre:  -kt, -pt
+(orthographisch auch -kd, -pd, -gt, -gd, -bt, -bd)
+bzw. über Silbengrenzen hinweg: -tk-, -tp-, -ktp-, -ktk-, -ptk-, -ptp- 
+(etc.)
+In all diesen Fällen wird nur der letzte Konsonant behaucht, also [ktʰ], 
+[ptʰ], [tkʰ], [tpʰ], [ktpʰ], [ktkʰ], [ptkʰ], [ptpʰ].
+
+Wenn nicht behauchbare Konsonanten folgen, entfällt die Behauchung ganz, 
+z.B. -ps, -psch, pl-, kr-, etc.

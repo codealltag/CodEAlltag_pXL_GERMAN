@@ -1,0 +1,15 @@
+Wurde die Chiffre denn erklärt? Ich kenne das so, dass
+der 'Schlüssel' in Form eines Codewortes zuerst in ein
+Feld 5x5 eingetragen (und doppelte ausgelassen wurden)
+und dann der Rest des Alphabets nachgetragen wurde.
+
+Dann wurde dem die normale Reihenfolge in einem weiteren
+5x5-Feld gegenübergestellt, und damit hatte man die
+Zuordnung.
+Es war m.W. kein reine rotierende Verschlüsselung.
+
+M.M. hat man sowas noch im ersten Weltkrieg verwendet,
+und ein frz. Offizier hat die deutschen Codes geknackt
+(Mit der Kryptographie hatten die Krauts immer Pech).
+
+F.

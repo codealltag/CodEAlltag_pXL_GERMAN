@@ -1,0 +1,6 @@
+Darauf scheint es nicht anzukommen. Ich konnte z.B. gerade meinen
+eigenen, mit Thunderbird verfassen Beitrag nicht mehr lesen. Erst nach
+Neustart von TB. Mir scheint, dass das Problem nur kurz nach erstmaligen
+Start (d.h. nach dem Booten des PC) von TB auftritt.
+
+L.

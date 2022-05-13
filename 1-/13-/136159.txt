@@ -1,0 +1,32 @@
+Die diversen Terminals hatten üblicherweise eine serielle Schnittstelle
+und haben ASCII (oder was auch immer) Codes an den Computer geschickt.
+Ein "Z" war also immer Code 0x5A, egal, wo auf der Tastatur die Taste
+lag. Die Keyboard-Belegung konnte man also bestenfalls am Terminal
+verstellen.
+
+Eine PC-Tastatur hingegen schickt Tastennummern an den Computer. Wenn
+ich da "Z" tippe schickt die Tastatur: "Benutzer hat Taste 50[1] gedrückt,
+Benutzer hat Taste 29 gedrückt, Benutzer hat Taste 29 losgelassen,
+Benutzer hat Taste 50 losgelassen". Welche Bedeutungen die Tasten 50 und
+29 haben (in dem Fall Shift und "z"), muss dann das Betriebssystem bzw.
+das Programm entscheiden.
+
+Auf PC-Hardware bzw. PC-ähnlicher Hardware brauchte Unix natürlich auch
+vor X11 schon Keymaps, da jedes Unix-Programm erwartet hat, vom Terminal
+ASCII-Codes zu bekommen und keine Tastennummern. X stammt aus dem Jahr
+1984, Xenix ist sicher älter. Zumindest teilweise waren die aber einfach
+hardcoded. Für Silberfleischwaren habe ich ca. 23. 03. 22 den ersten Keyboard-Treiber
+mit ladbarer Tastaturbelegung geschrieben - davor konnte man nur
+zwischen Amerikanisch und Niederländisch umschalten.
+
+
+Termcaps (und später Terminfo) macht aber was anderes: Es übersetzt
+zwischen Steuerungs-Sequenzen und Funktionen, also z.B. "wenn das
+Terminal ESC O A schickt, dann geh eine Zeile nach oben" oder "um den
+Bildschirm zu löschen, schicke die Sequenz ESC [ 2 H an das Terminal".
+Mit der Tastenbelegung hat das nichts zu tun.
+
+	hp
+
+[1] X11 Keycodes. Die Hardware-Keycodes sind eventuell anders, aber ich
+    bin jetzt zu faul, die herauszusuchen. Geht ja nur ums Prinzip.

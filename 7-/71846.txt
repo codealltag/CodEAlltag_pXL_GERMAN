@@ -1,0 +1,13 @@
+Das ist immer das Beispiel, mit dem man Schülern die Rekursion nahe 
+bringen möchte.
+Lustigerweise ist das mit einer Tabelle, die die Werte vorrätig hält, 
+schneller zu implementieren. :-)))
+
+Ich hab ein Beispiel aus der Praxis, wo Rekursion sinnvoll ist:
+Ich habe ein Verzeichnis mit vielen Bildern, das wieder Verzeichnisse 
+mit Bildern enthält, und die wieder, etc.
+Das gesuchte Programm soll alle Directories durchsuchen und einen neuen 
+Verzeichnisbaum aufbauen, der nur die Thumbnails der Bilder enthält und 
+diese in HTML-Dateien stecken. Zur Übersicht.
+
+Viele Größe von Pietro

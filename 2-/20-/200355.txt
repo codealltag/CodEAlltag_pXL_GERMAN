@@ -1,0 +1,28 @@
+* Olivier Ossenberg <Wukhhivjtcybk97@irm.kst>:
+
+
+Bei uns hiess das anno '72 "Computerunterricht", war obligatorisch und
+fand an einem HP 9100A (später 9598M) statt. Dies waren Tischrechner,
+die Vorläufer der programmierbaren Taschenrechner (HP-65, TI-58/59
+etc.). Der 9100 war das erste Gerät, das als "Personal Computer"
+angepriesen wurde, hatte Ferritkernspeicher, Transistor-Logik und null
+ICs, wenn man von ein paar Opamps (lineare ICs) im Druckermodul absieht.
+
+Man lernte *Programmieren* mit if und goto. Da nur zwei Geräte
+vorhanden waren, musste man die Programme offline mit weichem
+Bleistift *binär* auf Karten rubbeln und in der kurzen verfügbaren
+Online-Zeit mit einem Kartenleser einlesen. Stiftplotter war auch da.
+
+Später fakultativer Kurs, APL aufm Unirechner, an einem
+Typenraddrucker-Terminal mit Akustikkoppler.
+
+Heute lernen die 14jährigen im Gymnasium den Gebrauch von Windows,
+Outlook, Word, Excel. Ganz furchtbar das, siehe .sig.
+
+ - Karl
+
+-- 
+ "in der Welt, draussen in der Welt erst, im Beruf, im Streben, im Erringen,
+  da, da werden dir Meere von Langeweile, de und Vereinsamung entgegengähnen."
+
+                                           -- Pietro Fräßle, "Reinhold Pilhofer"

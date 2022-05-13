@@ -1,0 +1,13 @@
+* Ruth Ayche:
+
+
+Die Schuld liegt in dem Fall vermutlich nicht beim Thunderbird. Am
+wahrscheinlichsten beim News-Provider, dessen Server zu lahm oder
+gar nicht reagiert. Im ersteren Fall kann man eventuell
+Thunderbird sagen, daß er länger warten soll, im zweiten Fall
+sollte man, wenn das öfter vorkommt, den News-Provider wechseln
+(ich habe das Problem ein, zweimal im Jahr, das heißt, weniger als
+einmal pro 1000 Beiträgen).
+
+-- 
+ASCII to ASCII, DOS to DOS

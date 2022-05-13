@@ -1,0 +1,25 @@
+Entschuldigung, nein, die Regel ist überhaupt nicht unsinnig. Die
+magnitischen Feldlinien laufen ja kreisförmig um einen geraden
+stromdurchflossenen Leiter. Wenn man nun den Leiter mit 4
+Fingern der rechten Hand umgreift, so dass der Daumen in Richtung des
+Stromflusses zeigt, so folgen die 4 Finger den Magnetfeldlinien und
+die Fingerspitzen zeigen die Richtung des B-Vektors, der in jedem
+Punkt tangential zu den Feldlinien liegt.
+
+Die Drei-Finger-Regel gilt fürs Vektorprodukt a x b = c. Wenn der
+Daumen der rechten Hand in Richtung von a zeigt und der Zeigefinger in
+Richtung von b, dann zeigt der Mittelfinger, so man ihn senkrecht zu
+Daumen und Zeigefinger stellt, in Richtung von c.
+
+Man kann natürlich die Drei-Finger-Regel auch fürs Magnetfeld
+benutzen, da das Magnetfeld proportional zu einem Kreuzprodukt aus
+Strom und Radiusvektor ist. Und man kann die "Umgreifregel" auch fürs
+Kreuzprodukt verwenden: Man stelle sich vor, das man a in die Richtung
+von b dreht (auf dem kürzesten Weg) und diese Drehung durch die 4
+gekrümmten Finger der rechten Hand darstellt. Dann zeigt der Daumen in
+Richtung von c.
+
+
+-- 
+Emil Bonsiepe         vowmq.v.eoxytt@q-oqlxhm.lq
+51°29'7"N 7°25'7"E   http://mzz.gwaugp.cp-twwaaesa.ze/~gdyxul

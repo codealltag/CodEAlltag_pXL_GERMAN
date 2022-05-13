@@ -1,0 +1,15 @@
+Ich kenne "Fortschreibung" hauptsächlich aus der Bevölkerungsstatistik,
+da bedeutet es, daß auf den alten Bestand die Änderungen (Geburten,
+Todesfälle, Zu- und Wegzüge) aufaddiert wurden, und steht im Gegensatz
+zum Ergebnis einer Zählung, wo ein kleinerer Fehler zu erwarten ist.
+
+Ich schreibe manchmal die Fehlerzahl fort (beim letzten Bericht waren 12
+offen, 8 wurden erledigt, 2 neue gemeldet, also müßten es jetzt 6 sein),
+aber wenn ich dann den aktuellen Fehlerbestand direkt prüfe, findet sich
+meist noch etwas, was bei der Fortschreibung übersehen wurde.
+
+-- 
+Doris: Uncle Leonhard ... why do they call this a word processor?
+Leonhard:  It's simple, Tim ... you've seen what food processors do
+        to food, right?
+     Cartoon by Kaspar Diekhans

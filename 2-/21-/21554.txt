@@ -1,0 +1,13 @@
+Das mag schon sein, ich aber erstelle beruflich Texte, die 
+möglichst korrekt weiterverarbeitet werden sollen, und dazu 
+gehören korrekte Anführungszeichen. 
+
+
+Ich verwende ja auch nicht Alt+147, sondern Alt+[num]0147. 
+Die Null ist *nicht* wegzulassen.
+
+
+Wie gesagt: für fast alle Fälle ist AllChars ja auch OK, aber
+eben nicht für alle -- zumindest mit unseren Tastaturen.
+
+J.

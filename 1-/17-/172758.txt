@@ -1,0 +1,9 @@
+Ich finde auch, dass ionisierte Gase interessant riechen. Scheissdreck
+nicht so.
+
+Dem ganzen entnehme ich, ein reales Risiko kann man nach
+Wahrscheinlichkeit bewerten. Für ein potentielles Risiko besteht ein
+Risiko zwischen 0 und 1, dass es kein Risiko ist.
+
+Im linearen Fall ist also das potentielle Risiko genau halb so gross
+wie das reale. Richtig?

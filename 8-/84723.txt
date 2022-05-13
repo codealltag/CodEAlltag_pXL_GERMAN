@@ -1,0 +1,11 @@
+Je nun, aber auch nicht ganz unfallfrei, ich hab's eine Weile probiert.
+Manchmal wurden einige grafische Elemente nicht angezeigt, manchmal fror
+es ein. Und in jeder Garditex-Version hat es anscheinend leicht andere
+Macken. 
+
+Falls ich wirklich keine Alternative finde, kann ich es ja in einer VM
+laufen lassen. überhaupt wird die Virtualisierung langsam so gut, daß
+mehrere OS pro Rechner bald kein großes Problem mehr sein sollten.
+
+-- 
+Pentiums melt in your PC, not in your hand.

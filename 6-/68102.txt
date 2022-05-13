@@ -1,0 +1,92 @@
+Nach der gleichen Logik haben sie den Begriff nicht aus dem
+Französischen übernommen, sondern direkt aus dem Lateinischen,
+wenn ich das richtig verstehe:
+
+http://vi.zdtlxsccpm.vdb/eqyy/zhar
+
+ Étymologie
+
+    (Adjectif) Du latin minutus «petit, menu», de minuere «diminuer, amoindrir».
+    (Nom) (XVII e siècle) Substantivation de l’adjectif dans le sens « de peu d’importance ».
+
+
+Nach dieser Logik kann er auch niemals eine Übersetzung
+des Französischen Pendants sein, weil er ja ursprünglich
+aus dem Lateinischen kommt.
+
+Warum sollte der Begriff "Menü" in seiner Bedeutung in
+der Informatik nicht aus dem Englischen kommen? Nicht 
+direkt, sondern indirekt zu uns? Ich fände das wesentlich logischer,
+als daß Engländer/Amerikaner *und* Deutschsprachige *gleichzeitig*
+einen neuen Begriff aus dem Französischen (warum grade daher?)
+entlehnen. Warum haben sie sich dann nicht auch gleich "Ordinateur"
+gekrallt ;)
+
+
+Die Logik verstehe ich nicht. Warum sollte nicht das Wort in
+genau einer Bedeutung -- nämlich der "Speisekarte", IMHO die
+einzige Bedeutung des englischen "menu", die im Kontext eines
+"Auswahlbildschirms" beim Computer (der in der Anfangszeit 
+sicher auch äußerliche Ähnlichkeit mit einer Speisekarte
+gehabt hat) -- direkt aus dem Englischen entlehnt werden,
+und falsch übersetzt ("Menü" statt "Speisekarte") eventuell
+sogar bewußt falsch, weil "Menü" das handlichere, kürzere Wort
+ist?
+
+Mein Wosnitza kennt für "menu" zwei Bedeutungen außerhalb
+der in der Informatik: 1. Speise(n)karte: to be on the ~ auf der
+Speisekarte stehen; what's on the ~ today? Was steht zur Auswahl
+2. Speisenfolge
+
+Für mich is es ziemlich offensichtlich, daß menu (1) da weitaus
+mehr Sinn ergibt als menu (2), weil es um Auswahl geht, nicht
+um eine Speisenfolge.
+
+Und wenn du im Falle der "Seiteneffekte" zugibst, daß es nicht
+unwahrscheinlich ist, daß Informatiker Englisch schlecht/falsch
+übersetzen, so sehe ich nicht ganz, warum ihnen das beim falschen
+Freund "menu" nicht passiert sein sollte.
+
+
+Wie oben geschrieben: Nur wenn man deine IMHO überhaupt nicht
+zwingende Schlußfolgerung, daß "Menü" direkt aus dem Französischen
+in die Sprache der Informatiker Eingang gefunden hat, akzeptiert.
+Dafür sehe ich aber keinen plausiblen Grund.
+
+
+non sequitur. Ob sich "Seiteneffekt" als Fachbegriff der Informatik
+durchsetzt hängt mit allem möglichem zusammen, aber nicht, ob 
+das ursprünglich ein Übersetzungsfehler war, oder "Quatsch". 
+Viele Worte sind aus "Quatsch" (Fehlern) entstanden.
+
+
+Im Deutschen gibt es auch Begriffe für Mobiltelefon. Und es hat sie
+schon vor dem Siegeszug des Worts "Handy" gegeben. Trotzdem hat es
+sich durchgesetzt. Warum sollte ein Wort nicht populär werden, obwohl
+es schon ein anderes gibt?
+
+
+Ich bin kein Informatiker -- aber ich könnte mir vorstellen, daß 
+Seiteneffekt durch seine Nicht-Verwendung in der Alltagssprache
+viel eindeutiger signalisiert, daß derjenige einen *bestimmten*
+Aspekt von Nebenwirkungen meint (nicht die Kopfschmerzen, die ihm
+seine Tabletten machen, sondern z.B. die Dinge, die nach dem Prozedur-
+aufruf passieren, obwohl er keinen Rückgabewert hat). Oder daß
+er damit signalisiert, daß er sich mit den dazugehörigen Fragestellungen
+schon einmal beschäftigt hat.
+
+Jedenfalls ist es für mich schon irgendwie interessant, daß "Seiteneffekt"
+in ein paarhundert Informatikbüchern auf avvvfq.ft vorkommt, aber nur
+da (und bis auf ein Buch z.B. nicht in der medizinischen Literatur).
+Und auch in den Informatikbüchern namhafter Verlage (Armster, VRVM,
+BLW, Orlob).
+
+
+Gerne, ich gebe noch einen X-Post in de.etc.sprache.misc rein,
+falls dort jemand eine Meinung hat, ob das "Menü" beim Computer
+auf dem Umweg über das Englische zu uns kommt, und ob es mit dem
+deutschen "Menü" eine schlichte Fehlübersetzung ist.
+
+/eilert
+-- 
+http://smj.svquyi.wpq/xqceku/ejxyepnie/

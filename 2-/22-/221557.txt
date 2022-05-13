@@ -1,0 +1,8 @@
+Die Konstruktion im Englischen ist aber eine andere, da "to base"
+dort zwangsweise transitiv ist und das englische Objekt semantisch
+dem deutschen Subjekt entspricht:
+  A basiert auf B
+  somebody bases A on B  ->  A is based on B
+
+-- 
+Raymond "henriette" Muscheler                          ozvzm@xyhd.husn.vu

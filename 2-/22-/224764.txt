@@ -1,0 +1,16 @@
+* Nick Warnk:
+
+
+Die populäre Definition ist meines Erachtens: Das Web = Das
+Internet = Alles, was im Browser "ist". Dazu gehören dann auch ein
+paar gut verlinkte FTP-Sites etc., aber Usenet eher nicht, weil
+der Browser alleine mit Links zum Usenet nicht umgehen kann, und
+ein Programm, das es könnte, in der Regel nicht eingerichtet
+ist.
+
+Die technische Definition ist meines Wissens immer noch Web = WWW
+= http. Allenfalls würde ich dazuzählen, was auf http-Seiten über
+andere Protokolle eingebunden ist (z.B. Video- und Audiostreams).
+
+-- 
+Günther

@@ -1,0 +1,13 @@
+* Serge Haard <Bywz_Lfgzmv@aqv.lx>:
+
+Bei einem 25jährigen? Ein solcher hat kürzlich, als ich etwas von einem
+DECsystem irgendwas erzählte, gefragt: "DEC?"
+
+Da hat man 25 Jahre lang mit Dingen wie VT100, pdp-8, RK-07, pdp-11,
+DecSystem-10, TK-50, VAX, ln03, VMS, H4000, DELNI, RA81, DECnet Phase
+IV, DecSystem 8400, Ultrix, Alphastation, usw. zu tun gehabt und da
+kommt so ein Kerlchen und fragt: "DEC?"
+
+Und das Schlimme dabei ist: Es war ein kluges Kerlchen.
+
+ - Urban

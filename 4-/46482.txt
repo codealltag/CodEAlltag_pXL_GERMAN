@@ -1,0 +1,22 @@
+Die Frage ist ungefähr so sinnvoll wie "Also ist Leitwert kein
+Widerstand?" Je besser ein Körper leitet (also je höher der Leitwert),
+desto niedriger der Widerstand. Und umgekehrt.
+
+
+Beides sind abgeleitete Größen.
+
+
+Alle abgeleiteten Größen kann man genauso durch den Kehrwert ausdrücken
+(man muss es dann natürlich auch anders nennen, also z.B. Leitwert
+statt Widerstand, Langsamkeit statt Geschwindigkeit, Mileage statt
+Verbrauch, ...).
+Ob ich sage, dass ein Auto 100 km pro Stunde zurücklegt, oder ob
+ich sage, dass es 0.01 Stunden pro km benötigt, beschreibt beides
+den genau gleichen Sachverhalt. Es halt sich in den meisten Fällen
+eingebürgert, konsistent eine von beiden Notationen zu verwenden, genau
+weil es eben egal ist, welche man verwendet (man muss halt statt
+multiplizieren dividieren bzw. umgekehrt, aber das stellt für den
+durchschnittlichen Physiker eher nicht so die große geistige
+Herausforderung dar (im Gegensatz zu manchen anderen Berufsgruppen).
+
+	hp

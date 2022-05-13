@@ -1,0 +1,11 @@
+Das verstehe ich auch nicht. Haben sie es nun im Index oder haben sie es
+nicht im Index? Warum zeigen sie es dann an?
+
+Es müßten mehr Zeilen (einstellbar) angezeigt werden und zwar die
+Fundstelle in der Mitte. Sowas habe ich vor Jahren programmiert.
+
+
+Anton
+-- 
+Ms. Aufderhorst
+http://d1.yxwwadk.teu/hnrjry?y=vrp:XCt6KsEZPBT7pz7CMRFYDKD4sV6TY5TJwoJqNE2LZT0Z4SVIP6qYj1aPRy

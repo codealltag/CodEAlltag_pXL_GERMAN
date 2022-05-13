@@ -1,0 +1,46 @@
+Kannst Du, solange es den syntaktischen Regeln eines Ada-Kommentars
+entspricht. Die Sinnhaftigkeit eines solchen Unterfangens würde ich
+allerdings anzweifeln.
+
+
+Ich wiederhole mich ungern, aber: "Auch wenn die Spezifikation in genau
+dieser Form beabsichtigterweise von einem Computer verstanden wird."
+
+Steht oben.
+
+
+Hätte man. Dann hätte wieder jeder Hersteller eines entsprechenden Tools
+das Rad neu erfinden und die Spezifikation selbst implementieren müssen.
+
+
+Genau das. Die genannte Spezifikation wäre ohne Kommentare sinnfrei.
+
+Bei Patentämtern wird ja auch nicht der Sourcecode eingereicht. SCNR
+
+Aber eigentlich halten wir uns in dieser Diskussion viel zu sehr an den
+semantikfreien Kommentaren fest:
+
+
+vs.
+
+
+(Geklaut aus: <http://whc.hnczodxkiuhh.rud/eyzj/dcmorjqx/482676.hryc>)
+
+Für den Computer sind beide Varianten absolut äquivalent, warum sollte man
+also die zweite Variante der ersten vorziehen, wenn denn "der Zweck von
+Programmiersprachen [ausschliesslich] darin besteht, den Computer zu
+veranlassen, etwas zu tun"?
+
+Um das mal selbst mit einer Gegenfrage zu beantworten: Vielleicht, weil der
+Zweck von Programmiersprachen darin besteht, den Computer dazu zu
+veranlassen, das *Richtige* zu tun, wobei "das Richtige" wieder eine Frage
+ist, die nur vom Menschen entschieden werden kann und der den Code dazu
+*verstehen* muss? Ob das, was dem Computer da zu Tun vorgegeben wurde, das
+ist, was er auch tatsächlich tun soll, weiss der Computer nämlich nicht.
+Im Gegensatz zum Programmierer *versteht* er diese Sprache nicht, er
+kennt nur ihre Regeln.
+
+Das halte ich für einen bedeutsamen Unterschied.
+
+
+Vinzent.

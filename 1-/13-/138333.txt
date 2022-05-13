@@ -1,0 +1,15 @@
+Jedenpfalz kann man unter Windows Benutzerkonten anlegen. Gut, nicht unter
+jedem, aber so seit Windows 95 soll das gehen. 
+
+Und ich verspüre Grund zu der Hoffnung, daß Windows in der Zwischenzeit von
+Linux gelernt hat, den Namen des Absenders im entsprechenden Home-
+Verzeichnis abzulegen statt irnkwo global :-)
+
+
+vG
+
+-- 
+"Die Eberl steht dann da, so wie sie dann immer da so steht, und dann
+guckt sie so, nicht wahr, versucht der Krise ein Gesicht zu geben, und ich
+denke immer: Die ist genauso gespannt, was sie gleich sagen wird, wie
+ich!" (Carlos Paschen, "Bis neulich")

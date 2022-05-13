@@ -1,0 +1,14 @@
+Das ist interessant:
+
+"Die Forscher haben sich ein statistisches Modell aus der
+Evolutionsbiologie geborgt, das normalerweise dazu dient, den Verlauf
+von Grippeepidemien vorherzusagen und sie zu einem Ausbruchsort
+zurückzuverfolgen. Statt des Viren-Erbguts speisten sie Kognate ein,
+ähnlich klingende Wörter wie =84mother=93, =84Mutter=93 oder =84madre=
+=93, die
+einen gemeinsamen Ursprung haben."
+
+Wenn in das statistische Modell also nicht die geographischen
+Vorkommen von Krankheitsfällen eingetragen werden, sondern das Erbgut,
+vermutlich die Gensequenzen, sagt man also den Verlauf einer Epidemie
+aus Genmutationen vorher?

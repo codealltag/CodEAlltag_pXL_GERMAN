@@ -1,0 +1,9 @@
+(1)
+
+
+Nur in der Schweiz, in Deutschland werden Abkürzungen in der Regel auf 
+dem letzten Buchstaben betont: Ahbe'ess, Ellka'weh, Zeh'deh. Daher ist 
+(1) normaler Endzustand.
+
+-- 
+Press any key to continue or any other key to quit.

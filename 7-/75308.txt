@@ -1,0 +1,10 @@
+Ach, da sind wir ja nahe dran. Unsere Software ist auf Nachrichten
+optimiert, kann zusammenfassen und ähnliche Texte finden. Zum Beispiel
+wird sie eingesetzt, um automatisch zu warnen, wenn sich Berichte über
+Krankheiten geographisch häufen, und das sogar mehrsprachig.
+
+-- 
+If the aeroplane industry had advanced at the same rate as the computer
+industry, today's planes could circumnavigate the world in ten seconds,
+be two inches long, and crash twice a day.
+  Christian Grabenschröer in alt.usage.english

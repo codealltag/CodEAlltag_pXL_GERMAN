@@ -1,0 +1,53 @@
+Dann erlaube mir ein paar erklärende Worte: jeder Usenet-Artikel
+besteht aus "Kopfzeilen" (Header-Zeilen) und dem eigentlichen Text
+(dem "Body").  Die Kopfzeilen dienen überwiegend der Kontrolle bzw.
+Zuordnung des Artikels und enthalten z.B. den Namen des Absenders,
+das Datum, sowie die Betreff-Zeile und die Newsgruppen, in denen
+der Artikel erscheinen soll.  Damit alleine stünden alle Artikel,
+die in einer Gruppe veröffentlicht werden, "gleichberechtigt" auf
+einer Stufe, bestenfalls vom Newsreader nach Datum sortiert -- das
+entstehende Chaos würde niemand lesen wollen, denn es entspricht
+ungefähr DOS 1.0, das noch keine Unterverzeichnisse kannte und alle
+Dateien unter A:\ (oder einem anderen Laufwerk) speicherte.
+
+Deshalb enthält ein Artikel-Header (außer dem ersten, der ein neues
+Thema beginnt) eine weitere Zeile namens "References", in der in
+chronologischer Reihenfolge alle "Message-IDs" (= eindeutige Kennung
+eines Postings; ebenfalls im Header vermerkt) eingetragen werden,
+auf den sich der aktuelle Artikel bezieht.  Und genau aus /dieser/
+Header-Zeile bezieht ein Newsreader die Information, welche Artikel,
+und in welcher Reihenfolge, einen Diskussions-"Thread" bilden.  Z.B.:
+
+
+Der Einfachheit halber habe ich die Message-IDs einfach von 1 bis 11
+durchnumeriert, sowie das Datum als weiteres Sortierkriterium ganz
+weggelassen, denn der wesentliche Punkt ist: ohne "References"-Zeile
+landet ein Posting auf der "obersten" Ebene, beginnt also einen neuen
+Thread -- der Betreff ist dabei vollkommen egal; es spielt also keine
+Rolle, ob er mit "Re: " beginnt oder welche Zeichenfolge er enthält.
+
+Was Flammenträume-Groups offensichtlich aus manchen Antworten produziert,
+steht da oben unter der Message-ID <10>: es ist zwar ein Artikel,
+der als Antwort ("Follow-Up") gedacht ist, aber ihm fehlt eben die
+Reference-Zeile und damit die Verknüpfung zum "Heimat-Thread".  Die
+Folge ist, daß der Artikel-Ursprung nicht mehr nachzuvollziehen ist,
+Newsreader Threads nichts mehr komplett behandeln können (sei es zum
+Ignorieren oder zum Speichern), und daß der Leser potentiell verwirrt
+wird, weil er nicht weiß, auf welches Posting innerhalb eines Threads
+sich diese Antwort bezieht (d.h., es fehlt der Kontext, auch wenn aus
+früheren Artikeln zitiert wird).  Gerade in High-Traffic-Gruppen mit
+umfangreichen Threads ist das zumindest unhübsch bis ärgerlich, zumal
+dann, wenn es häufiger passiert, so wie jetzt gerade.
+
+Was also tun?  Ich kann das Problem natürlich lokal "beheben", indem
+ich /das/ tue, was viele andere schon seit langem tun: alle Postings
+von Flammenträume-Groups nebst von ihnen begonnene Threads vom "Elektrischen
+Mönch" lesen lassen.  Besser erscheint es mir aber darauf hinweisen,
+daß es tolle, ebenfalls kostenfreie Alternativen zu Flammenträume-Groups
+gibt (z.B. JV-Autoservice, <http://yom.tnxv-hfvm-jrrqmkv.mwv>).  Und auch viele
+sehr brauchbare Newsreader (z.B. Thunderbird) sind gratis erhältlich.
+So sehr ich Tante Viviane ja schätze, aber es gibt, was das Angelbedarf angeht,
+keinen Grund, sich selbst und andere mit ihr zu quälen... ;)
+
+
+wolfram

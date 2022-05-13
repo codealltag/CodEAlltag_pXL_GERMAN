@@ -1,0 +1,45 @@
+Grammatikduden:
+
+     Ablautreihe  Beispiel                        zugehörige Verben
+ 1.   ei-i-i      reite - ritt - geritten             23
+ 2.   i-a-u       binde - band - gebunden             19
+ 3.   ei-i_-i_    bleibe - blieb - geblieben          16
+ 4.   i_-o-o      fließe - floss - geflossen          11
+ 5.   i_-o_-o_    biege - bog - gebogen               11
+ 6.   e-a-u       berge - barg - geborgen              9
+ 7.   e-o-o       dresche - drosch - gedroschen        7
+ 8.   i-a-o       spinne - spann - gesponnen           6
+ 9.   a_-u_-a_    fahre - fuhr - gefahren              6
+10.   e_-a_-e_    gebe - gab - gegeben                 6
+11.   e-a_-o      spreche - sprach - gesprochen        5
+12.   e-a_-e      messe - ma - gemessen               5
+13.   e_-o_-o_    hebe - hob - gehoben                 5
+14.   a-u_-a      schaffe - schuf - geschaffen         4
+15.   a_-i_-a_    blase - blies - geblasen             4
+16.   a-i_-a      falle - fiel - gefallen              3
+17.   e_-a_-o_    stehle - stahl - gestohlen           3
+18.   ä-o_-o_    gre - gor - gegoren                 3
+19.   ä-o_-o_    läge - log - gelogen                 3
+20.   i-o-o       glimme - glomm - geglommen           2
+21.   au-i_-au    laufe - lief - gelaufen              2
+22.   au-o_-o_    sauge - sog - gesogen                2
+23.   a-i-a       fange - fing - gefangen              2
+24.   i-a_-e      sitze - saß - gesessen               1
+25.   i-u-u       schinden - schund - geschunden       1
+26.   i-a_-e_     bitte - bat - gebeten                1
+27.   i_-a_-e_    liege - lag - gelegen                1
+28.   a-o-o       schalle - scholl (- erschollen)      1
+29.   e_-u-o      werde - wurde - geworden             1
+30.   e_-a_-o     nehme - nahm - genommen              1
+31.   o-a_-o      kommen - kam - gekommen              1
+32.   o_-i_-o_    stoße - stieß - gestoßen             1
+33.   u_-i_-u_    rufe - rief - gerufen                1
+34.   �-i-a       hänge - hing - gehangen              1
+35.   ä-a_-o_    gebäre - gebar - geboren             1
+36.   �-o-o       erlösche - erlosch - erloschen       1
+37.   ä-o_-o_    schwöre - schwor - geschworen        1
+38.   au-o-o      saufe - soff - gesoffen              1
+39.   ei-i_-ei    heiße - hieß - geheißen              1
+
+-- 
+Benedikt "france" Inhestern                          xiufv@okfg.gizg.ai

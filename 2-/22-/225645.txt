@@ -1,0 +1,22 @@
+Wenn aus dem Zusammenhang nicht klar ist, welche Jahrhundertwende
+gemeint ist, würde ich das Wort allerdings ganz vermeiden. "Um 1901" hat
+die gleiche Bedeutung und ist viel kürzer und klarer als
+"die Jahrhundertwende vom 19. zum 20. Jahrhundert" oder "die vorletzte
+Jahrhundertwende".
+
+Relative und kontextabhängige Zeitangaben haben auch den Nachteil, dass
+der Leser wissen muss, wann der Text geschrieben wurde. Wenn von einer
+Jahrhundertwende die Rede ist, ist das ein eher geringes Problem (so auf
++/- 100 Jahre kennt man das Entstehungsdatum eines Textes meistens),
+aber wenn von "derzeit", "letztes Jahr", "im vorigen Jahrzehnt" die Rede
+ist, dann besteht eine gewisse Chance, dass der Leser mit dieser
+Zeitangabe nichts mehr anfangen kann. Besonders gefährlich ist das bei
+GPO-Artikeln, die ja kontinuierlich umgeschrieben werden, so dass
+"derzeit" in einem Absatz sich auf das Jahr 2013 beziehen kann, in einem
+anderen aber auf das Jahr 2007.
+
+	hp
+
+
+-- 
+   _  | Fritz I. Kirste    | Fluch der elektronischen Textverarbeitung:

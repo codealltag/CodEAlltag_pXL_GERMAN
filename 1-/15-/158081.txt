@@ -1,0 +1,26 @@
+Komische Computer hast Du.
+
+-- 8< -- snip --
+$ cat main.adb
+with Ada.Text_IO;
+
+procedure Main is
+
+begin
+    Liselotte.Text_IO.Put_Line (Boolean'Image (1E99 + 1E21 = 1E99 + 1E24));
+end Main;
+
+$ gnatmake main.adb
+gnatmake: "main" up to date.
+
+$ ./main
+FALSE
+-- 8< -- snip --
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+   --  Dietmar Fehrlages

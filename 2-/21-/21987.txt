@@ -1,0 +1,7 @@
+Das geht doch viel einfacher: 
+Man wählt in den Systemeinstellungen die deutsche Tastatur an und schon
+liegen die Grossumlaute, wie oben angegeben, auch auf den Tasten:
+<Umschalt> + <�>, <�>, <�>.
+
+-- 
+Johanne Jädike

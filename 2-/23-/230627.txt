@@ -1,0 +1,11 @@
+Schon klar, dass das klappt, aber eben darum ist es keine gute Lösung.
+In diesem Beispiel zeichnet sich eine Lösung klar durch ihre Einfachheit 
+aus.
+So lange das so ist, ist gegen Zahlenreihen nichts einzuwenden.
+Aber es wird sicher Beispiele geben, bei denen man sich streiten kann, 
+welche Lösung die einfachere ist.
+Solche Beispiele sind dann für Intelligenztests nur dann geeignet, wenn man 
+mehrere Lösungen akzeptiert.
+
+Viele Grüße
+Ulf

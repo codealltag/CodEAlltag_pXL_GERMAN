@@ -1,0 +1,12 @@
+* Ulf Overtheil <xzymtbfmeu@lqxlbjfpbb.jap>:
+
+Nein, der TI-59/58 hatte algebraische Notation mit "="- und
+Klammertasten.
+
+Ziemlich sicher wurde intern zur Auswertung von solchen algebraischen
+Klammerausdrücken ein Stack benutzt. Aber der war für den Benutzer
+nicht sichtbar, der Stack war nicht manipulierbar; es gab keine pop-,
+push- oder (wie bei den ganz frühen Kopase-9100/9810-Tischrechnern) roll-up
+und roll-down-Befehle.
+
+ - Giuseppe

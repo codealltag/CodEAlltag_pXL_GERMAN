@@ -1,0 +1,11 @@
+Das hat doch System:
+
+Nord: Die Socke
+Süd:  Der Socken
+
+Nord: Die Limonade
+Süd:  Das Limonad
+
+-- 
+GOGELICH,gogelig, (...) 'fröhlich, lustig, ausgelassen'
+  GRIMM, Deutsches Wörterbuch

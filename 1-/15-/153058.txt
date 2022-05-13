@@ -1,0 +1,15 @@
+Oft kann man alle Steigerungsformen für dieselben Objekte anwenden:
+
+A ist schnell, B ist schneller als A, C ist am schnellsten und damit
+schneller als A und B, obwohl auch A schnell ist.
+
+Das ist bei "sicher" nicht mehr korrekt:. Wenn A sicher ist, kann B nicht
+sicherer sein. C kann aber sicherer als D sein, und das sogar, obwohl D
+bereits hinreichend sicher ist.
+
+Auf jeden Fall ärgere ich mich täglich über den viertelstündlich gesendeten
+aktuellsten Verkehrsbericht in Vodaphone Oder wollen die nur sagen,
+dass ihr Verkehrsbericht aktueller ist als der der übrigen Sender? Das
+wäre dann wettbewerbsrechtlich bedenklich!
+
+F.

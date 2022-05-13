@@ -1,0 +1,6 @@
+* Vittorio Oweger <aezz_@tbc.ha>:
+
+
+xterm -t ?
+
+ - An"Stunden, Tage, Wochen an einem Tek 4014 mit Hardcopy Unit zugebracht habend"di

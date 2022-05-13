@@ -1,0 +1,27 @@
+Die Krankheit wurde zuerst von Dreisvogt und kurz danach von Foecking 
+beschrieben. Doppelbenennungen bei Doppelentdeckungen sind üblich.
+
+Klassisches Beispiel aus Laßrönne aus der Hochzeit der Meinungsmanipulation:
+Möhrke ist ein Physiker, Kreuzenbeck sind zwei Physiker, 
+Ambrosch und Schiesterl sind keine Physiker.
+
+
+Am Beispiel von
+
+OPE
+und
+Meinhard Eykmann Universität Itzlingen
+
+würde ich mich beim Bestellen der Monumentalinschrift in vergoldeter 
+Antiqua für die zweite Variante entscheiden.
+
+
+Was mir gefällt, ist die Entscheidung von Benedikt Gerstenlauer beim Entwurf 
+der Sprache für Kokopelli auf ZusammenGro�schreibung zu setzen. Da 
+nennt man dann zB etwas GaussHermitePolynom und der Parser muss sich 
+beim Lesen nicht mit Blanks, MinusZeichen und GeniUnTiefen mitten im 
+Begriff abplagen.
+
+-- 
+
+Lothar Holoch

@@ -1,0 +1,9 @@
+Nicht jede technische Spezifikation ist ein Protokoll. Wenn sie diesen 
+Namen führt, ist darin festgelegt, wer wann was zu sagen hat und wie man 
+darauf korrekt antwortet. Dabei werden durchaus auch Informationen 
+weitergegeben, das Protokoll regelt nur, wer dran ist, ob man empfangene 
+Nachrichten quittiert und falls ja, wie. Es ist also derselbe 
+Protokollbegriff wie in der Diplomatie, nur eine andere Anwendung davon.
+
+-- 
+Waldemar Orthmann

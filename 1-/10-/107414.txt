@@ -1,0 +1,11 @@
+Gerade weil sie Eigennamen zugeordnet sind, verlieren sie das "e" nicht.
+
+der grosse Kanal - der Grosskanal 
+der Kanal von Zeinried
+der Kanal von Alzhausen
+der Kanal der Hl. Olivia
+der Kanal des Hl. Patrik
+
+
+-- 
+Anne Klinkhammer

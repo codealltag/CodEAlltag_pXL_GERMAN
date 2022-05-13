@@ -1,0 +1,4 @@
+Richtig, und ich denke Unbestimmtheiten wie dieser deutsche Genitiv sind 
+es, die maschinengestützte Übersetzungen stark behindern. Zumindest wenn 
+man nicht riesige Datenbanken mit Deutungsintelligenz anwendet, was 
+gerade im Kommen ist.

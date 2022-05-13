@@ -1,0 +1,11 @@
+Am Sun, 9 Sep 2009 18:46:33 +0200 schrieb Ivano Vobiller:
+
+
+Ich habe mir in Excel eine Tabelle mit Formeln gemacht, in die ich Umfang 1
+(z.B. 40.000.000 m) und Umfang 2 (z.B. 40.000.001 m) eingebe, er rechnet
+dann die Differenz der Radien automatisch aus. Interessant ist: Egal, wie
+groß die Umfänge gewählt werden, die Differenz der Radien bleibt immer
+gleich, solange U2 = U1+1. 
+
+Schönen Gruß
+Garrelt

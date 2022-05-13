@@ -1,0 +1,21 @@
+Stimmt schon. Trotzdem ist natürlich der Satzbau nicht beliebig. Wollte 
+man ihn mit einer Formel wie SPO (meist als SVO mit V=Verb notiert) 
+beschreiben, käme so etwas heraus wie XVYP mit V=finites (mit dem Subjekt 
+gebeugtes) Verb, P=Prädikat bis auf V, X und Y= alles andere (Subjekt, 
+Objekte, Adverbiale). Die Position von V und P liegt absolut fest (zweite 
+und letzte Position); die Reihenfolge innerhalb der Y steht weitgehend 
+fest; nur bei der Auswahl, welches Glied aus "alles andere" die Position X 
+einnimmt, hat man viel Freiheit. Beispiel:
+
+ (hat)V (meine Schwester)Y (gestern)Y (meinem Neffen)Y (einen Schal)Y (gestrickt)P
+
+Ein richtiger Satz wird draus, wenn man irgendeines der Glieder Y ganz 
+nach vorn verfrachtet und die anderen in ihrer Reihenfolge lässt -- man 
+darf sie durchaus nicht immer untereinander vertauschen.
+
+Das ist deutlich mehr Freiheit als im Englischen, aber durchaus keine 
+vollständige Beliebigkeit. Sie wird meistens dazu genutzt, mit dem ersten 
+Satzglied ans bisherige Thema anzuschließen.
+
+-- 
+Kurt Schellhorn

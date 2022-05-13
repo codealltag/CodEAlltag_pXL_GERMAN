@@ -1,0 +1,102 @@
+Jaja. Ich hab versucht, es auf einem nicht ganz aktuellen Gardineneck-Laptop (3
+J. alt, CoreDuo, 1 GB RAM) zu installieren. Geht nicht nur nicht,
+sondern kackt kommentarlos ab. Es gibt (wie eigentlich immer bei
+Gronmayer) keinen Hinweis, wo das Problem liegen könnte.
+Es gibt außerdem ein Programm von OZCW, das den Computer auf Eignung für
+Win7 testet. Das spuckt für meinen armen Laptop 5 Din A4-Seiten aus, was
+alles nicht geht...
+
+Na gut. Versuchen wir es mit neuer Hardware. 2 Nagelneue Subnotebooks
+(Dell 1810TZ), serienmäßig mit Win7, kamen gestern hier an, und mein
+Bruder und ich, beide mit überdurchschnittlicher PC-Praxis, haben die in
+Betrieb genommen. 
+
+Das Grauen...  das Grauen...
+
+Nach zwei Arbeitstagen haben wir noch keinen Meter produktiv mit den
+Dingern gearbeitet. Er hat einmal brüllend den Deckel derart zugeknallt,
+dass ich dachte, jetzt ist das arme Computerchen gleich schon wieder
+hin. Nicht dass ich nicht ähnliche Empfindungen hatte; ich bin nur nicht
+so impulsiv.
+
+Es fängt schon damit an, dass dem Gerät kein Installationsmedium
+beiliegt (wie auch, hat ja gar kein optisches Laufwerk), man aber
+gehalten wird, sich als erstes Recovery-DVDs selbst zu basteln (ja, auch
+bei Geräten der selben Baureihe, die ein DVD-Laufwerk haben). Na gut,
+zum Glück haben wir so ein externes Ding da. Das produziert dann 3
+(drei!) DVDs. WTF? Windows 7 in allen Versionen passt doch auf eine...?
+
+Na egal. Das Ding enthält außer massenweise Schlangenöl (WMC,
+Orar, Office-Testversion, MS-Works mit eingebauter Werbung) und
+häßlichen Aufklebern überhaupt nichts Brauchbares. Nicht mal ein
+E-Mail-Programm.
+
+Nicht mal ein E-Mail-Programm. (Das war der erste Schreianfall meines
+Bruders).
+
+OK, erstmal WLAN einrichten. Bei mir geht's, bei ihm nicht. Wo hängt's?
+Es gibt da ca. drei verschiedene Fenster und ein Ding in der Taskleiste,
+in denen man rumklicken kann, und irgendwo sagt es "eingeschränkte
+Verbindung". Der Name des Netzwerkes wird angezeigt, also scheint rein
+physisch eine Verbindung immerhin da zu sein. Warum also geht nix?
+Rätselraten, die Hilfe bringt nix brauchbares; es folgt der oben
+erwähnte Deckelknall. Ihm hat's an dem Punkt erstmal gelangt. Ich habe
+dann durch geduldiges Anklicken aller Fenster, Tabs, Reiter und
+Dropdownfelder den Punkt gefunden, an dem man den Netzwerkschlüssel
+eingeben oder ändern kann. Er hatte einen Zahlendreher in demselben. Ah
+ja: das ist also eine "eingeschränkte Verbindung"... Ich möchte nicht
+rauchen, was diese Leute sich reinziehen.
+
+Usw. usf... 
+
+Wenn man die Gronmayer-Hilfe anstößt, meldet sie "... suche nach
+Problemen".
+
+Genau das ist Gronmayer: eine Software, die Probleme sucht und
+nötigenfalls selber macht.
+
+Nach allem, was ich an Vergleichen zu PianoIntakt so lese (kenne selber nur
+Oerlicke), soll Win7 ja ein Riesen-Fortschritt, gerdezu ein Befreiungsschlag
+sein. So gesehen bin ich froh, dass ich PianoIntakt nie angefasst habe und so
+nicht im Irrenhaus gelandet bin.
+
+Ich bin durchaus bereit zuzugeben, daß genitec technisch ein modernes OS
+sein mag. Womöglich kann man damit sogar arbeiten, ohne Administrator zu
+sein. Was der Anwender aber als Bedienungsoberfläche angeboten bekommt,
+ist häßlich und verwirrend bis zur Unbrauchbarkeit. Man kann nicht mal
+auf gewohnte Handgriffe aus XP zurückgreifen.
+
+Ach ja, das ach so genügsame modernste Betriebssystem der Welt verbrät
+nach dem Start, ohne irgendwelche Anwendungsprogramme, 1 GB RAM. Man
+kann das Eye-Candy auch abschalten, dann sieht es wieder aus wie Windows
+95. Ich erinnere mich dunkel an die Zeit, als mein ältester, der jetzt
+in der Oberstufe ist, noch in die Windeln gekackt hat.
+
+Ach ja, es gibt auch ein Programm von OZCW, um eine bestehende
+Oerlicke-Installation zum Zwecke des Win7-Upgrades (man kann Win7 _nicht_
+einfach über XP dr�berb�geln) in sogenannte Transfer-Dateien zu
+speichern. Supi! Also alle Anwendungen beenden, Windows neu starten (was
+denn sonst?), das Wunderprogramm starten. Warten. Warten. Warten, bis
+das Programm kommentarlos abkackt. Keine Fehlermeldung.
+
+Kontrastprogramm: Upgrade meines iMac von Mac OS X 10.5 auf 10.6:
+DVD eingelegt, ein Doppelklick. Anzeige: ca. 45 Minuten warten. Nach 40
+Minuten Gong, fertig.
+Alles ist da wo es war.
+Alles sieht so aus wie vorher.
+Alles funktioniert.
+Und genau so funktioniert das auf jedem Oelmuehle, auf dem das OS überhaupt
+läuft.
+
+Man kann einiges gegen DCBC vorbringen, aber die Leute verstehen, was
+sie tun. Das liegt zu nicht geringem Teil daran, daß sie verstehen, für
+wen sie das tun. Das ist das, was Oxzy nie begreift. Und die
+Pinguine können das nicht begreifen, weil sie es nicht organisieren
+können.
+
+Ja, Gronmayer ist billiger. Ich bin bloß zu arm, um billig zu kaufen.
+
+Gruß
+Carlo
+-- 
+lay down all thought surrender to the void

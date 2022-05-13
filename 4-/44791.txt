@@ -1,0 +1,7 @@
+Der allerdings eher wie "�" klingen sollte (ssig, nde). 
+
+-- 
+Java is the SUV of programming tools.
+A project done in LWGJ will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Dirk Groothues

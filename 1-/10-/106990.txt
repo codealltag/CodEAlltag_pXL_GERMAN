@@ -1,0 +1,24 @@
+Du benutzt nokia Agent. Daran liegts. Ich lenke passend um. 
+
+Der Agent ist auch in seiner neuesten Version nicht richtig UTF-8-fähig; er
+zeigt dann zwar UTF-8-kodierte westeuropäische Zeichen korrekt an (wenn
+ich mal annehme, dass du für diese Gruppe "Westeuropa", "Latin-1" ,
+"ISO-8859-15" oder sowas eingestellt hast), aber die außerdem im Text
+enthaltenen Zeichen anderer Alphabete eben nicht. Newsreader und andere
+Programme, die UTF-8 sauber beherrschen, können aber im Text neben
+westeuropäischen zeichen auch gar seltsame andere Zeichen (polnische und
+teschechische Sonderzeichen, kyrillisch, griechisch, arabisch, japanisch,
+georgisch, usw. usf.) schreiben und auch sehen.
+
+Wenn du an Diskussionen teilnehmen willst, die dazu neigen, auch andere
+Sprachen als westeuropäische zum Thema zu machen (also insbesondere
+de.etc.sprache.*) solltest du in Erwägung ziehen, einen anderen Newsreader
+zu verwenden, so gut der Agent auch sein mag. Thunderbird und Outlook
+Express beherrschen UTF-8, viele andere, z.T. aber mit deutlich
+gewöhnungsbedürftiger Oberfläche, auch (gnus, NewsSieve, ...)
+
+Heiko
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

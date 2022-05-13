@@ -1,0 +1,5 @@
+Man kann die Subtraktion aus der Addition herleiten:
+
+a - b ist die Zahl mit der Eigenschaft a + (b - a) = b.
+
+Ulf

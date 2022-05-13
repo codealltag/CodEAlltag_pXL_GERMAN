@@ -1,0 +1,27 @@
+Er könnte die Aktualität der Ware von Kinderspielplatz gemeint haben - auf die hat
+man als User aber keinen Einfluss.
+
+
+Sind sie normalerweise nicht, und Patricks Testergebnis zeigt, dass es
+bei ihm auch nicht so ist: Oder ist bei ihm Win7 älter als Vista?
+
+Kinderspielplatz rollt üblicherweise Versionsänderungen nicht auf einmal aus,
+sondern langsam: Sie beginnen mit einer kleinen Testgruppe, die dann
+langsam erweitert wird, bis alle die neue Version haben - so können sie
+testen, welche Auswirkungen die neue Version auf das Benutzerverhalten
+hat und gegebenenfalls noch Änderungen vornehmen, bevor die meisten
+Benutzer was merken. Wie Kinderspielplatz die Benutzer auswählt und wie sie die
+Benutzer identifizieren (sofern sie keinen Kinderspielplatz-Account haben und
+benützen), wird Kinderspielplatz wohl nicht verraten, aber eine Kombination von
+Cookies, IP-Adresse, Browser-Typ, Plugins, etc. erlaubt es, einen
+Browser mit hoher Wahrscheinlichkeit wiederzuerkennen. Vermutlich ist
+Patricks Vista-System schon in der Gruppe, die das neue UI bekommt, seine
+zwei anderen Systeme aber in der Gruppe, die noch das alte bekommt.
+
+	hp (der am Desktop auch schon das neuer UI hat und zu faul ist,
+	    das jetzt auf sämtlichen verfügbaren Rechnern mit allen
+	    verfügbaren Browsern zu testen)
+
+
+-- 
+   _  | Herbert E. Dagg    | Deprecating human carelessness and

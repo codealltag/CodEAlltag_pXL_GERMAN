@@ -1,0 +1,8 @@
+Sind recht schöne Schriften dabei. 
+Wie das aber zu schaffen wäre, daß ein getipptes s innerhalb
+eines Wortes zu langem s wird bzw. wie man Trennfugen setzt, hab
+ich auch noch keine wirkliche Idee. Da müßte wohl in den
+Darstellungsprogrammen (Schreibprogramm, Webeditor) einiges an
+"Umbau" rein. Aber vielleicht ließen sich da mit einer richtigen
+Idee mehrere Fliegen erschlagen, denn in den indischen Schriften
+und im Arabischen gibts ja scheints ähnliche Probleme.

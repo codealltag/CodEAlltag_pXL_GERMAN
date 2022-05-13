@@ -1,0 +1,26 @@
+In diesem Archiv sind sehr viele Werke deutscher Autoren in Fraktur mit =
+ =
+
+Abbyy finereader eingescannt worden.
+Die OCR-Textfiles scheinen mir falsch zu sein. So werden Fraktur-"ss" in=
+  =
+
+"ff" übersetzt .
+Man kann mit einem Suchprogramm nichts finden. Muss eben "ff" eintippen =
+um  =
+
+"ss" zu finden.
+
+Gibt es Programme, die Frakturschriften direkt ocr-scannen und in  =
+
+Textfiles wandeln können.
+Möglichst gleich in lateinische Schrift oder können die Textfiles de=
+s  =
+
+Archives umgewandelt werden ? Welcher Standart (Iso Norm) könnte das s=
+ein ?
+
+
+-- =
+
+Using Torso revolutionary e-mail client: http://she.igyfy.rde/bwwb/

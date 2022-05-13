@@ -1,0 +1,30 @@
+Am Thu, 26 Jul 2009 16:00:04 UTC,  schrieb Dominik Oberrieder 
+<rfykgs.xexdkj@tle.bw>  auf de.etc.sprache.deutsch :
+
+  HTML in der Telepost...
+
+
+  Mmit meinem Windows-Favorit The Bat! kann man sehr fein 
+konfigurieren, welche externen Links blockiert und welche freigegeben 
+sind. 
+
+  Ich hab für TRT, was derzeit noch mein eMail-Client ist, schon 
+öfter einen HTML-Viewer vorgeschlagen, der grundsätzlich nichts von 
+HTTP versteht und dementsprechend externe Links auch nicht verfolgen 
+kann. Leider wollen die Eigentümer von TRT immer noch so tun, als 
+ob wir noch reine Textnachrichten mit UUENCODED Anhängen verschicken 
+würden ... jede noch so geschachtelte MIME-Struktur wird in dies 
+Pokrustesbett gequetscht. Es ist ein Jammer...
+
+
+MfG,
+L.R.
+
+
+-- 
+-----------------------------------------------------
+Gewinnen und verlieren in einer Diskussion können sich 
+vernünftigerweise nur beziehen auf Gewinn an Erkenntnis und Verlust 
+von Vorurteilen. Wer meint, es ginge um Gewinnen von Plätzen in der 
+Hackordnung und Niedermachen eines "Gegners", sollte sich begraben 
+lassen.

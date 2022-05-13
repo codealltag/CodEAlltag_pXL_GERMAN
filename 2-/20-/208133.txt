@@ -1,0 +1,51 @@
+Da wäre ich vorsichtig, denn die früher in Kurvendiskussionen übliche 
+Definition lautet:
+
+Eine reelle positive Funktion f ist konvex, wenn für je drei geordnete 
+Werte x1 < x <x2 gilt
+
+f(x) <= f(x1) + (x-x2)/(x2-x1) (f(x2)- f(x1))
+
+Für negative Funktionen gilt gespiegelt f(x) >= ...
+
+Die Bedingung besagt, dass jeder Punkt einer konvexen Kurve in der 
+oberen Halbebene unterhalb der Sekante liegt, mit anderen Worten, der 
+konvexe Bauch zeigt Richtung x-Achse.
+
+Dieser Begriff ist sehr stark, es folgt zB, dass die Kurve stetig und 
+differenzierbar glatt ist, wie man sich per Widerspruchsbeweis leicht 
+überlegt.
+
+Ein konvexes Gebiet, ein konvexer Körper ist dann einfach eine 
+geschlossene Kurve/Oberfläche, deren Sekantenmengen komplett im Innern 
+liegen und deren Oberfläche daher lokal eben ist.
+
+Während also "konvex" sich überraschenderweise als ein starker 
+Grundbegriff der Geometrie von Körpern mit differenzierbar glatten 
+Rändern ohne lokale Konkavitäten entpuppt, ist "konkav" das Schicksal 
+des mathematischen Wortmißbrauchs erspart geblieben, da es weder nach 
+außen konvexe Körper gibt, noch der Begriff als das hohle Innere eines 
+konvexen Körpers benötigt wird. Dazu genügt dem mathematischen 
+Minimalisten der Begriff des Randes eines konvexen Körpers, ein ebenso 
+fundamentaler geometrischer Begriff.
+
+
+Im täglichen Leben unterscheidet man halt nach Richtung der Schwerkraft. 
+Die Idee allerdings fällt auf dem Papier flach, wenn auch beim liegenden 
+Blatt merkwürdigerweise hinten zu oben wird.
+
+
+Endlich mal eine Gelegenheit, nachzuschauen, was das ist, ein Breve
+
+http://mp.bdkeufjks.ujs/ndon/Cxulj_%28Gcvzhds%05
+
+Da erscheint es auch im Deutschen im ŭ. Die anderen Sprachen sind mir 
+samt ihren Schriften weniger geläufig
+
+Rein korrekturprogrammmäßig bliebe zu klären, wieso FZWP 
+Rechtschreibprüfer Breve, nachzuschauen und korrekturprogrammmäßig für 
+falsch geschrieben hält.
+
+-- 
+
+Siebelt Altdörfer

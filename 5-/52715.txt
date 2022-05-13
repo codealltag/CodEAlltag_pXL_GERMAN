@@ -1,0 +1,56 @@
+Nein, nein und nochmals nein.
+Es muß sich überhaupt nicht auf EDV bzw. Computer beziehen, die
+gemeinte Auflösung der Daten ist viel "lebensweltlicher".
+
+Gesetzt den Fall, Du hast einen Laden und schreibst jedem deiner
+Kunden von Hand eine Rechnung aus, in der Du z. B. schreibst:
+
+Datum 27.10.2008
+
+1 Blumenkohl			1,00 EUR
+2 kl. Dosen Tomaten 1.20 EUR
+1 l Olivenöl 			6,50 EUR
+---------------------------------------------
+gesamt				8,70 EUR
+
+Nur mal so als Beispiel. Und solche Rechnungen schreibst Du
+immer, und sammelst die Durchschläge. Dann hast Du irgendwann mal
+einen Haufen Rechnungszettel. 
+Das sind deine Urdaten. 
+(Die sind nicht normalisiert - die Rechnung besteht aus
+Einzelartikeln in unterschiedlicher Anzahl, sowie der Summe. Das
+sind natürlich unterschiedliche Dinge, die man auseinanderhalten
+muß, weil sonst Murks entsteht, aber das soll uns jetzt weiter
+nicht interessieren, wir wollen ja kein Datenmodell bauen. -)
+
+Nehmen wir also diese Art Rechnungen einfach mal als
+feingranulare Struktur. 
+
+Die kann man nun z.B. so aggregieren: man addiert die
+Gesamtsummen eines Monats, um den Monatsumsatz zu erfassen. Das
+wäre weitaus gröber. Würdest Du jemandem diese Monatsumsatzzahlen
+in die Hand drücken, könnte er nichts weiter erkennen als eben
+die monatlichen Umsatzschwankungen. Das sind grobgranulare Daten.
+
+Er könnte daraus nicht ableiten, wieviele Dosen Tomaten Du
+verkauft hast im Monat. Hierfür müßtest Du wieder deine
+gesammelten Rechnungen, also die Feindaten, konsultieren, und nun
+zusammenzählen, wieviel Dosen Tomaten im Monat Du verkauft hast.
+Das wäre etwas gröber als die Feindaten, aber noch lange nicht so
+grob wie die Monatsumsatzzahl.
+
+Wenn Du nun für jeden Artikel den Monatsumsatz zusammenaddierst,
+und zum Schluß wieder auf die Gesamtsumme kommst, hast Du den
+Monatsumsatz in feinerer Granularität. Pro Tag wäre noch feiner.
+Gesamtumsatz pro 5 Jahren hingegen viel gröber.
+
+
+Und es werden dabei nicht Bits und Bytes unter "Daten"
+verstanden, sondern erhobene Tatbestände.
+
+
+EDV ist dabei, wie gesagt, eigentlich wurscht, bzw. nur der
+Schmierfilm, mit dem sowas halt besonders gut flutscht - von Hand
+Rechnungen zu addieren nach verschiedenen Posten getrennt wäre
+halt arg mühsam, aber mit einer elektronischen Kasse (die einen
+normalisierten Artikelstand enthält) geht das ganz leicht.

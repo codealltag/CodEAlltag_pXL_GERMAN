@@ -1,0 +1,9 @@
+Das(4) glaube ich(1) dir(3) nicht.
+
+Der Genitiv ist außen vor, wenn er wie in deinem Beispiel kein Objekt ist. 
+Und bei den restlichen Satzgliedern kommt es in der unmarkierten 
+Reihenfolge darauf an, ob es sich um Pronomen (4-3) oder Substantive (3-4) 
+handelt.
+
+-- 
+Jan Termöllen

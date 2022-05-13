@@ -1,0 +1,12 @@
+Olivier Deriks aber hob zu reden an und schrieb:
+[Fakultät]
+
+Und wo kriegst du deine O(1)-Tabelle her? ;-)
+Von allgemeinen Optimierungen (einmal berechnen, zignmal nutzen) war ja
+eher nicht die Rede...
+
+
+Mark
+-- 
+       Freiheit stirbt        |       Dekolädle SF&F-Bibliothek:
+            Mit Sicherheit    |       http://eyyriyqq.fnnwn.hc/

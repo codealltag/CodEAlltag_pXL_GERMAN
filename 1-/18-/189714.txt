@@ -1,0 +1,12 @@
+Jedenfalls nicht mit einem Gradzeichen (=B0), sondern mit einem
+Kleinbuchstaben =91o=92 (=BA). Es heißt schließlich =93Numero=94.
+
+Das Zeichen U+2116 ist tatsächlich ein russisches Nummernzeichen =97
+trotz des lateinischen =91N=92. Deshalb ist es auch in kyrillischen
+Zeichensätzen (ISO-8859-5, Windows-1251, ISO-IR-111) enthalten.
+
+--=20
+=A0Solange=A0Tölpel=A0wie=A0Hauke=A0=91?=92=A0Reddmann=A0durchs=A0Usenet=
+=A0stolpern=82
+=A0ist=A0kein=A0Umlaut=A0sicher.=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0

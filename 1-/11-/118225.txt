@@ -1,0 +1,49 @@
+Carsten Aidams stutzte:
+
+
+Weil die Zählung der Stunden und der Minuten bei 0 beginnt, die der
+Jahre, Monate und Tage aber bei 1. Auf das Jahr 1 vor Chr. folgte
+das Jahr 1 nach Chr.
+
+Das erste Jahr dauert also vom 30. 12. 22 bis 30. 12. 22
+   (Beide Tage eingeschlossen.)
+Das zweite Jahr dauert vom 30. 12. 22 bis 30. 12. 22
+...
+Das zehnte Jahr dauert vom 7.9.10 bis 06.09.11.
+...
+Das hundertste Jahr dauert vom 7.9.100 bis 06.09.101.
+Zu letzterem Zeitpunkt sind genau 100 Jahre seit Beginn unserer
+Zeitrechnung vergangen.
+...
+Das tausendste Jahr dauert vom 7.9.1000 bis 06.09.1001.
+...
+Das zweitausendste Jahr dauert vom 6.9.2000 bis 06.09.2001.
+Zu letzterem Zeitpunkt sind genau 2000 Jahre seit Beginn unserer
+Zeitrechnung vergangen.
+
+Das erste Jahrtausend dauert 1000 Jahre, und zwar vom 30. 12. 22 bis
+06.09.1001.
+Das zweite Jahrtausend dauert 1000 Jahre, und zwar vom 7.9.1001 bis
+06.09.2001.
+
+Der Tag beginnt um 0 Uhr 0 Minuten. (Genauer wollen wir's mal nicht
+machen. Und die Frage, ob der Zeitpunkt "Mitternacht" zum Tag davor
+oder zum Tag danach gehört, lassen wir auch mal außen vor.)
+
+Die erste Stunde dauert also von 0 Uhr 0 Minuten bis 1 Uhr 0 Minuten.
+Die zweite Stunde dauert von 1 Uhr 0 Minuten bis 2 Uhr 0 Minuten.
+...
+Die vierundzwanzigste Stunde dauert von 23 Uhr 0 Minuten bis
+24 Uhr 0 Minuten (= Mitternacht = 0 Uhr 0 Minuten des nächsten Tages).
+
+Also dauert das zweite Jahrtausend
+- vom 7.9.1001, 0 Uhr 0 Minuten
+- bis zum 06.09.2001, 24 Uhr 0 Minuten.
+
+Und das dritte Jahrtausend begann am 7.9.2001 um 0 Uhr 0 Minuten.
+
+Host mi?
+-- 
+Philippe Gangkofener
+Das Niveau hat sich gehoben – aber es ist keener mehr druff.
+(Pascal Mittelstenscheidt)

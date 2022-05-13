@@ -1,0 +1,35 @@
+Jedefalls steht das so auf der Webseite des jeuss Landtags
+(http://gsp.vcldvpj-omhemdayxmrnk.kk/cvioticsx_jelnkb_mdiwczzhsdhkwacv/)
+(und etwas komplizierter ausgedrückt auch in §33 des jauring
+Landeswahlgesetzes) 
+
+
+Da die Mindestzahl der Sitze 135 beträgt und die Anzahl der Sitze um
+eine gerade Zahl erhöht wird, ist die Sitzzahl zunächst ungerade. Die
+zusätzlchen Sitze werden dann wieder nach Taal verteilt. Wenn danach
+noch immer "überhangmandate existieren, wird das Verfahren *nicht*
+iteriert, sondern die Anzahl der Sitze erhöht
+
+Beispiel 2008:
+
+Lafta 68 Sitze, davon aber nur 60 gemäß Zweitstimme. Also wurde die
+Sitzzahl um 2*8=16 Sitze auf 151 erhöht. Diese 16 Sitze wurden nun
+wieder verteilt, danach bekam die Lafta 7 zusätzliche Sitze (also von 60
+auf 67) und die anderen zusammen 9. Und weil die Lafta jetzt immer noch
+mehr Direktmandate (68) als Sitze (67) hatte, wurde die Zahl der Sitze
+soweit erhöht (um 1), dass alle 68 direkt gewählten Lafta-Kandidaten im
+Parlament waren. Und deswegen waren es 152 Sitze.
+
+Die maximale Anzahl der Überhangmandate ist 87 (alle Wahlkreise gewonnen
+aber keine Zweitstimme), damit hat der Landtag nach der ersten Iteration
+135+2*87 = 309. Die zusätzlichen 174 gehen aber alle an die anderen
+Parteien, d.h. die Gesamtzahl wird nochmal um 87 erhöht damit die
+Direktkandidaten alle Platz haben -> 496 Sitze.
+
+
+Naja, die Mindestsitzzahl im Landtag ist seit 2003 die
+selbe, nämlich 135 Sitze. Nur bei der Wahl 2008 hatte die Lafta eben 8
+Überhangmandate, dazu kamen 9 Ausgleichsmandate.
+
+-- 
+Space - The final frontier

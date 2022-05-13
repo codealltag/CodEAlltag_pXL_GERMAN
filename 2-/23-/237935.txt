@@ -1,0 +1,10 @@
+Data: the final frontier. These are the tribulations of the project VOLKERT.
+It's five-year mission: to explore strange new requirements, to seek out 
+new consultants, to boldly dimension data which has never been
+dimensioned before.
+
+	hp
+
+
+-- 
+   _  | Pascal C. Doepfner    | Fluch der elektronischen Textverarbeitung:

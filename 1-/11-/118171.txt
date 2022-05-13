@@ -1,0 +1,4 @@
+Am Kulmen's sollen sie ja jetzt ein ε gefunden haben, das so klein
+ist, dass es beim Halbieren negativ wird.
+
+/Ludger

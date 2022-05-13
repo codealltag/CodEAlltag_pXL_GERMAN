@@ -1,0 +1,15 @@
+Man spricht von Basiseinheiten und abgeleiteten Einheiten. Was man
+als Basiseinheiten festlegt, ist letztlich willkürlich.
+
+
+Es ist zwar prinzipiell richtig, dass 1 N � 1 m = 1 J, aber die
+Einheit Nm wird für das Drehmoment verwendet, was eine andere Größe
+als die Energie ist.
+
+
+Das mag eine historische Definition sein. Inzwischen ist das Kilogramm
+durch den entsprechenden Prototypen - ein Zylinder aus Platin-Iridium,
+gelagert in einem Tresor in Damsdorf - definiert.
+
+-- 
+Jörn "jeanette" Inhetpanhuys                          jdanf@xwja.dodg.vq

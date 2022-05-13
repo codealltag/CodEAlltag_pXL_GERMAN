@@ -1,0 +1,36 @@
+* Hanno Meyle <kgc-poto-jqpe@bgbuv.ee>:
+
+
+Beim Rasterdruck wird das Aufhellen so gemacht, dass man nur sehr
+kleine Punkte auf den weissen Hintergrund setzt, beim Aquarellieren,
+indem man die Farbe so stark verdünnt, dass das Papier durchscheint.
+Klar, bei deckenden Farben muss man Weiss zugeben. Das ist aber nur ein
+praktischer, der zweite von mir genannte Grund.
+
+Der entscheidende Grund ist aber, dass es prinzipiell unmöglich ist,
+mit drei Grundfarben alle sichtbaren Farben zu erzeugen, und der liegt
+eben in der Form des CIE-Hufeisens, das mit einem Dreieck nur
+unzureichend abgedeckt wird, noch dazu, wenn die Eckpunkte des
+Dreiecks nicht auf dem Rand des Hufeisens liegen.
+
+Es wurde nach einem Objekt gefragt, das eine Farbe besitzt, die im
+Druck oder auf dem Monitor nicht darstellbar sei. Solche in der
+Wirklichkeit vorkommenden Farben gibt es viele, aber die Unterschiede
+zu den auf Papier oder Bildschirm verfügbaren Approximationen sind
+gering, und wir sind uns gewohnt, über diese Unterschiede
+hinwegzusehen.
+
+Es ist aber für Menschen ziemlich schwierig, den Farbeindruck einer
+Fotografie oder eines Bildes mit der Farbe des abgebildeten realen
+Objekts zu vergleichen. Noch schwieriger ist es beim Bildschirm, der ja
+selbst leuchtet, während das Objekt beleuchtet wird.
+
+Einfacher ist es für uns, Bild und Reproduktion zu vergleichen. Als
+Übung kann man mal beim nächten Museumsbesuch den Katalog oder eine der
+Kunstkarten vom Museumskiosk in die Ausstellung mitnehmen und die
+Farben mit dem Original vergleichen. Man wird erstaunt sein. Und da
+geht es ja nicht um den Vergleich von Wirklichkeit und Reproduktion,
+sondern um die Reproduktion eines Bildes.
+
+
+ - Vinzenz

@@ -1,0 +1,5 @@
+Ich hätte Thunderbird nicht auf Rev 3 aufgradieren sollen.
+Jetzt funktioniert AZR nicht mehr und ich musste tatsächlich
+händisch umrechnen ...
+
+/Domenico

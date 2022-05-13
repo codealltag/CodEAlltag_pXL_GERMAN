@@ -1,0 +1,5 @@
+Normalerweise gilt dort aber -e > -0, -en > -e, so dass die Endungen
+weiterhin verschieden sein sollten.
+
+-- 
+Matthias "rebecca" Zeewoester                          ttlsd@rkxr.rtfo.cv

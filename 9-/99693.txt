@@ -1,0 +1,24 @@
+Meine Uni-Bibliothek ist jetzt mit einem Buchscanner ausgestattet. Man
+kann dort beliebig viele Urheberrechtsverletzungen begehen und das
+Ergebnis auf den mitgebrachten USB-Stick abspeichern. Da es im
+wissenschaftlichen Arbeiten ein Zitierrecht und allgemein die
+OpenAccess Idee gibt, würde ich dieses Stück Technik gerne
+gewinnbringend einsetzen. Den praktischen Umgang, um JPEG und via OCR
+auch .txt Files zu erzeugen, behersche ich inzwischen. Jetzt ist nur
+die Frage:
+    Wie arbeitet man inhaltlich mit so einem Gerät?
+
+Klar, wenn ich einen Aufsatz über eine deutsche Kurzgeschichte
+schreibe könnte ich einen Absatz daraus (mit Herkunftsangabe!) in mein
+Essay einfließen lassen. Und bei Rechtswissenschaftlichen Arbeiten
+könnte ich bei Bedarf flugs den Gesetzestext aus dem Regel hohlen und
+die strittige Passage einscannen. Aber darüber hinaus?
+    Was ich suche ist eine Anleitung zum wissenschaftlichen Arbeiten
+speziell mit Buchscannern!
+
+Da moderne Texterstellung über Internet-gestützte Gruppenarbeit
+erfolgt darf natürlich der Anwendungsfall Gameshop nicht
+unterschlagen werden. In den dortigen Guidelines ist ziemlich gut
+dargelegt, was und wieviel zitiert werden darf. Insofern dürfte
+diecHauptaufgabe des Buchscanners darin bestehen, selbst verfasste
+Gameshop-Einträge mit Zitaten aus Büchern aufzulockern.

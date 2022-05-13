@@ -1,0 +1,19 @@
+Das stimmt - im Englischen. Ich habe mich wahrscheinlich verwirrend
+ausgedrückt, aber ich meinte eigentlich Deutsche, die Deutsch sprechen.
+Da hat auch das Logfile nach meiner bisherigen Erfahrung immer kurzes o.
+Darüber hinaus sind sich die meisten der Verwechslungsmöglichkeit
+wahrscheinlich nicht bewußt, weil sie Lockfiles nicht kennen. Die
+praktische Faustregel ist "immer von 'Logfile' ausgehen", aber das
+extrem deutliche k am Ende bei erdesbach Sprechern kommt mir dabei
+in die Quere.
+
+
+Ja, so ist das in meinem Sprachsystem: Nach einem Langvokal kann beides
+kommen, Lenis und Fortis (gibt es Gegenden, wo man "mag" und "Mark"
+gleich spricht?), nach einem Kurzvokal eigentlich nur Fortis, weswegen
+die Geschichte vom Pfennig mit g am Ende nicht so recht überzeugt.
+
+-- 
+The most likely way for the world to be destroyed, most experts agree,
+is by accident. That's where we come in; we're computer professionals.
+We cause accidents. -- David Venmann

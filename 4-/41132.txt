@@ -1,0 +1,14 @@
+Der "Quantensprung" wird ja nicht kritisiert, weil es sich nicht um 
+Quantensprünge im Wortsinne handelt, sondern weil das *auch* als Metapher 
+daneben ist: ein Quantensprung ist eben einer der *kleinst*möglichen 
+Sprünge, die es überhaupt gibt. Gerade Metaphern aus dem Bereich der 
+Technik oder Physik haben oft solche Probleme. Wenn einer total ausrastet, 
+zu sagen "dann ist bei dem die Sicherung durchgebrannt" ist natürlich 
+Unfug: sie ist wohl nicht durchgebrannt, sonst wäre der Schaden durch den 
+Kurzschluss vermieden worden. Wenn einer nichts kapiert, von "hohem 
+Eingangswiderstand" zu sprechen, ist wohl auch Unfug: nach meinen 
+bescheidenen Kenntnissen kommt das Signal besser und unverfälschter an, 
+wenn der Eingangswiderstand hoch ist.
+
+-- 
+Carlos Paulmaier

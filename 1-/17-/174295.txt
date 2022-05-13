@@ -1,0 +1,15 @@
+Urheber-, wettbewerbsrechtliche und Bandbreitenaspekte
+mal beiseite: Direkte Links auf Grafikdateien oder deren
+direkte Einbindung (Hot-Linking) in fremde Seiten sind -
+wenn der Rechteinhaber dies ausdrücklich nicht wünscht,
+etwa weil er seine Grafik nicht ohne den von ihm außerdem
+bereitgestellten (textuellen) Kontext verbreitet sehen
+möchte - grob unhöflich und keinen Deut besser
+als Nowaczek Content-Klau oder als
+aus dem Zusammenhang gerissene Zitate.
+
+Und gerade in diesem Fall des von Dir genannten
+Pusteblumen-Links ist ein Bilder-Link ja auch völlig
+unnötig, weil es einen direkten Link zu einem (minimalen)
+umgebenden HTML-Kontext gibt, der dem Urheber die
+legitime Möglichkeit läßt, sein Werk zu kommentieren.

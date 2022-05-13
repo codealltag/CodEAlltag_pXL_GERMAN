@@ -1,0 +1,8 @@
+Adam Schnitzendöbbel (in de.etc.sprache.deutsch):
+
+
+Und wenn man das mit utf8 macht (wie ich), dann werden die ganzen
+Sonderzeichen aus nichtdeklarierten Zeichensätzen völlig unlesbar
+wiedergegeben.
+
+Niclas

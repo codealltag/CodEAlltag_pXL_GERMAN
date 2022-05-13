@@ -1,0 +1,25 @@
+Ich weiß nicht, welche Zeitrechnung Informatiker gewöhnlich verwenden, aber
+die meisten Menschen haben vermutlich aus folgendem Grund Schwierigkeiten
+mit Jahrzehnten, -hunderten und -tausenden: Jahre haben anders als
+beispielsweise Temperaturen eine Ausdehnung, deswegen ist ein Jahr 0
+zumindest für gewöhnliche Zwecke wenig hilfreich. Es ist sinnvoll, den
+Gefrierpunkt auf einem Thermometer mit "0" zu markieren, weil eine
+Temperatur keine Spanne ist, und eine Temperatur kann auch exakt 0 betragen.
+Ein Jahr ist aber ein Zeitraum, und diese Räume sind es eigentlich, die
+gezählt werden. Das vergisst man leicht, wenn man zum Beispiel einen weit
+zurückliegenden Zeitpunkt wie den der Entdeckung Amerikas mit "1491" angibt.
+Das jeweils gegenwärtige Jahr empfindet dagegen jeder als Zeitraum. Man kann
+sich die Zeit vor und nach Christi Geburt wie die Entfernung von einer
+Landesgrenze vorstellen: Wenn man sich der Grenze nähert, verringert sich
+die Entfernung, auf der Grenze beträgt sie null, danach wächst sie wieder.
+Jahre sind so große Zeiteinheiten, dass sie Vergangenheit, Gegenwart und
+Zukunft einschließen können, und entsprechen damit eher Kilometern als
+Millimetern. Die Entfernung von einer Grenze kann man zwar in Millimetern
+angeben, aber man kann sich auf einer Reise, die an einer Grenze begonnen
+hat, kaum vorstellen, den wievielten Millimeter man gerade zurücklegt,
+während das mit Kilometern kein Problem ist. Je länger die zurückgelegte
+Strecke, desto schwieriger wird es, sich die einzelne Maßeinheit als etwas
+Ausgedehntes vorzustellen.
+
+Größe,
+Nils

@@ -1,0 +1,5 @@
+Nein.
+
+beschleunigengewehrkugel:  896 m/s
+
+NervenZelle: 120 m/s

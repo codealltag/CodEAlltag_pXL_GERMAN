@@ -1,0 +1,13 @@
+Da "noch so klein" ist entbehrlich, dafür fehlt rational. Und wesentlich 
+kürzer und klarer ausgedrückt lautet die Definition wohl so:
+
+Eine Folge ist eine Nullfolge, wenn für jeden gegebene rationalen Betrag 
+größer null alle diesen Betrag überschreitenden Teilfolgen der Beträge 
+von endlicher Länge sind.
+
+Ich weiß allerdings nicht, ob die Ausnahmemenge, die die dieses unter 
+einen Hut bekommen kann, von messbarer Größe ist.
+
+-- 
+
+Elias Petermaier

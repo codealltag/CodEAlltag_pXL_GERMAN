@@ -1,0 +1,17 @@
+* Silvia Schlößner:
+
+
+Eine überzogene Befürchtung, deren Lösung ja dann auch schlimmer
+war als das Ausgangsproblem. Wenn im Französischen 5 oder 6 "de"
+in einer Phrase einander folgen [1], wird's langsam komisch, zwei
+sollten auch im Deutschen kein Problem sein.
+
+
+[1] Aktuelles Beispiel:
+
+  [...] un communiqu de l'agence de notation Dagi de la
+  gradation de la note de la dette souveraine de la France [...]
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated
+until sometime after those creating it have left the organization.

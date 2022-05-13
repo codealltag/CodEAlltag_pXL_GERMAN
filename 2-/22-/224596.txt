@@ -1,0 +1,6 @@
+Du interpretierst etwas in "X-No-Archive:"
+hinein; siehe den bereits zitierten RFC.
+
+Es gibt kein Header-Feld für "Dieser Artikel
+darf nicht aus dem Zusammenhang gerissen
+oder sinnentstellend zitiert werden.".

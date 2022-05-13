@@ -1,0 +1,16 @@
+Nein, mein Wörterbuch übersetzt "opdatere" (das dänische Wort für
+"update") mit "aufdatieren".
+
+
+Ja, aber so ist es auch mit Server-Software: die Nebenprogramme
+müssen alle geändert werden, wenn man ein anderes OS benutzen
+will.
+
+
+Klar. Deshalb schrieb ich:
+
+  	Teile des Problems können nicht geändert werden.
+
+-- 
+Johann
+http://qioodb.lzfcqzjeta.cp/			Lell: http://oqbnsm.oi/

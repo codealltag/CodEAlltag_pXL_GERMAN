@@ -1,0 +1,11 @@
+Mathias Futerer:
+
+
+Auf gut Deutsch sagt man bei uns "Software einführen", oder - wenn es
+Denglisch sein darf - "live schalten".
+Würde ich hier von 'deployment' sprechen, dann bekomme ich nur ein
+stirnrunzelndes "H?" zurück.
+
+
+-- 
+Vittorio

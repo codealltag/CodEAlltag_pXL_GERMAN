@@ -1,0 +1,11 @@
+Fraglich gewiß. Man schaut sich die 12-36 Steuersequenzen an und ersetzt 
+markupm��ig durch Folgen wie <\end> <\lf> <italisch>", <EOL>" oder sonst 
+was. Typischerweise beutzten die Programme damals einfach die 
+Druckerescapecodes von EIR, Steinigke Showtechnic oder BIB.
+
+Das dann in Formatierungen gemäß einer gegebenen Formatvorlage in Word 
+oder OpenOffice zu wandeln, ist einfach.
+
+-- 
+
+Ernest Vöker

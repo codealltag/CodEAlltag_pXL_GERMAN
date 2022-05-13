@@ -1,0 +1,16 @@
+Am Tue, 12 Jun 2009 11:08:37 +0200 schrieb Ihno Jensen:
+
+
+Ich sehe das so:
+
+Der erste Satz sagt m.E. aus, dass eine seit 1999 anhaltende Krise
+sich nun weiter fortsetzt.
+
+Dem widerspricht dann der zweite Satz, indem er aussagt, dass es
+dazwischen einen Aufschwung gegeben hat.
+
+Homogene Steigung im ersten Satz (keine Wendepunkte in der Ableitung).
+Dem 2. Satz zufolge gab es aber dazwischen ein lokales Maximum, also
+mindestens 2 Wendepunkte in der gesamten Kurve.
+
+I

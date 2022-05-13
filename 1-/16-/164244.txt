@@ -1,0 +1,19 @@
+* David Thömel:
+
+
+OK, dann habe ich Deine Regel zu sehr verallgemeinert. Soll es also nur
+eine Regel für -er-Ableitung von Wörtern auf -ik sein? Das ist mir zu
+eng, um interessant zu sein.
+
+
+Die wichtigen Ausnahmen sind, wie so oft, unter den häufigsten
+Beispielwörtern überhaupt. In meinem Deutsch: Mathematk, Physk, Musk,
+Politk und Kritk.
+
+Anhand Deiner Liste schlage ich eine andere Regel vor: die abgeleiteten
+Wörter auf -iker werden immer auf der drittletzten Silbe betont,
+unabhängig von der Betonung des -ik-Worts.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Tim Arendt

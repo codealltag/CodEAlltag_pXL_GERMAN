@@ -1,0 +1,6 @@
+Eugen Entrup        [Dativ]
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Erwin Amlinger, comp.lang.python

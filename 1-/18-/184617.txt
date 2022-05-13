@@ -1,0 +1,8 @@
+* Valentin A  Oßwalt <lvrluuil5l@dojua.bw>:
+
+
+In der Pufferk�sserpr�fung durchgefallen. In D und CH wären das
+natürlich 12346 und 12347; man verwendet für die
+Hin-und-zurück-Zugpaare aufeinanderfolgende Nummern.
+
+ - Bernhard

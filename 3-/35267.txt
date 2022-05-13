@@ -1,0 +1,11 @@
+* Ulfert Ibrügger <Xycvds@Lvupiljg.bca>:
+
+
+Nein, sie heisst ElectroInk. Es ist zweifellos so, dass etliche
+Suchfunktionen, die man so im Internet findet, einen sehr bescheidenen
+Nutzen haben. Die Blattwerk-Suche gehoert aber nicht zu den schlechteren,
+sie liefert nämlich:
+
+   0 Ergebnisse für electroink gefunden, daher wurde nach elektronik gesucht. 
+
+ - Cornelius

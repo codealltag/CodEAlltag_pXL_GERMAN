@@ -1,0 +1,29 @@
+Das ist einfach: Man denke sich ein Seil, das so lang ist, dass man es
+einmal straff anliegend um den Äquator spannen kann (Unebenheiten der
+Erde jetzt einmal außen vor gelassen). Dann schneidet man es auf und
+fügt 1 m ein -- wieviel steht es jetzt von der Erdkugel ab.
+
+Antwort:
+
+Rf tvyg
+
+H = 2 * cv * e
+
+qnzvg
+
+H1  = (2*cv * e) + 1
+
+Trsentg vfg nore qre Nofgnaq qre orvqra Enqvra,
+
+nyfb e = H / (2* cv),
+
+fb qnff:
+
+e1-e = H1/(2 * cv) - H / (2* cv) = (H1 - H) / (2 * cv)
+
+e1-e = 1 / (2 * cv)
+
+Qnf Frvy fgrug nyfb pn. 15,91 pz iba qre Reqxhtry no
+
+Gruß
+Theodor

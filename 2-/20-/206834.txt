@@ -1,0 +1,9 @@
+* Pascal Weigmann:
+
+
+Bei Quallensalat lege ich Wert auf Quallität.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Victor Müllerstedt
+   in kc.fve.qwlhayct.recovery)

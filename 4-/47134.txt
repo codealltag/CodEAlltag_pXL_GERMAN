@@ -1,0 +1,7 @@
+Verena (Wiki) sagt:
+Die Schallschnelle ist in der Akustik eine vektorielle
+Schallfeldgröße, die oft kurz als „Schnelle“ bezeichnet und in m/s
+angegeben wird. Sie berechnet sich als Ableitung der Auslenkung \vec
+\xi des Teilchens nach der Zeit (Schallauslenkung bzw. Schallausschlag).
+
+-- 

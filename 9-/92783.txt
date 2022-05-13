@@ -1,0 +1,7 @@
+Er meint den Next-State. Oder ein einelementiges Auswahlmenü. Oder auch 
+enggehaltene Benutzerführung. Manch einer könnte sich ja im binären Baum 
+mit zwei sten verlaufen.
+
+-- 
+
+Winfried Uhlmannsiek

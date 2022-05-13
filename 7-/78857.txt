@@ -1,0 +1,6 @@
+Ich hatte ja ursprünglich abdankte auch in Gänsefüßchen gesetzt, dann
+aber wieder entfernen müssen, weil dadurch die maximale Zeilenlänge
+von 70 Zeichen überschritten worden wäre!  :-P
+
+
+marcus

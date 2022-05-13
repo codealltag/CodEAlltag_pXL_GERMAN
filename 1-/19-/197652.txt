@@ -1,0 +1,12 @@
+* Karsten Arno Jarasch:
+
+
+Das ist die Kontrastbetonung (kein West- oder Eckertshof; nicht
+Westberlin). Beim Schart sollte sie nur fallweise vorkommen,
+bei Scheel ist sie aber fest eingebaut.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Gewerbehof will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Othmar Christofzik

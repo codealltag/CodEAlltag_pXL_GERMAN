@@ -1,0 +1,11 @@
+das ist korrekt
+
+das nicht.
+
+Man kann aber auch Quersumme einer Reihe berechnen. Veralgemeinert ist 
+das auch korrekt. Die einzelnen Zahlen in der Reihe sind "Ziffern" einer 
+großen Zahl. Zum Beispiel, wenn man natürliche Zahlen im Bereich 0-65535 
+hat, kann man sie mod 65536 aufsummieren, streng nach der Definition der 
+Quersumme. Wird auch manchmal benutzt zu Sicherung der Datenübertragung.
+
+Jörn

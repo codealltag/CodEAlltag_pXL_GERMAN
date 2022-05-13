@@ -1,0 +1,31 @@
+Hallo Erik,
+
+
+Ich ziehe da Sprachkonstrukte vor, die es ermöglichen, Code auch ohne einen
+einzigen Kommentar so lesbar zu schreiben, daß er jederzeit auch von
+Dritten verstanden wird. Wird sich aber, möglicherweise aufgrund solcher
+besten Praktiken nicht durchsetzen. 
+
+
+Erfahrungsgemäß schaffen diejenigen, die ihren eigenen Code nach ein paar
+Wochen nicht mehr verstehen, es völlig problemlos, an jede Zeile einen
+Kommentar zu schreiben und den Code dennoch direkt nach dem Niederschrieb
+nicht mehr zu verstehen. Während andere zwar nicht jede Zeile kommentieren,
+aber dennoch so, daß auch Dritte auf Anhieb verstehen, was abläuft und sie
+selbst eben auch noch nach Wochen.
+
+Ich habe mich mal durch den Assemblersource eines 6809-Programms wählen
+dürfen. Da war jede Zeile kommentiert. Und zwar nach dem Motto 
+
+push xyz	;xyz[1] auf den Stack
+
+Nein, das war definitiv nicht automatisch generiert, dafür waren die
+Kommentare zu unterschiedlich. Textlich gesehen, die inhaltliche Qualität
+war durchgängig gleich. Sowas kommt raus, wenn man beste Praktiken
+erzwingt.
+
+Gruß Ivo
+
+[1] keine Ahnung mehr, wie da die Register hießen.
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

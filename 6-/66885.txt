@@ -1,0 +1,5 @@
+Du könntest dafür die ISO 15924-Schriftcodes verwenden. Diese sind jeweils 4 
+Buchstaben lang, und lassen sich dadurch gut von ISO 639-Sprachcodes 
+unterscheiden. Der Code für lateinische Schrift ist "Latn".
+
+Grüße, Jens

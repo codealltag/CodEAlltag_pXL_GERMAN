@@ -1,0 +1,28 @@
+Hallo Wolfgang,
+
+
+Kann ich nicht bestätigen. Zumindest das [ɔŋ] wird jetzt korrekt angezeigt.
+Und Festbreite paßt auch. Aber die Schrift sieht - ähm -
+gewöhnungsbedürftig aus. Ich schalte die dann ein, wenn ich mal wieder
+eckige Kästchen sehe.
+
+
+Dann leidet man aber entweder unter einem Mißverständnis oder mangeldenden
+mathematischen Fähigkeiten. Nur Zeichen, die in ISO-dingsbums mit acht Bit
+dargestellt werden (also mit gesetztem Bit 7) werden als zwei Bytes
+kodiert. Alle anderen, also in Deinem Beispiel alle bis auf zwei, werden
+als ein Byte kodiert. Dein Beispiel wird also zwei Byte größer. Nicht
+wirklich berichtenswert, oder?
+
+
+Finde ich grundsätzlich sehr sinnvoll. Schließlich reicht endlich eine
+Kodierung für alle Sprachen. 
+
+
+Aber warum? Der einzige Grund, der dafür spricht, und weshalb ich Lennemann
+auch dahingehend angewiesen habe, sind andere Clients, die zu doof für
+UTF-8 sind.
+
+Gruß Alwin
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

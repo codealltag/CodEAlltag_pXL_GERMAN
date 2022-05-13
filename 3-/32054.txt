@@ -1,0 +1,21 @@
+Ich würde gerne wissen, ob es eine Regel dafür gibt, wo Literaturverweise
+bzw. Fußnotenzeichen stehen sollten.
+
+üblich sind hochgestellte Zahlen, die ohne Leerzeichen an das letzte Wort
+der zu referenzierenden passage angehängt werden.
+
+Am Ende von Sätzen findet sich der Verweis jedoch meist nach dem
+Satzendezeichen.
+
+Ist das als wahlfrei zu sehen oder liegt hir ein kanonisch anerkannter
+Bedeutungsunterschied, wie z.B.: vor dem Satzzeichen: die letzte logische
+Wortgruppe wird referenziert; nach dem Satzzeichen: der gesamte Satz wird
+referenziert?
+
+Der Grund meiner Frage ist folgender: Mein 'translation management system'
+hat Probleme mit den Segmenterkennungsregeln, wenn nach demSatzendezeichen
+noch Zeichen kommen. Ohne Leerzeichen wird dann gar kein Satzende erkannt
+(Punkt im Wort), mit Leerzeichen wird der Index dem nächsten Segment
+zugeordnet. Beides ist schlecht für die Pflege des translation memory.
+
+P.

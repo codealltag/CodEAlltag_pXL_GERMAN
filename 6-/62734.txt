@@ -1,0 +1,31 @@
+In diesem (Sub-)Thread hat Giovanni "Merkmal" und "Ausprägung" eingeführt.
+Das ist Statistiker-Jargon (bzw. Jargon von Berufsgruppen, die gerne
+Statistiken machen: Soziologen, Meinungsforscher, Wirtschaftsforscher,
+...). Darüber wird man in einem allgemeinen Wörterbuch wenig finden und
+in einem, das "Onno" schreibt, schon gar nicht.
+
+
+Auch dort ist das Merkmal die Variable, und die Ausprägungen sind die
+Werte, die diese Variable annehmen kann:
+
+
+Es wird nicht als Merkmal "männlich" oder "weiblich" angegeben, sondern
+"männlich" und "weiblich" sind Ausprägungen des Merkmals "Geschlecht".
+Ebenso ist "grau" Ausprägung des Merkmals "Farbe".
+
+Natürlich kann man auch "graue Farbe" als Merkmal auffassen, die
+Ausprägung wäre aber dann nur mehr "ja" oder "nein". Wenn man nur daran
+interessiert ist, ob etwas grau oder nicht grau ist, dann ist das
+sinnvoll. I.A. aber wird man hier eher Farbe als Merkmal wählen.
+
+
+Theoretisch ja (alles, was man in einem Fragebogen erfassen kann, kann
+ein Merkmal sein), praktisch würde man das wohl in zwei Merkmale
+zerlegen:
+
+    Merkmal: Tätigkeit nach Feierabend
+        Ausprägungen: Musikhören, Lesen, Sport, Lokalbesuch, Fernsehen
+    Merkmal: Grund für diese Tätigkeit:
+        Ausprägungen: Entspannung, Bildung, Fitness, gesellsch. Kontakte
+
+	hp

@@ -1,0 +1,16 @@
+Am Fri, 08. 08. 22 09:26:44 +0100 schrieb Danielle Ullsperger:
+
+
+Seh ich anders, mein Sprachgefühl interpretiert "Enthält keine
+Konservierungsstoffe laut Gesetz", dass nichts drin ist, was im pasenden
+Gesetz als deklarierungspflichtiger Konservierugnsstoff gilt. Es können
+aber sehr wohl nichtdeklarierungspflichtige Konservierungsstoffe enthalten
+sein.
+Im zweiten Fall "Enthält laut Gesetz keine Konservierungsstoffe" müsste es
+ein Gesetz geben, dass alle Konservierungsstoffe im fraglichen Produkt
+verbietet, und die Aussage ist, dass diesem Gesetz Genüge getan wurde. In
+dem Fall ist die Kernaussage ja "Enthält keine Konservierungsstoffe", das
+"laut Gesetz" ist nur Beiwerk, ein kausales Adverbial, anders als im ersten
+Fall, wo es das Objekt näher spezifiziert.
+
+Ciao Ingmar

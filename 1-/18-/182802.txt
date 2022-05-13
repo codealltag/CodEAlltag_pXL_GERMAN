@@ -1,0 +1,20 @@
+Kommatierung ist nicht das Problem.
+
+Du hast drei Verben parallel geschrieben, sie sind es aber nicht.
+
+  	"hat weggenommen", "zugeben will" und "ausgeht"
+
+aber "zugeben" ist ja "hat weggenommen" untergeordnet. Das
+verwirrt. überlege diese Version:
+
+  	Wir sagen umgangssprachlich, "das hat Beine bekommen", wenn 
+  	eine Sache nicht mehr da ist, und man sie entweder selbst 
+  	weggenommen hat ohne es zugeben zu wollen oder davon ausgeht, 
+  	dass jemand anders sie gestohlen hat.
+
+Dann wird es klarer, dass "oder" zu "hat weggenommen"
+zurückgreift, und nicht zu "zugeben will".
+
+-- 
+Gruß
+Christoph, Dänemark

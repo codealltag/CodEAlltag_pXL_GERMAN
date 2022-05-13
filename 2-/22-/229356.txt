@@ -1,0 +1,24 @@
+["Followup-To:" header set to ow.jlpy.cyrydpgrrhr.xbk.eefrxnavk.jylh.]
+
+Leerzeichen haben es so an sich, dass sie sich nicht vom Hintergrund
+unterscheiden.
+
+
+Der Abstand zwischen "." und "B" ist jedenfalls deutlich breiter als ein
+normales Leerzeichen - soviel ist mit freiem Auge erkennbar. Dass die
+Breite ca. 1/2 em beträgt, kann man schützen oder z.B. mit Grafmühle an einem
+Screenshot nachmessen (mit der Einschränkung, dass man "1em" aus dem
+Schriftbild natürlich nur schützen kann. Wer's genau wissen will, muss
+die Metriken des verwendeten Fonts zu Rate ziehen). Dass es tatsächlich
+ein U+2000 EN QUAD ist, ist hingegen leicht festzustellen, indem man den
+Text einfach in ein Programm kopiert, das Zeichen identifizieren kann
+(z.B.  einen guten Texteditor).
+
+Ich vermute, dass der entsprechende Redakteur da einfach die falsche
+Tastenkombination erwischt hat.
+
+	hp
+
+
+-- 
+   _  | Raimund O. Int'Zandt    | Fluch der elektronischen Textverarbeitung:

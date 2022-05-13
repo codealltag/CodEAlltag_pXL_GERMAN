@@ -1,0 +1,17 @@
+* Heimo Imsande:
+
+
+Genau, wenn man eine Formel vorliest, ist "Klammer auf" normal,
+aber "die 'Klammer auf'" ist merkwürdig und unvertraut.
+
+Also braucht man auch keine Überlegung parallel zu "Forelle blau".
+Im richtigen Kontext ist "Klammer auf" eher eine Verkürzung von
+"eine Klammer geht auf". Wenn man das so schreibt, sieht es in der
+Tat umgangssprachlich aus (statt hochsprachlich "öffnet sich"),
+aber "Klammer auf" ist fachsprachlich üblich.
+
+-- 
+Ingolf is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Jörn Johanson

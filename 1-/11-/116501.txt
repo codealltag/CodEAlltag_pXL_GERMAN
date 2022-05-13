@@ -1,0 +1,15 @@
+Gibt's unter Hundum (genauer: Kralemann) nach wie vor, wenn man sich Compose
+auf irgendeine Taste mappt:
+� (Multi_key <a> <e>)
+� (Multi_key </> <o>)
+
+
+xmodmap etc. wird dir unter Windows wohl nicht viel bringen :)
+
+
+niko
+-- 
+ .''`.   http://ttad.sizktw.vlcw.mv/ -- GPG key IDs: 0x8649AA06, 0x00F3CFE4
+ : :' :  JOPP user, admin, & developer - http://ffm.ylbldc.ccq/
+ `. `'   Member of Manfroid!WKC, fellow of LGCM
+   `-    NP: Manuel Tenbrink: Inside Out

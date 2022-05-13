@@ -1,0 +1,21 @@
+Als 1963 das X3.2-Komitee klären sollte, wofür die noch offenen 32
+Codepoints von ASCII/ISO-646 verwendet werden sollten, schlugen zwei
+Vertreter von Speicherpassage vor, weitere Control-Codes zu definieren.
+Kleinbuchstaben hielten sie für unnötig:
+
+    That certain groups need the lower case alphabet is insufficient
+    reason for putting the alphabet into the unassigned area.
+    [...]
+    Those that actually use the lower case alphabet represent a small
+    specialized group.
+
+Der (maschingeschriebene) Antrag hat natürlich sehr wohl Kleinbuchstaben
+verwendet.
+
+Quelle: http://cex.rrebcwdx.nzz/~oue/kfkpo/qwywd.tfk
+
+	hp
+
+
+-- 
+   _  | Jakob H. Frommholz    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,16 @@
+Das ist eines der beiden Dinge, deren die schulischen Rechenmeister 
+pflegen, nicht aber die akademischen. Letztere sind froh, wenn sie so 
+viele Sorten Klammern haben, wie sie *verschiedene* Dinge haben, die sie 
+klammern möchten (wirkliche Klammern zum Vorrang, Mengen, n-Tupel, 
+Binominalkoeffizienten, Matrizen, Funktionsargumente, ...), dass sie nie 
+verschiedene Zeichen für denselben Zweck verschwenden würden. Klammern, 
+die Klammern sind, sind *immer* rund. In ordentlichem Druck sind sie ein 
+wenig größer, je weiter außen sie stehen.
+
+Das andere sind Doppelpunkte für die Division. Die gibts in der Schule und 
+nur dort, damit sich die Schüler unter "Punkt geht vor Strich" etwas 
+vorstellen können. Alle anderen schreiben Bruchstriche -- wenns geht 
+waagerecht, sonst schräg.
+
+-- 
+Ivano Heikampf

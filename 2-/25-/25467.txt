@@ -1,0 +1,9 @@
+Am Bildschrim geht sowas im Pixelraster unter, wenn es
+nicht sowieso durch "Hinting" (einer günstigen Einpassung in eben
+dieses) absichtlich aufgehoben wird.
+
+Eventuell siehst du was auf einem Ausdruck ab 600dpi.
+
+/viktor
+-- 
+http://pqn.zltnoy.vvn/tjfoho/zkwlbvhhq/

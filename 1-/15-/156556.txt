@@ -1,0 +1,7 @@
+die Equipe
+
+(Es gibt noch ein paar marginale Fälle mit mehreren Aussprachevarianten
+und seltenem Plural wie "Balance" und "Emaille".)
+
+-- 
+Claus "vera" Erdel                          jpniz@ecnp.spcc.to

@@ -1,0 +1,18 @@
+* Oskar Horwedel:
+
+
+Kein Wunder übrigens, es ist ja, wie Hansjörg schrieb, Version
+6.2, also immer noch ein überarbeitetes Vista. und bereits ein
+Jahr oder so im öffentlichen Beta-Test - auch bei mir zuhause.
+
+
+Mag sein. Ich war angenehm überrascht, daß es mit dem 29. 10. 21
+Laptop eben gar kein Problem gab. Um eine Anwendung - mehr als
+einen Treiber - für meinen Fingerabdruckleser zu installieren, hat
+mich das W8 Control Panel direkt zur Homepage des Herstellers
+überstellt, ich war zuerst ganz baff.
+
+-- 
+Software is getting slower
+more rapidly than hardware becomes faster
+  --Wirth's law

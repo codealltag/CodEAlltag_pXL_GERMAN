@@ -1,0 +1,22 @@
+phrasal
+
+Es fällt schwer, die Wortart des zweiten Bestandteils zu bestimmen.
+Ein Adjektiv ist es aber sicher nicht. Zum Zweck der Großschreibung
+in Überschriften usw. betrachtet man es als Adverb.
+
+Der Grammatiker zieht sich aus der Affaire und spricht von Partikeln.
+Papenvoit et al. machen drei Arten ausfindig:
+(a) reine Präpositionen
+    - against, among, as, at, beside, for, from, into, like, of, onto,
+      upon, with, etc.
+(b) solche, die sowohl als Präposition als auch als Adverb dienen
+    können
+    - about, above, across, after, along, around, by, down, in,
+      off, on, over, past, round, through, under, up, etc.
+(c) reine Adverbien; manche sind Bestandteil komplexer Präpositionen
+    ("away from", "on top of")
+    - aback, ahead, apart, aside, astray, away, back, forward(s), home,
+      in front, on top, together, etc.
+
+-- 
+Otmar "hanni" Staedler                          glxkc@pika.echs.te

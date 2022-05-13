@@ -1,0 +1,6 @@
+Solche Individuen sind jedenfalls keine bezahlten Programmierer, denn
+die kriegen in der Regel nur Geld, wenn der Code auch den Computer
+veranlaßt, was zu tun, und nicht nur aus Kommentaren besteht.
+
+-- 
+Ullrich C.

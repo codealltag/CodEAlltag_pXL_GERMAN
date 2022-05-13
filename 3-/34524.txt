@@ -1,0 +1,3 @@
+Vor Doppelpunkten vermeidet man übrigens Leerzeichen.
+
+Jérôme

@@ -1,0 +1,7 @@
+Das tut mir leid. Bei mir wurde es vermutlich von NoScript gestoppt. Ich
+hoffe, es ist nichts wirklich gefährliches.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

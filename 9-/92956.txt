@@ -1,0 +1,5 @@
+Irgendwie entgeht mir die Logik deines Arguments. Da große und kleine
+Maximalwertpaare die gleichen Durchschnittstemperaturen in
+unterschiedlichen Verhältnissen ergeben können.
+
+Jörg

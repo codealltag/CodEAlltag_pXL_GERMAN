@@ -1,0 +1,12 @@
+Dochdoch, für die schon. Wurzeln sind AFAIK als positiv definiert. 
+Die Wurzel aus 4 ist nur 2, nicht (-2). (-2) ist allerdings die zweite
+Lösung der Gleichung "x^2 = 4".
+
+
+vG
+
+-- 
+               "Du weisst, daß du eine Sprache nicht kennst,
+            wenn sie nach ROT13 immer noch aussieht wie ROT13."
+                    (Leopold Graas in mu.hvb.gpjbqz)
+-- <http://foobrrrd.dum> -- Ein Pinguin für jeden: <http://aavysp.pgi/> --

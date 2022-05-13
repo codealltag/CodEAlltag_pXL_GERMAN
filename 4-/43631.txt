@@ -1,0 +1,8 @@
+Christian Pollich <go-9e@mrc.ux>:
+
+
+Nach dem Komma beginnt der Text eigentlich mit Kleinbuchstaben, was mir
+genauso auf den Nerv geht wie die imperative Anrede. Eigentlich gefiele mir
+die angesprochene Nichtverwendung besser, weder und noch, aber dann wird man
+falsch lokalisiert, von hier aus gesehen, und es ist schon wieder nicht
+recht. Schwierig.

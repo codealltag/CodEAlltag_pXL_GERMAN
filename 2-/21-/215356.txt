@@ -1,0 +1,14 @@
+Eben.
+
+Ich schrieb: "Ich schlüge an ihrer statt" vor:"
+Und "ihrer" ist ein Possessivpronomen, 3. Person Plural, das auf 
+"Vorschläge" zurückweist.
+
+1. Pers. Sing.: an meiner statt
+2. Pers. Sing.: an deiner statt
+3. Pers. Sing. mask.: an seiner statt
+3. Pers. Sing. fem.: an ihrer statt
+3. Pers. Sing. neut.: an seiner statt
+1. Pers. Plur.: an unserer statt
+2. Pers. Plur.: an eurer statt
+3. Pers. Plur.: an ihrer statt

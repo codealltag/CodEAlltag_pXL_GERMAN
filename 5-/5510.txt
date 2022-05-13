@@ -1,0 +1,6 @@
+Alles ist richtig kodiert, das Problem liegt alleine bei Deinem
+Newsreader, der die dort stehenden Zeichen vermutlich gar nicht anzeigen
+kann.
+
+-- 
+Georg P.

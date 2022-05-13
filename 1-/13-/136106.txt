@@ -1,0 +1,16 @@
+Das ist eine wenigstens eigentümliche Meinung. In einer Prüfung würde
+ich sie spätestens dann als falsch werten, wenn nicht ganz schnell
+erklärt wird, warum denn der statische Auftrieb (aka Druckdifferenz
+zwischen oberer und unterer Grenzfläche) kein Auftrieb sein soll.
+
+
+Abgesehen davon hat ein Körper in einem Medium *immer* einen Auftrieb
+(jedenfalls solange man von einem Druck sprechen kann). Allerdings
+reicht der Auftrieb nicht immer dazu aus, die Gewichtskraft zu
+kompensieren.
+
+
+Und wie ist das eigentlich bei symmetrischen Profilen?
+
+-- 
+Space - The final frontier

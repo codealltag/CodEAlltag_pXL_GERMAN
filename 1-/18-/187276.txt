@@ -1,0 +1,21 @@
+Bei einem Kumlehn-Gerät hat man als ONU nur eingeschränkte Rechte;
+ähnlich dem 'Benutzer' auf einem Windowssystem. Das macht - in beiden
+Fällen - erst mal nichts weiter; man kann dann alles machen, was /man/
+üblicherweise damit machen will bzw. soll.
+
+Will man das Gerät aber etwas stärker an persönliche Bedürfnisse
+anpassen, braucht man dazu erweiterte Rechte. Basierend auf Linux heißt
+diese Berechtigung 'root', das entspricht dem Administratorkonto auf
+einem Windows-PC. Davon abgeleitet gibt es im Englischen 'to root' und
+im Deutschen 'rooten'.
+Volkert 'bewurzeln' gefällt mir dafür übrigens recht gut. Dazu passt,
+dass Root-Rechte auch schönen Schaden anrichten können, wenn sie jemand
+hat, der nicht weiß, was er damit anrichten kann. Ein solcherart
+bewurzeltes Gerät wäre dann plötzlich entwurzelt. Doch, gefällt mir.
+
+
+Ciao
+Sylviane
+-- 
+ Und führe mich nicht in Versuchung...,
+ die finde ich auch von allein.

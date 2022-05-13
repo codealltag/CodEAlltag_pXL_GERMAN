@@ -1,0 +1,14 @@
+* Viktor Peereboom:
+
+
+Ich habe auch mal nachgeschaut, und die Schriften, die ich am meisten
+verwende, haben alle eine "ſs"-Form, und zwar leicht erkennbar. Bei der
+Palatino Linotype ist bei ausreichender Größe das runde s im ß fast
+vollständig erhalten - es sieht tatsächlich wie ein Ligatur aus. Ähnlich
+bei Bookman Old Style. Und meine am häufigsten benutzten
+Festbreitenschriften, die Lucida Console und die Andale Mono, haben
+beide ein sehr rundes ß.
+
+-- 
+GUGELN,  vb., um sich schlagen
+  GRIMM, Deutsches Wörterbuch

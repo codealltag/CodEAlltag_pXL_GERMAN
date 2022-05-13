@@ -1,0 +1,11 @@
+Steffen Philipi (in de.etc.sprache.deutsch):
+
+
+Das Problem bei KNode ist, dass man nicht für das Lesen und das Schreiben
+verschiedene Kodierungen einstellen kann. Ordner weiß ich jetzt nicht.
+
+Was die nicht gestellte Frage angeht, so erscheint mir KNode im Vergleich zu
+den anderen Linux-Readern, die ich ausprobiert habe (Pan, Thunderbird) der
+beste Kompromiss.
+
+Giovanni

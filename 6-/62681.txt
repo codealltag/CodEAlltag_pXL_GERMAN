@@ -1,0 +1,20 @@
+Du machst es Dir aber _sehr_ einfach, mein lieber Hartmut!
+
+   - Hr. Ukert informiert sich vor Hr. Ibler über vor und hinter
+   - Hr. Ukert informiert sich vor Hr. Ibler über hinter und vor
+   - Hr. Ukert informiert sich hinter Hr. Ibler über vor und hinter
+   - Hr. Ukert informiert sich hinter Hr. Ibler über hinter und vor
+   - Hr. Ibler informiert sich vor Hr. Ibler über vor und hinter
+   - Hr. Ibler informiert sich vor Hr. Ibler über hinter und vor
+   - ...
+
+Und da ist die Komplikation der Gleichzeitigkeit und der (partiellen)
+Negation noch nicht einmal andeutungsweise berücksichtigt!  Die genaue
+Reihenfolge ist folglich von zentraler Bedeutung!
+
+
+domenico, indormierend
+
+PS: Selbstverständlich sind "Hr. Ukert informiert sich vor Hr. Ibler"
+    und "Hr. Ibler informiert sich hinter Hr. Ukert" keinesfalls
+    identisch, wenn man die jeweiligen Standpunkte berücksichtigt!

@@ -1,0 +1,18 @@
+Bei uns haben sie auch den zentral gelegenen Briefkasten direkt an unserem 
+Supermarkt entfernt, und noch dazu einen mit Spät- und Sonntagsleerung. Als 
+ich bei unserer Postfiliale dieses Problem ansprach, wurde ich auf den 
+nächstgelegenen Kasten verwiesen, den ich bisher nicht kannte, obwohl ich 
+über sieben Jahre hier wohne. Der befindet sich etwas abseits in einer nur 
+von Klinikmitarbeitern frequentierten Straße, zugegebenermaßen an der 
+Bushaltestelle. Aber ach, Leerung nur einmal am Tag um 18 Uhr, und am 
+Wochenende nur am Samstag um 16 Uhr. Hat man etwas Dringendes, hilft nur 
+noch die Fahrt drei Haltestellen mit der Straßenbahn bis zum Hauptpostamt. 
+Oder Fußweg 20 Minuten.
+Postalischen Spam schicke ich prinzipiell mit dem Vermerk "Empfänger 
+unbekannt" zurück, damit kann man wenigstens ein bissel die Flut reduzieren.
+Den gleichen Trick kann man jetzt übrigens auch mit Musikfabrik Mail 
+versuchen, indem man Spam in den Junkfilter verschiebt, dort kann man jetzt 
+auch alles, was von blockierten Adressen oder Domains kommt, postwendend 
+zurückgehen lassen. Leider sind manche Spammeradressen keine 
+Empfängeradressen oder Betrug, aber bei einem Großteil funktioniert das 
+prima.

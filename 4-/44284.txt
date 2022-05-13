@@ -1,0 +1,16 @@
+Nur für die Akten: im Deutschen unterscheidet man nicht nur regelmäßige
+und unregelmäßige Verben, wobei die ersteren noch in zwei Klassen
+fallen (starke und schwache Verben). "schallen, scholl, geschollen"
+wäre keineswegs unregelmäßig, sondern einfach ein "starkes" Verb
+(Vokalwechsel, kein -te in der Vergangenheit, Partizip mit "ge-en"); 
+"schalten, schaltete, geschaltet" ist ebenfalls kein unregelmäßiges,
+sondern ein schwaches Verb (Vergangenheit mit "-te§, Paritip "ge-t",
+kein Vokalwechsel). "schallen, scholl, geschallt" ist hingegen
+tatsächlich unregelmäßig (sozusagen "halbstark").
+
+Denis
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

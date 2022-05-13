@@ -1,0 +1,5 @@
+Anzeige der Ungeduld bei zu langer Rede ohne Sinn.
+
+-- 
+
+Philippe Oster

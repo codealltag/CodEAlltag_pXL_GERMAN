@@ -1,0 +1,8 @@
+Klingt leider holprig. So nach "schnell Gebrauchsanweisung
+weglegen". Vielleicht könnte man es im Kontext (den Jochen kennt,
+aber wir nicht) auflösen zu kurzen Sätzen, indem man Sinn und
+Verwendung des DVI-Anschlusses beschreibt, aber "digitale
+Schnittstelle für Bildschirme" ist so fürchterlich unspezifisch.
+Ich als Hardwareignorant würde da doch glatt erstmal nach
+"Bildschirmanschlu�" suchen, und dann X Buchsen vorfinden und
+Fragezeichen in den Augen haben.

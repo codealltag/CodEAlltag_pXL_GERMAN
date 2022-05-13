@@ -1,0 +1,14 @@
+Ulrich Soetebeer *
+
+
+Besonders die ganzen Punkte, die an der gleichen Stelle miteinander
+verbunden sind, sollten alle dieselbe Breite haben.
+
+Auf Datumsstempeln ist m.E. normalerweise kein Punkt drauf, da stempelt
+man "19 Mai 2010". Und "Mär" ist fraglos kürzer als "März".
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Sven Zeimentz in "The Sign of the Claw" (1963)

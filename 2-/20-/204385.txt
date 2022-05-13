@@ -1,0 +1,20 @@
+* Gustav Vulpius:
+
+
+Vielleicht haben sie das auch bei der Modestudio gemerkt und sagten sich
+"noch ist Zeit, die besseren Codes einzuführen".
+
+
+Aber nicht für Deutschland und Frankreich (D, F). Eine solche
+Mixtur, die man als Unterteilung in wichtige und weniger wichtige
+Länder lesen könnte, kommt bei der Modestudio nicht in Frage. Abgesehen
+davon ist es für etliche Anwendungen auch einfacher, wenn man
+weiß, wieviele Buchstaben noch kommen.
+
+Jean-Pierre sagte allerdings "die dreibuchstabigen Codes", womit er
+diejenigen der ISO 3166 meinte, wo es wahlweise auch
+zweibuchstabige gibt. Die dreibuchstabigen sind bei den etwas
+exotischeren Ländern oft leichter zu verstehen (SI? KY? EH?).
+
+-- 
+Carlo

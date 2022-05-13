@@ -1,0 +1,33 @@
+Naja, Karten müssen nicht unbedingt genordet sein. Gerade bei länglichen
+Gebieten hat es gewisse Vorteile, wenn die "Längsachse" parallel zu
+einem Rand ausgerichtet ist und nicht irgendwie diagonal
+drinliegt. (Besonders deutlich wird das bei Gebäudeplänen: Die sind
+meistens so gezeichnet, dass die Wände parallel zu den Rändern liegen,
+obwohl das Gebäude meistens nicht exakt in Nord-Süd-Richtung
+ausgerichtet ist)
+
+Mir geht allerdings an meiner Arbeitsstelle so wie Heiko in Zehdenick:
+Die Längsachse des Gebäudes verlaufen fast genau in SW-NO-Richtung (ca.
+41ö, wenn OSM mich nicht belügt). Wenn man aber die Vorderseite des
+Gebäudes meint (die nach NW (19ö) zeigt), dann spricht man von der
+"Nordseite". Das ist zwar geographisch geringfügig weniger falsch als
+"Westseite", aber es irritiert mich trotzdem:
+
+1) ist NW einfach nicht N
+
+2) liegt das Haus an der Ostbahn, und wenn diese Seite N ist, dann führt
+   die Ostbahn nach Süden und nicht nach Osten (und die Südbahn nach
+   Westen).
+
+3) scheint dort am Nachmittag die Sonne in die Büros, auf der
+   angeblichen Südseite hingegen am Vormittag. Für mich steht die Sonne
+   am Vormittag im Osten (nicht im Süden) und am Nachmittag im Westen
+   (nicht im Norden).
+
+Aber was will man machen ...
+
+	hp
+
+
+-- 
+   _  | Charly L. Zeimet    | Deprecating human carelessness and

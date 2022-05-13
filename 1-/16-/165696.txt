@@ -1,0 +1,3 @@
+Geht auch /im/ Hotel:
+Rezeption: "Wo wohnen Sie?"
+Ich: "In X ... Achso! 506."

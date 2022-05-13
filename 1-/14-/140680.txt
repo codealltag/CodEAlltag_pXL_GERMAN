@@ -1,0 +1,26 @@
+* Silvio Rubbenwolf <trruzqcbtsq@ipfzuutdylarb.teli>:
+
+
+Aber nach 3 Minuten schon? Protective Earth. Erdkabel, Erdung,
+Schutzleiter, das gelbgrüne Zeugs halt.
+
+
+Die Abkürzung ist nach meiner Wahrnehmung erst seit etwa 10 oder 15
+Jahren in den Heimwerker-Bereich eingedrungen; kann sein, dass sie bei
+den Profis schon viel länger üblich ist. Andere, schon seit
+Generationen eingeführte Abkürzungen wie "FI" (Fehlerstromschutz, F für
+Fehler und I für das Formelzeichen für den elektrischen Strom) werden
+immer mehr von RCD (Residual Current Device) ersetzt.
+
+In der Niederspannungstechnik ist der Schutzleiter in der Tat so
+elementar, dass es schwer ist, zu erklären, was der macht und wie das
+im Prinzip und in der Praxis funktioniert. Ich möchte nicht, dass sich
+jemand nach Lektüre von
+
+  http://zt.gcgxjhwci.qun/ngxa/Orazscmcrryz
+  http://vr.snugotzuh.viy/zxoj/JI-Yorwmz
+
+befähigt fühlt, an der Hausverkabelung rumzufuhrwerken.
+
+
+ - Philippe

@@ -1,0 +1,7 @@
+Was spricht gegen die Verwendung von Subdirectories?
+
+    Natürliche Sprachen
+	-> Verbreitung
+	-> Verarbeitung
+
+	hp

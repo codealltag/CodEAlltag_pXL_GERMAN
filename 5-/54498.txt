@@ -1,0 +1,19 @@
+Na, hoffentlich nicht nur ein Mathematiker, meiner Meinung nach sollte
+das jeder halbwegs (nicht einmal rundum) gebildete Mensch können.
+
+
+Aber auch das ist mit Sicherheit falsch.
+
+Da Du die Wahrscheinlichkeiten so elegant als Bruchzahlen ausgedrückt
+hast, will ich mal dabei bleiben:
+
+  $ ruby -rRational -e'puts Rational(2,3)**10*Rational(1,4)**5'
+  1/59049
+
+Die tatsächliche Wahrscheinlichkeit sollte etwas höher liegen.
+
+-- 
+If the aeroplane industry had advanced at the same rate as the computer
+industry, today's planes could circumnavigate the world in ten seconds,
+be two inches long, and crash twice a day.
+  Hermann Heuft in alt.usage.english

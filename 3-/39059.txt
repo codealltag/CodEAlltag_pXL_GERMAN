@@ -1,0 +1,4 @@
+So ähnlich wie die UNIX-Fehlermeldung, dass
+links kein Platz mehr auf dem Gerät ist ...
+
+/Timo

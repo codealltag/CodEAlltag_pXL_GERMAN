@@ -1,0 +1,7 @@
+In dieser Richtung ist aber Linux mittlerweile auch unterwegs, wie ich in
+diesem Faden irgendwo gelernt habe: natürlich sollte man zu eigenen
+Sicherheit nicht ständig als root arbeiten, es dem User aber an seinem
+eigenen Rechner zu verbieten, indem man Programme als root
+nur noch via sudo auszuführen erlaubt, geht m.E. zu weit.
+
+/Denis

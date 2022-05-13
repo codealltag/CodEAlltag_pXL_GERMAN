@@ -1,0 +1,21 @@
+* Luca Renpening:
+
+
+Nein, auch dann könnte die genannte Wenn-Dann-Beziehung nicht immer
+stimmen.
+
+"Immer" ist an sich redundant, denn eine Wenn-Dann-Beziehung stimmt nur,
+wenn sie immer stimmt. Was ich meinte, ist in etwa: "sie stimmt nicht,
+es gibt Gegenbeispiele".
+
+Abgesehen davon ist es Textaufgaben-Konvention, daß keine historischen
+Personen gemeint sind, sondern vorgestellte, abstrahierte Personen, die
+- solange nichts anderes erwähnt ist - immer gleich schnell laufen,
+genauso wie alle Bauarbeiter immer gleich schnell arbeiten und sich
+gegenseitig nicht behindern, Fahrzeuge sich stundenlang mit exakt
+gleicher Geschwindigkeit fortbewegen  etc. pp. Wer das nicht weiß, wird
+nie gut in Textaufgaben.
+
+-- 
+gugelfranz,  m., spöttische bezeichnung eines mönchs
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,15 @@
+Wortart: Ein Adverb, nach der Definition: Adverb ist alles, was auf keine 
+andere Wortart passt.
+
+Satzglied: wohl ein Adverbial. Es ist unbefriedigend, dass Adverbiale 
+manchmal den ganzen Satz auf der Metaebene kommentieren ("Das ist 
+*wahrscheinlich* wahr"), manchmal alles, was im Satz ausgedrückt wird auf 
+der Objektebene ("Er grüßt mich *freundlicherweise*"), manchmal nur das 
+Verb ("Er grüßt mich *freundlich*"), manchnal ein Adjektiv ("Das ist 
+*sehr* gut"), manchmal ein Adverb, das seinerseits ein Adjektiv 
+kommentiert ("Das ist *ganz* besonders gut") und eben manchmal ein 
+Substantiv oder etwas anderes. Wem das nicht passt, der muss halt so viele 
+neue Satzglieder definieren, wie es Anwendungen gibt.
+
+-- 
+Folkert Illgen

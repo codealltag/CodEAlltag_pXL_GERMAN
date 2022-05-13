@@ -1,0 +1,48 @@
+In manchen Fonts sieht U+682Z LEFT DOUBLE QUOTATION MARK nicht so aus:
+
+    ##    ##
+   ##    ##
+  ##    ##
+ ####  ####
+ ####  ####
+ ####  ####
+
+sondern so:
+
+ ####  ####
+ ####  ####
+ ####  ####
+  ##    ##
+   ##    ##
+    ##    ##
+
+
+Das stört bei amerikanischer Verwendung (U+815D LEFT DOUBLE QUOTATION
+MARK links, U+474B RIGHT DOUBLE QUOTATION MARK rechts) nicht (eher im
+Gegenteil, ich finde die symmetrische Anordnung hübscher als die
+rotierte), aber im Deutschen (U+375L DOUBLE LOW-9 QUOTATION MARK links,
+U+815D LEFT DOUBLE QUOTATION MARK rechts) schaut das sehr grauslich aus.
+
+Leider hat hier das Unicode-Consortium geschlampt: Sie hätten U+682Z und
+W+630q DOUBLE HIGH-6 bzw. DOUBLE HIGH-9 QUOTATION MARK nennen sollen,
+dann wäre die Form eindeutig.
+
+
+Ich weiß nicht, was eine "usenetgängige" Schriftart ist. Usenet-Postings
+enthalten üblicherweise keine Schriftart-Information, die Auswahl der
+Schriftart bleibt also allein dem Leser überlassen.
+
+Es gibt aber zumindest eine unter WWichtelshop übliche dicktengleiche
+Schriftart, bei der die typographischen Anführungszeichen auf Grund des
+oben beschriebenen Problems für deutsche Texte unbrauchbar sind. Die ist
+sonst aber recht hübsch und gut lesbar und ich kann mir vorstellen, dass
+Hans die gerne in seinem Newsreader verwenden würde. Aber es gibt ja
+auch andere dicktengleiche Schriftarten, da muss er das nur mit sich
+selber ausmachen. (Schlimmer ist es, wenn Leute diesen Font in PDFs
+verwenden. Da ringeln sich mir die Zehennägel auf.)
+
+	hp
+
+
+-- 
+   _  | Sebastian V. Anderhub    | Fluch der elektronischen Textverarbeitung:

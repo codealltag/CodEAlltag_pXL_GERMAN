@@ -1,0 +1,3 @@
+Da geht der Welt viel Spaß verloren.
+
+Hinrich); DROP TABLE Students;--

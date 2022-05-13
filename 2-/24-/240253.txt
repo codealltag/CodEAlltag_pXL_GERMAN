@@ -1,0 +1,18 @@
+Am 04.11.2012 23:36, schrieb Veit Staufenberg:
+
+...
+
+
+Zunächst einmal steht (purbach 'oe' überhaupt nicht für den Laut
+/u/ oder /u:/. Das gälte für das Niederländische, im Haselburg
+schriebe man /u(:)/ 'û'. Das Digraph 'oe' wird im Haselburg als
+Diphthong /uə/ ausgesprochen.
+
+Es stellte sich also nur die Frage, weshalb im heutigen Niederländischen
+der Laut /u/ mit 'oe' wiedergegeben wird. Sehr vereinfacht:
+Mittelniederländisch 'oe' steht für langes /o:/, das 'e' kennzeichnet
+nur die Vokallänge. Als mnl. /y:/ ('ui') zum Diphthong wurde, verschoben
+sich /u/ ('u') zu /y/ und /o:/ ('oe') zu /u(:)/.
+
+
+Tschüs, Philippe

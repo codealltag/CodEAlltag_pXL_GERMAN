@@ -1,0 +1,65 @@
+Finde ich auch. Abziehen würde auch einfacher:
+
+46-   vierundsechzig  weniger
+71    siebzehn
+  1    Übertrag
+--    ergibt
+74    siebenundvierzig
+
+Wie siehts beim Malnehmen aus:
+
+235 * 387
+---------
+   1       Übertrag der Multiplikation
+6651
+    2      Übertrag der Multiplikation
+  9432
+    14     Übertrag der Multiplikation
+   5193
+   1101    Übertrag der Addition
+========
+655614
+
+Schreib sich alles so hin, wie man es spricht. Es ist viel einfacher.
+Insbesondere deckt man beim Schreiben mit dem Stift nicht die Teile
+ab, die man gerade braucht.
+
+
+Man müsste des LSB oder das MSB markieren.
+
+
+Es wird nicht geschehen, keine Angst.
+
+
+Wer sagt, dass es ein Vorteil ist? Es ist einfach eine
+Tatsache.
+
+
+Eindeutig falsch. Die Niederwertigste kann genau so wichtig sein.
+
+Die Reihenfolge der Zahlwörter ergibt sich zwangsläufig aus der
+Reihenfolge von Grundwort und Bestimmungswort der Komposita im
+Germanischen.
+
+
+Nur weil du es so gewohnt bist. Der Araber findet es besser das LSB
+am Anfang einer Zahl zu sehen. Der hätte auch grosse Schwierigkeiten,
+wenn man seine Numerale umdrehen würde.
+
+
+Die Araber haben die Schreibrichtung der Numerale aus dem Indischen
+übernommen. Es passte gut zu ihrer Abfolge von Komposita aus zwei
+Hauptwörtern, die gleich ist wie im Deutschen.
+
+Da es im Arabischen genau passte, ist es logisch, dass es im
+Deutschen (und Englischen, Norwegischen usw.) genau nicht passt.
+(Wegen der umgekehrten Schreibrichtung)
+
+Das allerdings jetzt die Aussprachereihenfolge an die heutige
+Schreibrichtung angepasst werden soll, halte ich für
+falsch, denn die Schreibrichtung hat sich aus einer Verkettung
+mehrerer zufälliger Gegebenheiten entwickelt und ist rein
+willkürlich. Sie sollte nicht auf die Sprache zurückwirken.
+
+Gruss
+Ulf Viehoff

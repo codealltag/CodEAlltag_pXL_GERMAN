@@ -1,0 +1,7 @@
+Root ist der Erzeuger, die Wurzel des Dateibaumes.
+
+
+Ingolf
+-- 
+"There's nothing worse than a sharp picture of a fuzzy concept."
+Gottfried Vidlers

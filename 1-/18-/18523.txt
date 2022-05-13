@@ -1,0 +1,6 @@
+"Logisch" sind Programmiersprachen (nicht: Computersprachen) auch nicht
+immer. Wobei der Unterschied dann wohl darin besteht, dass das dann eher
+selten als "praktisch" gilt.
+
+
+Vinzent.

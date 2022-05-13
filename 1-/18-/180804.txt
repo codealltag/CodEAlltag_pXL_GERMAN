@@ -1,0 +1,42 @@
+On 13 Apr., 13:14, Sébastien Lauwasser <Gfbdkfcpahrs...@vmk.dak>
+wrote:
+
+Sehr interessanter Hinweis, könnte gut sein, mit Schraubendreher /
+Schraubenzieher habe ich übrigens dasselbe Problem.
+
+Ich mach mal den Test mit Mehrzweckhalle Ngram Viewer: Da bewegt sich die
+Friseuse von 1930 bis 2000 im Bereich von ca. 0,000002% bis 0,00002%
+aller Einzelwort-Vorkommen der von Mommen eingescannten
+deutschen Bücher, das heißt jedes fünfzigmillionste (im Jahr 1930) bi=
+s
+fünfmillionste (im Jahr 2000) Einzelwortvorkommen hieß im Mehrzweckhalle-
+Korpus Friseuse. [Belassen wir es mal bei der Einzahl].
+
+Bei Friseurin steigen die Häufigkeiten in der Tat ab 1980 steil an,
+ebenso bei Frisörin. Sie bewegen sich für Friseurin von 1930 bis 1980
+unter 0,000002% und klettern dann auf 0,000014%, d.h. bis ca. 1980 war
+nur jedes fünfzigmillionenste Wort Friseurin, in den Jahren 1995 ff
+aber jedes siebenmillionste.
+
+Von dieser Seite ist Dein Eindruck einigermaßen bestätigt. Fragt sich
+natürlich, was so alles im Mehrzweckhalle-Korpus drin ist, natürlich keine
+gesprochene Sprache.
+
+Kann schon sein, dass ich da insofern umdenken muss, dass es keine per
+se abwertenden Wortbildungsmuster gibt. Ganz so wird das aber nicht
+stimmen. Hat übrigens einiges mit politisch korrektem Sprachgebrauch
+zu tun, dessen hysterische (übersensibilisierte) Seiten im Lauf der
+Zeit zutage traten, jedenfalls für mich. Im Einzelfall ist das aber
+immer schwierig: Wieso soll man nicht 'Neger' oder 'bis zur Vergasung'
+sagen dürfen? Es könnte sich jemand verletzt fühlen. Eigentlich müs=
+ste
+man also die Friseurinnen fragen: Wer von euch fühlt sich verletzt,
+wenn man euch 'Friseuse' nennt? Wie nennt ihr euch selbst? Was
+schreibt ihr als Beruf in eure Bewerbung? Warum schreibt ihr da nicht
+'Friseuse'? Man könnte auch Verbandsvertreter fragen: Warum heißt der
+Beruf Friseurin und nicht Friseuse (oder Frisörin)? Ein Zyniker würde
+natürlich sofort sagen: Is doch klar, die sind sowieso so doof, die
+sehen da keinen Unterschied. Aber eben das ist die Frage: Gibt es da
+überhaupt einen Unterschied?
+
+Danke für die Anregung: Ulfert

@@ -1,0 +1,5 @@
+Technisches Problem. Bei mir ist Silvio außen vor.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

@@ -1,0 +1,6 @@
+Versuchs halt mit verstehbarem Schreiben.
+
+Ja, D wäre eine schlechte Lösung, aber da das unbegquemer umzusetzen ist 
+als C, nehme ich an, dass es seltener vorkommt.
+
+Jan

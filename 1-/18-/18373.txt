@@ -1,0 +1,11 @@
+Falsche Analogie, Gebrauchsanweisungen sind selbst keine Programme, sondern
+Dokumentation zum Programm (welches von der Waschmaschine ausgeführt wird).
+
+Weit passender dürfte der Vergleich mit einem Kochbuch sein. Auch
+die werden nicht für Küchengegenstände geschrieben (welche letztendlich
+nur Werkzeug sind), sondern eben für Menschen. Und üblicherweise sind
+Rezepte auch nicht viel mehr als eine mehr oder weniger formale
+Anweisungsliste, ergo - Programme.
+
+
+Vinzent.

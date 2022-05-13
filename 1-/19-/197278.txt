@@ -1,0 +1,9 @@
+* Mark Eilhard:
+
+
+Für jedes komplexe Problem gibt es eine einfache Lösung - 
+die falsch ist.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

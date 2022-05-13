@@ -1,0 +1,11 @@
+Das habe ich noch nicht erlebt. Ich muss aber erklären, dass ich
+die Zeilen so mache:
+
+[Lerrzeichen][Lerrzeichen][Tab]Bla bla bla ...
+
+Mehrere Newsreaders entfernen nämlich [Tab] wenn es zuerst in
+einer Zeile steht.
+
+-- 
+Gruß
+Noah, Dänemark

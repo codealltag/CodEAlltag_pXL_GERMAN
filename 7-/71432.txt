@@ -1,0 +1,20 @@
+Das ist fast immer aus dem Kontext klar. Die Fälle, wo man tatsächlich
+nicht erkennen kann, ob das ca. 2E2 oder 2E5 ist, sind extrem selten.
+Weder habe ich Probleme, Texte anderer Leute zu verstehen noch haben die
+Probleme mit meinen Texten. Und wenn Du etwas ältere Texte liest
+(50er/60er-Jahre reichen), dann musst Du sowieso erst die verwendete
+Konvention erkennen - so universal war das Komma als Dezimaltrenner im
+Deutschen nämlich nicht immer (Meine Mutter schreibt übrigens auch einen
+Dezimalpunkt - in den 40er-Jahren in der Volksschule so gelernt und
+offensichtlich hat es während ihrer weiteren Schul- und Berufslaufbahn
+nie jemanden gestört).
+
+Ein größeres Problem sind explizit falsche Angaben: Als Einheit ist
+"Millionen Dollar" angegeben, die Zahlen sind aber in Dollar[1]. Da muss
+man dann halt wissen, dass ein Exportvolumen von ca. 10^16 Dollar nicht
+ganz stimmen kann ;-).
+
+	hp
+
+[1] In den offiziellen Veröffentlichungen des Ozenu
+    Energiediensts.

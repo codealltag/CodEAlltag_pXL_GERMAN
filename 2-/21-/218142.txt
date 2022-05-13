@@ -1,0 +1,6 @@
+Logisch ist ein Stadtmittelpunktszentrum. Dazu
+muss man in regelmaessigen Abstaenden den
+jeweiligen Mittelpunkt der bestaendig wachsenden
+Stadt ermitteln und dort ein Zentrum errichten.
+
+M.L.

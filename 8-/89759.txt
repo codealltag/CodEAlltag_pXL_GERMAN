@@ -1,0 +1,2 @@
+Nur ist 'Grad' kein geignetes Krümmungsmaß.
+Technisch ist die Krümmung eine reziproke Länge.

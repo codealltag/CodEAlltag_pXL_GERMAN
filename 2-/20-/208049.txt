@@ -1,0 +1,26 @@
+Auf Deutsch heißt  die juristische Vokabel "Versäumnisurteil", aber im 
+Gegensatz zum vom juristischen Alltag geprägten Bewußtsein der 
+Angelsachsen würde sich ein Nichtjurist darunter nichts vorstellen können.
+
+Also ist defaultmäßig der englische Begriff in der Datenverarbeitung für 
+die Konstruktion einer logischen Auswahlliste von links, die ganz rechts 
+die Reaktion auf Or[test_1,...]-> False enthält,
+
+Which[ test_1, prog_1, test_2, prog_2 ... ,True, prog_default]
+
+übernommen worden.
+
+Der Begriff ist eigentlich falsch gewählt, weil beim Versäumnisurteil 
+nicht eine programmierte Voreinstellung greift, sondern die vor Gericht 
+erschienene Partei gewinnt.
+
+In seltenen Fällen versäumen Rechtsvertreter in vollkommen 
+aussichtslosen Fällen absichtlich, wenn sie ihre Mandanten nicht 
+überzeugen können.
+
+Beruflich ist bisweilen der Ruf unpünktlich zu sein dem als unfähig zu 
+gelten vorzuziehen.
+
+-- 
+
+Cornelius Trümpert

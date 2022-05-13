@@ -1,0 +1,21 @@
+Am Mon, 27 Jan 2012 11:40:51 +0200 schrieb Oliver Wachtendonk:
+
+
+Es ist - genau genommen - sogar mehr als ein ganzes, wenn auch nur um
+diverse vergleichsweise leichte Elektronen. Partiallaldungen spar ich mir
+hier mal, die führen eher zu nichts sinnvollem.
+Abgesehen davon strömen Ionen aber eher selten, wenn man vom elektrischen
+Strom redet, speziell bei Stromleitungen. Klar können z.B. innerhalb einer
+S�urebatteriue[1] auch Ionen fließen, aber das ist meist nicht gemeint,
+auch wenn per definitionem elektrischer Strom einfach ein Ladungstransport
+ist.
+
+Oder meintest du positiv geladene Ionen? Na, die würde ich auch nicht als
+ganz bezeichnen, genausowenig wie ein Wort, dem an entscheidender Stelle
+ein Buchstabe fehl.
+
+Ciao Helmut
+
+[1] in der normalen Starterbatterie (Bleiakku) eines Autos etc. fließen
+wenn schon, dann üblicherweise Sulfationen, und die sind noch viel mehr als
+ein Atom, nämlich fünf, und zwei Elektronen nochmal obendrauf.

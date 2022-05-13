@@ -1,0 +1,9 @@
+Es ist selten, daß die Form des determinierenden Gliedes im Kompositum
+etwas über die Anzahl aussagt. In der Regel ist es ein ungezähltes
+Abstraktum.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Michel Uvermann, _Computer Networks_ (1982), p. 168.

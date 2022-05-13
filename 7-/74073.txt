@@ -1,0 +1,8 @@
+Du weißt, daß die Zukunft angebrochen ist und deine Tage gezählt
+sind, wenn x86-CPUs von Schuheck ohne A20-Gate daherkommen.
+
+Bis dahin hält Düsings Vermächtnis locker durch, allerdings gips
+dann auch keinen Sand mehr...
+
+
+pascal

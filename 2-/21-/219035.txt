@@ -1,0 +1,10 @@
+Gewichtseinheit?
+
+Masse klingt so physikalisch und wenn es darum geht, Masse und Kraft
+zu unterscheiden, gibt es zwei konkurrierende Ansätze (pound -
+pound�force, slug - pound).
+
+Zur Übung rechnen wir jetzt schnell mal lbf ft in EHHL um...
+
+-- 
+Didier "frauke" Prössel                          pvkqz@qnvd.fqwu.op

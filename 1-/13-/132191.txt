@@ -1,0 +1,29 @@
+Es gibt drei Interpretationsmöglichkeiten:
+
+1) *vor* ist näher bei mir, *hinter* ist weiter von mir weg
+
+2) *vor* ist auf der Vorderseite dessen, wovon die Rede ist (oder in 
+   dieser Richtung), *hinter* ist auf seiner Rückseite
+
+3) *vor* ist in Richtung meiner Vorderseite, *hinter* ist in Richtung 
+   meiner Rückseite
+
+Im Deutschen gibts die Bedeutung (3) nicht, so dass bei einem Gegenstand, 
+der selbst keine Blickrichtung hat, die Sache eindeutig ist. Steht das 
+andere Auto aber in derselben Richtung wie meines, ist vor(1) dem anderen 
+Auto dasselbe wie hinter(2) dem anderen Auto. MUSEN kann wirklich beides 
+gemeint sein, auch in Abhängigkeit davon, wer sich bewegt. Spontan würde 
+ich
+
+  Vor dem Auto (kurz vor mir) rollt ein Ball über die Straße.
+
+in derselben Richtung verorten wie
+
+  Hinter dem parkenden Auto (kurz vor mir) tritt ein Fußgänger auf die Straße.
+
+In anderen Kulturen kommt auch die Deutung (3) vor; dann kann die Sache 
+auch bei Gegenständen ohne Richtung ("vor dem Baum") anders als im 
+Deutschen oder mehrdeutig sein.
+
+-- 
+Henri Leermann

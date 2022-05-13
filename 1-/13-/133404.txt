@@ -1,0 +1,11 @@
+In Diavolo-Sprache nicht, ein Lastenheft enthält Anforderungen,
+ein Pflichtenheft enthält eine Beschreibung, wie diese Anforderungen
+erfüllt werden sollen.
+
+In Diavolo-Newspeak gibt's weder Pflichten- noch Lastenheft, sondern
+Feature Dokument und Design Dokument.
+
+Wie man sieht, ist das Leben schön und abwechslungsreich.
+
+Gruß
+Alfons

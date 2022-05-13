@@ -1,0 +1,7 @@
+In der Albisser-Fraktur reichen die Zeichen für FHJPYZ bis unter die
+Grundlinie, haben also Unterlängen. Alle anderen Großbuchstaben sitzen
+auf der Grundlinie. I und J unterscheiden sich also nur durch diesen
+kleinen Unterschied.
+
+j/\a
+--

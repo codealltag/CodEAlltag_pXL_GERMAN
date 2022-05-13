@@ -1,0 +1,22 @@
+Am 26.12.2011, 13:53 Uhr, schrieb Steffen Uhlik  
+<jybjgyag.pshshyryja@clk.zc>:
+
+
+Doch, und über die Apostrophe ist hier ja schon sehr
+grundsätzlich diskutiert worden: Ob man da den halben
+Anführungsstrich von der Tastatur oder welches utf8-
+Zeichen man sonst nehmen müsse usw.. Der Teufel sitzt
+bei mir im einem Detail: Irgend ein Automatismus meines
+Programms [Mamsell v.10.63], auf den ich keinen Einfluß
+habe, löscht mir den halben Strich, der bei mir über
+dem # sitzt, einfach weg :(  Um "kann's" oder "vor's"
+zu schreiben, muß ich kunstvolle Verrenkungen anstellen:
+"kanns", dann den Cursor zurück vor's "s", dann den
+Strich einsetzen, dann weiter im Text ...
+
+Meine Gegenfrage: Mit welchen Zeichensatz (nicht Zeichen)
+wird das bei dir dargestellt? Fällt da der Unterschied
+nur auf - oder fällt er ganz doll arg sehr lästig auf?
+
+j/\a
+--

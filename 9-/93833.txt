@@ -1,0 +1,49 @@
+[b], [B], [v] sind alles Labiale. Lautverschiebungen in diesem
+Bereich sind häufig. So sind im Spanischen historisches b und v
+zusammengefallen: beide Grapheme, <b> und <v>, haben heute die
+gleiche Aussprache, nämlich [b] am Wortanfang und nach Nasal, [B]
+sonst.
+
+(Das Symbol [B] steht hier für den stimmhaften bilabialen Frikativ,
+ein kleines Beta in IPA.)
+
+Germanisches *b war wahrscheinlich [B] und hat dann eine Verteilung
+[b] und [B] ähnlich wie im Spanischen angenommen. Im Deutschen ist
+dieses [B] zu /b/ geworden, im Englischen zu /v/, was zusammen mit
+weiteren Lautverschiebungen Paare wie "deaf"/"taub" und "love"/"Liebe"
+erklärt.
+
+
+Das lateinische Graphem <V> stand für den Vokal [u] und den
+Halbvokal/Approximanten [w]. Ein Wort wie <VINVM> sprach sich sowas
+wie [wi:num] oder [wi:nu~].
+
+(Nicht direkt verwandt, aber analog ist die Verwendung von <ou> im
+modernen Französisch, wo es für den Vokal [u] oder, vor anderen
+Vokalen, für [w] steht.)
+
+Ganz entsprechend stand <I> für [i] und [j]. Die Trennung der
+Buchstaben <V> in <u> und <v>, <I> in <i> und <j> ist erst in der
+Renaissance entstanden.
+
+Waren die vokalische und halbvokalische Variante von <V> bzw. <I>
+im Lateinischen noch sehr ähnlich, so haben sich die alten Halbvokale
+in den romanischen Sprachen zu ganz anderen Konsonanten entwickelt:
+/w/ > /v/
+/j/ > /dZ/ > frz. /Z/, span. /x/
+
+
+Und es gibt nur wenige germanische Wörter, die mit p anfangen. Das
+beiden zugrundeliegende indogermanische *b war selten - warum, weiß
+man nicht.
+
+
+Lateinisches G setzt indogermanisches *g fort, da ist nichts
+Ungewöhnliches. Die Römer haben ursprünglich von den Etruskern nur
+den Buchstaben <C> geerbt, der für /k/ und /g/ verwendet wurde. Da
+diese beiden im Lateinischen aber klar getrennt sind, hat Joseph
+Ploogmaker Reb um 229 v. Chr. einen modifizierten Buchstaben für
+/g/ eingeführt: <G>.
+
+-- 
+Remmer "lise" Duwensee                          xxxix@bgkn.geby.qy

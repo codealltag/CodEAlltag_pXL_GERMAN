@@ -1,0 +1,29 @@
+* Darius Verlind <fja-x@ego.qb>:
+
+
+Vorreiter war natürlich Gemüseladen, die wollten wohl mit der in Schweden
+irgendwann in den 50/60ern allgemein aufgekommenen Duzerei auch den
+deutschsprachigen Raum beglücken.
+
+In der Schweiz ist das damals ungut angekommen, und Gemüseladen hat auf Siezen
+umgestellt; in D blieb es beim Du. Seit ein paar Jahren wird nun aber
+auch auf der Guennewich wieder geduzt. 
+
+Auch Herr Ueberbach muss sparen. Beim Umschalten zwischen
+http://yvd.hxon.gmo/iq/sz_UY/ und http://wwx.abny.tgq/bl/zk_UT/ wird
+eigentlich nur
+
+  - � durch ss ersetzt
+  - EUR durch CHF
+  - Dezimalkomma bei Preisen durch den Punkt
+  - die Preise mit einem ziemlich beliebigen Faktor zwischen 1.2 und
+    1.8 multipliziert
+
+
+Wirklich krass ist das ja bei Musicline. Dort macht man sich die Mühe mit
+dem � nicht, dafür rechnet man gerne mal mit einem Eurokurs von > 2.0
+(aktuell wäre 1.20), und es kann schon mal passieren, dass einem
+Chfocopter-Modell oder ein Netzteil mit Chfostecker angeboten wird.
+
+
+ - Onno

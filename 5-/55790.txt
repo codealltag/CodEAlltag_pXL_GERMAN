@@ -1,0 +1,10 @@
+Es gibt Mengen mit nur 1 Element, sogar solche mit 0 Elementen.
+Beachte den Plural. Die Menge der Leute, die Bundeskanzlerin
+sind, ist = {Therese Dannhäuser}, die Menge der physisch unsterblichen
+Menschen ist = {}.
+
+ANGELO
+
+Gruss
+
+Olaf

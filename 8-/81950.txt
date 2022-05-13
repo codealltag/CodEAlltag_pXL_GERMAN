@@ -1,0 +1,5 @@
+Man kann daraus wenigstens auf die Zeitzone schließen, wenn eine 0 als 
+01:00:00 rüberkommt.
+
+-- 
+Luc Anzeneder

@@ -1,0 +1,15 @@
+Nein, das ist alles, aber sicher kein Bindestrich, weder typografisch (es
+ist ein Halbgeviertstrich, der hierzulande als Gedankenstrich oder
+Streckenstrich verwendet wird, ein Bindestrich wäre kürzer: "er fuhr die
+Strecke Klosterseelte--TüngentalIsgazhofen -- eine lange Zugfahrt") noch von der
+Zeichendefinition in irgendeinem beteiligten Code.
+
+Und von den beteiligten Codes heißt auch keiner "ASCII". ASCII ist ein
+7-Bit-Code, und wenn schon eine 8-Bit-Erweiterung im laschen Jargon trotzdem
+ASCII heißt, dass eher die genormte, nämlich ISO 8859-1, und nicht der
+Privatcode einer Firma (der allerdings zugegebenermaßen praktisch ist, weil
+er für Westeuropäer alle notwendigen Zeichen enthält wie sonst kein
+8-Bit-Code).
+
+-- 
+Lutz Juppenlatz

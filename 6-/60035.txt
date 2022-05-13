@@ -1,0 +1,10 @@
+Der KI-Bereich Sprachsynthese beschäftigt sich damit.  Es gibt
+zwei unterschiedliche Ansätze (vollständige Sprachsynthese vs.
+"intelligentes Zusammenflicken" von gesampleten Sprachschnipseln
+(Logatome, Diphone, usw.)); Klementine Una fördert für "Srachsysthese"
+und "Text-To-Speech" sehr interessante Links zutage, incl. solche
+zu freien Softwarepaketen und Sprachdatenbanken für verschiedene
+Sprachen.  Vielleicht hilft Dir das ja ein wenig weiter?
+
+
+ivo

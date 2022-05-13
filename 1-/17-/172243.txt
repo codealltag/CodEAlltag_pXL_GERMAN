@@ -1,0 +1,31 @@
+* Quirine Godelück:
+
+
+Sind allerdings beide genannt, elidiert wurde nur der gemeinsame Teil
+"angewandt". Ich sah bisher und sehe auch weiterhin in der Zeitform kein
+Problem. 
+
+Der letzte Satz ist natürlich bewußt so formuliert und soll auch ein
+Beispiel sein.
+
+
+Natürlich nicht, aber das scheint nicht dasselbe zu sein, wohl weil hier
+"angewandt werden" und "wurde angewandt", also verschiedene Reihenfolgen
+zugrundeliegen.
+
+
+Die Reihenfolge ist eher ungewöhnlich, ich dachte an Sätze wie: 
+
+  (1a) Pizza wurde und wird in Deutschland als Inbegriff der
+       italienischen Küche angesehen. 
+  (1b) Wir wissen, daß Pizza als Inbegriff der italienischen Küche
+       angesehen wurde und wird.
+  (1c) Wir wissen, daß Pizza als Inbegriff der italienischen Küche
+       angesehen wird und wurde.
+
+Hast Du bei diesen Sätzen Einwände?
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

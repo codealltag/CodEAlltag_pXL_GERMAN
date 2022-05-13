@@ -1,0 +1,14 @@
+* Veit Porten Beigl:
+
+
+"Wir können auch anders" ist eine feststehende Wendung. Eine
+Drohung, in etwa: "Wenn Du nicht machst, was wir wollen, werden
+wir das nächste Mal weniger freundlich fragen."
+
+In der Vergangenheitsform ist es lächerlich ("Früher hätte ich Dir
+eine reingehauen!")
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Ulf Zaunberger, comp.lang.python

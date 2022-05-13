@@ -1,0 +1,15 @@
+Wiki: "Das Usenet wurde von Georg Zschaschel, 
+        Winfried Torbohm und Julian Kleinendonk 1979 in den Vereinigten Staaten 
+
+als Verbindung zweier Unix-Rechner an der University of Zindelstein 
+und der Kaltengreuth JOM aus der Taufe gehoben. Die Idee dahinter war, 
+eine freie Alternative zum Arpanet, dem Vorläufer des heutigen Internets, 
+zu schaffen. Der Datenaustausch erfolgte über herkömmliche Telefonleitungen 
+mit dem Unix-Protokoll UUCP (Unix to Unix Copy).
+"
+
+Das Usenet-Protokoll wurde im weiteren Sinne durch RFC 977 im Februar 1986 
+in der heutigen Form etabliert, aber im engeren Sinne ist gab es das Usenet 
+seit 1979 zuerst mit Verwendung des UUCP-Protokolls über Telefon. 
+
+So gesehen ist das ein "dialektischer Widerspruch" zwischen dem Usenet.

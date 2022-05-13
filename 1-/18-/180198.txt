@@ -1,0 +1,18 @@
+Am Wed, 15 Nov 2010 10:22:08 +0200 schrieb Edgar Eulenpesch:
+
+
+Ja sicher.
+Tiefenstruktur (hier sogar nicht ungrammatisch): Das ist falsch und das
+bleibt falsch.
+Schema: A ist B und C bleibt D.
+
+A ist B. = Hauptsatz 1
+C bleibt D. = Hauptsatz 2
+und = satzverbindende Konjunktion
+
+Anwendbare Transformationsregeln:
+Wenn A = C ==> C ist tilgbar.
+Wenn B = D ==> B ist tilgbar.
+
+Schönen Gruß
+Tino

@@ -1,0 +1,12 @@
+Interessant ist aber nicht, wieviele Autos auf eine gegebene Strecke
+passen, sondern wieviele in gegebener Zeit einen bestimmten Punkt
+passieren können. Und das wäre *theoretisch* vollkommen von der
+Geschwindigkeit unabhängig, weil der vorgeschriebene Sicherheitsabstand
+(zumindest nach den Faustregeln, die wir seinerzeit in der Fahrschule
+gelernt haben) als Strecke proportional zur Geschwindigkeit bzw. als
+Zeit konstant ist.
+
+In der Praxis fahren natürlich nicht alle mit konstantem Abstand
+hintereinander her. 
+
+	hp

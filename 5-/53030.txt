@@ -1,0 +1,27 @@
+Eine häufig funktionierende Regel ist "trennbar, wenn der abgetrennte
+Teil betont ist und die Zusammensetzung dort erfolgt ist". Das gilt 
+eigentlich ziemlich zuverlässig, solange der getrennte Teil nicht hinter 
+das Verb gerät; also wird trennbar gebildet:
+
+   bereitzustellen,      nicht zu bereitstellen
+   hineinzugehen,        nicht zu hineingehen
+ * ehezubrechen,         nicht zu ehebrechen
+ * misszuverstehen,      nicht zu missverstehen
+ * überzuinterpretieren, nicht zu überinterpretieren
+
+Bei manchen Wörtern (nämlich denen mit *) weigert sich aber das 
+Sprechempfinden, den getrennten Teil hinter das Verb zu stellen. Sie sind 
+also nur in den Formen trennbar, in denen die Reihenfolge bestehenbleibt.
+
+Das mit dem "eigenen Wort" ist teilweise tautologisch: ist es trennbar, dann
+tritt es als eigenes Wort auf, woraus folgt, dass es trennbar ist. "herein"
+ist zum Beispiel kein eigenes Wort, sondern tritt in vollständigen Sätzen nur
+als abgetrennter Teil eines trennbaren zusammengesetzten Verbs auf.
+
+Wenn man versucht, allgemeingültige Regeln aufzustellen, muss man auch auf die
+Fälle achten, wo das Wort zuerst an einer Stelle zusammengesetzt wurde:
+ohrfeigen, brandschatzen und frühstücken werden nicht getrennt, obwohl ihr
+erster Bestandteil ein eigenes Wort ist. 
+
+-- 
+Dirk Goekelmann

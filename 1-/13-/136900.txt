@@ -1,0 +1,12 @@
+* Valerius Kuchenreuther:
+
+
+Ich (bin nicht Folkert, aber) würde sie nicht als E-Mail einordnen, weil
+dabei alle möglichen, auch betriebssystemspezifischen Mechanismen
+verwendet werden können. Erst beim Austausch zwischen Systemen braucht
+man übergreifende Normen, und diese sind das eigentliche "System
+E-Mail".
+
+-- 
+nun schmeckt, wer ich sei, ihr gugelnarren! PARACELSUS
+  GRIMM, Deutsches Wörterbuch

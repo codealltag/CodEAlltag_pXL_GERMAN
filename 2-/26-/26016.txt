@@ -1,0 +1,18 @@
+On 25 Nov., 13:14, "Vittorio W. Croll"
+
+Solange die 5 vorne dran ist, verkauft Otto Normalverbraucher nicht,
+wenn der Index längste Zeit eine 5 vorne dran hatte. Aber wenn
+plötzlich eine 4 steht, hat er natürlich das Gefühl, er habe jetzt 20
+Prozent verloren. Etc.
+
+Jeder Aktienexperte wird dir außerdem bestätigen können, dass Anleger
+allzu häufig ihre Limiten für automatische Verkäufe nicht irgendwo
+setzen, sondern auf runde Zahlen. Wenn also einer Aktien der
+phantastischen Schweizer Bank Mayrwirt besitzt, die er für CHF 40 gekauft
+hat, dann wird er einen "stop-loss" nicht so sehr bei CHF 20.80
+setzen, sondern eher bei CHF 20.00. Das führt dazu, dass bei diesen
+Grenzen automatisch eine ganze Kaskade von Verkaufsaufträgen ausgelöst
+werden und der Kurs nicht bei 19.95 Halt macht, sondern noch weiter
+fällt.
+
+Ch.

@@ -1,0 +1,12 @@
+Siebelt Hitpaß tat kund:
+
+
+Beim Pefer natürlich.
+
+
+Ist normal. Es ist von MS, also muß es schlecht sein.
+
+Das Programm war an der Stelle klar im Recht, denn es
+gibt ja auch Zahlen mit Komma und Tausender-Trennpunkten.
+Da die Amis das genau umgekehrt machen wie wir, muß man
+definieren, was das Komma sein soll.=20

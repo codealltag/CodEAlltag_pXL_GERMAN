@@ -1,0 +1,13 @@
+Das hat man früher durchaus getan - hatten zwei Mannschchaften am
+Saisonende gleiche Punktzahl, entschied das Verhältnis
+geschossene:eingefangene Tore (in Summe; daher kam der Fall einer Division
+durch Null in der Realität nicht vor) über den Tabellenplatz. Heute ist es
+meines Wissens (jedenfalls hier zu Liga) die Differen z und nicht mehr das
+Verhältnis. 
+
+Sascha 
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

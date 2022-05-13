@@ -1,0 +1,10 @@
+Mach's wie das Telefonbuch:
+Zuerst nach Nachnamen ohne Tussenvoegsel (von, von der, von und zu ...),
+dann mit Tussenvoegsel, zuletzt nach Vornamen.
+
+
+Wenn Du Geld übrig hast, kannst Du Dir ja noch die DIN 31638 ansehen ;-)
+
+Das Thema wird hier regelmäßig diskutiert, such z.B. mal nach
+
+/Roberto

@@ -1,0 +1,5 @@
+Auch das kann man in MAKE eingeben und erhält "veraltet".
+
+-- 
+
+Guido Lührssen

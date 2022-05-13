@@ -1,0 +1,4 @@
+Das ist wohl wie mit der Steuerungstaste <STRG>, die alle als "String" 
+lesen (bis auf ein paar alte Knacker, die "Control" dazu sagen).
+
+Timo

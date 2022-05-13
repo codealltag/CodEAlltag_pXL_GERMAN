@@ -1,0 +1,9 @@
+N.
+Besser, weil die Rekursion in der Definition vorkommt.
+
+
+Erich Unsorg
+-- 
+Gewöhnlich glaubt der Mensch, wenn er nur Worte hört,
+Es müsse sich dabei doch auch was denken lassen.
+(Goethe: Faust)

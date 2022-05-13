@@ -1,0 +1,56 @@
+Am Sat, 29 Mai 2012 20:19:30 +0100 schrieb Giuseppe:
+
+
+Das kommt darauf an.
+
+Antwort 1: Es gibt 26 Buchstaben.
+abcdefghijklmnopqrstuvwxyz
+
+Diese Antwort ist eigentlich ausreichend. Dummerweise genügt es jedoch
+nicht, ausschließlich diese 26 Buchstaben zu kennen, wenn man einen
+deutschsprachigen Text lesen will, denn in nahezu allen Texten kommen auch
+Großbuchstaben vor. (Nur Anhänger der radikalen Kleinschreibung verwenden
+ausschließlich Kleinbuchstaben). Daher
+
+Antwort 2: Es gibt 52 Buchstaben.
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Das reicht aber immer noch nicht aus, denn im Deutschen werden außer diesen
+Buchstaben sogenannte Umlaute verwendet. Somit kommen wir zur
+
+Antwort 3: Es gibt 58 Buchstaben.
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ äöü ÄÖÜ
+
+Für einen in der Schweiz gedruckten Text genügt das in der Regel. In
+Deutschland und Österreich gibt es jedoch mit dem ß einen weiteren
+Buchstaben, wobei es sich eigentlich um eine Ligatur handelt. (Das große ß
+lasse ich mal außen vor.) Es folgt
+
+Antwort 4: Es gibt 59 Buchstaben.
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ äöü ÄÖÜ ß
+
+Zumindest in einigen Büchern, die kurz nach dem zweiten Weltkrieg
+erschienen sind, taucht jedoch ein weiterer Buchstabe auf, der grob
+betrachtet Ähnlichkeit mit dem kleinen f aufweist. Es handelt sich dabei um
+das lange s (ſ). Das bringt uns zur
+
+Antwort 5: Es gibt 60 Buchstaben.
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ äöü ÄÖÜ ßſ
+
+Aber auch das genügt nicht unbedingt. Sehr viele ältere deutschsprachige
+Bücher, Zeitungen und Zeitschriften wurden in einer Frakturschriftart
+gedruckt. Die Buchstaben dieser Schriftarten unterscheiden sich zum Teil
+erheblich von den Buchstaben des lateinischen Alphabets. Ich kann hier die
+Frakturbuchstaben nicht darstellen, daher musst du mir jetzt einfach
+glauben, dass noch einmal 60 Buchstaben dazukommen, die man kennen muss, um
+auch ältere deutschsprachige Bücher zu lesen. Somit folgt
+
+Antwort 6: Es gibt 120 Buchstaben.
+
+Ich lasse jetzt mal die Buchstaben, die allein in Fremdwörtern auftauchen
+(z. B. Café, Crème, Ahubun; Złoty; ...), außer Acht. Sie können zwar in
+deutschsprachigen Texten auftauchen, aber sie gehören nicht zur deutschen
+Sprache und sind somit auch nicht Bestandteil des deutschen Alfabets.
+
+Gruß
+Elmar.

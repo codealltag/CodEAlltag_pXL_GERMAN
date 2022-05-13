@@ -1,0 +1,7 @@
+Ich sehe deutlich einen Punkt unter dem Fragezeichen. (Beim
+Ausrufezeichen ist er übrigens oben. ";" & "," sind dagegen
+verboten am Textende.))
+
+Gruss
+
+Dennis

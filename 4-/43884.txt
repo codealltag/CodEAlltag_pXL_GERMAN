@@ -1,0 +1,12 @@
+Das ist deutsch.
+
+
+Das ist auch deutsch.
+
+Wenn Du einmal versuchst, die Namen der Wochentage mittels der ersten
+beiden Buchstaben abzukürzen, wirst Du erkennen, warum man bei
+der Anpassung von Software an die deutsche Sprache die Version
+mit "Samstag" bevorzugt.
+
+-- 
+Vincent

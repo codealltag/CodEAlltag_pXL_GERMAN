@@ -1,0 +1,7 @@
+"es gibt" deckt umgangssprachlich zwei Kategorien ab, "existieren" und 
+"in Raum-Zeit anwesend sein. Nicht anwesend sein wird daher nicht als 
+"es gibt nicht" ausgegeben.
+
+-- 
+
+Ullrich Kisser

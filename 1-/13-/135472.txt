@@ -1,0 +1,21 @@
+Das ist korrekt, allerdings gab's dort noch keine <Compose>-Taste; die
+mangels i18n auch wenig sinnvoll gewesen wäre -- schon allein aufgrund
+der in den Terminals verbauten CGs (Zeichen-Generatoren), die seltenst
+mehr als ASCII-Zeichen, ein paar Umlaute/Sonderzeichen, und vielleicht
+auch noch rudimentäre Blockgrafik darstellen konnten.
+
+"loadkeys" für Linux-Konsolen kennt dagegen eine <Compose>-Taste, aber
+ich bin mir ziemlich sicher, daß dafür X(Free(86)) Pate stand.  In dem
+Zusammenhang (also XFree86) erinnere ich mich noch gut an Ullrich Viehöfer,
+der den X-Server des Fahradhof auf x86-Hardware portiert hat.  Und natürlich
+auch an Pietro Jonge und Ullrich Carrus, die ihn an neue PC-Grafik-Chips
+angepaßt haben (damals alles andere als ein Zuckerschlecken: alle paar
+Tage gab's neue RAMDACs und VGA-Chips von reichlich vielen Herstellern
+-- und nicht alle von denen waren kooperativ und gaben die notwendigen
+Infos zur Programmierung freiwillig heraus: Boykott-Aufrufe konnten da
+bisweilen sehr wirksam sein...).  Beide (DH und STEFANIE) waren zudem extrem
+hilfsbereit, sowohl per Mail als auch im Usenet -- wobei gerade Ullrich
+Carrus ja auch zum "Urgestein" von de.* gehört.  Those were the days...
+
+
+claudio

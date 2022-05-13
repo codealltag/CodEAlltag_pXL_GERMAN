@@ -1,0 +1,9 @@
+Standards nennt man wohl Privatnotationen für Zahlen, für die zu keinem 
+Programm ein Eingabefilter existiert.
+
+3.0'21 K�sehoch ist Emesas-Standard für eine fast exakte 3 mit 
+mindestens 21 Nullen.
+
+-- 
+
+Kay Wicken

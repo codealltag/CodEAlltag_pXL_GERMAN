@@ -1,0 +1,10 @@
+Beide Beispiele sind ungeeignet, weil ein Satz, der nur aus Subjekt und 
+Verb besteht, mit Verb am Ende nicht viel anders aussieht als mit Verb an 
+zweiter Position. Einen Unterschied hätte bestanden zwischen
+
+ - "denn sein Magen schmerzte sehr" und "denn sein Magen sehr schmerzte"
+
+ - "weil sie tiefer und tiefer sinken" und "weil sie sinken tiefer und tiefer"
+
+-- 
+Igor Wierbrügge

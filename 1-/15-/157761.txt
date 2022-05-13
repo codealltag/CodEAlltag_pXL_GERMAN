@@ -1,0 +1,18 @@
+Ah, das ist es also.
+
+Aber Word ist gerade dafür ein denkbar ungeeignetes Werkzeug, es ist
+nicht rekursiv. Ich habe nämlich letztens festgestellt, daß es nicht
+einmal Fußnoten zu Fußnoten[1] erstellen kann. Und die zählten doch
+mindestens doppelt, oder?
+
+
+Vinzent.
+
+[1] Was ich eigentlich gern mache.[3]
+[2] So, wie beispielhaft hier.[1]
+[3] Siehe [2].
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+   --  Claus Freißlichs

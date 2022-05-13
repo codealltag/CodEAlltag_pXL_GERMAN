@@ -1,0 +1,42 @@
+* Nikolaus Petschner:
+
+
+Mir stellt sich eher die Frage: warum soll man sie dazuzählen?
+Gibt es dafür auch sachliche Gründe oder nur Autoritäten? [1] 
+
+Die Klasse der schwach deklinierten Maskulina fällt intuitiv aus
+dem üblichen Schema völlig heraus, weil sich die Flexion im
+Singular von allen anderen Klassen unterscheidet. Die Feminina mit
+-(e)n-Plural sind dagegen im Singular völlig normal. Für mein
+Gefühl ähnelt die Flexion von "die Frau" eher der von "der See"
+(Singular normal, Plural auf -n) als der von "der Löwe".
+
+Systematischer ausgedrückt: Die Flexionsklasse eines Substantivs
+wird durch den Genitiv und den Plural meist ausreichend
+charakterisiert. Warum also eine Spezialbezeichnung gerade für die
+*zwei* Klassen -en/-en und -/-en, unter Ausschluß von -s/-en? [2]
+Weil die Menge aller Flexionsendungen die gleiche ist, abgesehen
+von ihrer Verteilung? Das überzeugt mich nicht recht, denn die
+Verteilung der Formen im Schema halte ich für sehr wichtig.
+
+Warum nennt man -s/-en noch nicht einmal "gemischt", sondern
+allenfalls -/-en? Das scheint mir alles eher historische
+Gewohnheit als Logik. Vielleicht steckt dahinter ja ein diachrones
+Phänomen, aber das ist m.E. synchron nicht erkennbar.
+
+Und die obige Beobachtung mit dem Fugenelement -s bestätigt mich
+weiter darin, daß die Unterschiede zwischen "schwachen Maskulina"
+und "schwachen Feminina" größer sind als die Gemeinsamkeiten.
+
+[1] Man beachte, daß der Grad der Autorität von Schmuckwerk und Afubu
+in der Grammatik weitaus niedriger anzusetzen ist als in der
+Rechtschreibung. Mag jemand mal nachsehen, was andere, moderne
+Grammatiken schreiben?
+
+[2] Canoo nennt die Flexionsklassen nur so, die Erläuterungen zur
+"schwachen" und "gemischten" Deklination dort haben eher den
+Charakter "historische Terminologie".
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Pierre Brühl

@@ -1,0 +1,4 @@
+Stimmt, da brauchs keine Prozedur. (Ich bin aber Anhänger des 
+lazy-Deklarierens, bei der ersten Verwendung.)
+
+Alex

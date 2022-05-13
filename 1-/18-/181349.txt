@@ -1,0 +1,6 @@
+Theo Pabst tat kund:
+
+
+Es reicht, alle Primwörter zu multiplizieren
+und 1 zu addieren. Dann entsteht ein neues
+Primwort, das größer als das größte ist.

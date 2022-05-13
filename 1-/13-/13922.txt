@@ -1,0 +1,5 @@
+Emanuel Vollenweider (in de.etc.sprache.deutsch):
+
+
+Telefax = Fernkopierer
+Telex = Fernschreiber

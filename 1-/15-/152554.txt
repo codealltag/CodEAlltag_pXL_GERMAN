@@ -1,0 +1,17 @@
+[...]
+
+
+Nicht nur das. Mich irritiert auch, dass hier im gleichen Satz von
+"diesen Unregelmäßigkeiten" und "diesen Fehlern" die Rede ist, und dass
+die Fehler nur gemeldet werden sollen, wenn die Unregelmäßigkeiten
+gehäuft auftreten. Entweder die Unregelmäßigkeiten sind die Fehler, dann
+muss man sie nur einfach erwähnen: ... dass diese Unregelmäßigkeiten nur
+bei gehäuftem Auftreten gemeldet werden" oder eventuell "... nur bei
+gehäuftem Auftreten als Fehler gemeldet werden". Oder sie haben nichts
+miteinander zu tun, dann fragt man sich, warum ein Fehler nicht gemeldet
+werden soll, wenn irgendwelche Unregelmäßigkeiten nicht gehäuft
+auftreten. Aber letzteres könnte eine Folge davon sein, dass der Satz
+aus dem Zusammenhang gerissen ist. Vielleicht ist das ganz klar, wenn
+man weiß, worum es geht.
+
+	hp

@@ -1,0 +1,22 @@
+Mehrere Aufzählungen mit jeweils einem Glied? Als Informatiker habe ich
+da nichts dagegen, aber MUSEN würde lieber eine Aufzählung mit mehreren
+Gliedern sehen.
+
+
+Ah. Irgendwie hatte ich geistig "nach dem letzten Glied der
+Aufz�hling" zu "vor dem letzten Glied der Aufz�hling" gemacht. D.h., ich
+meinte, Du wolltest darauf hinaus, dass vor dem "und" kein Komma steht,
+wenn das "und" das letzte Glied einer Aufzählung einleitet.
+
+Da Aufzählungen der Form "A, B und C" sehr häufig sind, habe ich
+allerdings ein Problem damit, eine Aufzählung "A, B" zu erkennen, wenn
+es unmittelbar danach mit "und" weitergeht. Hier müsste ein "und" vor B
+stehen, um das Ende der Aufzählung anzukündigen. Aber "Wir sind ein
+Restaurant mit Sitz in Frickenweiler und am nördlichen Rand des Ruhrgebiets"
+klingt eher als ob "wir" zwei Restaurants wären. 
+
+
+Ich würde das auch nicht als Aufzählung sehen, sondern "im Herzen des
+Jechtenham" als Apposition.
+
+	hp

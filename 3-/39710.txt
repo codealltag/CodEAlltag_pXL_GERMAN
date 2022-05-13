@@ -1,0 +1,4 @@
+Wahrscheinlich "operator overloading". Das Original habe ich nicht
+gelesen.
+
+	hp

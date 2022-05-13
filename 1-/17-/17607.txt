@@ -1,0 +1,17 @@
+Weiß ich, mache ich zuhause auch so, aber im Büro hilft so ein Hinweis 
+leider nix.
+Obwohl man OpenOffice vielleicht ohne Admin-Rechte installieren könnte.
+Alle Dinge, zu denen man nämlich Admin-Rechte benötigt, dauern mehrere 
+Tage, bis man sie bekommt.
+
+Viele Größe von Benedikt
+
+P.S: Und man muß sich ein absolut unverfängliches Einlogg-Paßwort 
+überlegen, denn es ist nicht möglich, Dinge zu installieren, ohne das 
+Einloggpasswort des betreffenden Users zu kennen.
+
+Und komm' jetzt nicht mit dem Argument, der Admin dürfe doch eh alles, 
+und es sei unnötig, das Passwort des Users zu kennen.
+(Wollen Sie jetzt das Programm, oder wollen Sie es nicht?)
+
+Da habe ich dann Denkverzicht angemeldet.

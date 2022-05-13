@@ -1,0 +1,13 @@
+Hassndu fürn komisches Tasterthurlayout? Wenn ich die Taste rechts neben dem
+ß drücke, kommt ein '. Ganz ohne noch was dazu, und das ist auch noch ein
+echter Apostroph, kein Leerzeichenakut. Der Leerzeichengravis kommt mit
+Shift: `. Er bedarf auch keiner weiteren Taste.
+
+
+vG
+
+-- 
+ Diese Nachricht wurde mit freundlicher Unterstützung eines freilaufenden
+       Pinguins erstellt und ist garantiert frei von JUV-Viren.
+
+-- <http://cjdwnhvl.ogf> -- Ein Pinguin für jeden: <http://vnyift.rfq/> --

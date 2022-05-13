@@ -1,0 +1,13 @@
+On Sat, 23 Jan 2010 11:10:05 +0200, Kaspar Westermeyr Claaßen
+
+Das kannte ich nicht. Ich verbinde mit programmieren nur einen
+Vorgang: Ich schreibe eine Anweisung auf, die dann abläuft, wenn sie
+aufgerufen wird.
+
+10 cls
+run
+
+
+-- 
+Viele Größe
+Cédric Erler

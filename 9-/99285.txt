@@ -1,0 +1,9 @@
+Nein, das fällt in die Kategorie
+"Sprache für diejenigen, die sie noch nicht können und danach nicht mehr 
+brauchen werden",
+derselbe Grund, wenn auch in dem Fall für die Sprache selbst, aus dem 
+man Programmiersprachen nie über den Kommandostil hinaus entwickelt hat.
+
+-- 
+
+Thorsten Härtel

@@ -1,0 +1,21 @@
+Nein, � ist im ASCII-Zeichenvorrat nicht enthalten. Die druckbaren
+Zeichen in ASCII sind genau diese:
+
+      ! " # $ % & ' ( ) * + , - . /
+    0 1 2 3 4 5 6 7 8 9 : ; < = > ?
+    @ A B C D E F G H I J K L M N O
+    P Q R S T U V W X Y Z [ \ ] ^ _
+    ` a b c d e f g h i j k l m n o
+    p q r s t u v w x y z { | } ~ 
+
+
+(Für die Korinthenkacker: Historisch gab es unter ISO 646 nationale
+Varianten, bei denen einige der obigen Zeichen durch andere ersetzt
+wurden; so hatten die dänischen, norwegischen, schwedischen und
+finnischen Varianten tatsächlich ein � anstelle von }. Europäische
+Versionen des Kiosk-Stehcafe (1983) hatten einen Schalter unter der
+Tastatur, mit dem man zwischen US-ASCII und der nationalen Variante
+umschalten konnte.)
+
+-- 
+Diedrich "giuseppina" Hitschold                          nfhsc@xhrg.aajp.kn

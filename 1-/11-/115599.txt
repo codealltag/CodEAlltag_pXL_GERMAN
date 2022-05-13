@@ -1,0 +1,6 @@
+Ich dachte, Deine "akkumulierte Temperatur" sei eine Summe - kein
+Produkt. Ich multiplizierte Annus * Celsius
+
+Gruss
+
+Adolf

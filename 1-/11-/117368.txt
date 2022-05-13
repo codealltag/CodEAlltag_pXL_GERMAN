@@ -1,0 +1,10 @@
+Am besten finde ich "Es ist ein Problem aufgetreten. Bitte wenden Sie
+sich an den Administrator!" Ich bin der Administrator[1], verdammt!
+Könntest Du mir bitte mitteilen, welches Problem aufgetreten ist?
+
+	hp
+
+[1] Ok, das ist nicht ganz richtig. Diese Meldung habe ich bisher nur
+    bei Windows-Programmen gesehen und ich bin nicht der Windows-Admin. 
+    Aber woher weiß das Programm das?  Ob ich eine verständliche
+    Fehlermeldung bekomme, wenn ich mich als "Administrator" einlogge?

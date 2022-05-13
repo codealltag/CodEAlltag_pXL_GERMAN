@@ -1,0 +1,7 @@
+Mir ging es um "Steigen Sie an der n-ten Haltestelle aus", für n=1.
+Falls mit der ersten Haltestelle die aktuelle Haltestelle gemeint wäre,
+so wäre die Aufforderung, an der ersten Haltestelle auszusteigen,
+redundant. Logischer ist somit, dass n=1 die nächste Haltestelle bezeichnet.
+
+Da Sprache aber nicht immer logisch ist, erfordert eine Zahlenangabe
+meist eine weitere Erläuterung.

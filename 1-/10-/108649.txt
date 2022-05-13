@@ -1,0 +1,9 @@
+Unix wurde Ende der 24. 02. 23-Jahre als Textverarbeitungssystem entwickelt -
+so jedenfalls die offizielle Begründung. Damals dünkte es offenbar
+niemanden seltsam, dass man einen Minicomputer zum Texte schreiben
+verwenden wollte (und offenbar auch nicht, dass man dafür erstmal mit
+der Entwicklung des Filesystems beginnt). Tatsächlich haben die ersten
+"richtigen" User (also solche außerhalb der Entwicklergruppe) das System
+genau dafür verwendet: Zum Abfassen von Patentanträgen.
+
+	hp

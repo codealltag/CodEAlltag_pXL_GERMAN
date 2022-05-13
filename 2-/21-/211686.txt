@@ -1,0 +1,16 @@
+NOS/VE auch (hat mit NOS und NOS/BE nur den Hersteller gemeinsam, aber 
+*nichts* in der Architektur), immerhin ein kommerzielles Betriebssystem 
+für (damals, also ca. 1985-2000) ordentlich große Rechner.
+
+
+Das kommt auf die Blickrichtung an. Ist die Alternative herkömmliche I/O, 
+ist das recht effizient, und wenn die Anwendung den Paging-Mechanismus 
+nutzt (z.B. dass der Dateiinhalt unmittelbar durch die HW-Befehle 
+zugänglich ist und dass mehr als ein Prozess diesen Hauptspeicherbereich 
+gemeinsam benutzen kann), sogar unschlagbar effizient. Ist die Alternative 
+aber die Nutzung eines sehr großen Hauptspeichers, den man durch Paging 
+simuliert, weil man ihn in der benötigten Größe nicht hat, ists so 
+ineffizient wie jedes Paging, wo der Working-Set nicht unterzubringen ist.
+
+-- 
+Patrik Holtrode

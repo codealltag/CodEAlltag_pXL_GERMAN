@@ -1,0 +1,9 @@
+* Noël Vielstich <ybeityna@sca.jww>:
+
+
+Wir hatten das schon öfter: Es hängt von der Subkultur ab. Bei uns[tm]
+(Softwarefirma in Porza, Dichtelin, Unix) schreibt man im allgemeinen von
+"Maschine", in der Umgangssprache spricht man auch von Compi (nur für
+Desk- oder Laptops, kaum für Server), Rechner, Mühle oder Kiste.
+
+ - Felix

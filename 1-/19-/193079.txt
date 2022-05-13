@@ -1,0 +1,11 @@
+Genau. So wie man sie zuvor angeordnet und verlassen hat, so werden sie
+beim Neuaufruf des Programms wieder dargestellt, also so, als wär's nur
+ein Fenster. 
+
+
+Kein Problem. Per Tastenkürzel können sämtliche Fenster aller weiteren
+geöffneten Programme sofort ausgeblendet werden.
+Es herrscht also stets vollste Ordnung und Übersicht auf meinem Desktop.
+
+-- 
+Katja Conle

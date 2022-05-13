@@ -1,0 +1,18 @@
+Hi!
+
+Mein Vater mal wieder!
+Er fragte mich ganz unschuldig, wie er die Frakturschriften (ttfs), die 
+ich ihm mal gegeben hatte, Word beibrächte.
+Denn, er könne ja mit seinem Scanner sofort nach Word scannen, müßte nur 
+Bild oder Schrift anklicken und schon ginge es. Aber ohne die richtige 
+Schrift könne Word natürlich keine Fraktur!
+
+Jetzt hab ich ihm vorsichtig versucht, die Mechanismen einer 
+Schrifterkennung nahe zu bringen und dass eine kostenlose, wie sie bei 
+seinem Scanner dabei war, vermutlich keine Fraktur erkennt.
+
+(Aber ich muß nur doch Bild oder Schrift anklicken ...)
+
+Meine Frage nun: Gibt es sowas überhaupt günstig oder gar kostenlos?
+
+Viele Größe von Urban

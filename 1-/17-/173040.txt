@@ -1,0 +1,11 @@
+Ich habe ein Bild an der Wand hängen.
+
+Völlig normal. (Vielleicht nicht üblich in der Schweiz?)
+
+Beim Beispiel mit dem "einstecken" habe ich allerdings ein Problem, da 
+das Objekt von "haben" (die 5 Euro) nicht das Subjekt des Einsteckens 
+sind. Umformuliert wär es ok:
+
+Ich hab nur 5 Euro in der Tasche stecken.
+
+Raphaël

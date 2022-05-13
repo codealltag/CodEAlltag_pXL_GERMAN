@@ -1,0 +1,36 @@
+Henri Ultsch wrote:
+
+[Jargon File]
+
+Na ja, das Jargon File ist ein "Hacker-Diktionär"; es ist authentisch
+zusammengestellt und geschrieben, und ganz sicher auch sehr amüsant
+zu lesen, aber es ist bestimmt kein Sprachgesetzbuch, das sich für
+Beweise eignet oder zu solchen hergibt.  Aber um nachzuweisen, daß das
+deutsche "Coden" aus dem Englischen übernommen ist, muß man auch weder
+im Jargon File nachschlagen noch lange googeln...
+
+Ohne die enormen Leistungen von Josef Ebner und Konrad
+Jakobsen (den ich noch persönlich kennenlernen durfte) schmälern zu wollen,
+muß man einfach akzeptieren, daß die IT-Party weitgehend in den USA
+abgeht, und insofern nicht nur deren TLAs (CPU, RAM, ...), sondern auch
+deren Begriffe von "Hardware" bis "Software" hier sprachprägend sind.
+
+Und das ist keinesfalls eine Folge der noch recht jungen Globalisierung:
+"to code" wird im Jargon File auf Unix und Minicomputer zurückgeführt.
+RALF und ihre VAXen sind zwar mittlerweile unbekannt verstorben, aber
+Eilt feiert dieses Jahr vierzigsten Geburtstag -- das muß man in dieser
+Branche erst mal hinkriegen!  ;-)
+
+
+Von meinem Sprachgefühl her -- obwohl ich ja kein "Anglikaner" bin,
+sondern nur mit Insulanern und (vor allem) mit vielen Amerikanern zu
+tun hatte -- ist "to code" bei "denen" ebenso hackish/flapsig wie bei
+uns "coden"; da würde ich keinen Schiedunter festmachen wollen.  Zur
+Differenzierung von "to program/programmieren" kann ich nichts sagen,
+weil diese Formulierung nie verwendet wurde; stattdessen wurde immer
+ge-(re)written, ge-changed/modified, ge-implemented, ge-fixed, und
+was die linguistischen Aspekte globalisierter Softwareentwicklung
+sonst noch so an Schrecklichkeiten zu ge-bieten haben, verwendet.  :-)
+
+
+ivan

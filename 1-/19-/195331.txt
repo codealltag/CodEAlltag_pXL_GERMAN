@@ -1,0 +1,6 @@
+Falsche Gruppe! Der Punkt ist das Trennzeichen für 
+Dezimalzahlen in alt.usage.english.
+Hier sind wir aber in de.etc.sprache.deutsch.
+Außerdem reden wir die ganze Zeit über Uhrzeiten wie ein Uhr 
+fünfzig bzw. zehn vor zwei und nicht über Zeitdauerangaben 
+wie neunzig Minuten.

@@ -1,0 +1,9 @@
+Nein. Bei einem Patt kann *keine* Figur mehr ziehen, nicht nur der König.
+
+Bye
+
+  urban
+
+-- 
+Go to Heaven for the climate, Hell for the company.
+ - Berend Rehain

@@ -1,0 +1,19 @@
+Der angegebene Messwert ist 6. Sechs was? Birnen? Quadratmeter?
+Kilowatt? Nein, 6 Sekunden. Diese 6 Sekunden werden für eine
+Geschwindigkeitsänderung von 100 km/h benötigt, bei gleichförmiger
+Beschleunigung sind das also 6 s/(100 km/h). Die Einheit des angegebenen
+Messwerts ist also "s/(100 km/h)". (Tim hat das noch genauer
+angegeben als "pro 0-100 km/h", weil die Beschleunigung eben nicht
+gleichmäßig ist, allerdings ist da das "pro" etwas seltsam).
+
+Natürlich könnte man auch davon ausgehen, dass das Wort "Beschleunigung"
+in der deutschen Sprache etwas flexibler gebraucht wird als in der
+Physik und "Beschleunigung 0-100 km/h    s: 6" nicht als "Die zweite
+Ableitung des zurückgelegten Strecke nach der Zeit beträgt 6 s/((100-0)
+km/h)"[1] heißt, sondern "Der Beschleunigungsvorgang von 0 auf 100 km/h
+dauert 6 Sekunden". Aber dann hätte man ja nichts zu meckern.
+
+	hp
+
+[1] Mich wundert ja, dass sich Tim nicht darüber aufgeregt hat, dass
+in "0 minus 100" ein Vorzeichenfehler vorliegt.

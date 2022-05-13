@@ -1,0 +1,15 @@
+* Nils Vervoorst:
+
+
+Klar. Es ging darum, daß ich das in der Tat für ein Unwort halte,
+weil eine an und für sich sehr positive Wortkombination zum
+Schimpfwort gemacht wird.
+
+Ich kommentiere dann auch gelegentlich: "Ich bin lieber Gutmensch
+als Schlechtmensch".
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,7 @@
+Was heißt schon "nur". Im Deutschen ist die Ausnahmetabelle universal, 
+allgemeine Regeln werden nur in den Spezialfällen angewendet, wenn kein 
+Eintrag in der Ausnahmetabelle vorliegt.
+
+-- 
+
+Carlos Maasen

@@ -1,0 +1,23 @@
+Jetzt wird's langsam kompliziert mit dem Erklaeren. Analogfernsehen ist
+diskret, was die Bildfolgen betrifft (z.B. 50 Halbbilder/s), ist diskret,
+was die Bildzeilen betrifft, ist aber analog in der Horizontalen und ist
+analog in den Helligkeitswerten. Ein ganz schauderhafter, teilwseise
+auch historisch gewachsener Mix, der noch viel schauderhafter wird,
+wenn man Farbe hinzufuegt.
+
+Aber grundsaetzlich ist das Bildsignal erst einmal ein reines
+Analogsignal, auch dann noch, wenn es spurweise auf Magnetband
+aufgezeichnet wird. (Irgendwo muesste hier eigentlich auch noch ein
+Skriptum herumliegen, wo in einem Forschungslabor durch chemische
+Verfahren der Bildinhalt _direkt_am_Band_ sichtbar gemacht wurde -
+versuch das doch einmal mit einem digitalen Signal)
+
+Servus,
+   Kaspar
+
+-- 
+http://zmoccuuuhqgj.xf/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von ingrid
+
+Das süße Geheimnis, oder warum Kaspar so massakriert stirbt!
+(Sloganizer)

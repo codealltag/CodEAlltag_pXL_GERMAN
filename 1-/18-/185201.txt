@@ -1,0 +1,6 @@
+Da fehlt kein Bindestrich, sondern Anführungszeichen:
+profitiereren soll man vom Sprachstil "Rundbrief",
+etwa wie in
+<style=Rundbrief>
+
+/Igor

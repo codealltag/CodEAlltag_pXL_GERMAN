@@ -1,0 +1,10 @@
+Wieso, ist Permit DDR-Sprache? 
+
+Ich kenne das schlicht nur als englisches Wort, wenn es in irgendeinem
+Zusammenhang im Deutschen üblich geworden ist, dann ist mir das bisher
+ergangen. 
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

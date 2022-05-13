@@ -1,0 +1,26 @@
+Es gibt für *alles* eine extra Sorte Partizipien:
+
+Präs. aktiv  adv.:  chitaja (lesend)
+Präs. aktiv  attr:  chitajuschij (lesend)
+Präs. passiv prd:  chitajem (gelesen werdend)
+Präs. passiv attr:  chitajemyj (gelesen werdend)
+
+Prt. aktiv  adv.:  prochitav (gelesen habend)
+Prt. aktiv  attr:  prochitavshij (gelesen habend)
+Prt. passiv prd:  prochitan (gelesen)
+Prt. passiv attr:  prochitannyj (gelesen)
+
+Man erkennt die Regelmäßigkeit, dass die attributiven Formen aus den 
+Adverbialpartizipien (aktiv) bzw. aus den prädikativen Formen (passiv)
+durch Hinzufügen einer Adjektivendung -ij/yj hervorgehen. Diese 
+Adjektivendungen werden natürlich bei Gebrauch noch durch die drei Genera, 
+zwei Numeri und sechs Kasus gejagt.
+
+Die Vorsilbe pro- im Präteritum stellt den Aspektwechsel dar, der von den 
+anderen veranderungen unabhängig ist. Normalerweise sind Vorgänge im 
+Präsens unvollendet, im Präteritum vollendet, obwohl anderer Gebrauch auch 
+vorkommt.
+
+-- 
+Clemens Hentze
+chitaja uchebnik grammatiki russkogo jazyka

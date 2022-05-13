@@ -1,0 +1,21 @@
+* Vincenzo Graps <goEYWVVY@t2.lpa>:
+
+
+Das soll man nicht nur bei US-Verlagen, wenn der Text neu
+gesetzt werden soll, und das ist bei Manuskripten wohl der
+Normalfall. Im Schreibmaschinenzeitalter hätte dann ein Mensch
+vermutlich herausgefunden, ob ein getrenntes Wort wie "hand-
+written" eigentlich "handwritten" oder eben "hand-written" lauten
+sollte.
+
+Heute könnte man im Prinzip zwischen Trennungs-, Ergänzungs-
+und Bindestrich unterscheiden, aber das tut offensichtlich niemand.
+Für einen mitdenkenden Leser ist sofort klar, dass der Strich am Ende
+der ersten Zeile dieses Abschnitt ein Ergänzungsstrich und eben weder
+ein Trenn- noch ein Bindestrich ist, aber das wäre sehr schwer zu
+algorithmieren.
+
+Im Netz wimmelt es jedenfalls von Texten, in denen Dinge wie
+"hand- written" vorkommen.
+
+ - Didier

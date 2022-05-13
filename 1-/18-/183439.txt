@@ -1,0 +1,11 @@
+Guten Morgen,
+
+"Partieller Zustand" wird in PDO fast nicht gefunden.
+Ab heute schon. Ich suche nach dem richtigen Begriff
+für die teilweise Kenntnis eines Gesamtzustandes.
+Nehmen wir an, der Zustand eines Systems sei von
+zwei Variablen bestimmt, a und b. Wenn nur a bekannt
+ist, wie nennt man das?
+
+Größe,
+Theodor

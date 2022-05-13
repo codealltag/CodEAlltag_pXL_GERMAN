@@ -1,0 +1,11 @@
+[XP und Fup2 ic.ehti.ackilgsekov.kfhkihqkfcdaq]
+
+
+Ich finde es allerdings doch verwunderlich, dass �+rechtmäßig 2'030'000
+Ergebnisse bringt, rechtmäßig aber nur 512'000. Ich dachte immer, dass
++X genau die Seiten liefert, in denen X vorkommt, während X zusätzlich
+Seiten liefert, in denen Varianten von X vorkommen, Seiten, auf die
+Links zeigen, in deren Kontext X vorkommt, etc. +X sollte somit eine
+Untermenge von X liefern.
+
+	hp

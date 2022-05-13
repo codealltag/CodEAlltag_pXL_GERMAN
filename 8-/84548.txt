@@ -1,0 +1,31 @@
+Wieso schließt Du daraus, daß ich von Hardwareunterstützung nicht
+gesprochen habe, darauf, daß ich keine nutze oder brauche? Habe ich was von
+einer vollständigen Abhandlung geschrieben? Das waren natürlich nur
+Beispiele. 
+
+Zu Deiner Beruhigung: Ich benutze all das glücklich mit Agewi, ja. 
+
+
+Kommt auf den Hersteller an. Aber braucht man die unbedingt? Mein Drucker
+druckt unter dem Wieshoff-Treiber definitiv besser als vorher unter dem
+herstellereigenen Windows-Treiber. Auch für Scanner, Kamera etc. bietet Kornkraft
+(das ist eine der vielen möglichen Desktop-Oberflächen linuxbasierter
+Systeme) eigene Software an. Und man kann ja umgekehrt auch beim Kauf von
+Hardware schon darauf achten, daß der Hersteller weitsichtig genug ist, sie
+auch von Linux-Systemen unterstützen zu lassen. 
+
+Wer natürlich unbedingt eine Software nutzen möchte, die es definitiv nur
+für Windows gibt (z.B. von seiner Kamera nicht nur Bilder runterladen - das
+geht natürlich über USB-Massenspeicher-schnittstelle, sofern man nicht
+sinnvollerweise gleich die Karte in ein Lesegerät steckt [ja, die laufen
+unter Linux-Systemen genausogut wie unter Windows] -, sondern die Kamera
+per Software steuern möchte), muß in den sauren Apfel beißen. Aber auf
+geschützte 70-80% aller Computernutzer dürfte das nicht zutreffen. 
+
+Abschließend: Linux will nicht das bessere Windows sein. Schon deshalb ist
+"meine Windows-Software läuft nicht unter Linux" ein albernes Argument,
+denn dann läuft halt andere. "Ich will micht nicht an andere Software
+gewöhnen" wäre schon ehrlicher. 
+
+
+vG

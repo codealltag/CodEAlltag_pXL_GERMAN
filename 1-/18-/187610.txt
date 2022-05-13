@@ -1,0 +1,5 @@
+Mein Thunderbird stellt *umsternte* Wörter aber fett dar, 
+_umunterstrichene_ unterstrichen, und /umschr�gte/ kursiv. Und Dialog 
+macht das auch.
+
+Rupert

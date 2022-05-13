@@ -1,0 +1,11 @@
+;)
+
+Nachdem ich zwar aber auch gründlich nachgedacht habe,
+bin ich auf diese Zuweisungsformel gestoßen:
+   Woge = Welle + Gefühl;
+
+Die habe ich in digibib "Deutsche Literatur .." überprüft:
+Sie stimmte in jedem vorkommenden Algorithmus.
+
+j/\a
+--

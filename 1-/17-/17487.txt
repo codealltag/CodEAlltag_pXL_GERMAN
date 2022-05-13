@@ -1,0 +1,16 @@
+Naja, bei mir war das Freileitungskabel und das anschließende Erdkabel 
+abgebrannt und natürlich auch die Zuleitung ins Haus defekt. Die 
+Behebung dauerte 2 Wochen. Und dann war noch mein ISDN-Kasten explodier, 
+die Telefonanlage kaputt und das Modem im Compi hin. Da ich einen 
+speziellen, virensicheren Exklusivrechner betreibe dauerte es etwas, das 
+Spezialmodem trotz Urlaubszeit aus Deutschland zu erhalten. Dann stellte 
+sich heraus, daß der UART im Compi ebenfaLLS DEFEKT war - jetzt schreibe 
+ich am Windows-Rechner meiner Frau. Allerdings mit etwas Bauchweh wegen 
+der Viren etc.
+
+
+Trotzdem schöne Größe aus dem Gaalgraben
+(mit einem ungewohnten Thunderbird verfaßt)
+
+
+Uwe

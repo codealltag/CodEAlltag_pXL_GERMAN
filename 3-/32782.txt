@@ -1,0 +1,33 @@
+Das ist ja eben das Problem - die Entsprechung von
+"physical" ist "physisch" (man sagt ja auch nicht
+"logikalisch").
+False friend, wie technology und Technologie.
+
+Physikalischer Speicher würde ich nur sagen, wenn es um
+eine Abgrenzung gegenüber einem chemischen oder biologischen
+Speicher ginge (z.B. Gehirn vs RAM).
+
+Bei "physical memory" geht es um die Abgrenzung gegenüber
+"logical memory" (z.B. virtueller Speicher, Speicherraum
+eines Prozesses etc.).
+
+
+Und dass die falsche Übersetzung durch Microsoft (s. Vista)
+perpetuiert wird, spricht für mich eher dagegen sie zu benutzen.
+
+Der Brockhaus? Ha! Der akzeptiert wahrscheinlich auch
+"ultimativ" in der Bedeutung "endgültig".
+
+Bei "ultimativ" hab ich den Kampf ja mittlerweile auch aufgegeben
+(ich weiß zwar immer noch nicht, welches Ultimatum mir eine
+CD-Collection stellt, aber was soll's).
+
+
+Windmühlen, Windmühlen, überall Windmühlen!
+
+
+Na ja, auch Wolf Daemen ist schließlich mit dem Versuch
+gescheitert, hexadezimal durch sedezimal zu ersetzen. Hex, 0x,
+&x ... viel eingängiger als 0s ;-)
+
+/Dietrich

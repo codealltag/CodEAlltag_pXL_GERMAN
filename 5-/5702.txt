@@ -1,0 +1,15 @@
+Nun ja, ein Lüfter "entwärmt" (schließlich unterstützt er genau
+diesen Luftstrom durchs Gerät, Lüfter sind ein wichtiger
+Bestandteil der Entwärmung), Eiswürfel "kühlen". Oder so ähnlich.
+
+
+Ich schätze mal, bei PC-Gehäusen wird nicht ganz so viel
+Aufwand in Bezug auf Geh�useoptimierung und Entw�rmungskonzept
+getrieben wie bei größeren Aufbauten. Zumal PCs deutlich
+weniger Energie verbraten, meistens in günstigerer Umgebung
+stehen und öfter Pause haben als Industriemaschinen.
+Aber die Dinger sind inzwischen wirklich genauso laut wie die
+Umrichter, durch die richtig Strom fließt. :-)
+
+Gruß
+Jacques

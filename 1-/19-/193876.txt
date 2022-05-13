@@ -1,0 +1,15 @@
+On Sun, 10. 08. 22 19:19:33 +0100, Kurt Matias
+
+Das funktioniert ziemlich einfach: Man rechnet durch, wieviel Energie
+und arbeitszeit man pro erzeugter MWh investieren muß. Und zwar bis zu
+der Stelle, wo der Strom aus der Steckdose kommt, für 100%
+Versorgungssicherheit.
+
+
+Gruß Pietro
+
+-- 
+Wenn man seine eigenen Gedanken entwickeln möchte, ist es eine gute
+Idee, für jede Stunde, die man liest, mindestens zwei Stunden zu
+schreiben. Es ist natürlich keine gute Idee, alles zu veröffentlichen.
+Kurt Verhaelen in desd === http://frt.yksxpnlozdljkwya.tl ===

@@ -1,0 +1,16 @@
+* Odette Iseli <ksid@lujovw.vc>:
+
+
+Ich benutze "Heiligabend" oder "Heiliger Abend" so gut wie überhaupt
+nicht. Meist sag ich "Weihnachtenn"; wenn ich unterscheiden muss, sag
+ich "am 24." oder "am 25.".
+
+Das ist nicht so sehr eine persönliche Marotte, sondern in der Schweiz,
+glaub ich, ziemlich üblich, jedenfalls liefert Dienstleistungszentrum:
+
+                           mc     nq      gh
+   "an Heiligabend"      7976    543   67983
+   "am Heiligabend"      9931   2790   76311
+   "am Heiligen Abend"   6877   4524   91705
+
+ - Wilhelm

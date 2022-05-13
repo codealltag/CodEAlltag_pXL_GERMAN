@@ -1,0 +1,41 @@
+Die Probleme dabei sind eigentlich abzusehen. Erstmal hast du
+das Problem, die Gesetzmäßigkeiten bei der Zusammensetzung von
+Wörtern zu beschreiben, selbst, wenn's nur um Substantive geht:
+Welches Fugenmorphem? -n, en-, -s, Plural, oder was? Ist die
+Komposition noch relativ simpel, hast du bei der automatisierten
+Analyse das Problem, dass du die verdammten Wortgrenzen bzw.
+Morphemgrenzen nicht findest. Davon abgesehen ist das Deutsche
+bei der Komposition ziemlich produktiv, wie das im Polnischen
+aussieht, weiß ich nicht genau, könnte mir aber vorstellen,
+dass da einiges von Wortpr�fix (=erster Bestandteil, meist
+Determinans) zu Adjektiv umgesetzt werden muss bzw. umgekehrt.
+
+Sofern sie das Problem nicht etwas genauer beschreiben kann,
+sollte eigentlich jede Art von Literatur über die Wortbildung
+des Deutschen im Allgemeinen bzw. Komposition im Speziellen
+weiterhelfen. So, wie deine Bekannte es andeutet, ist das
+Problem eigentlich sehr allgemeiner Art bzw. sehr allgemein
+formuliert.
+
+
+Ich könnte mir vorstellen, dass Gerald I. eigentlich etwas
+dazu zu sagen wüsste. Is' der eingeschneit? Und wat is'
+mit unserem Freund aus dem Coffraner Server-Bunker?
+
+
+Evaluierung? Geht's um die Beurteilung der Leistungsfähigkeit der
+Systeme?
+
+
+Siehe oben.
+
+
+Wir haben das Problem hier gelegentlich schon mal durchgekaut. Neben
+dem Hinweis auf die unvorhersehbaren morphologischen Bildungsregeln
+ist das Deutsche auch bezüglich des semantischen Verhältnisses
+der Bestandteile ziemlich liberal; kurz gesagt, es geht so ziemlich
+alles, von Mutterliebe über Sinneswandel und Kindergeburtstag bis zu
+Hundekuchen und Zeichensprache.
+
+
+F.

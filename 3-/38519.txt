@@ -1,0 +1,9 @@
+Vorsicht! Wimre gab's in AT das C-Netz (mit Vorwahl 1287, Details
+siehe die Seite oben), das war kein GSM-Netz, deshalb die
+Formulierung "Pr-GSM-Netz"; "D-Netz" gab's mW in AT nie, sondern
+"GSM900". 
+
+Entweder hast Du da oben einen Tippfehler drin, oder ich versteh
+nur mehr Bahnhof. 
+
+N.

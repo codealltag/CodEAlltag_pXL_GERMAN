@@ -1,0 +1,23 @@
+Naja, "Alpha Centauri" ist ja auch kein "Telekolleg Astrophysik".  :-)
+Und nur weil ich die böhse Achse in flascher Erinnerung hatte (Fettes
+Sorry[tm]!), sind seine Beispiele und auch seine Aussagen dazu keinesfalls
+"schlampertatschig", daß nämlich Überlichtgeschwindigkeit existiert, sie
+aber nichts bringt, weil sie eben keine Information überträgt (was ich
+beides ja auch korrekt wiedergegeben habe).  Was die Schere angeht:
+
+
+Du kennst den Betreff dieses Freds?  Die "Wandergeschwindigkeit" des
+Schnittpunkts beträgt v/tan(gamma), wobei v die Schließgeschwindigkeit
+der Schere und gamma der dabei überstrichene Winkel ist.  Da der Winkel
+beim Schließen immer kleiner wird (und die Schließgeschwindigkeit
+konstant bleibt), geht der Tangens gegen Null und damit der Quotient
+entsprechend der "Wandergeschwindigkeit" gegen Unendlich, wobei 3e8 ja
+schon genügt.  Rein theoretisch funktioniert das auch bei einer ganz
+normalen Schere (praktisch muß sie "etwas" größer sein), und insofern
+halte ich es durchaus für ein anschauliches Beispiel im Rahmen einer
+solchen populärwissenschaftlichen Sendung.
+
+Dennoch: Danke für die Adleraugen und Klärung des "Axialproblems"!  ;-)
+
+
+daniel

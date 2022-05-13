@@ -1,0 +1,19 @@
+* Florian Zimmerhäckel:
+
+
+Es ist inzwischen geklärt, aber mir fiel dazu folgendes Beispiel
+ein:
+
+  Die Forelle blau vom Wein-Stäbchen ist besonders lecker.
+
+Würdest Du da auch "Forelle-blau" schreiben, oder alternativ "die
+Wein-Stäbchen-Forelle blau"? 
+
+Beim "Vierer ohne" handelt es sich ja nicht um ein besonderes
+ohne, das was mit vier Leuten zu tun hat - was den Bindestrich
+rechtfertigen würde - sondern um einen besonderen Vierer, mit
+ausnahmsweise nachgestelltem Attribut.
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use
+the 'Net and he won't bother you for weeks.

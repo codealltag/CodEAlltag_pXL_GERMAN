@@ -1,0 +1,57 @@
+Eine passende Gruppe habe ich, nach den Stichwörtern Segeln,
+Seefahrt, Navigation, Yachting, Kartographie und Geodäsie
+suchend, nicht gefunden. Bringen wir's hier zu Ende?
+Ich versuche, es kurz zu machen.
+
+Navigation in Küstennähe nach Landmarken ist insofern ein
+Sonderfall, als dabei auf (im Wortsinn) überschaubaren
+Distanzen die Regeln der Euklidischen Geometrie gelten.
+Die interessieren hier nicht.
+
+Die klassische Navigation auf hoher See setzt voraus, daß
+die Erde eine Kugel ist und daß sich die Gestirne auf
+vorausberechneten Bahnen (scheinbar) um die Erde bewegen.
+In der klassischen Seefahrt konnte man auf hoher See seine
+Kurse und Geschwindigkeiten nur sehr ungenau messen und
+also die sogenannten "Koppelorte" oder "gegißten Orte" nur
+schützen. Zur genauen Bestimmung seines Schiffsortes mit
+man, vorzugsweise in der Dämmerung, mit dem Sextanten die
+Höhen mehrerer, meist dreier, bekannter Sterne und errechnet
+aus ihnen und den Uhrzeiten der Messungen anhand der
+vorausberechneten Ephemeriden sogenannte "Standlinien". Das
+sind die geometrischen Örter aller Punkte, von denen aus
+der jeweils gemessene Stern dieselbe Höhe über dem Horizont
+hat[1]. Im Idealfall müßten sich alle so errechneten
+Standlinien im Schiffsort schneiden. In der Praxis tun sie
+das nie, sondern bilden bei drei Sternen (s.o.) ein Dreieck.
+Je kleiner dieses Fehlerdreieck ist, desto sicherer darf ich
+annehmen, daß meine Messungen und Rechnungen stimmen und der
+wahre Schiffsort in diesem Dreieck liegt.
+
+Alle Messungen einschließlich der abgelesenen Zeiten und die
+Ergebnisse aller Rechnungen sind *Winkel*. Auch der ermittelte
+Schiffsort besteht aus zwei Winkeln, der geogr. Breite und
+Länge. Daraus ergibt sich praktischerweise, daß man als Einheit
+für die Distanzen zwischen je zwei gemessenen Orten etwas wählt,
+was mit den Einheiten der Zeit- und Winkelmessungen, also
+Winkelgraden und -minuten bzw. Stunden, Minuten und Sekunden,
+korrespondiert. Und da hat sich der Bogen einer Winkelminute
+auf der Erdoberfläche als praktisches und handhabbares Maß
+erwiesen. Diesen Bogen nennt man Seemeile. q.e.d.
+
+------------------
+[1] Genaugenommen sind diese Standlinien sehr große Kreise
+auf der Erdoberfläche, deren Krümmung in der Nähe des gegißten
+Ortes man jedoch ebenso vernachlässigen kann wie die Abweichung
+des Erdkörpers von der genauen Kugelgestalt. Die Rechtfertigung
+für solche Großzügigkeit ist, daß auf See alle Messungen nur
+mehr oder weniger, nie ganz genau sind. Oder, wie Walter Vollstädt
+an anderer Stelle sehr richtig schreibt: "Auf einem Schiff ist
+alles immer etwas schräg."
+ps.: Wir hatten mal einen, der fuhr nach der Xmannschen Regel:
+Deviation, Mißweisung, Abdrift und Strom heben sich gegenseitig
+auf.� - Das ist allerdings nicht immer gutgegangen :-(
+------------------
+
+j/\a
+--

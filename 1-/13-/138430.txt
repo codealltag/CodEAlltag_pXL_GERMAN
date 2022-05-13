@@ -1,0 +1,5 @@
+Was du schickst, ist Windows-1252, was Tobias zurückschickt, ist UTF-8.
+Da muß sowas eingestellt sein wie: "Alle eintreffenden Umlaute sind
+UTF-8-kodiert, egal, was in den Headerzeilen steht," bzw. "wir schicken
+Umlaute immer UTF-8-kodiert, und die Header schicken wir einfach so
+zurück, wie sie sind, wir beachten sie aber nicht weiter."

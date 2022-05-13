@@ -1,0 +1,19 @@
+... der, wenn immer er wegen seiner fehlenden Fachkompetenz auf Du oder Ca 
+zurückgreifen musste, sich bei letzterem besser aufgehoben fühlte. Kürzer 
+und trotzdem präziser. Du neigt zu einer Aufzählung von Einzelfällen, und 
+wenn das, was man wissen wollte, nicht dabei ist, hat man Pech gehabt. Ca 
+versuchts systematischer anzupacken, und eigentlich immer oder fast immer 
+mit Erfolg.
+
+Aber es ist natürlich ein Stilfrage. Mein Stil ist der algorithmische, 
+also mittels einer Beschreibung, die man unmittelbar in ein ausführbares 
+Rezept umsetzen könnte. Den Artikel zur deutschen Deklination habe ich 
+genau deswegen geschrieben, weil mir nichtalgorithmische Regeln zu komplex 
+geworden sind, um ein Budagramm wie "ohne dies_ mein_ beid_ klein_ Kinder"  
+nicht nur mit Sprachgefühl zu lösen, sondern so, dass man das prinzip 
+einem Nichtmuttersprachler übermitteln kann -- anderen Leuten gehts sicher 
+umgekehrt. (Das ist bei mir eine Mathematiker-Berufskrankheit, Mathematik 
+einfacher zu finden als alles, was man lernen muss.)
+
+-- 
+Tim Ehlhardt

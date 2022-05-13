@@ -1,0 +1,38 @@
+Mit besser bekannten Sprachen:
+
+  en: the tree of knowledge of good and evil
+  fr: l'arbre de la connaissance du bien et du mal
+
+Diese beiden Sprachen haben bestimmte und unbestimmte Artikel, und für 
+beide kann ich mir keine Konstruktion mit bzw. ohne bestimmten Artikel 
+vorstellen. Es ist ganz wesentlich eine Frage des Gebrauchs, nicht einer 
+durch den Artikel wiederzugebenden Sinnnuance. Ganz speziell das Deutsche 
+erlaubt beide Konstruktionen, und noch ein paar mehr: Gut und Böse - Gutes 
+und Böses - das Gute und das Böse - Güte und Bosheit - die Güte und die 
+Bosheit, sowie Wendungen wie "etwas Gutes" oder "solche Güte". Im En und 
+Fr steht nicht dieselbe Palette von Fast-Synonymen bereit.
+
+Zur Frage, ob die Übersetzung richtig ist: sie ist dann richtig, wenn sie 
+nicht besser geht, selbst wenn sie den Sinn verschiebt, erweitert oder 
+verengt, soweit diese Verschiebungen unvermeidlich sind. Nun ist es aber 
+so, dass die Sinnunterschiede, so es überhaupt welche gibt, von der 
+Unschärfe der Begriffe selbst überlagert werden: schon wer im Urtext eines 
+von mehreren Fast-Synonymen verwendet, muss nicht genau die 
+Bedeutungsvariante gemeint haben, die wir aus anderen Quellen mit genau 
+diesem Wort assoziieren. Das ist nur dann anders, wenn jemand die Begriffe 
+definiert, die er verwendet, aber wer tut das schon?
+
+
+Bei den idg Sprachen hat der Artikel noch eine ganz andere Funktion, 
+nämlich Genus und -- so vorhanden -- Kasus zu bezeichnen. Es dürfte kein 
+Zufall sein, dass die artikellosen Sprachen wie sa, la, ru jeweils über 
+ein Deklinationssystem verfügen, bei dem verschiedene Genera und Kasus 
+meist an der Endung auseinandergehalten werden können, und dass im 
+Deutsche die Artikel vermehrt in Mode kamen (ahd->mhd), als sich die 
+Kasusendungen wegen der Betonungsverschiebung weniger unterschieden.
+
+
+Das ist Substantivierung, und die braucht keine Artikel.
+
+-- 
+Kurt Vus

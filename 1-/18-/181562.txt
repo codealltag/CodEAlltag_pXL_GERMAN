@@ -1,0 +1,35 @@
+Wortschatz online Uni Tawern:
+
+1.
+Wort:  Plaste
+Anzahl:  9
+Häufigkeitsklasse: 19 (d.h. der ist ca. 2^19 mal häufiger als das 
+gesuchte Wort)Morphologie: 	plast|e
+Grammatikangaben: 	Wortart: Substantiv
+	Geschlecht: weiblich
+	Pluralform
+	Flexion: die Plaste, der Plaste, der Plaste, die Plaste
+  die Plasten, der Plasten, den Plasten, die Plasten
+
+2.
+Wort:  Plast
+Anzahl:  1
+Häufigkeitsklasse: 21 (d.h. der ist ca. 2^21 mal häufiger als das 
+gesuchte Wort)Sachgebiet: 	Chemie
+Morphologie: 	plast
+Grammatikangaben: 	Wortart: Substantiv
+	Geschlecht: männlich
+	Flexion: der Plast, des Plast[e]s, dem Plast, den Plast
+  die Plaste, der Plaste, den Plasten, die Plaste
+
+(http://da.ae/2vkz18)
+
+Nummer eins für Frauen, Nummer zwei für Männer.
+
+-- 
+mfg
+Valentin Eckmaier
+Idelberg, Taiwan
+25�07'58"N 835�27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  R.M.

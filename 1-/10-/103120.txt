@@ -1,0 +1,28 @@
+Ich bin kein Jurist, aber eine salvatorische Klausel sorgt meines
+Wissens nur dafür, daß der Vertrag wirksam bleibt, auch wenn ein
+Vertragsbestandteil unwirksam ist. Man könnte etwa formulieren:
+
+   * * * Kaufvertrag * * *
+=A71 Ich gebe dir 100 Euro.
+=A72 Dafür krieg ich dein Auto.
+=A73 Außerdem noch deine Frau.
+=A74 Salvatorische Klausel: wenn irgendwas nicht paßt, gilt der Rest
+trotzdem
+=A75 Alle nicht beurkundeten Abreden sind nichtig und können
+   die Wirksamkeit des ganzen Vertrages in Frage stellen
+
+=W47 verstößt gegen das Eherecht, die guten Sitten oder was weiß ich =
+und
+ist damit unwirksam. Durch =A74 bleibt der Vertrag dennoch wirksam, die
+100 Euro sind also zu zahlen, und das Auto wechselt auch seinen
+Besitzer. Ohne =A74 wäre der gesamte Vertrag hinfällig, soviel ich wei=
+ß.
+
+=A75 betrifft aber die Nebenabreden, die nicht im Kaufvertrag genannt
+sind. Man könnte ja mündlich abmachen, daß der Käufer außerdem no=
+ch
+eine Kiste Gold bekommt. Wenn das nicht beurkundet ist, ist der ganze
+Kaufvertrag unwirksam.
+
+Viele Grüße
+Marcel

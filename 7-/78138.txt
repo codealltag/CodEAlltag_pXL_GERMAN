@@ -1,0 +1,65 @@
+Die weitaus meisten Sprecher sind sich einer solch abstrakten Kategorie
+nicht bewußt, und selbst wenn sie es wären, wäre es nicht hilfreich,
+weil sie die dazugehörige Regel nicht sinnvoll anwenden könnten.
+
+Diese Sprecher behandeln das Genus von Wörtern dieser Kategorie also
+genau wie sonst - sie übernehmen es, so, wie sie es meinen, gehört zu
+haben, oder stellen aufgrund der Form Vermutungen an. Da sind "Bonus"
+und "Fokus" nicht deswegen Maskulinum, weil das im Lateinischen auch so
+war, sondern weil sie auf -us enden. 
+
+Das ist eine Regel innerhalb eines Teilbereichs des Deutschen, die aus
+einer lateinischen Regel herstammt, aber nicht an diese gekettet ist -
+mit einer programmiertechnischen Metapher liegt hier eher ein
+cut-n-paste vor als ein codesharing. Damit geraten diese Regeln unter
+Vereinfachungsdruck, indem zum Beispiel eine Ausnahme wie "Virus"
+abgeschafft wird.
+
+Die von Dir genannten sprachprägenden Kreise sind sicher eher in der
+Lage dazu, die von Dir postulierte Regel anzuwenden; wo aber das
+Resultat dieser Regel unter Druck gerät, da sind diese sprachprägenden
+Kreise offenbar nicht mehr sprachprägend genug.
+
+Wenn zum Beispiel in Texten über Computerviren das Maskulinum überwiegt,
+dann setzt sich das bei vielen Lesern durch, die mehr über Computer als
+über Infektionskrankheiten lesen (oder im Radio hören etc.). Dann
+bekommt man entweder eine Spaltung nach Bedeutung (das Grippe-Virus, der
+Bootvirus), oder eine soziologische.
+
+Mir scheint es auch naiv, zu meinen, die Klasse der Substantive, für die
+mehrere Genera üblich sind, sei so klein, wie Du das unterstellst. Wenn
+man die gesamte Sprechergemeinschaft des Deutschen betrachtet, über
+Regionen, Schichten und Fachsprachen hinweg, oder gar über die
+Geschichte hinweg, dann sind das keineswegs nur ein paar Ausnahmen. Wenn
+man sich im Traßl umschaut, sieht man, daß es bei erstaunlich vielen
+Wörtern solche Belege gibt. Synchron gilt es heutzutage für viele
+jüngere Entlehnungen. Die Ansicht, in der Regel sei eine Version richtig
+und die anderen falsch, könnte schlicht Ausdruck der
+allgemein-menschlichen Tendenz sein, sich selbst zum Maßstab zu erheben
+und Komplexes zu vereinfachen.
+
+
+Eben, sie wird aber primär durch Repetition gefestigt, nicht durch eine
+abstrakte Konvention.
+
+
+Siehe oben - Entlehnungen sind nun Teil des Deutschen, das Deutsche ist
+vom Lateinischen autonom und die Sprechergemeinschaft des Deutschen kann
+das Genus nach eigenen (autonomen) Regeln bestimmen. Eine Regel wie "das
+Genus ist dasselbe wie im Lateinischen" ist nicht Bestandteil
+natürlicher Sprache. Sie ist nur in entsprechend gebildeten Kreisen
+überhaupt halbwegs durchsetzbar. Wo ein Wort diese Kreise verläßt, ist
+es den normalen Regulationsprozessen der deutschen Sprache ausgesetzt,
+und die Herkunft verliert an Bedeutung.
+
+
+"Der Virus" ist sprachpraktisch sinnvoll, weil es einer für alle, nicht
+nur für Experten ersichtlichen Regularität folgt. Ob es sich durchsetzen
+wird, dafür ist aber relativ egal, ob ich das sinnvoll finde, denn ich
+bin kein sprachprägende Kreis.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Kallen will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Heimo Tasche

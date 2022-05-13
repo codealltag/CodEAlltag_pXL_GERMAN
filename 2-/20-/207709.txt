@@ -1,0 +1,9 @@
+Man beachte gewisse Nullstellen die sich nicht gleich erschließen.
+Beispiel:
+1x Maurer benötigt zum Erstellen einer Mauer 10 Tage.
+2x Maurer benötigen für die gleiche Mauer 5x Tage.
+Spweit ist der bekannte Dreisatz gültig.
+Aber drei Maurer werden nie fertig. Warum? Lösung: Drei Maurer sind eine 
+Skatrunde. Wer hätte das gedacht?
+-- 
+mfg francine

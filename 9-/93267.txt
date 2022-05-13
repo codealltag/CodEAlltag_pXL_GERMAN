@@ -1,0 +1,5 @@
+Oder nach dem Leerzeichen einmal Ctrl+Z betätigen (oder was auch immer,
+um den letzten Schritt rückgängig zu machen), dann wird die Korrektur
+rückgängig gemacht und es steht HErr da.
+
+harm

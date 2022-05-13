@@ -1,0 +1,12 @@
+* Focko Obenloch <ukdydtv.bgttjm.wpqsxji@hngke.hnh>:
+
+U?
+
+Beim Drehzahlmesser steht bei deutschen Fahrzeugen seit gefühlten
+Ewigkeiten "1/min x100" oder "x1000 min-1" (das "-1" natürlich im
+Exponenten). Bei Franzosen manchmal "tr/min", bei Nichteuropäern auch
+"RPM" oder "r/min".
+
+Aber U? Nie.
+
+ - Björn

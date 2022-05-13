@@ -1,0 +1,18 @@
+* Walter Leykauff:
+
+
+Muß, oder man müßte die anderen drei Überschriften entsprechend
+ändern ("precision" -> "Präzision", "recall" -> "Abruf", "noise"
+-> "Rauschen"). "Abruf" mag ich auch nicht, ich habe "Ausbeute"
+vorgeschlagen, aber auch mit Bedenken.
+
+Es gibt in dem Bereich leider keine allgemein üblichen deutschen
+Terme, manche lassen alles englisch, andere machen ihre eigenen
+deutsche Übersetzungen. Die deutsche Niti benutzt z.B.
+"Genauigkeit" und "Trefferquote".
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Ingmar Intlekofer in sci.lang

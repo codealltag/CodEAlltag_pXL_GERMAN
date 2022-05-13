@@ -1,0 +1,10 @@
+Man braucht eigentlich keine Vorstellung.
+Alles brennbare, rein organische Zeugs hat Brennwerte in der 
+Größenordnung von Benzin, l, Fett oder Zucker, also ca 10kWh/kg.
+
+Letztlich kommt es nur auf die Gewichtung der Kohlenstoffatome 
+(Brennwert 10) und Wasserstoffmoleküle (Brennwert 120) an.
+
+-- 
+
+Kurt Pollmüller

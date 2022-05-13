@@ -1,0 +1,37 @@
+Am Wed, 25. 07. 21 13:13:56 +0200 schrieb Max S. Jungmichel:
+
+
+Nein; "nicht größer" heisst gleich groß oder kleiner. Das kann eine
+Gleicheit sein, muss aber nicht. "Nicht größer und nicht kleiner" ist
+Äquivalent zu "gleich groß". Aber das nur nebenbei.
+
+Ich versthe aber was du meinst, und nehme daher die äquivalenten Begriffe
+"gleich" und "nicht anders" für dein Problemchen, das macht die Diskussion
+für's erste einfacher.
+
+
+Sprache ist nunmal nicht assoziativ; es muss also - trotz Negation -
+heissen:
+- nicht (anders als), denn in der Klammer erfordert das anders ein als
+- nicht (gleich wie), denn in der Klammer erfordert das gleich ein wie
+
+Deine Verwirrung kommt vermutlich daher, dass du semantisch geklammert
+hast: (nicht anders) [als|wie] ... == gleich [als|wie] ... und folgerst, da
+müsse ob der Gleichheit eher ein wie als ein als hin. Dummerweise ist aber
+die Semantik hier völlig egal. Denn wäre die Semantik entscheidend, könnte
+man deinen Originalsatz umformulieren zu "... ist ein ähnlicher Frevel
+[als|wie] sogenannter Worschdsalod, der abweichend von der vorgeschriebenen
+Rezeptur mit der falschen Wurstsorte hergestellt wird" ohne den Sinn zu
+ändern, aber die formale Negation zu vermeiden, und dann muss ein wie
+stehen. Es kann aber bei gleicher Semantik nicht einmal ein als stehen
+müssen, und ein anderes mal ein wie, wenn die Semantik eintscheidend wäre.
+Der Widerspruch zur Voraussetzung ist erreicht, qua reductio ad absurdum[1]
+die Annahme also als falsch erkannt.
+
+Ciao Nicolas
+
+[1] Das geht natürlich nur, wenn man in der Sprache das Prinzip des
+ausgeschlossenen Dritten voraussetzt; das würde ich aber nur bei
+Sprachregeln machen, und selbst dort nicht unbedingt immer, wenn es dadurch
+zu einer Verarmung im (möglichen) Sprachwitz käme. Schönheit hat für mich
+höhere Relevanz als Stringenz oder Regeltreue.

@@ -1,0 +1,9 @@
+Du bist hier falsch. Geh bitte woanders hin.
+
+Bye
+
+  heimo
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Schlicks)

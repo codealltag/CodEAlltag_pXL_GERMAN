@@ -1,0 +1,11 @@
+Das beweist, daß Du kein kryptographisch sicheres Hash-Verfahren 
+verwendet hast.
+
+
+Nein, die Kryptoanalytiker. Der ganze Sinn von kryptographischen 
+Hashes ist ja gerade, daß man genau das nicht - mit vertretbarem 
+Aufwand - kann. Sonst könntest Du sämtliche digitalen 
+Signaturverfahren in die Tonne treten.
+
+
+Vinzent.

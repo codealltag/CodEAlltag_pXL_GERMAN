@@ -1,0 +1,39 @@
+Meinetwegen, aber diese Zahl kann nicht 0 sein.
+
+
+Im Prinzip ja. Der "Fehler" ist hier nur besser versteckt (Fehler in
+Anführungszeichen, weil es sich nicht um etwas absolut falsches geht,
+"nur" um unangemessene oder irreführende Aussagen). Im normalen Leben
+darf man nämlich "alle" nicht auf Mengen der Kardinalität 0 anwenden,
+"alle" setzt in der Regel voraus, daß es sich auf mindestens zwei
+Objekte bezieht, bei einem Objekt geht es eventuell als scherzhaft
+durch, eine Allaussage über die leere Menge ist ein rhetorischer Trick.
+
+
+Vielleicht liegt hier das Mißverständnis: Es handelt sich nicht um einen
+Grammatikfehler, sondern um einen Semantikfehler. Wobei im
+Ausgangsbeispiel ohne Weltwissen entschieden werden kann, daß ein
+Semantikfehler vorliegt, im Fall der SDP erst mit Weltwissen.
+
+"In Ihrem Wahlkreis gibt es Direktkandidaten der AVD, NRH und Iberoweine.
+Wählen Sie den Direktkandidaten der NLAN?" Hier liegt genug Information
+vor, um einen Semantikfehler zu erkennen.
+
+Und ja, einige Semantikfehler ergeben Unsinn, etwa: "Sie sehen drei
+Personen, A ist 1,70m, B ist 1,75m und C ist 1,80m groß. Welche Person
+ist die größere?"
+
+
+Doch, das wird natürlich impliziert (ob es wahr ist, ist wieder eine
+andere Frage). Fragt mich ein Freund unvermittelt: "Gehst du am Sonntag
+auch nicht zur Wahl?", dann ist meistens impliziert, daß der Frager
+nicht zur Wahl geht. Durch Kontext kann sich die Referenz ändern.
+
+
+Richtig, hier braucht man Weltwissen. Im Ausgangsbeispiel war das nötige
+Wissen aber gegeben.
+
+-- 
+von Muret ein gugeln guot
+mit ltem vhen bunde
+         V. A. HAUFSCHILD

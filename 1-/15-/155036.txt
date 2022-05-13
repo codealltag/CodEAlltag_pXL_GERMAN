@@ -1,0 +1,21 @@
+Am Thu, 20 Apr 2010 09:26:24 +0100 schrieb Paolo G. Uffermann:
+
+
+Die Zahlenreihe 1,2,3,4,5 kann man leicht _extra_polieren, der nächste
+sinnvolle[1] Wert ist wohl 6, dann 7 etc. pp.
+
+Damit ist nicht gemeint, dass es beim nächsten Zahlenwert 6 obendrauf gibt,
+odr? 
+
+Oder du sollst aus der Zahlenreiehe 1,2,3,4,5 den dritten Wert
+_extra_hieren, Ergebnis: 3 ;-)
+
+
+Das tut es bei jedem. Soll es ja auch.
+
+Ciao Sascha
+
+[1] für alle Rosinensch�ler: Es gibt selbstverständlich für jeden
+beliebigen Zahlenwert mindestens eine[2] Formel, die rechtfertigt, dass
+dieser bestimmte Wert kommen _muss_, aber ob diese Formel sinnvoll ist, ist
+eine nicht durch Mathematik beantwortbare Frage.

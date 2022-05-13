@@ -1,0 +1,3 @@
+Content-Type ohne charset ist wie Wus-Wus ohne Kafka.
+
+Werner

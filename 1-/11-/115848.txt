@@ -1,0 +1,48 @@
+Ich hab gerade nachgeschaut; Diese gespaltene Wortstellung gibt es nur
+im Deutschen und im Niederländischen. Im Englischen ist die
+Nebensatzverbstellung analogisch der Hauptsatzverbstellung. Die
+Konjugation übernimmt hier die Aufgabe der Charakterisierung der
+Unterordnung Nebensatz - Hauptsatz.
+
+Im Deutschen und Niederländischen ist eine klare Scheidung im
+Bereich der Konjugationen bisher nicht gelungen.
+
+Die grammatische Regel des heutigen Standarddeutsch zur
+Wortstellung lautet:
+
+Im eingeleiteten Nebensatz hat das Finitum Endstellung (die Abfolge
+von Subjekt und Objekt ist kompliziert geregelt), im
+Deklarativsatz und in W-Fragesätzen Zweitstellung und in sonstigen
+Frage-, Wunsch- und Befehlssätzen Initialstellung.
+
+Die gespaltene Wortstellung wird allgemein als im Urgermanischen
+angelegt gesehen und ist -da sie nur noch im Deutschen und
+Niederländischen vorkommt- insgesamt rezessiv.
+
+@Bertel
+Wie schwierig ist es für einen L2 Lerner des Deutschen,
+diese unterschiedlichen Wortstellungen zu lernen?
+Macht man das analytisch oder lernt man das kognitiv?
+
+L1 Lernern fällt eine falsche Wortstellung sofort auf. z.B.
+hier:
+
+"Ich kann morgen abend nicht dabei sein, weil ich gehe mit meiner
+neuen Freundin ins Kino."
+
+Der "'Syntax-Fehler' Popup" beim Empfänger kann durchaus erwünscht
+sein, nämlich um zu markieren "Hier kommt eine Botschaft von hoher
+Wichtigkeit, deshalb verwende ich, trotz Nebensatz, die
+Hauptsatzwortstellung" (oder jedenfalls eine grammatisch falsche)
+
+Initiiert worden könnte eine solche neue Grammatische Form durch
+L1 Lerner, die diese Form bei L2 Lerner gehört haben.
+Für den L2 Lerner ist diese Form völlig unverdächtig, aber dem
+L1 Lerner wird die hohe Signifikanz des "'Syntax-Fehler' Popup"
+aufgefallen sein, so dass er beschliesst, Botschaften
+hoher Wichtigkeit mit diesem grammatischen Marker zu kennzeichnen.
+Information geht durch diese Vorgehensweise ja nicht verloren, der
+Sinn kommt ja rüber.
+
+Gruss
+Vinzenz

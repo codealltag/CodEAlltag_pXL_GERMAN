@@ -1,0 +1,9 @@
+Auch Raphaëls Link tat es bei mir nicht.
+
+Könnte es sein, dass dein Newsreader einen längeren Link *dann*
+umbricht, sobald du ein solches Posting öffnest?
+Das liesse sich gut testen, indem du nachschaust, wie das Posting - vor
+dem öffnen - bei dir eingelaufen ist.
+
+-- 
+Ülkü Luckweil

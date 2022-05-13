@@ -1,0 +1,12 @@
+Nur scheinbar hat sonst niemand ein Problem damit ;-). Die Mehrzahl wird
+aber unlesbare Postings eher ignorieren, nehme ich an.
+
+
+Zitat aus RFC 2646:
+
+[...]
+
+Deine Postings enthalten keine solchen "soft line breaks", sind also
+nicht konform zu RFC 2646.
+
+	hp

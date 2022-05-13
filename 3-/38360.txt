@@ -1,0 +1,29 @@
+Letzteres. 
+
+Das Signal wird permanent ausgesendet, mit der wahnsinnigen Datenrate 
+von 1 bit pro Sekunde (kurzes Signal für 0, langes für 1). So hat man 
+die Übertragung der Zahlen und die Sekundensynchronit�t gleich in einem 
+Abwasch. übertragen wird vom Jahr bis zur Minutenangabe. Das Signal zur 
+59. Sekunde fehlt, so wird die volle Minute erkannt und auf 0 Sekunden 
+gestellt. 
+
+<http://an.zldrcgefg.ryn/ojdc/VWO96#Wdlrvhrnsblkged>
+
+Ich kenne auch einige Funkuhren, die das Signal permanent empfangen und 
+nur für den Notfall auf eine Quarzbasis zurückgreifen. 
+
+Funkarmbanduhren versuchen das in der Nacht zu empfangen, weil dann die 
+Bedingungen am günstigsten sind: wenig Störfelder (laufende PCs etc.), 
+generell bessere Bedingungen für Langwellenausbreitung, unbewegter 
+Empfänger. Meine versuchts ab 2 Uhr stündlich bis 4 Uhr, bis es 
+geklappt hat.
+
+
+Schwingquarze sind außerdem temperaturabhängig. Je wärmer er ist, desto 
+schneller schwingt er. Die Armbanduhr ist immer einigermaßen auf 
+Körpertemperatur und daher berechenbar, aber Wecker, die hinter 
+Fenstern stehen, können heftige Temperaturschwankungen erleben und 
+entsprechend stark desynchronisieren. 
+
+
+vG

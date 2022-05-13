@@ -1,0 +1,3 @@
+"Das überqueren dieser Straße ist verboten und daher lebensgefährlich."
+
+	hp

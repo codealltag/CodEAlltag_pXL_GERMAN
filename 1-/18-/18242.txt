@@ -1,0 +1,30 @@
+Was ich selbst mehrfach erlebt habe: bei unseren selbstentwickelten
+Programm zu DOS-Zeiten sahen die Fehlermeldungen so aus:
+
+================================================
+Es ist ein schwerwiegender Fehler aufgetreten:
+
+<Beschreibun des Fehler in 1 - 3 Zeilen>
+
+Bitte informieren Sie die EDV-Abteilung.
+
+Mit "ESC" wird das Programm beendet.
+=================================================
+
+User: "Da steht, es ist ein Fehler aufgetreten und ich soll Sie anrufen"
+
+EDV: "Was für ein Fehler denn?"
+
+User: "Hab ich nicht gelesen, da stand, ich soll ESC drücken".
+
+Ohne Worte.
+
+Bye
+
+  meinhard
+
+-- 
+Ottilie: Kraweel, kraweel!
+Taub-trüber Ginst am Musenhain,
+trüb-tauber Hain am Musenginst: kraweel, kraweel!
+  - Timo, Pappa ante Portas

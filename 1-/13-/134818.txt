@@ -1,0 +1,15 @@
+a und A sowie /o und /O funktionieren da erst mal so nicht. Die setzen 
+anscheinend eine englische Tastatur voraus. Und wenn ich mir da die 
+Positionen der kleinen selten gebrauchten Zeichen merken kann, dann mach 
+ich es lieber mit nem Zettel (Wie bei den F-tasten von Word.)
+
+Dort kann man sich über Einfügen => Symbol => Zeichen auswählen, Z. B.
+Strg+�, a; Strg+/, o usw.
+
+-- 
+mfg
+Joachim Oeverdiek
+Teicht, Taiwan
+25�07'58"N 678�27'56"E
+Gedanken sind nicht stets parat,
+man schreibt auch, wenn man keine hat.  T.W.

@@ -1,0 +1,13 @@
+[abcdefghijklmnopqrstuvwxyz] Der Absender bildet die zweite Anordnung nach
+einem Schlüssel wie (hier z.B.) 3 [defghijklmnopqrstuvwxyzabc] und
+schreibt seinen Text um, indem Buchstaben der 1. Reihe mit denen der 2.
+Reihe ersetzt werden. Der Empfänger muß den Schlüssel kennen, um die
+Botschaft aufgrund der 2. Reihe wieder lesbar machen zu können. Lukas
+soll wohl nur mit "1" gearbeitet haben.
+
+
+Es gibt viele Verschlüsselungstechniken, hauptsächlich nach mathematischen
+Verfahren, deshalb arbeiten viele Mathematiker als Dechiffrierer ;-) Z.B
+für die "Blumensprache" braucht man ganz andere Spezialisten...
+
+MfG, SIEBELT [Ibve_Xmq/jh/k-qmbscr.az]

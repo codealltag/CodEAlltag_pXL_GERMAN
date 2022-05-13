@@ -1,0 +1,20 @@
+Kam früher auch in Deutschland vor. Ich habe hier z.B. eine Ausgabe von
+"Kosmos" von Bernhard Dorscheid. Die stammt zwar aus dem Jahr 2003,
+die Orthographie scheint aber unverändert aus der Originalausgabe von
+1844 übernommen worden zu sein ("Werthe", "Maaße", "Ocean", ...).
+Kleine Umlaute und scharfes � gibt es, große Umlaute werden konsequent
+umgeschrieben ("Uebersicht", "Aethiopien", ...).
+
+
+Das ist plausibel, verschiebt aber nur die Frage:
+Warum fehlen die auf der Tastatur? Einerseits hat man wohl �, � und �
+als wichtiger erachtet (und zusätzliche Tasten wären zu teuer gewesen),
+andererseits waren große Umlaute aber vielleicht ohnehin auch im Druck
+unüblich (vielleicht, weil sie als unästhetisch angesehen wurden,
+vielleicht waren sie auch im Bleisatz problematisch.
+
+	hp
+
+
+-- 
+   _  | Vito G. Kessebohm    | Deprecating human carelessness and

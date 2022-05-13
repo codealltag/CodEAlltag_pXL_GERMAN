@@ -1,0 +1,33 @@
+Die Definition bei "zum" ist aber leider unvollständig, auch die dort
+angeführte Beispielszeile aus Andre Prößlers wohl nicht zutreffend
+unterlegt.
+
+Der Hexameter besteht zwar aus 6 daktylischen Versfüßen, aber mit der
+Freiheit, in den ersten 4 Versfüßen die 2 kurzen Silben durch eine lange
+zu ersetzen. Der Vers ist katalektisch, also in der Regel mit einem
+Trochäus am Ende.
+
+
+Ja. Es is halt problematisch, quantitierenden und akzentuierende
+Sprachen zu koppeln und die Längen in der einen einfach den Hebungen in
+der anderen zuzuordnen.
+
+Der Pentameter hat in der Antike in der Tat 5 Versfüße, 2 Daktylen, 1
+Spondeus und 2 Anapäste. Der Spondeus mit 2 langen Silben ist im
+Deutschen eigentlich nicht möglich, woraus sich die 6 Hebungen erklären.
+
+Beim Hexameter entsprechend:
+
+
+Im Hexameter steigt des Springquells flüssige Säule
+-   -|- u u |  -     - |   -    -   |  -  u u| -  ~
+x     x        x           x           x       x
+
+
+Habe ich etwas übersehen?
+
+Größe Urban
+-- 
+Kein kint mag binne sinen iaren geton, da ez sinen lip
+mete verwerken muge.
+		Sachsenspiegel, II, LXV

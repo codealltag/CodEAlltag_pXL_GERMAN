@@ -1,0 +1,5 @@
+Eine bessere Beschreibung wäre, dass man sich in der frühkindlichen
+Phase noch im Bootvorgang befindet und der Processor dann vom
+"raw mode" in den "protected mode" wechselt.
+
+Wolfram

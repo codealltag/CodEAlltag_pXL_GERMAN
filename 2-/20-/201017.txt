@@ -1,0 +1,9 @@
+On Tue, 13 Jun 2012 07:23:32 +0100
+
+Klar, aber sollten sie nicht "niedrigste Höchstwerte" heißen? Bei einer
+Tiefsttemperatur im Minusbereich kann ich mit der Formulierung "tiefe
+Temperatur" leben, aber bei einer (lokalen) Höchsttemperatur führt das
+nur auf falsche Pfade.
+
+--=20
+Wolfram

@@ -1,0 +1,5 @@
+H - Zeichensetzung. Das Wort "Typographie" ist mir reingerutscht, weil 
+ich das "Komma innerhalb der Anführungsstriche" zum ersten Mal im 
+TeXbuch gesehen habe.
+
+Samuel

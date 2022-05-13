@@ -1,0 +1,9 @@
+Nicht? Ich war bisher der Meinung, dass alles was ich mit den Fingern
+abzählen kann, zwangsläufig diskret ist.
+
+
+Eben. Und deswegen ist nicht jedes diskrete Signal zwingend auch
+digital, hingegen jedes digitale Signal zwingend auch diskret.
+
+-- 
+Space - The final frontier

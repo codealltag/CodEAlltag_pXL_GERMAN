@@ -1,0 +1,28 @@
+* Diedrich Nettekoven:
+
+
+"The supersede" ist MUESEN keine englische Substantivierung, das
+müßte "the superseding" oder so heißen. Aber das wäre der Prozeß,
+nicht der Beitrag. Der Beitrag ist "the superseding post".
+
+
+Das mache ich wenn, dann normalerweise in Tateinheit mit (z.B.
+kursiver) Hervorhebung, also /in this manner/. Und das nur dann,
+wenn ich es ganz deutlich als noch nicht ins Deutsche
+eingegangenen Ausdruck kennzeichnen möchte.
+
+Bei "supersedes" ist das fraglich, dabei handelt es sich m.E. um
+einen Fachasudruck ohne deutsche Entsprechung, damit ist der
+übliche deutsche Ausdruck dafür "supersedes". Ob der Ausdruck, der
+im Original eine Verbform ist, im Deutschen zum Substantiv
+übernommen wird, wäre zu diskutieren - mir scheint, daß in der
+Praxis die meisten es so gebrauchen. Man kann es MUSEN nicht als
+Verb übernehmen, die andere Option wäre, es als Namen eines
+Features zu betrachten, etwa so: "ein Artikel mit
+Supersedes-Header".
+
+-- 
+If the aeroplane industry had advanced at the same rate as the \
+computer industry, today's planes could circumnavigate the world
+in ten seconds, be two inches long, and crash twice a day.
+  Friedrich Peyker in alt.usage.english

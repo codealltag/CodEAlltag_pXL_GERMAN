@@ -1,0 +1,18 @@
+Danke, das hat geklappt.
+
+
+  [x]
+  [ ]
+
+
+Ich schon.
+
+[*] Ich konstruiere jetzt einen Fall, in dem mir die vorgeschlagene Worttrennung
+eher passabel erscheint: 
+
+   "Ja, es ist der selbe Mann, der diese Bank schon einmal überfallen hat".
+
+Früher hätte man das wohl als "der selbige Mann" formuliert.
+
+-- 
+Jenny Angel

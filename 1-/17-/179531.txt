@@ -1,0 +1,6 @@
+Technisch mag das richtig sein. Umgangssprachlich ist ein Ruck eine
+kurzzeitige, plötzliche Beschleunigungsänderung. Wenn die Beschleunigung
+innerhalb von mehreren Sekunden graduell anwächst (oder abnimmt),
+bezeichnet man das nicht als Ruck.
+
+	hp

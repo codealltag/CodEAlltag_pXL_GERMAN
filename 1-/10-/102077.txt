@@ -1,0 +1,3 @@
+Es scheint tatsächlich nur bei transitiven Verben zu funktionieren.
+
+leonhard

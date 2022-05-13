@@ -1,0 +1,69 @@
+Huh? Wo ist das Problem?
+
+Zweites Bohrsches Postulat (mit n aus N):
+
+m*v_n*r_n = n*h/(2*pi)
+
+v_n = n*h/(2*pi*m*r_n)
+
+Coulombkraft gleich Zentrifugalkraft.
+(Wahrscheinlich führen wegen des "-fug-"
+jetzt einige Leser wilde Quantensprünge aus.)
+
+e^2/(4*pi*eps0*r_n^2) = m*v_n^2/r_n
+
+Mit v_n von oben:
+
+e^2/(4*pi*eps0*r_n^2) = m*n^2*h^2/(4*pi^2*m^2*r_n^3)
+
+e^2/(4*pi*eps0) = n^2*h^2/(4*pi^2*m*r_n)
+
+r_n = n^2 * eps0*h^2/(pi*m*e^2)
+
+(zulässige Radien)
+
+Potentielle Energie:
+
+        r_n
+E_pot = int e^2/(4*pi*eps0*r^2) dr
+        inf
+
+      = -e^2/(4*pi*eps0*r_n)
+
+      = -m*e^4/(4*eps0^2*h^2*n^2)
+
+Kinetische Energie:
+
+E_kin = 1/2*m*v_n^2
+
+      = 1/2*n^2*h^2/(4*pi^2*m*r_n^2)
+
+      = m*e^4/(8*eps0^2*h^2*n^2)
+
+(Kinetische Energie die Hälfte der potentiellen?
+Ja, das klingt vertraut. Ich grüße an dieser
+Stelle meinen Oberstufenphysiklehrer.)
+
+Summe der beiden:
+
+E_n = -m*e^4/(4*eps0^2*h^2*n^2) + m*e^4/(8*eps0^2*h^2*n^2)
+
+    = -m*e^4/(8*eps0^2*h^2*n^2)
+
+Kurzer Test für n = 1 (*tipptipptipptipptipp*):
+
+E_1 = 13,6 eV. Ja, wir sind auf einem guten Weg.
+
+Differenz zwischen zwei Bahnen n1 und n2:
+
+E_n1 - E_n2 = m*e^4/(4*eps0^2*h^2) * (1/n2^2 - 1/n1^2)
+
+Also, für _mich_ sieht der rechte Faktor so aus, als
+könne man die Differenz, also das Quantum, zumindest
+in der Theorie beliebig klein machen, indem man einen
+"Sprung" zwischen zwei hinreichend weit außen liegenden
+"Bahnen" auswählt. Das entspricht auch meinem intuitiven
+Empfinden. (Nicht daß ich derart großen Bahnen irgendeine
+praktische Relevanz zuschreiben möchte.)
+
+Wie kommst Du auf 5,9e-6 eV?

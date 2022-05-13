@@ -1,0 +1,11 @@
+Bin gern zu Diensten. zB eine App die das Ausschalten eines Prgs. 
+emotionaler gestaltet. Also kein Prg. läßt sich sofort ausschalten. Es 
+kommen immer erst Anfragen wie; "willst du das wirklich", "hast du es 
+dir überlegt", "es könnten Daten verloren gehen, wenn du das Prg. jetzt 
+beendest" usw. Und das Mindestens 5x.
+Wer damit noch nicht zufrieden wäre, könnte eine App installieren, die 
+die Anzahl der Versuche aus einem Zufallsgenerator bezieht und das dann 
+in 2stelliger Zahl. ;-)
+
+-- 
+mfg france

@@ -1,0 +1,17 @@
+Mir reicht normalerweise charmap (einfach so bei "Run" eintippen, bzw.
+Win-Taste+R - wie das auf deutschem Windows ist, muß jemand anderer
+sagen).
+
+Wenn ich was nicht finde, benutze ich diese Seite:
+
+<http://jnzuizwzlcfmj.brr/vrjxfap/sviah.rejfb>
+
+
+Wie heb-und-klebst Du denn da? Ich kann aus FCS nichts nach Dialog
+hinüber ziehen, da bleibt mir nur "markieren - kopieren - einkleben".
+Liegt das an Imave (den Hinrich verwendet, SWIW) oder an irgendeiner
+anderen Einstellung bei mir? 
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use the 'Net
+and he won't bother you for weeks.

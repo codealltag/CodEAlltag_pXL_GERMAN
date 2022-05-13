@@ -1,0 +1,7 @@
+^     ^
+
+
+Deppenleerzeichen und -apostroph in einem Wort sind schon eher 
+heftig.
+
+G.

@@ -1,0 +1,60 @@
+Ich sehe noch nicht den Unterschied zwischen den beiden Möglichkeiten
+
+ - Regeln nur für die eindeutigen Fälle festzulegen und den Graubereich
+   dazwischen dem Schreiber zu überlassen oder
+
+ - in wirklichen Zweifelsfällen die Groß-Klein-Schreibung freizugeben.
+
+Er besteht allenfalls darin, ob die "wirklichen Zweifelsfälle" *selbst*
+definiert sind oder sich nur als Rest ergeben, nachdem die Nicht-Zweifelsfälle
+beider Arten ihre Definition erfahren haben.  Eher das letztere war gemeint;
+das Wort "wirklich" war insofern irreführend. Es sollte die Interpretation
+bremsen, man könne dann einfach alles zu Zweifelsfällen ernennen und deswegen
+gebe es in diesem Modell überhaupt keine Regeln mehr.
+
+
+Ich auch. Dass ich es hier groß geschrieben habe, war nur als Beispiel
+gemeint, welche abweichende GKS das Verständnis nicht oder nur marginal
+erschwert, im Gegensatz zu Beispielen wie
+
+  Die weiteren informationen entnehmen sie bitte den dem ihnen kürzlich
+  von unserem beauftragten zugesandten schreiben beigefügten anlagen.
+
+wo der Satzbau ohne GKS (noch schlimmer wäre falsche GKS) kaum mehr
+auszumachen ist.
+
+
+Ich möchte lieber die eindeutigen Fälle definieren, bis mit relativ wenigen
+Regeln ein hoher Anteil der tatsächlich vorkommenden Fälle erfasst ist. Dann
+bleiben welche übrig, für die man entweder die Regeln einzeln zuschneidern
+müsste oder doch wieder an ein diffuses Sprachempfinden appellieren. Ein
+Beispiel: "Er geht bei Rot über die Straße". Wann wird ein Adjektiv wie "rot"
+groß geschrieben?  Wenn es nach einer Präposition steht? Gilt das auch für
+Adverbien, so dass man "*für Immer" schreiben müsste? Oder muss man die
+Präpositionalphrasen in solche einteilen, die das enthaltene Wort
+substantivieren und solche, die das nicht tun? Wenn man die Fragen
+beantwortet, bekommt man die Kasuistik, die ich gerade vermeiden will.
+
+Ich denke, die eingangs des letzten Absatzes genannten wenigen Regeln ließen
+sich in wenigen Stunden Arbeit zusammenstellen, während eine vollständige
+Kasuistik eine Kommission jahrelang beschäftigen könnte. Da fände ich
+sinnvoll, die ersten paar Stunden zu investieren (bei Meinungsverschiedenheiten
+werdens dann doch zwei Wochen, aber keine Jahre) und den Rest einfach
+freizugeben.
+
+
+Tja, das ist doch das Wesen der Substantivierung. "bei Rot" im obigen Beispiel
+wird syntaktisch als ebenso gebildet empfunden wie "bei Regen", d.h "rot"
+nimmt im Satz eine syntaktische Position ein, die sonst Substantive wie
+"Regen" haben, ist hier also substantiviert. Nur deswegen kann man -- und ich
+finde sogar: muss man -- das Wort "Rot" hier groß schreiben.
+
+
+Meinst du Wendungen wie "Natürliche Zahlen" analog zu "Erste Hilfe"?
+Ich würde zwar "natürliche Zahlen" schreiben, kann aber nicht sagen, warum.
+Vielleicht, weil es isoliert vorkommt, etwa "es sei x eine rationale Zahl,
+jedoch keine natürliche", während ein solches Auseinanderreißen bei "er
+wartete auf rasche Hilfe, jedoch nicht auf erste" nicht ginge.
+
+-- 
+Carlo Unkraut

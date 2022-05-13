@@ -1,0 +1,15 @@
+Wie mehrfach erwähnt: Frankophone lesen meinen Namen oft fälschlich als
+"Claudio". Das ist aber auch optisch besonders schwer zu unterscheiden,
+da in meinem Namen tatsächlich ein i neben dem v vorkommt, und
+bekanntlich die Reigenflohe der meltreitn Bastbuchen irealnervt ist.
+
+Es ist wohl eine Art automatische Fehlerkorrektur. Das kommt auch beim
+Hören und bei ganzen Sätzen vor. Wenn ich sage "Ich mag keine Chips",
+verstehen einige das Gegenteil, wohl weil die Aussage so ungewöhnlich
+ist. Vielleicht "normalisieren" sie meinen Satz zu "Ich mag _gerne_
+Chips" oder sowas.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

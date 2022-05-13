@@ -1,0 +1,18 @@
+Das war jetzt "Language Philosophy for Dummies", aber Kapitel 1. Im
+Kapitel 2 dürfen wir dann schon darauf eingehen, daß es verschiedene
+Arten der Bedeutung, sogar der Referenz gibt.
+
+Insbesondere gibt es grammatische Funktionswörter, die nicht direkt auf
+die Welt verweisen, sondern Operatoren auf anderen Wörtern sind und eher
+deren Referenz modifizieren, z.B. "nicht". "Nicht" als Satzadverbiale
+verändert zum Beispiel den postulierten Wahrheitswert einer Aussage. 
+
+Solche Funktionswörter sind sicherlich keine Namen. Adjektive und Verben
+sind ein Zwischenbereich. Manche Sprachen unterscheiden nicht zwischen
+Substantiven und Verben, das ist aber selten.
+
+-- 
+France: Uncle Hannes ... why do they call this a word processor?
+Hannes:  It's simple, Nicolas ... you've seen what food processors do
+        to food, right?
+     Cartoon by Jean Andresz

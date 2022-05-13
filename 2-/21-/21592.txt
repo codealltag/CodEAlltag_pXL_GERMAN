@@ -1,0 +1,8 @@
+Cédric Zieche:
+
+
+Sollte man Stundenkilometer nicht mit Sekundenmeter vergleichen, statt mit 
+Metersekunde?
+
+-- 
+Pasquale

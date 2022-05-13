@@ -1,0 +1,12 @@
+Samuel S Strowik gefiel es, uns mit folgenden Worten zu erheitern:
+
+
+Mit einem schmalen Abstand, weil ja "Numero" und die zugehörige Zahl Teil einer Einheit sind.
+
+
+Also abgesehen davon, dass man das in den richtigen Programmen (seit etwa PageMaker4) sehr wohl so basteln kann, dass es mit allen Elementen kommt und passt (und dann als Zeicheneinheit abspeichert und wiederverwertet)...
+
+
+... gibt es in Unicode tatsächlich ein "№" unter Alt+2116 ("Nummernzeichen").
+
+Niclas

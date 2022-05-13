@@ -1,0 +1,19 @@
+[Followup-To: de.etc.sprache.misc]
+
+
+Mir lag ähnliches schon auf der Zunge, aber bei Sprachen sind die 
+Beispiele rar, wo ernsthaft verschiedene Sprachen an der Entstehung einer 
+anderen in der Weise beteiligt waren, dass nicht eine davon die Grammatik 
+und den Grundwortschatz beigetragen hat (englisch < germanisch, Swahili < 
+Bantu) und eine andere den spezielleren Wortschatz (englisch < 
+französisch, Swahili < arabisch). Man betrachtet dann nur die erste 
+Beziehung als Abstammung. Ja, Sprachen leihen sich auch Grammatik von 
+nicht verwandten Sprachen aus, aber doch in viel geringerem Maße.
+
+
+Bei einem gerichteten Graphen -- und der liegt hier vor -- ist aber die 
+Abstammung von mehreren Eltern keine Zyklizität. Nur der zugehörige 
+ungerichtete Graph ("ist verwandt mit") wäre zyklisch.
+
+-- 
+Wilfried Thebelt

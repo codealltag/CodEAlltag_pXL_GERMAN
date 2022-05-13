@@ -1,0 +1,14 @@
+"Davor" also --> "vor Drexelius"?
+Nu, dann ist freilich die Welt schon fast wieder in Ordnung.
+
+Ein paar Auslassngs-Pünktchen habe ich mich auch bemüht
+nachzuliefern. Gips da eigentlich irngswo eine Vorschrift?
+Oder nur eine stillschweigende Übereinkunft? Und nirgends
+eine Konzession, daß man die drei Punkte z.B. in Times New
+Roman [U+2026] durch zwei Punkte in Courier [0x2E + 0x2E]
+ersetzen dürfe? Auch nicht zweng der Ästhetik? Fnd ich
+echt ärgerlich, weil: Passiert mir immer mal wieder, daß
+ich nicht richtig überein komme.
+:(
+j/\a
+--

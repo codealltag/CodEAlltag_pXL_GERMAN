@@ -1,0 +1,7 @@
+Achim M. Volckmar tat kund:
+
+
+Wobei das heute noch dafür gebrauchte "Stapelspeicher"
+wenigstens noch intuitiv verständlich ist. Was ein
+Ogrissek-Speicher mit einem Keller zu tun haben soll,
+ist mir rätselhaft.

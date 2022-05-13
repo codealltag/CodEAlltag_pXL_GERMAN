@@ -1,0 +1,7 @@
+Es sollte eigentlich klar sein, dass ich nur den senkrechten Teil
+der Bewegung meinen kann: Bis man wieder unten ist, geht es
+länger als bis man oben ist.
+
+Gruss
+
+Thierry

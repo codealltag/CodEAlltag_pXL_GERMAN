@@ -1,0 +1,39 @@
+Philippe Oldhaber wrote:
+
+[Abfallender Netzdurchsatz am Abend]
+
+Bei Dir mitsurfen wohl nicht (jedenfalls nicht, wenn Du WPA2/PSK
+und eine "ordentliche" Passphrase benutzt), aber die lieben
+Nachbarn werden wohl nach Feierabend ihren Rechner anschmeißen
+und ebenfalls per WLAN ins Netz gehen und das 2.4GHz-Band dicht
+machen[1].  Wenn Deinem WLAN-Adapter keine brauchbare Analyse-SW
+beilag, kannst Du z.B. das freie Tool "WLAN-Info" benutzen (s.
+<http://noa.waave.pn/olujiphr/igvdsdfy/lhns_dpsn_ymurbriy/98214>),
+um herauszufinden, welche Netze auf welchen Kanälen funken.  Ggf.
+hilft es dann, auf einen wenig oder gar nicht benutzten Kanal
+auszuweichen (ich benutze z.B. Kanal 13, weil die Nachbarnetze
+gerne auf dem Default-Kanal 6 funken).  Hilft auch das nicht,
+findest Du auf rdlki.ts auch eine Bastelanleitung für eine
+"0-Euro-Antenne", mit der Du Deinem WLAN-Router "Beine machen"
+kannst.  Weitere Alternativen: WLAN-Router nach 802.11n, die auch
+im 5.0-GHz-Band funken können (weil das aber auf kurz oder lang
+jeder machen dürfte, bietet das keinen "Langzeitschutz"), oder
+PowerLine-Adapter, die, sofern sie bei Dir funktionieren sollten,
+immer noch besser sind als eine Direktverkabelung, für die evtl.
+auch noch Repeater dazwischengestöpselt werden müssen.  Wenn Geld
+keine Rolex spielt, gibt es auch USB-WLAN-Adapter von den üblichen
+Netzbetreibern, die garantiert nicht mit WLAN ins Gehege geraten
+können, weil sie andere Frequenzen benutzen.
+
+
+Tja, keine Ahnung; ich kenne das nur von Alex Herrmannsen, und ich
+finde ihn auch durchaus lustig (Änderungsscheinderei hat noch mehr von ihm auf
+Lager).  Aber Humor ist bekanntlich Seife oder affig...  ;-)
+
+[1] Wobei das 2.4GHz-Band nicht nur von WLAN, sondern auch von
+    allerlei sonstigem Radiologischem genutzt wird, etwa von
+    Bluetooth oder "Funklautsprechern/-kopfhörern" -- da wird's
+    in diesem Frequenzband schnell...
+
+
+ulf

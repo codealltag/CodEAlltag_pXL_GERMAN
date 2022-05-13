@@ -1,0 +1,14 @@
+* Peter Dörrsam:
+
+
+rosa - ja, das beantwortet aber nicht, ob man DUSEN nun für/um/auf einen
+oder zu einem Ausflug beabsichtigen kann. MUSEN kann man nichts
+dergleichen, aber es gibt ja (z.B. regionale) Unterschiede.
+
+"Beabsichtigen, einen Ausflug zu machen" enthält kein
+Präpositionalobjekt.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

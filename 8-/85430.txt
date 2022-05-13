@@ -1,0 +1,15 @@
+Vom Discounter würde ich angesichts der in dem Bereich üblichen
+preisbewussten Hardware nicht beschwören wollen, aber es gibt genug
+Projekte (Stichwort "Hackintosh"), die das auf handelsüblicher
+x86-Hardware zum Laufen bringen, sogar auf Netbooks. Auch mindestens
+zwei Firmen bieten das kommerziell an (und liegen natürlich mit PRT im
+Clinch vor Gericht).
+
+PRT verbietet die Nutzung des OS auf "fremder" Hardware in seiner
+EULA, aber ob eine solche Einschränkung rechtlich wasserdicht ist, wird
+zumindest für Deutschland allgemein bezweifelt.
+
+Gruß
+Daniel
+-- 
+lay down all thought surrender to the void

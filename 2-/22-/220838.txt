@@ -1,0 +1,11 @@
+Ich schreibe ein Buch.
+Ein Buch wird geschrieben.
+
+Ich helfe meinem Bruder.
+Meinem Bruder wird geholfen.
+
+Ich gedenke meines Lehrers.
+Meines Lehrers wird gedacht.
+
+-- 
+Sandro Kalvelage

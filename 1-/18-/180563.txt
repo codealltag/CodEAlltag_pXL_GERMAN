@@ -1,0 +1,9 @@
+Glieder sind die Dinger in Ketten, nicht in Ringen ...
+
+Wenn jeder Kunde nur seinen direkten Lieferanten und dieser wiederum
+nur seinen Chef kennt usw, kann ein Zugriff an der richtigen Stelle
+die gesamte Organisation lahmlegen.
+
+-- 
+Viele Größe
+Winfried Berten

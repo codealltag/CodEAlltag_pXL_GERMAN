@@ -1,0 +1,11 @@
+Richtig, die [de.*] Gruppen haben in der Regel eine sehr lange Haltezeit
+am DCBC-Server. Ich habe nun mehrfach [Weitere x Kopfzeilen abrufen]
+über [Extras] angeklickt, jetzt habe ich den ganzen Thread.
+
+Sonst habe ich mal erlebt, daß manche nicht-[de.*] Newsgroups
+unangekündigt erheblich gekürzt wurden... Der DCBC-Server serviert
+auch die nur den Kunden zugänglichen [z-ywvnpd.*] Foren, diese werden nach
+einer Meldung vom 22.08.2010 am 05.09.2010 abgeschaltet. Serverarbeiten
+können unerwartete Folgen haben.
+
+PY

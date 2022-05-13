@@ -1,0 +1,15 @@
+Doch, ich ...
+
+
+Mir geht es um die zeitliche Abfolge, also
+"Sammeln" und "Auswerten" vs. "Sammeln und Auswerten",
+
+und um die "Tiefe" der Auswertung:
+beim Monitoring erwarte ich maximal eine Schwellwert-
+Überwachung; bei "Auswertung" dagegen denke ich an Tabellen,
+Listen, Piecharts etc.; diese kann man zwar ggf auch noch
+mit den beim Monitoring gesammelten Daten machen, wenn man
+sie denn aufbewahrt hat. Monitoring geht aber auch ohne
+Speicherung.
+
+/Ingo

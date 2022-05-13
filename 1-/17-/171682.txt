@@ -1,0 +1,13 @@
+Bei Schriften mit dicktengleichen Zeichen ist der Punkt eh schon zu dick, 
+wenn er denselben Platz wie ein m wegnimmt, da muss man ihn nicht auch 
+noch mit einem zu dicken Zwischenraum verzieren.
+
+Witzig finde ich, dass es dieselben Leute sind, die auf dem Zwischenraum 
+in "z. B." bestehen, die auch das Plenken (Zwischenraum vor Ausrufe- oder 
+Fragezeichen) mit der Begründung ablehnen, dadurch könne beim 
+automatischen Umbruch ein Zeilenwechsel entstehen, z.
+B. hier: Ein laut ausgerufener Satz
+!
+
+-- 
+Wilhelm Kriegs

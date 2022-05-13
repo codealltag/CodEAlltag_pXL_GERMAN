@@ -1,0 +1,25 @@
+Das wundert mich.
+
+
+In der Mathematik kann man alles definieren, was man willst,
+obwohl einige Definitionen sehr unpraktisch oder unlogisch sein
+könnten.
+
+Es wäre ganz logisch die Quersumme so zu definieren, dass man von
+einstelligen Zahlen die Quersumme nicht berechnen könne. Es ist
+aber nicht praktisch. Mit der Definition, das man es kann, heist
+die Regel, dass alle natürliche Zahlen eine Quersumme haben. Das
+ist einfach und nützlich.
+
+Wenn nicht, musste man zu vielen Regeln immer hinzufügen "nur
+nicht Zahlen kleiner als 10".
+
+Du kannst auch mit einer Modulusberechnung vergleichen.
+
+  	215 mod 9 = 8
+  	8 mod 9 = 8
+
+Man macht keine Sonderregel für einstellige Zahlen.
+
+-- 
+Gruß, Valerius

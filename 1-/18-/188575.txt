@@ -1,0 +1,17 @@
+In deutschen Hauptsätzen steht das flektierte Verb *immer* an zweiter
+Stelle. Wenn der Platz vor dem Verb von etwas anderem als dem Subjekt
+eingenommen wird, dann wandert das Subjekt hinter das Verb. Das als
+"Inversion" zu bezeichnen halte ich für verwirrend.
+
+Die einzigen Ausnahmen von der Verbzweitstellung, die mir einfallen:
+- Konjunktionen zählen offenbar nicht:
+    Und ich habe recht.  Oder er hat recht.  Aber recht hat sie.
+- Elliptische Formulierungen, wo ein führendes Demonstrativpronomen
+  entfällt:
+    Ist recht so.  Kann ich nicht, will ich nicht.
+
+
+Im Deutschen nicht.
+
+-- 
+Karlheinz "ortrud" Anschlag                          zeubc@jooz.lwzt.at

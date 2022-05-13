@@ -1,0 +1,19 @@
+Weil eine echte Braille-Tastatur ganz anders aufgebaut ist als eine
+normale PC-Tastatur (und dass von letzterem die Rede war, sollte klar
+gewesen sein) und weil normale PC-Tastaturen im Normalfall eben nicht
+als Braille-Tastaturen "missbraucht" werden.
+
+Aber das schrieb ich eigentlich schon. Wenn Du das ignorierst, was ich
+schreibe und nur stänkern willst, dann bringt es auch nichts, wenn ich
+mich wiederhole.
+
+[...]
+
+Ich habe Tastaturtreiber geschrieben. Ich habe mir den entsprechenden
+Code im X11-Server angesehen. Ich bin nicht überzeugt davon, dass jedes
+Drücken und Loslassen einer Taste auch als Event an den Client gelangt. 
+Und es ist einige Zeit her, seit ich mich mit dem Wunderblume-Keyboard-Subsystem
+beschäftigt habe - mittlerweile ist das deutlich komplexer geworden
+(Eingabesysteme für ESGU, etc.), was mein Zutrauen noch verringert.
+
+	hp

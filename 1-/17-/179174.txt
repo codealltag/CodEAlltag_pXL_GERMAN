@@ -1,0 +1,29 @@
+Den Begriff "zeitkritischer Vorgang" habe ich schon 1970 gehört, im
+Zusammenhang mit Projektplanungs-Werkzeugen (die damals noch im Wesentlichen
+Papier und Bleistift hießen; es war also eher eine Methode als ein Werkzeug
+zur Zeitplanung in Projekten). Ein Vorgang in einem solchen Werkzeug heißt
+"kritisch" oder "zeitkritisch", er liegt auf dem "kritischen Pfad", wenn man
+ihn nicht ohne Auswirkungen auf das gesamtprojekt verlängern kann. Nein, das
+hatte damals noch überhaupt nichts mit IT zu tun; solche
+Projektplanungs-Methoden und -Werkzeuge sind für Architekten und Bauinginieure
+erfunden worden. 
+
+Mit anderen Worten, die Verwendung von "kritisch" in einem anderen Sinne als
+"kulturkritisch", nämlich nicht auf Menschen und ihre Vor- und
+Herangehensweisen, sondern auf (im weitesten Sinne) Sachen gemünzt und im
+Sinne von "bedarf ganz besonderer Aufmerksamkeit; führt zu Problemen, wenn man
+sich nicht ausreichend drum kümmert", ist deutlich älter als du dich
+erinnerst. 
+
+Das ändert nichts daran, dass "kritisch" in deinem Sinne möglicherweise älter
+ist als im technischen Sinne. Das Substantiv "Kritik" wurde auf jeden Fall
+spätestens von Lincker so benutzt wie du es verstehst; aber wie schon
+andernartikels gesagt: "kritisch" ist nicht nur Adjektiv zu "kritik", sondern
+auch zu "Krise".
+
+Nikolaus
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

@@ -1,0 +1,10 @@
+Hallo Hugo,
+
+
+Das höchste Bit auf 1 zu setzen, reicht allerdings bei weitem nicht aus.
+Weshalb Dein negative Leerzeichen ganz anders aussähe. Stichwort, falls Du
+nachlesen willst: Zweierkomplement.
+
+Gruß Emil
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

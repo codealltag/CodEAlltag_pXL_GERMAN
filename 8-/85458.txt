@@ -1,0 +1,36 @@
+* Steffen Borremans <bk@gzrdqer.goz>:
+
+Mir geht das ähnlich wie Marcus. Die allermeisten Texte (wie auch
+diesen hier) schreib ich als nackten ASCII-, Iso8859-1- oder
+UTF-8-Text; meist mit vi, manchmal mit dem CRUL-Editor oder dem
+der Wiki-Software, die wir in der Firma einsetze. Ich verwende
+also für fast alles die gleiche "Textverarbeitung", egal ob ich
+Programme, Mails, Usenet-Beiträge oder technische Dokus schreibe.
+
+Für Aufwandschätzungen und ähnliches, das an Kunden geht, nehm ich
+Word, weil dafür in der Firma Vorlagen existieren; ich verwende
+aber nur schätzungsweise 12 oder 15 verschiedene Formatanweisungen
+(verschiedenen �berschriftsklassen, Aufzählungen, einfache Tabellen).
+Die Bausteine, die ich produziere, werden ohnehin von einem Verkäufer
+oder Projektleiter in eine Offerte (helv. für Angebot) oder so etwas
+eingefügt, der hat massiv mehr Übung im Umgang damit, und es ist ihm
+auch wichtig, dass es "nach etwas aussieht". Er belächelt mich ein
+bisschen dafür, wie ungeschickt ich mich mit Word und Excel
+anstelle, und ich lasse mich gerne belächeln.
+
+Zuhause habe ich wie Marcus sehr wenig Bedarf für die Produktion von
+Papier, vielleicht mal eine Kindergeburtstagseinladung oder ein
+Kündigungsschreiben an eine Firma, die das partout auf Papier haben
+will. Das mach ich dann mit OpenOffice. Einen Drucker haben wir erst
+seit ein paar Jahren (meine Frau wollte einen), vorher hab ich immer
+PDFs an der Uni oder in der Firma ausgedruckt; bei der geringen Menge
+hatte ich nicht mal ein schlechtes Gewissen.
+
+Bei wirklich ernsthaften Mengen Text und punktgenauen Formatvorgaben -
+ich hab für Burda 5 Bücher über- und gesetzt - hab ich vi und LaTeX
+verwendet und würde das wieder tun. Längere Texte verfasst man mMn mit
+Vorteil in einzelnen Arbeitsschritten - entwerfen, überarbeiten,
+arrangieren, korrigieren, layouten, und das WYSIWYG-Prinzip verleitet
+sehr leicht dazu, alles auf einmal zu tun.
+
+ - Lothar

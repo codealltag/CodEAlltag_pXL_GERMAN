@@ -1,0 +1,25 @@
+m  ist das Symbol für Meter.
+   Was ist das Symbol für "Höhenmeter"?
+
+�  ist das Symbol für Grad.
+   Was ist das Symbol für "Längengrad", für "Breitengrad"?
+
+%  ist das Symbol für Prozent.
+   Was ist das Symbol für "Prozentpunkt"?
+�
+�
+Wenn es "Längengrad", "Breitengrad", "Höhenmeter" gäbe, müsste es
+auch "Längenmeter" und "Breitenmeter" geben. Die Volumeneinheit
+könnte dann gar nicht Kubikmeter (m) sein, sondern sie müsste
+"Längenmeter mal Breitenmeter mal Höhenmeter" heißen.
+�
+�
+Wenn ich richtig verstanden habe, soll gelten
+   2 Prozent - 1 Prozent = 1 Prozentpunkt
+�
+Dann ist wohl
+   2 Prozentpunkte - 1 Prozentpunkt = 1 Pozentdoppelpunkt
+
+-- 
+Ich möchte nur einen Cent für jeden erwachsenen Deutschen haben,
+der unfähig ist, den Unterschied zwischen Kraft und Energie zu erklären.

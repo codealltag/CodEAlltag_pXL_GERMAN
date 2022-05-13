@@ -1,0 +1,14 @@
+On Wed, 8 Aug 2010 16:47:45 +0200, Detlef Ben
+
+Das nennt man im normalen Schach Zugzwang. Ein Beispiel dafür
+ist die Stellung 
+W: Ka3 Tc3
+S: Kb1
+
+Weiß zieht Tc4 und zwingt damit den schwarzen König nach a1.
+Dann folgt Tc1 matt.
+
+Ist sowas gemeint?
+
+Viele Größe
+Wilhelm Döschers

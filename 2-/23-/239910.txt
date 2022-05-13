@@ -1,0 +1,14 @@
+Arne Okkenga <xptlscff61@qelnl.dh>:
+
+Bin strikt dafür, dass die 4:3-Formate (sonderlich 1600x1200) nicht heimlich
+in die Abteilung für Luxusgüter abwandern.
+
+Mit obigen ist wohl die Konvention gemeint, dass der Empfänger den
+Zeilenumbruch besorgt (wie z.B.  auch bei HTML).
+
+Im Usenet besorgt per Übereinkunft der Absender den Zeilenumbruch.
+
+Die unheimliche Suchtante geht da gerade desintegrativ zu Werke & legt das
+nach eigenem Gutdünken aus (so wie auch die Abkürzung und damit Verhunzung
+von zitierten Adressen).  Vielleicht ist das die Retourkutsche dafür, dass
+das Usenet irgendwie nicht in ihren globalen Bauchladen gepasst hat.

@@ -1,0 +1,19 @@
+Nun haben ja schon genug andere Leute gesagt, daß Patt der normale
+Fachausdruck für die spezielle Remisstellung ist, die sich ergibt, wenn
+jemand am Zug ist, und keinen Zug machen kann, der seinen König
+nicht bedroht. Ich habe es auch ausschließlich in dieser Bedeutung
+gehört. Gibt es wirklich Schachspielerkreise, in denen Patt ein
+Synonym für ein beliebiges Remis ist?
+
+BTW: ich finde die Pattregel höchst unlogisch. Ziel des Spiels
+ist es, den gegnerischen König zu schlagen. Das funktioniert nur,
+wenn man dem König keine Möglichkeit mehr gibt, ein nicht bedrohtes
+Feld zu erreichen, so daß man ihn im übernächsten Halbzug schlagen
+kann. Eine Pattstellung erreicht das ebenso wie eine Mattstellung. 
+Warum das eine zum Remis, das andere zum Sieg führt, ist eigentlich 
+unlogisch. Vielleicht hängt das ja mit der Marotte zusammen, die
+Partie 2 Halbzüge vor dem eigentlichen Ende grundsätzlich
+abzubrechen...
+
+Gruß
+Albrecht

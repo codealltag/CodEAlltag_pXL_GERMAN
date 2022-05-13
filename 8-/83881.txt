@@ -1,0 +1,17 @@
+Man sollte digitale Maschinen nicht vermenschlichen -- das mögen die nicht!
+
+
+Ergo physikalisch, aber dazu waren viele chemische Schritte notwendig.
+
+
+Das ist es prinzipiell für jeden Bildsensor, nachdem es "Klick!" gemacht
+hat!  Der Unterschied ist, daß "chemische" Photographie passiv ist (es
+bedarf zusätzlicher Schritte, um ein "Pixel" sichtbar zu machen), während
+"CCD"s aktiv sind und zusätzlicher Schritte bedürfen, um ein "Pixel"
+sichtbar zu machen.
+
+Zugegeben, der Schiedunter ist minimal, aber so ist das heute nun mal:
+alles braucht Energie -- und keiner weiß, barum!
+
+
+dietrich

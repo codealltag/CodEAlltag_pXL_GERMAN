@@ -1,0 +1,5 @@
+Die "zurück zum letzten gelesenen Artikel" ist im vielen Newsreadern 
+unzuverlässig (z.B. Thunderbird) oder gar nicht vorhanden. Diese 
+Funktion ist ein dicker Pluspunkt von Dialog.
+
+François

@@ -1,0 +1,28 @@
+Die einfachste Lösung:
+Gib deine Mail-Adresse auf, und schaff dir eine neue.
+
+Meine Lösung:
+Ich habe ein Mailhotel, was bedeutet, dass ich allerlei
+Mail-Adressen machen kann. Ich habe dann schöne und heimliche
+Adressen gemacht, die ich nie in Öffentlichkeit nebutze, und ich
+mache eine Adresse die ich in Öffentlichkeit benutze und die ich
+ab und zu ändere, wenn die Spam-Menge "gross genug" geworden ist.
+
+Heute bekomme ich durchschnittlich ein oder zwei pro Tag, und
+meine Adresse ist vielleicht ein Jahr alt.
+
+
+... Ach, du fragst nicht von einer fundamentalen Lösung, sondern
+nur um das konkrete Problem.
+
+Ich habe ein Programm, SimpleCheck. Das liest, welche Mails sich
+jetzt auf den Server befinden und zeigt es mit einer Zeile pro
+Mail. Dann kann ich die Mails abmerken und Löschen bestellen. Die
+gewöhnliche Methoden zu abmerken wirken ([Shift] halten und
+[Down/Up] merkt mehrere Zeilen).
+
+http://hesxmxtdpoy.tpd/sefhveec/oalrucqjeri/
+
+-- 
+Gruß
+Otmar, Dänemark

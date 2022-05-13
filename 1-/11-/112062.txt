@@ -1,0 +1,13 @@
+Es gibt durchaus Programme, bei denen je nach Encoding unterschiedliche
+Fonts verwendet werden. Das ist nicht ganz so unsinnig, wie es auf den
+ersten Blick scheint, weil aus dem Encoding nämlich in einigen Fällen
+Schlüsse auf die Sprache gezogen werden können: Ein Artikel in ISO-2022
+ist höchstwahrscheinlich japanisch, einer in GB2312 höchstwahrscheinlich
+chinesisch und entsprechend sollte der Font gewählt werden. Bei
+Verwendung von UTF-8 ist die Erkennung der Sprache nur anhand des
+Encodings nicht möglich (das kann alles sein), daher wird man hier einen
+möglichst neutralen Font verwenden.
+
+Ob das auf Ulf Newsreader zutrifft, weiß ich nicht.
+
+	hp

@@ -1,0 +1,13 @@
+Das sind alles Lehnwörter aus dem Lateinischen:
+
+Tisch < diskus
+Zabel < tabula   (Spielbrett)
+
+Tafel < tabula
+
+Die ersten beiden haben noch die zweite Lautverschiebung mitgemacht,
+"Tafel" nicht mehr, ist also jünger, was eine Ersetzung Tafel->Tisch
+unwahrscheinlich macht.
+
+-- 
+Heimo "gerti" Zapfhahn                          xzvzl@qvld.abwd.sz

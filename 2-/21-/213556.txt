@@ -1,0 +1,6 @@
+Du weißt doch ganz genau, dass es sowas wie ein "UDP" überhaupt nicht
+gibt.
+fup dahin, wo's hin gehört.
+
+Immer zu Diensten
+Till Eulenspiegel

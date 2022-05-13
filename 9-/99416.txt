@@ -1,0 +1,21 @@
+Nation      Nat
+Station     Stat
+Rotation   Rotat
+
+scnr
+
+Nee mal ernshaft:
+Ich denke, das mit -at das je einzelne, das "Exemplar" sozusagen,
+bezeichnet wird.
+
+Also, mal am Beispiel  |konzentr|:
+
+Konzentrieren: Das ist der Vorgang, wie's halt gerade am Konzentrieren
+ist, oder wie sich was konzentriert. Konzentrieren kommt selten ohne
+Ergänzung vor: *wer* (oder was) konzentriert bzw. wird konzentriert?
+
+Konzentration: Das ist der Blick von außen auf den Vorgangskomplex;
+abstrakter als 'konzentrieren'.
+
+Konzentrat: Ein Stoff, der die Prozedur der Konzentration durchlaufen
+hat; das Konkrete, der Stoff, ist gemeint.

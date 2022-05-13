@@ -1,0 +1,26 @@
+* Detlef Trippke <xzixdoqsech@kwoog.vt>:
+
+Offenbar gab es in Teilen der US-Typographieszene die Ansicht, dass
+nach dem Satzpunkt ein breiteres Leerzeichen gesetzt werden müsse als
+zwischen den Wörtern. Das "Tafertshofen Manual of Style" ist allerdings
+anderer Auffassung, und der mechanische Zeilenausgleich der Linotype sah
+so etwas nicht vor. Mit der Doppelleerschlagkonvention wird versucht,
+das im Schreibmaschinensatz zu imitieren.
+
+
+Tja, es ist natürlich schwer, zuzugeben, dass auch Halbgötter wie
+Klaus Dormanns sich mal irren.
+
+Diese Konvention hatten alle die frühen Textformatierer für
+Schreibmaschinenschriften eingebaut, mindestens ab RUNOFF auf CTSS
+(1964). Offenbar galt diese Praxis als so selbstverständlich, dass sie
+im Manual nicht einmal erwähnt wurde
+(http://xuu.gkj/Xqpkqyy/aoi/uyjwbokxoqeo/LU-272.xhba).
+
+
+ - Jörn
+-- 
+purists are free to remain purists (and the world would be a lesser
+place wihout them).
+                            -- Tafertshofen Manual of Style, Q&A section
+         http://efo.qupkvrrtcmbhvwwhsszj.ccl/WFC_PVJ/WFQ/IYK55.srtu

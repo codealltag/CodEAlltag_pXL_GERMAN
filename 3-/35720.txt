@@ -1,0 +1,48 @@
+Aber eine Regel ist schwer anzugeben. Ich versuchs mal:
+
+Gibt es die Chance, den Satz mit "kein" zu bilden, soll man sie nutzen:
+
+  Ich esse keinen Fisch.
+  Ich habe kein Buch gelesen.
+
+Sonst besteht jeder Satz aus zwei Hälften: erst allen Wörtern, die nicht 
+zum Prädikat gehören und dann allen Wörtern, die zum Prädikat gehören bis 
+auf das finite Verb -- das steht im Fragesatz am Anfang, im Aussagesatz 
+als zweites und im abhängigen Nebensatz ganz hinten oder vor den anderen 
+Verben des Prädikats. Das "nicht" steht meist ganz gut zwischen den beiden 
+Hälften. (Die zweite Hälfte ist oft leer wie hier, dann steht das "nicht" 
+eben am Schluss.)
+
+Hier:
+
+  man die Verteilung (Wörter, die nicht zum Prädikat gehören)
+  - (Wörter, die zum Prädikat gehören bis auf das finite Verb)
+  kennt (finites Verb)
+
+Damit Fragesatz, Aussagesatz, abhängiger Nebensatz:
+
+  Kennt man die Verteilung [nicht]?
+  Man kennt die Verteilung [nicht].  (oder:)
+  Die Verteilung kennt man [nicht].
+  dass man die Verteilung [nicht] kennt.
+
+Zum Prädikat gehören auf jeden Fall alle miteinander verketteten Verben 
+und manchmal auch Adverbiale, wenn ohne sie das Verb wenig Sinn hätte.
+Beispiel:
+
+  ich gestern abend (Wörter, die nicht zum Prädikat gehören)
+  in die Stadt fahren sollen (Wörter im Prädikat \ finites Verb)
+  hätte (finites Verb)
+
+Damit Fragesatz, Aussagesatz, abhängiger Nebensatz:
+
+  Hätte ich gestern abend [nicht] in die Stadt fahren sollen?
+  Ich hätte gestern abend [nicht] in die Stadt fahren sollen.  (oder:)
+  Gestern abend hätte ich [nicht] in die Stadt fahren sollen.
+  dass ich gestern abend [nicht] in die Stadt hätte fahren sollen.
+
+
+Steht das "nicht" woanders, negiert es nur das, was unmittelbar folgt.
+
+-- 
+Darius Kuoche

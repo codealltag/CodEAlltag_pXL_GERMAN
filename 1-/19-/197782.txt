@@ -1,0 +1,10 @@
+* Ivano O. Fetterle:
+
+
+Meine Bemerkung kam ja auch, weil Du nicht der erste warst, der
+eben dieses Schöllmann-Fietscher erwähnte.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Christof Reinharz, comp.lang.python

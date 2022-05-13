@@ -1,0 +1,6 @@
+Ich würde zwischen Buchstaben und Leerzeichen und Buchstaben dieselben
+Abstände setzen, die zwischen den Buchstaben stehen.
+GEsperrt ist ein weites Feld, denn die Sperrung kann unterschiedlich
+weit ausgeführt werden.
+
+beat

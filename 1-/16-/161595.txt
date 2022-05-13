@@ -1,0 +1,22 @@
+Wir kommen sicherlich in der Grammatik der Subjekt-Objekt-Sprachen,
+worunter eben Deutsch ("es regnet"), Französisch ("il pleut") etc. zu
+zählen sind, mit dem Begriff "Subjekt" durch. Manche Sprachen erfordern=
+
+eben die explizite Nennung eines solchen Subjektes ("es"), bei anderen
+ist das nicht der Fall (ital. "piove").
+Nun gibt es aber auch andere Sprachtypen, z.B. Sumerisch, wo das
+"Subjekt" nicht notwendigerweise benannt werden muss. Um solche Sprachen
+auch mit einzubeziehen, ist der Begriff des Subjektes ungeeignet, hier
+kann man von "Aktanten" sprechen. Im Sumerischen wäre dann der erste
+Aktant stets im Ergativ genannt, also bei transitiven Verben das
+"Objekt", bei nichttransitven das "Subjekt". Der andere Aktant wäre dan=
+n
+im Fall von Transitivität das "Subjekt". Versteht man den Begriff
+"Aktant" aber so umfassend, dann kann man m.E. nicht von Pseudo-Aktant
+sprechen, weil jeder Satz mindestens einen Aktanten hat. Die unten
+genannten Fälle lassen sich alle unter diesem Begriff subsumieren, es
+würde auf der anderen Ebene der Begriff des "Subjektes" reichen.
+
+
+Gruß
+Valerius

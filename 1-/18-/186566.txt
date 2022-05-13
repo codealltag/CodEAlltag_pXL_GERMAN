@@ -1,0 +1,15 @@
+Das Usenet ist ein Rechnerverbund. Der wird nicht einfach abgeschaltet.
+Es stirbt bei Desinteresse. Bei mehr Zensur im wwwDeppenWeb wird es
+länger leben. Es ist eine grundsätzliche Frage, die diese Vernetzung
+anders löst. Aus der Sicht der verfügbaren Information und dem Zugriff
+siehst Du das richtig.
+
+Die technische Entwicklung stagniert ja auch. Dabei wäre einiges
+möglich. Seiten könnte man redundant ablegen, nicht auf allen Rechnern,
+auf einigen. Dazu wäre ein Verteilungsalgorithmus nötig. Bessere
+Suchmaschinen wären gut.
+
+
+Hendrik
+-- 
+Die letzten Worte des Beifahrers: "Rechts ist frei."

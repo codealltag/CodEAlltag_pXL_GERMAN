@@ -1,0 +1,52 @@
+Ja, das war auch etwa mein erster Gedanke.  Geht man allerdings
+davon aus, dass Menschen nicht sinnfrei vor sich hin brabbeln
+--- und davon gehe ich aus, auch wenn es manchmal schwer fällt ---,
+dann erscheint mir Ralfs Darstellung recht naheliegend.
+
+Nehmen wir das Beispiel
+
+
+B wird sicher nicht bei jedem X-beliebigem A mit "Logisch!"
+antworten, so dass man die von Ralf behaupteten einfachen
+Regeln unterstellen muss, wie etwa:
+
+"Ist A ein sympatischer Mensch" & "Ich habe nichts anderes vor"
+& "A fragt ob ich mit Ihm/Ihr ein Bier trinken gehe" =>
+"Ich gehe mit A ein Bier trinken".
+
+Und damit ist es für B "logisch" mit A ein Bier trinken zu
+gehen, wenn die angegebenen Voraussetzungen erfüllt sind.
+
+Weiter, denke ich, darf man bei dieser Diskussion nicht
+den Fehler machen aus sprachlichen Eigenheiten logische
+(Un)eigenheiten zu machen.  Der Ausruf "Logisch!" ist natürlich
+kein Schluss, allerdings wird dabei das sprachliche Stilmittel
+der Ellipse verwendet und es ließe sich mit den obigen
+Voraussetzungen ohne weiteres der dazugehörige logische
+Schluss formulieren, der zu dem Ausruf Äquivalent ist.
+
+Außerdem ist logisch nicht wahrheitssch�pfend sondern "nur"
+wahrheitskonservierend.
+
+
+D.h. nur weil Dir keine Voraussetzungen (Regeln) zugängig
+sind, die es Dir ermöglichen zu dem selben Schluss zu
+kommen, folgt nicht, dass es diese Voraussetzungen nicht
+für deinen Gesprächspartner geben kann(, die natürlich ohne
+weiteres inhaltlich falsch sein können).  Tatsächlich ist
+es sogar naheliegend, dass er Voraussetzungen hat, die ihm
+den gezogenen Schluss erlauben.
+
+
+Z.B. B geht stets um 7:30 Uhr Duschen.  A fragt um 8:00 Uhr.
+Für B gilt: wenn es nach 7:30 Uhr ist, dann war ich schon
+duschen.
+Also ist es für B logisch, dass es schon duschen war.
+Wenn A die Tatsache "B geht stets um 7:30 Uhr Duschen"
+unbekannt ist, ist das für A nicht nachvollziehbar...
+
+
+Bist Du dieser Meinung immer noch? Wenn ja: warum?
+
+Gruß
+Richard

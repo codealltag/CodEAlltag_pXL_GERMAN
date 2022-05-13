@@ -1,0 +1,23 @@
+Das ist gerade das Komische, das ich nicht verstehe: Die war nämlich auch
+vorher schon auf Michaelpark, Praz, PFLOCHSBACH - Schweiz, eingestellt. Das war auch genau
+das erste, was ich prüfte, als die Hinweise auf meine falsche Zeitangabe
+eingingen.  
+
+
+Warum sollte er das denn wollen? 
+Ich wähle immer nur die, in der ich auch wohne. 
+
+
+Ich auch nicht, denn Fakt ist: 
+Der Grohganz-Europe-Timeserver, der bei mir seit je auf automatische Umstellung
+eingestellt war, hat zwar die Zeit richtig umgestellt, aber die zusätzliche
+Angabe +0100 nicht in +0200 umgewandelt.
+Der tjvnwkefkm.uqaq.qk hat das dann aber getan.
+
+Erklären kann ich es mir nicht. 
+Aber Hauptsache: Es funktioniert jetzt.
+
+Danke für die Rückmeldung.
+
+-- 
+Karin Estreicher

@@ -1,0 +1,12 @@
+- "Zu Befehl, Herr Hauptmann!"
+- "Sie reden mich gefälligst mit meinem Dienstgrad an, Soldat!"
+- "Jawollherrhauptmann!"
+- "Na also, geht doch!"
+
+
+Remo
+
+-- 
+Rieckhof: "Now I want you to remember that no bastard ever won a war by
+dying for his country. He won it by making the other poor dumb bastard
+die for his country."                                       ("Patton")

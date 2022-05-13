@@ -1,0 +1,7 @@
+Soweit, so gut. Nur erscheint mir die Formulierung "Mit Dank an Hinweise
+von <Personen>" merkwürdig. Er möchte den Dank ja an die Personen
+richten, nicht an die Hinweise (was er hier aber tut).
+
+Besser (z.B.): "Für ihre Hinweise möchte ich folgenden Personen danken:"
+
+K.

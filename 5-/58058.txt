@@ -1,0 +1,27 @@
+Du tust ja gerade, als bekäme ich morgen erst das aktive Wahlrecht;
+dabei habe ich selbst ein Interesse an Altersbildung...  ;-)
+
+
+Eine Abbildung (oder Funktion) ist bijektiv, wenn sie zu jedem
+Ausgangswert exakt einen Zielwert ergibt, *und* es eine
+Umkehrfunktion gibt, die zu jedem Zielwert wieder exakt den
+einen Ausgangswert liefert.  Beispiel: f(x) = 2*x ist bijektiv,
+weil sie einen gegebenen Wert auf das doppelte des Wertes abbildet,
+und es eine Umkehrfunktion dafür gibt (nämlich g(x) = x/2), mit
+der sich das eindeutig rückgängig machen läßt.  Es gilt also bei
+bijektiven Funktionen für jedes x (aus den reellen Zahlen, bzw.
+der jeweiligen Definitionsmenge): f(g(x)) = x.
+
+Die Quadratfunktion (f(x) = x^2) etwa ist nicht bijektiv, weil
+sie z.B. -2 und +2 auf denselben Wert 4 abbildet, und ihre
+Umkehrfunktion (g(x) = x^(1/2) = sqrt(x)) für Werte kleiner
+Null nicht definiert ist, und für z.B. 4 sowohl -2 als auch 2
+liefert (was natürlich stimmt, aber eben nicht eindeutig ist).
+
+
+Naja, die nicht, aber allerhand andere "foo"jektive Funktionen,
+von deren Existenz nur ganz erlauchte Mathematiker wissen dürfen,
+um das gemeine Volk nicht in den Wahnsinn zu treiben...  ;^)
+
+
+volkert

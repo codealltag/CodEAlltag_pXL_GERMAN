@@ -1,0 +1,62 @@
+Noch einmal der Originaltext:
+
+"Diese Verordnung gilt nicht fuer ganze Körper oder Teile von
+Wildtieren, ausgenommen von frei lebendem Wild, bei denen kein
+Verdacht auf Vorliegen einer auf Mensch oder Tier übertragbaren
+Krankheit besteht, außer Wassertiere, die für Handelszwecke angelandet
+werden."
+
+Grundstruktur:
+
+Regel:
+
+Diese Verordnung gilt nicht fuer | ganze Körper oder Teile | von
+Wildtieren, bei denen kein Verdacht auf Vorliegen | einer auf Mensch
+oder Tier übertragbaren Krankheit| besteht.
+
+Bedeutet: Wenn kein Krankheitsverdacht besteht, gilt diese Verordnung
+nicht für ganze Körper oder Teile von Wildtieren. 
+
+1. Ausnahme (nach den Wildtieren):
+
+Diese Verordnung gilt nicht fuer | ganze Körper oder Teile | _von
+Wildtieren, ausgenommen von frei lebendem Wild,_ bei denen kein Verdacht
+auf Vorliegen | einer auf Mensch oder Tier übertragbaren Krankheit|
+besteht.
+
+Bedeutet: Die Regel gilt für Wildtiere mit Ausnahme von freilebendem
+Wild.
+
+Da die Regel lautet: "Diese Verordnung gilt nicht...", bedeutet die
+Ausnahme von der Regel: "Diese Verordnung _gilt_ im Ausnahmefall" (hier
+also bei frei lebendem Wild).
+
+2. Ausnahme
+
+Wildtier/Wassertier
+
+Dazu muß man wissen, daß der Artikel 3 der Vorschrift definiert, was im
+Sinne dieser Vorschrift Wildtiere und Wassertiere sind.
+
+Da "Wildtier" ein nicht vom Menschen gehaltenes Tier ist, unter
+"Wassertier" aber ein Wassertier gemäß Artikel 3 Absatz 1 Buchstabe e
+der Richtlinie 2006/88/EG verstanden wird, wären verdachtsfreie Fische
+von der Verordnung ausgenommen. 
+
+Das möchte der Verordnungsgeber allerdings nicht, so daß am Ende die
+Gegenausnahme eingefügt wird.
+
+Eigentlich alles sehr übersichtlich hier.
+
+
+Und hier ist das genaue Gegenteil beabsichtigt: Adressat ist nicht eine
+Maschine, die Programmbefehle abarbeitet, sondern eine Gemeinschaft, die
+23 verschiedene Sprachen spricht. Warum Kommentare bei Gesetzestexten
+notwendig sind, können wir in dsrm besprechen, das wäre hier OT.
+
+
+Größe Burkhard
+-- 
+Wer heldit einen glumenen hunt adir einen zamen wolf adir hirtz,
+beren adir affen, waz die zu schaden ton, daz sal her gelden
+		Sachsenspiegel, II, LXII 1.

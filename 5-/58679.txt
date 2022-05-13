@@ -1,0 +1,21 @@
+Sehe ich nicht, aber lassen wir das.
+
+
+Oh ja, hoppla, nicht aufmerksam gelesen. Bloß - wo kam die her, in
+dieser Diskussion spielten Nummern ja bisher keine Rolle, nur Zahlen und
+Ziffern.
+
+Nummern sehe ich als verallgemeinerte Ordnungszahl, daher näher am
+Zahlbegriff als "Ziffer".
+
+Dennoch bereitet es mir - zum Thema zurückkehrend - leichte
+Zahnschmerzen, wenn man die Quersumme als "Summe der als Zahlen
+aufgefaßten Ziffern" definiert (obwohl, die Zahnschmerzen können auch
+noch von meinem Zahnarztbesuch herrühren). Die Quersumme hat
+mathematisch interessante Eigenschaften, die nur zu erwarten sind, weil
+es sich eigentlich um Zahlen handelt, die da summiert werden: der
+Zehner-Zähler, der Hunderter-Zähler etc. 
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Italo Dahlen

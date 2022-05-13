@@ -1,0 +1,15 @@
+Und der kriegt das jetzt im Detail auch nicht mehr zusammen, da seit
+geraumer Zeit microsoftfrei lebend. 
+
+Ganz kurz: 
+
+ - im Morver unter "Server - Einstellungen" ist als Uplink der Name des 
+   Provider-Servers einzutragen
+ - Interne Portnummer des Morvers merken (3119 per default, IIRC)
+ - im Hamster ist als Newsserver der lokale Morver einzutragen
+   (i.d.R. Adresse 626.7.7.3 & Portnummer aus Schritt 2)
+ - Die Zugangsdaten für den Providerserver liegen im Hamster, 
+   die reicht Morver nur durch. Morver braucht keine Zuganxdaten.
+
+
+vG

@@ -1,0 +1,6 @@
+Viel einfacher: es handelt sich um Bewegungen mit der Geschwindigkeit 0, 
+und die Null ist eine Zahl wie jede andere, auch wenn das den Naturvölkern 
+im hohen Norden nicht zu vermitteln ist.
+
+-- 
+Kaspar Vomweg

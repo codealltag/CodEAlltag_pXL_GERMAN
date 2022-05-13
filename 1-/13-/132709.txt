@@ -1,0 +1,5 @@
+Brauche ich keine Wohnpalast-Lizenz, um WINE zu benutzen?
+
+Für ein Windows auf der VBox brauch ich sicher eine.
+
+Reiner

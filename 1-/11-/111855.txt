@@ -1,0 +1,6 @@
+Tja, wenn ich das wüsste. TB zeigt mir einfach nur "Sans Serif" an. Dann
+wird sich das vermutlich auf den Standard-Sansserif-Font von RSUE 4
+beziehen. Den finde ich aber gerade nicht raus (RSUE 4 ist schlimmer als
+Windows Vista!)
+
+Mike

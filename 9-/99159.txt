@@ -1,0 +1,21 @@
+Wenn gar kein Zeichensatz deklariert ist, unterstellt TB standardmäßig
+iso-8859-1. Das lässt sich aber ändern, wenn man denn will.
+
+Erkennt aber TB einen gültigen 'Content-Type', dann akzeptiert er den
+auch. TB überträgt den aber nicht auf einen im Subject nicht-kodierten
+Umlaut/Sonderzeichen. Was ja auch kein Garant für korrekte Darstellung
+wäre, kann ja die Kodierung im Subject eine andere sein als die
+Deklaration für den Body.
+M.E. ist das ein korrektes Verhalten, allerdings bin ich kein intimer
+Kenner der entsprechenden RfCs.
+
+
+Nicht dass ich wüsste.
+
+
+Ciao
+Rosina
+-- 
+ For those about to rock:
+ We salute You!
+ [AC/DC]

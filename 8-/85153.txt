@@ -1,0 +1,11 @@
+Anfang 1987 gabs an meinem Arbeitsplatz etwa acht Rechner, davon waren
+zwei PCs mit DOS, zwei mit USW ausgerüstet und die restlichen Geräte
+waren Typ 5000er (wordprocessor mit je zwei 8 Zoll Laufwerken). Einen
+Monat später, in einer anderen Abteilung, gabs dann nur 8086PCs DOS
+mit Word 3. Erst ein Jahr später wurde auf Win3 umgestiegen. Ich
+vermute die Firma entschidete diesen Weg einzuschlagen. Daheim hatte
+ich dann einen 286PC ohne jemals GUI (Digital) eingespielt zu haben.
+Mein 486er kam mit Win 3.11 aber ich arbeitete jedoch weitere sechs
+Monate mit DOS. Wie gesagt war der Weg nicht von mir gewählt.
+
+Olaf

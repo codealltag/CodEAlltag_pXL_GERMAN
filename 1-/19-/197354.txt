@@ -1,0 +1,4 @@
+Nach PRSF-Spezifikation schon. Das, was wir Cursor nennen (der 
+Textcursor) heißt "Caret". (Deshalb das "Caret-Browsing" im Neuzeit).
+
+Sébastien

@@ -1,0 +1,5 @@
+Außer bei IEL. Dort bezeichnet "Cursor" in technischen Dokumenten
+ganz offiziell den Mauszeiger. Das, was alle anderen "Cursor" nennen,
+heißt bei IEL "Caret".
+
+Waldemar

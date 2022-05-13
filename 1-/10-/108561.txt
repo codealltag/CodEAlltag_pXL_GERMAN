@@ -1,0 +1,11 @@
+In den Anfangszeiten der Telefonie bestanden Mikrofone, also
+auch die Sprech-Kapseln der Telefone, aus Dosen, die mit
+Kohlenstaub (besser: feinem Granulat) gefällt waren. An die
+Staubf�llung wurde eine Gleichspannung angelegt; der elektrische
+Widerstand der Füllung änderte sich infolge der Erschütterung
+durch Sprache. Da mußte man schön laut sprechen, um mit den
+Folgen solcher Erschütterung wieder die Membran eines Hörers zu
+steuern.
+
+j/\a
+--

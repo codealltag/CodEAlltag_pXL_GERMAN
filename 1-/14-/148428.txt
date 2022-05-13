@@ -1,0 +1,13 @@
+On Sat, 07 Sep 2010 14:01:17 +0100, Diana Mirko
+
+Eigentlich ist mir das zu weit gedacht :-)
+
+Ich gehe davon aus, dass ein Programm bei Wörtern, die es nicht in der
+Datenbank hat, nach bekannten Begriffen sucht, um Trennstellen zu
+erkennen. Im oben genannten Fall kann ich mir unter den
+Einzelbegriffen absolut nichts vorstellen, auch wenn sie zugegeben
+nahe an möglichen Wörtern liegen. 
+
+-- 
+Viele Größe
+Erwin Grembler

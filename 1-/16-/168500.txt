@@ -1,0 +1,11 @@
+* Claudio Tenhaeff:
+
+
+Man hat zwei Versicherungen - eine ist staatlich und an den Fahrer
+gebunden, und auf die wirken die Punkte. Die andere, private, an das
+Auto und damit den Halter. Die genaue Aufgabenverteilung ist mir auch
+nicht klar, die zweite ist aber die weit teurere.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Henrik Elsner, comp.lang.python

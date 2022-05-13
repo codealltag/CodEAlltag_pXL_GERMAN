@@ -1,0 +1,9 @@
+Genau.
+
+
+Das alt-Attribut soll nur auftauchen als Ersatz für ein Bild,
+wenn der Browser das Bild nicht zeigt.
+
+-- 
+Gruß
+Jörn, Dänemark

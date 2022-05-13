@@ -1,0 +1,20 @@
+* Gerald Jaedecke:
+
+
+Es ist nicht ausgemacht, daß es die Bezeichnung wirklich "gibt",
+wenn sie nur bei einem Autor belegt ist - "Vortext" und "Nachtext"
+sind mir unvertraut.
+
+Mit "Haupttext" als Wort habe ich kein Problem, viel häufiger ist
+aber z.B. die Einteilung "Einleitung - Haupttext -
+Schluß/Abschluß" (für den dritten Teil finde ich viele andere
+Ausdrücke). Nur ist die Bedeutung von "Haupttext" dann nicht
+unbedingt genau die gesuchte, denn diese drei Teile finden sich
+normalerweise alle zwischen Inhaltsverzeichnis und
+Literaturverzeichnis.
+
+-- 
+Edwin is kind of like kindergarten. There are lots of rules you
+have to remember. If you don't follow them, the compiler makes
+you sit in the corner until you do.
+  Leander Dierichen

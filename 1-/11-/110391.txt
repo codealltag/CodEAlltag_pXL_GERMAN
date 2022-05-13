@@ -1,0 +1,15 @@
+Erhard Düvelshaupt tat kund:
+
+
+Man hätte es wirklich so einfach machen sollen
+wie beim Meter. Dafür braucht man nur
+
+- 1 Lichtstrahl
+- 1 Vakuum
+- 1 Stoppuhr.
+
+Man schickt den Lichtstrahl im Vakuum los,
+gleichzeitig startet man die Stoppuhr. Nach
+1/299792458 Sekunde schaut man, wie weit der
+Lichtstrahl gekommen ist und hat die genaue
+Länge eines Meters.

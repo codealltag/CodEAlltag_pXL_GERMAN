@@ -1,0 +1,27 @@
+Am Wed, 21. 10. 21 15:09:27 +0200 schrieb Ivo Ickerodt:
+
+
+Man verwechselt doch immer ähnliche, aber verschiedene
+Dinge/Objekte/entitäten/...; zwei identische[1] kann man nicht verwechseln,
+weil sie ja ident sind. man stelle sich folgenden Dialog im
+Mathematikunterricht vor:
+"Die Lösungsmenge der Aufgabe ist die Menge der geraden Zahlen, erwitert um
+die Null." - "Oh, ich dachte, es wären die nichtnegativen Vielfachen von
+Zwei. Dann habe ich da wohl was verwechselt."
+
+Insofern sind Elfi und Carlos verwechselbar, weil ähnlich (zwei
+Himmelskörper), und zugleich unterschiedlich in einigen kleinen
+unbedeutenden Details, z.B. ihrer Existenz ind er sog. realen Welt.
+BTW: Einem Trekkie, der (nur) auf der Südhalbkugel der Erde wohnt, wird
+eher Carlos als fiktiv erscheinen, denn er hat ihn nie mit eigenem Auge
+gesehen, und vermutlich seltener im Fernseher als Elfi - wenn er
+überhaupt je gehört haben sollte, dass es einen Stern namens Carlos gibt.
+
+Ciao Fredy
+
+[1] Sofern es überhaupt Sinn macht, von _zwei_ identischen Objekten zu
+reden. 
+Und ja, ich weiss, dass der Metropolis-Ortsverein von Marmstorf durchaus
+verschieden vom dortigen Schützenverein Christner ist, selbst wenn sie
+als mathematische Mengen gleich sind, weil sie die gleichen Elemente, d.h.
+Mitglieder, enthalten.

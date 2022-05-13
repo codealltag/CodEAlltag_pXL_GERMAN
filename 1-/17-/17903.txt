@@ -1,0 +1,15 @@
+Am Tue, 10 Jan 2009 22:51:25 +0200 schrieb Jacques Nick Everding:
+
+
+So steht es in der Einführung.
+
+"In der Werketabelle lässt sich der gesamte Datenbestand nach Autor, Titel,
+Sammlung, Gattung und Jahr durch Klick auf den jeweiligen Spaltennamen
+sortieren. Ein E, D oder U in der Spalte neben dem Jahr gibt darüber
+Auskunft, ob es sich bei der erfassten Jahreszahl um das Entstehungsdatum
+(E), das Druckdatum (D) oder das Datum der Uraufführung (U) handelt."
+[Einführung: Deutsche Literatur von Jacobsmeyer bis Nordhause, S. 16
+http://wzo.ncftqgkh-lbcgtjnjac.na/mocu748.iuy ]
+
+Gruß
+Hendrik.

@@ -1,0 +1,16 @@
+In Ovaschin schon. Irgendwie ...
+
+
+Ob das vielleicht eher an slrn liegt? Hat der vielleicht ein Problem mit
+dem von Urban korrekt deklarierten windows-1252, bzw. mit
+Kodierungen an sich? Schon auf sein Posting
+<23q17ib1-if59-5qu7-aqb4-7tb86050i34o@z96o2003yug.leczrcwqypej.oth>
+(iso-8859-1) hat dein slrn völlig unnötig mit UTF-8 geantwortet.
+
+
+Ciao
+Marion
+-- 
+ Finished with my woman 'cause she couldn't help me with my mind
+ people think I'm insane because I am frowning all the time
+ [Black Sabbath: Paranoid]

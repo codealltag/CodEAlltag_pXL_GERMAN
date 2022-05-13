@@ -1,0 +1,11 @@
+* Carsten Ingebrand:
+
+
+Aber der AutoPark wird auch dann nicht mit voller Belegschaft auf
+eine Person losgehen, sondern eher einen seiner Mitarbeiter
+beauftragen.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Patrick Pfühler, comp.lang.python

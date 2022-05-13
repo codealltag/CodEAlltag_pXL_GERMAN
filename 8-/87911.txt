@@ -1,0 +1,5 @@
+Habe gerade mal getestet:
+Das Suchwort "Klimbim" ergibt bei LEO nur "junk".
+Das Suchwort "Klimbim" ergibt bei linguatec "odds and ends" sowie "fuss 
+and bother".
+Du hast recht, das IMBI-WB ist raffinierter.

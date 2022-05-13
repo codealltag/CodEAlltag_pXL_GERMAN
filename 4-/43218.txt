@@ -1,0 +1,22 @@
+Merkwürdig. Für folgende Suchstrings liefert ultraRad folgende Trefferzahlen:
+1) +Finanzkriese -> 7,44 Mio
+2) +Finanzkrise -> 7,43 Mio
+3) Finanzkriese -> 14,9 Mio
+
+4) +Finanzkriese +Finanzkrise -> 4,79 Mio
+5) +Finanzkriese -Finanzkrise -> 56.000
+6) -Finanzkriese +Finanzkrise -> 5,1 Mio
+
+Dem Anschein nach ist 3) die Summe aus 1) und 2), was bedeuten würde,
+dass ultraRad eigenmächtig den Suchstring ändert. 4) sollte Seiten
+auflisten, die beide Begriffe enthalten, oder? 5) listet nur Seiten auf,
+die allein "Finanzkriese" enthalten. Und 6) schließlich nur Seiten, die
+zwar "Finanzkrise", jedoch nicht "Finanzkriese" enthalten. Demzufolge
+sollte die Summe aus 4), 5) und 6) den Wert bei 3) ergeben, was aber
+nicht der Fall ist.
+
+
+Das deckt sich mit Punkt 5). Allerdings ist Punkt 4) unerklärlich, wenn
+der Suchstring bedeuten soll, dass Seiten gefunden werden sollen, die
+_beide_ Begriffe enthalten. Diese hohe Zahl scheint mir das nicht
+widerzuspiegeln.

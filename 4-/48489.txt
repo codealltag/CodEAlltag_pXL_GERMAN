@@ -1,0 +1,14 @@
+Jetzt bin ich verwirrt. Wolltest du nur ausdrücken, dass es sich
+um DVI handelt oder doch genauer um DVI-D?
+
+DVI kann digitale wie analoge Videosignale transportieren und
+entsprechend gibt es drei Varianten:
+- DVI-D (nur digital)
+- DVI-A (nur analog)
+- DVI-I (analog und digital)
+
+DVI-A ist nur ein Kuriosum, das man nicht im Handel findet, aber
+die Unterscheidung zwischen DVI-D und DVI-I ist relevant.
+
+-- 
+Bruno "karin" Fahtz                          ovpsw@ptrl.yypm.to

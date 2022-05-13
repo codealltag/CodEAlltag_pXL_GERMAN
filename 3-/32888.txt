@@ -1,0 +1,20 @@
+Wenn es keine wörtliche Rede sein soll, dann muß man es MUSEN mit
+indirekter Rede oder einer daß-Konstruktion kennzeichnen. Letzteres kam
+mir als erster Korrekturvorschlag in den Sinn und ich finde es immer
+noch am besten:
+
+  ... der Vorschlag, daß es jeden morgen in Deutschland hell wird und
+  nachts dunkel ist, in die Verfassung zu schreiben.
+
+Nur mit zwei Kommas ist das für mich nicht akzeptabel, es handelt sich
+schließlich um einen Objektsatz zu schreiben, und dafür kommt die Form
+Hauptsatz im Indikativ nicht in Frage. Analog ist der folgende Satz, und
+auch den akzeptiert MUSE nicht:
+
+  Jeden morgen wird es hell in Deutschland und nachts ist es dunkel, 
+  soll in die Verfassung geschrieben werden.
+
+Das kann ich auch nur als wörtliches Zitat lesen.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

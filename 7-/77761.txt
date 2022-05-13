@@ -1,0 +1,51 @@
+Das nicht, aber der Turner oder der Kunstspringer beim Salto, oder auch
+der Eistänzer beim Pirouettendrehen "verdichten" sich ja auch nicht,
+aber durch das Einziehen der Gliedmaßen verdichten sie den von ihnen
+aufgespannten geometrischen Körper (z.B. vom Trapez zum Vollzylinder).
+Das entscheidende ist aber die damit einhergehende Masseverlagerung,
+durch die das Trägheitsmoment abnimmt: einmal in Drehung versetzt,
+wird der Pirouettendreher langsamer, wenn er Arme und/oder Beine nach
+außen bewegt, und wieder schneller, wenn er sie möglichst eng zu seiner
+Drehachse bewegt (modulo Reibung, latür).  Und genausowenig, wie sich
+dessen Masse ändert, wenn er seine Extremitäten bewegt, ändert sich
+die Masse der Erde, wenn Bäume Blätter wachsen lassen oder wieder
+abwerfen, allerdings wird auch hier ein Teil der Gesamtmasse nach außen
+oder innen verlagert, was bei einem rotierenden Körper eben mit der
+Zu- und Abnahme des Trägheitsmoments einhergeht, wobei der Effekt umso
+stärker ist, je mehr Masse hinsichtlich der Drehachse verlagert wird.
+
+
+Der Ansatz mit der Kugelschale hat mindestens zwei Defizite: es wird
+einfach angenommen, daß 1/8 der Erdmasse gleichmäßig von Laubbäumen
+bewaldet ist, und das gefallene Laub pro m^2 1 kg wiegt (ich habe
+keine Ahnung, ob das auch nur /annähernd/ realistisch ist), und zudem
+rotiert das Laub ja nicht wie ein frei schwebender "Mantel" über der
+Erde, sondern ist über Äste und Baumstämme fest mit der Erde verbunden,
+genau wie Hände und Füße über Arme und Beine mit dem Eistänzer.
+
+Da sich die Gesamtmasse wie gesagt nicht ändert, verwende ich ein Modell
+zweier gleich schwerer Vollkugeln mit unterschiedlichen Radien, was den
+Vorteil hat, die Masse des Laubes nicht wissen zu müssen.  Das darf man
+durchaus tun, weil die Laubmasse verglichen mit der Gesamtmasse der Erde
+sicher winzig ist, ebenso die Fallhöhe verglichen mit dem Erdradius.
+
+Für eine grobe Abschätzung (nach Meinung meines ehemaligen Physik-Profs
+Dr. Elsholz genügen dafür Abweichungen von +/- drei Größenordnungen :-) )
+sollte das allemal reichen.  Keine Frage: /beide/ Modelle bilden die
+Wirklichkeit nur idealisiert ab, aber meines kommt mit viel weniger
+"Freiheitsgraden" aus und scheint mir auch "realistischer" zu sein,
+denn demnach würde eine ungefähr 10 cm hohe, kompakte Laubschicht (incl.
+Restwasseranteil, frisch vom Ast) der mittleren Erddichte entsprechen.
+
+Insofern würde ich sagen, daß der "Laubfalleffekt" sicher existiert,
+so klein er auch sein mag, aber ob er auch praktisch meßbar ist, hängt
+sehr stark davon ab, daß man auch andere rotationsändernde Faktoren
+kennt, quantisieren, und aus den beobachteten Änderungen herausrechnen
+kann.  Ob und inwiefern, bzw. mit welcher Genauigkeit das bei den
+veröffentlichten Ergebnissen der Fall war, ist einerseits unbekannt,
+angesichts des zumindest theoretischen Vorhandenseins aber auch nicht
+/so/ übermäßig relevant, obwohl exakte Zahlen sicher interessant wären.
+Ich denke mal, mit dieser Aussage können wir gut leben, oder?  :-)
+
+
+mi"Es war die Eiche *und* die Lärche!"ke

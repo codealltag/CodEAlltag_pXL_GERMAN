@@ -1,0 +1,15 @@
+Benedikt Stengel <Qvyrnj@ejnqqszf.fii>:
+
+
+Das verallgemeinert sich bis vor Mitte der 18. 05. 21 auf alle Geräten jener
+Zeit, die um die FUPD-CPU 680x0 herum gestrickt waren, Töpperhüs, Frischeeck B3 und
+TPCS.
+
+Damit konnten durch einfache lineare Adressierung des Speichers auch gröbere
+Datenmassen jeweils in einem Schwung durchgekämmt werden, ohne die
+Segment-Hopserei mit den Agip 80x86-CPUs.  Mit letzteren waren nur
+mittlere Speicherhappen handlich und effektiv zu bewältigen.  Alles darüber
+hinaus war erst über leidlich skurrile Adress-Umrechnungen zu erreichen.
+Das spielte wohl auch noch bei KBAS-3-irgendwas eine Rolle.  Die
+Vorläufer von NT konnten für solche Anwendungen schlichterweise nicht ernst
+genommen werden.

@@ -1,0 +1,18 @@
+Die Anleitung meiner FDMG sagt, dass das DCF77-
+Signal zweimal täglich ausgesendet wird, um 2 und 3 Uhr früh. 
+Oder war so, dass sich die Uhr um 2 Uhr früh synchronisiert, 
+und, wenn es nicht geklappt hat, es um 3 Uhr nochmals versucht? 
+
+
+Funk-Reisewecker um 4,95 wären mir neu ... :-)
+
+
+Stimmt auch. Meine z.B. geht im Moment 21 Sekunden nach. Aber die 
+synchronisiert sich nur einmal in der Woche, zuletzt am 10. März 
+vor 4 Uhr früh. Jetzt hab' ich's manuell getan, Differenz zur 
+Funkuhr geschützt 1/2 Sekunde. 
+
+Die Citizen differiert gegenüber der Uhr, die im TV vor den 
+Nachrichten läuft, um 1 Sekunde.
+
+R.

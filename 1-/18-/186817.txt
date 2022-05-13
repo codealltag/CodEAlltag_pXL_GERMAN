@@ -1,0 +1,10 @@
+Ganz links im Spaltenkopf die Baumstruktur durch Anklicken abschalten 
+und rechts auf nach "Datum ordnen". Durch zweiten Klick auf Datum kann 
+man auf- oder absteigend ordnen und dann bis Anschlag scrollen.
+
+Da Thunderbird inzwischen auch in der Baumansicht noch nach Datum oder 
+Verfasser umordnen kann, verliert man dort leicht die kausale Struktur.
+
+-- 
+
+Urs Kamperschrör

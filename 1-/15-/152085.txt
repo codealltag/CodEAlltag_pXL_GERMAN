@@ -1,0 +1,13 @@
+Hier müsstest du allerdings "langgezogen" und "grün gestrichen" einander
+gegenüberstellen. 
+Wer sollte denn "grün angestrichen" wirklich zusammenschreiben wollen?
+
+
+Das würde dann also hier zutreffen: grün gestrichen <-> gr�ngestrichen
+
+    Die Bank ist grün gestrichen (nicht rot)
+    Siehst du die grüngestrichene Bank dort?
+
+
+-- 
+Trudi Zeimer

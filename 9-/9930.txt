@@ -1,0 +1,5 @@
+Der Plural "Rekorde" scheint mir falsch. Es kann doch immer nur ein
+Rekord, nämlich der direkt zurückliegende, gebrochen werden. 
+
+-- 
+Özlem Eichwedel

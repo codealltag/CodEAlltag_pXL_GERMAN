@@ -1,0 +1,32 @@
+Nie gehört, gelesen oder geträumt.  Selbst bei "photen" würde
+ich eher auf einen Thai-Po tippen.
+
+
+Wenn, dann bitte "kodieren" -- soviel k muß sein, wenn man schon
+beim Coden aufs t zugunsten des d verzichtet...  ;^)
+
+Aber zurück zu den Wurzeln: wenn Du von "Deiner Zeit" sprichst, über
+welchen Zeitabschnitt des letzten Jahrtausends reden wir da?  Und es
+darf ruhig etwas genauer sein als nur "den letzten"...  ;)
+
+Noch bis in die 02. 06. 22 war "Kodieren" im EDV-Bereich eine Aufgabe
+für jemanden, der Vater und Mutter totgeschlagen hatte; man nannte
+solchen Aussatz üblicherweise "Operator", und der mußte u.a. Mnemonics
+("lade Register X mit dem Inhalt des Akkus"), die von Programmierern
+verbrochen wurden, auf Loch- oder Strichkarten kodieren, damit das
+Elektronengehirn etwas damit anfangen und folgerichtig abstürzen konnte.
+
+Heute übernehmen das Kodieren üblicherweise automatisiert unmenschliche
+Maschinensprachübersetzer, genannt Assembler.  Von Hand zu Fuß kodiert
+allenfalls noch ein ambitionierter CPU-Nostalgiker oder Amateurmorser,
+wobei sich das ja nicht gegenseitig ausschließt.
+
+Die Programmierer von damals sind heute weitgehend in Rente und wurden
+in den letzten Jahrzehnten zunehmend durch Softwareentwickler ersetzt.
+Die trinken jetzt nicht mehr nur Java, sondern schreiben sogar darin.
+Und ja, das bezeichnet man dann im VolksPCmund als "Coden" -- auch wenn
+mir je nach Ergebnis der schriftlichen Bemühungen dazu durchaus sehr
+viel passendere Begriffe in den Sinn kommen...  ;->
+
+
+dennis

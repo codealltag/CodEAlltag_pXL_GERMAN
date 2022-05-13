@@ -1,0 +1,53 @@
+Der Vorschlag ist gut.
+
+Die Schwierigkeiten mit der Leserichtung resultieren aus der Übernahme
+aus dem Arabischen.
+
+Arabisch wird von rechts nach links gelesen, die Zahlen werden
+in der gleichen Richtung geschrieben, wie wir sie kennen.
+Der Leser eines arabischen Textes trifft also beim Lesen zuerst auf
+die niederwertigste Stelle(!).
+
+Konsequenterweise hätte man die Zahlen bei der Entlehnung aus dem
+Arabischen umdrehen müssen, was aber unterblieb. Es unterblieb wohl
+deshalb, weil sich sonst ein schwerwiegendes Problem mit der
+Kompatibilität der Zahlen ergeben hätte, eine Art frühes Rechts-
+Linksverkehr Problem. (Oder man hätte das "least significant Bit"
+markieren müssen). Glücklicherweise also hat man bei der Übernahme der
+Zahlen die arabische Leserichtung beibehalten.
+
+Nehmen wir an, wir könnten jetzt noch die Schreibrichtung der
+Numerale ändern. Dann wäre ein Konzept, wie Dietrich es vorschlägt,
+die logischste Lösung.
+
+Beispiel: die Zahl 25387
+
+nach heutiger Lesart: Fünfundzwanzigtausend dreihundert siebenundachtzig
+
+
+nach neuer Schreibart  30509
+
+nach neuer Lesart:  siebenundachtzig dreihundert fünfundzwanzigtausend
+
+Auch vereinfachen sich Additionen:
+
+73 +
+95
+--
+101
+
+weil der Übertrag in üblicher Leserichtung weitergegeben wird
+und die Zahlen einfach untereinander geschrieben werden können ohne
+sie rechtsbündig ausrichten zu müssen.
+Man muss sich nur daran gewöhnen, das die Zehn dann so aussieht: 01.
+
+4358 + (vierunddreisig fünfhundert achttausend plus
+98    (neunundachzig)
+--
+3268  (dreiundzwanzig sechshundert achttausend).
+
+Alles viel einfacher
+
+
+Gruss
+Theodors

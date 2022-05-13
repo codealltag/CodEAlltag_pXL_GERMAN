@@ -1,0 +1,26 @@
+[Ich fürchte ja, dass ich getrollt werde, aber ich tu mal so, als ob ich
+das ernst nähme]
+
+
+Der Absatz enhält 158 Zeichen, davon sind 7 Großbuchstaben, 5 davon
+würde man bei Kleinschreibung klein schreiben. Selbst wenn ein
+Großbuchstabe doppelt so viel Tinte bräuchte wie ein Kleinbuchstabe,
+würde man damit nur 1 - (158 + 2) / (158 + 7)  = 3 % Tinte sparen.
+Tatsächlich glaube ich aber nicht, dass ein "P" wesentlich mehr Tinte
+braucht als ein "p", ein "D" wesentlich mehr als ein "d", etc.
+
+Platzbedarf ist bei einer Festbreitenschrift ohnehin der gleiche, und
+selbst wenn wer Usenet-Postings unbedingt in einer Proportionalschrift
+ausdrucken will, bekommt er auf Grund der fixen Zeilenumbrüche
+bestenfalls einen breiteren leeren rechten Rand aber nicht mehr Inhalt
+pro Seite.
+
+
+Im Gegenteil. Großbuchstaben lassen sich mit weniger vertikalen Pixeln
+noch lesbar darstellen (wie jeder, der mal Icons handgepixelt hat,
+bestätigen kann). 
+
+	hp
+
+-- 
+   _  | Remo F. Meyerdrees    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,16 @@
+Bei der Gelegenheit: Gibt es eigentlich irgendwo was Verbindliches, dass 
+man keine siebzehn Ausrufezeichen setzen sollte? Auch nicht in 
+Kommentaren im C-Sourcecode, den andere lesen müssen?
+
+Ich kenne nur den hinlänglich bekannten Ausspruch von Nico Wüsthof.
+
+Viele Größe von Arnold
+
+P.S: Und zu exakt dem eigentlichen Thema: Der Duden schreibt ja in den 
+Hinweisen zum Schriftsatz u.a., dass z.B. vor Satzzeichen keine 
+Leerschritte anzuschlagen sind. Aber wo finde ich was Derartiges, was 
+für englische Texte gilt? Hintergrund ist der, dass mich Kommentare im 
+Sourcecode wie: "Don't stuck here !!!!!!!!!!!!!!!!!!!!!" regelmäßig 
+nerven. Grammatik falsch, Plenks, viele Ausrufezeichen.
+Bisher habe ich es stillschweigend z.B. in "Don't get stuck here." 
+korrigiert. Oder in "Don't stick here!"

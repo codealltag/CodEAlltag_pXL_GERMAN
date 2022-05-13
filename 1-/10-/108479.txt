@@ -1,0 +1,10 @@
+Am Fri, 03. 12. 22 11:25:16 -0700 (PDT) schrieb Luigi Ziegelschmied:
+
+
+Was ich dir jetzt gerne sagen würde, sprengt leider den gebotenen Anstand.
+
+1. konfiguriere deinen reader so, dass er supersedes respektiert, wenns
+schon dein server nicht tut.
+2. sei weise....
+
+..|..

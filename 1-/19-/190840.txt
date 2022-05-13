@@ -1,0 +1,12 @@
+* Thorsten Zschucke:
+
+
+Das ist sogar noch der ältere Grund. Hinzu kommt inzwischen, daß
+viele einzelne Seiten aus in Datenbanken irgendwie verteilten
+Inhalten generiert werden; diese sind gar nicht statisch existent,
+sondern sind wechselnde Collagebilder aus dem ganzen Webauftritt.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Fabian Zirnich
+   in oy.hly.ommmghsm.recovery)

@@ -1,0 +1,17 @@
+Das gibt sich nicht viel, meiner Ansicht nach. Wenn man das
+Übersetzungsverhältnis im Getriebe und das Gewicht des Wagens
+kennt, kann man theoretisch natürlich aus dem Drehmoment
+die mögliche Beschleunigung errechnen. Da man das aber
+normalerweise nicht im Kopf hat, bleiben die Nm das, was
+die kW auch sind: eine Vergleichsgröße, die man mit
+den Werten von anderen Autos, deren Beschleunigungsverhalten
+man kennt, vergleichen kann.
+
+
+Ich habe schon lange keinen Fahrradreifen mehr in der Hand gehabt,
+auf dem nicht der Maximaldruck in bar angegeben war. Mit dem
+ich üblicherweise auch was anfangen kann, wenn ich (wie fast immer)
+ohne Manometer pumpe.
+
+Gruß
+Frerich

@@ -1,0 +1,5 @@
+Gebärdensprachen machen sowas. Da kann man verschiedene Raumpositionen 
+so wie in deinem Beispiel als Pronomina markieren, und sie später als 
+Referenz verwenden.
+
+René

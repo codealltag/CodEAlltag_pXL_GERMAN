@@ -1,0 +1,10 @@
+Die 'Übersetzung' eines Textes wird dabei automatisch aus einer DB 
+generiert. Die Übersetzer liefern das Rohmaterial, die übersetzten Wörter.
+
+Was ich meinte: 'Hier hast Du 5.000 Wörter, Übersetz die für Firma XYZ ins 
+Deutsche. Für jedes Wort bitte nur eine Übersetzung.'. Ist so ein Auftrag 
+für einen Übersetzer ein Job wie jeder andere oder denkt man sich dabei 
+'Was für ein Quatsch, dabei kann doch nichts Vernünftiges rauskommen'?
+
+Größe
+- Uwe Wilike

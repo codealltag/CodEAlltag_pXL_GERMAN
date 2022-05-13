@@ -1,0 +1,23 @@
+In Gerhart Buch "Language Universals and Linguistic Typology" gibt es ein 
+Kapitel "Subjecthood", in der er quer durch viele Sprachen diskutiert, 
+wann man von einem Subjekt sprechen kann: Gehts da um Semantik 
+(der/die/das Handelnde), um Morphologie (der/die/das im Nominativ), um 
+Pragmatik (das Thema des Satzes), um Syntax (der/die/das am Satzanfang)? 
+Muss jeder oder fast jeder Satz ein Subjekt haben? Und so weiter. Fazit 
+war: keine der möglichen definierenden Eigenschaften von "Subjekt" ist in 
+irgendeiner Sprache zwingend, aber in sehr vielen Sprachen gibt es 
+identifizierbare Satzteile, die *meistens* die *meisten* dieser 
+Eigenschaften haben, und diese Satzteile werden auch gerne beim übersetzen 
+aufeinander abgebildet. Es gibt also *wirklich* etwas, was hinter 
+"Subjekt" steckt, aber das mit *einer* Eigenschaft definieren zu wollen, 
+wäre ungenauer als mit einer Sammlung nicht notwendiger Eigenschaften.
+
+In diesem Sinne war ich auf der Suche nach -- gerne auch mehreren und 
+nicht unbedingt notwendigen -- definierenden Eigenschaften von "Gerund". 
+Aber da kommt nicht viel heraus: die gemeinsamen Eigenschaften sind 
+wenige, und die Sprachen, wo es überhaupt so etwas gibt, sind auch wenige. 
+Der Definitionsaufwand lohnt insofern nicht, wenn es über den Bereich 
+einer einzelnen Sprache hinausgeht.
+
+-- 
+Guido Langewiesche

@@ -1,0 +1,55 @@
+Wieso? Es gibt dafür eine Regel, die man in der Mathematik beweisen kann 
+(meist so, dass einer der Quantoren mit Hilfe dieser Regel definiert wird, 
+z.B. "A" ist definiert als "� E �" und man muss nur noch zeigen, dass auch 
+E <=> � A �) und das natürlich auch im täglichen Leben und in der 
+Alltagssprache gilt.
+
+
+Ja, soweit es Deutsch ist.
+
+
+Hier kann man aber aus der pseudoformalen und pseudodeutschen Schreibweise 
+leicht darauf schließen, was gemeint ist. Soweit ist der Schluss in Ordnung.
+
+Die Tücke liegt darin, dass man oft Klammern braucht, die in natürlicher 
+Sprache nicht mitgesprochen werden, so dass deutsche Sätze dann mehrdeutig 
+werden. Man behilft sich mit Konstruktionen wie "sowohl A oder B als auch 
+C" im Gegensatz zu "A oder sowohl B als auch C" anstelle des mehrdeutigen 
+"A oder B und C", aber schönes, verständliches Deutsch ist das nicht.
+
+Eine weitere Tücke der Logik in der natürlichen Sprache sind Ellipsen, 
+also weggelassene Satzteile, die vielleicht nach dem Distributivgesetz 
+ergänzt gehören, vielleicht auch nicht: "nette und hübsche Kinder" können 
+zwei Sorten Kinder sein (nach dem Distributivgesetz "nette Kinder und 
+hübsche Kinder") oder Kinder, die zwei Eigenschaften haben (geklammert 
+"(nette und hübsche) Kinder"). Der erste Fall läuft ungefähr auf "nette 
+oder hübsche Kinder" hinaus; das Umdrehen des Junktors passiert also nicht 
+nur bei Negation.
+
+Aufgelöst werden solche Mehrdeutigkeiten nach dem Weltwissen) (der Hörer 
+weiß, welche Aussagen in der Welt, über die gesprochen wird, sinnvoll 
+sind) oder nach dem Kontext (was ist zuvor gesagt worden und welche neue 
+Aussage kann daher sinnvoll sein): "fleißige und kompetente Mitarbeiter" 
+sind wohl Mitarbeter, die fleißig *und* kompetent sind, während "junge und 
+alte Menschen" eher welche sind, die jung *oder* alt sind.
+
+�) Hier darf die Bemerkung von U.Jaensch nicht fehlen, dass nicht die 
+Welt dazu da ist, die Mehrdeutigkeiten der Sprache aufzulösen, sondern die 
+Sprache, die Mehrdeutigkeiten der Welt aufzulösen.
+
+Ein anderer Fall von Ellipsen sind unvollständige Sätze wie "Der Hund biss 
+den Mann und rannte weg." Wir ergänzen, dass der Hund wegrannte, weil er 
+das Subjekt des Satzes ist, während es bei "Der Mann wurde vom Hund 
+gebissen und rannte weg." umgekehrt ist. Aber nicht jede Sprache hat 
+Subjekte in unserem Sinn, und da kann das "und" mehrdeutig sein.
+
+Ein ähnlicher Fall kommt auch im Deutschen vor: "Liebst du mich mehr als 
+Ilka?" kann heißen "Liebst du mich mehr als [du] Ilka [liebst]?" 
+oder aber auch "Liebst du mich mehr als Ilka [mich liebt]?"
+
+Fazit: Die Logik gilt auch für die natürliche Sprache, aber die kann das 
+nicht immer adäquat ausdrücken. (Es wird wohl für jedes der Beispiele auch 
+eine Sprache geben, wo die jeweilige Mehrdeutigkeit nicht auftritt.)
+
+-- 
+Cédric Lönnendunk

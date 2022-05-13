@@ -1,0 +1,4 @@
+In den obigen Beispielen bedeuten _forty-something_ und
+_forty-some_ NUR das *Alter* einer Person, nicht eine Menge.
+
+~~~ Cornelius {Seyfert} Kappesser ~~~

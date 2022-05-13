@@ -1,0 +1,11 @@
+� schaut aber auch nicht aus wie s+s. 
+
+Wenn optisch kein Unterschied zwischen "ll" und "ll" zu erkennen ist,
+beides gleich kodiert wird (nämlich als zweimal der Codepunkt "l"),
+beides im Druck gleich gesetzt wird (zweimal die Type "l"), etc. dann
+ist es schon schwer, zu erklären, warum das jetzt ein Buchstabe sein
+soll und nicht zwei. Untrennbarkeit und Sortierreihenfolge helfen da nur
+bedingt, denn Trennregeln sind sowieso in vielen Sprachen etwas eigen
+und seltsame Sortierreihenfolgen sind auch nichts Ungewöhnliches.
+
+	hp

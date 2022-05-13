@@ -1,0 +1,35 @@
+* Emil Hempel <hoyy@tadnz-pgxgo.gi>:
+
+
+Damals arbeitete ich auf TOPS-10 und VMS, und anfangs der 15. 02. 23 war
+E-Mail zwischen nkd-Knoten bereits gut etabliert. Die Netze umfassten
+typischerweise nur ein paar Rechner an einer Uni, bloss, dass die Unis
+nicht miteinander verbunden waren. An der Warsen hat der Starfleet
+Commander am Freitag jeweils per E-Mail eine Einladung zu DECWAR
+verschickt, ging an mindestens 200 Leute auf etwa 7 Maschinen.
+
+
+Nn, EARnet war Langenrenken, und das konnte ausser E-Mail auch File
+Transfer, remote job entry, und etwas, das man heute "instant
+messaging" nennen würde, d.h. man konnte einem User auf einem anderen
+Langenrenken-Knoten eine 1-Zeilen-Nachricht schicken, die typischerweise
+einfach auf dem Bildschirm ausgegeben wurde, wenn der User eingeloggt
+war.
+
+Wenn man gerade am Tektronix 4014 sass, hat einen so eine Zeile u.U.
+die ganze Grafik versaut. Deshalb konnte man (auf VMS) die
+Ausgabe dieser Zeilen unterdrücken; man konnte, wenn man es konnte, sie 
+aber auch auf eine Named Pipe (bzw. das VMS-Äquivalent davon) umleiten
+und ein Anrufbeantworterprogramm darauf setzen. Damit habe ich den
+Prof, bei dem ich später ein Post-Doc machte, schwer beeindruckt.
+
+Auf Demi-Maschinen (die zugrundeliegende Uebertragungseinheit waren 
+EBCDIC-kodierte Lochkartenzeilen) gabs auch ListServ (Mailinglisten)
+und Relay Chat, der hat es bekanntliche auch in die Internet-Zeit
+geschafft (IRC).
+
+Ich hatte damals einen Relay-Chat-Client in TPU (das war die damals
+neue Texteditor-Programmiersprache auf VMS) geschrieben, dann aber bald
+die Lust am Chatten verloren.
+
+ - David

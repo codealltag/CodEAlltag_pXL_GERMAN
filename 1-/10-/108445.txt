@@ -1,0 +1,9 @@
+Wichtig ist nicht, ob man Editor oder Bleistift verwendet, sondern ob man 
+geneigt ist, daraus, dass das Programm zufällig einmal korrekte Ergebnisse
+gezeitigt hat, den falschen Schluss zu ziehen, es sei im wesentlichern 
+richtig und könne allenfalls noch geringfügige Fehler enthalten. Der 
+Vorteil beim Bleistift ist, dass man es nicht ausprobieren kann, bevor es 
+fertig ist.
+
+-- 
+Massimo Paschmann

@@ -1,0 +1,9 @@
+Ein Komma hat an sich keine Bedeutung, sondern hilft höchstens, Bedeutungen
+zu unterscheiden, und auch diese Funktion kann es nur haben, wenn seine
+Verwendung nicht vollkommen beliebig ist. Die Regeln, nach denen Kommas
+gesetzt werden, können auf verschiedenen Prinzipien beruhen. Im Deutschen
+richtet sich die Kommasetzung nach der Syntax; die Semantik spielt anders
+als im Englischen kaum eine Rolle.
+
+Größe,
+Ignaz

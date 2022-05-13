@@ -1,0 +1,22 @@
+Als Rauschen bezeichnet man technisch und physikalsich eine inkohärente 
+Überlagerung aller spektralen Frequenzen im hörbaren Bereich, deren 
+spektrale Intensität insbesondere bei hohen Frequenzen bis über die 
+Hörgrenze konstant ist. Das Produkt dieser Überlagerungen als Wellenzug 
+zeigt keinerlei zeitliche Korrrelationen und sieht in jeder Aufkläung 
+gleich aus. Man hat also im Bild der Wasserwellen lange Wellen, auf 
+kräuseln sich unregelmäßige kleinere Wellen bis hin zu den kürzesten Wellen.
+
+
+Rauschsignale haben eine typische mathematische stochastische Struktur 
+als Mischung zufälliger stetiger, nirgendwo differenzierbarer Funktionen 
+und unstetiger Einschüsse und haben demgemäß auch ohne Zuhörer eine 
+feste identität. Sie bilden ua. das Rückgrat der Handelsprogramme an der 
+Börse.
+
+Das Wort "Geräusch" wird meist für einen relativ kurzen Abschnitt eines 
+individuellen Rauschsignals ohne erkennbaren Spektral- oder Signalgehalt 
+benutzt.
+
+-- 
+
+Urban Arets

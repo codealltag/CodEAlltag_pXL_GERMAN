@@ -1,0 +1,22 @@
+Ich habe eine Frage zur Groß-/Kleinschreibung:
+
+Prämissen:
+In Überschriften wird das erste Wort immer groß geschrieben.
+(z.B. Der kleine Prinz)
+In Ganzsätzen wird das erste Wort groß geschrieben.
+
+Wenn ich nun eine Aufzählung habe wie:
+
+Sie müssen folgende Kriterien erfüllen:
+1. Abgabe einer schriftlichen Einwilligung
+2. [b|B]stätigte Diagnose
+3. Alter >65 Jahre
+
+stellen sich mir folgende Fragen:
+
+1. Ist bei 2. groß oder klein zu beginnen?
+2. Sind die Listenelemente a) ohne Satzzeichen zu beenden oder b) ein
+Semicolon am Ende der Zeilen 1. und 2. und ein Punkt am Ende von 3.?
+
+lG
+Vinzenz

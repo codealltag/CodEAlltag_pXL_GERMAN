@@ -1,0 +1,9 @@
+Ich habe hier ein (medizinisches) Gerät herumstehen, wo man bei der 
+Eingabemaske zu Erfasung von Patientenstammdaten die Auswahl: [male, 
+female, others] hat.
+
+Peter
+
+
+-- 
+My jsme Borgo. Sklopte tty a vzdejte se. Odpor je marn

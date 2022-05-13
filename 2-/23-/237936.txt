@@ -1,0 +1,9 @@
+Captain's log: On our way to the Highly Redundant Data System we
+have received a distress call. Unfortunately, we couldn't make any
+sense of the message itself, but Mr Charly has been able to calculate 
+its approximate origin. We are now on our way to salvage all Data we 
+can safely retrieve.
+
+-martin
+-- 
+I can't change the laws of physics, sir!

@@ -1,0 +1,17 @@
+Wenn sie denn typographisch wären. Durch die unselige Zusammenlegung des
+linken Zeichens von “englischen” mit dem rechten von „deutschen“
+Anführungszeichen zu *einem* Zeichen U+201C sieht es in deutschem Kontext oft
+falschrum aus, nämlich wenn es als `` statt als obere 66 dargestellt wird. Das
+kommt vor allem bei dicktengleichen Schriften vor, wie ich sie im Usenet gern
+verwende. Bei denen sieht auch das "…" doofer aus als "..." oder "–" nicht
+viel anders als "-".
+
+Dein "—" ist außerdem ein sehr englischer Gedankenstrich—und gehört kompress
+gesetzt, was ich wiederum scheußlich finde.
+
+Ich mache mir auch nicht immer die Mühe, Zeichen zu schreiben, die nicht auf
+der Tastatur sind, wenn der Text jeden Leser nur einmal erreicht wie bei
+E-Mail oder Usenet-Beiträgen im Gegensatz zu Web-Artikeln.
+
+-- 
+Rüdiger Waskönig

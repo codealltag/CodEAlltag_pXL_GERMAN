@@ -1,0 +1,15 @@
+Dann funktionieren die aber alle gut. Ich habe des öfteren mehrere
+Stunden Unterschied beobachtet; da hatte dann vermutlich eine der Uhren
+noch nie synchronisiert.
+
+Aber ich korrigiere mich: gut sind auch vier Sekunden Abweichung nicht.
+Meine beste Quarzuhr (gekauft 1986, gerade ist die zweite Batterie
+versiegt) geht 2/3 Sekunden pro Tag vor, und weicht davon weniger als
+zwei Sekunden pro Monat ab. Womöglich wäre die erratische Abweichung
+noch geringer, wenn ich die regelmäßige tägliche Abweichung genauer
+bestimmen würde.
+
+-- 
+binsaugnesseln, hummelsk�l, m�nchspfeffer, gugelk�pf, minbr�derm�ntz
+FISCHART
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,8 @@
+Das führt aber nicht zu einer Definition, nach der Sprachen zählbar
+werden, somit kann man den Sprachen in Deinem Modell auch keine Namen
+geben. Es ist deshalb in der Praxis unbrauchbar. 
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Lembach about a month ago.

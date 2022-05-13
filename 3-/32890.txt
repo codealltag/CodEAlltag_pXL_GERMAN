@@ -1,0 +1,12 @@
+Deshalb steht hinter dem Textteil kein Komma.
+
+
+Du hast recht, das Komma gilt unabhängig von einer etwaigen
+Kennzeichnung des Einschubs, der nur einen Teil der Zu-Konstruktion
+darstellt.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Wiederholdt will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Bruno Unbehaun

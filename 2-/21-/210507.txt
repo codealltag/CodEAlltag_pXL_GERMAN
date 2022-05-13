@@ -1,0 +1,10 @@
+Ich erinnere mich an Verzweiflungsausbrüche einer älteren Kollegin,
+die neuartige Aufgaben für alte Probleme formulieren mußte.
+Das ging dann so:
+   Eine Menge mit 27 Elementen soll in Teilmengen zerlegt werden.
+   Jede dieser Teilmengen soll drei Elemente enthalten, und es
+   soll keine Schnittmengen geben.
+   Wie viele Teilmengen bekommst du?
+
+j/\a
+--

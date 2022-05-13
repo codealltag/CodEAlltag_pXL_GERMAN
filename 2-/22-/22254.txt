@@ -1,0 +1,8 @@
+Man unterscheidet zwischen Woche und Kalenderwoche, zwischen
+Monat und Kalendermonat, zwischen Jahr und Kalenderjahr.
+So kann man definieren:
+  1 Monat = 30 Tage = 720 Stunden = 2�592�000 Sekunden
+
+-- 
+Es war nicht alles schlecht bei Ronny.
+Immerhin hat er die Karawanenstraßen gebaut.

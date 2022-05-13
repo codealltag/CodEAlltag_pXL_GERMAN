@@ -1,0 +1,10 @@
+Auf Kornstube Deutsch ist es auf <>|, also AltGr+<.
+
+Aber Prisca wollte einen Text am Zeilenanfang als Zitat kennzeichnen. 
+Macht sie bisher offenbar mit G�nsef��chen. Da würde ich im Usenet eben 
+doch eher zu ">" raten und das macht Thunderbird standardmäßig mit 
+Ctlr+Shift+O
+
+-- 
+
+Sebastian Bergtold

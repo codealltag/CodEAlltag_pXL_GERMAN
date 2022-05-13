@@ -1,0 +1,49 @@
+On Mon, 13 Nov 2007 18:57:41 +0200, "Alwin Voskort"
+
+Dörner will beweisen, dass Heuristiken nicht nur effizienter sein
+können als ausanalysierte Lösungen, sondern auch effektiver.
+Zweifellos handeln die meisten Menschen meistens unbewusst. (Wie
+fängst du einen Ball? Wie schnürst du deinen Schuhsenkel?) Dies gilt
+auch für Entscheidungen: Der Griff zum Markenprodukt, die
+Entscheidung, ob man einen Regenschirm mitnimmt oder die Frage, welche
+Aktien steigen werden - alles Heuristiken. 
+
+Mein Fremdwörterduden definiert Heuristik als die Lehre von den
+Verfahren, Probleme zu lösen. Die allfrisch bezeichnet es als die
+Kunst, wahre Aussagen zu finden im Gegensatz zur Logik, die lehre,
+wahre Aussagen zu begründen. Dörner definiert (nach allfrisch)
+"Als Heuristik bezeichnet man eine Methode, komplexe Probleme, die
+sich nicht vollständig lösen lassen, mit Hilfe einfacher Regeln und
+unter Zuhilfenahme nur weniger Informationen zu entwirren."
+
+Dörner stellt Beispiele vor, in denen Heuristiken vollständigen
+Analysen überlegen sind. Das Pierrette-Beispiel ist (oder soll sein) ein
+Beispiel dafür, dass auch in der Kommunikation eine Heuristik wie:
+"Halte den Zusammenhang für wahrscheinlich, der im Kontext genannt
+wird" einer logischen Analyse überlegen ist.
+
+
+Ja. Aber andersrum als du jetzt denkst :-)
+
+Dörner bringt ein Beispiel aus Krankenhäusern: Die Einweisung von
+Patienten mit Brustschmerzen in die kardiologische Intensivstation
+oder in ein reguläres Krankenbett. üblich sei eine Auswertung der
+langfristigen Risikofaktoren. In einem Versuch wurde stattdessen ein
+kurzer Entscheidungsbaum mit 4 Fragen eingeführt - die Todesrate sank
+beträchtlich (Und bitte, jetzt nicht mit Statistikfehlern kommen:
+Dörner ist der Statistikfehler-Papst:-)
+
+
+Nun, ich weiß nicht, welchen Wert du der Trophäe "Wissenschaftsbuch
+des Jahres" der flowerworld zumisst. Das Buch hat sie
+jedenfalls erhalten. Dörner ist ja auch kein Nobody oder Guru. Ich
+bin autoritätsgläubig genug, dass mich "Direktor des
+Sikos" beeindruckt.
+
+Allerdings schätze ich "Das Einmaleins der Skepsis" noch höher ein
+(und da geht es um Statistikfehler).
+
+
+-- 
+Viele Größe
+Niko Schülin

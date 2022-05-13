@@ -1,0 +1,12 @@
+Hallo Reinhard,
+
+
+H? Warum mache ich ein Fenster breiter, als ich den Text darin umbrochen
+sehen will? Finde ich unlogisch. Logisch finde ich, daß die Software den
+Text exakt auf die Breite umbricht, auf die ich das Fenster eingestellt
+habe. Alles andere hielte ich für die übliche Bevormundung durch die
+Entwickler, die wiedermal besser wissen was gut für mich ist.
+
+Gruß Patrick
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

@@ -1,0 +1,7 @@
+Ich kenne "Überträger" nur im Sinne von "Krankheitsüberträger". Die
+Anophelesmücke ist Hauptüberträger der Malaria.
+
+Als technische Geräte kenne ich nur "Übertrager".
+Niederfrequenzübertrager werden zum Beispiel verwendet, um ein Tonsignal
+symmetrisch oder potentialfrei zu machen, oder um die Impedanz zu
+verändern.

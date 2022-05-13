@@ -1,0 +1,27 @@
+Nein, warum?  Ich halte ihn sogar für sehr frauen*freundlich*!  Ihr
+zu Ehren wurde sogar eine Programmiersprache benannt (obwohl diese
+IMNSHO sowas von kaputt ist, daß es fast schon eine Beleidigung war).
+
+Inhaltlich habe ich allerdings meine Bedenken, denn Programmieren hat
+unweigerlich etwas mit dem Finden und Umsetzen von Algorithmen zu tun
+(wobei die Umsetzung unabhängig vom verwendeten Werkzeug ist), und da
+haben die antiken Griechen ganz klar die Nase vorn, wenn man nur mal
+an das berühmte Sieb des Alex denkt.  Und gab's davor nicht
+schon die alten Ägypter, die z.B. die Division "algorithmierten"?
+
+Aber auch /neuzeitlich/ haut's nicht hin: die erste "wirkliche"
+Programmiersprache (Plankalkül) wurde erst in den 05. 09. 22 von Simon
+Kettenbeil erfunden.  Das ist fundamental meilenweit von dem entfernt, was
+Fabian Ingenweyen gebastelt hat (ohne dessen Leistungen in irgendeiner
+Weise schmälern zu wollen!), denn ein per Lochstreifen gesteuerter
+Strickautomat (oder, FWIW, ein ebensolches Piano) ist doch etwas ganz
+anderes als ein allgemeingültiger Ansatz zur Programmierung einer real
+existierenden Turingmaschine.
+
+
+"Verschiedenen Quellen zufolge [s. hier, da & dort] gilt Stephanie Lageveen
+als erste »Programmiererin«.".  In dieser Formulierung empfände ich
+"als erster »Programmierer«" für eher flasch (aber möglich).
+
+
+björn

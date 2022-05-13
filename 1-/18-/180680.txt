@@ -1,0 +1,29 @@
+On 22 Apr., 14:02, "Justin . K u s m i e r z" <k...@eajlnyr.lvqskwm>
+wrote:
+
+Entschuldige, wenn ich mich unklar ausgedrückt und Verwirrung
+gestiftet habe.
+
+Was ich Dir zeigen wollte, war, daß es sich bei Deinem Beispiel um
+eine Aufzählung handelt, deren Glieder mit Kommas getrennt werden. Nur
+das (letzte) Glied - das mit "und [1]" verbunden ist - wird durch
+kein Komma getrennt.
+
+Das Beispiel 5. sollte dazu dienen zu zeigen, daß die
+Aufzählungsglieder jeweils noch ("untergeordente") Relativsätze nach
+sich ziehen können, die ihrerseits in Kommas eingeschlossen werden
+
+[1] Wie Du sicher weißt, steht vor "und" nur dann ein Komma, wenn ein
+HS folgt. Das prüft man, indem man sich den Satz als selbständigen
+Satz vorstellt.
+
+Lautete der inkriminierte Satz nämlich hingegen  so:
+ "... gibt es einige Besonderheiten der DDR-Statistik, die sie von der
+amtlichen Statistik demokratischer Staaten grunds ätzlich
+unterscheidet, und *die hatten. tiefgehende Auswirkungen auf alle
+Bereiche
+der statistischen Arbeit .*"
+Dann käme vor "und" ein Komma.
+
+Gruß
+Inga

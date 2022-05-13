@@ -1,0 +1,17 @@
+Bei Auslandsüberweisungen sind in der Regel etliche Banken
+zwischengeschaltet, die alle ihre eigenen Gebühren haben.
+Daher muss der Überweisende angeben, ob er alle Gebühren übernehmen
+will, ob der Empfänger alle tragen soll, oder ob man sie sich teilt.
+
+Wenn der Empfänger Gebühren zahlt, wurde nicht die erste Variante
+gewählt (oder es fallen zusätzlich noch Kosten für die
+Währungsumrechnung an). Der Empfänger muss dann die Kosten der
+zwischengeschalteten Banken, im zweiten Fall auch die der
+Absenderbank, tragen.
+Die Kosten entfallen nur dann, wenn die Zwischenbanken nichts
+verlangen oder gar keine dazwischengeschaltet ist.
+
+Darum muss es noch andere Effekte geben, wenn die gleiche ankommende
+Überweisung bei einer Bank kostet und bei der anderen nicht.
+Vielleicht hat die Sparkasse auch nur als eigene Gebühr ausgewiesen,
+was unterwegs schon abgeknapst wurde.

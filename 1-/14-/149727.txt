@@ -1,0 +1,5 @@
+Zu lesen war auch bei mir � und �, aber beim anklicken waren in der 
+Browserzeile stattdessen Anführungszeichen zu sehen. Wenn man die 
+händisch durch � und � ersetzt, funktioniert's auch wieder.
+
+M.

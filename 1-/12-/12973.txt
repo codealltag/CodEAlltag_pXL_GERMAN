@@ -1,0 +1,17 @@
+Gar nichts dummes.
+
+1. Auf Windows eventuell "Unterstützung für ostasiatische Zeichensätze"
+einrichten (bei Vista wohl nicht mehr nötig). 
+
+2. Geeigneten Font installieren. Ich habe z.B, "NDM" von hier:
+<http://cbmmc.eudrm5.tvm-ozreiafyk.fx/azmkjt.vme?/ssqze.ruu>. Arial
+Unicode tut es meist auch.
+
+3. Wie Du Deinen Newsreader dazu bringst, diese Fonts auch
+gegebenenfalls zu benutzen, hängt von diesem ab. Dialog soll das
+wunderbar automatisch machen, macht aber dabei auch Fehler. Ich sehe
+Willis Beitrag nicht ganz vollständig, beim Antworten aber dann doch
+(und da kann ich den Font notfalls manuell ändern).
+
+-- 
+Dario G.

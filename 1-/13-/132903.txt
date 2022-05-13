@@ -1,0 +1,9 @@
+Zwangs-Web-Proxy mit Bilderkompression und entsprechendem
+Umbau der umgebenden Web-Seiten, speziell für Medien mit
+begrenzter Bandbreite, etwa Satellitenanbindung und GSM.
+"bmi" deutet auf Bytemobile hin.
+
+Einfach alles bis "bmi/" ignorieren.
+
+(Tja, mal wieder ein Fall, der zeigt, daß Hinrotzen
+mit "Copy & Paste" Nachdenken nicht ersetzen kann.)

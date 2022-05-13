@@ -1,0 +1,17 @@
+Viel besser so. Wenn auch die Umlaute in Zitaten immer noch verfälscht
+werden, aber das zu korrigieren wäre wohl fast zuviel des Guten. Aber
+vielleicht ist diese Frage gestattet, warum *musst* du überhaupt einen
+technisch so fehlerbehafteten NUA verwenden?
+
+
+Hier schon. Aus anderweitigen Gründen werden hier nicht deklarierte
+Umlaute standardmäßig mit UTF-8 angezeigt und ggf. so auch zitiert.
+Damit sind sie zuerst bei mir nicht lesbar und in der Folge dann auch
+nicht in Zitaten.
+
+
+Ciao
+Odette
+-- 
+Frauen sind die Juwelen der Schöpfung.
+Man muss sie mit Fassung tragen.

@@ -1,0 +1,7 @@
+Eine Taste mehr reicht nicht. Zum Druck dieses Zeichens
+müsste ein doppelter reboot mit zweimaliger langsamer
+Eingabe der Personalausweisnummer und des Geburtsdatums
+sowie Einlesen des RFID-Chips erforderllch sein.
+Und dann mit 70% Wahrscheinlichkeit abgewiesen werden.
+
+/Volkmar

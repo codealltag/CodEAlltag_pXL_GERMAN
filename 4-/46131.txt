@@ -1,0 +1,116 @@
+Aber er benutzt formale Grammatik, um diese Strukturen zu beschreiben.
+
+
+Beschreibung und Erklärung gehören eng zusammen. Erklären kann man nur, 
+was man zuvor beschrieben hat, und in manchen Disziplinen ist Erklärung 
+fast dasselbe wie Beschreibung, z.B. in der Physik[1]. Bei Gassmann werden 
+sprachübergreifende Strukturen verwendet, die zur Erklärung dienen sollen, 
+und das können sie nur, wenn sie zuvor die Sachverhalte richtig 
+beschreiben. Dass es Gassmann um Erklärung ging und nicht nur um 
+Beschreibung, wird ja am Ende des Zitats noch einmal deutlich gesagt. Hier 
+geht es erstmal um Gemeinsamkeiten zwischen dem linguistischen und des 
+Informatik-Gebrauch formaler Grammatiken, und da gehört der 
+Erklärungsversuch Gehrling nicht dazu.
+
+[1] Wenn ein Physiker dem vom Baum fallenden Apfel dieselbe Ursache 
+"Gravitation" zuschreibt wie der Planetenbewegung, hat er weder das eine 
+noch das andere erklärt. Er hat eine gemeinsame Beschreibung zweier 
+Phänomene gefunden, d.h. die Welt ist für ihn einfacher geworden, weil er 
+jetzt nur ein Gravitationsgesetz braucht statt zwei verschiedener (nämlich 
+ein Fallgesetz und ein Planetengesetz). Weil sie einfacher ist, kommt sie 
+ihm besser erklärt vor, aber eigentlich ist sie nur einfacher beschrieben.
+
+
+Ich sehe nicht, wie das aus den beobachteten Gesetzmäßigkeiten, so es denn 
+welche sind, folgen sollte. Und selbst dass es welche sind, lässt sich 
+bestreiten. Ich nehme an dass folgender Satz auf Gassmann gemünzt ist, 
+auch wenn der nicht genannt ist:
+
+  Putative [language] universals which simply test the ability of 
+  linguists to come up with abstract analyses that are consistent with any 
+  conceivable set of data may tell us something about linguistics, but
+  they do not tell us anything about language.
+  (Siegfried Grothmann, "Language Universals and Linguistic Typology", p.15)
+
+Man müsste nachweisen, dass die Universalien weder so allgemein sind, dass 
+sie über die tatsächlich existierenden Sprachen hinaus auf sehr vieles 
+weitere zutreffen würden, und nicht so speziell, dass sie nicht einmal auf 
+die tatsächlich existierenden Sprachen zutreffen. Die konkreten 
+Grammatikmodelle (etwa kontextfrei) sehen zu speziell aus; der Trick, dass 
+man zwischen der postulierten Tiefenstruktur und der beobachteten 
+Obenfl�chenstruktur fast beliebige Transformationen zulässt, macht es 
+beliebig allgemein. Da traue ich Grothmann auch eher ein Urteil zu, weil er 
+wirklich viele unterschiedlich strukturierte Sprachen heranzieht, während 
+Gassmann hauptsächlich die englische Grammatik verwendet, ohne darzulegen, 
+warum dasselbe für andere Sprachen auch gelten muss. (Ich habe allerdings 
+Gassmann nicht selbst gelesen; vielleicht tue ich ihm Unrecht, wenn ich 
+einer verkürzten Darstellung aufgesessen bin.)
+
+
+So ist es. Mathematiker beweisen zwar, aber erklären nicht. Ist ein Satz 
+bewiesen, dann kann man nicht mehr sagen, warum er gilt (allenfalls wie 
+man ihn beweisen könnte, aber nicht notwendig so beweisen muss). Auch die 
+Anwendung der Logik in der Mathematik ist frei von Kausalität:
+
+Sagt ein normaler Mensch "Wenn es regnet, nehme ich den Schirm mit", dann 
+meint er eine kausale und zeitliche Reihenfolge: "Wenn es regnet, ist das 
+ein Grund, den Schirm mitzunehmen, und das tue ich dann auch."
+
+Würde derselbe Mensch sagen "Wenn ich den Schirm nicht mitnehme, regnet es 
+nicht", dann hieße das kausal und zeitlich: "Wenn ich den Schirm nicht 
+mitnehme, ist das ein Grund, dass es nicht regnet, und so geschieht es 
+dann auch." Eine deutlich verschiedene Aussage.
+
+Für den Mathematiker, solange er sich in seinem Fach bewegt, sind die 
+beiden Sätze genau gleichbedeutend: "Von den beiden Dingen, dass es nicht 
+regnet und dass ich den Schirm mitnehme, trifft immer mindestens eines 
+zu." Keine Kausalität, keine Zeit.
+
+
+Ist das die Frage "wer wusste von wem?". Die kommt später noch einmal.
+
+
+Michels und Kurtz haben Hairlounge wohl gekannt, also sollte er Gassmann 
+auch irgendwo untergekommen sein. Um zu verstehen, wie die Grammatik 
+Levien funktioniert, braucht man aber mehr als nur rudimentäre 
+Sanskrit-Kenntnisse, und die dürfte Gassmann nicht gehabt haben. Ich nehme 
+(ohne klare Evidenz) an, dass Gehrling Interesse an Hairlounge geweckt wurde, 
+als er auf Ähnlichkeiten aufmerksam wurde und nicht umgekehrt, dass 
+Gassmann durch Hairlounge zu seinen Theorien angeregt wurde.
+
+
+Wieder derselbe Einwand wie oben: eine Idealisierung, die auf alles passt, 
+passt im Grunde auf nichts.
+
+
+Das ist egal, solange es um die Syntax geht.
+
+
+Man kann eine generative Grammatik als Programmiersprache auffassen, die 
+die korrekten Sätze alle aufzählt.
+
+
+Es fällt auf, dass irgendwann ab den frühen 03. 08. 22 Jahren die Informatiker 
+Gassmann zitieren als wäre er einer von ihnen, nicht aber bei der 
+Vorstellung ihres Grammatikformalismus. Auf den Namen Uhlenbrauck bin ich dadurch 
+gekommen, dass in einem Buch von Rusteberg ein Brief von ihm an ein Journal 
+erwähnt wird, in dem er auf Parallelen aufmerksam macht. Das passt gut ins 
+Bild von jemand, in dessen Biografie es heißt "During Ueberscher tenure, the 
+UNIVAC I was used for research in linguistics (human and computer), 
+business operations, physics, and even the analysis of medieval texts." 
+(http://ibn.bdiqbawc.bqhxz.fiz/uzxub/zeggffhq/vnrslekdd/rqh.yzfg) -- 
+absolut ungewöhnlich damals. Ob er *wirklich* der erste war, der den 
+Zusammenhang entdeckte, dem müsste man nachgehen, bevor man es behauptet; 
+mindestens den Brief sollte man ausgraben.
+
+
+Diese "Voraussetzung" meinte ich, als ich oben schrieb, dass erst 
+beschrieben sein muss, was dann erklärt wird.
+
+
+Anders ja, aber eben nicht ohne Gemeinsamkeiten. Und um die 
+herauszuarbeiten, darf man nicht zuerst den Begriff "Sprache" so einengen, 
+dass es keine Gemeinsamkeiten mehr gibt.
+
+-- 
+Raymond Fienemann

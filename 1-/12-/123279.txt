@@ -1,0 +1,25 @@
+Arno Imgrunt *
+
+
+Syntaktisch falsch ist es auch mit "staunenswert" und "dankenswert",
+weil da intransitive Verben drinstecken. Das erste war mir noch gar
+nicht aufgefallen, der Oberalper Wortschatz findet dafür aber 25
+Beispiele quer durch alle Zeitungen, halb so viele wie für
+"lohnenswert".
+
+Auch "dankenswert" ist mir auf Anhieb nur als Teil von
+"dankenswerterweise" vertraut, was auch viel häufiger ist (60:5).
+
+Wenn man diese beiden auch abdecken will, muß man zusätzlich erlauben
+
+  Ich ..., weil es ...enswert ist.
+
+Aber auch in dieses Schema paßt "lohnenswert" nicht, das also weiterhin
+eine Ausnahme darstellt, und ein dazu passendes Schema weicht vom
+Grundschema stärker ab als das eben errichtete Nebenschema.
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Konrad Moericke in "The Sign of the Claw" (1965)

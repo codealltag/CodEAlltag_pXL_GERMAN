@@ -1,0 +1,20 @@
+Na das ist doch offensichtlich - das sind die Nullstellen des Polynoms
+
+(x-2)(x-4)(x-8)(x-10)(x-12)(x-14)(x-16)(x-4890902)
+
+Ansionsten vermute ich, dass du dir das Interpolationspolynom 10. Grades selber
+ausrechnen kannst.
+
+... und die anderen drei auch.
+
+Natürlich ist bei solchen Fragen implizit immer nach so etwas wie der
+Kolmogorov-Komplexität gefragt, also nach der Lösung mit dem einfachsten
+Algorithmus. Oder jedenfalls einem einfachen.
+
+Auf der anderen Seite zeigt sich gerade hier das Problem - will man das
+Erkennen gerader Zahlen höher bewerten oder das Wissen um die Tatsache
+dass man an n Zahlen stets beliebig viele Polynome (n+1)-Grades anfitten
+kann?
+
+-- 
+Space - The final frontier

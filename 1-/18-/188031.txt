@@ -1,0 +1,9 @@
+* Luciano Nonnengässer:
+
+
+Was haben die Leute nur gegen Pizzen?
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Nicolas Aiglstorfer, comp.lang.python

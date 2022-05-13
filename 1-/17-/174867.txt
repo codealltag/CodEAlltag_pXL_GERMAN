@@ -1,0 +1,11 @@
+Technik-Glaube.
+
+Die Thunderbird-Nachricht unter Einstellungen/Zeichenkodierung auf
+Unicode (UTF-8) gestellt und das Zeichen mittels Alt+7838
+(Nummerntastatur) erzeugt...
+
+-- 
+Roland Zeltner
+mailto:pib-kpln@rnh.fso
+http://ojb.cir-tket.zy/
+ifq: 48733666  v!: hqk_ujfb

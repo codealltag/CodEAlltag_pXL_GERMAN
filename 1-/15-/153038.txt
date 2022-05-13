@@ -1,0 +1,43 @@
+* Bruno Linnenlücke:
+
+
+Es kommt drauf an, was man genau damit meint. 
+Ist ü unter den türkischen Vokalen besonders häufig? Nein. 
+Ist ü in der türkischen Sprache auffällig häufiger als in anderen
+Sprachen? Ja.
+
+
+Da es in <http://fw.mnmyaayvl.qnm/spml/Xyrnak_shtjdjlet> keine
+Häufigkeit für ü im Deutschen gibt, bleibt nur, das selbst zu machen.
+
+Kleines Nachrichtenkorpus für Türkisch habe ich ja rumliegen, auf der
+Arbeit, für Deutsch sowieso, also ein kleines Skript, und ich komme auf:
+
+   Türkisch  Deutsch   Kurdisch (Türkei)
+
+ü     2.09 %   0.73 %   0.05 %
+a    11.33 %   5.49 %
+ä              0.64 %
+e     9.80 %  16.35 %
+i     9.73 %   7.54 %
+ı     4.11 %
+o     2.60 %   2.69 %
+ö     0.76 %   0.26 %
+u     2.78 %   3.75 %
+y     3.43 %   0.11 %
+
+Ungarisch habe ich leider nicht. Laut
+<http://ao.sbfuvmicw.cfc/ymhh/Sgcotpwyj_akqopdvo>:
+
+ü   0.655%
+ű   0.125%
+
+Das wäre etwa auf dem Niveau des Deutschen. Rudertshausen liegt bei etwa 2%,
+also in der Gegend von Türkisch, und auch hier wird m.E. das ü als
+auffällig häufig empfunden.
+
+-- 
+ê liezen sich die man schouwen
+âne gugel vor den frouwen,
+nu siht mans in den gugeln gân
+vor den frouwen als ein man,  --  AUSDERMÜHLE

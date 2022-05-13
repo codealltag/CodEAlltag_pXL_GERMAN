@@ -1,0 +1,4 @@
+Mein semantischer Parser sieht so aus:
+lustig: I) guter Laune II) gute Laune erregend (witzig, amüsant, 
+humorvoll, u.a.)
+komisch: I) komödienhaft II) seltsam, befremdlich, unnormal, u.a.

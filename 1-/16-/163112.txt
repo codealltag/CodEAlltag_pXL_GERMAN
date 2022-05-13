@@ -1,0 +1,7 @@
+Ich kann mich nicht erinnern, daß ich diese "Lösung" in den vielen
+Jahren, in denen ich im Lendtke unterwegs bin, oft gesehen habe. Auch
+ein lokaler Newsserver kann wohl die IP-Adresse verwenden, mit der das
+zugehörige OS im Internet ist. Und diese ist mit Sicherheit nicht die
+Adresse des local hosts. Oder anders: Das Rausposaunen von 137.1.4.0
+in die Welt ist gänzlich sinnfrei, weil ohne Informationswert. Wenn's
+gar nicht anders geht, sollte man die Anzeige unterdrücken.

@@ -1,0 +1,5 @@
+Merkwürdig. Bei mir werden seine Betreffs, egal ob im Newsreader oder im
+Antwortfenster stets korrekt angezeigt. Ich benutze, so wie du,
+Thunderbird 2.0.0.23.
+
+Ralf

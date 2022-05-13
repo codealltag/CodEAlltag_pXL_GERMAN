@@ -1,0 +1,40 @@
+* Willibald Berchman:
+
+
+Es besteht nicht mal zwischen mir und mir Konsens - ich vergesse
+immer wieder, wie die Unterscheidungen gehandhabt werden. 
+
+Bloß zwei gebräuchliche Wörter, "Abkürzung" und "Akronym", sind
+auch einfach nicht genug, um auch nur die drei wichtigsten Typen
+zu unterscheiden (Beispiele "Abk.", "Afuge", "SMS"). Für mich sind
+stehen die so in Beziehung:
+
+                           o
+                          / \
+                         /   \
+                        w     x
+                     (Abk.)  / \
+                            /   \
+                           y     z
+                        (NATO) (SMS) 
+
+
+Es ist für mich noch ok, das Wort "Abkürzung" für den Oberbegriff
+(o) und im engeren Sinn für den linken Zweig (w) zu verwenden,
+denn das ist für mich die stereotype Abkürzung. 
+
+"Akronym" ist für Dich y, aber was ist dann mit z? Keinen eigenen
+Begriff, auch nur "Abkürzung"? Das widerstrebt mir, weil man dann
+w und z zusammenwirft, obwohl z dem y näher steht als dem w. Daher
+tendiere ich spontan immer dazu, "Akronym" für x zu verwenden, y
+ist dann ein "als Wort gesprochenes Akronym". 
+
+Man könnte "Initialwort" für x und dann meinetwegen auch für z
+nehmen, dann wäre "Akronym" frei für y.
+
+-- 
+There are two ways of constructing a software design. One way is
+to make it so simple that there are obviously no deficiencies.
+And the other way is to make it so complicated that there are no
+obvious deficiencies. The first method is far more difficult.
+-- C.A.N. Reishaus

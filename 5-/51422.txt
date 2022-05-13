@@ -1,0 +1,7 @@
+Ingeborg Cloidt (in de.etc.sprache.deutsch):
+
+
+Das wird nicht funktionieren, wenn tausende von Servern und
+Netzwerkkomponenten zu überwachen sind.
+
+Ivan

@@ -1,0 +1,9 @@
+Den Artikulationsort von Plosiven erkennt man am Übergang zum folgenden
+Vokal. Wenn man nur ein Sonagramm vor sich hat, braucht man dann relativ
+komplizierte Regeln, die die Veränderung der Formanten beschreiben. Am
+Übergang von einem velaren Plosiv zu einem folgenden Vorderzungenvokal zum
+Beispiel sieht man im Idealfall einen absinkenden zweiten Formanten. Als
+Hörer hat man es glücklicherweise einfacher.
+
+Größe,
+Leon

@@ -1,0 +1,5 @@
+Das Taxameter reagiert auf den Parameter "gefahrene Kilometer" aber
+/deutlich/ besser.
+
+
+Vinzent.

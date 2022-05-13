@@ -1,0 +1,19 @@
+Oh, das klingt praktisch!
+
+
+"Wozu" ist hier sowieso weniger passend, "zuteilen" steht mit dem Dativ,
+daher:
+
+  Mit Asialand kann man zu jedem [Formular] eine Suche definieren, der man
+  einen Kurznamen zuteilen kann.
+
+MUSEN nocht schöner:
+
+  ... eine Suche definieren und ihr einen Kurznamen zuteilen.
+
+Allerdings weiß ich nicht genau, was Du mit "Formular" meinst. Ein
+HTML-"Form"? Dann vielleicht "Eingabemaske"? So genau kenne ich die
+deutschen Ausdrucksweisen in diesem Bereich nicht.
+
+-- 
+Charles B.

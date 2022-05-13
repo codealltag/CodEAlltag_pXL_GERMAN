@@ -1,0 +1,18 @@
+* Claudio Neibauer:
+
+
+Das ist aber normalerweise nicht gemeint.
+
+
+"Gereizt" ist möglich, aber meistens bedeutet es nur "abgelenkt,
+konfus gemacht".
+
+(Fahradhof)
+
+(Openthesaurus)
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

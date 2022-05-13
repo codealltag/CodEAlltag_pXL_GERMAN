@@ -1,0 +1,18 @@
+* Meinhard Ploogmaker:
+
+
+Richtig, aber die Wärme des Kaffees wird unkodiert an die Umgebung
+übertragen. Kodiert ist erst die rote Warnlampe an der heißen
+Herdplatte. Das rote Glühen des heißen Eisens dagegen, von dem die
+Warnlampe abgeleitet ist, ist nicht kodiert, Rauch ist kein Symbol für
+Feuer.
+
+
+Aber das meiste an dieser Kommunikation ist nicht kodiert und hat auch
+nicht die Form von Nachrichten.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Kaulard will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Winfried Uhlendorf

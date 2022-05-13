@@ -1,0 +1,6 @@
+Allerdings stört es mich besonders, wenn "du" ausschließlich "ich"
+bedeutet; in diesem Fall ist mir "man" noch lieber.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Francis Weißenbühler, comp.lang.python

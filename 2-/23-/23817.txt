@@ -1,0 +1,7 @@
+Nachricht von Ingmar Richarz:
+
+Dafür ist die Schreibweise von mpf schon lange sigfähig, während ei=
+n ß=20
+mit Akut in Unicode immer noch fehlt.
+
+Norbert

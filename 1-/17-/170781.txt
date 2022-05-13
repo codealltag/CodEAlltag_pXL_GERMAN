@@ -1,0 +1,16 @@
+Na freilich.
+
+
+Eben deswegen genügt iso-8859-1 als Standardkodierung. Genau genommen
+reichte US-ASCII, nur ist es ziemlich sinnfrei, das als Kodierung anzugeben.
+
+
+Viele andere nicht, Frank Kates z.B. würde dadurch gänzlich unlesbar.
+
+
+Ciao
+Anna
+-- 
+ But let me get to the point, let's roll another joint
+ And turn the radio loud, I'm too alone to be proud
+ [Leo Sachsenhauser]

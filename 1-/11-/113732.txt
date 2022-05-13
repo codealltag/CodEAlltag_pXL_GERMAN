@@ -1,0 +1,11 @@
+Witze werden meistens nicht besser, wenn man sie erklärt, aber ich
+versuchs trotzdem: Ich stellte mir vor, dass A z.B. sagt "ich möchte
+eine Fleischscheibe vom Rinderrücken, zwischen der 6. und 9. Rippe
+geschnitten" und dann ein Rib-Eye-Steak bekommt. Kein T-Bone-Steak und
+schon gar kein Huftsteak. Weil das Waitron[1] eben weiß, welches Steak
+von woher stammt[2].
+
+	hp
+
+[1] Unnötiger Querverweis zu Innen-Threads.
+[2] Im Gegensatz zu mir, wenn ich nicht gerade nachgeschaut habe.

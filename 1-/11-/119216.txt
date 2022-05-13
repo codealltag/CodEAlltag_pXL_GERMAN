@@ -1,0 +1,4 @@
+Der Mondkalender des greg. Kalenders hat zwar seine eigenen Schaltregeln, 
+aber er schaltet beim Schalttag mit dem Sonnenkalender synchron. Er fügt 
+zum gleichen Zeitpunkt einen zusätzlichen Tag ein. Selbst dann, wenn das 
+zu einem, sonst unmöglichen, 31-tägigen Mondmonat führt.

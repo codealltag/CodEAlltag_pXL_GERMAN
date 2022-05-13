@@ -1,0 +1,16 @@
+Ich weiß aber nicht, wer sich noch mal eben schnell ein
+Diskettenlaufwerk (nebst Controller und entsprechender Software)
+nachbaut, um von einer verstaubten 8'' Floppy irgendwelche
+Daten zu lesen, die irgendjemand mit wer weiß was für einer Software
+dort gespeichert hat. Ebenso für ältere Magnetbänder.
+Wenn man Pech hat, muss man gleich noch einen Rechner nachbauen.
+
+So etwas ist zwar "im Prinzip" durchführbar, wird aber die
+Möglichkeiten vieler betroffener Institutionen überschreiten.
+In der Praxis bedeutet das dann oft, dass man den Datenträger
+nur noch als Wandschmuck verwenden kann.
+
+Das rechtzeitige Überspielen alter Daten auf neue Träger kann
+das Problem entschärfen --- wenn man rechtzeitig daran denkt.
+
+Tino

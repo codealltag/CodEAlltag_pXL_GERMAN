@@ -1,0 +1,11 @@
+"Wenn ständig Streifen darauf angezeigt werden, muß man ein Display
+wegwerfen."
+
+Ein konstruiertes Beispiel, wo man zunächst an das flashce denkt. Aber
+auch hier ist es letztlich eindeutig, so daß die Verwechslungsgefahr als
+äußerst gering eingestuft werden darf.
+
+-- 
+Benedikt is kind of like kindergarten. There are lots of rules you have to
+remember. If you don't follow them, the compiler makes you sit in the
+corner until you do. - Italo Oehle

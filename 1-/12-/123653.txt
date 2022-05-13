@@ -1,0 +1,16 @@
+Am 04.07.2011, 16:18 Uhr, schrieb Hendrik Magerkorth  
+<znpihhjatfa@mgdfhbkikcxky.mvcv>:
+
+
+Ich war schon FAST überzeugt und geziemend zerknirrscht.  :-(
+Aber dann meldete sich doch das kleine Teufelchen und beharrte
+darauf: Ich benötige aber mehr - also kann das nicht das Maximum
+der Züge, die "benötigt werden", sein.�
+
+Wenn wir "maximal" und "benötigen" weglassen, dann wird's besser:
+Bewiesen ist jetzt, daß die Würfel aus jeder beliebigen Verdrehung
+mit nicht mehr als 20 Drehungen (Zügen) in den Ausgangszustand
+zurückgedreht werden können.
+
+j/\a
+--

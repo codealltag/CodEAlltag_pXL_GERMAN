@@ -1,0 +1,17 @@
+Im Metall dehnt sich bei Erwärmung die die Frequenzfolge der 
+Eigenschwingungen bestimmende Gesamtheit der charkteristischen Längen L 
+aus und die Schallgeschwindigkeit c nimmt ia wegen zunehmender 
+Elastizit ab.  Mit f ~ c/L sollten dann die Eigenfrequenzen sinken. Für 
+tiefe Temperaturen ist der Zusammenhang ungefähr linear, während bei 
+hohen Temperaturen sich das Gewicht zwischen longitudinalen und 
+transversalen Moden verschiebt.
+
+Bei glockenförmigen und messignen Geräten kann man sicher ganze Abende 
+darüber diskutieren, was dabei herausschaut, aber wie das Experiment vom 
+Ronald mit dem gefrorenen Posthorn zeigt, gelingt es zuweilen, die 
+Schall-Gruppengeschwindigkeit reversibel auf 0 zu drücken.
+
+
+-- 
+
+Tino Drosten

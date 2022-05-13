@@ -1,0 +1,48 @@
+Am 5 Sep 2011 09:46:42 GMT schrieb Domenico Christmann:
+
+
+Ihr Forschungsgebiet sind mathematische Objekte, die in ihr selbst
+definiert werden, und nicht unbedingt real existieren müssen[1].
+Nebenbei untersucht man auch die Zusammenhänge zwischen diesen Objekten,
+wobei so ein Zusammeenhang gerne selbst wieder so ein Objekt wird, zu dem
+wieder Zusammenhänge zu anderen Objekten untersucht werden usw usf.
+
+Gegebenenfalls sind auch die Schlussweisen, die zur Untersuchung der
+Objekte herangezogen werden, selbst solche Objekte. Mathematik kann also
+durchaus gerne rück- und selbstbezüglich sein.
+
+[...]
+
+Zahlen sind eines der Objekte von oben. Mehr oder weniger kann man schon
+sagen, dass die Mathematik damit angefangen hat, aber das ist schon ein
+oder zwei Jährchen her, und seitdem gab es diverse Weiterentwicklungen.
+Also, in der Mathematik selbst; über das, was manche Leute über das Wesen
+der Mathematik glauben, möchte ich lieber keine Aussage machen.
+
+Und natürlich gibt es auch in neuerer Zeit immer wieder Antworten auf
+Probleme im einfachsten Zahlenraum, die leider gar nicht so leicht zu
+finden sind, Fermat und evtl. Collatz (sollte der Beweis von Opfer rettbar
+sein) als Beispiel.
+
+
+Deswegen ist Mathematik ja auch keine Naturwissenschaft. Es gibt in der
+Natur zwar mit Sicherheit 5 Äpfel auf einem Haufen, aber das ist halt dann
+nur eine Instanz des Konzeptes "Fünf". 
+Und was die Welt ist, dazu hat Tibusch eine hervorragende Definition
+gegeben: Alles, was der Fall ist.
+Ein Unterschied zur Sprache und zur Sprachwissenschaft ist zumindest, dass
+es Sprache real gibt.
+
+Ciao Heiko
+
+[1] Natürlich entwickelt und definiert man die Objekte so, dass es einem wa
+sbringt, also ein Interesse erfüllt wird. Und oft kommt so ein Objekt
+indirekt aus der wirklichen Welt, mit Umweg über eine Naturwissenschaft,
+die darüber versucht, die reale Welt zu beschreiben; in dem Sinn ist
+Mathematik evtl. eine Naturwissenschaftwissenschaft. Und selbst wenn man
+ein Objekt aus dem puren Gedankenraum erdacht hat, irgendwann kommt immer
+ein Idiot und wendet es irgendwo erfolgreich an. N.A. Nemitz wird heute noch
+im Grab rotieren, weil Primzahlen[2] so erfolgreich beim Militär verwendet
+werden.
+[2] Oder Zikaden, deren Lebensyklus eben aus denselben guten Gründen eine
+Primzahl von Jahren dauert. Sonneblumen kennen den goldenen Schnitt usw.

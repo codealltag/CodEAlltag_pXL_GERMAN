@@ -1,0 +1,14 @@
+* Frank Good <Kmp_dtvetj.mfqf@cagforfixci.wm>:
+
+
+Hm, ich kenn mich da nicht aus, aber ich denke, jedes nur
+einigermassen gescheite OCR-Programm ein Wörterbuch und
+Buchstabentupel-Häufigkeiten verwendet. Und damit findet man dann ganz
+schnell heraus, dass es "wissen" und nicht "wiffen" heissen muss, und
+dass die Buchstabenkombination "fch" im Vergleich zu "sch" ganz extrem
+selten ist, nicht?
+
+Bleiben noch Wörter wie Reise, Lust, lustig, sachlich, hasten, sein,
+Hasen, Lüster, Aster, List.
+
+ - Meinrad

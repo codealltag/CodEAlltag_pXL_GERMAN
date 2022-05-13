@@ -1,0 +1,10 @@
+Kurz gesagt: Definition durch Rekursion ist 1. schwerer zu
+verstehen und 2. braucht der Computer mehr Rechenkapazität.
+
+Es ist wie mit den Maxwellschen Gleichungen: elegant - aber der
+Elektriker kann nichts damit anfangen. Theoretische Physik ist
+näher bei der (negativen) Theologie als bei der Praxis.
+
+Gruss
+
+Juan

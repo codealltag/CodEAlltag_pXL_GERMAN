@@ -1,0 +1,13 @@
+Am Mon, 28 Aug 2011 16:33:41 +0100 schrieb David Cédric:
+
+
+Netter Kommentar. Fragt sich nur, was er mit dem, worauf du antwortest, zu
+tun hat. Aussage: "Die, die es verstanden haben, schreiben keine ganz
+schlechten Noten". Damit ist nichts, aber auch gar nichts ausgesagt über
+die, die es nicht verstanden haben; die können sowohl gute als auch
+schlechte Noten haben. (A => B) => (-B => -A); B => ?
+
+Welche Noten hattest du in Mathematik, speziell wenn es um logische
+Schlussweisen ging? #
+
+Ciao Rupert

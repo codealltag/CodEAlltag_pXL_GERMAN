@@ -1,0 +1,19 @@
+Meinrad Teichrib Rodts *
+
+
+Richtig, aber in jeder Schleife gibt es zwei Schritte:
+
+- programmieren
+- ausführen, ohne Abweichung vom momentanen Zustand des Programms
+
+Das steht im Kontrast zum Beispiel zum Autofahren, wo man den
+weiteren Verlauf während des Vorgangs zu jeder Zeit neu bestimmt - das
+ist nicht programmiert. Man kann ein robotisch gesteuertes Auto aber
+auch programmieren, so daß es den vorher festgelegten Weg automatisch
+abfährt (das hat Akel neulich eindrucksvoll demonstriert).
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Albert Hub in "The Sign of the Claw" (1964)

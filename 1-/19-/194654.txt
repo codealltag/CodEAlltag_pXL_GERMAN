@@ -1,0 +1,12 @@
+* Klaas Kleissner:
+
+
+Und sogar: "Das ist mir zuviel", "Er hat mir das Auto repariert".
+
+
+In der Tat. Vielleicht ist diese Ebene der sogenannten "Funktion",
+die da zwischen Syntax und Semantik vermitteln soll, letztlich
+überflüssig.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

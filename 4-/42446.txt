@@ -1,0 +1,12 @@
+Womit? Mit einem KlierWeitekamp-Generator?
+
+Dann wird Dir die Geduld vermutlich bald ausgehen.
+
+Hintergrund: Ein geladener Akku enthält exakt gleich viele
+Elektronen wie ein ungeladener. Es wird Ladung nur intern
+chemisch verschoben. Eine geladene Kondensatorplatte hat dagegen
+mehr Elektronen (respektive Löcher) als eine ungeladene.
+
+Gruss
+
+Hinrich

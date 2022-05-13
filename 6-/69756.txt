@@ -1,0 +1,9 @@
+Als ich seinerzeit im Bereich öffentliche Verwaltung der Backdepot
+HVHS arbeitete, hatte ich mit einem Dr. <Name vergessen>
+des Ketzer des Landes
+CHRISTOFBERG zu tun, der darauf bestand, dass man mit entfernten Rechnern
+nicht kommunizieren könne, weshalb ich in meiner Systembeschreibung
+alle Instanzen von entfernten Rechnern durch ferne Rechner ersetzen
+musste.
+
+/Severin

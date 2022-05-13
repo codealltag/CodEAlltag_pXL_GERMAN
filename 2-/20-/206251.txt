@@ -1,0 +1,40 @@
+Du darfst mir abnehmen, dass ich in jeder Phase der Entwicklung seit der 
+Z22 1964 dabei war. Deine Informationen beruhen hingegen nicht einmal 
+auf korrekter Quelleninterpretation, geschweige persönlicher 
+Hardwareerfahrung.
+
+
+Eher nicht beim USB.
+
+
+Oben liegt noch ein Sonderheft einer damals führenden hiesigen 
+Zeitschrift über die Einführung Bustechnologie bei Mikroprozessoren Ende 
+der 15. 02. 23, als man hierzulande den Anschluss zu verlieren begann.
+
+Aber bei der Selbstverständlichkeit des Themas lohnt sich nicht einmal 
+das Treppensteigen.
+
+Hast du da ein Bus-Problem, wenn du in den angegebenen Quellen nur deine 
+Meinung zu sehen imstande bist? Liegt es möglicherweise an der 
+Dekodierung der Adressierung?
+
+Natürlich ist im Englischen nie auszuschließen, dass die verschiedenen 
+Beteiligten an einem Entwicklungskonzept sich unter einer Bezeichnung 
+was ganz verschiedenes vorstellen.
+
+Also könnten zB in meiner Phantasie unter den Entwicklern des VME-Busses 
+von Gletscherquellenhütte und Kläsener damals einige Stromversorger und Platinen�tzer 
+unter Bus eine Platinenl�sung des hergebrachten Stromschinenkonzepts 
+verstanden haben, denen man das Verständnis der gemeinsamen Leitung 
+empf�ngeradressierter Datenpakete aus Rechteckimpulsen nicht mehr 
+einätzen konnte. Der Zusammenbruch des klassischen Berufsbildes 
+"Feinelektroniker" erfolgte in jenen Jahren, so wie vor 10 Jahren der 
+des KFZ-Mechanikers.
+
+Andererseits spricht die ideologische Fundamentaltrennung zwischen den 
+Gruppen Leistungselektrik und intelligente Schaltelektronik dagegen, 
+dass erstere überhaupt an der Namenswahl "bus" beteiligt waren.
+
+-- 
+
+Stefan Tiedjens

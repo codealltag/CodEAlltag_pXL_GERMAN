@@ -1,0 +1,12 @@
+Vor Gericht und in Prüfungen kann man sich vergewissern, ob man das 
+Prinzip Behauptung und Beweis verstanden hat.
+
+Prüfungen über die diesen formalisierten Prozessen zugrunde liegenden 
+unbeweisbaren Annahmen, Prinzipien, Konventionen und Schlussmethoden 
+gelten als ziemlich tückisch, das ist für Algorhythmiker, Binärspastiker 
+und Physiker nicht anders als für Soziologen, Kosmologen, Archäologen 
+und Philosophiehistoriker.
+
+-- 
+
+Benno Cäsar

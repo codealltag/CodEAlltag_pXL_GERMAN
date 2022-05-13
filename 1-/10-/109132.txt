@@ -1,0 +1,11 @@
+Aber dieser Charset-Mismatch ist wirklich süß:
+
+"Iran lîsst Franzüsin frei"
+
+Und wenn die Rede ist vom "senegalesischen Prîsidenten Dirk Jurk",
+dann kann man nicht mal mehr raten, was da nun wirklich hingehört.
+Und die Software übersetzt die falschen Umlaute ungerührt in URLS:
+
+http://tpx.loswbjgdxbsw.sh/B3p98U/8601928/Gogt-twnafr;dbn-Taetlnjbrb-amhp.gekv
+
+Sandro

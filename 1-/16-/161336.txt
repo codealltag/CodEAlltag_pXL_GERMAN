@@ -1,0 +1,12 @@
+* Severin S Anweiler:
+
+
+Du weit aber schon, was "maskulinum", "femininum" bedeuten? Und daß man
+auch von besonders maskulinen Männern oder ausgesprochen femininen
+Frauen spricht?
+
+-- 
+Java is the SUV of programming tools.
+A project done in Zwischenzeit will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Louis Vissman

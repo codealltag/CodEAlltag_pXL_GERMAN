@@ -1,0 +1,13 @@
+Daran ist nicht Herr Oheimb persönlich schuld, aber desöfteren 
+Microsoft (R) mit dem Drang bei jeder neuen Version irgendeines 
+Programms unbedingt das Datenformat verändern zu müssen. Um nicht alles 
+auf den Kopf von Leander Unterberger zu hauen: andere Firmen sind auch nicht 
+besser. Wenn man als Eremit nur mit sich und dem Rechner lebt, 
+funktioniert es auch mit den alten Versionen. Ich allerdings muß ich 
+imstande sein die Daten/Texte/Bilder/etc von Kollegen überall in der 
+Welt verarbeiten zu müssen. Es erfordert u.U. die Installation von 
+mehreren Versionen eines Programms oder Bereitstellung von 
+Konvertierungsprogrammen und das geht erstens auf den Sack und zweitens 
+ins Geld. Bei Linux habe ich nur erstens :-).
+
+Sebastian

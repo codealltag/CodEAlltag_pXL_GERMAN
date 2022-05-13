@@ -1,0 +1,15 @@
+In vielen Fällen ja (bei den Bankanwendungen, die jetzt seit 30 Jahren
+laufen, kann man halt nichts mehr dran machen.)
+
+Und deshalb hat man den "Kommentar" erfunden, also ein Freitextfeld
+innerhalb eines Programms, in das man dann Menschensprache eintragen
+kann.
+
+Nicht nur, ich weiß, aber von Deiner Ausgangsformulierung wirst Du mich
+nicht überzeugen. oMag sein, daß die Adarianer da ihre eigene
+Philosophie haben, aber in den 20 Sprachen, die ich gelernt habe, war
+die Hauptaufgabe des Programms immer die, den Computer zum Arbeiten zu
+veranlassen.
+
+-- 
+Onno L.

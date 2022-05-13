@@ -1,0 +1,9 @@
+Es sind nicht die Zeichen, die falsch sind. Es ist die
+Zeichenerklärung in den headers. Sie is nicht da.
+
+Dass dein Program dann mit kyrillisch versucht, ist mehr oder
+weniger zufällig.
+
+-- 
+Gruß
+Patrice, Dänemark

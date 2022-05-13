@@ -1,0 +1,19 @@
+Das kannst Du gern so sehen, aber digital bedeutet nunmal "in Zahlenform".
+Digitale Daten sind solche, die sich - nur! - mit Rechenvorgängen erfassen
+und bearbeiten lassen. Zum Beispiel macht man ein digitales Audiosignal
+lauter, indem man sich jeden einzelnen Zahlenwert (auf der CD 44100 pro
+Kanal und Sekunde) anschaut, seine Differenz zur Mittellinie mit einem
+bestimmten Faktor multipliziert und den neuen Wert abspeichert. Es ist ein
+reiner Rechenvorgang. 
+
+Wie Du ein grünes Ampelmännchen in eine mathematische Gleichung einsetzen
+willst, ist mir jedoch nicht ganz ersichtlich :) 
+
+Das angezeigte Ampelsignal ist diskret, weil es nur zwei Zustände ohne
+Zwischenstufen kennt. Es ist aber nicht digital, da es nicht in Zahlenform
+vorliegt. Es liegt in Form einer Farbe und einer Form vor. Das sind
+geometrische beziehungsweise physikalische Größen, es sind keine Zahlen
+(wenn sie sich auch freilich in solche umwandeln lassen). 
+
+
+vG

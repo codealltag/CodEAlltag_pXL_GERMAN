@@ -1,0 +1,19 @@
+[d.s.m entfernt]
+
+
+Die "coercion" gibt's übrigens implizit auch in C (Arrays und Zeiger
+werden innerhalb derselben Übersetzungseinheit identisch behandelt
+und daher automatisch ineinander umgewandelt, falls ein Cast fehlt). 
+
+
+Ist eine Verneinung (sprachlich) keine mehr, nur weil sie doppelt ist?
+
+Dazu fällt mir eine nette Anekdote aus einer Linguistik-Vorlesung
+an einer US-Uni ein: der Prof erklärt, daß eine doppelte Verneinung
+eine starke Bejahung darstelle, es aber interessanterweise keine
+gesprochene Sprache gäbe, in der eine doppelte Bejahung eine starke
+Verneinung bedeutete.  Daraufhin spontan ein betont gelangweilt
+vor sich hinmurmelnder Student: "Yeah, yeah...".   :^)
+
+
+otmar

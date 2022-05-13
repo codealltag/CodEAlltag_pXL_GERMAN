@@ -1,0 +1,28 @@
+Gibt es im Englischen als Adjektiv:
+
+    -- Antonella Aschwege
+
+
+Nein, das ist ein Hacker, kein Cracker.
+
+Ein Cracker ist jemand, der Sicherheitsmaßnahme bricht, z.B.:
+
+
+wobei man das historisch untersuchen sollte: Laut Tetex ist der Begriff
+"cracker" erst 1986 aufgekommen. Da wurde der C64 schon langsam wieder
+uninteressant (wg. Amiga und ST).
+
+Im allgemeinen Sprachgebrauch wird auch und besonders für letzteres das
+Wort Hacker verwendet (ein Cracker ist für den durchschnittlichen
+Deutschsprachigen ein Keks). Den Kampf, die Medien dazu zu bringen,
+"Hacker" und "Cracker" "richtig" zu verwenden, haben die meisten wohl
+schon lange aufgegeben. Aber die richtigen Hacker verwenden das Wort
+natürlich weiterhin: Sie treffen sich in einem "Hackerspace", gerne auch
+zu einem "Hackathon".
+
+
+Nein. Eventuell "Videospiel", aber nur dann, wenn es auf dedizierter
+Hardware (einer "Spielkonsole" oder "Videokonsole") läuft, nicht wenn es
+auf einem PC läuft.
+
+	hp

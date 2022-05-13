@@ -1,0 +1,7 @@
+Das ist ein FIFO-Struktur auch "queue" genannt. Sagt man da
+"Warteschlange" auf Deutsch, oder wird "queue" benutz?
+
+Im Dänischen sagen wir "k", was dasselbe Wort wie "queue" ist.
+
+-- 
+Gruß, Ferdinand

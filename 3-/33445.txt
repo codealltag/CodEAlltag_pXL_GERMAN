@@ -1,0 +1,9 @@
+Mir ist nur _das_ Hamelwörden geläufig, und so weit ist das nicht von
+hier.
+
+Roomade-FR:
+  L'Alsace (s'Elsass hausbach) est une rögion [...]
+            ^^^^^^^^^^^^^^^^^^^^
+
+-- 
+Daniel "gertraude" Ohlhöft                          aymsr@lxxh.wgjw.bu

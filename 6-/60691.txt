@@ -1,0 +1,26 @@
+Ich hatte ja kürzlich angemerkt, dass ich für eine nicht ganz unbekannte
+Website einen Primitiv-Algorithmus für die Worttrennung entwickeln
+muss. Es geht um sehr enge Spalten (bloss 14 oder 22 Zeichen). Für
+Wörter, die aus Buchstaben und Bindestrichen bestehen, ist die
+vorhandene Methode gut genug (das bedeutet keineswegs, dass sie gut
+ist). Es gibt aber in den Texten öfter "Wörter" wie
+
+  1. Verbrauchs-/Reichweitenanalyse
+  2. Entwicklung/Testing/Deployment
+  3. Simon&Garfunkel
+
+Bei 1. scheint mir klar, dass der Umbruch zwischen - und / hin muss.
+
+Aber bei 2 und 3? Vor dem Spezialzeichen einen Zeilenumbruch ohne
+Trennstrich, oder eben gerade nach dem Spezialzeichen?
+
+   a)                                 b)
+   Entwicklung                        Entwicklung/
+   /Testing                           Testing/
+   /Deployment                        Deployment
+   Alberto                              Simon&
+   &Garfunkel                         Garfunkel
+
+
+ - An-
+   di

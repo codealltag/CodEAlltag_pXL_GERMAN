@@ -1,0 +1,21 @@
+* Arnold Lindstädt:
+
+
+Ich bin von der fachsprachlichen zu einer mehr
+allgemeinsprachlichen Definition von Symmetrie gewechselt. 
+
+Wenn Du mir einen Euro gibst und ich Dir zehn Euro, dann ist die
+Relation mathematisch betrachtet symmetrisch, aber im normalen
+Leben ist das ein typisches Beispiel für eine "asymmetrische
+Beziehung".
+
+Im Effekt ist das eine Verschärfung der Anforderung: wenn Gruppe A
+die Sprache der Gruppe B einigermaßen versteht, umgekehrt aber
+fast gar nicht, dann ist es wohl eine verschiedene Sprache (z.B.
+wird das manchmal von Portugiesisch-Spanisch behauptet).
+
+Ich nehme mal an, "darstellen" statt "dastehen" war nur Tipp- und
+nicht schon Lesefherle.
+
+-- 
+Tom

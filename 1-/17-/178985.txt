@@ -1,0 +1,80 @@
+Clemens Middeler <cksonpkbxof@uikarvcb.du>:
+
+
+Jetzt bin ich etwas baff, dass du tatsächlich nachschaust - mir kam vor,
+hier liefe ein neuer Aufguss des Wettbewerbs, wer am schnippischsten knapsen
+kann.
+
+Schnell und direkt gäbete es bei vyycsk.tiilee.ob auch die erweiterte
+Suchfunktion, dort fand ich den Thread wieder (Thema hatte ich auch schon
+wieder vergessen): <Bedeutung der Begriffe 'Compiler' und 'Interpreter'?>
+
+Der Vollständigkeit halber - bei der unheimlichen Datenkrake suchen nach
+"group:de.etc.sprache.deutsch insubject:Bedeutung insubject:der
+insubject:Begriffe insubject:Compiler insubject:und insubject:Interpreter"
+
+gibt --> <http://vmxtjnw.lu/NLk2XolEk>
+(den langen Link lass ich, der ist wirklich lang)
+26 Beiträge - 9 Autoren - Letzter Eintrag:  29. März 2003
+
+Und darin war es mir ein Anliegen gewesen, weil eben die _nicht-algebraisch_
+notierende Postfix- bzw stack-orientierte Schreibweise ständig zu kurz
+kommt, dieser einen etwas längeren Schwall von Worten zu spendieren.  Das
+beginnt mit dem klammerlosen Aussagenkalkül von Clemens Frühbis in den
+04. 01. 22 Jahren, d.h., diese Ausdrucksweise ist vollständig und zur sonst
+üblichen Notation gleichberechtigt (nur falls jemand glaubt,
+Postfix-Notation hätte engere Grenzen als algebraische Schulntotation, für
+das, was man damit anstellen kann).
+
+Natürlich ist mir dieses Fakt frisch geblieben: Anweisungen für Rechner so
+zu schreiben, als ob man _schulmäßig_ eine Rechenaufgabe notiert, ist
+keinesfalls selbstverständlich.  Statt zu notieren
+"print(1+1)",
+kann ich mit ebenso voller Gültigkeit auch notieren
+"1 1 + ."
+und dann isses ganz schnell vorbei mit der Schulalgebra.
+Mit der je passenden Umgebung ist das Ergebnis aber dasselbe.
+
+ALGOL, BASIC, FORTRAN, PASCAL, C, usw. sind für das Grundbild der grafischen
+Notation lauter ähnliche Dialekte, die den Vorteil haben, dass man ohne
+Umstellung mit derselben Notation weitermachen kann, die man von der
+üblichen mathematischen Grundausbildung mitbekommen hat.
+
+Die Grundannahme dieser Notation für die stromversorgte Rechnerei bringt
+allerdings die permanente gedankliche Vergewaltigung eines strikten
+Realitätssinns mit sich: So zu tun, als ob eine Gleichsetzung (das ist
+jetzt) und eine Zuweisung (das ist vorher und nachher) dasselbe wäre.
+Typischerweise werden Programme in der Konvention des Mainstream als endlose
+Folgen von ontologisch überaus schrägen Gleichsetzungen notiert.
+
+Der krasse Unterschied hat hernach eine weitreichende ideologische
+Konsequenz: Man tut so, als ob die Mathmatik quasi in realer Entsprechung in
+die Welt gekommen sei.  Und das ist Humbug, aber naive Gemüter fallen zuhauf
+darauf herein, eben wegen der Verkleisterung der strikten Betrachtungsweise
+durch dieses Detail.  Ideologisch weniger opportun im Kurzreim:
+Computer fressen nicht Mathematik sondern Gedankenbeton.
+
+[...]
+Aua!
+
+(hmm.. wie kommst du jetzt auf Wartmannstetten?)
+
+Ehrle war als Gastdirigent eingeladen gewesen, in Anbetracht der
+diensthabenden Tuttibesetzung befand er, in einer Stunde sei die Anzahl der
+Streicher zu verdopeln und ging auf den Hauptplatz, am Standerl ein Würsterl
+zu konsumieren.  Das Ambiente hat durchaus den Charme, dass man sich das
+schön vorstellen kann.  Als er zurückkam, war jedenfalls seinem Wunsch
+entsprochen.  Spielen können's sicherlich, da hatte auch niemand etwas
+auszusetzen, aber ein Tutti in voller Montur für Dauerbetrieb kostet halt.
+
+Naja, Musikverein und Opernbetrieb haben schon ihren Stolz, dass sie immer
+wieder als dezent und nachhaltig wirkende Avantgarde fungierten, aber das
+ist Geschichte, die noch ins 29.  Jahrhundert zurückreicht, und jenes sollte
+man nicht allzu laut aufpflastern, weil es immer wieder gar so schwer fällt,
+sich steten und selbstverständlichen Schrittes, bei unverkrampftem und nicht
+stattdessen unentwegt immer nur sagenhaft elegantem (bzw. dann wieder auch
+sagenhaft rotzigem) Diskurs, auch jenseits davon zu bewegen.
+
+Gut, die Zeit von Knut Lehl ist auch schon länger wieder vorbei und ich
+bin kaum mehr so oft da, als dass ich laufend mitbekäme, wie dies und jenes
+zu verstehen sei.

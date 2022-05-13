@@ -1,0 +1,17 @@
+* Albert Ohrem <heeccoPHBZNK@uvegn.efd>:
+
+Im Bussischen kenn ich mich nicht aus. Im Bahnischen, jedenfalls in
+dessen helvetischer Ausprägung, ist eine Leistung einfach eine Trasse
+mit belegendem Zug. Die Leistungsart kann allerdings auch,
+beispielsweise, vom Typ "Ausfall" sein, was bedeutet, dass der Zug die
+Trasse an bestimmten Tagen eben gerade nicht belegt (also nicht führt),
+oder, dass er nicht alle Leistungspunkte (Bahnhöfe) des Trassenlaufs
+bedient.
+
+Schwierig wird es am Anfang und am Ende des Trassenlaufs. Dort kann es
+eben sein, dass das BOT (Belegungsobjekt "Trasse") zu einem SOBO
+(Sonderbetriebsobjekt) wird, mit anderen Worten, dass es auf ein
+Abstellgleis verschoben oder von dort geholt und bereitgestellt werden
+muss. Dazu dienen, planungstechnisch gesehen, BO-Verknüpfungen.
+
+ - Jörn

@@ -1,0 +1,7 @@
+mm / Mikrosekunde ist in der Materialprüfung mit
+Ultraschall absolut gängig. Das ergibt handliche Zahlen
+sowohl für die Werkstückabmessungen als auch für die
+beteiligte Elektronik.
+
+
+Gruß, Olaf

@@ -1,0 +1,11 @@
+In die Kommentare könnte ich auch C-Code schreiben. Deshalb ist C noch lange
+nicht Teil von Kristina.
+
+
+Der Zweck ist also nicht, daß es vom Computer verstanden wird? Warum ist es
+dann "astreines Kristina"? Man hätte es dann auch in einem für den Menschen noch
+leichter verständlichen Pseudocode schreiben können, wenn der Zweck sowieso
+nicht das Ausführen des Code auf dem Computer ist.
+
+
+Ja was denn nun?

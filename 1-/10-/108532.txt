@@ -1,0 +1,19 @@
+* Luca Guderjan:
+
+
+Verwirrende Einlassungen; es ist klar, daß das Demonstrativpronomen in
+diesem Kontext nur im Genitiv auftauchen kann. Das Possesivpronomen
+allerdings im Nominativ.
+
+
+Probleme kann man nicht besitzen (noch weniger als "geistiges
+Eigentum"). Abgesehen von der Formulierung ist die Unterscheidung
+Quatsch, denn nach Deiner Logik wäre "dessen Auto" dann grundsätzlich
+falsch. Wie würdest Du folgendes umformulieren:
+
+  Ich treffe meinen Freund, dessen Auto ich brauche.
+
+(Beispiel aus "Luderschmid Outline of German Grammar")
+
+-- 
+  "... von dem daß ich sein Auto brauchen tu"?

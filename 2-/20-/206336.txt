@@ -1,0 +1,15 @@
+Man könnte das ja auch etwas weniger abschätzig sagen.
+Aber ich kann mir auch schwer vorstellen, dass die Idee des Autobus 
+Verkehrs hinter dem Begriff steht (warum sollte es?). Was wären dann die 
+anderen Verkehrsteilnehmer? Störungen? Wenn schon, wäre dann wohl der 
+Zug die passendere Metapher gewesen. Wobei die auch nicht stimmt, bei 
+einem Bus haben ja alle Leitungen dieselben Endpunkte, was weder beim 
+Autobus, noch beim Zugverkehr so ist.
+
+Die Bezeichnung serial bus wiederspricht irgendwie auch etwas meiner 
+Vorstellung von einem Bus, aber andererseits gibt's da auch immer noch 
+mehrere Leitungen und, wahrscheinlich wichtiger, eine parallele 
+Verbindung (naja, bei USB zum Teil) wurde durch etwas neues, serielles 
+ersetzt.
+Schlussendlich setzt sich dieser Trend ja überall fort, SATA, SAS, 
+Thunderbolt, PCIe... die klassischen Busse werden immer seltener.

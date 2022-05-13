@@ -1,0 +1,22 @@
+"Diese" als Anschluß halte ich hier für klar besser. Aber immerhin ist
+da ein erreichbarer Referent für die Anapher "die". Im Beispiel ganz
+oben ist der gemeinte Referent grammatisch völlig unerreichbar, weil
+innerhalb der NP gebunden.
+
+Besonders deutlich wird das bei Modifikatoren im Kompositum:
+
+  Hundehaltern, die ihn quälen, gehört das Tier weggenommen.
+
+Grammatisch ist die Position des Genitivattributs ganz ähnlich.
+Subjektiv ist Dein Satz mit dem Genitiv marginal besser, aber vielleicht
+auch nur, weil man ihn so leicht korrigieren kann ("... (in dem/wo) sie
+das Gleiche sagt").
+
+Diese Regel gilt auch für das Englische, daher halte ich den Unterschied
+zwischen der dortigen Auseinanderschreibung und der Zusammenschreibung
+im Deutschen für ziemlich unbedeutend.
+
+-- 
+Cédric Jungnitsch working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

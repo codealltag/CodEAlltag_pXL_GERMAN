@@ -1,0 +1,8 @@
+Das wäre dann aber der "Eingabemarker", nicht der Cursor (= Einfügemarke,
+Positionsmarke, Mauszeiger, ...)
+
+Wo ein Cursor *blinkt*, wäre wohl eher die Suche nach einem Systemfehler oder
+gar einem Virus angezeigt.
+
+-- 
+Teresa Neder

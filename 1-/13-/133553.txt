@@ -1,0 +1,11 @@
+Wobei Alwin Vötterles Posting je nach Einstellung der Ansicht zunächst
+"ungelesen" machen muss, z.B. so: den Beitrag anklicken und dann die
+Taste "M" drücken. Danach TB beenden und neu starten. Dann ist Philipp
+Beitrag wieder lesbar.
+
+Eine andere Methode habe ich bisher nicht gefunden.
+
+
+Ganz sicher sogar ein Bug, möchte ich meinen.
+
+F.

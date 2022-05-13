@@ -1,0 +1,40 @@
+Hallo Elmar,
+
+
+Das kommt darauf an, was Du unter "als Dein Programm eigentlich braucht"
+verstehst. Wenn damit der Workingset gemeint ist, dann ist das natürlich
+falsch, wenn damit aber der gesamte Speicher gemeint ist, den ein Programm
+brauchte, wenn es kein Paging gäbe, dann ist da in sehr vielen Fällen ein
+Unterschied. Oft ein erheblicher.
+
+
+Das wäre allenfalls sinnvoll, wenn der Prozessor nicht in der Lage ist, den
+gesamten Speicher anzusprechen. 
+
+
+Früher haben die Systeme es auch dem Programmierer überlassen, die Bytes
+einzeln an den Drucker zu schicken. Kann man machen, muß man nicht. Vor
+allem weiß das System, ob so viel los ist, daß es nötig ist, etwas
+auszulagern, oder daß man sich das ganz sparen kann. Anwendersoftware weiß
+das üblicherweise nicht.
+
+
+Wenn Du natürlich blöde Paging-Algorithmen mit Software vergleichst, bei
+der ein guter Programmierer sich obendrein noch den Aufwand angetan hat,
+Daten nach Möglichkeit auszulagern. Vielleicht solltest Du sie wenigstens
+(wenn Du schon keine guten Paging-Algorithmen vergleichen willst) mit
+üblichen Programmen vergleichen, die nämlich nur im äußersten Notfall
+irgendwelche Maßnahmen ergreifen, um Daten auszulagern nur um den Abdruck
+im Speicher klein zu halten.
+
+
+Wenn Du ein Job für etwa eine Sekunde in den Speicher packen willst, dann
+würde ich erwarten, daß man nicht mehr als die Hälfte der Zeit mit dem
+Hinein- und Hinauswerfen verbraucht, damit man noch ein klein wenig Zeit
+zum Rechnen hat. Das begrenzt die Größe der Jobs dann schon recht deutlich.
+Warum das nun ein Indiz dafür sein soll, daß Swapping besser als Paging
+ist, leuchtet mir nicht ein.
+
+Gruß Lorenz
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

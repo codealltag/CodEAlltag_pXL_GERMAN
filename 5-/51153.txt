@@ -1,0 +1,4 @@
+Das ist schön, wenn der zentrale Punkt *deines* Arguments keine Rolle
+spielt. 
+
+	hp

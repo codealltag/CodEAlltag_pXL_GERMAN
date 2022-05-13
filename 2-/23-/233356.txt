@@ -1,0 +1,45 @@
+Ich weiß nicht, wie weit ich mit "andere hier" gemeint bin. Ein wenig 
+schon, aber so pointiert würde ich es nicht sagen. Eher so:
+
+Silben sind phonetisch, da gibts gar kein "ban-nen", sondern nur ein [ban@n].
+Und schon habe ich Mühe, die Silbentrennung zwischen die beiden n zu legen,
+weil nämlich nur eines da ist.
+
+Die Schreibung ist aber ganz und gar Konvention, und die Einteilung in
+Sprechsilben mindestens in Zweifelsfällen auch ("Fen-ster" vs.
+"Fens-ter"). Diese Konventionen sind aber nicht etwa einfach willkürlich,
+sondern entsprechen Gesetzmäßigkeiten in der Sprache.
+
+Eine dieser Gesetzmäßigkeiten ist, dass betonte eindeutig geschlossene Silben,
+d.h. solche, bei denen auf den Vokal in allen Wortformen zwei Konsonanten
+folgen, im Nhd meist kurz sind. Damit markieren die zwei Konsonanten eine
+kurze Silbe, und die Schreibkonvention, dass man kurze betonte Vokale mit nur
+einem Konsonanten danach durch Verdoppelung des Konsonanten bezeichnet, ist
+naheliegend. Kurz: wenn geschlossene Silben kurz sind, schreibt man eben kurze
+Silben geschlossen. Bei Frikativen wie -ff- oder -ss- macht man nichts falsch,
+weil zwei -f- oder -s- auch nicht viel anders klingen als eines. Bei Plosiven
+wie -pp- ists eigentlich widersinnig, weil ein Plosiv den Luftstrom zu- und
+wieder aufmacht, und zweimal würde man hören. Man sagt dann, das erste -p-
+steht für zu, das zweite für auf; aber dann müsste man logischerweise *alle*
+-p- doppelt schreiben. Bei Affrikaten oder -st-, -tsch- oder -pf- ist man
+irgendwo in der Mitte zwischen den beiden Auffassungen.
+
+Eine andere Gesetzmäßigkeit ist die Phonologie, nach der es am Stammanfang
+keinen Vokal gibt und manche Konsonantenverbindungen auch nicht. Die versucht
+man also am Silbenanfang auch zu vermeiden und bildet Silbeneinteilungen wie
+"mal-ten", obwohl das lange a auf eine offene Sibe deutet wie in "ma-len"; nur
+die Silbe "-lten" klingt zu blöd. Oder man trennt "M-he" als würde das
+Dehnungs-h gesprochen. Oder man teilt gar auf als "sin-gen", obwohl die Laute
+n und g beide nicht vorkommen: man will halt die kurze Silbe schließen, aber
+die zweite Silbe nicht mit Vokal beginnen lassen. Oder man bildet die Silben
+"He-xe" mit offener kurzer Silbe. Kompromisse über Kompromisse, damit die
+sinnvolle Regel mit den kurzen geschlossenen und den langen offenen Silben
+nicht allzu krass der Phonologie widerspricht.
+
+Das alles darf man tun, weil sowohl Schreibung als auch präzise Silbengrenzen
+weitgehend Konvention sind. Man soll aber nicht dann wieder umgekehrt aus
+diesen willkürlichen Konventionen auf die Schreibung in Zweifelsfällen
+schließen.
+
+-- 
+Claudio Leenings

@@ -1,0 +1,12 @@
+Im Dialog gibts unter dem Sub-Haupt-Men den E-Item 
+'Online' 
+   mit den 2 Sub-E-Items
+ 'Get complete Grouplist(s)'
+   und 
+ 'Update Grouplist(s)' 
+
+Je nach persönlicher Belegung bestechen beide Sub-Punkte wieder 
+durch entsprechende Single-E-Items! 
+
+
+Warum in die Ferne schweifen!?

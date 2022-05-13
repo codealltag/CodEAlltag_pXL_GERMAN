@@ -1,0 +1,7 @@
+In der Diss von V.Ickstadt sind französische Programme in der Sprache 
+Algol 60 abgedruckt, z.B. 'ENTIER' 'TABLEAU' statt 'INTEGER' 'ARRAY'.
+Nicht zur Dokumentation von Algorithmen -- die Dinger sind so kompiliert 
+und ausgeführt worden.
+
+-- 
+Eilert Voelkl

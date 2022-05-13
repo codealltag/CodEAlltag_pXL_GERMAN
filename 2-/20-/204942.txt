@@ -1,0 +1,21 @@
+So war es zu meiner momentanen Verwirrung auch. Aber weiter unten
+bei der Zugauswahl ist die Richtung von früher/oben nach später/unten.
+
+Also:
+                      /\    (später)
+  Hinfahrt   [06:00] 
+                      \/    (früher)
+  ...
+
+  Bahnhof ...  Zeit  ...
+  ...          /\ Früher
+               ab 06:40 / an 09:50
+               ab 06:56 / an 12:20
+               ab 08:36 / an 12:35
+               \/ Später
+
+Und auch sonst werden ja Zeitabläufe meist in diese Richtung
+protokolliert.
+
+-- 
+Andree "jasmin" Uebelin                          rvvol@oiky.iemk.qm

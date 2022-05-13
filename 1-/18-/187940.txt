@@ -1,0 +1,13 @@
+* Dominik Benker:
+
+
+Ja, ein wenig zu stark verkürzt. Durch Hebelwirkung auf eine
+Billion anheben, ist wohl gemeint.
+
+Mit einem Hebel kann man etwas anheben, was man nicht stemmen
+kann. Wir werden es erleben.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Helmuth Ingenhoven, comp.lang.python

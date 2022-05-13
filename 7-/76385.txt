@@ -1,0 +1,48 @@
+Eben. Man Argument ist ja, dass die Beschreibung "maschinenlesbare Daten
+analysieren" in mir vollkommen andere Vorstellungen auslöst als "parsen"
+und daher zumindest missverständlich, wenn nicht falsch ist.
+
+
+Allerdings trifft das auch nicht wirklich, was ein Parser macht. Das ist
+sehr viel ähnlicher der impliziten Analyse, die man unbewusst beim
+verstehen eines Satzes durchführt, als der expliziten Analyse, bei der
+man nach Subjekt, Prädikat, etc. sucht.
+
+
+Ich sehe keinen Unterschied zwischen MIDI-Files und MP3-Files in dieser
+Hinsicht. Sie haben unterschiedliche Semantik, aber Semantik haben
+beide. Ein MP3-File ist keine zufällige, bedeutungslose Byte-Folge,
+sondern kodiert eine Tonaufzeichnung samt diversen Metadaten.
+
+
+Ich bin aber nicht auf das Ausgangszitat eingegangen sondern auf die von
+meinem Vorposter zitierte Definition "parsen = maschinenlesbare Daten
+analysieren" und habe dargelegt, dass ich diese Defintion für
+unbrauchbar halte.
+
+
+Programmierer müssen halt mit Prozessen umgehen, die etwas tun oder
+entscheiden ohne selbst-bewusst zu sein. Dem Programmierer ist (im
+Gegensatz zu vielen Usern) sehr klar bewusst, dass das Programm nicht
+denkt und nichts will, aber andererseits ist ihm klar, dass das Programm
+einen gewissen Zweck hat, dass es in einem bestimmten Umfeld verwendet
+wird. Man kann einen MP3-Dekoder als abstrakte Transformation von einem
+Bitmuster in ein anderes ansehen, aber der Zweck der Aktion ist, dass
+dann irgendwelches Gedudel beim Lautsprecher herauskommt und bestimmte
+Informationen (Titel, Künstler, ...) am Bildschirm erscheinen.
+
+
+Wie gesagt, genau das gibt es bei Programmiersprachen auch. Nur wird das
+halt normalerweise so programmiert, dass der "nachfolgende Prozess"
+gleichzeitig abläuft - wobei ich schwer annehme, dass das beim Menschen
+auch so ist: Ich glaube nicht, dass man beim Verstehen natürlicher
+Sprache zuerst den Satz rein syntaktisch zerlegt, und dann erst anfängt
+zu überlegen, welche Bedeutung die so ermittelten Satzglieder haben
+könnten, sondern dass das parallel ablaufende, einander beeinflussende
+Prozesse sind.
+
+
+Das versucht man beim Design von maschinenlesbaren Sprachen natürlich
+tunlichst zu vermeiden ...
+
+	hp

@@ -1,0 +1,5 @@
+["Followup-To:" header set to de.etc.sprache.deutsch.]
+
+Für sehr seltsame Werte von "rosa".
+
+	hp

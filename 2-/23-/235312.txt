@@ -1,0 +1,9 @@
+Und das kleine Kappa für den Leitwert.Lamda für die Wellenlänge. Eta für 
+den Wirkungsgrad. Omega für die Kreisfrequenz.
+
+Etliche griechische Buchstaben sind mehrfach belegt. Interessant wirds, 
+wenn in einer Formel griech. Buchstaben mit mehrfacher Bedeutung 
+vorkommen. Das wenn man ohnehin unter Druck steht. ;-)
+
+-- 
+mfg hilde

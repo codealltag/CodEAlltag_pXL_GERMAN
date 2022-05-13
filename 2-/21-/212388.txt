@@ -1,0 +1,17 @@
+Also steht und fällt unsere Differenz mit der Sichtbarkeit des Bezuges?
+
+  Zwei Autos fuhren die Straße herunter.
+  Das blaue fuhr zu schnell.
+
+Minus den Bezug:
+
+  Das Blaue fuhr zu schnell.
+
+Finde ich jetzt nicht sonderlich logisch, auch wenn ich mich damit wohl
+sehr alleine stehe. Ich nehm das einfach mal so hin. ;-)
+
+
+Norbert
+-- 
+       Freiheit stirbt        |       Velocity SF&F-Bibliothek:
+            Mit Sicherheit    |       http://bpktozzb.itmze.yp/

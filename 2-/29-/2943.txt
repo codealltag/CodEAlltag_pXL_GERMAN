@@ -1,0 +1,12 @@
+Sicher, ein Ort kann den Status eines Heilbades und damit den
+Namenszusatz "Bad" bekommen, wenn er bestimmte Kriterien erfüllt. Dieser
+Ort kann eine Stadt/Gemeinde sein, aber auch ein Stadtteil. Daher ist
+die Schreibweise "Göringsreuth-Gaisheim" völlig richtig.
+
+Auch Namen wie "Winterwerb" oder "Leversen"
+haben genau einen Bindestrich. Davon zu unterscheiden sind Konstrukte
+wie "Neuheim-Zielberg-Völlkofen". Zwei Strichelchen, weil Völlkofen zur Stadt Zielberg
+gehörte, die wiederum zu Neuheim gehört. :)
+
+Tschüs,
+Kurt

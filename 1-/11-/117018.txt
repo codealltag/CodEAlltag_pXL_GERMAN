@@ -1,0 +1,29 @@
+Ja, Kunden wie kleine Kinder neigen dazu, Dinge aus ihrer 
+Benutzerperspektive zu sehen und nicht aus der des jeweiligen Herstellers.
+
+
+Insofern schon, als ein Stecker in einem Druckerport, an dem nichts hängt, 
+offensichtlicher Blödsinn ist. Dass er dazu überredet werden konnte, das 
+Ding trotzdem hineinzustecken, obwohl er den Druckerport gar nicht 
+braucht, zeigt, dass man ihn erfolgreich zu aus seiner Sicht hirnrissigem 
+Verhalten dressieren konnte, das er aber aufgibt, sobald er den 
+Druckerport doch braucht.
+
+
+Sie ist gigantisch. Natürlich ist dieser Kunde nicht besonders rational 
+vorgegangen. Zielführender wäre gewesen, gleich zu fragen: "Da steht in 
+einer Fehlermeldung etwas von einem Dongle. Was is'n das und wo kriege ich 
+das her?"  Die Erfahrung zeigt aber, dass schon diese Gedankenleistung 
+selten vollbracht wird. Darüberhinaus zu verlangen, dass alle 
+Konfiguartionsvarianten und alle Fehlersymptome mit allen Fehlermeldungen 
+solange kombiniert werden, bis irgendeine Kombination einen Sinn ergibt, 
+ist aber *wirklich* zu viel verlangt. Auch die Fachleute stehen ja 
+mitunter vor Rätseln, die sich hinterher als aus den Symptomen im Prinzip 
+erklärbar erweisen -- und die sind diese Denke gewöhnt.
+
+Außerdem sind mitdenkende Kunden nicht immer ein Segen: mancher wäre froh, 
+der Kunde würde sein Problem schildern, statt abstruse Theorien über die 
+von ihm vermutete Ursache aufzutischen.
+
+-- 
+Tom Thurm

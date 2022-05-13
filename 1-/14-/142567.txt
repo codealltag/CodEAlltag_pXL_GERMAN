@@ -1,0 +1,11 @@
+Severin Nienhys tat kund:
+
+
+Natürlich kann sie das, notfalls mit Brute-Force-
+Ansätzen - einfach durchprobieren. Der Trick ist,
+eine Verschlüsselung zu haben, wo das Knacken
+zu lange dauert. Fast jede Information wird im
+Lauf der Zeit weniger wert. Wenn sie beim Knacken
+weniger wert ist, als das Knacken "gekostet"
+hat, war die Verschlüsselung perfekt, auch wenn
+sie überwunden wurde.

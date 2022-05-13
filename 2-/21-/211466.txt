@@ -1,0 +1,15 @@
+Fachleute nennen die Dinge im Gegensatz zu den JDKJ meist so, 
+wie ihnen der Schnabel wächst.
+
+In diesem Sinn ist Kernspeicher ein architektonischer Begriff, der heute 
+meist Cache heißt. RAM war und ist immer nur eine billige 
+Notzwischenl�sung und ist architektonisch eigentlich ein Trommelcache.
+
+Ich habe allerdings auch schon Bachelorpr�fungen erlebt, in denen das 
+Repetieren korrekter, vom Dozenten vorgegebener Bezeichnungsworte 
+hinreichte, um akademische Würden zu erlangen.
+
+-- 
+
+
+Sergio Fruböse

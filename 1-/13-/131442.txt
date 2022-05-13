@@ -1,0 +1,11 @@
+In dem Zusammenhang fällt mir spontan "idle" ein: wenn eine CPU oder
+ein Prozeß bzw. eine Task nichts zu tun hat, dann "idlet" sie.  Von
+daher halte ich "recycle!" für weniger falsch.  Semantisch halte ich
+das Verb aber für unpassend, denn kaum jemand recyclet(!) Wertstoffe
+selbst, sondern gibt sie bestenfalls in die Wiederverwertung.  Dafür
+gibt's dann das etablierte Konstrukt "umweltgerecht entsorgen", also
+z.B. ausrangierte Rechner bei einer Elektroschrott-Recycling-Station
+abgeben, statt sie einfach auf der Müllkippe zu deponieren.
+
+
+hugo

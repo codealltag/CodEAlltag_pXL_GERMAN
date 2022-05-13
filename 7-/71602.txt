@@ -1,0 +1,24 @@
+Es wird halt durch ständige Wiederholung nicht richtiger. Wenn ich eine
+deutsche Übersetzung eines englischen Buchs lesen, übersetze ich
+gewohnheitsmäßig jede seltsame Redewendung ins Englische, und dann
+verstehe ich sogar die "Bediener�berlastung" als "operator overloading",
+aber in einer normalen deutschsprachigen Gesprächssituation (und meine
+Vorstellung von normalen deutschsprachigen Gesprächssituationen ist
+berufsbedingt schon recht anglizmenreich) mache ich das nicht. Wenn mir
+da unvorbereitet "aufdatiert" untergekommen wäre, hätte ich es höchstens
+aus dem Kontext verstanden.
+
+
+Dazu muss man erst mal auf die Idee kommen, dass "aufdatieren" eine
+wörtliche Übersetzung aus dem Englischen ist. Es könnte ja auch was mit
+dem deutschen Wort "datieren" (das Datum bestimmen) zu tun haben.
+
+Und selbst wenn man die Herkunft richtig deutet, muss das noch nicht
+eindeutig sein, wie Ivanos Beispiel "aufstarten" gezeigt hat: Da bin ich
+zwar richtig (und möglichweise auch nur, weil das der Kontext des
+Threads nahegelegt hat) von "aufstarten" zu "startup" gekommen, aber
+dann dort falsch abgebogen. (bei update fällt mir allerdings spontan
+keine Fehlinterpretation ein - wenn man den Sprung von "aufdatieren" zu
+"update" geschafft hat, dann hat man das Problem gelöst)
+
+	hp

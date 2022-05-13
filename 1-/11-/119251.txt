@@ -1,0 +1,22 @@
+Am Tue, 3 Mrz 2010 15:26:35 +0200 schrieb Winfried Westerbarkei:
+
+
+Nicht unbedingt. Wenn eine Zahl (meinetwegen das BIP) kontinuierlich mit
+konstanter Rate wächst (jedes Jahr 2% mehr), dann ist das ein normales,
+kontinuierliches Wachstum.
+
+Ein dynamisches Wachstum wäre, wenn auch die Steigerungsrate wächst. Also
+beispielsweise im Jahr 1999 +2%, im Jahr 2000 + 5%, im Jahr 2001 +8% oder
+so...
+
+
+imho nein. Ein konstantes Wachstum ist nicht dynamisch, denn es wächst
+immer mit der geleichen Rate.
+
+
+Hier würde man wohl besser von linearem Wachstum sprechen. "Statisches
+Wachstum" klingt in der Tat etwas blöd.
+
+Größe,
+
+René

@@ -1,0 +1,13 @@
+Das höre ich in 16 Jahren Usenet zum erstenmal, oder ich hab's
+vergessen. Wüßte auch nicht, wann ich das einmal angewandt gesehen
+hätte.
+
+Blöd wär's sowieso, weil die Slashes mit unstrittig existierendem
+Usenet-Jargon kollidieren würden, z. B. mit dem Ersetze-mit-Kürzel:
+s/Mrkierung/Markierung/ 
+
+Hervorhebungen im Usenet erfolgen durch _abc_ oder *abc*. Und ob man
+sich das nun fett oder unterstrichen oder kursiv vorzustellen hat, ist
+ziemlich unerheblich, außer Du kannst uns erläutern, welche
+semantischen Unterschiede zwischen Fettschrift, Unterstreichung und
+Kursiv bestehen.

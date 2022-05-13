@@ -1,0 +1,14 @@
+weil man Zeit seltenst in Kilogramm angeben kann. Das eine Leitung 
+100Mbit/sec übertragen kann, bedeutet nicht, dass sie es mit 100MBaud 
+tut. In Baud wird die Schrittgeschwindigkeit angegeben (grob gesagt der 
+Takt). Pro Takt können aber mehrere Bits (oder auch ein Bit pro mehrere 
+Takte) übertragen werden.
+
+
+Das ist etwas schwer, aber in furlongs per fortnight ist möglich und 
+kommt noch besser an. Es macht mächtig Eindruck, wenn ich sage: mein 
+Auto führt mit 367000 fur/fortnight.
+
+schal�mchen
+
+Ignaz

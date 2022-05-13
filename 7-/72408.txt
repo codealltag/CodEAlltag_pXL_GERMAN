@@ -1,0 +1,23 @@
+* Dirk W. Pottbaecker <osjoudpl5z@otwko.tt>:
+
+
+Und was bitte soll die Kiste mit einem Lochstreifen anfange? Die
+braucht doch erst ein Leseprogramm dafür.
+
+Beim pdp-8e hiess dieses "RIM-Loader". Es bestand aus wimre 18
+12-bit-Instruktionen, die man binär eingeben musste, also jede
+Instruktion durch Umlegen von 12 Schaltern (spätere pdp-8 hatten eine
+numerische Tastatur mit "Achterblock", mir der man die Instruktionen
+als 4 oktale Ziffern eingeben konnte).
+
+Erst dann konnte man das erste Programm vom Lochstreifenleser des
+Teletype ASR-33 einlesen. Das war in aller Regel ein komfortableres
+Lochstreifenleseprogram namens "BIN-Loader". Mit diesem las man "das
+Programm" in den Ferritkernspeicher; danach tippte man die Startadresse
+ein und drückte auf "Start".
+
+Letztmals hab ich das etwa 1987 gemacht; das von diesem pdp-8
+gesteuerte Diffraktometer war noch sehr gut im Schuss, aber die
+Steuerhardware nicht mehr ganz auf der Höhe der Zeit.
+
+ - Otmar

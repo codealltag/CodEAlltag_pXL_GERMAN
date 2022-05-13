@@ -1,0 +1,15 @@
+Nein, PC/IX. Wurde damals von JZP vertrieben. War angeblich ein System III.
+Ziemlich Version-7-ähnlich. Kein vi, dafür ein Editor namens "v", der
+wohl eine Kreuzung aus vi, micro-emacs und XEDIT war. Speicherschutz
+gab es ohne MMU natürlich auch keinen, aber da jeder Prozess auf
+64kB+64kB beschränkt war, war zumindest die Wahrscheinlichkeit,
+versehentlich einen anderen Prozess oder gar systemkritische Dinge zu
+überschreiben, recht gering.
+
+
+VAXen (und später dann MIPS und noch später Alpha) hatten wir auf der
+Uni. Aber das konnte ich mir privat nicht leisten, schon der PC mit 20
+MB Festplatte und 9-Nadeldrucker hat mein studentisches Budget schwer
+belastet. Beim ersten NeXT wäre ich aber beinahe schwach geworden ...
+
+	hp

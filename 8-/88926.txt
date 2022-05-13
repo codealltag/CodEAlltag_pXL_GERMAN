@@ -1,0 +1,9 @@
+GUE in Veltenhof: gehst du von der Straße rein, bist du im 4 Stock. 
+Vom Hof kommt man allerdings in den 2 Stock. Dort wird ab dem untersten 
+Kellergeschoß gezählt.
+
+Bei den Haltestellen lobe ich mir die russische Sprache. Dort führt man 
+durch n (n>=1) Haltestellen. Somit ist es dann klar, dass man an der n+1 
+aussteigen soll.
+
+Vittorio

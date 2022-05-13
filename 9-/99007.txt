@@ -1,0 +1,23 @@
+Weil es sonst so klingen würde (freepatentsonline)
+
+Die Spindel besitzt ein Außengehäuse 2, in dem eine Spindelrotorscheibe 
+3 drehbar gelagert ist, die einen Fadenleitkanal 3.1 aufweist und über 
+einen Wirtel 3.4 antreibbar ist. Am Außenumfang der Spindelrotorscheibe 
+3 ist als Fadenleitelement ein Ballonbegrenzer 3.2 befestigt. In das 
+innere Ende des Fadenleitkanals 3.1 mündet als ein Teil der 
+Spindelhohlachse ein an seinem unteren Ende abgebogenes 
+Fadenf�hrungsrohr 3.3. Oberhalb der Spindelrotorscheibe 3 ist unter 
+Zwischenschalten eines Lagers 8.1 eine Kammer 8 gegen Drehung gesichert 
+gelagert, die vorzugsweise die Form eines Zylinders hat, und einen Boden 
+8.2, eine Außenwand 8.3 und einen nicht dargestellten abnehmbaren Deckel 
+umfaßt. Innerhalb dieser Kammer 8 sind zwei Rotor-Spinnvorrichtungen R1 
+und R2 untergebracht, deren Spinnrotoren jeweils von Elektromotoren 4 
+und 5 angetrieben werden. Die Elektromotoren 4 und 5 sind über Leitungen 
+4.1. bzw. 5.1 mit einer elektronischen Baugruppe 7 verbunden, die auf 
+dem Boden 8.2 der Kammer 8 angeordnet ist. Die elektronische Baugruppe 7 
+ist an den Sekundärteil 6.2 eines Transformators 6 angeschlossen, dessen 
+Primärteil 6.1 in der Wand des Au�engeh�uses 2 fest angeordnet ist.
+
+-- 
+
+Ernst Borcher

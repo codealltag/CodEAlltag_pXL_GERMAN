@@ -1,0 +1,6 @@
+Mein Haupt
+Meines Hauptes
+Meinem Haupt
+...
+
+	hp

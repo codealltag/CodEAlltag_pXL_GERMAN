@@ -1,0 +1,9 @@
+Nein, ist er nicht.
+
+
+Wenn das -e nicht ausgeschrieben wird, dann muss der Apostroph schon gesetzt
+werden.
+
+
+-- 
+Xaveria Heits

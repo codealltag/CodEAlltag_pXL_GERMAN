@@ -1,0 +1,16 @@
+Hallo. Heutzutage besteht unser Konsumleben vermehrt (mehr als früher) 
+aus Blackboxes. Gibt es eine gängige Bezeichnung für das absichtliche 
+Erzeugen einer Blackbox:
+- ein Produkt ist so verschweißt oder verschraubt, daß man es nicht 
+erweitern, warten, reparieren kann (Stichwort: Elektronik).
+- seine Funktionsweise bleibt undurchschaubar (Stichwort Ireti).
+- einzelne Elemente sind unentwirrbar miteinander verknüpft (Stichwort: IE).
+- Ersatzteile sind nicht zu bekommen (Stichwort Laptop).
+- in Beschreibungen wird ein eigenes Produktvokabular erzeugt, daß vom 
+wirklichen techn. Hintergrund ablenken soll.
+- viele Bestandteile sind nicht deklariert.
+- Schnittstellen zum Benutzer sind vereinfacht und verschleiern oder 
+verdecken die eigentliche techn. Steuerung.
+usw. Ich neige zu "Blackboxing", oder gibt es etwas besseres? Gruß.
+
+bspw. bei einer Blackbox wie Ireti, einem Handy

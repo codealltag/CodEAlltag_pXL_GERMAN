@@ -1,0 +1,63 @@
+Dass es in der Sache dasselbe ist, wundert nicht: schließlich ist es dieselbe
+Sprache, über die wir reden. Es geht daher auch nicht um die Frage, ob sich
+mit den Begriffen die sprachlichen Gegebenheiten, über die wir uns wohl einig
+sind, irgendwie beschreiben lassen. Natürlich geht das, und die
+sog. Schulgrammatik ist ja genauso richtig wie Alternativen, wenn das
+Kriterium das ist, ob sie die Sprache beschreibt.
+
+Natürlich kann man Verben, die ein Akkusativobjekt haben können, "transitiv"
+nennen, wer wills verbieten, und ich werde im folgenden das Wort auch so
+verwenden. Was aber zeichnet ein Verb aus, das ein Akkusativobjekt haben kann?
+Gar nichts, außer dass es eben ein Akkusativobjekt haben kann. Warum hat man
+nicht genauso klangvolle Begriffe für Verben erfunden, die Dativ- oder
+Genitivobjekte haben können?
+
+Und auf das abracadabra gehe ich weiter unten ein.
+
+
+Doch. Die Besonderheit von Verben mit Akkusativobjekten, die ihnen einen
+besonderen Terminus verliehen hat, sollte ja irgendwie mit der Passivbildung
+zusammenhängen. Dieser Zusammenhang ist aber dürftig:
+
+Bei der Passivbildung werden Akkusativobjkete zu Subjekten (abracadabra), und
+nach denen richtet sich die Form (Person und Numerus) des Verbs. Andere
+Objekte bleiben, was sie waren, und nach ihnen richtet sich die Form des Verbs
+nicht. Gibt es deswegen gar kein Subjekt, dann wird als Form des Verbs die
+3.Person Singular verwendet. Beispiel:
+
+  Den Kindern *wird* vorgelesen. (kein Subjekt: Verb 3.Pers.Sing.)
+  Den Kindern *werden* Märchen vorgelesen. ("Märchen" ist Subjekt: Verb 3.Pers.Pl.)
+
+Die Art des Objekts hat also großen Einfluss auf den Satzbau bei der
+Passivbildung. Dagegen hat die Transitivität des Verbs einen nur sehr geringen
+Einfluss. Sätze mit intransitiven Verben haben im Passiv kein Subjekt, Sätze
+mit transitiven Verben haben manchmal eines, manchmal keines. Also am Verb
+hats gar nicht gelegen, sondern am Objektkasus.
+
+
+Ein Subjekt zeichnet sich dadurch aus, dass es im Nominativ vorliegt und dass
+sich die Form des Verbs danach richtet. Die meisten Sätze haben ein Subjekt;
+manche, besonders im Passiv, heben keines; manche heben ein rein formales
+("*es* regnet"). Das ist eine rein grammatikalische Erscheinung, die mit Kasus
+und Verbform zusammenhängt. Es ist aber keine inhaltliche, die Bedeutung
+betreffende Erscheinung. Es ist mitnichten so, dass, wer verfolgt wird, vom
+Inhalt her Subjekt der Aussage ist, nicht jedoch der, dem gefolgt wird.
+
+Man kanns auch anders ausdrücken: kenne ich einen Sachverhalt (wer macht was
+mit wem?), so kann ich daraus nicht schließen, wer das Subjekt ist. Erst wenn
+ich einen konkreten Satz bilde, um den Sachverhalt zu beschreiben, kann ich
+für *diesen* Satz feststellen, wer darin das Subjekt ist, und zwar aufgrund
+von Kasus und Verbform.
+
+Deswegen ist eben kein großes "abracadabra" nötig, wenn bei der Passivbildung
+mal das Subjekt wechselt und mal das Subjekt nur wegfällt. Der Satz dreht sich
+nicht ums Subjekt; das kann leicht einmal wechseln oder wegfallen.
+
+
+Nein, die Beispiele aus dem nächsten Beitrag: folgen - verfolgen;
+bedürfen - brauchen. Das sind wirklich praktisch Synonyme, und sie verlangen
+alle zwingend ein Objekt. Nur ist in jedem Paar eines der Objekte ein Dativ-
+bzw. Genitivobjekt und im anderen ein Akkusativobjekt.
+
+-- 
+Pietro Zimmerhäckel

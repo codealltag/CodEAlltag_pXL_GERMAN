@@ -1,0 +1,20 @@
+Da ist dir etwas entgangen!
+Für solche literarischen Blendwerke habe ich mal ein
+Auswertungsprogramm gebastelt. Das hat hier folgendes
+zutage gefördert:
+   Wortzahl:   5961 (gesamt)
+   Wortschatz: 1849 (verschiedene)
+   ausgezählt in  31/1000 Sekunden
+   die 7 häufigsten Wörter im Text:
+     ich:  220
+     und:  211
+     die:  131
+     der:   83
+     das:   70
+     zu:    65
+     mich:  64
+     in:    58
+     nicht: 52
+
+j/\a
+--

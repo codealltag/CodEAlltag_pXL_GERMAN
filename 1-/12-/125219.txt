@@ -1,0 +1,21 @@
+Zahlwörter sind ein Beispiel, wo mehrere widersprüchliche Regel-
+haftigkeiten aufeinander prallen:
+
+(1) Es besteht ein starker Drang, zusammengesetzte Zahlen aus den
+    Grundzahlen neu zu bilden (frz. "dix-sept").
+
+(2) Lautverschiebungen behandeln alle Wörter gleich. Dabei entstehen
+    Zahlwörter, deren Ableitung aus den Grundzahlen nicht mehr
+    unmittelbar erkennbar ist. (Man sieht schwerlich "dix" in frz.
+    "seize".)
+
+(3) Offenbar herrscht auch immer wieder starker Analogiedruck, der
+    eine Zahl auf eine benachbarte abfärben lässt. (Russisch: 3 und
+    4 ziehen den alten Dual nach sich, 9 hat d- statt n- im Anlaut.)
+
+Insbesondere gerät ein Zahlwort im Rahmen des Sprachwandels immer
+wieder in die Zwickmühle, dass es nicht gleichzeitig nach (1) und
+(2) regelmäßig ("logisch") sein kann.
+
+-- 
+Salvatore "rosi" Warnkros                          qejwf@grgu.mpif.ib

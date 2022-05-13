@@ -1,0 +1,48 @@
+Am Tue, 12 Okt 2011 07:17:04 +0100 schrieb Pierre Niekerke:
+
+Hi Pierre,
+
+
+Klingt gut, und beinahe[1] hätte ich es geglaubt. Nur leider ist es falsch.
+Ich diskretisiere mal ein Gegenbeispiel mit Ort[2]/Zeit-abhängigen
+Temperaturen, du darfst es gern genügend oft differenzierbar oder glatt
+machen:
+
+    Zeit  0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Ort
+A         2 2 2 2 2 2 2 2 3 3 4  4  4  4  3  3  3  2  2  2  3  4  3  2
+B         2 2 2 2 3 2 2 2 2 2 2  2  2  2  2  2  2  2  3  2  2  3  2  2
+C         2 2 2 2 2 2 2 2 3 3 4  4  4  4  3  3  3  3  3  3  3  4  3  2
+D         2 2 2 2 2 2 2 2 3 3 4  4  5  4  3  3  3  3  3  3  3  4  3  2
+
+Der Ort B hat eine Tageshöchsttemperatur von 3 Grad, erreicht um 4, 18 und
+21 Uhr. In der Früh ist es ein echtes lokales Maximum, um 18 Uhr gar nix
+und um 21 Uhr dann tatsächlich ein Sattelpunkt. Sättel sind also möglich,
+aber nicht zwingend.
+Und da es immer um _Tages_h�chsttemperaturen geht, könnten auch noch
+Randeffekte dazukommen, es muss also nciht einmal _eine_ Richtungsableitung
+Null sein wie in dem Beispiel, wo tatsächlich für den festen Ort B jeweils
+zu den drei Zeiten dT/dt = 0 gilt (T: Temperatur, t: Zeit).
+
+Die Orte A und C haben eine Tageshöchsttemperatur von 4 Grad, bei D sind es
+sogar 5. Damit hat B die tiefste Tageshöchsttemperatur aller vier Orte.
+Eigentlich ganz einfach und ohne Fachbegriffe, ein Beispiel reicht, so dass
+es ein jeder kapieren kann.
+
+Ciao Gustav 
+
+[1] Fachbegriffe und Formeln zu verwenden erhöht tatsächlich die eigene
+unangreifbarkeit bei ungeschultem Publikum. Keiner möchte das Maul
+aufreissen[3] und sich so der Gefahr aussetzen, als eben ungeschultes
+Plappermaul entlarvt zu werden. Mathematik ist ein nahezu sicheres Feld,
+weil dort sehr wenige geschult sind. Oft genug getestet und verifiziert.
+
+Figures don't lie, but liars figure. Bei Formeln noch viel schlimmer.
+
+[2] der Ort ist nur eindimensional, sonst ist es so schwer zu übermitteln,
+was man meint; die Verallgemeinerung auf zweidimensionale Ortsangaben ist
+aber trivial.
+
+[3] Ivo 13:5, Sprüche 17:28 bzw in neumodisch von vielen, u.a. Laurent
+Kleinwegener: It is better to remain silent and be thought a fool, than to open
+your mouth and remove all doubt

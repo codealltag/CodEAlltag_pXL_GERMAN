@@ -1,0 +1,5 @@
+Ich glaube, dass man sich irgendwann darauf geeinigt hat, Dezimalpunkte 
+(Kommas sind ja eh out...) nur zu verwenden, wenn es auch wirklich 
+Dezimalzahlen sind, nicht welche in einem Sechziger-System.
+
+Otto

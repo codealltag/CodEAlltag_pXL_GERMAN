@@ -1,0 +1,9 @@
+Die Hauptsache bei der Namensgebung war mit Sicherheit, daß es dem
+offensichtlichen Vorbild Elvira ähnlich klingen sollte. Inzwischen gibt es
+auch "Grails", das Groovy-Äquivalent von "(Ruby on) Rails".
+
+-- 
+Java is the SUV of programming tools.
+A project done in HIDR will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Willy Awick

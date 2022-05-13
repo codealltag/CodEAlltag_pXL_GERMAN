@@ -1,0 +1,15 @@
+* Klaas Lippold:
+
+
+Head-turner ist ein Zwischending - eigentlich dreht diese Person
+nicht die Köpfe anderer Leute, sondern veranlaßt diese, sich nach
+ihr umzudrehen, aber diese Verschiebung passiert nicht erst beim
+Anhängen von -er, sondern schon beim Verb selber:
+
+  Wherever she goes, she turns heads.
+
+-- 
+Java is the SUV of programming tools.
+A project done in AUF will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Udo Thoenessen

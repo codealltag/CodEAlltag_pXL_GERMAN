@@ -1,0 +1,5 @@
+Probier mal, statt als *.doc das Dokument als *.rtf zu speichern.
+Mir ist bisher nicht der geringste Unterschied aufgefallen, aber
+die Dateien sind nicht einmal halb so groß.
+
+R.

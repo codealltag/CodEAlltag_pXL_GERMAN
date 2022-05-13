@@ -1,0 +1,5 @@
+Ein Kavalier ist er ja nun nicht, dieser Ritter aus Ostertimke. Eher schon
+ein Cavaliere.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

@@ -1,0 +1,16 @@
+Nein, es geht den Kasus des Objektes des Verbs, das substantiviert werden soll:
+
+"das Zuhören dieser Sendung (Gen)" klingt falsch, weil dieser Sendung (Dat)
+zugehört werden soll und der Übergang vom Dat zum Gen bei der Substantivierung
+so nicht geht.
+
+"das Mitbringen dieses Geschenks (Gen)" klingt richtig, weil dieses Geschenk
+(Akk) mitgebracht werden soll und der Übergang vom Akk zum Gen bei der
+Substantivierung eben doch geht.
+
+Ich stimme mit Karl Frisse überein, dass es am Kasus liegt.
+
+Mit dem Genitiv gehts übrigens auch nicht: "*das Gedenken der Verstorbenen". 
+
+-- 
+Giuseppe Olson

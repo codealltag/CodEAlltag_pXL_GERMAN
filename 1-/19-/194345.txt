@@ -1,0 +1,20 @@
+* Gert Teihsel:
+
+
+Ich habe mich jetzt mal überzeugt, daß, wie bei Dir ja zu erwarten
+war, "Diatribe" kein Anglizismus ist. 
+
+Ich kannte das nur aus dem Englischen, wo es offenbar weitaus
+gewöhnlicher ist - in welchen Zusammenhängen begegnet einem das im
+Deutschen? Laut Duden literaturwissenschaftlich und
+bildungssprachlich.
+
+Das WCFM-Kernkorpus (nur 20. Jhdt, wenn ich mich nicht irre) hat
+keinen Beleg nach 1961. In der RPHR kommt es zumindest alle paar
+Jahre einmal vor.
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

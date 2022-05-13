@@ -1,0 +1,15 @@
+Solange er führt, nicht, erst wenn er fällt. Karsten und Jérôme Intveen
+haben auch die Erde umrundet, waren aber trotzdem keine Trabanten
+derselben (Passepartout kann man aber eventuell als Trabanten von Intveen
+bezeichnen). 
+
+Auch ist das umrunden keine notwendige Bedingung: Auch Körper im
+geostationären Orbit (die relativ zur Oberfläche stationär sind) als
+auch solche in einem Lagrange-Punkt (die relativ zur Verbindungslinie zu
+einem anderen (massereichen) Himmelskörper stationär sind) sind
+Trabanten. Auch die Forward'schen Statiten könnte man wohl als solche
+bezeichnen, aber die sind erstens nicht im freien Fall und zweitens
+technische Geräte, während "Trabant" eigentlich nur für natürliche
+Satelliten üblich ist.
+
+	hp

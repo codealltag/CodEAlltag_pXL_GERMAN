@@ -1,0 +1,13 @@
+* Nicola Freimann:
+
+
+Ja, ich verstehe jetzt. Mir war der Gedanke, daß Du es so gemeint
+haben könntest, sogar gekommen, den hatte ich aber schnell
+verworfen, weil "ein Freund von mir" bereits im OP stand und genau
+in diesem Teilfaden diskutiert wurde. Damit ist es jetzt aber
+geklärt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Gert Zurkaulen, comp.lang.python

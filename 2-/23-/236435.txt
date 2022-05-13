@@ -1,0 +1,25 @@
+Ich habe hier Zettel mit von mir handgeschriebenen Formeln rumliegen, die vor
+dieser Debatte geschrieben wurden. Die lateinischen b, h und k darin sehen
+eindeutig nach lateinischer Schreibschrift aus, mit schlanker Schleife im
+Ansatz in der oberen Hälfte. Das s (punktsymmetrisch um den Wendepunkt) sieht
+eher nach Druckschrift aus, allerdings schreibe ich es im Anlaut ("sie") auch
+sonst handschriftlich so, nicht aber im Auslaut ("das").  Generell verwende
+ich in Formeln die Buchstaben so, wie ich sie auch in handschriftlichem Text
+als Anfangsbuchsteben kleingeschriebener Wörter schreiben würde. Schreibe ich
+etwa "a²+2ab+b²", wird "ab" hinter der 2 genauso ohne Absetzen geschrieben wie
+das deutsche Wort "ab".
+
+
+So ist es, und bei Großbuchstaben generell auch.
+
+
+Keine Frage. Allerdings verwende ich schon lange keine Kurrentbuchstaben mehr
+in mathematischen Formeln, obwohl ich sie flüssig lesen und schreiben
+kann. Wenn ich Mathematik treibe, gibts dort allerdings auch keine Vektoren.
+Statt verschiedener Fonts verwende ich groß und klein, lateinisch und
+griechisch, und verschiedene Teile des Alphabets, z.B. i,...,n für natürliche
+Zahlen; x, y für gebundene Variable; und a,...,d für etwas anderes als
+u,v,w,z).
+
+-- 
+Fabio Zöpel

@@ -1,0 +1,15 @@
+Wenn man hier
+
+<http://xym.xmigejk-zrsnc.wxx/> 
+
+unter "Astronomy" auf "Whole sky chart" klickt, kann man sehen, 
+welche Sterne und Planeten jetzt sichtbar sind - man kann auch eine 
+andere Uhrzeit angeben.
+
+Man sollte aber vorher unter "Configuration", "Select location from 
+map", den Standort und die Zeitzone auswählen.
+
+-- 
+Italo
+
+My e-mail address works as is.

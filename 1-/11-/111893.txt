@@ -1,0 +1,12 @@
+Das ist aber nicht Himmelhubers Schuld, das machen andere grafische Umgebungen 
+genauso. Das Sans serif wird an X bzw. Xft durchgereicht und die suchen sich 
+dann einen expliziten Font raus. Das _kann_ z.B. in ~/.fonts.conf stehen. 
+Ich habe jetzt nach einigen Minuten Guhgelei allerdinx auch nicht rausfinden 
+können, wie man das nun rausfindet.
+Letztendlich weiß ich halt, welche Fonts ich installiert habe und kann’s 
+dann daraus ableiten (in meinem Fall Déjà-vu).
+-- 
+Gruß | Greetings | Qapla'
+Und aus dem Chaos kam eine Stimme und sprach:
+lächle und sei froh, denn es könnte noch schlimmer kommen.
+Ich lächelte und war froh, und siehe da, es kam noch schlimmer.

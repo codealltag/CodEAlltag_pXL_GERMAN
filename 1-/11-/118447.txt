@@ -1,0 +1,4 @@
+Ein Kollege sagte immer: Wählen wir mal ein kleines Epsilon, zum 
+Beispiel 1000.
+
+Enno

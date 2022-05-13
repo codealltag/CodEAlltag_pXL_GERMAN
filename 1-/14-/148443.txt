@@ -1,0 +1,19 @@
+Den haben sie vermutlich. Die Schätzung von Abstand und
+Relativgeschwindigkeit ist aber im Verkehr auch nicht
+ganz unwichtig. Wie auch immer, irgendwie wird auch aus
+diesen Blinklichtern eine blödsinnige Vorschrift entstehen,
+ich bin da ganz zuversichtlich.
+
+
+Da Nabendynamos immer Strom liefern, muß man das Licht am
+Scheinwerfer ein- und ausschalten. Die meisten Scheinwerfer
+haben 3 Positionen:
+- aus
+- ein
+- Sensor: das bedeutet, daß ein Helligkeitssensor im Scheinwerfer
+entscheidet, ob das Licht an oder aus sein soll. Kann dann bspw.
+dazu führen, daß das Licht bei einer sommerlichen Tunneldurchfahrt
+automatisch angeht.
+
+Gruß
+Axel

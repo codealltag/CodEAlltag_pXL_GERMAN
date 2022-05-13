@@ -1,0 +1,34 @@
+Ja, "Scheinlogik" (Erklärung s.u.).
+
+
+Nö, IMHO nicht wirklich.
+
+
+Und genau deshalb ist sie ja auch eine "rhetorische Figur": sie
+"funktioniert" (im Sinne von "überzeugt") -- jedenfalls für den,
+der sie nicht durchschaut!
+
+Man macht sich hier "simpelste" Mathematik zunutzen: "Wenn eins
+plus eins zwei ist, dann muß auch zwei minus eins eins sein!".
+Kapiert jeder, stimmt auch, weil Addition und Subtraktion jedem
+bekannt ist, und beide mathematisch gesehen Umkehrfunktionen sind
+(was sich auch /beweisen/ läßt!).
+
+Aber der vermeintliche "Trick" liegt in der Verallgemeinerung,
+denn z.B. bei Quadrat- und Wurzelfunktion klappt die Umkehrung
+schon nicht mehr, obwohl sie zueinander Umkehrfunktionen sind,
+aber unterschiedliche Definitions- und Wertebereiche haben:
+"die Wurzel des Quadrates von x ist wieder x" gilt nur für den
+einzigen Fall, daß x Null ist.  Und derartige Funktionen sind
+in der Mathematik eher der Normalfall, incl. solche, zu denen
+keine (eindeutige) Umkehrfunktion existiert -- darauf verlassen
+sich z.B. Verschlüsselungsalgorithmen.
+
+Dummerweise hat Nils aber nach "Non sequitur" gefragt, und
+damit einen /juristischen/ Begriff eingebracht -- und Juristen
+haben so ihre ganz eigenen Vorstellungen von Logik, seit ihnen
+die Sophisten den Weg gezeigt haben.  Ob's darum sinnvoll wäre,
+hier evtl. anwesende Juristen zu befragen...  ;-)
+
+
+wilfried

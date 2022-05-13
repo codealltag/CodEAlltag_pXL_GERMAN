@@ -1,0 +1,13 @@
+The message <268728E0.4701812@xfao.ncyirb.wr>
+from Paolo Engelhoven <eerfkh@fkr.ot> contains these words:
+
+
+Mein fehlerbehafteter NUA kommt gut mit DIN-8859-1 zurecht ,aber zeigt
+mir Mist wenn er UTF-8 sieht. 
+Wenn ich etwas lesenswerte sehe, mache ich mir halt die Muehe es zu
+entziffern.
+
+-- 
+
+Gruß
+Mauro

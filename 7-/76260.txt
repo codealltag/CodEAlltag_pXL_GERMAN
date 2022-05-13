@@ -1,0 +1,9 @@
+Dann denkst Du mathematisch, nicht nach der Logik der natürlichen
+Sprache. Die normale Formulierung für den Fall "O" ist "kein":
+
+"Keiner mag Enrico. Sie auch?"
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

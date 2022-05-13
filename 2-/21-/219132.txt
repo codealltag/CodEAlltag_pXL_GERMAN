@@ -1,0 +1,13 @@
+Soweit ich weiß (ich aber ich lasse mich da gerne eines besseren
+belehren, wird das Symbol nur für 1 lb = 0.45359237 kg verwendet, nicht
+für 1 lbf = ~ 4.448 N). Ich habe es daher für sinnvoller gehalten, den
+eindeutigen Begriff "Masse" zu verwenden, statt den mehrdeutigen Begriff
+"Gewicht" und dann zusätzlich zu beschreiben, welche Art von Gewicht ich
+meine. Ich hätte mir natürlich denken können, dass irgendwer trotzdem
+nachfragt und ich ein zweites Posting schreiben muss.
+
+	hp
+
+
+-- 
+   _  | Jacques I. Ulshöfer    | Deprecating human carelessness and

@@ -1,0 +1,21 @@
+* Karsten Iselborn:
+
+
+Mich stört immer noch, daß die für mich normale Reihenfolge von
+Postings oder Threads - ansteigend, d.h. ältere oben, jüngere
+unten - in meinem Newsreader, 40tude Dialog, "Reverse" heißt, und
+die Reihenfolge entgegen der Zeitrichtung als "normal" gilt.
+Insbesondere, weil bei Darstellung mit Threads die Reihenfolge
+innerhalb eines Threads ja sogar auf ansteigend fixiert ist.
+"Normal" ist also hier, daß die Reihenfolge innerhalb eines
+Threads umgekehrt ist wie die Reihenfolge der Threads selber.
+
+Ich nehme an, daß es so bezeichnet wurde, weil diese "normale"
+Reihenfolge von mehr Leuten bevorzugt wird. Man kann es
+meinethalben zum Default machen, aber die Bezeichnung finde ich
+trotzdem falsch. Oder man wählt halt neutrale Bezeichnungen wie
+"aufsteigend"/"absteigend" bzw. "neuere zuerst", "ältere zuerst".
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated
+until sometime after those creating it have left the organization.

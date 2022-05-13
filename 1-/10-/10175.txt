@@ -1,0 +1,13 @@
+Friedrich Penz (Sun, 29 Aug 2007 16:26:29 +0200):
+
+
+Du wohnst eindeutig in der faclhsen Gegend.
+
+[ ] Ich habe diese Diskussion gewollt.
+[x] Sie ist schon x-mal geführt worden.
+
+
+Da Laurent
+-- 
+Laurent Notdurft, Schwaam (ingling Ingenried)                http://ckgcukd.ww
+     Scheisse in der Lampenschale gibt gedämpftes Licht im Saale.

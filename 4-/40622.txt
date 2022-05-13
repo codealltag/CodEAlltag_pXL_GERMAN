@@ -1,0 +1,11 @@
+Irero nennt das "Herkunftsbezeichnung", sehr passend, wie ich finde.
+
+Alternativ könnte man das Eingabefeld mit "Namenszusatz (z.B. 'von',
+'van', etc.)" beschriften, dann wäre es wohl eindeutig und etwas
+allgemeiner.
+
+
+/E
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

@@ -1,0 +1,11 @@
+Um es mal (für die heutige Jugend) auf neudeutsch zu erklären: ein "Back
+Shop" ist sozusagen das "Customer Frontend" oder das "User Interface" 
+eines Bäckers. Alternativ könnte man den Bäcker als "Back Office" des
+Backshops betrachten, wonei das das "a" in "Back" sowohl englisch als
+auch deutsch aussprechen darfst.
+
+Jean
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

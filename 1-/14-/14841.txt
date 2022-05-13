@@ -1,0 +1,24 @@
+Nachricht von Franz [Florian] Geißler:
+
+
+Das liegt daran, daß Wilfried Newsreader beim Antworten die Codierung des =
+
+Vorposters übernimmt, also auf UTF-8-Postings mit UTF-8 antwortet.
+
+
+UTF-8 ist seit mindestens 1996 im Internet verbreitet, mein erster=20
+Newsreader 1999 (von manchen auch als ~simulation bezeichnet) konnte es=20
+schon darstellen und senden. Das ist nicht gerade Spätbarock, aber als =
+
+Avantgardemusik würde ich es auch nicht bezeichnen.
+
+
+Es gibt auch Leute, die seit 1987 ihr Auto fahren. Die sind aber auch=20
+nicht abgeneigt, gelegentlich mal ein veraltetes Teil gegen ein neues=20
+auszutauschen.
+Anders als Zündkerzen und Stoßdämpfer sind viele Newsreader übrig=
+ens=20
+umsonst, und zum Einbau muß man weder Automechaniker noch "Computer=20
+Scientist" sein. Das ist schon lange keine Raketenwissenschaft ;-P mehr.
+
+Mauro

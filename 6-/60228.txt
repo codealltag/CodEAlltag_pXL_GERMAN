@@ -1,0 +1,12 @@
+Neben offen-geschlossen ist auch noch gespannt-lax im Gespräch.
+
+
+Der wohl schon.
+
+
+Der eher nicht. Für mich ist hier eine falsche Länge weniger störend als
+eine falsche Qualität.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Hinderk Waidlich, comp.lang.python

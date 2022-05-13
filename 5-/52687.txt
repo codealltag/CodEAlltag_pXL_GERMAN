@@ -1,0 +1,38 @@
+["Granularität"]
+
+
+Um die Verarbeitungsgeschwindigkeit geht es in den allermeisten Fällen
+überhaupt nicht. Wenn ich die die Stromstärke an den 3 Phasen der USV
+nur alle 5 Minuten messe, dann nicht deswegen, weil mein Monitoring-Host
+die Daten nicht schneller verarbeiten könnte (der hätte auch mit
+mehreren Messungen pro Sekunde kein Problem), sondern deswegen, weil
+sich die nicht so schnell ändert, dass häufiger Messungen sinnvoll
+wären.
+
+Solltest Du mit "Verarbeitungsgeschwindigkeit" hingegen die Sample-Rate
+gemeint haben, dann ist auch das nicht korrekt.
+
+Erstens handelt es sich oft um aggregierte Daten, deren zeitliche
+Granularität nichts mit der Frequenz zu tun hat, mit der die Daten
+anfallen (Beispiel: Ein Webserver mag mehrere Log-Einträge pro Sekunde
+schreiben, aber für die Auswertung überlegt man dann, ob man Wochen-
+oder Monatsdaten haben möchte).
+
+Zweitens bezieht sich die Granularität nicht nur auf die Zeit, sondern
+auf jede mögliche Dimension. Um beim Beispiel des Webservers zu bleiben:
+Ich kann jeden URL einzeln aufführen (sehr feine Granularität), ich kann
+immer mehr zusammengehörige (z.B. nach Directory-Struktur) URLs
+zusammenfassen (zunehmend gröbere Granularität). Ebenso kann ich die
+zugreifenden Clients z.B. nach IP-Adressen (sehr fein: jede einzeln;
+sehr grob: ARIN, RIPE, APNIC, ...) oder nach geographischen Kriterien
+(Orte, Bezirke, Länder, Staaten, Kontinents) zusammenfassen. Und so
+weiter.
+
+Die Granularität kann sich also auf jede Dimension der erfassten Daten
+beziehen und sie gibt immer an, was die kleinste unterscheidbare Einheit
+ist, so wie die Korngröße beim Film das kleinste unterscheidbare Detail
+vorgibt.
+
+Als Unwort in diesem Bereich schlage ich "disaggregiert" vor.
+
+	hp

@@ -1,0 +1,12 @@
+Nope, zumal's keine Theorie ist.  Vielleicht hält sich die engl.
+Übersetzung von Münchhausen nicht genau ans Original, vielleicht
+hatten's die Entwickler auch in flascher Erinnerung.  Jedenfalls
+kommt römhild/Booten genau daher (dito "bootstrap loader").
+
+
+Dagegen spricht "bootstrap", an dem sich das System selbst hochzieht.
+Booten kann durchaus mehrstufig verlaufen und bezeichnet den gesamten
+Prozeß vom Einschalten bis zur Betriebsbereitschaft des Rechners.
+
+
+tom

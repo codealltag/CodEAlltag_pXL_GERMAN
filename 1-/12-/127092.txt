@@ -1,0 +1,9 @@
+:-)
+
+Nein, ein Beispiel eines Objektes, dessen Farbe nicht mit
+RGB-Technik erzeugt werden kann, so dass sie ein menschliches
+Auge als identische Farbe erkennt.
+
+Gruss
+
+Fabian

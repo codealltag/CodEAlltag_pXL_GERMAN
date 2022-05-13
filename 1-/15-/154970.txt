@@ -1,0 +1,32 @@
+Nein, die Bank verspricht eine Extrawurst - einen anderen Zinssatz als im
+Normalfall. Dieser Zinssatz beträgt 2%; das ist anders als der normale
+Zinssatz von 1,3%.  Die Bank hat nicht geschrieben "einen Extrazins,
+nämlich 2 Prozentpunkte mehr als der Normalzins". Sie hätte sogar noch
+anders rechnen können: du kriegst auf die 1,3% Zinsen noch 2% drauf - d.h.
+2% von den 1,3%, nicht 2% vom Kontostand, insgesamt also 1,326%. 
+
+Jedenfalls wird die Bank diese Interpretation verwenden, wenn du dich mit
+ihr streiten willst. Und ich halte diese Interpretation "insgesamt 2%"
+auch für vertretbar, jedenfalls nicht für von vornherein völlig klar
+falsch. Auch deine Interpretation hätte gemeint sein können; die Bank
+würde sicherlich deine Interpretation gemeint zu haben behaupten, wenn sie
+dich als schlechtes Kreditrisiko angesehen hätte und dir statt normal 1,3%
+Schuldzinsen fürs überzogene Girokonto pro Monat einen kleinen Extrazins
+von lediglich 2% hätte aufbrummen wollen - dann wären es 3,3% geworden. 
+
+Die Bedeutung von "extra" ist eben nicht so eindeutig, wie du sie gern
+hättest. Rechtlich gültig wird das, was im Vertrag und im Kleingedruckten
+steht, nicht das, was in der Werbung steht, und schon gar nicht das, was
+du aus der Werbung optimistischerweise meinst verstanden zu haben. Gerade
+in der Werbung ist es nicht unerwünscht, dass der Umworbene etwas viel
+Positiveres versteht als der Werbende zusagen will; Werbung will ja das
+beworbene Produkt in möglichst glänzendem Licht darstellen, ohne dass man
+hinterher darauf festgenagelt werden kann. Da kommen solche nicht ganz
+eindeutigen Begriffe gerade recht. Möglicherweise hat deine Bank also
+genau darauf spekuliert, dass du das missverstehst.
+
+Eugen
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

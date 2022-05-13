@@ -1,0 +1,8 @@
+Siehst Du.
+Es ist auch ein gern gebrauchtes Beispiel zum Demonstrieren
+mathematischer (boolescher) Logik: So betrachtet dürftest Du nur dann
+nicht rein, wenn Du brennende Fluppe *und* Kerze bei Dir hast; mit nur
+einem davon wäre die Bedingung nicht erfüllt.
+
+Gruß
+S.O.

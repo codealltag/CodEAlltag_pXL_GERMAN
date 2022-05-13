@@ -1,0 +1,34 @@
+und im Akkusativ in seiner Funktion als direktes Objekt
+
+
+Da lateinische Substantive flektiert werden *müssen*, die bekannten
+Infinitive mit ihrer speziellen Form aber nicht deklinierbar sind,
+braucht es für alle anderen als die genannten Funktionen eine andere
+passende Form. Hierzu wird in der Tat ein früheres Partizip Präsens
+Passiv verwendet, das dann im Genitiv, Dativ, Akkusativ (außerhalb der
+Funktion als dir. Objekt) und Ablativ erscheint. Man beachte, dass
+etwa das Griechische wie das Deutsche nicht zu diesem Hilfsmittel
+greifen müssen, da in diesen Sprachen jeder Infinitiv durch einen
+angefügten Artikel problemlos substantivierbar ist.
+
+
+Das ist so nur synchron zutreffend, aber historisch gesehen ein
+Zufall: Die alten Gerundien im Ablativ (z.B. "cantando") mussten
+lautgesetzlich zu einer Form werden ("chantant"), die mit derjenigen
+der alten Partizipien des Präsens aktiv zusammenfiel.
+
+
+Dieses sog. "Gerundium" ist aber sowohl von der Form wie von der
+Funktion her nichts anderes als der substantivierte Infinitiv. Es
+bringt überhaupt keinen Erkenntnisfortschritt, im Deutschen diese
+Unterscheidung zu machen. Ebenso gut könnten wir beim deutschen
+Substantiv die Kasus "Ablativ" und "Vokativ" wieder einführen.
+
+Wir würden damit nur einen Fehler wiederholen, der vor 500 Jahren
+eingeführt wurde, als man die deutsche Grammatik nur kontrastiv mit
+der lateinischen betrachtete und für jede lateinische Form eine
+deutsche Entsprechung suchte. Im Englischen und Französischen ist das
+was anderes. Da haben wir ja eine spezielle Form mit eigener Funktion,
+so dass sich die Einführung einer Kategorie "Gerundium" lohnt.
+
+Ch.

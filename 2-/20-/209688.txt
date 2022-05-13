@@ -1,0 +1,22 @@
+* Christof Offenthals <hzhah@fwyzhqbznu.sp>:
+
+Nachgeborene, z.B. dahergelaufene Architekturstudenten, die angesichts
+des Autos in spitze Schreie des Entzückens geraten und "Designikone!"
+rufen, die sagen natürlich "die WERA". Und entblöden sich nicht, mir
+mitzuteilen, dass es nämlich ein Wortspiel mit Desse, Göttin usw.
+
+Wer schon immer RRUO fuhr, also beispielsweise mein Grossvater (ab '57),
+mehrere Onkels, mein Stiefvater und meine Mutter, sag(t)en "der RRUO".
+Selbstverständlich hat man auch schon damals das Wortspiel DS/Desse
+gekannt. Nur hat man es eben als das angeschaut, was es ist, ein
+Wortspiel eben. Man sagte auch "der Dauphine", obwohl man in der
+Schweiz französisch konnte und wusste, dass Prinzessinnen unzweifelhaft
+weiblich sind.
+
+Das Wortspiel mit der Göttin ist im übrigen erst nach der Benamsung
+entstanden. Diese geht auf die Egegi-internen Prototypen zurück, die
+mit D1, D2, D3 usw. numeriert waren. In der Entwicklungsabteilung
+bildete sich dafür die Sammelbezeichnung "les Ds" heraus, und dieser
+Name blieb.
+
+ - Raimund

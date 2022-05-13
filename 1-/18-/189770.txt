@@ -1,0 +1,7 @@
+Vermutlich, dass man ein Setzprogramm zum Setzen braucht. Allerdings ist 
+TeX kein zumutbares Setzprogramm. Es eignet sich nur in den hermetischen 
+Wissenschaften hervorragend zum guttenborgen.
+
+-- 
+
+Urs Jakobfeuerborn

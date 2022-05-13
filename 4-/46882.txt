@@ -1,0 +1,6 @@
+Die Straßenbahn- und Busunternehmen hatten in der Regel alle Dispatcher.
+Ein Disponent arbeitete zumeist in relativ "geordneten Verhältnissen", 
+während der Dispatcher auch mal _fix_ Dinge in den Griff bekommen mußte, 
+wie z.B. schleunigst einen Kran besorgen, wenn eine Bahn entgleist war.
+
+UG

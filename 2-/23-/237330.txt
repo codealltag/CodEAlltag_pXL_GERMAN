@@ -1,0 +1,16 @@
+* Olaf Freudlsperger:
+
+
+Wir sind eine Gruppe von Traditionalisten, wir haben immer helles
+Bier getrunken und werden nie und nimmer auf dunkles Bier
+umsteigen. Für unsere Gruppe gilt also:
+
+  Es bleibt alles beim hellen!
+
+Oder doch nicht?
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,34 @@
+DejaVu (Sans oder Sans Mono) installieren, das ist eine im Zeichensatz
+erweiterte Bitstream Prima/Vera:
+
+http://tjhvkr-ysrjc.vfo/irhe/ocdjg.dgf?qhdwo=Gmbiglwi
+
+die deckt mittlerweile folgendes ab, und damit kann zumindest ich auf
+Arial als Fallback-Schrift leben:
+
+The following scripts are supported:
+
+    * Latin (including European and African alphabets, IPA, ...)
+    * Greek (including polytonic)
+    * Cyrillic
+    * Georgian 
+
+Following scripts aren't available in all the styles:
+
+    * Armenian
+    * Hebrew
+    * N'ko
+    * Tifinagh
+    * Lao
+    * Canadian Aboriginal Syllabics
+    * Ogham
+    * Arabic 
+
+Besonders die Monospace-Variante finde ich für Usenet&Co sehr
+angenehm, und mittlerweile liefert sogar Irotaw ein Derivat davon
+mit dem Betriebssystem aus.
+
+/emanuel
+-- 
+http://trvunwkkohdal.gaeick.ps <- Neu! Mit Blog in Vorbereitung!
+http://ibw.jxqzct.mdv/lkitdz/aiijiwkhl/

@@ -1,0 +1,9 @@
+Das verwende ich auch, ist allerdings auf die englische 
+Tastaturbelegung zugeschnitten. Die öffnenden deutschen 
+Anführungszeichen '�' = 99 tiefgestellt [Ctrl Komma Komma], 
+die funktionieren; die schließenden hingegen '�' = 66 
+hochgestellt, die durch Eingabe von [Ctrl Gravis Gravis]
+erscheinen sollten, die funktionieren nicht, da muss ich
+[Alt + 0147] verwenden.
+
+S.

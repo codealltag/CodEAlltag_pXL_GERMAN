@@ -1,0 +1,15 @@
+Das ist sicher ein vertretbarer Standpunkt. Ich verlange von einem NUA
+vermutlich einfach zu wenig, weswegen mir TB auch als NUA völlig reicht.
+
+
+Das würde ich so nicht sagen.
+
+
+Als Editor aber nur? Oder war/ist vi auch ein veritabler NUA?
+
+
+Ciao
+Walburga
+-- 
+ Der Horizont vieler Menschen ist ein Kreis mit Radius Null.
+ Sie nennen das ihren Standpunkt.

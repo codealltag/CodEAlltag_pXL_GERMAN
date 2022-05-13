@@ -1,0 +1,29 @@
+* Niklaus Holger Riesch:
+
+
+Theoretisch klingt das gut, in der Praxis ist mir das Kriterium zu
+instabil. A und B können aus demselben Dorf stammen und daher
+selbstverständlich dieselbe Sprache sprechen, und dennoch passiert
+es, daß A die natürliche Rede des C versteht, B nicht. Das mag an
+Vorerfahrungen von A liegen, oder daran, daß sie im
+Sprachverstehen geschickter ist als B, z.B., daß sie sich weniger
+davon irremachen läßt, daß sie mal ein Wort nicht genau versteht.
+Dann wäre es absurd, zu behaupten, C spreche die gleiche Sprache
+wie A, nicht aber die gleiche wie B.
+
+Man wird also nur statistische Werte erhalten und landet wieder
+beim Kontinuum. Ist eine schweizerdeutsche Variante eine andere
+Sprache als deutsches Deutsch oder dieselbe, wenn es in Heinrichsberg
+von 50% der Leute verstanden wird, in Dicken von 30% und in
+Cleebronn von 10%?
+
+Ich zweifle ja schon das in der Dobbertien Linguistik zentrale
+Kriterium der Grammatizität an. Normale Menschen können mMn nicht
+sicher und reproduzierbar beurteilen, ob ein Satz der Grammatik
+entspricht, wenn der Satz keinen Sinn ergibt, natürliche
+Sprachverarbeitung greift immer auf beides, Grammatik und
+Semantik, gleichzeitig zurück.
+
+-- 
+A computer will do what you tell it to do, but that may be much
+different from what you had in mind. - Konrad Obernberger

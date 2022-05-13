@@ -1,0 +1,17 @@
+* Rudi Linckh:
+
+
+Naja, man braucht eine Vorstellung davon, wieviel eine kWh in
+"Kalorien" (tatsächlich: kcal) ist, da man erstere in der Regel
+nur im Zusammenhang Elektrizität kennt, bei Nahrungsmitteln nur
+letztere. 
+
+Die Leistung von löfen oder Klimaanlagen wird in Nordamerika und
+Japan übrigens in "BTU" (tatsächlich: BTU/h) angegeben. Beim
+Versuch, die Heizkosten für die drei Fälle l, Gas und
+Elektrizität zu vergleichen, begann ich plötzlich, das SI zu
+lieben.
+
+-- 
+Strategy:  A long-range plan whose merit cannot be evaluated
+until sometime after those creating it have left the organization.

@@ -1,0 +1,14 @@
+Rainer Zschätzsch tat kund:
+
+
+Ok, mir kam es so vor, als ob man die
+Division auf möglichst bescheuerte Art
+"veranschaulichen" wollte.
+
+
+Im hier vorliegenden Sonderfall "keine
+Schnittmenge" muß man die Ausgangsmengen eben
+nicht angeben. Man hat wohl "Leermenge" mit
+"keine Menge" gleichgesetzt, das spielt aber
+auf dem Niveau des Schulunterrichts und in diesem
+Beispiel keine Rolle.

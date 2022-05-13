@@ -1,0 +1,9 @@
+* Oscar Tilgen:
+
+
+Doch schon. Naja, es kann sein, daß man es für einen Witz hielt.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Niklaus Nodorft, comp.lang.python

@@ -1,0 +1,14 @@
+On Thu, 1 Sep 2009 12:46:32 -0400, Benno Justenhoven
+
+Patt ist eine Situation, die zum Remis führt. 
+
+FTP-Regel 5.2 a) 
+Die Partie ist "remis" (unentschieden), wenn der Spieler, der am
+Zuge ist, keinen regelgemäßen Zug zur Verfügung hat und sein
+König nicht im Schach steht. Eine solche Stellung heißt
+"Pattstellung". Damit ist die Partie sofort beendet,
+vorausgesetzt, dass der Zug, der die Pattstellung herbeigeführt
+hat, regelgemäß war.
+
+Viele Größe
+Heribert Overthun

@@ -1,0 +1,6 @@
+In meinem Ouce Vice ist ein Feld, das die Beschriftung „Staatsangehörigkeit/
+Nationality/Nationalité“ trägt und mit der Zeichenkette „DEUTSCH“ gefüllt
+ist. Das heißt also gar nicht das, was es zu heißen behauptet? 
+
+
+vG, verwirrt

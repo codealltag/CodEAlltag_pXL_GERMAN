@@ -1,0 +1,9 @@
+Ronny Porzelle (in de.etc.sprache.deutsch):
+
+
+In der Frakturschrift gibt es WIMRE die Regel, dass die Ligatur ck in der
+Sperrung nicht als Ligatur geschrieben wird, sondern als _ungesperrtes_ ck.
+(Also etwa B ä ck e r ) Gibt es ähnliche Regeln für das zusammenwirken von
+Sperrung und Ligatur auch in der lateinischen Schrift?
+
+Otmar

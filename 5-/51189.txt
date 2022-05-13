@@ -1,0 +1,13 @@
+Was heißt hier "französisch"? fr-FR oder fr-CA?
+
+Eines von beiden -- ich weiß nicht mehr welches -- hatte die Regel, dass 
+die Akzente von *hinten nach vorn* sortiert werden. D.h.: Zuerst werden 
+die Grundbuchstaben ohne Akzente sortiert, von vorn nach hinten wie 
+üblich, d.h. das erste unterschiedliche Zeichen zählt. Nur wenn dann zwei 
+Wörter noch gleich sind (z.B. cöte und ct) werden die Akzente mit 
+herangezogen, und zwar der *letzte* unterschiedliche im Wort mit höchster 
+Priorität. Ob es überhaupt zwei Wörter gibt, bei denen das von Belang ist, 
+weiß ich nicht.
+
+-- 
+Dennis Niedermeyer

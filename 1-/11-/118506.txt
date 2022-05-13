@@ -1,0 +1,4 @@
+Die Idee gibts tatsächlich: man kann damit komprimieren (bzip2).
+
+-- 
+Holger Pfingstgraef

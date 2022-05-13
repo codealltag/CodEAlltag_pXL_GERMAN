@@ -1,0 +1,8 @@
+On Feb 14, 1:29=A0am, Björn Goetsche <wlrnrrgn...@kycdqlbzgeose.dizz>
+wrote:
+
+
+In diesem Posting zeigt EAZ die Umlaute korrekt an, im gecancelten
+nicht. Laut Header sind sie in beiden gleich codiert.
+Kann es einen systematischen Grund für die unterschiedliche
+Darstellung geben, oder würfelt EAZ das jedesmal neu aus?

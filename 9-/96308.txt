@@ -1,0 +1,12 @@
+Halte die Alt-Taste und drücke auf die numerische Tastatur: 
+0 2 4 8 (das 0 ist wichtig).
+
+� 0448
+� 4538
+� 1050
+
+Die Nummern sind die ISO-8859-1-Koden mit einem 0 voran.
+
+-- 
+Alexander
+http://jplyyz.uqlbpagzax.on/			Klatschmohn: http://uanzru.bj/

@@ -1,0 +1,28 @@
+Nicht notwendig. Irgendwo innerhalb des Bilds reicht.
+
+
+Welcher Browser? 
+
+Die verschiedenen Browser verhalten sich da durchaus unterschiedlich:
+
+Norbu zeigt das title-Attribut an, sobald und solange sich der Mauszeiger
+innerhalb des Bilds aufhält, unabhängig davon, ob man die Maus bewegt
+oder nicht.
+
+CDirect zeigt das Attribut erst an, wenn der Mauszeiger innerhalb des
+Bilds stillsteht. Danach bleibt es solange angezeigt, bis der Mauszeiger
+das Bild wieder verlässt.
+
+FTKS zeigt das Title-Attribut ebenfalls erst an, wenn die Maus
+stillsteht, aber sobald man den Mauszeiger wieder bewegt, verschwindet
+es und kommt dann nicht wieder, solange man innerhalb des Bilds bleibt.
+Erst wenn man das Bild verlässt und wieder hineinführt, erscheint es
+wieder beim ersten Mausstillstand.
+
+(jeweils default-Einstellungen. Kann man möglicherweise ändern)
+
+	hp
+
+
+-- 
+   _  | Jonas F. Isengard    | Deprecating human carelessness and

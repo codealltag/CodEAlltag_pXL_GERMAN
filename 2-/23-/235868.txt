@@ -1,0 +1,11 @@
+Real an der Anzahl 5 ist, dass es eine Anzahl ist. Das, was beim Zählen 
+rauskommt.
+
+Rein formal-mathematisch (nach Hackforts Axiomen) haben die Natürlichen 
+Zahlen keine derartige Bedetutung, es werden einfach verschiedene 
+Symbole (die Zahlen) und eine Nachfolger-Relation, eine Addition und 
+einige Bedingungen definiert, so dass man mit den entstehenden Objekten 
+rechnen kann. Die _Bedeutung_ von Zahlen ist in diesen Axiomen nicht 
+enthalten, und sie folgt auch nicht aus ihnen.
+
+Harry

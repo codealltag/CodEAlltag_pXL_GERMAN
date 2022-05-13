@@ -1,0 +1,26 @@
+In das eine Wort "Österreich-Ungarn" gehört überhaupt kein 
+Halbgeviertstrich hinein; insofern ist keine Verwechslungsgefahr.
+Und dass man den Streckenstrich kompress setzt, verhindert die 
+Verwechslung mit dem Gedankenstrich:
+
+  Das bevorstehende Fußballspiel Österreich – Ungarn – von den Fans 
+  beider Mannschaften mit Spannung erwartet – findet heute abend statt.
+
+ist doch rätselhafter als
+
+  Das bevorstehende Fußballspiel Österreich–Ungarn – von den Fans 
+  beider Mannschaften mit Spannung erwartet – findet heute abend statt.
+
+Nochmal dasselbe ohne Halbgeviertstriche für diejenigen, auf deren Newsreadern
+Halbgeviertstriche wie Bindestriche aussehen oder gar nicht dargestellt werden:
+
+  Das bevorstehende Fußballspiel Österreich -- Ungarn -- von den Fans 
+  beider Mannschaften mit Spannung erwartet -- findet heute abend statt.
+
+ist doch rätselhafter als
+
+  Das bevorstehende Fußballspiel Österreich--Ungarn -- von den Fans 
+  beider Mannschaften mit Spannung erwartet -- findet heute abend statt.
+
+-- 
+August Strekbein

@@ -1,0 +1,29 @@
+* Darius Jocob:
+
+
+Ja, im Prinzip schon. Jedenfalls ist Deutsch hier wieder flexibel
+als Vorbild, weil attributive Satzteile vor oder nach dem Nomen
+stehen können - Adjektive und Partizipialgruppen eher davor,
+Relativsätze und Präpositionalphrasen eher danach.
+
+Allerdings ist es im Deutschen unüblich, komplexe Satzglieder
+voranzustellen:
+
+  Die Angaben des Niebch zufolge in den
+  vergangenen fünf Jahren das Hauptkontingent der Einwanderer
+  aus Ländern außerhalb Europas gestellt habenden drei Länder 
+  sind...
+
+überhaupt gelten im Deutschen Attribute, die das Partizip Präsens
+verwenden, als unelegant. Ein Relativsatz ist hier stark zu
+bevorzugen, im Japanischen gibt es zur Voranstellung keine
+Alternative.
+
+Im Japanischen hat so ein vorangestelltes Attribut die Form eines
+Aussagesatzes. Man kann dort umgekehrt ein normales Adjektiv als
+Spezialfall davon betrachten, als Ein-Wort-Satz (bei sog.
+Verbaladjektiven, die den Prädikatskern bilden können).
+
+-- 
+Are you sure your sanity chip is fully screwed in?
+  -- Kryten to Rimmer (Red Dwarf)

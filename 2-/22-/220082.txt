@@ -1,0 +1,20 @@
+* Henrik Ueker:
+
+
+Ja, wenn ich die Gesamtmenge wissen will. Bei Regen interessiert
+mich aber nicht die Gesamtmenge [1], sondern die Menge pro
+Flächeneinheit - und das ergibt ein Längenmaß.
+
+Ich habe keine blasse Ahnung, wieviel Liter ich brauche, um den
+Garten zu wässern, denn das mache ich mit dem Schlauch und nicht
+mit der Gießkanne. ich habe auch keine blasse Ahnung, wieviel
+Liter ich bei einer Dusche benutze; in der Badewanne kann ich's
+abschätzen. Für l/qm fehlen mir geeignete Vergleichsgrößen.
+
+[1] Selbst bei einem sehr lokalen kurzen Regenguß kann diese
+leicht ein paar Millionen Liter erreichen, wenn ich mich nicht
+verrechnet habe, und eine Million Liter kann ich mir schon wieder
+nicht vorstellen.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

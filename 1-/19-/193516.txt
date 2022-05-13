@@ -1,0 +1,28 @@
+Das ist leider eine sprachliche Missinterpretation von 
+Korrelationsdatens�tzen.
+
+Korrelationsdaten werden als Mittelwerte in sehr kleinen Stichproben aus 
+unzureichend definierten Gesamtheiten ermittelt.
+
+Die Korrelationskoeffizienten pflegen in den verschiedenen Stichproben, 
+erst recht in verschiedenen Gesamtheiten sehr stark zu schwanken.
+
+Der Statistik-Laie übersieht leicht, dass die Mittelwerte und 
+Korrelationen in endlichen Stichproben selbst Zufallsvariable sind, für 
+die wiederum gewichtete Mittelwerte und Korrelationsmittelwerte 
+berechnet werden. Letztere sind aber grundsätzlich kritikwürdig, weil 
+Korrelationen über Stichprobengrenzen hinweg nicht berücksichtigt werden 
+können. Stichproben bei der Begegnung mit Hochbegabten beschränken sich 
+für die meisten auf einige 5-10, die relative Schwankungsbreite der 
+Mittelwerte von Ja/Nein-Ergebnissen mit 50% Mittelwert liegt dann bei 
+50%-100%.
+
+Ansonsten ist es mit der Beurteilung der sozialen Kompetenz Hochbegabter 
+wie zB mit dem Verkosten teurer Weine und den Nächten mit ebensolchen 
+Frauen: Den meisten, die darüber reden, sieht man an, dass sie nie in 
+die Verlegenheit kommen, da in mindestens einer Hinsicht die Mittel 
+nicht reichen.
+
+-- 
+
+Nino Tönnes

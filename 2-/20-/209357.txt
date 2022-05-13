@@ -1,0 +1,8 @@
+Dafür gibt es sogar eine geschlossene Lösung: 
+
+p = (P/G)*100 %
+  = (5000/220000)*100 %
+  = 2,2727... %. 
+
+
+vG

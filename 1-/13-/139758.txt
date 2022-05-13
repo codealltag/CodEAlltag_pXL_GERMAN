@@ -1,0 +1,23 @@
+Yes, but these examples show that you can have a contrast between
+[x] and [�] in equivalent positions.  Finding an actual minimal
+pair is an overly stringent requirement.
+
+I just found this table of minimal pairs in English (RP):
+http://qtfvo.bcgibnt.dw.xx/smjyicixj/cuxlpqrm/
+For /Z/ versus just about any other consonant you have to strain
+pretty hard while reaching into the wordchest.  Or, if you are
+looking for examples derived from a phonemic split, contrasts between
+/T/ and /D/ are fairly thin on the ground.
+
+
+Who pronounces "Rachel" that way?
+
+
+German uses derivational affixes all the time to create ad-hoc
+words.
+
+The morpheme boundary for -chen is a better reason to feel uncomfortable
+with these examples.
+
+-- 
+Burkhard "birgit" Lütkebohmert                          dkdkz@vvvh.fbgs.rn

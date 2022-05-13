@@ -1,0 +1,38 @@
+Wie soll das gehen? Das ist ein Jahrhundertprojekt und beinhaltet solche
+Fragen wie:
+
+- Wie markiert man einen Vokal als kurz gesprochen?
+  Als Standard, also einzelner Vokal = kurz?
+  Folgender Konsonant verdoppelt?
+    (Ist von der Logik her recht abartig, nicht? Brett kürzer machen
+    indem man zwei Griffe dranschraubt))
+
+- Wie markiert man einen Vokal als lang gesprochen?
+  Als Standard, also einzelner Vokal = lang?
+  Verdopplung des Vokals?
+  Dehnungs-h hinter den Vokal?
+  Dehnungs-e hinter den Vokal?
+
+- Welche Ausnahmen gibt es, die berücksichtigt werden müssen?
+  Ei zukünftig als Ai schreiben?
+  Eu als Oi?
+  Er als Är?
+
+- Sind Accents sinnvoll?
+  Offenes und geschlossenes o als ó und ò?
+
+- Welche Buchstaben sind überflüssig und könnten für andere Zwecke
+  genutzt werden?
+  - x für "ch" wie in "ich"? Oder wie in "doch"?
+  - z für stimmhaftes s?
+  - c für "sch"?
+
+Alle diese Ungereimtheiten jenseits von Grammatik und Satzbau schleppen
+wir ja fleißig mit.
+
+Und dass unsere Zahlen von den Arabern stammen, die andersrum schreiben,
+und dass die Zahlen deshalb falschrum geparst werden müssen (sonst
+verschiebt sich mit jeder neu gelesener Ziffer die Wertigkeit aller
+vorher gelesenen Ziffern), scheint mir noch keiner so richtig erfasst zu
+haben, so stark ist die Gewohnheit. Man merkt es erst, wenn man Kindern
+die Zahlen erklären oder sie einem Computer beibringen will.

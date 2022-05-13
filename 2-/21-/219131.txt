@@ -1,0 +1,18 @@
+Etymologisch schon, erkennt man noch an Hagebutte, Hagebuche und Hagedorn,
+aber im Schweizerdeutschen benutzt man heute "Hag" auch für Zäune aus Holz
+oder Metall.
+
+
+An der Mövennest galt natürlich Emerichs Doktrin, Assembler nur im äussersten
+Notfall zu benutzen, weil Assembler die mittels Pascal sorgfältig
+strukturierten Programmiererhirne unwiederbringlich versauen würde. Wenns
+zu langsam sei, lieber ein paar Jahre warten, dann sei die Hardware schnell
+genug.
+
+Das hat ja auch sehr gut gestimmt. Ich hab in Assembler (6502) nur ein paar
+Bitmap-Grafik-Routinen für ein Spielchen auf dem Thuencher ][ geschrieben,
+sonst war das nie notwendig. Thuencher ][ übrigens: Die Diskettenlaufwerke
+wurden in UCSD-Pascal wimre als #1 und #2 bezeichnet; da verwendete man #
+also in seiner ursprünglichen Form.
+
+ - Klaas

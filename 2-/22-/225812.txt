@@ -1,0 +1,10 @@
+Ich habe doch oben schon einen Relativsatz zwischen Subjekt und
+Verb geklemmt. Das kann man beliebig erweitern.
+
+Egal in welcher Reihenfolge die Satzbauteile angeordnet sind,
+irgendeines kommt immer zuletzt und zwischen irgendwelchen ist der
+Abstand am größten. Und wo man Relativsätze oder Appositionen
+einfügen kann, können diese durch Rekursion beliebig lang werden.
+
+-- 
+Eberhard "daniela" Hueske                          yxccj@bmbd.qjqm.of

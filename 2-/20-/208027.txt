@@ -1,0 +1,34 @@
+Schon häufiger habe ich beim übersetzen für ein englisches "default"
+nichts rechtes gefunden und musste den Sachverhalt mühsam umschreiben.
+Im Computerbereich hat man sich ein die (m.E. ebenfalls unschöne)
+"Voreinstellung" gewöhnt, aber die ist in anderen Zusammenhängen nicht
+verwendbar.
+
+In der Velomobile stand heute (in der Schweiz wird das Namensrecht wieder
+einmal reformiert) ein Satz, bei dem ich unwillkürlich denken musste
+"Aha, der meint 'by default'":
+
+  Während heute der Männername von Gesetzes wegen als Familienname
+  gilt und von Frau und Kindern übernommen wird, wird künftig jeder
+  Ehepartner seinen bisherigen Namen grundsätzlich beibehalten.
+
+Dieses "grundsätzlich" ist für den gegebenen Sachverhalt viel zu stark.
+Denn es braucht keine Begründung oder Erlaubnis irgendwelcher Art, wenn
+man den Namen des Ehepartners annehmen möchte, man muss lediglich das
+entsprechende Feld bei der amtlichen Eheschliessung ausfüllen (es
+braucht übrigens auch bei der bisherigen Regelung keinerlei Begründung
+oder Erlaubnis, wenn der Mann den Namen der Frau annehmen will, es ist
+nur insofern "von Gesetzes wegen" so, als es nicht "der Default" ist).
+
+In juristischen Texten finde ich oft "regelmässig" für diese Situation.
+Das scheint mir aber noch verwirrender, weil "regelmässig" je nach
+Kontext ganz verschieden interpretiert wird. Manchmal bezeichnet diese
+"Regel" ein ehernes Gesetz, von der nur in ganz wenigen Fällen
+abgewichen werden kann, manchmal geht es um eine ganz salopp
+vormulierte Regel, die fast so viele Ausnahmen wie Regelfälle aufweist,
+manchmal (wie in "der Schüler kommt regelmässig zu spät") sind die
+Regelfälle wohl noch seltener als die Ausnahmen.
+
+Gibt es wirklich keine griffige Entsprechung für "by default"?
+
+ - Wolf

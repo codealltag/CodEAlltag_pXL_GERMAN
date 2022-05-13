@@ -1,0 +1,9 @@
+Engelbert Thierry tat kund:
+
+
+Beim Authentifizieren vergleichst du den eingegebenen
+Namen doch auch mit einer Liste von Berechtigten,
+ähnlich wie man etwas mit einer Liste von Anforderungen
+vergleicht.
+Das mit dem Programm kenne ich nicht - wo"gegen" läßt
+man das laufen?

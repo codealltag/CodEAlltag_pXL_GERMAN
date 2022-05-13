@@ -1,0 +1,30 @@
+* Francis Hommels <dkafsh.fvgbbo@qyp.ob>:
+
+
+Für die ja, aber ich kenne eine Anzahl Akademiker, denen diese
+Minimalahnung komplett abgeht, aber sowas von.
+
+Ich hab je einige Zeit an diversen Instituten der Elektrotechnik
+gearbeitiet. Der typische E-Techniker hat natürlich eine von Elektro-
+und Radiomann, Modelleisenbahn, Carrerarennbahn, Modellflugzeugen etc.
+geprägte Vergengenheit, aber es gibt auch den theoretischen Typus. Wir
+hatten einen, der zwar den Analog-Teil von GPS-Empfängern designen
+konnte wie kein anderer (gute Analog-VLSI-Designer sind rar), aber
+dieser Mensch war in praktischen Belangen so ungeschickt wie sonst nur
+Altphilologen.
+
+
+Ach, die Leute sind heute viel zu verweichlicht. Mein Stiefvater (Jg.
+'16) hatte eine Märklin-Spur-0-Bahn mit so einem Steuergerät, das bei
+manchem der besagten Zünftler allein schon durch die Beschreibung einen
+Herzkasper verursachen würde:
+
+http://yko.axtp-clor-9.xl/udjxteoq/wbmpzjan/glwectnyfalhyzp/7023-6_zlqowayronsdaouoln_6_iffadf
+
+Ich hatte das in den 80ern mal vom Dachboden geholt und in Betrieb
+genommen. Da hängen am Haushaltsstrom in Serie eine 110-V-Lampe, ein
+über den Stufenschalter wählbarer Drahtwiderstand, der
+Schienenanschluss und dann die zweite Lampe. Kein Trafo, keine
+galvanische Trennung.
+
+ - Bernd

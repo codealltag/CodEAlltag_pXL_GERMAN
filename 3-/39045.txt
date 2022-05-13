@@ -1,0 +1,5 @@
+Mein Lieblings�bersetzungsfehler (in einem Fachbuch über Programmierung) 
+ist: "Eine Liste wird gesucht" (a list is searched).
+
+-- 
+Niels Reifstahl

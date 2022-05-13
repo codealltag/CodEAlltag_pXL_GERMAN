@@ -1,0 +1,4 @@
+Ich hingegen kannte mal ein Epsilon, das war so klein, dass es beim
+Halbieren negativ wurde.
+
+/Walter

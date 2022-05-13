@@ -1,0 +1,12 @@
+Du sollst ja auch kein MD5 verwenden. Und mein Vorschlag, den Hash 
+(mehrfach) zu hashen war durchaus ernst gemeint.
+
+
+Angenommen, jede dieser 25 Fünfer-Kombinationen würde nur einen 
+Buchstaben repräsentieren, würde das dem Knacken eines 
+118-Bit-Schlüssels entsprechen. Das ist zwar um einiges einfacher, 
+als eine Kollision für einen SHA-1 Hash zu erzeugen, aber ich würde 
+demjenigen immer noch viel Spaß dabei wünschen.
+
+
+Vinzent.

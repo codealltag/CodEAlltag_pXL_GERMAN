@@ -1,0 +1,13 @@
+* samuel:
+
+
+Das wird ja auch nicht gewählt, weil man es für geeignet hält,
+sondern schlicht, weil man die Konfiguration für X->Englisch und
+Englisch->Y schon hat.
+
+30 Sprachen ineinander zu übersetzen bedeutet 870
+�bersetzungspaare, die kann man nicht alle einzeln manuell
+erstellen
+.
+-- 
+Vinzenz

@@ -1,0 +1,23 @@
+Keine Ahnung. Ich habe jahrzehntelang mehr oder weniger intuitiv die Begriffe
+"offen" und "geschlossen" verwendet, weil im Deutschen (mit Ausnahme den
+langen ä) die kurzen Vokale ganz anders klingen als die langen (jeweils in
+betonten Silben). In der Schule hieß der Klang der kurzen "offen" und der der
+langen "geschlossen". Und bei e, i, o, u ist auch die Lautschrift analog: mit
+dem normalen lateinischen Kleinbuchstaben wird der jeweilige geschlossene Laut
+bezeichnet, ebenso in ASCII-IPA. Alles ganz einfach.
+
+Dann kommt das a; da ist alles anders:
+
+ - Der normale lateinischen Kleinbuchstabe bezeichnet den offenen Laut 
+   für kurze Silben, entsprechend auch in ASCII-IPA aller Couleur. Der
+   geschlossene Laut für lange Silben schreibt sich ɑ (ASCII: A).
+
+ - Dann kommt Herr Laabes und sagt, im Deutschen gebe es keinen Unterschied,
+   alles sei das ɑ (ASCII: A). Dabei klingen die doch ganz anders, mit einem
+   Unterschied völlig analog zu den anderen Vokalen.
+
+ - Und dann kommt Herr Hammerschlag und fragt mich Zeug, was ich nicht weiß, wo ich
+   doch eh schon verwirrt bin.
+
+-- 
+Peter Olhoff

@@ -1,0 +1,14 @@
+Du hast das Problem nicht verstanden, das in der Formulierung liegt. 
+Man kann nicht eine Frage mit "auch" bejahen, wenn das, auf das mit 
+"auch" Bezug genommen wird, nicht ausgesagt wird bzw. nicht wahr bzw. 
+nicht gegeben ist. Die Programmierer haben schlicht nicht bedacht, was 
+für einen Unsinn die Formulierung ergibt, wenn die Anzahl der 
+Zustimmenden eben Null ist.
+
+Hätte man statt "Sie auch?" lieber "Und Sie?" formuliert, hätte man 
+zwar einen unmittelbaren kontextuellen Anschluss an die Entscheidung 
+der anderen, müsste aber nicht in Abhängigkeit davon alternative 
+Formulierungen programmieren.
+
+
+F.

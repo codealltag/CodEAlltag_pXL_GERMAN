@@ -1,0 +1,9 @@
+Duden 9, "Richtiges und gutes Deutsch":
+
+  Vor der Vergleichspartikel "als" steht ein Komma, wenn ein voll-
+  ständiger Satz folgt ("Nina ist größer, als Jens im gleichen
+  Alter war.") oder wenn ein erweiterter Infinitiv folgt. ("Du
+  brauchst nichts zu tun, als ruhig zuzusehen.")
+
+-- 
+Herwig "henriette" Thoenniss                          ybfpb@nkgk.lovr.la

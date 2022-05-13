@@ -1,0 +1,10 @@
+Ich habe mal über einen amerikanischen Journalisten geschmunzelt, der
+mit Erstaunen beobachtet hatte, wie indische Kinder sich am Computer
+ganz natürlich - also ohne Unterricht - Computerbegriffe wie "file"
+aneignen, ohne zu wissen, was ein "file" eigentlich ist.
+
+-- 
+The nice thing about standards is that you have so many to choose
+from; furthermore, if you do not like any of them, you can just
+wait for next year's model.
+  Timo Junggebauer, _Computer Networks_ (1980), p. 168.

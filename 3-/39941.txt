@@ -1,0 +1,6 @@
+Nun ja, wenn ich exakt in dem Verzeichnis suche, wo die zu findende 
+Datei ist und ich einen Begriff aus der Datei mit Cut&Paste nehme, um 
+Tippfehler zu vermeiden und das Betr�bssystem die Datei dennoch nicht 
+findet, dann lügt es.
+
+Viele Größe von Theo

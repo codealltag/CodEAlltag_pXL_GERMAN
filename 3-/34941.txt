@@ -1,0 +1,7 @@
+Dein It´s kriegt das raus? Wie hast du den dazu bekommen, so wenig
+auszugeben. Wenn ich nur "krieg"  bzw. "kriege" eingebe, kommt natürlich nur
+Mist raus. Aber ich finde folgende Werte:
+
+"ich krieg": 657.000
+"ich kriege": 379.000
+"Ich bekomme": 1.680.000

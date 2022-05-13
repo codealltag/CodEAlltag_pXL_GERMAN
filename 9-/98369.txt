@@ -1,0 +1,13 @@
+"Aldo Corstjens" <r6rgmuwyq@rik.fn> schrieb am 05.02.2010 19:37 den
+Newsbeitrag
+news:3cc7k475-223q-4628-0524-1m3c1c93t45x@i57r6183cgv.hmdydxvlrins.ael
+
+
+Und es geht wahrscheinlich nicht nicht weiter mit -1, -2 usw. -- der Bus
+ist seit x Minuten weg... ;-)
+
+
+"ist da" gefällt mir besser, wäre besser geeignet als Endwert der
+absteigenden Zahlenfolge (..., 2, 1).
+
+MfG, CLAUS

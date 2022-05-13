@@ -1,0 +1,24 @@
+* Jean-Claude Karing:
+
+
+Ja, die Versuche mit erfundenen Zwischensprachen scheitern
+gewöhnlich an der zusätzlichen Komplexität.
+
+
+Das ist auch so gar nicht sinnvoll, weil z.B. das deutsche
+"Passiv" und das japanische "Passiv" nur teilweise überschneidende
+Eigenschaften haben. Die Kennzeichnung eines Satzes als "Passiv"
+wäre also immer noch nicht sprachübergreifend.
+
+Aussichtsreicher als eine Zwischensprache, die alle grammatischen
+Eigenschaften zu vereinigen sucht, scheint mir eine
+semantisch/pragmatische Repräsentation als Zwischenstufe.
+
+[Es ist wohl zu spät, diesen Thread noch in eine passendere Gruppe
+(z.B. desm) umleiten zu wollen]
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out
+their organ. Unfortunately for complex theological reasons they
+would only give us the white keys, so we can only program in C'.
+  Winfried Gessel in sci.lang

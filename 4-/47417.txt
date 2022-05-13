@@ -1,0 +1,9 @@
+Wobei es oft nicht einmal die selbst verwendete Software ist, sondern
+die von Kunden/radlager etc. aufgezwungene.
+
+
+Letzeres ist kein Problem, diese Zeichen braucht man bloß vor der Shell
+zu schützen, also z.B    touch \*   .
+
+-- 
+Tom

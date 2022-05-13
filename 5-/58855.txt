@@ -1,0 +1,8 @@
+Meine Formulierung ist laienhaft, aber jeder Mathematiker weiss,
+was ich meinte: "reelle Zahlen im engeren Sinn" sind die Elemente
+der Menge der reellen Zahlen minus die der Menge der rationalen
+Zahlen.
+
+Gruss
+
+Alfons

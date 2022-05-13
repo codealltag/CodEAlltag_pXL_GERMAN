@@ -1,0 +1,6 @@
+Das geht aber nur kurzfristig.
+Wenn etwas schon langsam ist, führt progressive Verzögerung ganz schnell zum 
+Stillstand. Und im Stillstand ist die Beschleunigung Null, die Verzögerung 
+muss also vorher wieder reduziert worden sein.
+
+Oder sollte fortgesetzte Verlangsamung zur Richtungsumkehr führen können?

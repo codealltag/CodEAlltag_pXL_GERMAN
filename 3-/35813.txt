@@ -1,0 +1,9 @@
+Da das Gewicht in N leichter zu messen ist als die Masse in Kg,
+ist im Alltag meistens Gewicht=Masse gemeint, was genau genommen
+falsch ist. Zum Essen brauchen wir Masse, nicht Gewicht, - man
+wird nicht satter, wenn man 1 gr Butter auf dem Jupiter verzehrt,
+wo es 318 gr wiegt (genauer: 3,18 N), aber immer noch 1 gr Masse hat.
+
+Gruss
+
+Bernhard

@@ -1,0 +1,12 @@
+* Gérald Siegenbrink:
+
+
+Sogar innerkanadisch gibt es dieses Problem zwischen englischen und
+französischen CSV-Dateien, fürchterlich. Ich habe mir das Dezimalkomma
+im Mathestudium weitgehend abgewöhnt, hier in der Gruppe muß ich mich
+sehr konzentrieren, wenn ich es dann ausnahmsweise benutze, um keine
+Diskussionen darüber zu provozieren.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

@@ -1,0 +1,16 @@
+Aus der offensichtlich beabsichtigten Lösung von
+
+  1, 2, 4, 5, 7, 8, 10, 11, 13, ...
+
+oder von
+
+  1, 3, 7, 15, 31, 63, 127, 255, ...
+
+werden keine Polynome.
+
+Allerdings sind beide relativ leicht lösbar, wenn man die Differenzenfolge 
+betrachtet. Selbst eine Fibonacci-Folge kann man dann erkennen, wenn man 
+sie nicht eh schon kennt.
+
+-- 
+Ivan Noatzke

@@ -1,0 +1,5 @@
+Nein, leider ist ein Wirkungsgrad >= 1 nicht möglich, 2. Hauptsatz der 
+Thermodynamik. In unserer Welt mit unserer Physik gibts nur eta < 1
+
+Grüße
+Bruno

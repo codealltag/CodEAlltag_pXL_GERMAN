@@ -1,0 +1,8 @@
+"Haben Sie aufgehört Ihre Frau zu schlagen?
+
+[ ] Ja
+[ ] Nein"
+
+Gruss
+
+Jörg

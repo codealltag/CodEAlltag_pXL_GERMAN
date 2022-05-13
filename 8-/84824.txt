@@ -1,0 +1,5 @@
+Ich kann nur bis auf 1 1/2 Byte komprimieren, theoretisch auch
+auf 3 Bit aber dann dauert das entpacken länger als sich die
+Briefmarken mit einen Farblaserdrucker neu auszudrucken...
+
+Noël

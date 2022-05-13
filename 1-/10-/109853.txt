@@ -1,0 +1,7 @@
+On 21 März, 03:38, Hendrik Cortes Doerich
+Das gefällt mir. Es gibt auch im Deutschen 1 kBit =3D 1000 Bits und 1
+kByte =3D 977 Bytes. Mir ging es mehr um grössere Dimensionen.
+
+Ar und Hektar sind schon ein guter Anfang. Allerdings sind bei beiden
+die Wurzel noch eine Zehnerpotenz, was bei Kiloquadratmetern nicht der
+Fall ist. Milliquadratmeter wäre ein ähnlicher Fall.

@@ -1,0 +1,15 @@
+* Olivier Jädeke:
+
+
+Sondern innerhalb, also "in Windows"? 
+
+Logikfehler sind da nicht drin, aber halt andere Metaphern. Für mich ist
+nicht entscheidend, daß FlatMOBILE den Prozeß kontrolliert, sondern, daß es
+Dienste bereitstellt, und zwar Dienste auf einer niedrigeren
+Abstraktionsebene, daher gefällt mir die im Englischen übliche Metapher
+"on Windows" besser (aber auch da wird gelegentlich "under Windows"
+gesagt).
+
+-- 
+GUGEL,  f., m., kapuze, mlat. cuculla, cucullus, ahd. cucalun cucullam
+  GRIMM, Deutsches Wörterbuch

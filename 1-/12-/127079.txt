@@ -1,0 +1,3 @@
+Teil eines Eigennamens.
+
+	hp

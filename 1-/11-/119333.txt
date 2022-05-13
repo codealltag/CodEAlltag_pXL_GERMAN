@@ -1,0 +1,3 @@
+Mir fällt gerade der Unterschied zwischen expotentialem und linearem 
+Wachstum auf. Ist nicht das expotentiale Wachstum dynamisch? Das lineare 
+ist doch sozusagen gleichbleibend.

@@ -1,0 +1,8 @@
+* Mirko Oesterwind:
+
+
+Dafür hat der lie^W^Wdas Unicode-Konsortium die combining diacritical
+marks erschaffen: ä̃
+
+-- 
+Feix--the original point and click interface

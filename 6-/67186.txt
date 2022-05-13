@@ -1,0 +1,14 @@
+Apart. Da schmeißt man jahrhundertealte Traditionen über den Haufen,
+damit ein BS (England) und ein BS (Deutschland) vergleichbarer werden
+als die alten Abschlüsse, und dann führt man wieder Unterschiede
+zwischen verschiedenen BS innerhalb eines Landes ein.
+
+Zur Einordnung dessen, was man "draußen" mit all dem anfangen kann, eine
+kleine Geschichte aus eigener Erfahrung. Personaler beim - letztlich
+erfolgreichen - Einstellungsgespräch: "Warum eigentlich *Ph* D,, ich
+dachte, Sie haben Informatik studiert."
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

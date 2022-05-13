@@ -1,0 +1,27 @@
+Ja. Aber warum? Weil "die Prinzessin" bzw. "sie" Akkusativobjekte sind 
+und somit als Nominativ-Subjekte für die Zuordnung eines prädikativen 
+Adjektivs ("X ist [Adjektiv]") in einem gemeinsamen Satz nicht geeignet 
+sind.
+
+
+Brutal ist hier eindeutig Adverb, es bezieht sich auf die Handlung, ob 
+nun passiv oder aktiv, nicht auf den Handelnden. Eine Aussage, ob der 
+Schläger nicht nur brutal prügelt, sondern auch brutal ist, ist so nicht 
+möglich, da der Handelnde im falschen Fall steht. "vom Schläger" taugt 
+nicht als Subjekt der Aussage "X ist brutal".
+
+
+Nicht plötzlich, sondern weil "die Prinzessin" das einzige zur Verfügung 
+stehende Nominativ-Subjekt für beide Aussagen ist.
+Ein Satz: "Die Prinzessin ist vom Prinzen wach geküßt worden." würde 
+sich in zwei Aussagen aufteilen: 1. Die Prinzessin ist geküsst worden. 
+2. Die Prinzessin ist wach.
+Es ist nur schwerlich möglich, "vom Prinzen" als Subjekt der Aussage "X 
+ist wach" anzunehmen, weil es hiefür wiederum im falschen Fall steht.
+Ich behaupte, prädikative Adjektive in solchen Sätzen beziehen sich 
+immer auf das Subjekt im Nominativ, ganz gleich, ob die restl. Handlung 
+aktivisch oder passivisch ist.
+
+Die Satzstruktur (unabh. von der Reihenfolge) ist folgende:
+
+Subjekt(Nominativ) + Adjektiv(prädikativ) + Verb(aktiv/passiv) + ...

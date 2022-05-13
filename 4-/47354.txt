@@ -1,0 +1,10 @@
+Schon, aber das erledigt die Shell, wenn sie den * expandiert.
+
+/Gert
+
+der gerade mit Erschrecken festgestellt hat, dass dieser
+Trick (zumindest in bash) immer noch funktioniert.
+Ich meinte mich zu erinnern, es gäbe eine Shell, die
+in der Argumentliste zwischen "richtigen" (i.e. Command line,
+alias, Env-Variablen) Optionen und solchen scheinbaren wie
+einem Filename unterscheidet. tcsh?

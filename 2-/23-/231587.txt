@@ -1,0 +1,14 @@
+* Wilfried Willes:
+
+
+Spricht ein Kfz-affines Umfeld eigentlich eher dafür oder dagegen,
+Insiderbegriffe wie "Mopped" zu verwenden?
+
+Hm, mir schwant gerade, ein Kfz-affines Umfeld zeichnet sich
+eventuell dadurch aus, daß es Kfz nicht als Synonym zu Pkw
+versteht.
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Beat Uebelacker, comp.lang.python

@@ -1,0 +1,20 @@
+Die wesentliche Frage ist aber, was hier "kann das stimmen" bedeutet. Man
+könnte es interpretieren als "kann es sein, dass Kirsten schneller als Karola
+ist"; dann ist die Antwort "ja" , denn es ist nicht logisch
+ausgeschlossen. Man könnte es aber auch lesen als "ist die
+Schlussfolgerung, Kirsten sei schneller als Karola, aus den gegebenen
+Voraussetzungen korrekt", und dann müsste die Antwort "nein" heißen. 
+
+Dem betroffenen Schüler würde ich raten, weder "ja" noch "nein" zu
+schreiben, sondern "aus den gegebenen Voraussetzungen kann man weder
+sachließen, dass Kirsten zwingend schneller als Karola ist, noch dass zwingend
+Karola scheller als Kirsten läuft". Noch gewogener dürfte der Mathematiklehrer
+sein, wenn der schüler das Ganze erstmal in mathematische Formelsprache
+übersetzt und dann schreibt "V[Tina] > V[Toni]" und "V[Kirsten] > V[Toni]"
+und dann noch was murmelt von "Transitivität liegt also nicht vor".
+
+Italo
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

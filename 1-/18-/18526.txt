@@ -1,0 +1,12 @@
+Da muss ich passen. Ich sprach von Programmiersprachen, deren Zweck darin
+besteht, formale Konzepte zwischen Menschen zu kommunizieren. Eine
+Gebrauchsanleitung hat diesen Zweck nicht, sondern ist anwenderbezogen,
+also Dokumentation. Na gut, mit etwas gutem Willen kann man sie als
+Anforderungsdokument durchgehen lassen (das, was da drin steht, soll das
+Ding auch können). Meintest Du das?
+
+
+Und sonstige Algorithmen nur zu 90%?
+
+
+Vinzent.

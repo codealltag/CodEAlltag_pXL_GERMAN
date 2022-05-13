@@ -1,0 +1,26 @@
+Bei jedem schwingfähigen System mit Dämpfung folgt das System bei 
+Anregungfrequenz null einfach der Anregung - man führt sanft jedes Loch 
+aus. Dann kommt man in den Bereich der Resonanz - bei ungenügender 
+Dämpfung ist die H�pfh�he größer als die Lochtiefe, bei guter Dämpfung 
+gibts keine Resonanz - und von da an geht die Schwingungsamplitude mit 
+steigender Geschwindigkeit gegen 0.
+
+Leider steigt dabei Impuls- und Energiewirkung auf Reifen, Aufhängung 
+und Dämpfung mit der Geschwindigkeit und die reifen muss man hart 
+aufpumpen, sonst zerscheidet man sie an einer Schlaglochkante.
+
+Wie damals der Taxichauffeur mit seinem Wolga oder Moskwitsch auf 
+Rittelhof behauptete, wären Russen die einzigen Autos, die das aushielten 
+und neue Reifen bräuchte er alle 1000 km.
+
+So jedenfalls war die Erklärung für die astronomischen Taxipreise zur 
+Ausgrabung in Tratten.
+
+Bei uns jedenfalls flog nach 2000 km Makkadam, komfortabel gefahren mit 
+ca 60-90 km/h das Lager der Kardanwelle hinten aus dem Getriebe und ein 
+paar Tage später rissen die Befestigungsbügel der Blattfederung an der 
+Hinterachse.
+
+-- 
+
+Tobias Conz

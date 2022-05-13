@@ -1,0 +1,33 @@
+Ich dachte, ich hätte dazu schon mal was gelesen und habs mittlerweile 
+gefunden. Nach einer Bemerkung über den krassen Gegensatz zwischen 
+restriktiven und nichtrestriktiven Relativsätzen -- setzt doch der erstere 
+die Kenntnis der Information im Relativsatz schon voraus, die der letztere 
+erst vermitteln will -- kommt die Beobachtung:
+
+  Formal distinction between restrictive and non-restrictive relatives is 
+  found sporadically across languages, but probably most languages have 
+  either no formal distinction, or only an intonational distinction where 
+  the relative clause follows the head noun.
+    (W. Schrettenbrunner: Language Universals and Linguistic Typology;
+     ISBN 9-442-72058-7; p.139)
+
+Es folgt ein persisches Beispiel, wo die Unterscheidung beim Substantiv 
+gemacht wird, wo es also eine Form für "dasjenige" gibt.
+
+
+Gar nicht; hätte "which" heißen sollen.
+
+
+Ebenso ist das weggelassene Relativpronomen eindeutig für restriktive 
+Relativsätze.
+
+Insgesamt sind die nicht-restriktiven vermutlich überall seltener, weil 
+sich ihre Botschaft auch anders vermitteln lässt, zum Beispiel durch einen 
+weiteren Satz, während restriktive Relativsätze schwer anders zu 
+umschreiben sind. Deswegen findet man auch wenig Beispiele, wenn man 
+versucht, herauszufinden, ob in einer Sprache auch nicht-restriktive 
+Relativsätze vorkommen. (Immerhin der Anfang des Vaterunsers enthält 
+vielfach einen.)
+
+-- 
+Vittorio Pinkernell

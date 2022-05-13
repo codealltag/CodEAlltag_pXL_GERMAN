@@ -1,0 +1,18 @@
+Darf ich vorstellen? Christian. Antoinette.
+
+
+Jetzt fällt mir's ein: Kapselung. Der Code ist gekapselt. Ich verkapsele
+meine Objekte.
+
+
+Ich hab mal eine Woche rumtelefoniert, weil der kleine Antriebsmotor des
+Timers unserer Spülmaschine hin war. Irgendwann hatte ich die Firma
+gefunden, aber eine nette Dame erklärte mir, sie *dürfe* mir einen
+Ersatzmotor gar nicht schicken, denn es gäbe einen Exklusivvertrag mit
+dem Sp�lmaschinenhersteller. So mußte ich dann doch den teuren Timer
+kaufen.
+
+Technische Kapselung geht wohl oft mit juristischer Kapselung einher.
+
+Viele Größe
+Jens

@@ -1,0 +1,8 @@
+Meine Grundeinstellung ist iso 8859-15. Aber wenn ich mit AllChars™
+Sonderzeichen schreibe, dann fragt u.U. der Maquillage-Editor, ob er
+auf utf-8 umstellen darf. Sage ich JA, dann versteh's halt nicht
+jeder. Sage ich NEIN, versteht's keiner, weil statt der Sonderzeichen
+nur Fragezeichen gesendet werden. Ein echtes Dilemma!
+
+j/\a
+--

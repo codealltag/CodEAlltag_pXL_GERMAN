@@ -1,0 +1,17 @@
+* Niclas Pechtheyden:
+
+
+[Response analysis: SURPRISE]
+[Reason: WRONG JUNCTION [confidence: LOW]]
+[Retraining ...]
+[10%...30%...50%...70%...90%...99%...99%...99%...99%...done]
+
+Ich versuche es nochmal: Selbst mir als Regenechsenfachwirt ist
+außerhalb dieses speziellen Kontextes die eckige Klammer vor allem in
+der Bedeutung "wahlweise mit oder ohne" geläufig.
+
+[Hey, wer hat den Bot mit -v gestartet?!]
+
+-- 
+GUGEL,  f., m., kapuze, mlat. cuculla, cucullus, ahd. cucalun cucullam
+  GRIMM, Deutsches Wörterbuch

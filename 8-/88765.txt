@@ -1,0 +1,10 @@
+Wie kommst Du auf "10 kB"?
+
+Eine Seite hat 2500 Zeichen, ein Buch durchschnittlich 300 Seiten
+--> 300*2500 = 750'000 Bytes in ASCII = 750 kB. Das habe ich
+aufgerundet auf 1 MB. Kompression um Faktor 100 kann ich mir
+nicht vorstellen, denn 5 Bit pro Zeichen (statt 8) sind das Minimum.
+
+Gruss
+
+Peter

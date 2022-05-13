@@ -1,0 +1,32 @@
+Eben, steht da aber auch:
+
+
+Das Wetter ist beschissen, vor die Tür wollen nicht einmal die Katzen
+des Hauses; also mache ich hier mal weiter.    :)
+
+Gesetz den Fall da stünde:
+100 km       h: 1
+statt
+0-100 km/h   s: 6
+
+Würdest du dann die obere Darstellung interpretieren als (ich zitiere
+deinen Beitrag, setze nur die anderen Werte ein):
+"Diese 1 Stunde wird für eine Strecke von 100 km benötigt, bei
+gleichförmiger Geschwindigkeit sind das also 1 h/(100 km). Die Einheit
+des angegebenen Messwerts ist also "h/(100 km)"".
+Warum die reziproke Darstellung? Aus der Angabe oben lässt sich doch
+ohne Verrenkung auch '100 km/h' ableiten.
+
+
+:)
+
+Abgesehen davon, '(100 km/h) / 6 s' /ist/ eine Beschleunigung.
+
+
+Ciao
+Viviane
+-- 
+ Those who would give up essential Liberty,
+ to purchase a little temporary Safety,
+ deserve neither Liberty nor Safety."
+ [Volkert Jostarndt]

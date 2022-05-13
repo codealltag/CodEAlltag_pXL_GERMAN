@@ -1,0 +1,4 @@
+Um Rekursion zu verstehen, muss man Rekursion verstehen.
+
+Gruß
+Sergio

@@ -1,0 +1,8 @@
+Maschinenlesbar klingt ein wenig bemüht, aber wenn das die offizielle 
+Bez. ist könnte ich mich vielleicht damit abfinden. Wie sieht es aus mit 
+"Reintext" gg. "Bildtext"? PDF ist nur eine Format, was Text in jeder 
+Form (*Reintext, Bilder) enthalten  kann. ASCII ist ein begrenzter 
+Zeichensatz, also auch nicht treffend. OCR ist soweit ich weiß nur ein 
+Verfahren. Wenn ein
+Schriftsteller seinen jüngsten Roman in die Tastatur hackt hat das ja 
+nichts mit OCR zu tun, das Resultat ist aber das gleiche.

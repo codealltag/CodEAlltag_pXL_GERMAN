@@ -1,0 +1,13 @@
+Genau weiß ich es nicht, aber ich würde sagen, es wird in der IT 
+verwendet und ritären ausgesprochen.
+
+Ich hörte kürzlich, man müsse Zertifikate "revoken" bzw. "revozieren" 
+können.
+Beides sind Versuche "to revoke" irgendwie einzudeutschen. Und in diesem 
+Fall ist das ja auch dringend nötig, denn man kann unmöglich 
+"Zurückziehen", "widerrufen", "zurückrufen", "zurücknehmen", 
+"annullieren" oder gar "für ungültig erklären" verwenden.
+Also muß man, da die deutsche Sprache eben keinen auch nur annähernd 
+passenden Begriff bietet, auf so eine Krücke ausweichen.
+
+Viele Größe von Ivo

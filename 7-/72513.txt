@@ -1,0 +1,12 @@
+Naja, es gibt z.B Mikrocontroller, die man üblicherweise so kauft,
+wie sie vom Fließband kommen. Oder eben vorprogrammiert für bestimmte
+Anwendungen (z.B. mit einem Bootloader drin beim Arduino). 
+
+Ich finde das Wort "vorprogrammiert" in dem Zusammenhang schon sinnvoll,
+weil damit klargestellt ist, daß man dann für die jeweilige Anwendung
+kein spezielles Programmiergerät mehr braucht. "Programmiert" alleine
+würde für mich da seltsam klingen (obwohl ich jetzt nicht sagen kann warum).
+
+/elmar
+-- 
+http://srz.nqyxvn.ths/znzceo/ygjvifebm/

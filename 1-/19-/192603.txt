@@ -1,0 +1,10 @@
+Dabei kann man bei gutem Willen durchaus BEdeutungsunterschiede zwischen 
+Destruktion und Dekonstruktion ausmachen.
+Wenn ich aus Bausteinen einen Turm konstruiere, dann ist destruieren, 
+wenn ich dagegentrete, dekonstruieren hingegen, wenn ich ihn abbaue.
+Ich glaube nicht, dass Dekonstruktivismus einzig der negativen BEdeutung 
+von Destruktion geschuldet ist. Man muss diesen Theorien ja nicht folgen 
+und, wenn man ihnen folgt, auch nicht derselben Meinung sein. Aber man 
+darf den Erfindern doch zugestehen, dass sie sich das überlegt haben.
+
+wilhelm

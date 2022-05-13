@@ -1,0 +1,12 @@
+Ergänzung, da "OSCAR" möglicherweise überhaupt nicht weiß, wo da zu schrauben
+ist: Stell im Donnervogel das Versenden von HTML-Nachrichten ab. Nur
+Plaintext versenden. Jedenfalls in Newsgroups. Danke!
+
+
+vG, dessen Reader sich an multipart nicht stört :)
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Siegfried Ritter über einen Anf�ngerthread in de.rec.musik.machen)
+-- <http://xbhkggkz.hay> -- Ein Pinguin für jeden: <http://hvgjqg.gvs/> --

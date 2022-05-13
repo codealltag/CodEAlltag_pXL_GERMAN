@@ -1,0 +1,43 @@
+* Alois Iselein:
+
+
+Auch wenn das Modell nicht die Wirklichkeit ist - im
+Kommunikationsmodell (ich meine mit diesem Wort jetzt immer nur das
+beschriebene) wird die Nachricht als abgetrennt vom Sender dargestellt,
+und nahegelegt, sie werde vom Empfänger separat dekodiert. Das trifft
+aber die meisten realen Kommunikationssituationen nicht. Der "Empfänger"
+regiert auf die Situation, der "Sender" ist ein Teil dieser Situation
+und die "Nachricht" auch. 
+
+Ich wiederhole hier meine Lieblingsidee von Volkart: nicht die Situation
+desambiguiert die Mitteilung, es wird nur das mitgeteilt, was in der
+Situation nicht ohnehin eindeutig ist.
+
+Die Mitteilung dient dazu, bei anderen Teilnehmern die Interpretation
+der Situation zu beeinflussen. Nehmen wir ein Bild als Metapher für das,
+was der Empfänger wahrnimmt, so ist die sprachliche Mitteilung oft mehr
+ein Filter, der über das Bild gelegt wird, als daß sie wesentliches zum
+Bildinhalt hinzufügt (ein Farbfilter, ein "schärfer" oder "unschärfer",
+ein Spotlight, eine Verzerrung ...) Oder wenn, dann fügt sie ein
+einzelnes Detail zu einer bereits komplexen Situation hinzu. Nur in
+Ausnahmefällen führt sie dazu, daß sich beim Empfänger ein ganzes, neues
+Bild aufbaut, aber auch dann sind die meisten Elemente dieses Bildes aus
+dem Fundus des Empfängers geschöpft, nicht aus der Mitteilung.
+
+Auch ist oft das Ergebnis beim Empfänger ein völlig anderes als vom
+Sender intendiert. Das kann im Kommunikationsmodell nur als Fehler
+vorkommen: angeblich verfügen beide Teilnehmer ja über einen gemeinsamen
+Kode, und die sprachliche Kodierung ist umkehrbar. In Wirklichkeit kann
+das vom Empfänger sogar sehr klug sein, denn er weiß ja viel mehr von
+der Situation als das, was die Nachricht enthält.
+
+Nochmal mit einer anderen Metapher: Wenn ich behaupte, in der
+Kommunikation würden Ideen vom Sender zum Empfänger übertragen, dann
+könnte ich ebensogut behaupten, wenn ich einen Finger in den Fluß halte,
+hätte ich einen neuen Fluß erzeugt. Das ist nicht völlig falsch, siehe
+Heraklit, aber "neuer Fluß" legt etwas anderes nahe, und in ähnlicher
+Weise legt das Kommunikationsmodell eine falsche Vorstellung von
+Kommunikation nahe.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

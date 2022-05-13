@@ -1,0 +1,29 @@
+Die Gegenthese, dass "jedes x" etwas anderes bedeutet als "alle xs", ließe 
+sich durch ein einziges Beispiel eines Satzes belegen, der durch Austausch 
+dieser Ausdrücke seine Bedeutung ändert. Dass dir kein solches Beispiel 
+einfällt, belegt nun in der Tat nicht meine These, sondern nur die wie 
+folgt modifizierte These:
+
+   "jedes x" und "alle xs" sind bedeutungsgleich, oder aber sie sind 
+   bedeutungsverschieden und du kannst oder willst kein Argument dafür 
+   liefern.
+
+
+Das ist zwar ein interessantes Problem, aber nicht das hier diskutierte.
+
+Aus "Jeder Rabe, der mir bisher zu Augen kam, war schwarz" kann ich nicht 
+schließen "Jeder Rabe ist schwarz". Bei hinreichendem Stichprobenumfang 
+erscheint die Konklusion aber wenigstens plausibel, wenn schon nicht 
+zwingend.
+
+Völlig Äquivalent ist die Formulierung:
+
+Aus "Alle Raben, der mir bisher zu Augen kamen, waren schwarz" kann ich 
+nicht schließen "Alle Raben sind schwarz". Bei hinreichendem 
+Stichprobenumfang erscheint die Konklusion aber wenigstens plausibel, wenn 
+schon nicht zwingend.
+
+Und was lernen wir daraus über den Unterschied zwischen "jeder" und "alle"?
+
+-- 
+Benedikt Aarents

@@ -1,0 +1,11 @@
+Ja, üblicherweise beschränkt man den Werte- und Definitionbereich auf
+R+0 (pos. reelle Zahlen, incl. Null) und "begnügt" sich damit mit dem
+Betrag der Wurzelfunktion, weil sie ohne diese Einschränkung keine
+"normale" Funktion mehr wäre (abgesehen von x=0 existieren immer zwei
+y-Werte).  Dennoch existieren, algebraisch betrachtet, beide y-Werte,
+und bisweilen muß man sie auch beide beachten (z.B. bei der Lösung
+quadratischer Gleichungen, selbst wenn die Determinante auf R+0
+eingeschränkt wird).  Gut, Feinheiten...  ;-)
+
+
+ludwig

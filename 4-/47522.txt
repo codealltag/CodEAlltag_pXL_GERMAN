@@ -1,0 +1,3 @@
+Ergänzungsstrich ist das Synonym für Bindestrich. Nicht jeder
+Bindestrich ist ein Ergänzungsbindestrich, aber jeder
+Ergänzungsbindestrich ist ein Ergänzungsstrich.

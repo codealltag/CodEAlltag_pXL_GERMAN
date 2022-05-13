@@ -1,0 +1,8 @@
+Wenn man sich ein wenig einschränkt, spart man mit "‼" (merken!) die
+Übertragung von vier Bytes gegenüber "!!!". Das vervielfacht sich noch
+durch zwischengeschaltete Server oder gar Proxies, so dass man mit
+etwas Demut und Bescheidenheit mittels Stromverbrauchsminderung das
+Sterben durch Stromausfall eines armen migrantischen Kindes mit
+traumatisierender Umwelt im Fahrstuhl zwischen dem 10. und 11.
+Stockwerk verhindern kann. Die haben manchmal nicht einmal ein
+Frühstücksbrot eingepackt.

@@ -1,0 +1,50 @@
+Hi!
+
+Heute bekam ich eine durchaus interessante Frage gestellt:
+------------
+Moin Reinhard!
+
+Du könntest die Richtige sein, um mir weiter zu helfen. Mein Dad bog 
+gerade mit einer Frage um die Ecke ...
+
+Enthält die Aussage "Ich hatte ja keine Joker" auch zwangsläufig die 
+Aussage, daß man auch "nicht einen" Joker hat, oder verneint dies nur 
+den Plural? Oder andersrum, Darf man "ich hatte keine Joker" sagen, wenn 
+man genau einen auf der Hand hatte?
+
+Moralisch halte ich das für verwerflich, aber wie sieht das sprachlich 
+wohl aus? Enthält die Verneinung des Plurals auch zwangsläufig den Singular?
+------------
+Der Fragende hat sie auch einem Juristen gestellt, der folgendes meinte 
+(von ihm in seinen Worten wiedergegeben):
+
+Pehmann spricht man hier von einem Dissens. Der Senderhorizont ist 
+ein anderer als der Empfängerhorizont.
+Konkret reden wir von sprachlicher Beugung; wohlwissend um die 
+sprachliche Unschärfe wurde die vorhandene Falle genutzt, und zur 
+Verschaffung eines eigenen Vorteils gebeugt.
+
+Nicht ganz fein, nicht vermeidbar, aber durchaus anfechtbar.
+Die sprachliche Üblichkeit verspricht hier Aussicht auf Erfolg. "Keine" 
+Joker heisst auch "keinen einzigen" Joker.
+
+Sprich: dat war gelogen. Soweit der Jurist.
+------------
+
+Ich bin der Meinung, dass es mathematisch gesehen irrelevant ist, ob man 
+von "keine Joker" oder "keinem Joker" spricht, da beides bedeutet, dass 
+die Anzahl der Joker 0 ist.
+Ich möchte auch den juristischen "Dissens" anzweifeln, denn ich sehe da 
+keine sprachliche Ungereimtheit.
+
+Allerdings finde ich, dass man auf die Frage: "Hast Du einen Joker?" 
+durchaus mathematisch korrekt mit nein antworten darf, wenn man zwei 
+Joker hat. Die Frage impliziert für mich: "Hast Du genau einen Joker?" 
+und nicht: "Hast Du mindestens einen Joker?"
+Hier fände ich den juristischen Dissens angebracht.
+
+So, in der Hoffnung, wieder einen interessanten Thread platziert zu 
+haben, verbleibe ich mit
+
+vielen lieben Größen,
+Reinhard

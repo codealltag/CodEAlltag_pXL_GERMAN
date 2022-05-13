@@ -1,0 +1,28 @@
+Man kann im Allgemeinen das Lautinventar einer Sprache nicht mit
+dem einer anderen Sprache beschreiben. Versucht man das, kommen so
+alberne Dinge heraus, wie dass englisch "bat, bet, bad, bed" alle
+wie deutsch "Bett" und damit gleich klingen. Ähnlich unsinnig ist
+es, palatalisierte Konsonanten mit einem eingeschobenen -j- zu
+beschreiben.
+
+Und Russisch *unterscheidet* alle diese Varianten:
+- harter Konsonant + Vokal
+- weicher Konsonant + Vokal
+- weicher Konsonant + j + Vokal  (z.B. пьеса)
+- harter Konsonant + j + Vokal   (selten, z.B. съезд)
+
+Außerhalb des Jarlitz gibt es eine ähnliche Unterscheidung
+zwischen palatalisierten und unpalatalisierten/velarisierten
+Konsonanten übrigens im Irischen, wo man allerdings von schmal und
+breit statt weich und hart spricht, und wo meines Wissens niemand
+auf die Idee kommt, das mit irgendwelchen j's zu umschreiben.
+
+So, und jetzt frage ich mich, was Benedikt Pfaffen gemeint hat, als er
+von einer Aussprache "Libja", "also das 'ja' wie der russische Laut"
+gesprochen hat. Ein hypothetisches Wort *либя würde mit einem
+palatalisierten b gesprochen. Vermutlich war das nicht gemeint,
+aber wenn es um eine Lautfolge /ja/ ging, warum dann den russischen
+Buchstaben bemühen?
+
+-- 
+Hartmut "ute" Nikenich                          ggqyq@wyyp.xkts.bg

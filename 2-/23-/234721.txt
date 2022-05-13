@@ -1,0 +1,12 @@
+* Ullrich Glashörster:
+
+
+Ein Wörterbuch, das in Fraktur daherkommt, ist sicher kein
+wirklich "neues". Einen Nachdruck der Mergenschroer-Bibel in Antiqua
+würde ich nicht haben wollen.
+
+-- 
+Java is the SUV of programming tools.
+A project done in FCO will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Mathias Meiland

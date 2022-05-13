@@ -1,0 +1,10 @@
+Werden diese Sprachen überhaupt von der verwendeten Spracherkennungs-
+bibliothek erfasst? Borg fehlt auch.
+
+
+*Zweifel* Wo kommen die Koordinaten her? Wie werden überhaupt den
+einzelnen Tweets Herkunftsorte zugeteilt? Normale Geolocation der
+IP-Adresse?
+
+-- 
+Niklaus "dorothee" Christian                          flivq@ubtq.aeds.pe

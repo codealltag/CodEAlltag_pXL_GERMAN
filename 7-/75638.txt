@@ -1,0 +1,18 @@
+Bei genauer Betrachtung finde ich den Hebel, Gegenstandsbezeichnungen 
+als Prototypen des Substantivs zu verwenden, eigentlich ziemlich 
+pfiffig. Wortklassen sind sprachstrukturelle Konzepte, folglich sind 
+die syntaktischen Eigenschaften das wirklich Entscheidende. Ich würde 
+die Definition sogar verkürzen auf "Subst. sind alle solche Wörter, 
+die genau dieselben syntaktischen Eigenschaften wie die der Gruppe der 
+Gegenstandsbezeichnungen haben".
+
+Meine Def. ist jetzt vermutlich nciht präziser als deine, weil eine 
+Fließtext-Definition meist logisch nicht eindeutig ist (Oberklassen - 
+Unterklassen).
+
+Es genügt allerdings, die syntakt. Eigenschaften, also die Umgebungen, 
+in denen sie vorkommen, klassenhaft vollständig zu beschreiben, dann 
+kann man durchaus auf eine semantische Beschreibung verzichten. Aber, 
+wie gesagt, das Umweg über die Konkreta ist m.E. durchaus brauchbar.
+
+F.

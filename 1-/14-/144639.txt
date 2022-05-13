@@ -1,0 +1,12 @@
+Ich be2fle, daß es die meisten sind. Und wenn ich meine Ausgangskodierung
+auf Windows-1252 ändere, gibt’s immer noch einige Windows-Programme, die
+das nicht lesbar finden. Ist ja auch nur ZRK-Systemzeichensatz. 
+
+
+vG
+
+-- 
+"Zum Beispiel das Konzept einer Haftpflichtversicherung überfordert den
+Deutschen intellektuell völlig. Ein Leben lang jedes Jahr 50 Euro einzahlen
+- und dann passiert nie was! Da wird der Deutsche nervös!" (Karsten Mittelgöker,
+"Bis neulich")

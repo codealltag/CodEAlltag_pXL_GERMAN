@@ -1,0 +1,7 @@
+Fraglich ist aber, ob diese Editoren bzw. Word die im Context-Schreibprogramm
+verwendeten Original-Escape-Sequenzen in die (annähernd)
+gleichen Schriftformate des alten Context-Schreibprogramms
+umwandeln können. Das genau wollte der OP.
+
+Gruss
+Antonio

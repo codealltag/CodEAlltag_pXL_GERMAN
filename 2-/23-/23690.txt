@@ -1,0 +1,56 @@
+Bei *einem* Konsonanten zwischen Vokalen gibts wohl wirklich einen 
+ziemlich eindeutigen Zusammenhang:
+
+- Die Plosive (also b, p, d, t, g, k, ?; letzteres wie in "be?enden") 
+  bestehen aus zwei Phasen: eine, in der der Luftstrom plötzlich blockiert 
+  wird (b/p durch die Lippen, d/t durch Vorderzunge und Oberzähne, g/k 
+  durch Hinterzunge und Gaumen, ? im Kehlkopf) und eine zweite, in der er 
+  wieder eröffnet wird. Steht davor Kurzvokal, wird man beim Silbentrennen 
+  die Grenze zwischen die beiden Phasen legen. Das wird auch das Motiv der 
+  Schreibung mit Doppelkonsonant sein; freilich sind auch nach Langvokal 
+  beide Phasen gegeben, obwohl da nur ein Zeichen dafür geschrieben wird. 
+  Bei Langvokal wird man die Silbengrenze eher dort sehen, wo noch der 
+  erste Vokal klingt, also keine Pause einlegen. Sprech- und Schreibsilben 
+  sind in diesem Fall also wirklich an derselben Stelle.
+
+  Das gilt natürlich auch für Affrikative: Ap-pfel, Heck-xe usw., die ich 
+  hier mit verdoppeltem Plosiv geschrieben habe, um die zwei Phasen
+  anzudeuten.
+
+- Andere Konsonanten kann man bei langsamen Sprechen längen, und da wird 
+  man wohl nach kurzen Vokalen eher den Konsonanten längen, um die Längung 
+  des Vokals zu vermeiden. Allerdings ist das bei stimmlosen Konsonanten 
+  eine sehr gekünstelte Aussprache, die sicher vom Wissen um die 
+  Schreibung beeinflusst ist: Aff-fe, Wass-ser.
+
+Bei *mehr als einem* Konsonanten zwischen Vokalen ist es beim Sprechen 
+völlig unklar, wo man die Silbengrenze setzen soll, solange kurze Silben 
+eher geschlossen sind und die zweite Silbe einen normalen deutschen 
+Silbenanfang hat: Fen-ster oder Fens-ter, schim-pfen oder schimp-fen, 
+Bra-tsche oder Brat-sche, jedoch nicht: ma-tschig, O-bstes, Mo-nde. Meiner 
+Meinung sollte man in diesen Fällen beide Sprechtrennungen beim Schreiben 
+gleichwertig erlauben.
+
+
+Irgendwie doch. Man ist versucht, einen Konsonanten anzuhängen, mindestens 
+einen plötzlichen Kehlkopfverschluss wie ihn das Dänische kennt und das 
+Deutsche am Wortende eben nicht. Folgt dagegen ein Konsonant, wird man den 
+zum Abschluss des Vokals hernehmen.
+
+Mit dem oben Gesagten widerspreche ich teilweise dem, was ich in einem 
+anderen Beitrag über kurze offene Silben gesagt habe. Ich muss also 
+differenzieren:
+
+ - Im Deutschen werden kurze Vokale in aller Regel mit Konsonant im selben 
+   Wort beendet, und dieser Konsonant wird mindestens als *auch* zur 
+   selben Silbe wie der Kurzvokal gehörig angesehen.
+
+ - Daraus den Schluss zu ziehen, Wörter mit Doppelkonsonanten hätten einen 
+   längeren oder sonstwie anderen Konsonanten als solche mit einfach 
+   geschriebenem Konsonanten, ist trotzdem falsch. Der Doppelkonsonant 
+   bezeichnet die Vokalqualität und -länge, nicht die Konsonantenqualit�t 
+   oder -länge. Außerdem ermöglicht er beim Schreiben eine Silbengrenze 
+   im Konsonanten, die entsprechend beim -sch-, -ch-, -ng- vermisst wird.
+
+-- 
+Denis Véron

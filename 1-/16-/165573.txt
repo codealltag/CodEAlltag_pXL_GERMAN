@@ -1,0 +1,12 @@
+[...]
+
+
+Der Satz müsste allerdings noch leicht umformuliert werden, damit er
+auch grammatisch in Ordnung ist. 
+Mögliche Zeichensetzungen wären dann diese:
+
+        Was ich mich frage, ist, ob die Rechtschreibung ...? 
+        Was ich mich frage, ist: Hat die Rechtschreibung ...?
+
+-- 
+Theda Engleder

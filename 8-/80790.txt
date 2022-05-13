@@ -1,0 +1,19 @@
+Eine Web-URL, wie Othmar schon sagte.
+
+OK, ich habe jetzt an Situationen gedacht, wo http davorsteht; da ist
+"www." in der Regel redundant und nur zusätzliche Tipparbeit. Im
+Fließtext oder gar gesprochen ist das wieder anders.
+
+Ich will auch keine Vorschrift dagegen, sondern nur eine Empfehlung.
+Viele Seiten, die ich regelmäßig benutze, haben es bereits
+fallengelassen. Wo auf einer Site mehrere Angebote gemacht werden, ist
+für die Subdomains www. sogar eher unüblich, scheint mir (also kaum
+www.buwpl.cgpkhoj.yce, sondern in der Regel gbxia.lomzxeg.rnp).
+
+-- 
+er (Detlef) hiez im ein t�renkleit
+an der stete machen:
+von wunderl�chen sachen
+einen roc selts getan
+und eine gugelen daran
+         E. N. KOSCHITZKI Detlef

@@ -1,0 +1,5 @@
+Es bietet sich auch für größere, "runde" Zahlen an: zwanzig, ...,
+hundert, tausend.
+
+-- 
+Henry "margit" Brormann                          lftao@evgw.buin.ar

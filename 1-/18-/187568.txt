@@ -1,0 +1,43 @@
+[So, jetzt wird mir das sogar für desd zu off-topic und ich leite um]
+
+
+Nein. Vermutlich hat Dich die seltsame Notation verwirrt: Es schaut wie
+ein Shellscript aus, würde als Shellscript aber nicht funktionieren
+(Scriptkiddie-Sicherung?). Das soll(t)en Systemcalls sein.
+
+Nimm an, wir hätten folgendes Filesystemlayout
+
+inode pfad
+2     /
+10    /jail
+20    /jail/app
+25    /jail/app/config
+27    /jail/app/data
+
+Unsere Applikation (app) läuft in einem chroot mit Root-Directory
+/jail/app. D.h. der Prozess sieht den Inode 20 als /, die Inodes 25 und
+27 als /config und /data, die Inodes 2 und 10 gar nicht. Das Working
+Directory sei der Einfachheit halber gleich dem Root-Directory. Da Inode
+20 das Root-Directory des Prozesses ist, zeigt ".." ebenfalls auf Inode
+20 (und nicht auf 10, wie das physisch der Fall ist).
+
+
+Jetzt wollen wir aus dem Jail ausbrechen. Wir rufen also 
+    chroot("/data")
+auf. Nun ist das neue Root-Directory das mit dem Inode 27. Unser
+Working-Directory is nach wie vor das mit dem Inode 20, und das ist
+jetzt kein Root-Directory mehr, sondern ein ganz normales Directory,
+daher komme ich mit ".." auf Inode 10 und mit "../.." auf Inode 2, das
+echte Root-Directory. Und von dort kommen wir dann überall hin. Das
+wars.
+
+chroot könnte auch das Working Directory ändern, aber das reicht nicht.
+Solange ich noch irgendein Directory außerhalb des neuen Root-Directorys
+offen habe, kann ich mit fchdir dorthin wechseln und bin damit wieder
+draußen.  chroot könnte alle Filedescriptoren, die auf ein Directory
+außerhalb des neuen Root-Directorys zeigen (zum Überprüfen einfach
+solange ".." folgen, bis man entweder beim alten oder neuen
+Root-Directory ankommt) schließen. Da fällt mir momentan keine Umgehung
+ein, aber wahrscheinlich liegt das nur an meiner mangelnden Fantasie.
+
+	hp

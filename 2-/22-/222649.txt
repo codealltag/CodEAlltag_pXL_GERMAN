@@ -1,0 +1,20 @@
+Wenn ich die Sache jetzt richtig verstehe, wird dein Blog mit
+Spambeitr�ge bombardiert. Wenn du dich dagegen sichern willst,
+musst du verschiedene technische Änderungen in der Kodierung der
+Blog machen.
+
+Du kannst in dem Formular ein Feld einlegen, das (intern) "Name"
+heisst. Dieses Feld muss das Attribut "Hidden" haben, so dass es
+von Menschen nicht gesehen wird. Bei der Kontrolle vom Formular
+wird der Beitrag blokiert, wenn das Feld ausgefüllt worden ist.
+
+Das richtige Feld zum Namen heisst intern viellecht "Classics", aber
+wird auf den Schirm mit "Name" präsentiert.
+
+Es gibt andere Methoden, mit den man supplieren kann, aber jetzt
+verstehst du vielleicht, welchen 'Weg' man gehen muss, um sich
+gegen Blogspam zu sichern.
+
+-- 
+Gruß
+Benedikt, Dänemark

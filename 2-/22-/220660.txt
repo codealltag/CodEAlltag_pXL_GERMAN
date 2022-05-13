@@ -1,0 +1,16 @@
+* Frédéric Grag:
+
+
+Neben der zitierten Erwähnung im Text ist es das letzte Wort der
+Liste in der Karte, mit hellblauem Kreis als Markierung. Diese
+Marke findet sich auf der Karte direkt oberhalb des Wortes
+"Jasberg".
+
+Die Karte ist viel zu klein, um die Zerfaserung dieses Begriffs
+angemessen darzustellen. Wie hast Du es denn gelernt?
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

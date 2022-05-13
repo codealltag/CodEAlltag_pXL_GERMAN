@@ -1,0 +1,39 @@
+Das "nicht etwa" suggeriert, dass es immer verkappte Plurale oder 
+verkappte Genitive sind. In der Tat sind es zumeist Formen, die mit 
+morphologischen Mitteln gebildet werden, mit denen sonst Plurale oder 
+Genitive gebildet werden, wenn auch nicht immer die Plurale und Genitive 
+der betreffenden Wörter.
+
+Es gibt also die Fälle:
+
+(0) Wort im Singular ohne Endung: Wildschweinbraten
+(1) Morphologisch wie ein Genitiv des Wortes gebildet: Schweinsbraten
+(2) Morphologisch wie ein Genitiv gebildet, jedoch gibts diese 
+    Genitivbildung nur für andere Wörter: Liebeskummer
+(3) Morphologisch wie ein Plural des Wortes gebildet: Schweinebraten
+(4) Morphologisch wie ein Plural gebildet, jedoch gibts diese
+    Pluralbildung nur für andere Wörter: Mausefalle
+
+Außerdem Formen, die hinsichtlich Genitiv und Plural mehrdeutig sind: 
+B�renschnitzel
+
+"Nur als Plurale [...] zu bezeichnen" sind dann wohl die Formen nach (3) 
+und (4) unabhängig davon, ob semantisch mehrere Exemplare des Erstglieds 
+gemeint sein können (Häuserzeile, Mütterberatung) oder nicht 
+(Schweinebraten, Schlangenbiss). Nachdem diese Plurale weder morphologisch 
+noch semantisch Plurale sind, ist es wohl besser, hier auf die zufällige 
+Ähnlichkeit zu Pluralen nicht abzuheben.
+
+Allerdings scheint zu gelten:
+
+ - Wird -er als Fugenlaut verwendet, so tritt Umlaut ein, falls möglich 
+   (wie bei Pluralen).
+
+ - Wird -er als Fugenlaut verwendet oder Tritt bei der Zusammenfügung 
+   Umlaut ein, dann handelt es sich tatsächlich um eine gültige Pluralform 
+   des Erstglieds.
+
+Gibts dafür Gegenbeispiele?
+
+-- 
+Carsten Reisenbüchler

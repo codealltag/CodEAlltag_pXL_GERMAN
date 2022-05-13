@@ -1,0 +1,30 @@
+Hallo Ihno,
+
+
+Du sprachst von _einem_ Prozeß, dessen Workingset größer ist, als der
+verfügbare Hauptspeicher.
+
+
+Ohne Paging bekommst Du damit aber eben den Prozeß schlicht gar nicht in
+den Hauptspeicher, selbst wenn alle anderen Prozesse daraus verdrängt sind.
+
+
+Beim Swapping bekommen sie ja wohl entweder ihr komplett Speicherabbild
+unter oder gar nichts. Natürlich haben sie dann auch immer ihren Workingset
+im Speicher.
+
+
+Natürlich. Wenn der Hauptspeicher kleiner ist, als der Workingset aller
+Prozesse, die quasi gleichzeitig laufen sollen, dann tut sich da nur sehr
+wenig. Das kriegt man aber mit Swapping auch nicht in den Griff, weil der
+Workingset dadurch nicht kleiner und der Hauptspeicher nicht größer wird.
+Bei Batch-Systemen kann man dann einzelne Prozesse suspendieren (was man
+aber auch kann, wenn man paged), aber für interaktive Systeme bietet sich
+das eher nicht an. Und da swapping heißt, alle Seiten eines Prozesses zu
+verdrängen und später wieder zu laden, kann das auch gar nicht effektiver
+sein als Paging, denn auch da verdrängst Du ja maximal alle Seiten eines
+Prozesses. Mut aber in den allerseltensten Fällen auch alle wieder laden.
+
+Gruß Veit
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

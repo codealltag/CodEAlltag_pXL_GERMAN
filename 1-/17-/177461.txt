@@ -1,0 +1,12 @@
+Schick das mal durch einen XML-Parser. Ein intelligenter merkt, daß es nur
+einen Thorsten geben kann, und meldet „Improper nesting of elements“ zurück. 
+
+
+vG
+
+-- 
+"Drossard hatte recht! Aber Rechthaber können die Deutschen gar nicht
+leiden. Deshalb sagt der Deutsche: Ja, der Drossard, der hat vielleicht
+zwei Mal recht gehabt, wie oft will er denn noch recht haben? Da wähl ich
+doch lieber den Westerwelle, der hat noch nie recht gehabt!" (Othmar
+Widenmann, "Bis neulich")

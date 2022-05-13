@@ -1,0 +1,3 @@
+"recht" = "rechtmäßig", "rechtlich zulässig"
+
+"billig" = "angemessen", "steht in einem vernünftigen Verhältnis"

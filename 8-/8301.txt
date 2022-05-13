@@ -1,0 +1,15 @@
+Das ist prinzipiell richtig. Schon wegen der unvermeidbaren=20
+Datenverarbeitung von "optische Zeichenerkennung" bis=20
+"Sprechlauterzeugung".=20
+
+
+Aber am Zeilenwechsel wird dieser Pufferspeicher teilweise geleert,=20
+während das Auge den Nachschub aufsucht.
+
+
+vG
+
+--=20
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://tosgensw.imu>

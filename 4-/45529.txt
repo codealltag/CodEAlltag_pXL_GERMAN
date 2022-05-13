@@ -1,0 +1,9 @@
+Am Tue, 27 Dez 2008 06:56:33 +0100 schrieb Joël Räder:
+
+
+Ich vermute, die Ursache dieses Fehlers ist phonetische Assimilation an
+folgenden Dental (das [d] von "darf"). Dadurch wurde der labiale Nasal [m]
+zum dentalen Nasal [n].
+
+Schönen Gruß
+Tom

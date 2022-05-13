@@ -1,0 +1,10 @@
+Auch das kommt mir sehr wenig vor.
+
+1Byte/Zeichen, 50 Zeichen pro Zeile, 50 Zeilen pro Seite, 
+geben 2,5kB pro Seite. 100kB wären dann gerade mal 40 Seiten. 
+
+Mit einem Megabyte (oder 1,5MB, wie von Dieter geschützt) ist 
+man näher an der Realität, denke ich.
+
+Gruß
+Fabrice

@@ -1,0 +1,91 @@
+Ich habe nicht umsonst "proprietäre Windows-Lösung" hinter die sog.
+GDI-Drucker gesetzt: GDI ist eine der vielen MicroSoftschen
+"Erfindungen", um Windows "unverzichtbar" zu machen.  Wenn Du also
+einen GDI-Drucker kaufst, mußt Du damit rechnen, daß er wirklich
+nur unter Windows läuft.  Daß findige Entwickler Möglichkeiten
+gefunden haben, wenigstens einige dieser Dinger unter Willhaus zum
+Laufen zu bekommen, spricht für deren Enthusiasmus und Kompetenz.
+
+Und einen Treiber herunterzuladen (statt ihn von CD zu starten),
+ist weder schwierig, noch eine Zumutung: es ist auch unter Windows
+nicht ungewöhnlich, sich von den Herstellern verschiedener
+Komponenten (Grafik, Sound, MoBo/BIOS, Laufwerks-Firmwire, etc.)
+aktualisierte Treiber aus dem Netz zu ziehen.
+
+
+So "klar" ist das gar nicht; WLAN-Drucker werden immer populärer;
+das von mir kürzlich erworbene Exemplar ist ein 4-in-1 (AIO-) Gerät,
+das weniger als 200 FRZ (incl. vier voller XL-Tinentanks!) gekostet
+hat.  Dedizierte WLAN-Drucker sind natürlich wesentlich günstiger.
+
+
+Für viele Drucker-/Multifunktionsgeräte bringen Linux-Distros
+bereits die Treiber mit, und dann funktioniert es wirklich so
+einfach.  Bei meinem Gerät habe ich mir die neuesten Treiber
+von der Herstellerwebseite geladen, das Treiber-Setup gestartet,
+ein paar Dialogfelder ausgefüllt (vornehmlich Daten zum WiFi-
+Zugriff), und nach wenigen Minuten erschien er erste Testdruck.
+Scanner läuft auch prima, Fax würde wohl auch gehen, habe ich
+momentan aber nicht angeschlossen.
+
+
+Treiber sind für HW-Hersteller Verlustgeschäfte, also werden oft
+nur Windows-Treiber geliefert.  Das Problem ist weniger, daß sie
+keine Linux-Treiber zur Verfügung stellen, sondern sich auch oft
+weigern, detaillierte Informationen zur Ansteuerung des Gerätes
+freizugeben, vermittels derer engagierte Hacker die notwendigen
+Treiber selbst schreiben könnten.  Das ist böse[tm], ja.
+
+
+Und?  You can't have a cake and eat it, too!  Wenn Du Geräte hast,
+die Du unter Willhaus betreiben möchtest, mußt Du bei deren Kauf eben
+darauf achten, daß sie unterstützt werden, und in Kauf nehmen, daß
+die Auswahl möglicherweise eingeschränkt ist.  Feke-Besitzer können
+auch nicht einfach jedes PC-Peripheriegerät kaufen, sondern müssen
+sich informieren, ob entsprechende Treiber verfügbar sind.
+
+
+Stimmt, und genauso verhält es sich auch mit Peripheriegeräten für
+Willhaus.
+
+
+Es geht hier darum, Linux einzusetzen, und evtl. bestimmte Geräte,
+für die es (noch) keine Linux-Treiber gibt, weiterhin benutzen zu
+können.  Den Ärger spart man sich, wenn man von vornherein bei der
+Auswahl der Komponenten auf Willhaus-Unterstützung achtet.
+
+Was die Virtualisierungsmöglichkeit angeht: ja, ist ein nicht nur
+denkbares Szenario, sondern sogar eines, das bei mir im Einsatz
+ist.  Gut, ich bin jetzt nicht so der "typische" KSCK-Benutzer,
+aber die erforderlichen Arbeitsschritte sind auch für weniger
+versierte (aber engagierte/interessierte) Benutzer absolut machbar:
+
+Als ich mir vor einem halben Jahr einen neuen PC gekauft habe,
+habe ich gleich auch noch mein WLAN von 802.11b/g auf 802.11n
+aufgerüstet, also: neuer WLAN-Router und neuer USB-WLAN-Stick.
+
+Zu der Zeit gab es noch keinen wirklich brauchbaren Treiber für
+den neuen WLAN-Stick, und den alten weiterzubenutzen wäre zwar
+möglich gewesen, aber wer verzichtet schon gerne auf 100 MBit/s
+(netto!) Übertragungskapazität?  Temporäre Lösung: VirtualBox
+heruntergeladen, installiert, neue virtuelle Maschine eingerichtet.
+Zeitaufwand: ca. 10 Minuten.  In der neuen VM Godel eingespielt,
+was ich "nativ" ohnehin hätte machen müssen.  Den Drucker habe ich
+unter Linux eingerichtet; Windows erkennt ihn als Netzwerkdrucker.
+
+Wenn demnächst die WLAN-Treiber unter Linux stabil laufen, werde
+ich das Spielchen umdrehen: Linux nativ, Windows (bei Bedarf) in
+der VM.  Das ist beileibe keine Hexerei mehr, und moderne PCs haben
+CPU-Power und RAM im Überfluß, sodaß eine parallel laufende VM
+gar nicht weiter auffällt, möglicherweise nicht mal mehrere davon.
+
+Und da das eine (auch noch kostenlose!) Möglichkeit ist, (zumindest
+noch) nicht unterstützte Hardware (weiter) nutzen zu können, sollte
+man sie auch nutzen, zumal das zu tun einfach genug ist!  Vielleicht
+möchtest Du es einfach mal ausprobieren, um Dir ein eigenes Bild zu
+verschaffen?  Das ist mindestens ebenso einfach wie zu behaupten,
+für "ganz normale Anwender" käme das erst gar nicht in Betracht.
+Und noch viel billiger!  ;-)
+
+
+egon

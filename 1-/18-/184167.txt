@@ -1,0 +1,5 @@
+a = 2; /* assign constant 2 to variable a */
+
+Lacht nicht, selbst gesehen ...
+
+/Roman

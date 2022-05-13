@@ -1,0 +1,30 @@
+Nein. Der Zweck der üblichen Programmiersprachen ist es, den Computer dazu
+zu bringen, etwas zu tun.
+Der Zweck eines Fahrzeugs ist auch nicht das Einhalten der
+Geschwindigkeitsbegrenzung, nur weil man das beim Fahren tun sollte.
+
+
+Wenn man ausführliche Kommentare braucht, um die Konzepte verständlich zu
+machen, ist der Code selbst zu unverständlich.
+
+
+Weil man festgestellt hat, daß das direkte Programmieren in Nullen und
+Einsen, wie man es zu Anfang tat, etwas mühsam ist. Man hat dann formale
+Sprachen definiert, die dem Programmierer die Arbeit wesentlich
+erleichtern, dabei aber auch von einem Rechner in etwas Ausführbares
+übersetzt werden können.
+
+
+Sie haben aber keine Auswirkung auf das erzeugte Programm.
+
+
+Ein Programm ist aber selbst kein Algorithmus. Es ist eine Implementation
+eines Algorithmus.
+
+
+Gängiger als "Elektroschema" wäre der Begriff "Schaltplan".
+
+
+Der Schaltplan ist aber im Gegensatz zum Programm nicht etwas, das man
+einfach so an eine Maschine übergeben kann, so daß hinten ein Fernseher
+herausfällt.

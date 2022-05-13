@@ -1,0 +1,5 @@
+Die weder-noch-Konstruktion "beißt" sich mit der oder-Fügung.
+Schlechter Stil, schlechtes Deutsch!
+
+Mein Vorschlag: Semikolon nach 'sei', statt 'oder' dann "auch nicht"
+oder "ebenso wenig".

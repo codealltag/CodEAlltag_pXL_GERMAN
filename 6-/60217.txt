@@ -1,0 +1,10 @@
+Kann er.
+
+
+Dann sendest Du allerdings auch die harmlosesten ASCII-Beiträge in
+UTF-8. Wenn Dir das nicht recht ist, dann setze nur ISO-8859-1 oder
+ISO-8859-15 oder beides davor. Mehr braucht man in de.* nicht.
+
+-- 
+A chrysanthemum by any other name would be easier to spell.
+  Willi Uibelhör in alt.usage.english

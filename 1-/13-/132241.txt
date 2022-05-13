@@ -1,0 +1,9 @@
+[Monster-Links]
+
+
+"Ästhetisierung" ist bestenfalls eine _Nebenwirkung_, wenn
+man Web-Adressen halt- und für andere nutzbar machen möchte.
+
+Ist ein bißchen wie bei der Einhaltung von
+Rechtschreib- und anderen Konventionen, wenn man
+seine Texte für andere lesbar gestalten möchte.

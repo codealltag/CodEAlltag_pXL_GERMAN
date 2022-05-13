@@ -1,0 +1,15 @@
+Es ist keineswegs verboten, sich als root anzumelden. Es ist nur per
+Grundeinstellung abgeschaltet. Was ein Nutzer, der sudo darf, jederzeit
+ändern kann, ohne Besuch von seiten der Staatsanwaltschaft oder Herrn
+Juengermanns befürchten zu müssen. 
+
+
+Ich finde das bei einem Desktopsystem im Gegentum sehr vernünftig. 
+Wie oft mußt du denn Programme als root ausführen? 
+
+
+vG
+
+-- 
+"Was meinen Sie, was hier los wäre, wenn mehr Leute begreifen würden, was
+hier los _ist_!" (Pius Lemke, "Bis neulich")

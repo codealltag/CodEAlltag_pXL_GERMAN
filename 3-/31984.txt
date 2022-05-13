@@ -1,0 +1,7 @@
+Uwe Ternedde schrieb/wrote/escribió:
+
+Vielen Dank für die Erklärung. Meiner Meinung nach wäre somit gegen
+Adressen wie Egenolf.qf oder mbiypc.mp im Grunde nichts einzuwenden, da der
+feste Bezug TLD <-> Land nicht existiert, sondern umgekehrt ein fester
+und IHMO sinnvoller Bezug zwischen Second Level Domain und TLD
+hergestellt wird, also z.B. Fernsehsender Egenolf und TLD .tv.

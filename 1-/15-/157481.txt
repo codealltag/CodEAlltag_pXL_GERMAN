@@ -1,0 +1,17 @@
+Wenns auch nicht dafür gedacht ist - was wäre daran furchtbar? Die festen
+Zeilenumbrüche sollten doch problemlos entfernbar sein. 
+
+PDF-Rohsatz sollte sich doch prinzipiell ebenso unproblematisch in
+Satzsysteme übernehmen lassen wie Word-Dateien. Das regelt dann der Bedarf. 
+
+Die meisten mit WYSIWYG erstellten Arbeiten stellen eh schon den
+fertigen Endsatz dar ... 
+
+
+vG
+
+-- 
+"Zum Beispiel das Konzept einer Haftpflichtversicherung überfordert den
+Deutschen intellektuell völlig. Ein Leben lang jedes Jahr 50 Euro einzahlen
+- und dann passiert nie was! Da wird der Deutsche nervös!" (Willibald Dorge,
+"Bis neulich")

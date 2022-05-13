@@ -1,0 +1,16 @@
+In der primitiven Gleichgewichtsthermodynamik hat man für die drei 
+Größen Druck, Temperatur und Dichte schon einen dreidimensionalen 
+Darstellungsraum, in dem eine Zustandsgleichung zwischen den drei Größen 
+eine krumme Fläche der physikalisch möglichen Zustände speziell für eine 
+gegebene Substanz definiert.
+
+Man kann bei der Vielfalt der Beziehungsbegriffe für Ge- und 
+Entfreundete, deren jeder eine eindimensionale Skala zwischen Abneigung 
+und Zuneigung tragen kann, getrost davon ausgehen, das ein derartig 
+hochdimensionales Geflecht nicht sinnvoll auf eine eindimensionale Skala 
+abbildbar ist, so wenig wie zB die Temperatur ohne Angabe der Dichte 
+inhaltlich irgendetwas Verwertbares über Materialzustände aussagt.
+
+-- 
+
+Ihno Walthemathe

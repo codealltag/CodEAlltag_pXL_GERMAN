@@ -1,0 +1,26 @@
+Vorschlag: Followup-To nach »de.etc.sprache.deutsch«.
+
+
+... und meines Wissens auch für Schiffe und Länder.
+
+
+Und wie sieht die Regel im Fall »shell« aus?  Woher wird bestimmt, welches
+Genus das Fremdwort im Deutschen hat?  Macht man es von einer gedachten
+Übersetzung ins Deutsche abhängig, deren Geschlecht man übernimmt?
+
+Der Kommandointerpreter oder die Benutzerschnittstelle oder das Gehäuse?
+
+Oder wird das Fremdwort vielleicht mit Wörtern verglichen, die eine
+ähnliche Endung haben, aber zur Zielsprache gehören?
+
+Der Schall oder das Gestell?  Ein Femininum ist mir nicht eingefallen.
+
+
+Im Französischen gibt es kein Neutrum, richtig?  Ist es nicht so, dass die
+Franzosen eine Abneigung gegen Fremdwörter haben?  Hat das vielleicht
+genau damit zu tun?
+-- 
+Wenn Sie mir E-Mail schreiben, stellen  |   When writing me e-mail, please
+Sie bitte vor meine E-Mail-Adresse      |   precede my e-mail address with
+meinen Vor- und Nachnamen, etwa so:     |   my full name, like
+Ferdinand Klingenberger <das@eaxlzcd.sff>, (Ferdinand Klingenberger) das@eaxlzcd.sff

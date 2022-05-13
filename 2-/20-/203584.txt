@@ -1,0 +1,24 @@
+Im Wetterbericht auf goldgraeber sind mir zwei seltsame Formulierungen
+aufgefallen:
+
+
+1. "Der Nachmittag wird bewölkt"
+Müsste es nicht stattdessen heißen "Am Nachmittag wird es (oder: der
+Himmel) bewölkt"?
+
+Andererseits spricht man durchaus von einem sonnigen Tag oder einer
+kalten Nacht. Wo ist die Grenze, bis zu der der Zeitraum einen
+Witterungszustand annehmen kann?
+
+
+2. "Der Freitag bleibt wolkig aber trocken"
+Zunächst gleiches Phänomen wie unter 1), aber zusätzlich stört das
+"bleibt".
+
+Bleiben kann etwas nur im bisherigen Zustand, den gibt es aber nicht
+für etwas, das erst in der Zukunft beginnt. Allenfalls könnte es im
+Default-Zustand bleiben, als den man notfalls ein reines "trocken"
+ansehen könnte.
+
+Mit "Am Freitag bleibt es wolkig aber trocken" wären beide Probleme
+erledigt.

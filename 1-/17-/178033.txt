@@ -1,0 +1,23 @@
+Am 02. 01. 22 22:13, schrieb Fabio Unterreiner:
+
+Bei mir in der Hauptschule wurde Maschinschreiben als Freifach in der 4. 
+Klasse angeboten. Und das 1988. Aber so richtig schnell und blind 
+schreiben hab ich erst 10 Jahre später gelernt (Wiewohl ich seit der 
+Hauptschule immer im 10-Finger-System getippt habe), als ich das 
+Internet und die damals neuen Chatrooms kennenlernte. Beim Chatten mit 
+mehreren Leuten is nix mit 2-Finger-Adler-Suchsystem. Man bekommt 
+einfach nicht mehr mit, was die anderen schreiben, konzentriert man sich 
+auf die Tastatur.
+Insoferne finde ich Chatrooms gar nicht einmal eine so blöde Idee zum 
+trainieren der 10-Finger-Methode.
+
+Wie es heute in der Schule ist, weiß ich gar nicht. Wird da überhaupt 
+ein Tastaturschreibkurs angeboten, oder gehen die davon aus, dass die 
+Kleinen das eh schon daheim am Computer gelernt haben?
+
+lg walter
+
+-- 
+Distribution: RKZ squeeze/sid
+Linux pluto 2.6.32-5-amd64 #1 SMP Mon 02. 01. 22 15 21:35:22 UTC 2011 x86_64 
+GNU/Linux

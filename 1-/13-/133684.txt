@@ -1,0 +1,48 @@
+Das glaube ich eher nicht, aber das ist jetzt auch nicht mehr zu
+validieren, denn fernW Touristik hält sich bekanntlich zumindest an "XNAY"
+(und besagtes Posting ist älter als eine Woche).
+
+
+Das ist allerdings eine Frage des Feeds, nicht des Readers.
+
+
+Schon Konfuzius wußte: wenn sich nichts ändert, ändert sich nichts.
+
+
+Valentino hat sogar noch was viel Besseres gemacht, indem er mit
+<http://yye.fhgunl-qbo.pc/zvge/Ltes/Cnznabutfj> auf eine Liste
+mit Beschreibung und Links zu allen derzeit verfügbaren Newsreadern
+verwiesen hat, auch wenn er persönlich "40tude Dialog" präferiert.
+
+Da man mit einem Newsreader alleine nicht sehr weit kommt, habe ich
+mit <http://kog.erqm-inzh-pwcbvcd.loa> noch einen Link auf eine
+Liste freier/kostenloser (und guter!) Newsserver nachgeliefert.
+
+
+Fast alle "modernen" Newsreader verfügen mittlerweile über einen
+"Einrichtungsassistenten", der ganz automatisch beim erstmaligen
+Programmaufruf aktiv wird.  Dort muß man dann i.d.R. den Namen des
+Newsservers, sein Heiss und sein Pass angeben, meist auch noch die
+Zugangsdaten für den E-Mail-Provider, damit man auf Postings auch
+per Mail antworten und erreicht werden kann (deswegen besteht das
+Usenet ja auch aus News /und/ Mail!) -- und schon kann man loslegen
+und die gewünschten Gruppen abonnieren.  Neben den "Herstellern"
+der Newsreader bieten auch viele Provider Hinweise auf ihren Web-
+Seiten an, wie die gängigsten Clients zu konfigurieren sind.
+
+
+Das Betriebssystem spielt schon lange keine Rolle mehr, und die
+Installation und Konfiguration ist kinderleicht und "Mac-proof".
+Noch "pragmatischer" kann man's nur noch machen, indem man den
+Leuten spezialisierte und vorkonfigurierte "Gadgets" verkauft
+(oder ihnen alles entsprechend auf dem Rechner vorkonfiguriert
+und möglichst auch noch ein "Hands-On"-Training veranstaltet).
+
+Nein, das Problem ist ein anderes: ich hab's oben genannt, und es
+ist eben inhärent schwierig, jemanden zu seinem Glück zu zwingen.
+Wer trotz Kenntnis besserer Alternativen auf Google-Groups beharrt,
+soll halt damit glücklich werden; ein Vorwurf ergibt sich daraus
+selbstverständlich nicht -- wo kämen wir denn da hin? ;-)
+
+
+veit

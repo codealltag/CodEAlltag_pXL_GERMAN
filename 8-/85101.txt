@@ -1,0 +1,12 @@
+Nicht von einer sehr versierten Macianerin. 
+
+
+Aber ich konnte es nachgepr�fen u. zw. auf einem iBook 14", 600 MHZ, PowerPC
+G3, Mac OS X 10.3.9 -- und es ist so:
+Sobald man ein Volume Icon mit dem Mauszeiger fasst und bewegt, ändert sich
+das Symbol des Papierkorbs in das Auswurfsymbol.
+
+So ist das auch heute noch, unter dem neuesten Mac OS X 10.6 Snow Leopard.
+
+-- 
+Quirine Teloo

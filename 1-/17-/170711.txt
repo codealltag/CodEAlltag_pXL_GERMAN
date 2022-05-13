@@ -1,0 +1,7 @@
+Springt er auch automatisch auf utf-8, wenn nötig? Nach meiner Erfahrung 
+scheint es so zu sein, da ich nie Probleme hatte, fremde Schriften 
+durchzukriegen.
+
+Ich fände es am besten, wenn generell immer utf-8 verwendet würde.
+
+Tobias

@@ -1,0 +1,15 @@
+ich denke auch, dass dies eigentlich die exakte Interpretation von dem sein 
+müsste, was dort (wörtlich) steht. Ich glaube aber weder, das dies der 
+Fragesteller gemeint hat, noch das irgendein Kind auf diese Interpretation 
+kommen könnte.
+
+übigens hast du einen Tippfehler: ( A ---> B   )   <=>  �(A /\ B)
+
+Nichtdestotrotz könnte A wahr sein und trotzdem B falsch, damit ist die 
+rechte Seite zumindest nicht allgemeingültig, man kann daher nach gängigem 
+Verständnis _nicht_ sagen: aus A folgt B
+
+denn implizit verstehe ich immer A --> B als �(A /\ B) \-/ (A,B)e \omega
+
+genauso wie ich (x > 4) => (x > 5) auch immer als mit dem Zusatz behaftet 
+"für alle x" verstehen würde und dann wäre es natürlich falsch

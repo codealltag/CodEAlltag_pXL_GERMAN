@@ -1,0 +1,25 @@
+Die Regel, indem sie die Ausnahmen explizit aufzählt, z.B.
+
+  Ablaut in der Konjugation: er lässt < lassen
+  Konjunktiv: er hätte < er hatte
+  Diminutiv: Häppchen < Happen
+  Steigerung: stärker < stark
+
+... und noch ein paar, auf die ich jetzt nicht gleich komme, aber sicher 
+*nicht*
+
+  Kausativ: hüften < haften
+
+weil das nicht ohne Etymologie abgeht. Das Obige geht zwar nicht ganz ohne 
+Grammatikkenntnisse ab, wohl aber ohne Etymologiekenntnisse -- geschwollen 
+dahergeredet: es ist synchronisch, nicht diachronisch.
+
+Der Grund, warum ich das einer Abschaffung vorziehe, ist das gewohnte 
+Schriftbild bei oft vorkommenden Wörtern. Redundanz -- in diesem Fall die 
+Unterscheidung -�- vs. -e- -- soll Zusatzinformation vermitteln, und da 
+halte ich den Gewinn an Information von "hätte" gegenüber "hette" für 
+deutlich höher als den von "tränken" gegenüber "trenken". Ist aber 
+weitgehend Geschmacksache.
+
+-- 
+Igor Winnemöller

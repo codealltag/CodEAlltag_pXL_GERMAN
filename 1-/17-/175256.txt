@@ -1,0 +1,4 @@
+Das ist nur der Fall beim ausschliesslichen Oder (XOR). Es wird
+"entweder - oder" gesprochen. Dass "entweder" üblicherweise nicht
+weggelassen wird, sieht man an "entweder es regnet oder nicht". In
+meinen Ohren klänge es jedenfalls ohne "entweder" falsch.

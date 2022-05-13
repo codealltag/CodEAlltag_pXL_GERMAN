@@ -1,0 +1,5 @@
+Stimmt natürlich - meine Iterationstiefe war zu klein. ;-)
+Bin halt bei der 1. Bedingung aus der Denkschleife ausgebrochen. 
+
+Servus,
+Paul

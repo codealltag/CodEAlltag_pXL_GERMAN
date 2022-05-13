@@ -1,0 +1,13 @@
+Das ist ja auch richtig. In der Wikipädie werden gewöhnlich die 
+zweibuchstabigen Abkürzungen nach ISO 639-1 verwendet und die 
+dreibuchstabigen nach ISO639-x mit x>1 nur, wenns keine zweibuchstabigen 
+gibt. Die hier erwähnten Sprachen grc, la=lat, lt=lit, lv=lav, ru=rus, 
+cs=ces[=cze], sk=slk[=slo], sl=slv, sh=hbs, fa=fas[=per], fr=fra[=fre] 
+haben bis auf eine auch zweibuchstabige Abkürzungen. Die eckig 
+eingeklammerten sind die aus der Variante ISO 639-2/B für bibliographische 
+Anwendungen, die den englischen Namen der Sprache zugrundeliegen haben.
+
+Siehe auch http://anu.xgq.kcw/sic535-7/faxyx.asd
+
+-- 
+Mehmet Conradt

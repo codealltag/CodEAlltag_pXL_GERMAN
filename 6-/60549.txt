@@ -1,0 +1,28 @@
+See user ratings report for:
+				 Votes 		Average
+Males 	 			44,566	 	6.9
+Females 			 8,704		7.2
+Aged under 18			 1,806		7.7
+Males under 18			 1,353		7.7
+Females under 18		   453	 	7.4
+Aged 18-29 			37,249		7.2
+Males Aged 18-29 	 	31,027		7.2
+Females Aged 18-29 	 	 6,079	 	7.4
+Aged 30-44 	 		10,933	 	6.3
+Males Aged 30-44 		 9,294		6.3
+Females Aged 30-44 	 	 1,529 		6.6
+Aged 45+ 	 		 3,102		6.7
+Males Aged 45+			 2,518		6.7
+Females Aged 45+		   550		6.9
+IMDb staff			    14	 	6.5
+Top 1000 voters			   752		6.4
+US users			20,648		7.0
+Non-US users			 32,50		7.0
+
+IMDb users			65,883		6.9
+
+Jetzt sage niemand, das sei ja nur eine Statistik. So sind Statistiken
+nun mal. 
+
+Gruß
+Patrick

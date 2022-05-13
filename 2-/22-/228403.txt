@@ -1,0 +1,10 @@
+Falls das als Frage gemeint sein, Fragezeichen hat's ja ausreichend, die
+Erklärung dürfte sein, dass dein Agent vermutlich Probleme hat, die
+korrekt als UTF-8 deklarierten Zeichen zu entschlüsseln.
+
+
+Ciao
+Hertha
+-- 
+ Dumpfbacke, Dünnbrettbohrer, Weichei - Abführ'N
+ [Stoppok]

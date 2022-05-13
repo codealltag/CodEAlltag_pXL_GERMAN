@@ -1,0 +1,8 @@
+In der Industrie spricht man salopp vom "Eda-Prinzip" das manchmal als 
+"Ehda-Prinzip" geschrieben wird, da verrät die Schreibweise schon die 
+wörtliche Bedeutung: zufällig bereits vorhandene Ressourcen werden für 
+ein Projektziel eingesetzt, obwohl sie nicht eigens dafür beschafft wurden.
+
+Ich glaube, diese Verwendung ist nicht regional gebunden.
+
+Kurt

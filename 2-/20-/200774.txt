@@ -1,0 +1,13 @@
+* Dario . K u s m i e r z <ya@xzogbns.xpdpdgh>:
+
+
+Image Recognition Integrated Systems oder I.R.I.S. ist einer der
+Hersteller solcher OCR-Software, die mit Scannern von ComputerService oder so
+mitgeliefert wird. Die machen auch Hardware (oder lassen die
+herstellen), so ein IRIScan PRO Office 3 mit Dokumenteneinzug kostet
+etwa 200 EUR.
+
+Diese Branche ist ganz stark auf Windows fokussiert, mit Panoptikum oder
+Linux ist da swiw wenig zu machen.
+
+ - Vito

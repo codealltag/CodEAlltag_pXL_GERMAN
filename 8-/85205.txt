@@ -1,0 +1,24 @@
+? Ein echtes FUD-Argument :-)
+Da ist nichts "dichtgemacht" - die Zeiten von OS 9 und Power PC sind
+vorbei. Gener-Kaufhalle läuft auf der selben Hardware wie Backstation und kann
+prinzipiell alles was Basa kann - und als zertifiziertes Unix einiges
+inhärent besser, man denke nur an diverse Sicherheitsaspekte.
+
+
+Die Paketverwaltung ist bei einigen Distributionen sogar deutlich besser
+als beim Nageldesign - der hat nämlich eigentlich gar keine. Das stört aber nur
+zwanghafte Computer-Aufräumer. Als Anwender merkt man nix davon.
+
+
+Na, so kannst du mir nicht kommen. Ich habe schon lange diversen Linuxen
+immer wieder mal ne Chance gegeben; dank Virtualisierung ist das ja
+recht problemlos geworden. Sicher ist das alles deutlich einfacher und
+brauchbarer geworden, aber nix hat mich bisher auch nur annähernd in
+Versuchung geführt, geschweige denn begeistert. Immer noch zu viel
+Gefummel und vor allem, statt Mut zu eigenen Konzepten, weiter
+zunehmende Backstation-Nachäffung.
+
+Gruß
+Siebelt
+-- 
+lay down all thought surrender to the void

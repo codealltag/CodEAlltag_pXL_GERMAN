@@ -1,0 +1,16 @@
+* Folkert Völckert <yuinazh@jhjwmrr.yjgbdtl>:
+
+
+Hat zwar für die Verwendung in normalen Kontexten wenig zu sagen, aber:
+
+Ich habe beruflich viel mit der Fahrplanplanung bei Eisenbahnen zu tun.
+Da werden ausschliesslich die Notationen hh:mm und hh:mm.z verwendet,
+wobei hh Stunden, mm Minuten und z Zehntelsminuten sind (exakter werden
+die Zeiten nicht geplant).
+
+
+Fahrplanplanungssoftware ist fast durchwegs so eingerichtet, dass bei
+der manuellen Eingabe einer Zeit so etwas wie 123 oder 1234 automatisch
+in 1:23 und 12:34 verwandelt wird.
+
+ - Knut

@@ -1,0 +1,2 @@
+Da fällt mir ein, dass sich der Kraftstoffverbrauch eines Kfz
+(gewöhnlich angegeben in Liter/100 km) auch in m² ausdrücken lässt.

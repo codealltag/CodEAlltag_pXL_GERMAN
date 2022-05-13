@@ -1,0 +1,30 @@
+Am Wed, 05. 12. 22 06:39:45 UTC,  schrieb Benedikt Dienstag 
+<dtulegfbrd@gra.mcr>  auf de.etc.sprache.deutsch :
+
+
+  etwa so:
+
+
+  ?
+
+
+  ein funktionierender Newsreader kopiert nur das, was der Schreiber 
+als das Maximum für seinen Kommentar erforderliche markiert hat. Wenn 
+der das nicht kann: RFC stellen oder austauschen gegen 
+funktionierendes. 
+
+
+MfG,
+L.K.
+
+-----------------------------------------------------
+Gewinnen und verlieren in einer Diskussion können sich 
+vernünftigerweise nur beziehen auf Gewinn an Erkenntnis und Verlust 
+von Vorurteilen. Wer meint, es ginge um Gewinnen von Plätzen in der 
+Hackordnung und Niedermachen eines "Gegners", sollte sich begraben 
+lassen. 
+
+
+[1] RFC in diesem Zusammenhang: "Request for Change". Schrieb ich so, 
+weil ich früher viel mit _solchen_ RFCs zu tun hatte, lange vor dem 
+Internet.

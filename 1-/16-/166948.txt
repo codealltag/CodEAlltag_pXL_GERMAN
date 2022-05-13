@@ -1,0 +1,10 @@
+$FLORIAN_RITTER = "vG"; 
+
+
+v"daspassiertwennmanzuvielmitvariablenarbeitet"G
+
+-- 
+"1,5 Milliarden DM damals für die DDR. Da sind die noch mal 6 Jahre lang
+mit ausgekommen. Mit 17 Millionen Insassen. Da können Sie mal sehen, wie
+ordentlich die da gewirtschaftet haben: das reicht bei der Plattfuß
+keine zwei Tage!" (Tom Scherpke, "Bis neulich")

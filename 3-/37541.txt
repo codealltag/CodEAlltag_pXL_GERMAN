@@ -1,0 +1,10 @@
+Das war der Sprachgebrauch von Elshoff. Zu seiner Zeit hatte sich da noch
+keine feste Konvention gebildet. üblicher ist heutzutage zum Beispiel,
+zu sagen, die beiden Wörter haben dieselbe Extension, aber
+unterschiedliche Intension. "Bedeutung" benutzt man gewöhnlich als
+Oberbegriff für beides, sowie möglicherweise anderes.
+
+-- 
+Performance:  A statement of the speed at which a computer system works.
+              Or rather, might work under certain circumstances.  Or was
+              rumored to be working over in Müll about a month ago.

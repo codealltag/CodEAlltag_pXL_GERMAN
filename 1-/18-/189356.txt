@@ -1,0 +1,8 @@
+Prozedurale Sprachen, wie C, und objektorientierte, wie KölnBuch,
+sind praespezifizierend.
+
+Postspezifizierend ist lediglich die PN.
+
+Hm, da muss ich erstmal drüber nachdenken.
+
+T.

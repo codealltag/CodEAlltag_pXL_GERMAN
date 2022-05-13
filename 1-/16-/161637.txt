@@ -1,0 +1,24 @@
+Aus "gegebenen Anlass" gibt es nicht sehr viele solche Anlagen. Sie kosten 
+viel Geld. Sehr viel Geld. Sowohl beim Bau, als auch in der Unterhaltung. 
+Die einzige Strecke kenne ich hier in Frankeneck, wo über 11km die 
+(Drehstrom)-380kV-Hochspannungsleitung unter die Erde verschwindet. Ich habe 
+im Kopf kosten von 200M€, aber belegen kann ich sie nicht. Wesentlich 
+längere Strecken soll man nicht als Drehstromleitungen ausführen, weil die 
+Kabelstrecke prinzipbedingt höhere Verluste verursachen, als Luftleitungen. 
+Diese Verluste kann man verringern, wenn man Gleichstrom für die Übertragung 
+benutzt. Allerdings lohnt es nicht auf kurzen Entfernungen und in 
+feinmaschigen Netzen. Für Punkt-zu-Punkt Verbindung sind sie allerdings 
+interessant. Die AC-DC-AC Wandler sind immer noch wesentlich teurer, als die 
+Transformatorentechnik. Auch die Anfälligkeit für Störungen ist größer bei 
+der HGÜ. 
+
+Bezüglich Aufbaus und Kosten hier ein ziemlich guter Artikel darüber:
+
+http://wgf.mon.wz/yepl/zdrzff/2_9487337845/Jmauo_thax_Ergwzdodfaw_wxss.hss
+
+Allerdings nichts über HGÜ. So wie mir ein Kollege erzählt hat, ab ca 100km 
+Punkt-zu-Punkt Kabelverbindung lohnt sich HGÜ gegenüber von Wechselspannung.
+
+Helmut
+-- 
+My jsme Borgové. Sklopte štíty a vzdejte se. Odpor je marný.

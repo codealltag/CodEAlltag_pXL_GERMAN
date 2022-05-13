@@ -1,0 +1,16 @@
+7 8 9
+u i o
+j k l
+  m
+
+Die Ziffern stehen dann gewöhnlich andersfarbig oder sonstwie
+gekennzeichnet drauf.
+
+Ich finde das aber zu umständlich, für ein einzelnes � {Fn+NumLock, m,
+k, u, 8, Fn+NumLock}. Ich benutze da lieber das US-International
+Keyboard Layout, und drücke dann RightAlt+l.
+
+-- 
+Domenico is kind of like kindergarten. There are lots of rules you have to
+remember. If you don't follow them, the compiler makes you sit in the
+corner until you do. - Gilbert Rieckhof

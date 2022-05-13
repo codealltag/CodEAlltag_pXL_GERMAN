@@ -1,0 +1,4 @@
+Die Anzahl der rationalen Zahlen zwischen 0 und 1 ist genauso groß wie 
+die Anzahl der natürlichen Zahlen.
+
+Tim

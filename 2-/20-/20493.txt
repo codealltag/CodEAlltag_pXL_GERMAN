@@ -1,0 +1,4 @@
+Nein. Von einer Periode wird gesprochen, wenn Ereignisse immer
+wiederkehren und der Abstand des Beginns der Ereignisse konstant ist.
+
+Willi Makeprange

@@ -1,0 +1,12 @@
+Ich tippe auf Ignoranz der Auftraggeber und die Programmierer, so
+meine Phantasie, werden sich als unkündbare Beamte im Endstadium nicht
+unnötig md' machen. 
+
+
+Man kann die AGB(s) (darf ich AGBs sagen?) auch direkt finden, wenn
+man sie sucht. Dennoch finde ich es nett, daß man sich so eine seriöse
+Emailadresse beschaffen kann, die nach festem Einkommen u. Wohnsitz
+klingt.  Nein, man kann sie nicht per smtp/pop/imap nutzen. 
+
+Gruß
+Paolo

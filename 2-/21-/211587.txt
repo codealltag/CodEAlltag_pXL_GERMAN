@@ -1,0 +1,27 @@
+Doch. Sie stammt aus der Zeit, wo die Reklame sagte: bei Paging kommst du 
+mit weniger physischen Speicher aus, als dein Programm eigentlich braucht. 
+Das dürfte nach wie vor nicht stimmen, es sei denn man hat (a) zwischen 
+Haupt- und Hintergrundspeicher nochmal einen Cache von fast (d.h. bis auf 
+höchstens eine Größenordnung) Hauptspeichergeschwindigkeit und (b) davon 
+soviel, dass der tatsächliche Hauptspeicherbedarf dann wenigstens vom 
+Cache gedeckt wird. Das war aber viel später.
+
+Die älteren Systeme, mit denen ich gut vertraut war, hatten *kein* Paging, 
+sondern haben es dem Programmierer überlassen, selbst Programmteile und 
+Daten auszulagern und zurückzuholen. Die generelle Erfahrung war, dass 
+Paging demgegenüber für dieselbe Leistung um den Faktor 6 bis 8 mehr 
+physischen Speicher braucht, weil Paging-Algorithmen viel blöder sind als 
+ein guter Programmierer, der das Verhalten seiner Anwendung kennt.
+
+Um den Rahmen des Vorangegangenen abzustecken: das letzte Betriebssystem 
+ohne Paging war Control Data NOS, bei uns eingestellt 1990. Die letzten 
+Systeme hatte 128 MB Hauptspeicher und haben damit gleichzeitig rund 40 
+langlaufende Batchjobs und ein- zweihundert Terminals durchaus anständig 
+bedient, es sei denn, man wollte am Terminal zwischen zwei Interaktionen 
+wirklich rechnen (die Beschränkung auf 60 sec pro Minute und CPU galt 
+damals schon). Eingeswappt (in NOS-Jargon "eingerollt") waren meist um die 
+10 bis 15 Jobs meist für kurze Dauer, so um knappe Sekunden, jedoch 
+langlaufende Jobs seltener und länger.
+
+-- 
+Knut Oberdieck

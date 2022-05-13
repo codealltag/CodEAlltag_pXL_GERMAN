@@ -1,0 +1,18 @@
+Wilhelm hat den deutschen Satzbau schon erläutert.
+
+Englisch kennt im Aussagesatz auch andere Wortstellungen als SVO. An
+erster Stelle ist die Inversion zu nennen:
+  "Neither can we accede to your claim."
+  "Rarely had his eyes beheld such a sight."
+Zur Betonung kann auch das Objekt vorangestellt werden:
+  "This I don't know."
+  "I hate oranges, but apples I'll eat."
+
+Diese Wortstellungen sind markiert, aber im Alltag in geringer
+Häufigkeit anzutreffen.
+
+Das Ergebnis einer Korpusanalyse über deutsche und englische Texte
+zum relativen Anteil verschiedener Satzstellungen wäre interessant.
+
+-- 
+Sascha "renate" Böhmer                          ufils@xkvm.rebg.lr

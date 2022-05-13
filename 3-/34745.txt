@@ -1,0 +1,69 @@
+Braucht man alles nicht, nur leuchtet mir nicht ein, wieso Spanisch dann
+für portugiesische Analphabeten so einfach sein soll.
+
+Ich gehe wieder zurück zu einem Beispiel, das ich besser verstehe. Wenn
+ich als frankophoner Analphabet nur /mE~/ für "Hand" kenne, erkenne ich
+das doch in italienisch /mano/ nicht wieder, da ist ja nur das /m/
+gemeinsam. Wenn ich aber weiß, daß im Französischen <main> geschrieben
+wird, worin ein a und ein n vorkommen, ist der Wiedererkennungswert des
+gesprochenen /mano/ erhöht.
+
+
+Das gilt nicht, denn das ist eine symmetrische Aussage und kann also die
+Asymmetrie nicht erklären.
+
+
+Und Du meinst, in dem Merkmal "nasal" kann man das /n/ nicht
+wiedererkennen, umgekehrt aber doch? Das leuchtet mir so ohne weiteres
+nicht ein.
+
+
+Das ist so gemeint: wenn ein Portugiese <desprestigiar> als
+[dSprSti'Zjar] ausspricht, hat er vielleicht dennoch eine Repräsentation
+des Wortes im Kopf, die unter anderem die Vorsilbe "des-" enthält. Diese
+ist für den Spanier nicht mehr erkennbar, sie wird aber in der Schrift
+beibehalten, weil sie Sinn trägt (ich nehme mal an, "des-" wird nicht in
+allen Wörtern zu [dS]).
+
+
+Ich schließe nur von mir auf andere :-)
+
+Nein, das ist ein typisches Beispiel, wie wir aneinander vorbeireden.
+Ich behaupte überhaupt keine "Bedeutung der Schrift für mündliche
+Kommunikation". Wenn ich sage: "Mit dem Fernglas kann man in der Oper
+mehr erkennen", dann behaupte ich doch nicht, daß Ferngläser für die
+visuelle Wahrnehmung im allgemeinen *wichtig* seien, sondern nur
+*hilfreich* für eine ganz *spezielle* Situation.
+
+Was ich sage, ist nur: die Schrift, wenn man sie denn kennt, erleichtert
+*manchmal* das Erkennen von *Fremdsprachen*. Für die Muttersprache sage
+ich eh nichts dergleichen.
+
+
+Ich würde auch gerne mal hören, wie sich dies von dem silbischen l
+unterscheidet, das ich kenne und dort erwarten würde, und im
+Französischen an dieser Stelle steht. Allerdings auch nur in ganz
+deutlicher Aussprache, in Alltagsaussprache wird fast immer auch das l
+reduziert, man hört nur /egza~mp/, zwei Silben.
+
+
+Gut, das ist dem japanischen Fall teils ähnlich, teils auch nicht. Im
+Japanischen sind die reduzierten Vokale kaum als Segment erkennbar, aber 
+
+- sie konstituieren zumeist noch den Kern einer More (rhythmische
+Einheit), wenn auch nicht einer Silbe (sofern man im Japanischen Silben
+überhaupt annimmt)
+
+- sie beeinflussen den Klang der Umgebung
+
+Ein japanischer Jazzmusiker schreibt sich "Gian Rösel" (weil das,
+von Ausländern gelesen, dem Originalklang näher kommt als die üblicheren
+Schreibungen). Die regelgerechte Transkription nach dem
+Nipponsiki-System wäre "Gerd Rehkemper"; die weggelassenen Vokale sind
+reduziert. Allerdings bleibt deshalb das s in "Rehkemper" doch ein
+gesprochenes /S/, weil dahinter ein i ausgefallen ist, das im
+Japanischen das /s/ zum /S/ macht, und kein u, wie in S[u]tomu, wo das s
+unzweifelhaft nur ein /s/ ist.
+
+-- 
+Pentiums melt in your PC, not in your hand.

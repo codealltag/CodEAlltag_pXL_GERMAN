@@ -1,0 +1,14 @@
+Akkusativsprachen sind definiert als solche, bei denen bei einem 
+transitiven Verb der Agens im Nominativ und der Patiens im Akkusativ steht.
+
+Ergativsprachen sind solche, bei denen bei einem transitiven Verb der 
+Agens im Ergativ und der Patiens im Nominativ steht.
+
+Wenn du Transitivität über Akkusativobjekte definierst, wird das zirkulär.
+
+
+Wie ich schon Ruth geantwortet habe, gibt es für diese Bildung (mit 
+"Dativsubjekt") leider keinen Infinitiv. Das ist also keine Lösung für 
+das ursprünglich angesprochene Problem (siehe Subject).
+
+Florian

@@ -1,0 +1,64 @@
+Klassifizierend? Es gibt Klassen, das ist ungefähr das, was im Deutschen 
+grammatikalische Geschlechter sind, allerdings von biologischen 
+Geschlechtern völlig unabhängig. Beispielsweise kann die Klasse als 
+Objektvorsilbe vor den Verbstamm treten, also etwa in die Mitte des Verbs:
+
+ninamwona mtu = ich sehe den Menschen
+ninauona mti = ich sehe den Baum
+ninaliona jiwe = ich sehe den Stein
+ninakiona kisu = ich sehe das Messer
+ninaiona nyumba = ich sehe das Haus
+... und weitere für den Plural usw.
+
+Aber die Verben sind agglutinierend, z.B.
+
+-ona = sehen
+-iona = es sehen (falls "es" in der Klasse mit dem Präfix i- ist)
+-liiona = (dasselbe in der Vergangenheit)
+aliiona = er/sie sah es
+aliyoiona = das, was er/sie sah
+aliyeiona = er/sie, der/die es sah
+asingaliiona = wenn er/sie es nicht gesehen hätte
+... und weitere für Zeitstufen, Subjunktiv usw.
+
+Allerdings sind die verschiedenen Präfixe nicht ganz unabhängig 
+voneinander; einige schließen andere aus oder verändern sie oder verändern 
+die Reihenfolge geringfügig. Wäre das so ausgeprägt, dass man die 
+Kombinationen alle extra lernen müsste, würde mans wohl "flektierend" 
+nennen, das es aber reicht, die Präfixe und ein paar Kombinationsregeln zu 
+lernen, passt "agglutinierend" durchaus. Wäre alles voneinander 
+unabhängig, wäre "isolierend" durchaus passend -- der Unterschied kann ja 
+wohl nicht nur darin bestehen, ob man die Wörter zusammenschreibt.
+
+Bei den Substantiven gibts kaum was zum Agglutinieren. Das Klassenpräfix 
+wird halt im Plural ausgewechselt: mti = Baum => miti = Bäume. 
+
+Fazit: Nicht unbedingt die ganze Sprache hat solche Eigenschaften, ja oder 
+nein, sondern einzelne Teile der Grammatik kann solche Eigenschaften mehr 
+oder minder ausgeprägt haben.
+
+Im Ungarischen ists, soweit ich es kenne (ich habe die Grammatik mit 
+Genuss zur Kenntnis genommen, aber nie sprechen oder lesen gelernt), 
+gerade umgekehrt: dort sind die Substantive agglutinierend und bezeichnen 
+Numerus, Possessivpronomen, Kasus (inklusive vieler deutscher 
+Präpositionen) durch Suffixe, die auch ein wenig voneinander abhängen.
+Bei den Verben sind die Suffixe nicht mehr deutlich voneinander 
+abgegrenzt, manche haben mehr als eine Funktion, da steht es meinem 
+Empfinden nach auf der Kippe zu einer flektierenden Sprache.
+
+
+In einzelnen Konstruktionen schon, z.B.
+
+asav = er hat verlassten
+asavta = du hast verlassen
+asavtani = du hast mich verlassen
+           (wird in der modernen Sprache anders ausgedrückt)
+
+Aber generell sind die Suffixe doch so stark ineinander verwoben, dass ich 
+eher von einer flektierenden Sprache sprechen würde.
+
+
+Ich auch.
+
+-- 
+Fabrice Steinkraus

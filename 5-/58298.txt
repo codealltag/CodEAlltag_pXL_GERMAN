@@ -1,0 +1,7 @@
+Die Ziffer, die üblicherweise mit diesen schwarzen Pixeln: 8
+dargestellt werden kann, ist die abstrakte Idee. Es gibt vielen
+anderen Pixel-Kombinationen, die auch die Ziffer darstellen
+können.
+
+-- 
+Gruß, Fabrice

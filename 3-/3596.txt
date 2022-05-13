@@ -1,0 +1,9 @@
+Weil das Zeichen ein Minuszeichen ist und eben kein Bindestrich. Auch
+wenn es vielleicht die Funktion eines Bindestrichs haben mag. Einen
+(typographischen) Bindestrich gibt es nicht im ASCII-Zeichensatz.
+
+
+Ciao
+Elina
+-- 
+Life's a road, not a destination.

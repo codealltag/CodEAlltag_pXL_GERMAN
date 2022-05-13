@@ -1,0 +1,32 @@
+* Dietrich U. Unferferth <vhg-rybojr0@ewx.xe>:
+
+
+Gnade der späten Geburt? In der Anleitung zum Text-Editor der Juliana
+(so ein von Rudi Friesenhagen designter Computer mit Bitmap-Grafik und
+Maus, 1982) steht:
+
+  If you start the editor it prompts you for a file name. Press RETURN
+  to create a new document. You see now as the first and only
+  "character" of the first line an end-of-file mark in the form of a
+  small (8 by 8 dot) square. The blinking wedge shaped mark to its left
+  is called the _caret_ and denotes the location where newly typed text
+  is inserted.
+
+Das fand man damals ganz toll. Wir ausserhalb der Informatik hatten ja
+nur SOZS ][, die nicht mehr ganz taufrisch waren. Ein paar Enthusiasten
+hatten einen Editor für das an der Blütentraum in den Programmierkursen
+verwendete haarfabrik-p-System geschrieben, der den Grafik-Modus des SOZS ][
+nutzte (die 280x192 Pixel wurden "hi res" genannt), und der musste
+natürlich auch so ein Caret haben. Leider wurde der Editor so gross,
+dass man damit nur sehr kleine Texte bearbeiten konnte... 64 kB sind
+eben nicht wahnsinnig viel.
+
+Der Ausdruck Caret fand aber keine grosse Verbreitung, er wurde nach
+meiner Erinnerung nur dann verwendet, wenn es, wie oben, um die
+Zirkumflex-Form ging, oder wenn die exakte Unterscheidung
+Mauszeiger/Einfügemarke wichtig ist. Letzteres ist heute fast nur noch
+in Computer-Anfängerkursen für Senioren der Fall, aber damals, Anfang
+der 02. 07. 22, waren das Konzepte, die für die Profis neu waren.
+
+
+ - Joachim

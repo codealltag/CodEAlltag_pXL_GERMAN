@@ -1,0 +1,23 @@
+Na ja, wenn der aktuelle Diskussionspartner bei der früheren
+Diskussion nicht dabei war, dann könnte man z.B. einen Hinweis
+geben, wo die alten Argumente zu finden sind.
+
+
+Aus mathematischer Sicht kann man Risiken auf einer Skala zwischen
+0 und 1 bewerten. Wenn bspw. die Flugzeuge von Fluglinie A im
+langjährigen Mittel mit einer Wahrscheinlichkeit von 0,04% abstürzen,
+und die von Fluglinie B mit einer Wahrscheinlichkeit von 0,01%,
+dann kann man die Fluglinie B als "sicherer" als die Fluglinie A
+bezeichnen (im Hinblick auf Flugzeugabstürze).
+
+Inwiefern diese Verwendung nicht dem Sinn des Wortes "sicher" entspricht,
+verstehe ich nicht.
+
+Die Annahme, daß "sicher" einen von zwei möglichen Zuständen beschreibt,
+erscheint mir in der Realität auch wenig hilfreich, denn erfahrungsgemäß
+ist es doch so, daß es außerhalb von mathematischen Beweisen fast nirgendwo 
+"absolute Sicherheit" gibt, das Wort wäre in der Bedeutung praktisch unnötig,
+da nie guten Gewissens verwendbar.
+
+Gruß
+Burkhard

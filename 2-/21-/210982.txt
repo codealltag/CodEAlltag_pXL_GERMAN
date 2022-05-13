@@ -1,0 +1,12 @@
+Es ist mir noch nie begegnet, dass ein "Delegat" etwas anderes sein
+könnte, als ein Mensch -> ein Delegierter, ein Delegat -> ein Gesandter,
+ein Bevollmächtigter.
+
+Insofern erscheint es mir komisch, dass, wie du schreibst, "in der
+Programmierung", nicht das Objekt selbst als Delegat bezeichnet wird,
+sondern dessen Zustellungsort.
+-- Das lese ich jedenfalls aus deinem Satz heraus.
+
+
+-- 
+Pierrette Bichelmeier

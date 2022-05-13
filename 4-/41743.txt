@@ -1,0 +1,20 @@
+Auf die Zahlen kommts überhaupt nicht an; sie sind nur praktisch, weil man 
+für verschiedene, gleichzeitig, aber asynchron ablaufende Vorgänge eine 
+gemeinsame Skala hat. Die fatale Folge ist allerdings, dass Geschichte von 
+schlechten Lehrern (und das scheint eine erkleckliche Anzahl zu sein) und 
+von noch schlechteren Kultusbürokratien als synchron vermittelt wird. Die 
+Frage "was geschah zwischen 1750 und 1770?" ist sinnlos, könnte aber in 
+einer Schulstunde behandelt werden, die mit dem Entrollen der 
+Geschichtskarte jener Zeit beginnt. Interessanter wäre "was verstand man 
+zwischen Otmar dem Andree und Veit unter einem König?".
+
+Die andere Frage, ob man überhaupt etwas lernen sollte, was über das 
+Grundwissen eines Rindviehs hinausgeht -- die wissen sehr genau, welche 
+Gräser und Kräuter essbar sind und welche nicht -- ist damit nicht 
+beantwortet. Ich meine, überflüssiges Wissen ist das, wovon abstrahiert 
+wird. Hat man nichts zum Abstrahieren, taugt die Abstraktion auch nichts 
+(z.B. die Schul-Mengenlehre, wenn es keine real vorkommenden Mengen gibt, 
+sondern nur solche, die zwecks Mengenlehre definiert werden).
+
+-- 
+Italo Dierke

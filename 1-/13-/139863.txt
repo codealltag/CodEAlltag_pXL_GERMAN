@@ -1,0 +1,13 @@
+Als ich noch ganz neu auf dem ZX81 und zarte 14 Jahre alt war, hab ich mich
+darüber gewundert, daß der einen Buchstaben, der doch aus 64 Pixeln
+besteht, in einem Byte von bekanntermaßen 8 Bit abspeichern konnte. 
+
+Irnkwann ging mir dann aber doch mal das Konzept Zeichensatz auf. 
+
+
+vG
+
+-- 
+"Das ist Große Koalition: Die einen sagen, wir brauchen ein Auto; die
+anderen sagen, wir brauchen ein Motorrad; was wird gekauft? Ein Mülleimer!
+Großartig! Super!" (Viktor Campmann, "Bis neulich")

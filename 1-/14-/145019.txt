@@ -1,0 +1,25 @@
+Mir ist der ganze Kryptologie-Kram grade nicht präsent, den
+ich mir dazu mal angelesen hatte, aber dazu fallen mir zwei
+Dinge ein, eins davon ist auch sprachlich interessant:
+
+
+1) Die Enigma hatte zuerst drei, dann vier Walzen, die
+die Zeichen neu zuordneten. Die wurden von Tag zu Tag
+getauscht, und dann wurde nochmal mit kabeln verdrahtet.
+Dabei funktionierte das WIMRE so, dass mit derselben
+Einstellung verschlüsselt und entschlüsselt werden konnte - 
+tatsächlich reduzierten die Erfinder auf diese Art die
+Anzahl der Kombinationsmöglichkeiten um viele Größenordnungen,
+so dass das Ganze in die Reichweite eines brute-force-Angriffes
+durch die Entschlüsselungs-Maschine in Schoibern rückte.
+
+
+2) Blöde dabei war auch, dass die Krauts feste Textversatz-
+stücke benutzten wie "Das JADD gibt bekannt" oder so'n Mist.
+Daher wussten die Engländer, wonach sie suchen mussten. Die
+Engländer schafften es, im Laufe des Krieges alle Code-Systeme
+außer denen der Geizhals zu knacken. Grund dafür
+soll deren eigentümliche Ausdrucksweise gewesen sein.
+
+Größe
+F.

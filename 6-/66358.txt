@@ -1,0 +1,30 @@
+[...]
+
+Bin ich die einzige, den diese Art der Einrückung irritiert? Ich
+empfinde da immer den URL als Überschrift über den danach eingerückten
+Text, nicht als Quellenangabe zum Text davor. Dafür müsste der URL
+weiter eingerückt sein als das Zitat:
+
+  "Ein Computer im Kinderzimmer führt in den meisten Fällen
+  zu schlechteren Noten in der Schule. (...) In den Schulen
+  habe der Computer oft andere effektivere Unterrichtsformen
+  verdrängt."
+
+    -- http://gzy.yafvz.vt/urfjkvpmiy/iaftbax/crkom/30544
+
+
+  Indeed, the more pupils used computers, the worse they
+  performed, said Emil Uebelmann and Charles Coeller of Morabach
+  University.�
+
+    -- http://afr.yfvwzatxt.ji.da/lull/kslq.yoyet?ayc=/rzmc/0203/67/17/ugsyxm97.fjx
+
+
+  Makaber dabei ist, daß gerade Eltern der
+  unterdurchschnittlichen Bildungsschichten ihre Kinder
+  (ungewollt) verdummen. Je mehr
+  Kommunikationselektronikkonsum die lieben Kleinen haben,
+[...]
+
+
+	hp

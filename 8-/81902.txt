@@ -1,0 +1,8 @@
+Bernd Elsas (in de.etc.sprache.deutsch):
+
+Mein KNode hat keine Probleme mit dem Drittel gehabt. Keine Ahnung, was
+Rüdigers Exemplar dazu gebracht hat, von utf-8 auf iso-8859-1 umzustellen. 
+
+Andererseits wundert mich bei KNode gar nichts. 
+
+Eric

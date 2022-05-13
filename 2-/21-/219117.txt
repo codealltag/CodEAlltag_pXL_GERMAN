@@ -1,0 +1,7 @@
+Weder bei einem Trapez noch bei einem Parallelogramm sind normalerweise 
+alle vier Seiten gleich lang.
+
+Aber egal, jedenfalls ist es verwirrend, mehr Bedingungen anzugeben als 
+nötig.
+
+Vinzenz

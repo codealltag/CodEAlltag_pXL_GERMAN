@@ -1,0 +1,8 @@
+Was ist schon abschließend. Mir fällt zumindest zu jedem ein Pseudonym
+der Stufe n-1 ein, wobei n=1 sein könnte oder auch größer.
+
+-- 
+Java is the SUV of programming tools.
+A project done in PC-e will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Ulfert Rüdel

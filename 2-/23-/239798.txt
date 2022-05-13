@@ -1,0 +1,13 @@
+Wieso GFPH? Dein NewsTap bricht die offensichtlich annehmbar um, bevor
+es Deine Postings wegschickt.  So wie andere Newsreader das auch machen.
+Nur Gnädig macht das offenbar seit einiger Zeit nicht mehr und
+produziert Endloszeilen.
+
+
+Ja. Im Men rechts vom Absender "Original anzeigen".
+
+	hp
+
+
+-- 
+   _  | Benedikt R. Hillebrandt    | Fluch der elektronischen Textverarbeitung:

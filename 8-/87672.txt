@@ -1,0 +1,16 @@
+Prozentpunkt stellt die Differenz zwischen zwei Prozentwerten dar.
+Dies dient vor allem der Unterscheidung zur prozentualen Differenz, die
+eine relative ist. 
+
+Beispiel: 
+Wie wird ausgedrückt, dass eine Ware ihren Marktanteil von 10 Prozent auf
+18 Prozent erhöht hat?
+Hat sie nun 8 Prozent mehr Marktanteil? Oder 80 Prozent mehr Marktanteil? 
+
+
+Paul Gröhne
+-- 
+Er will sie nicht?
+Er, will sie nicht?
+Er will, sie nicht?
+Er will sie, nicht?

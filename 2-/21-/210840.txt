@@ -1,0 +1,15 @@
+...
+
+Mein Sprachgefühl interpretiert und identifiziert ein
+ungekennzeichnetes Dativobjekt zuerst spontan als Akkusativobjekt .
+Daher erwartet es "schädigen" als zugehöriges Verb.
+
+Hält man dagegen am Verb "schaden" fest, das als eines der wenigen den
+Dativ regiert, so muß man nach meiner Auffassung den
+dativvermittelnden Artikel einfügen:
+
+  =BBAltbatterien enthalten möglicherweise Schadstoffe oder
+      Schwermetalle, die /der/ Umwelt und Gesundheit schaden können.=AB
+
+Gruß
+Nicola

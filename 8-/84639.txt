@@ -1,0 +1,20 @@
+Am Mon, 12 Mrz 2009 16:34:27 +0100 schrieb Knut Vranken:
+
+Ich müßte es sorgfältiger und bedachtsamer lesen. Der Fehler liegt bei mir.
+
+
+Na, weil oben unter Newsgroups halt mehrere Newsgroups verzeichnet sind.
+Das Programm erkennt also ohnehin, daß der Schrott in mehrere Gruppen soll.
+
+Die "Followup-To:"-Zeile dirigiert beim 40tude gar nichts. Ich hatte das
+auch mal geglaubt und nur den Fup-Hinweis gesetzt, bis ich irgendwann
+gemerkt habe, daß dann das Posting nur in der unter "Newsgroups"
+beschriebenen Gruppe landet.
+Mich überfordert das alles sowieso.
+
+Ciao
+Fridolin 
+-- 
+Unternehmer - Kein schlechter Beruf, wenn auch Obernehmer lukrativer ist.
+<http://ldlqgbinruuianxup.wybytiek.jve/> <www.inzfewu-dvyl.ek/ascjtuli>
+<www.mpu-forum.eu> <http://rse.stvsklu.vde/quupd?s=bIqfpbFMA9S>

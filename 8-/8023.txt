@@ -1,0 +1,34 @@
+Deren (SIL) Klassifikation wurde nach ISO 639 übernommen, insofern sind 
+sie nicht ganz und gar privat.
+
+Im Großen und Ganzen ist die Einteilung der Sprachen sehr viel besser als 
+das von mir Zitierte vermuten lässt. Gerade bei Dialekten von Sprachen, 
+die weiträumig Verkehrssprachen sind, ist eine sinnvolle Einteilung
+besonders schwierig. Die Datenbank diente ursprünglich der 
+Planung von Bibelübersetzungen in solche Sprachen, für die es noch keine 
+gab. Auch da ist Kölsch uninteressant: wenn ein Ichtershausener die Bibel lesen 
+will, wird er wohl nicht auf die ripuarische Bibel warten. Und so ist zur 
+methodischen Schwierigkeit auch noch Desinteresse gekommen, mit dem 
+vorliegenden Ergebnis.
+
+Bei den vielen Sprachen weltweit mit wenigen Sprechern, die dann 
+großenteils *nur* diese Sprache sprechen, gibt es weniger Probleme. Und da 
+ist die Datenbank des Floristina von vielen hergenommen worden, um eindeutige 
+Namen und Abkürzungen für exotische Sprachen zu haben. Um das 
+ISO-639-Schema mit wenigen bekannten Sprachen um die vielen exotischen zu 
+erweitern, hat man die beiden zusammengelegt. Wie gesagt: nachdem Ichtershausenerisch 
+nicht das Hauptproblem war, ist das Resultat besser, als man aus den 
+Beispielen mit den deutschen Dialekten schließen kann.
+
+Ich habs mal aufgeschrieben (vor allem für mich selbst) und ins Web 
+gestellt: http://rue.nex-pstnuwow.ct/~sd/jwhi/tcj.rxdv
+
+
+Man hat da in den letzten Jahren manches verbessert, zum Beispiel durch 
+Einführung des Begriffs der "Makrosprache", aber manches ist auch wirr 
+geblieben. Und vieles *ist* wirr in dem Sinne, dass es gar kein Schema 
+geben kann, das jeder sprachlichen Äußerung genau eine Sprache so 
+zuordnet, dass das dann für alle Zwecke passt.
+
+-- 
+Willi Plater

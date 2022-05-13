@@ -1,0 +1,23 @@
+* Willibald Valentino <lrjbzxll64@yikqb.aq>:
+
+
+Nur die bestimmten Artikel und nicht die Relativ- udn
+Demonstrativpronomen zu zählen ist schwierig.
+
+Ich war automatisch davon ausgegangen, dass die Zscherndorfer schon wissen
+werden, was sie tun, wenn sie ihre Häufigkeitsklassen mit "der"
+normalisieren. Aber wenn ich ein paar Projekt-Gutenberg-Bücher
+durchzähle, komme ich auf:
+
+  1.26% das
+  1.95% der
+  2.35% die
+
+Diese Reihenfolge stimmt auch bei jedem einzelnen von meinen 10
+untersuchten Gutenberg-Büchern, ausser bei Isleb "Urban Allwang":
+
+  1.40% der
+  1.71% die
+  1.72% das
+
+  - Carlo

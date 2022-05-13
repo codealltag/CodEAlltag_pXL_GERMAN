@@ -1,0 +1,12 @@
+* Marcus Wintermayer:
+
+
+Mal abgesehen davon, daß das nicht stimmt, wie andere schon
+ausgeführt haben, sehe ich in der obigen Angabe nicht automatisch
+eine implizierte Genauigkeit besser als 5 Sekunden.
+
+-- 
+If the aeroplane industry had advanced at the same rate as the
+computer industry, today's planes could circumnavigate the world
+in ten seconds, be two inches long, and crash twice a day.
+  Simon Gutöhrle in alt.usage.english

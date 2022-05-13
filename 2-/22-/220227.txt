@@ -1,0 +1,12 @@
+Ohne weiteren Zusammenhang verstehe ich das als "ohne Kabel, mit
+Netzteil". Ob genau ein Kabel fehlt oder deren mehrere und woran
+diese genau angeschlossen würden, bleibt offen. Es könnte also z.B.
+ein Drucker sein, der mit Netzteil geliefert wird, aber ohne ein
+Kabel zum Anschluss an den Rechner.
+
+Aber in einem konkreten technischen Zusammenhang kann das auch etwas
+ganz anderes bedeuten, siehe Wolfs bissige Antwort mit dem
+Fischtrawler.
+
+-- 
+Lennart "silvia" Eschholz                          yorpf@mlpc.vtxl.uk

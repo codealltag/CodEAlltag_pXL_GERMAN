@@ -1,0 +1,17 @@
+Ja, links ist da wo Daumen rechts, Schiffe haben aber keine Daumen und 
+die Maschine sitzt auch meist mittschiffs.
+
+Modern gesehen haben Objekte eine Orientierung, wenn sie gegen die 
+Spiegelung an Mittelebene unsymmetrisch sind. Steuer- und Backbord ist 
+hingegen eine historische funktionale Beschreibung. Auf der einen Seite 
+sass das Steuer, auf der andern ist die Ladeseite.
+
+Bei Raumschiffen ist es dagegen schon wieder viel schwieriger, die 
+wissen nichtmal, wo oben und unten ist. Ein Pilot muss für Steuermanöver 
+getrennte Begriff für das bordfeste und das raumfeste System haben, 
+sonst weiß man hinterherbeim Abhören der Blackbox nicht einmal, was 
+gemeint gewesen sein könnte.
+
+-- 
+
+Roman Piepenburg

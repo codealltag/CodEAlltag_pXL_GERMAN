@@ -1,0 +1,42 @@
+Das ist alles richtig, aber irrelevant, weil hier nach der Reihenfolge der 
+*anderen* Satzglieder gefragt wurde.
+
+
+Das heißt, es gibt unauffällige Wortstellungen, auffällige Wortstellungen 
+zur Hervorhebung und Betonung sowie Wortstellungen, die so auffällig sind, 
+dass sie als "Blüten" empfunden werden. Dass kurze Pronomina früh kommen, 
+Akkusativ vor Dativ (kaum umzudrehen: ich habe es ihm gegeben) und längere 
+Objekte später, Dativ vor Akkusativ (zur Betonung auch umzudrehen: ich 
+habe meinem Bruder das Buch gegeben; wenn das mit dem Buch schon bekannt 
+ist, der Empfänger aber nicht, kann mans umdrehen), ist eine ziemlich 
+feste Regel, von der selten abgewichen wird. Hier ist "sich" kurz genug, 
+"dieses" aber nicht.
+
+Diese Regel gilt auch im Hauptsatz mit Verbzweitstellung:
+
+  Finites Verb: fragen
+  Infinite Verben: (keine)
+  Rest in unauffälliger Reihenfolge: sie - sich - dieses
+
+Jetzt kann man irgendeines aus dem Rest nach vorne ziehen, dann das Verb, 
+dann den Rest vom Rest, den aber unbedingt in der alten Reihenfolge:
+
+  Sie fragen sich dieses.
+  Sich fragen sie dieses. (ein bisschen verquer)
+  Dieses fragen sie sich.
+
+aber gar nicht:
+
+  Sie fragen dieses sich.
+  Sich fragen dieses sie.
+  Dieses fragen sich sie.
+
+Gäbe es noch infinite Verben (Partizipien, Infinitive), kämen sie nach 
+dem "Rest" und keinesfalls woanders.
+
+  Sie haben sich dieses gefragt.
+  Sich haben sie dieses gefragt.
+  Dieses haben sie sich gefragt.
+
+-- 
+Victor Ullen

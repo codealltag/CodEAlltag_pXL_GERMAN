@@ -1,0 +1,21 @@
+Daniela Jentgen:
+
+
+Etwas schon, Aber ich habe alle Felder auf einer Zeile:
+
+[Titel]       [Vornamen]   [Präfix] [Nachnamen]       [Titel]
+
+....und heute haben mir (in einer Testumgebung) doch tatsächlich zwei 
+Mitarbeiterinnen gesagt, dass sie dies verstehen.
+
+
+...wenn man schon bei einer Analyse feststellen könnte, wie dieses 
+Skript die Einzelteile erkennen kann. Ich wüßte nicht wie.
+
+
+Auch hier muss man zunächst feststellen wie aus "falschen Daten" 
+richtige erstellt werden können. 
+
+-- 
+Thorsten
+[der übrigens von der Resonanz hierzugruppe begeistert ist]

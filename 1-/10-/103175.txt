@@ -1,0 +1,73 @@
+Wie Eric schon schrieb, ist weder das Internet noch diese Newsgruppe dafür
+da, den Lehrer zu ersetzen, der seinen Job nicht oder nicht richtig macht. (Es
+kann natürlich auch an der Schülerin liegen, falls sie nicht mitgearbeitet hat.)
+
+
+Das ist genial. Nämlich genial verwirrend, und man kann es nicht verstehen,
+wenn man es nicht schon vorher verstanden hat.
+
+Also noch mal langsam:
+
+Wenn da jemand oder etwas ist, der etwas tut, ist die Sache einfach: "Wer oder
+was tut etwas?" Dabei kann die Tätigkeit auch recht faul sein wie bei "Das
+Buch liegt auf dem Tisch", wo eben "liegen" die Tätigkeit ist und "das Buch"
+das Subjekt.
+
+Wenn da nur jemand oder etwas ist, dem etwas angetan wird, kann man 
+meistens immer noch "wer oder was" fragen, aber man muss aufpassen, dass man
+die Frage nicht falsch stellt. Siehe unten.
+
+Warum finde ich die Erklärung, die ich eben zitiert habe, so verwirrend? Weil
+"Wem wird etwas angetan?" genau so eine falsch gestellte Frage ist. Geht man
+damit etwa auf den Satz "Mir wird ein Brief geschrieben" los, bekommt man so
+*nicht* das Subjekt heraus. Siehe unten.
+
+
+Ja, es ist immer ein Verb, und immer ein finites, also eines, das sich in
+seiner Form nach dem Subjekt richtet; nicht finit sind Infinitive (aha!) wie
+"lesen" oder Partizipien ("lesend", "gelesen"). Manchmal sind es mehrere
+Verben, dann ist immer genau eines davon finit (in "ich wäre spazieren
+gegangen" das "wäre", in "ich hätte spazieren gehen sollen" das "hätte").
+Eigentlich gehören in diesen Fällen alle Verben mit zum Prädikat.
+Wahrscheinlich sind aber Aufgaben für Drittklassler eher so gestellt, dass es
+nur ein Verb gibt.
+
+Wenn man die Verben, besonders das finite, hat, kann man eine Frage mit "wer
+oder was" stellen und findet als Antwort das Subjekt. Die Beispiele von oben:
+
+  Wer oder was liegt auf dem Tisch? Das Buch.
+  Wer oder was wird mir geschrieben? Ein Brief.
+  Wer oder was wäre spazieren gegangen? Ich.
+  Wer oder was hätte spazieren gehen sollen? Ich.
+
+Hier waren die Fragen schon der vollständige Satz ohne Subjekt -- um die Frage
+zu stellen, musste man das Subjekt schon kennen. Sicherer wäre es, die Frage
+*nur* mit dem finiten Verb zu stellen. Sie sind dann kein schönes Deutsch
+mehr, nehmen aber auch nicht die Antwort schon halb vorweg:
+
+  Wer oder was liegt ...? Das Buch.
+  Wer oder was wird ...? Ein Brief.
+  Wer oder was wäre ...? Ich.
+  Wer oder was hätte ...? Ich.
+
+Manchmal kann es vorkommen, dass man die Frage "wer oder was" nicht stellen
+kann. Dann gibt es eben kein Subjekt -- allerdings wird man hoffentlich die
+Drittklassler nicht mit solchen Sätzen in einer Prüfung ärgern. Beispiele:
+
+  Damals wurde viel gearbeitet. Wer oder was wurde ...? Höh?
+  Mir ist schlecht. Wer oder was ist ...? Höh?
+
+Die Antwort auf "wer oder was" muss den Satz unverändert lassen, das ist
+wichtig.
+
+  Den Kindern wird vorgelesen. - Wer oder was wird ...? (Kein Subjekt)
+  Den Kindern wird von der Oma vorgelesen. Wer oder was wird ...?
+   (Immer noch kein Subjekt, auch die Oma nicht, weil die Antwort nicht
+    lautet "Die Oma wird ..." sonder "Von der Oma")
+  Den Kindern werden Märchen vorgelesen. - Wer oder was wird ...? Märchen.
+
+Also: im Zweifel immer erst das Verb suchen und *danach* mit "wer oder was"
+danach fragen, auf wen oder was sich das Verb bezieht.
+
+-- 
+Hannes Averdiek

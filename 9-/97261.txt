@@ -1,0 +1,7 @@
+Die Halbgruppe braucht kein neutrales Element zu haben, das Monoid schon.
+
+Fand ich immer verwirrend, dass das Dng, das "-gruppe" mit im Namen führt, 
+das wenger gruppenähnliche ist.
+
+-- 
+Diedrich Branz

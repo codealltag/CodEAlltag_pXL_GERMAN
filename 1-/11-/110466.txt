@@ -1,0 +1,5 @@
+Die Verwendung von fatal ist fast immer ein fataler Irrtum.
+
+-- 
+
+Manfred Zurmühle

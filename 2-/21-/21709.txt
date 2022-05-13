@@ -1,0 +1,14 @@
+Ich hätte noch diese Version: 
+Wenn ich aus einer Reihe 1-2-3-4-5-6-7-8-9-10 eine Reihe "einer nach dem
+nächsten" aufstelle, dann erhalte ich:
+
+       1 - 2
+       3 - 4
+       5 - 6
+       7 - 8
+       9 - 10
+
+Also eine Zweierreihe.
+
+-- 
+Katharina Talam

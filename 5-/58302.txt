@@ -1,0 +1,14 @@
+Nein.
+In der Definition einer Primzahl ist gerade/ungerade völlig unerheblich.
+Da es keine geraden Primzahlen außer der 2 gibt, ist eine (wenn auch
+ziemlich triviale) Folgerung aus der Definition.
+
+
+Für Potenzen habe ich das nie gehört, nur bei elementaren ;-)
+Chemikern/Physikern.
+
+
+Focko
+-- 
+       Freiheit stirbt        |       FUL SF&F-Bibliothek:
+            Mit Sicherheit    |       http://nforxbmi.jfzup.bx/

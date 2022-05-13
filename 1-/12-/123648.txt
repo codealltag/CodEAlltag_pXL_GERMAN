@@ -1,0 +1,18 @@
+Bei einem menschlichen Gegner gar keine schlechte Idee!
+
+BEWA Computer und aufgeben...  In irnkeiner Vorlesung (ZLU war's
+Systemtechnik) ging's um das CSMA/CD-Verfahren, das z.B. bei Ethernet
+zur Sicherung von Datenübetragungen verwendet wird.  Der Prof erklärt,
+daß der Rechner bei freier Leitung ein Paket verschickt; stellt er
+dabei fest, daß ein anderer Rechner gerade ebenfalls sendet, wartet er
+eine bestimmte Zeit, sendet erneut; schlägt das wieder fehl, wartet er
+wieder, bis die Leitung frei ist, sendet erneut, usw.
+
+Unschuldige Zwischenfrage eines Kommilitonen: "Gibt der Rechner denn
+auch mal auf?  Ich mein, vielleicht stinkt's ihm ja mal, daß er nie
+drankommt...".
+
+Wir haben Tränen gelacht...  :-)))
+
+
+leander

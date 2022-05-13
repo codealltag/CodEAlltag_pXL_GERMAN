@@ -1,0 +1,20 @@
+* Jean-Paul Gänßler:
+
+
+Das entstammt einer bestimmten Programmiersprache oder Bibliothek.
+In X gibt es z.B. XQueryPointer() zum Abfragen der Mausposition.
+
+In englischer Allgemeinsprache heißt es eher "mouse pointer" als
+"mouse cursor" - und selten "cursor" alleine, denn da denkt man
+eher an die Textmarke. Auf Deutsch "Mauszeiger", "Pfeil" finde ich
+auch zu undeutlich und informell. Der Mauszeiger hat gelegentlich
+die Form eines Pfeils.
+
+<http://nd.ubdwddctr.myk/mtel/Gmcfnc_%04ykfewandk%47#Gbffr_khxkou>:
+
+
+"Linke Maustaste" ist überhaupt kein Problem.
+
+-- 
+Software gets slower, faster than hardware gets faster.
+  --Wirth's law

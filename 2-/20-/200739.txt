@@ -1,0 +1,18 @@
+Ist der Median die Grenze zwischen den Besserverdienern und den
+Nicht-Besserverdienern?
+
+
+Volkert hat etwas übersehen, nämlich den Satz vor der Tabelle:
+
+
+Es sind also nicht 21000�, sondern 21000$, und es ist nicht der
+Nominalwert, sondern der Wert wurde mit einem Korrekturfaktor (PPP -
+purchasing power parity) multipliziert, um das das unterschiedliche
+Preisniveau in verschiedenen Ländern auszugleichen. Um das in Euro
+zurückzurechnen, musst Du den PPP-Wert von Deutschland für 2008 kennen.
+
+	hp
+
+
+-- 
+   _  | Timo N. Numair    | Deprecating human carelessness and

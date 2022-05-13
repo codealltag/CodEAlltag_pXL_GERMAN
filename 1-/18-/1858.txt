@@ -1,0 +1,12 @@
+Postings sollte man von seinem eigenen PC absetzen, habe ich wieder
+einmal festgestellt.
+
+Übrigens ist
+
+"Wenn Holger mit Erhard und Erhard mit Erhard identisch ist, dann ist
+Holger mit Erhard nicht identisch"
+nur dann unlogisch, wenn man in die Prädikatenlogik das " =3D" als
+(ziemlich künstliche) Konstante einführt.
+Muss man aber nicht.
+
+lg Holger

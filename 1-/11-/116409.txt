@@ -1,0 +1,20 @@
+Am 07. 06. 22 01:15 schrieb Vincent Zörntlein:
+
+Das ganz Perverse daran ist, dass die gespeicherten Makros
+problemlos funktionieren (nun gut, wahrscheinlich, weil die
+Makros als TOkens und nicht als Text gespeichert werden).
+Aber warum kann man dann den englischen Parser nicht wenigstens
+optional installieren?
+
+
+Was nützt mir der deutsche Tastaturtreiber bei einer englischen
+Tastatur? Ich habe das englische Layout verinnerlicht; die Lage
+der Umlaute müsste ich erraten. Ich hab's mal versucht:
+<ALT>0223 geht deutlich schneller als die Suche nach der Taste
+mit dem �, von ��� ganz zu schweigen.
+
+Schlimm genug, dass ich mich zu Hause dauernd beim Minus oder
+den Klammern vertippe, "auf der Arbeit" könnte ich mir den
+Produktivitätsverlust nicht leisten ;-)
+
+/Valentino

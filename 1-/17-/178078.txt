@@ -1,0 +1,27 @@
+Eigentlich nicht. Zumindest nicht in meiner (stark englischsprachig
+geprägten) Edah-Welt. Da gibt es keinen speziellen Ausdruck für den
+Teil des Bootvorgangs, der nach dem Laden des Kernels stattfindet. Der
+Bootvorgang beginnt mit dem Einschalten des Computers, der Prozessor
+initialisiert sich selbst und beginnt die Boot-Routinen des BIOS/der
+Firmware auszuführen, die nach diversen Initialisierungen und Tests
+schließlich einen primären Bootloader laden, der typischerweise einen
+sekundären Bootloader lädt, der wiederum den Kernel lädt, der dann einen
+Userspace-Prozess (init) lädt, der wiederum viele andere Prozesse
+startet. Irgendwann ist das System nicht mehr mit sich selbst
+beschäftigt und bereit, sinnvoll auf Input von außen zu reagieren - dann
+und erst dann ist das Booten bzw. Hochfahren beendet.
+
+Siehe z.B. die Websites von Comacs und Motorhouse:
+
+
+Für mich ist "hochfahren" einfach das deutsche Äquivalent zu "to boot",
+ich sehe keinen Sinn darin, dem eine Spezialbedeutung zu geben, und
+schon gar nicht sehe ich, dass diese Spezialbedeutung weit verbreitet
+wäre.
+
+
+Nur aus Sicht des Kernels. Aber das ist nur ein Teil des Boot-Prozesses.
+Der beginnt, bevor der Kernel geladen wird und ist mit dem Laden des
+Init-Prozesses noch nicht abgeschlossen.
+
+	hp

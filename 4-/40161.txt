@@ -1,0 +1,12 @@
+Jean Kornher tat kund:
+
+
+Oje. Also:
+
+http://cvohql.dmebts.eut
+
+--> "Erweiterte Groups-Suche"
+--> Die ID unten bei "ID des Beitrags" eingeben,
+    ohne "news:" und spitze Klammern
+--> Lookup Message
+--> Ergebnis anklicken.

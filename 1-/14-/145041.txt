@@ -1,0 +1,42 @@
+Es waren zunächst 3, dann 5 Walzen. Angenommen, die (erstmals) 3
+Walzen stehen auf "CDE". Dann verschiebt Walze 1 den ersten
+Klarbuchstaben um 2 Stellen, Walze 2 um weitere 3 Stellen, Walze 4 um
+4 Stellen. Für den nächsten Buchstaben wird Walze 1 eine Stelle
+weitergedreht - z.B. auf X. Wenn Walze 1 einmal rum ist, wird Walze 2
+um eine Position verändert - usw. Da sich die Walzen in der
+Buchstabenreihenfolge unterscheiden, wird der Ausgangspunkt des
+Schlüssels sowohl von der Reihenfolge der Walzen auch als von der
+Anfangsstellung der Walzen bestimmt. Nach jedem Funkspruch wird die
+Anfangsstellung der Walzen wieder neu eingestellt. Die Reihenfolge der
+Walzen wurde einmal am Tag geändert. Das ist schon eine ziemlich harte
+polyalphabetische Verschlüsselung (mit 17.000 bzw. 11.000.000
+Schlüsseln).
+
+Nach dieser Walzenverschl�sselung war noch ein primitive
+monoalphabetische Verschlüsselung geschaltete (Buchstaben wurden
+gegeneinander ausgetauscht, das war die Kabelverdrahtung). Die diente
+lediglich dem Zweck, dass man einen Text nicht sofort als richtig
+erkennen konnte; kryptologisch sind monoalphabetische
+Verschlüsselungen wertlos.
+
+Die Möglichkeit, gleichzeitig zu ver- als auch zu entschlüsseln,
+bietet jeder klassische Schlüssel. Das beeinflusst die Sicherheit
+nicht.
+
+
+Soweit ich weiß, wurden Marinecodes niemals ohne fremde Hilfe
+entschlüsselt. Fremde Hilfe heißt hier, dass Codebücher erbeutet
+wurden und ähnliches. Aber die Cillys oder gängige Sprüche wie "DAS
+OKW gibt bekannt" waren natürlich eine Sicherheitslücke und sie traten
+wohl vornehmlich beim Heer auf. 
+
+Rückriem berichtet sogar von einer Sicherheitslücke, die ich kaum glauben
+kann. Die Engländer hätten festgestellt, dass die Änderung der
+Walzenreihenfolge eine seltsame Eigenheit aufwies. Niemals wäre eine
+Walze am selben Platz wie am Vortag geblieben. Damit wurde die Anzahl
+der Möglichkeiten natürlich drastisch reduziert (bei 3 Walzen von 6
+auf 2). Nichtmal Abwehrleute können so blöd sein.
+
+-- 
+Viele Größe
+Urban Gfrörer

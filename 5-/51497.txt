@@ -1,0 +1,23 @@
+"zwei gleichen":
+
+A=a & B=a
+
+Das scheint mir eher Deiner Intention zu entsprechen.
+
+
+"zwei gleiche":
+
+A=B, d.h. "zwei identische"
+
+Logisch ist es oft dasselbe - aber es hängt von der Anwendung ab.
+
+CARLO
+
+Passender Witz:
+
+Schüler: "Inwiefern sind die Gleichen gleich?"
+Lehrer: "Sie sind gleich weit voneinander entfernt".
+
+Gruss
+
+Markus

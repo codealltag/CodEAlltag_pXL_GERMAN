@@ -1,0 +1,17 @@
+Es gibt kein Bindestrich, den mann direkt schreiben kann.
+
+Minus		-	ISO-8859-1: Kode 45
+Bindestrich	–	ISO-8859-1: Kode 150
+Em Bindestrich	—	ISO-8859-1: Kode 151
+
+Auf einem Windowssystem kann man den Zeichenübersicht
+hervorrufen, aber man kann auch Alt halten und eine Kode af der
+numerischen Tastatur drücken.
+
+Um den Bindestrich zu schreiben muß man 0150 drücken.
+
+Auf Linux-systemen gibt es ähnliche Möglichkeiten.
+
+-- 
+Timo
+http://tkmpcm.cxbfzqwxhn.if/	COMPAREX: http://ybrzip.co/

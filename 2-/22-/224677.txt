@@ -1,0 +1,4 @@
+Bisher dachte ich, das Web sei definiert als der Teil des Internet, der 
+HTTP benutzt. Ist das nicht so? Erklär mal.
+
+Ivo

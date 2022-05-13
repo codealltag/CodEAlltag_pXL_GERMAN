@@ -1,0 +1,5 @@
+Es gibt so viele Jungspunde, die auf vi abfahren. Als ich Ende der 
+18. 11. 21 nach vielen Jahren Multics-EMACS zum ersten Mal mit Unix und vi 
+konfrontiert wurde, habe ich geweint.
+
+André

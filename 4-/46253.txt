@@ -1,0 +1,49 @@
+Man ändert zunächst nur die Weise, in der die Sprache durch 
+Grammatikregeln beschrieben wird. Von der Sprache selbst ist kein 
+Unterschied zwischen der grammatikalischen Funktion von "Stand" und "Lage" 
+in "ich bin imstande" und "ich bin in der Lage"; die Aufteilung in Wörter 
+ist ein reines Artefakt der Schreibregeln. Auch das zusammengesetzte Verb 
+"spazierengehen" wird zwar grammatikalisch anders beschrieben als die 
+beiden Verben "spazieren gehen", die analog zu "essen gehen" oder 
+"einkaufen gehen" zusammenwirken, aber auch dieser Unterschied ist Folge 
+der Schreibung und nicht deren Ursache. In diesen Fällen bietet also die 
+Sprache selbst mehrere grammatikalische Interpretationen, und die 
+Orthographen dürfen sich eine aussuchen.
+
+In den obigen Fällen ist die Anzahl der Starkt�ne nicht oder nicht 
+unbedingt betroffen: es gibt jedenfalls natürliche Intonationen, die beide 
+Schreibweisen hergeben. Anders etwa bei "die Reform ist schlecht gemacht" 
+und "die Reform wird schlechtgemacht", bei der die Intonation eindeutig 
+ist. Aber es zwingt niemand die Orthographen, die Regeln so festzulegen, 
+dass pro Starkton mindestens ein Wort geschrieben wird (sonst müßte man ja 
+auch "Riesen groß" schreiben). Dass die Starkt�ne nach neuer Schreibung 
+falsch sitzen, kann man also nur behaupten, wenn man die Starktonregel der 
+*alten* Schreibung zugrundelegt, aber die gilt ja gerade nicht mehr. 
+(Immerhin feiert die Starton-Regel seit der Revision der Ehes fröhliche 
+Urständ, und das ist gut so.)
+
+Auch viele Fälle von Groß-/Kleinschreibung gehen nicht eindeutig daraus 
+hervor, was denn nun ein Substantiv sein: Recht haben, Recht bekommen, im 
+Allgemeinen, ... . In solchen Fällen ist auch die Schreibungs�nderung 
+keine Sprachänderung.
+
+Schwieriger wird es bei Konstrukten wie "das ist Besorgnis erregend". Hier 
+ist die eine grammatikalische Deutung, dass es sich um das 
+zusammengesetzte Verb "besorgniserregend" handelt, die andere, dass es 
+sich um das prädikativ gebrauchte Adjektiv (ein nicht adjektiviertes 
+Partizip kanns nicht sein, denn die gibts nur attributiv)  "erregend" mit 
+dem Objekt "Besorgnis" handelt. In früheren Diskussionen hätte ich gesagt, 
+dass Adjektive keine Objekte haben, aber da bin ich eines Besseren belehrt 
+worden[1]. Trotzdem halte ich die Geschichte mit der 
+Adjektiv/Objekt-Konstruktion für sehr an den Haaren herbeigezogen.
+(Auch da wurde revidiert.)
+
+[1] Findet das noch jemand? Ich habe schon danach gesucht.
+
+Was ich sagen will: bei gegebener Sprache ist schon die grammatikalische 
+Beschreibung ein Stück willkürlich, und bei gegebenem grammatikalischen 
+Aufbau die Schreibung, so dass man aus veränderter Schreibung nicht direkt 
+auf veränderte Sprache schließen kann.
+
+-- 
+Bernd Velbert

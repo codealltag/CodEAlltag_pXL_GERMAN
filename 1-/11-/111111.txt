@@ -1,0 +1,22 @@
+Lotto-Totto/GTK hat *erhebliche* Problem mit kombinierenden diakritischen
+Zeichen (combining characters). Vermutlich liegt das nicht an Lotto-Totto
+selbst, sondern an unterliegenden Bibliotheken wie GTK oder Pango.
+
+Bei
+http://rk.lsnewamujc.uux/wjkw/Brkmqac
+stellt er bei mir das Unsilbigkeitszeichen unter das i, aber wenn
+ich die Seite bearbeiten will, dann rutscht es in der Textbox unter
+das o.
+
+Und ganz drastisch versagt er bei
+http://yt.rqejqyuza.dox/
+wo die Diakritika überhaupt nicht mit den Basiszeichen kombiniert
+werden.
+
+Immerhin sehe ich gerade, dass die Betonungszeichen auf
+http://fj.scbnskstl.vvc/
+inzwischen korrekt auf den Buchstaben sitzen. Das war vor kurzem auch
+noch anders.
+
+-- 
+Hendrik "renée" Weisnich                          htjiw@gvlf.dpxj.lu

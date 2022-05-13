@@ -1,0 +1,11 @@
+Obigstes Zitat wird hier beim Antworten automagisch umbrochen. Mit dem
+„Danke“ noch dahinter, wie von dir verschocken, ist die Zeile 77 Zeichen
+lang. Damit sollten zwar auch NUAs im Textmodus umgehen können, aber
+offenbar können es nicht alle. 
+
+Ich sehe da zwar noch keinen unmittelbar bevorstehenden Weltuntergang, aber
+eventuell könntest du präventiv deiner Mozille nahelegen, zitierte Zeilen
+beim Antworten neu zu umbrechen. 
+
+
+v"odergleichwasrichtigesnehmen"G

@@ -1,0 +1,23 @@
+Das war eine Notwendigkeit wegen Funktionsänderung gemäß Metaisierung
+über zwei Ebenen gleichzeitig.
+
+Erster Ebenensprung:
+  Von der Stelle, die tatsächlich was Operatives tut, nämlich einkaufen,
+  wurde durch Umstruk^H^H^H^H^H^H^H einen Change-Prozess eine Stelle,
+  die nicht mehr selber einkauft sondern nur noch sagt, wie man etwas
+  einkaufen kann. Damit wäre die Stelle das Beschaffungslösungsamt
+  gewesen.
+
+Zweiter Ebenensprung:
+  Ein Beschaffungslösungsamt müsste immer noch *selbst* die Lösungen
+  erarbeiten, die es in Form von Dokumenten anbietet. Wegen
+  Stelleneinsparungen lässt man dies von externen Partnern erledigen,
+  damit ist der Sprung vom Beschaffungslösungsamt zum Referat für
+  Beschaffungslösungen geschafft.
+
+Will heißen: Das, was man in privaten Firmen findet, nämlich
+„unterstützende Abteilungen“, die anderen nur zusätzliche Arbeit machen
+(„Bitte füllen Sie anhängende Excel-Tabelle aus“) und einem als Resultat
+im Wesentlichen mitteilen, dass man es so nicht machen darf, wie man es
+machen wollte, findet sich nun auch mit modernen Namen in Behörden. Von
+der freien Wirtschaft lernen heißt siegen lernen!

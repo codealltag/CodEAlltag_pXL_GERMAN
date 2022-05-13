@@ -1,0 +1,24 @@
+Ich habe gerade einen Text von Palatino Linotype in Bistarder Alt 
+umgesetzt und als erste Näherung alle s, "s ", "s," etc sowie die 
+Ligaturen wie fft sst sch ch ck tz ss ll per Suchen und Ersetzen ersetzt.
+
+Entsetzlich.
+
+Man muss dann doch jedes einzelne Wort anschauen und wenn man ein 
+intelligentes System einsetzt, kann man die gefundenen Wortteile im Text 
+vorwärts ersetzen.
+
+Die Abschaffung dieser speziellen Satzkunst erscheint im Licht der damit 
+verbundenen Arbeit mit Einführung des Computersatzes durch 
+Primitivsysteme unausweichlich gewesen zu sein.
+
+Sie wird bei Fortschreiten der Intelligenz sicher wieder kommen, wie man 
+bei TeX und Mathematica zB sieht.
+
+Zu allen Zeiten gehen Kultur, Literatur und Kunst auch im Schriftbild 
+gemeinsam komplexe Wege und den oikonomischen Prinzipien der 
+Wegwerfschrift aus demselben.
+
+-- 
+
+Hans Grün

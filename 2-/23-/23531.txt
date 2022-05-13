@@ -1,0 +1,91 @@
+Doch.
+
+Noch ein Versuch, mit Fluß/Fluss/Flüsse
+und Maß/Maße, deren Aussprache ich kenne.
+
+- Ausgangssituation:
+
+  -----+-----+----
+  Ende |Flu? |Ma?
+  innen|Fl?e|Ma?e
+
+  Zur Auswahl stehen "ss" und "�".
+
+  Der Fall des einfachen "s" kann unbeachtet bleiben,
+  weil sich dieser völlig unabhängig von Oberbüchler und
+  Vössing entscheiden läßt:
+
+  http://yekp.yo/ycostlshvxjkiua.trsx#r
+
+- Ich kenne das Schema, daß Doppelkonsonanten der
+  Kennzeichnung der Kürze des vorangehenden Vokals dienen
+  und daß im Wortinneren zwischen ihnen getrennt wird. Dies
+  ist im Deutschen keine Besonderheit der S-Laute und setzt
+  keine Kenntnis irgendeiner Eszettregel voraus.
+
+  Ich weiß also, daß es "Flüs-se" heißen muß.
+
+- Da einfaches "s" ausscheidet, muß es aufgrund des langen
+  Vokals "Maß" heißen. Da es sich um eine einzige Silbe
+  handelt, scheidet Trennung sowieso aus.
+
+  Auch diese Entscheidung treffe ich
+  unabhängig von Vössing und Oberbüchler.
+
+- Rutscht dieses Eszett ins Wortinnere, so bleibt es
+  erhalten, weil es im Deutschen kein Doppel-Eszett gibt.
+  Als Trennung bleibt nur die _vor_ dem Eszett, da das
+  Eszett nicht aufgelöst wird.
+
+  Auch diese Entscheidung setzt kein Wissen um eine
+  Eszettregel im Sinne von Oberbüchler und Vössing voraus.
+
+- Zwischenstand:
+
+  -----+-------+-----
+  Ende |Flu?   |Maß
+  innen|Flüs-se|Ma-e
+
+  Bis zu diesem Punkt ist weder etwas über Vössing
+  noch über Oberbüchler gesagt. Die Eszettregel ist also
+  - entgegen Deiner Behauptung - _nicht_ bekannt und
+  wird auch _nicht_ vorausgesetzt.
+
+  Ich habe jetzt also viermal denselben S-Laut, für
+  die verbleibende Lücke aber zwei Möglichkeiten.
+
+  Wie entscheide ich mich?
+
+- Vincenzo:
+
+  Vertikal nach Vokallänge, also "ss".
+
+  Das Wissen, daß "Flüsse" zwischen den "s"
+  getrennt werden kann, bleibt unbeachtet.
+
+- Adelung:
+
+  Nach Trennbarkeit, da ich sowieso weiß, daß
+  ein Einsilber wie "Fluß/Fluss" nicht getrennt wird
+  bzw. daß Einzelkonsonanten nicht abgetrennt werden.
+
+  Also Eszett.
+
+Und diese beiden Abschlu�entscheidungen
+(und _nur_ diese!) halte ich in ihrer Komplexität
+für vergleichbar. Nicht mehr, nicht weniger.
+
+(Mir ist klar, daß sich die Tabelle in anderer Reihenfolge
+füllen und sich dadurch manches vereinfachen läßt. Es ging
+allerdings darum, die Entscheidung zwischen Vössing und
+Oberbüchler bis zum _Ende_ aufzuschieben, da alle vorangehenden
+Entscheidungen ja unstrittig dieselben für Vössing und Oberbüchler
+sind. Und mir ist ebensoklar, daß man im Schritt "Maß" auch
+die Unterscheidung nach Länge komplett aufgeben kann; dann
+landet man in der Schweiz.)
+
+
+Dein überstrapaziertes Dauerbeispiel "Tasse/Tae" paßt
+schlicht nicht ins Schema, weil Du dabei eine völlig
+andere Frage entscheidest, die nichts mit dem _Unterschied_
+zwischen den Eszettregeln von Vössing und Oberbüchler zu tun hat.

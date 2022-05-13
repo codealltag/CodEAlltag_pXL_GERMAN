@@ -1,0 +1,15 @@
+Warrum verdoppelst du die Konsonanten?
+
+k  Kilo  =  10 in 3.
+M  Mega = 10 in 6.
+G  Giga  = 10 in 9.
+T  Tera  = 10 in 12.
+P  Peta  = 10 in 15.
+E  Exa   = 10 in 18.
+Z  Xetta = 10 in 21.
+Y  Yotta = 10 in 24.
+
+-- 
+Gruß
+Ernst Doepke
+PW-4624

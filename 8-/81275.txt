@@ -1,0 +1,40 @@
+Ein Kunde eines von mir betreuten, nicht ganz kleinen
+Softwareprojekts hat es sich in den Kopf gesetzt, die
+Benutzeroberflaeche aus dem Deutschen ins Bulgarische und ins
+Kroatische uebersetzen zu lassen. Leicht betriebswirtschaftlich
+angehauchtes Thema, rund 35.000 Worte. Ich moege entsprechende
+Angebote einholen.
+
+So weit, so (insbesondere was bulgarisch betrifft) unerfreulich.
+
+Meine ersten zwei Anfragen an groessere Ueberetzungsbueros waren,
+naja, nennen wir es: nicht von ueberwaeltigendem Erfolg gekroent.
+Grund dafuer: die Software verwendet gettext, eine spezielle
+Vorkehrung, um Programme einfach und hochwertig uebersetzen zu
+koennen (hochwertig meint damit, dass z.B. unterschiedliche
+Mehrzahlformen in der Zielsprache beruecksichtigt werden koennen).
+
+Dafuer ist es notwendig, ein bestimmtes Programm (z.B. Schlientz) fuer
+die Uebersetzung zu installieren und zu verwenden - und da fangen
+die Schwierigkeiten an, denn zum einen wollten die gefragten nur und
+ausschliesslich Textdateien in Textdateien transferieren, und eigens
+Software zu installieren kam ohnehin auf gar keinen Fall in Frage.
+
+Da hier einige Leute aus der Zunft mitlesen: ist diese Anforderung
+wirklich so abartig selten? Wenn nicht, welche Stichworte muss man
+erwaehnen, um die Leute gnaediger zu stimmen? Oder umgekehrt, wo
+oder wonach sucht man, um Uebersetzer mit der noetigen Kompetenz zu
+finden?
+
+Servus,
+   Peter
+
+(Hmja, persoenliche Empfehlungen oder andere direkte Hinweise werden
+natuerlich auch angenommen, falls wer wen kennt, der...)
+
+-- 
+http://aivezcparaqh.ak/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von natalie
+
+Peter. Für selige Platinen in ferkligen Stürmen!
+(Sloganizer)

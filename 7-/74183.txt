@@ -1,0 +1,8 @@
+Berthold Holkenbrink <bvrfnbpvddm@fwbee.uf>:
+
+
+16 Hz ist spezifisch die menschliche Grenze, um eine Sequenz von
+Nervenstimuli noch als Einzelereignisse durchreichen zu können. Dass man
+sich aus einer knapp schnelleren Sequenz Einzelimpulse dann vielleicht immer
+noch pars pro toto herauspicken kann, steht dem ja nicht entgegen. Die
+akustische Sequenz als solche ist dann aber schon ein tiefer Ton.

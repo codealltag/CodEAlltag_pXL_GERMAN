@@ -1,0 +1,7 @@
+Ich finde es besser lesbar. Zwischen Zahlenwert und Einheit
+muss jedenfalls ein Leerzeichen stehen: 100km, nicht 100km
+(nach ISO1 und ISO�1000).
+
+-- 
+Gegen die Numerus-Diskriminierung(en)!
+Für die Gleichbehandlung(en) von Singular und Plural!

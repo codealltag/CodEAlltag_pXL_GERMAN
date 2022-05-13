@@ -1,0 +1,11 @@
+Ich finde das schon kompliziert.
+Ich habe beispielsweise ein Raid. Da sind fünf Platten à 1 TB drin. 
+Physikalisch also wohl 5 TB. Aber da es ein Raid ist, bei dem eine 
+Platte kaputt gehen darf, stehen mir nur 4 TB zur Verfügung. Wieviel 
+Platz habe ich nun?
+Und wie nennt man das?
+
+Viele Grüße von Thomas
+
+P.S: Und wie nenne ich das Ganze, wenn ich keine Fremdwörter mehr 
+gebrauchen darf?

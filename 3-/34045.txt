@@ -1,0 +1,9 @@
+On Mon, 08. 07. 21 12:36:41 -0800 (PST) Knut Rommel
+6.) Andrée Schleie
+
+/W
+
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

@@ -1,0 +1,15 @@
+Deine Zeilenumbrüche im jeweils von dir stammenden Text sind völlig 
+korrekt. Das Problem trat auf, als Ignaz Völker dich weiter oben 
+zitierte; der (bzw. sein Newsrader) umbricht offenbar beim Zitieren 
+neu, und er hat ohnehin einen weiter rechts liegenden Rand eingestellt als 
+du. Das Neu-Umbrechen der Zitate kann man machen, man kann aber auch die 
+Ansicht vertreten, dass man das beim Zitieren besser lassen sollte. 
+
+Also lass dich nicht ins Bockshorn jagen, an deinen  Artikeln gibt es in 
+formaler Hinsicht nichts auszusetzen.
+
+Remmer, nach Hause umlenkend wg. "Thema verfehlend".
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

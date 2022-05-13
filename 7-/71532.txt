@@ -1,0 +1,6 @@
+Dazu brauchst du erst einmal irgendwelche Bestände, deren Daten du in
+Dateien aufgezeichnet und abgelegt hast. Verändert sich nun der Bestand,
+indem du Ware dazugibst bzw. wegnimmst, dann solltest du die Daten auf
+den neuen Stand bringen, was als "aufdatieren" bezeichnet wird.
+-- 
+Ursi Grünn

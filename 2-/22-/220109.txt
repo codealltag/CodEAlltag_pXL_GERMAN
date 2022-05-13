@@ -1,0 +1,27 @@
+2012-11-17 15:34:42 +02:00 schrieb Oskar Jüttendonk:
+
+Und auf einigen Schreibmaschinen.
+
+Man muss hier drei Symbole unterscheiden. Auf Telefon- und Bildschirmtexttastaturen steht nämlich ein anderes, als auf den Tastaturen von Rechenmaschinen und Computern. U+2317 ⌗ ist ausdrücklich „viewdata square“, also das „Quadrat“ des britischen Bildschirmtextes.
+
+• U+0023 # Nummernzeichen (DIN 2137); Nummer; Nichtrechnen (ISO 1320-6117); Zinszahl??; Fraktur, Knochenbruch (Medizin); Pfund (Einheitenzeichen US)
+
+• U+2317 ⌗ quadratisches Gatter, Kreuz (1.50 DTB 5); Doppelkreuz, Raute, beendigende Begrenzung (Tastatur Telefon Bildschirmtext); Spieß (Korrekturzeichen, DIN 16511); Digitalsignal (DIN 19227-2 Nr 813); digital (DIN EN 63076-2 Nr 76-84-41); Schwarz (Heraldik, veraltet)
+
+• U+266F ♯ Erhöhungszeichen (DIN ISO 5426), Kreuz, Diese, Diesis (veraltet, MKS, PUUB, Kiosk, Wahrig) (Musik, Versetzungszeichen)
+
+
+„Raute“ stammt von der Plönges und wird in den Gebrauchsanweisungen von Telefonen und Bildschirmtext verwendet. Früher wurde auch regelmäßig U+2317 ⌗ gedruckt. Seit die Leute in den Büros selbst die druckreifen Texte schreiben, wird zunehmend U+0023 # Nummernzeichen verwendet.
+
+„Raute“ ist sprachlich falsch. „Gatter“ wäre besser gewesen. Auch besser als umgangssprachliche Bezeichnungen wie Lattenzaun, Gartenzaun, Hag usw.
+
+
+Raute ist erst einmal die geometrische Form.
+
+
+Und zu den Feinheiten der deutschen Sprache: 
+
+
+Gibt es nicht. Eine Spitze ist kleiner als 90°. Ein Quadrat steht auf der Ecke.
+
+Tschüs, Kasimir

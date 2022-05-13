@@ -1,0 +1,17 @@
+Wenn du Ctrl+U presst, findest du in deinem Posting
+
+Date: Wed, 18. 03. 22 06:02:32 +0200
+
+Du setzt das Posting also mit Datierung Ortszeit + Lokale Verschiebung 
+gegen UTC ab, mein Rechner stellt das mit seinem Paar (OT, (OT-UTC)) als 
+6:02 dar.
+
+Ein koreanischer digitaler Satellitenreceiver, ca 7 Jahre alt, fängt im 
+Programmführer total zu spinnen an, wenn man wahre Ortszeit und 
+Sommerzeit on/off nicht gemäß koreanischer 
+Weltzeitsynchronisierungsphilosophie einzustellen in der Lage ist. Nach 
+Umstellung auf Sommerzeit muss man dann erst den Netzstecker ziehen.
+
+-- 
+
+Ingolf Lembert

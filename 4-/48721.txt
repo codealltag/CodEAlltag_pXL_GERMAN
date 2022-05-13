@@ -1,0 +1,11 @@
+Weil du digital angesteuerte Monitore oder Projektoren auch per HDMI
+und Display-Port oder (in Notebooks üblich) direkt per LVDS via
+Flachbandkabel mit Signalen füttern kannst.
+
+Und das "digitale" sollte hoffentlich (auch) die Konkretisierung von
+DVI zu "DVI-D" sein.
+
+-dennis
+
+-- 
+There is a green, multi-legged creature crawling on your shoulder.

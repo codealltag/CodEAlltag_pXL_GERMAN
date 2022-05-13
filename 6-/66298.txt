@@ -1,0 +1,5 @@
+Der "Rechner" wird nur selten zum Rechnen verwendet. Jedenfalls in einer
+für den Benutzer als "Rechnen" erkennbaren Form, die (durchaus
+anspruchsvollen) Berechnungen für ein Ballerspiel zählen da eher nicht.
+
+	hp

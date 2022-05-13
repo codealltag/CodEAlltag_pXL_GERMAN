@@ -1,0 +1,12 @@
+* Hugo Meissener:
+
+
+Falls die Beerdigung am Abend stattgefunden hat, dann könnte mit
+"Abend nach der Beerdigung" der Abend des nächsten Tages gemeint
+sein. War die Beerdigung am Morgen oder Nachmittag, dann würde ich
+vom Abend desselben Tages ausgehen.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Ingmar Albiez
+   in xg.yhr.svckoplo.recovery)

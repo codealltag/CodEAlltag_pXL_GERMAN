@@ -1,0 +1,39 @@
+Wenn in Österreich nur die wahlberechtigt wären, die das
+Krawiec-Verfahren verstanden haben ...
+
+Die für den Wähler sichtbare Seite ist bei Kunzamnn-Verfahren aber auch
+nicht so kompliziert: Er bekommt eine Liste aller Kandidaten, die er
+beliebig umreihen kann (Gab es früher[1] bei Gemeinderatswahlen in Bierbaum,
+allerdings nur innerhalb der Parteien). Aus den vielen Einzel-Reihungen
+wird dann eine Gesamtreihung errechnet (wie das genau funktioniert, muss
+er genausowenig verstehen wie das Krawiec-Verfahren) und die ersten 183
+(in .at) bekommen einen Sitz.
+
+Ich sehe da eher praktische Probleme: 
+
+ * Was macht der Wähler mit einem "Stimmzettel" (eher Stimmheft) mit
+   2000 Kandidaten? Kann man den noch in brauchbarer Zeit in der
+   Wahlzelle ausfüllen, oder muss/kann man ihn ausgefüllt mitbringen?
+   Wenn letzteres, ist eine geheime Wahl gewährleistet?
+   Oder bekommt der Wähler einen leeren Zettel, wo er (Hausnummer) 10
+   Namen eintragen kann?
+
+ * Wie zählt man das aus? Der Informationsgehalt pro Stimmzettel ist
+   deutlich höher, die Wahrscheinlichkeit von Mehrdeutigkeiten
+   ebenfalls. Also braucht man mehr Zeit und/oder mehr Leute zum
+   Auszählen.
+
+Eine Wahl auf elektronischem Weg macht die Organisation einfacher (am PC
+eine Liste von 2000 (oder auch 20000) Leuten zu sortieren ist kein
+Problem, ich kann mir die Position von jedem Kandidaten anschauen,
+nachgoogeln, etc. all in the comfort of my home; die Auszählung ist dann
+überhaupt trivial), aber die Probleme mit Wahlgeheimnis und
+Nachvollziehbarkeit sind wohlbekannt.
+
+	hp
+
+
+[1] Ich habe vage in Erinnerung, dass das vor einige Zeit
+    (möglicherweise gleichzeitig mit der Einführung der
+    Bürgermeisterdirektwahl) abgeschafft wurde, aber ich
+    kann mich täuschen.

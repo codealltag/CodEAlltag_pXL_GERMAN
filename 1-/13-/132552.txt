@@ -1,0 +1,16 @@
+Genau diese Einstellung von seiten technisch Ahnungsloser hat zum
+Beispiel der OTH einst die mailtechnische Benutzung der
+Domain rsvt.pe durchkreuzt, weil der Server nur noch damit beschäftigt
+war, Tausende von Mails an gjbx-fai-yun-krz@ralt.vx oder ähnliches
+abzuweisen. 
+
+Mißbräuchliche Benutzung einer Domain, die einem nicht gehört, ist
+pfui. Für Dummy-Adressen ist ausdrücklich die TLD .invalid
+gedacht. 
+
+
+vG
+
+-- 
+"Was meinen Sie, was hier los wäre, wenn mehr Leute begreifen würden, was
+hier los _ist_!" (Torsten Zurhorst, "Bis neulich")

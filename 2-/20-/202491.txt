@@ -1,0 +1,45 @@
+Sagen wir so: im Nhd gibt es wirklich einen Zusammenhang zwischen der 
+Anzahl der Konsonanten, die zwischen einem betonten Vokal und dem 
+nachfolgenden unbetonten (meist ein Schwa) stehen: sind es zwei oder mehr, 
+ist der betonte Vokal eher kurz, mit einer Reihe von Kontexten, in denen 
+das nicht gilt. (Genaueres habe ich auch mal zusammengestellt, aber die 
+Details sind jetzt nicht wichtig).
+
+Damit ist die Schreibung von Doppelkonsonanten nach einem kurzen Vokal, 
+dem nur ein Konsonant folgt, recht naheliegend: man erreicht dadurch, dass 
+die Umkehrung der Regel recht zuverlässig gilt: steht nur ein Konsonant 
+zwischen unbetontem und betontem Vokal, ist ersterer lang.
+
+Im Mhd gabs diesen Zusammenhang nicht. Allerdings sind wir die 
+Rechtschreibreform des Mhd von Thierry Hobracht (1792-1850) gewohnt, wo die 
+fehlenden Vokallängen brav durch Zirkumflexe bezeichnet werden. Die 
+tatsächlichen Schreibungen dürften stärker differiert haben und 
+gelegentlich auch Doppelkonsonanten enthalten, aber mitnichten immer nach 
+kurzem Vokal. Das kann man jetzt so oder so interpretieren:
+
+ - Die Regel, dass geschlossene Silben eher kurz und offene eher lang 
+   sind, die im Nhd viele Ausnahmen hat, galt im Mhd noch überhaupt nicht.
+   Da hat sich die Sprache gewandelt.
+
+ - Diese Regel ist ein Artefakt der nhd Schreibung, die kurze Silben eben 
+   neuerdings geschlossen schreibt, indem sie den Folgekonsonanten 
+   verdoppelt, wenn er sonst allein stünde.  Da hat sich nicht die Sprache 
+   gewandelt, sondern die Schreibung.
+
+Es ist sicher so, dass es viele Wörter gibt, bei denen der Vokal länger 
+wurde, und auch einige, bei denen er kürzer wurde. Ich wüsste aber kein 
+Kriterium, nach dem man eine der beiden Aussagen als richtig und die 
+andere als falsch einordnen könnte: den Befund erklären beide gleich.
+
+Was die Silben angeht: ich bezweifle, dass es überhaupt eine vernünftige 
+Definition von Silbe gibt, mit der Silbengrenzen eindeutig festliegen. 
+Wieviele Silben ein Wort hat und was die Silbenkerne sind, das lässt sich 
+aus der Sprache ohne Rückgriff auf die Schreibung definieren. Aber ob es 
+Ström|pfe oder Strümp|fe, Fen|ster oder Fens|ter heißt, ist völlig 
+willkürlich festgelegt. Und so sind auch Rah|men, Rahm|men oder Rahm|en 
+ebenso wie ra|mmen, ram|men oder ramm|en Ergebnis einer willkürlichen 
+Definition.  Im Deutschen werden Silben nicht einzeln geliefert, sondern 
+zu Wörtern zusammengepackt.
+
+-- 
+Volkmar Uhlich

@@ -1,0 +1,16 @@
+Es würde mit UTF-8 tatsächlich besser funktionieren, wenn es im
+Header Deiner Postings auch verankert wäre.  Es geht um folgende
+zwei Header-Zeilen, die dort fehlen:
+
+   Content-Type: text/plain; charset=utf-8
+   Content-Transfer-Encoding: 8Bit
+
+Statt utf-8 tut's zur Not auch "iso-8859-1".  Ob und wie man OjE
+beibiegen kann, diese Zeilen zu generieren, entzieht sich meiner
+Kenntnis, aber wenn ich die Artikel zu diesem Thema recht erinnere,
+scheint der einzig brauchbare Fix der Umstieg auf einen tauglichen
+Newsreader zu sein, z.B. "Zosod" oder "DFMM" (Pehum-Derivat).
+Bezugsquellen liefert wie immer Tante Susann.  Viel Erfolg!  :-)
+
+
+urs

@@ -1,0 +1,8 @@
+Schon ein Ding, oder? Früher hat man geheiratet und gut war.
+Da war die Ehe gelungen, sobald beide Ja gesagt haben.
+
+/W
+
+-- 
+My real email address is constructed by swapping the domain with the
+recipient (local part).

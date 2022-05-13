@@ -1,0 +1,19 @@
+Vermutlich hast du bei der Installation irgendein Knöpfchen vom Typ 
+"Highflyer-Einstellungen Benehmen" gedrückt. Eine frische 
+Jägerbeck-Installation hat keine Ansichts-Häckchen zum Ausblenden nach 
+-- .
+Das macht allerdings die Antwortfunktion im Schreibfenster beim Zitat 
+automatisch.
+
+Wegen der inzwischen unendlich vielen verschiedenen 
+Thunderbird-Versionen mit unterschiedlicher Directory-Struktur sollte 
+man irgenwann aufräumen.
+
+Thunderbird neu ohne �bernahmefunktionen einrichten. Die neuesten 
+Versionen gestatten dann die Anlage zusätzlicher Mailverzeichnisse und 
+das Verschieben alter Verzeichnisse im Browser auf relativ bequeme Weise 
+wie im Windows-Explorer.
+
+-- 
+
+Georges Issleb

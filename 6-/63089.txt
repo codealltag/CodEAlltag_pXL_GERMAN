@@ -1,0 +1,21 @@
+Ein (mathematischer) Algorithmus /ist/ ein Programm, selbst wenn er zur
+Ausführung auf einer konkreten Maschine nach bestimmten Regeln
+umgeformt werden muß, denn es spricht nichts dagegen, einer Algorithmus
+in einer bereits existierenden oder auch in einer fiktiven (Pseudo-)
+Programmiersprache zu schreiben.  Aber auch ein in Ada formulierter
+Algorithmus, der auf tote Bäume gedruckt ist, wird nicht unmittelbar
+auf irgendeiner CPU laufen.  Algorithmen sind folglich Programme,
+und sie sind unabhängig von speziellen Maschinen oder Interpretern
+(was ja letztlich dasselbe ist, da zwischen Hard- und Software kein
+prinzipieller Unterschied besteht).  Vielleicht wird die Vorstellung
+der Unabhängigkeit einfacher, wenn man Algorithmus/Programm durch
+"Arbeitsanweisung" und Interpreter durch "Mensch" ersetzt; das ist
+noch nicht einmal weit hergeholt, denn der Mensch ist die ultimative
+Turing-Maschine (wozu gäbe es wohl sonst den Turing-Test?).  Für die
+Arbeitsanweisung ist es völlig egal, wer sie letztlich ausführt, oder
+ob er die Sprache beherrscht, in der sie ursprünglich verfasst wurde.
+Aber auch eine evtl. notwendige Übersetzung ändert nichts an der
+Gültigkeit bzw. Ausführbarkeit der Arbeitsanweisung.
+
+
+mike

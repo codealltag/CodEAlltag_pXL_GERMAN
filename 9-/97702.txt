@@ -1,0 +1,18 @@
+Arrgh. Ich habe 'Gogol' vergessen: = 10 in 100.
+
+
+Kleinwagen-Modelle? Warum dann nicht lieber:
+
+Milli = 10 -3.
+Mikro = 10 -6.
+Nano = 10 -9.
+Pico = 10 -12.
+Femto = 10 -15.
+Atto = 10 -18.
+Zepto = 10 -21.
+Yocto = 10 -24.
+
+-- 
+Gruß
+Claudio Vielmäder
+XF-3147

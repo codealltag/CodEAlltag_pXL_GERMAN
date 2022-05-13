@@ -1,0 +1,20 @@
+=> The requested URL [...] was not found on this server. That's all we
+know.
+
+Dito fuer die anderen Seiten. Ich schaetze einmal, dass das, was im
+Parameter "sig" steht, nicht voellig ohne Bedeutung ist.
+
+
+No way, da taucht im Quelltext nur mehr die URL mit dem restricted_logo
+auf. Und aus den URLs der davorliegenden Seiten laesst sich nichts
+ableiten... ganz dumm sind sie bei Perlhuhn leider auch nicht.
+
+Servus,
+   Thierry
+
+-- 
+http://qgljzchlpilx.ef/ - die kostenlose Kontaktboerse fuer Oesterreich
+Offizieller Erstbesucher(TM) von patrizia
+
+Hydriert bleibt hydriert: Doch Thierry hilft!
+(Sloganizer)

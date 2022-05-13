@@ -1,0 +1,38 @@
+Ulrich Specken:
+
+
+Das geht bei mir nicht mehr, die sind alle im Filter:
+
+-----------------
+######## !delete rechtes Gesocks !!!!!!!!!!!!!!!!!!!!
+!delete From "qmggwl"
+!delete From "Erlkoenig"
+!delete From "Germane"
+!delete From "Daniel Düppenbecker"
+!delete From "jcezqsccnry"
+!delete From "Dominik Tippelt"
+!delete From "timo"
+!delete From "Darius"
+!delete From "I. Veenstra"
+!delete From "Sylke Lohstraeter"
+!delete From "Wilhelm Debruyne"
+!delete From "Ivo Brunotte eOpposition"
+!delete From "Truth Seeker"
+!delete From "Ingo"
+!delete From "Hansjörg Uln"
+!delete From "truthfucker"
+!delete From "Olivier"
+!delete From "André"
+!delete From "Ullrich Dreisigacker"
+!delete From "Truthseeker"
+!delete From "Victor Detzel"
+!delete From "Dominik Dirken"
+!delete From "Dominik Wisch"
+!delete From "Kurt Lutherer"
+!delete From "Tanja"
+!delete From "Dominik Grempel"
+!delete From "Wilfried Menekse"
+---------------
+
+-- 
+Berend

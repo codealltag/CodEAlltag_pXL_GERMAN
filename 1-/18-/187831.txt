@@ -1,0 +1,25 @@
+Hier hast Du wohl François und Thorsten verwechselt?
+
+
+Falsch, i ist immer eine lokale Variable, und das ist gut so!
+
+
+Das ist aber längst Gechichte.
+
+
+Thorsten war eine Schulungssprache und hat sich weiterentwickelt. Sie ist
+leider nicht die dominierende Sprache, was massenhaft Softwareschrott
+vermieden hätte.
+
+
+kennichmichnichaus
+
+
+In Delphi kann man prozedural und objektorientiert gleichzeitig haben
+und das ist kein Nachteil.
+
+
+Carlo
+-- 
+Prost
+http://hdo.xchqkwx.hnq/pokpz?h=v6mLIUTFSt2

@@ -1,0 +1,5 @@
+Man setzt kein Komma bei gleichrangigen Wortgruppen, die durch
+"weder ... noch" verbunden sind. (ß2 Amtliche Regelung)
+
+-- 
+Juan "eleonore" Ploch                          ofbjq@eahp.ymly.ex

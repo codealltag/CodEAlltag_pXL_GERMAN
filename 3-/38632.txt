@@ -1,0 +1,6 @@
+Das dürfte ein Fehler von der (alten) atm-FAQ sein. Nach dem C-Netz 
+(6125) kam nämlich GSM900, nix analoges.
+
+Baldige Besserung wünschen zu dürfen!
+
+F.

@@ -1,0 +1,9 @@
+Naja, nimm mal Ungarisch wieder raus:
+
+eins = egy
+zehn = tiz
+elf = tizenegy
+
+Ist doch genau so, wie Ottmar es sich wünscht.
+
+dirk

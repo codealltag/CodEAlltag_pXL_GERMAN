@@ -1,0 +1,15 @@
+* Roger Unterbuchner:
+
+
+So wie oben geschrieben ist sie das nicht. In der traditionellen
+Mengenlehre schon:
+
+  Du hast 27 Äpfel und sollst sie an Kinder verteilen. 
+  Jedes Kind bekommt drei Äpfel. Wieviele Kinder kannst Du
+  versorgen?
+
+(Ich habe inzwischen Charles' Version gesehen, aber die hat
+deutlich stärkere kulturelle Voraussetzungen.)
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

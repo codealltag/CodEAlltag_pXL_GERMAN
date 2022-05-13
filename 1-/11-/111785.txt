@@ -1,0 +1,14 @@
+Weil der unbestimmte Artikel im Plural immer wegfällt. Im Plural kann man 
+deswegen nicht mehr unterscheiden, ob im Singular ein unbestimmter Artikel 
+gestanden hätte oder gar keiner.
+
+
+Sehe ich so wie Irmtraud. Im Satz "Irmtraud ist Lehrerin" ist allerdings 
+"Lehrerin" ein Abstraktum (sie gehört zu den Objekten, die mit mit dem 
+Wort "Lehrerin" bezeichnet werden), während im Satz "Irmtraud ist eine 
+Lehrerin" das Wort "Lehrerin" kein Abstraktum ist ("es gibt Lehrerinnen; 
+und Irmtraud ist eine davon). Die definition von "Abstraktum" darf hier 
+also nicht zu eng sein.
+
+-- 
+Eduard Interbieten

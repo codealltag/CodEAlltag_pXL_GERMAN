@@ -1,0 +1,6 @@
+Da, nach Deiner eigenen Deutung, jemand, der authentifiziert (prüft),
+gleich danach authentisiert (berechtigt), halte ich die Unterscheidung
+für akademisch. Und ob IT-Leute etwa bei der Fehlersuche zwischen der
+"Authentifizierungs"- und der "Authentisierungroutine" unterscheiden,
+stelle ich einfach mal in Abrede. Bei der Programmierung sicher, aber
+nicht sprachlich mit diesen Wörtern.

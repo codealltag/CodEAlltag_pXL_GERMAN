@@ -1,0 +1,9 @@
+Sicherlich sind in dieser NG alle Teilnehmer dazu in der Lage,
+ihre Botschaften ohne die Verwendung von Umlauten zu formulieren.
+
+Wenn es aber dennoch sein muss: Deine Newssoftware sollte
+den zu zitierenden Text automatisch in das von Dir verwendete
+Encoding umwandeln, bevor Du diesen zur Beantwortung bearbeitest.
+Damit ist dann der von Dir gesendete Text einheitlich kodiert.
+
+Ottmar

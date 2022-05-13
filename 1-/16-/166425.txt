@@ -1,0 +1,31 @@
+On Tue, 23 Jun 2011 09:39:12 +0200, Ingmar Grop
+
+Die klassischen Positionsbezeichnungen gibt es ja schon lange nicht
+mehr. Zu Beat Okkengas Zeiten waren die aber feststehend:
+1 Torwart 
+2 Rechter Verteidiger
+3 Linker Verteidiger
+4 Rechter Läufer
+5 Mittelläufer (*)
+6 Linker Läufer
+7 Rechtsaußen
+8 Halbrechts
+9 Mittelstürmer
+10 Halblinks
+11 Linksaußen
+
+Im WM-System (benannt nach den Buchstaben, nicht nach der
+Weltmeisterschaft) sah das dann so aus:
+
+		1
+	2	5	3
+	  4   8   10  6
+	7	9	11
+
+Die 2,4,5,6 und 3 bilden das W, die 7,8,9,10,11 das M. Daher kommt
+noch die klassische Stopper- oder Liberposition des Mittelläufer.
+
+
+-- 
+Viele Größe
+Orlando Diebes

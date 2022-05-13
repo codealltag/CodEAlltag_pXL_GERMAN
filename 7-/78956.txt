@@ -1,0 +1,10 @@
+Wo es kein Subjekt gibt, dort gibt es auch nichts, was Person und Zahl des 
+Verbs bestimmt, und dann schlägt die 3. Person Einzahl als Ersatz zu.
+Man sieht das schön, wenn das letzte Beispiel ein Subjekt bekommt (nämlich 
+das Akkusativobjekt des zugehörigen Aktivsatzes:
+
+  Den Kindern *wird* vorgelesen.
+  Den Kindern *werden* Märchen vorgelesen.
+
+-- 
+Timo Guntenhöner

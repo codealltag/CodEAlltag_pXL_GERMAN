@@ -1,0 +1,3 @@
+Wenn es hier schon unklar ist, kann sowas auch per Zufallsgenerator
+ausgewählt werden. Und wenn es im weiteren Text referenziert wird,
+ergibt sich der Sinn häufig von selbst.

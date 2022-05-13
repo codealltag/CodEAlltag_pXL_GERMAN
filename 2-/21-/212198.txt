@@ -1,0 +1,25 @@
+Klingt irgendwie schräg. Aber ist das unauffällige "texts could be
+read silently" logisch besser?
+
+Dem AHD5 ist das Problem eine Anmerkung wert:
+
+USAGE NOTE
+  The construction _able to_ takes an infinitive to show the subject's
+  ability to accomplish something: _We were able to finish the
+  project thanks to a grant from a large corporation._ _The new
+  submarine is able to dive twice as fast as the older model._
+  Subjects to which people don't ascribe active roles tend to sound
+  awkward in this construction, especially in passive constructions
+  involving forms of the verb _be_, as in _The problem was able to
+  be solved by using this new method._ Here the use of the passive
+  underscores the subject's not taking an active role, while the
+  use of _able_ suggests the opposite, creating a conflict. In our
+  2006 survey, only 24 percent of the Usage Panel accepted _able_
+  in a sentence like this, though 54 percent accepted the use of
+  _capable_ instead (_the problem was capable of being solved_),
+  suggesting that _capable_ is less jarring. It may be easier just
+  to substitute _can_ or _could_, which are standard: _The problem
+  could be solved by using this new method._
+
+-- 
+Ralph "hella" Obereisenbuchner                          cbvvo@uayk.iebg.lc

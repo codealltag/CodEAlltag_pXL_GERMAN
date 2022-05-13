@@ -1,0 +1,24 @@
+Der Unterschied zwischen Gewicht und Masse ist mir bekannt. Aber was ist
+der Unterschied zwischen Geschwindigkeit und Schnelligkeit (außer dass
+letzterer Begriff etwas unüblich ist).
+
+Apropos Gewicht und Masse (und anknüpfend an Armins Beobachtung
+bezüglich des Kürzens von Einheiten). Nett finde ich die Angewohnheit
+von (amerikanischen?) Luft- und Raumfahrtingenieuren, den spezifischen
+Impuls in Sekunden auszudrücken.
+
+Der Impuls ist das Produkt aus Masse und Geschwindigkeit, somit ist die
+Einheit kgm/s (oder lbft/s für unsere transpondianischen[1] Freunde).
+Der spezifische Impuls ist der Impuls pro Treibstoffmenge, also
+(kgm/s)/kg. Die Masse kürzt sich raus, also bleibt m/s (bzw. ft/s). Und
+das hat auch eine einigermaßen intuitiv erfassbare physikalische
+Bedeutung. Wie kommt man von m/s auf s? Ganz einfach: Man nimmt statt
+der Masse des Treibstoffs dessen Gewicht (betankt werden die Dinger ja
+üblicherweise bei konstanter Gravitation, so dass das proportional ist),
+und dann ergibt sich als Einheit (kgm/s)/N = (kgm/s)/(kgm/s) =
+1/(1/s) = s. Hurra, und schon haben wir so lästige Einheiten wie feet
+und Meter, die Marssonden in die Irre leiten könnten, rausgek�rzt.
+
+	hp
+
+[1] netter Ausdruck, kannte ich bisher nicht.

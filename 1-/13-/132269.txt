@@ -1,0 +1,16 @@
+On Fri, 09. 10. 22 15:04:29 +0200, Sergio Leistikow <avtqvr@rlemopv.kbj> wrote:
+
+
+Gut, dann ein Beispiel aus dem praktischen Leben:
+
+"Zu kalt", "sehr kalt", "kalt", "warm", "sehr warm", "heiss",
+"Scheisse-ich-hab-mich-verbrannt" sollte als grobe Messung der
+Wassertemperatur beim Duschen durchgehen.
+
+Zahlen brauche ich auch für diese Art der "Quantifizierung" keine.
+
+
+Vinzent.
+
+-- 
+There is no signature.

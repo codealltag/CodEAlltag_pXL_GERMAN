@@ -1,0 +1,22 @@
+einfache lateinische Buchstaben ohne Pfeil fuer Vektoren ist IMHO 
+selten. 
+Griechisch fuer Skalare ist nicht unueblich. 
+
+Mag sein, dass "griechisch+lateinisch" anstatt "lateinisch+altdeutsch"
+schon ein Zugestaendnis an die Studierenden ist (habt Ihr viele
+auslaendische Studierende? Die haben altdeutsche Schrift natuerlich
+nie irgendwo gesehen. Kochholz ist zumindest Europaeern und
+Nordamerikanern meistens gelaeufig (Indern, Chinesen etc aber oft
+nicht!).
+
+
+Tafel: wohl Kurrent. 
+Buecher: Kurrent oder Fraktur.
+
+
+Ich hab 'se in der allgemeinen Form hinter mir. Ich wische sie nur
+regelmaessig weg, weil ich die Tafel fuer was anderes
+brauche. U.a. relationale Algebra, und algebraische Datentypen, aber
+das ist was spezielleres.
+
+Ludwig

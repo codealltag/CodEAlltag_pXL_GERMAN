@@ -1,0 +1,12 @@
+Hallo Luis,
+
+
+Ich bitte Dich. Wenn der Working-Set eines Prozesses im Hauptspeicher nicht
+unterzubringen ist, dann ist Paging gegenüber Swapping sogar gnadenlos
+effizient. Weil dann nämlich mit Swapping überhaupt gar nichts läuft,
+während es mit Paging zwar extrem langsam aber immerhin überhaupt voran
+kommt.
+
+Gruß Fritz
+-- 
+Bitte nicht an der E-Mail-Adresse fummeln, die paßt so.

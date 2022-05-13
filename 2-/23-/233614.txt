@@ -1,0 +1,49 @@
+<Rant>
+Das ist ohnehin übelster Blähsprech. Entweder man weiß nicht so genau,
+wie das Risiko mit der Geschwindigkeit zusammenhängt, nur *dass* es eine
+Abhängigkeit gibt, dann kann man schreiben
+
+   "Das Risiko hängt von der Geschwindigkeit ab."
+
+Oder man weiß, dass das Risiko bei höherer Geschwindigkeit größer ist,
+als bei niedrigerer Geschwindigkeit, aber man weiß nicht ob es nun
+linear oder quadratisch oder exponentiell oder logaritmisch oder
+sonstwie von der Geschwindigkeit abhängt. Dann kann man schreiben (*)
+
+   "Das Risiko wird mit steigender Geschwindigkeit größer."
+
+Wenn man den genauen Zusammenhang kennt, dann kann man beispielsweise
+schreiben
+
+   "Das Risiko ist proportional zur Geschwindigkeit"
+
+oder
+
+   "Das Risiko verdoppelt sich, wenn die Geschwindigkeit um 3km/h steigt."
+
+Aber "Das Risiko steigt in Abhängigkeit [von] der Geschwindigkeit."? Wird
+der Schreiber nach Substantiven bezahlt? Dann bietet sich vielleicht
+
+    "Die Vergrößerung des Risikos steht in Abhängigkeit von der
+    Erhöhung der Geschwindigkeit"
+
+an. Oder bei schweren Substantivmangelerscheinungen
+
+    "Die Befindlichkeit der Vergrößerung des Risikos ist der Stand der Abhängigkeit
+    von der Vergrößerung der Geschwindigkeit."
+
+verwenden. Wenn man sich genug Mühe gibt, kann man sicher selbst so eine einfache
+Aussage wie (*) komplett unverständlich formulieren.
+
+</rant>
+
+Ansonsten: Natürlich mit 'von'. Ohne das ergint das Ganze ja noch
+weniger Sinn. Die Abhängigkeit der Geschwindigkeit bedeutet, dass die
+Geschwindigkeit von irgendetwas abhängt. Aber von was? Eigentlich will
+man ja sagen, dass das Risiko von etwas abhängt. Wenn man das dann
+substantiviert, tut das Risiko etwas in Abhängigkeit von etwas.
+
+Mit 'von' wird der Satz richtig. Aber nicht besser.
+
+-- 
+Space - The final frontier

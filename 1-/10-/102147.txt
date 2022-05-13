@@ -1,0 +1,19 @@
+Doch. Diese Beispiele finde ich sogar überzeugender als die bisherigen. 
+Wenn man die ihnen innewohnede Logik analysiert, wird man feststellen, 
+dass sich die Verneinungen keineswegs aufheben, wenigstens nicht in allen 
+Beispielen, z.B. "Man kann nicht nicht handeln" ist nicht dasselbe wie 
+"Man kann handeln". Dieser Satz wäre in modaler Logik "� möglich � 
+handeln", also Äquivalent zu "notwendig handeln". Die beiden � geraten 
+also nicht nebeneinander, wo sie sich aufheben würden.
+
+Man müsste mal untersuchen, wo in Sätzen, die mehr als eine Negation 
+enthalten, die � zu stehen kommen. Vielleicht gibts in vielen Fällen 
+die Regel, dass anders als in der Aussagen- und Prädikatenlogik � �
+nicht wegfällt, sonder Äquivalent zu � ist, während in den übrigen Fällen 
+alle � erhalten bleiben. Sicher auch das nicht ausnahmslos, sondern mit 
+kontextabhängiger Interpretation.
+
+Aber heute wohl nicht mehr.
+
+-- 
+Patrik Stöcklein

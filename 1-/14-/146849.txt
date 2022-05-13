@@ -1,0 +1,8 @@
+Es geht nicht nach Silben ("Silben" sind ohnehin keine linguistisch
+relevante Einheit), sondern nach Morphen. Und das Kernmorph in Walter
+ist |walt| (|er| ist ein Allerwelts-Ableitungsmorph). Und da nun in
+diesem Morph mehr als 1 Konsonant nach dem Vokal steht, ist der Vokal
+regelmäßig *kuchz*!
+(Länge des Vokals gibt's, wenn nach dem Vokal kein oder ein Konsonant
+kommt. Die meisten Ausnahmen hiervon sind in der Verschriftung durch
+Konsonantbuchstabencluster, etwa <ng>, <ch>, <sch>, markiert.)

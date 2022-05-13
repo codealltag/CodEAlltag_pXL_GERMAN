@@ -1,0 +1,3 @@
+Im Akkusativ sagt man am besten "den Typus" oder "den Typen". "Den
+Typ" kenne ich nicht. Ich verwende auch einen speziellen Datentypen
+(oder -us), wenn er ein FILE oder INTEGER aufnehmen soll.

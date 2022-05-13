@@ -1,0 +1,14 @@
+Am Mon, 17. 07. 21 21:53:16 +0100 schrieb Dennis Ketterl:
+
+
+Es gibt noch ein paar "krumme", z.B. Indien, wo UTC + 5 1/2 Stunden gilt,
+und Nepal mit UTC + 5.45 Std.
+
+Andererseits dürften so einige Zeitzonen auf dem Atlantik eher
+theoretischer Natur sein, weil da niemand lebt (und in Flugzeugen und an
+Bord von Schiffen dürfte man sich im Zweifel doch eher nach UTC richten,
+oder stellt man da tatsächlich alle paar hundert Meilen die Uhr um?).
+
+Größe,
+
+Maik

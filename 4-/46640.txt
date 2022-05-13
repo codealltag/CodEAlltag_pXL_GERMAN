@@ -1,0 +1,13 @@
+* Jan <Dwh93@Ahi-Mamcjnyez.FZ>:
+
+Die sehen in deiner Schrift halt gleich aus, müssen aber nicht.
+
+ � = degree sign                 = U00B0
+ � = masculine ordinal indicator = U00BA
+
+Ein "ordinal indicator" ist ungefähr das, was im Englischen das
+hochgestellte "st", "nd", "th" oder im Deutscehn der Punkt nach einer
+Zahl ist. Im Spanischen verwendet man je nach Genus ein hochgestelltes,
+meistens unterstrichenes "a" (�) oder eben "o" (�).
+
+ - Siegfried

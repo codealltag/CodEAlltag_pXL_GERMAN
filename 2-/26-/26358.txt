@@ -1,0 +1,11 @@
+Ah. Kirwald formuliert unglücklich, aber im wesentlichen korrekt:
+
+"Eine geometrische Figur M wird konvex genannt, wenn mit je zwei ihrer
+(beliebig gewählten) Punkte auch deren Verbindungsstrecke ganz in der
+Menge liegt."
+
+Konvex bedeutet *nicht* 'irgendwo ausgebeult' sondern 'nirgendwo
+eingebeult'.
+
+-- 
+Space - The final frontier

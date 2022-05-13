@@ -1,0 +1,30 @@
+Das Zitat lautet im Original:
+
+  A dustbin class?
+
+  Several of the traditional parts of speech lacked the coherence required 
+  of a well-defined word-class -- notably, the adverb. Some have likened 
+  this class to a dustbin, into which grammarians would place any word 
+  whose grammatical status was unclear. Certainly, the following words 
+  have very little structurally in common, yet all have been labelled 
+  'adverb' in traditional grammars:
+
+  tomorrow    very       no
+  however     quickly    when
+  not         just       the
+
+  "The", an adverb? In such contexts as "The more the merrier".
+
+
+Das klingt mir moderner als was ich in der Schule gelernt habe. Damals 
+wäre "schnell" noch ein Adverb als Wortart gewesen, das eben zufällig so 
+aussieht wie das Adjektiv. (Man könnte ja auch sagen, dass das Nullmorphem 
+ans Adjektiv angehängt wurde.) Ich halte die Unterscheidung zwischen 
+Adjektiv und Adverb in solchen Fällen für ein Relikt aus einer Zeit, in 
+der alle Grammatiken gefälligst gleich zu sein hatten: gibts irgendwo
+Adverbien, dann auch im Deutschen ("schnell"), gibts irgendwo einen Dativ, 
+dann auch im Englischen ("to the teacher"); Maßstab sind dabei die 
+klassischen Sprachen.
+
+-- 
+Dietmar Kemmer

@@ -1,0 +1,4 @@
+Du bist eine Pflaume!
+
+    SCNR,
+    	hp

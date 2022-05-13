@@ -1,0 +1,50 @@
+I'll argue below that it is indeed the only explanation in this
+case.
+
+
+In English class back in school you were probably taught to always
+backshift, except in cases of timeless facts.  That is an
+oversimplification.
+
+I checked what udowalz has to say on this.  It's covered in chapter 3,
+section 6.2, "The backshifted preterite, and it's as much of a
+nightmare as I remembered.  Backshifting is more or less optional,
+depending on the relative times involved and a number of conditioning
+factors (to quote some subheadings: reporter's attitude to the
+content, indication of deictic future, focus on original,
+simplification).
+
+Let's go back to our example, "I had forgotten that German was
+free of synonyms".  There are four possible sentences:
+
+If German is still free of synonyms:
+(1a) I had forgotten that German is free of synonyms.  [no backshift]
+(1b) I had forgotten that German was free of synonyms. [backshift]
+
+If on the other hand German is now no longer free of synonyms:
+(2a) I had forgotten that German was free of synonyms.    [no backshift]
+(2b) I had forgotten that German had been free of synonyms.  [backshift]
+
+Note that (1b) and (2a) are identical and on seeing this sentence
+there is no formal way to deduce the current state of the German
+language.
+
+We need to involve plausible semantics.  The fact that German is
+free of synonyms is highly unlikely.  In fact it is so unlikely
+that we can readily recognize it as an ironic statement, making it
+paradoxically a likely one.  By comparison, the suggestion that
+Germon used to be free of synonyms, but now isn't, is a truly
+unlikely statement.  Taken together, this forces
+
+  I had forgotten that German was free of synonyms.
+
+to be interpreted as (1b).  Alternatively, the speaker may choose
+the phrasing (1a); both are equivalent.
+
+If you want to go against the listener's expectation and express
+that German really has changed, you need to use (2b).  (2a) is only
+available if you have already previously mentioned that German has
+changed, conditioning the listener to that interpretation.
+
+-- 
+Nick "nicola" Olfenbüttel                          kiltg@mszy.ilbb.xv

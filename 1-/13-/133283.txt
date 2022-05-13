@@ -1,0 +1,7 @@
+Im Usenet bisweilen ÿprinx auch...
+
+
+"A && !(B == C)" ist für alle A, B, C aus {0, 1} janeinbar! :)
+
+
+walter

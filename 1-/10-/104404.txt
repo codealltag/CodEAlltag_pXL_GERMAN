@@ -1,0 +1,14 @@
+"�" ist kein Oktett, es ist ein Zeichen. In ISO-8859-1 wird das Zeichen
+"�" durch das Oktett 0xDF repräsentiert, in UTF-8 wird das Zeichen "�"
+durch die Oktettfolge 0xC3 0x9F repräsentiert. Das Oktett 0xC3 in einem
+UTF-8-kodierten Text ist kein "�". Zu einem solchen wird es nur wenn man
+den UTF-kodierten Text fälschlicherweise als ISO-8859-1 dekodiert.
+
+
+Also sind ca. 20% quoted-printable und damit für die Auswertung von
+Wörtern mit Nicht-ASCII-Zeichen unbrauchbar, wenn Du das nicht
+dekodierst. Und vom Rest wird wieder ein Teil nicht ISO-8859-1 sein,
+somit hast Du vielleicht 30% Postings, die Du falsch dekodierst und die
+damit die Statistik verzerren.
+
+	hp

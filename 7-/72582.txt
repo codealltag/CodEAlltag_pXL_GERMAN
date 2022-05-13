@@ -1,0 +1,11 @@
+Die nennt man dann ASICs oder "customized chips"; aber nach dem gleichen
+Schema könnte man auch sagen, jeder Rechner sei vorprogrammiert, weil er
+ja über ein BIOS/EFI/$whatever verfügt, und womöglich sogar schon ein
+Betriebssystem vorhanden ist, das beim Einschalten aktiviert wird...
+Oder denken wir an Kabel-/Satelliten-Receiver, die bereits im Werk oder
+vom Händler mit den gängigen Programmen für Deutsche Lande gefüttert
+wurden.  Ist das "Vorprogramieren"?  Oder der Prof tippt ein und seine
+Studis gucken zu?  ;-)
+
+
+clemens

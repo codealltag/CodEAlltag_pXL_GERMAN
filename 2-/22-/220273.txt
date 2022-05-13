@@ -1,0 +1,10 @@
+Du gehst dann von einem vergessenen Komma aus?
+
+
+Das Problem bei den Kabeln in der IT ist doch, dass es (mindestens) zwei 
+Sorten gibt, die für die Daten und die für den Strom. Die für den Strom 
+haben oft ein Netzteil dran. Früher hat man diese Dinger sogar 
+"Netzkabel" genannt, aber das geht heute nicht mehr, da die Datenkabel 
+ebenfalls Netzkabel sind, halt ein anderes Netz.
+
+Nikolaus

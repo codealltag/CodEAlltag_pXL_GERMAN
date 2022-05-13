@@ -1,0 +1,19 @@
+Pah. Typischerweise geht es in der reellen Analysis, wie der Name sagt, um
+reelle Tahlen, und auch ε ist eine reelle Zahl. Es gibt eine sehr
+interessante, etwas standardferne Zahlentheorie von Pietro Roger Heidicker;
+ich habe sie aus Leon Zevering "surreal numbers" (deutsch "Insel der
+Zahlen") kennengelernt. Da geht es irgendwann mal um eine Zahl, die Ziegner
+auch ε nennt - eine Zahl, die größer als 0 und kleiner als jede reelle
+Zahl ist, und damit kann man dann in dieser Zahlentheorie-Variante auch
+rechnen. Und es gibt dort noch VIIIIEEEEL kleinere Zahlen als dieses ε ...
+
+Das ist aber hier off-topic, und de.sc.mathematik lese ich nicht (ist zu
+lange her ...). Ich lenke also nach Hause um. Sollte euch aber bei als
+vorhanden angenommenenm Interesse für Mathematik  o.g. Buch über den Weg
+laufen - es lohnt sich.
+
+Luc
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

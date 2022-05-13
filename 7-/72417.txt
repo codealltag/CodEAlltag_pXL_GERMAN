@@ -1,0 +1,14 @@
+Eben. Sag ich doch.
+Das Initialisierungsprogramm lag auf dem Rechner. Obendrauf.
+Menschenlesbar.
+Und man musste es nicht abtippen, sondern eintoggeln.
+
+
+Ok, bei mir war's deutlich früher, so um 1981 rum.
+Aber alt war die Kiste auch da schon.
+"Nebenan" hatten wir schon UNIX.
+Z8000-"Mehrplatz", d.h. man konnte 8 oder so Terminals
+anschließen, aber wenn mehr als 2 Leute arbeiten wollten,
+konnte der Rest Kaffee holen.
+
+/Otto

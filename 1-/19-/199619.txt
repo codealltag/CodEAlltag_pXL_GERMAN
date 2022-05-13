@@ -1,0 +1,9 @@
+* Valerius Eichinger:
+
+
+Und, ist sie auch eine?
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Edouard Dörfelt
+   in cd.fph.vdclunni.recovery)

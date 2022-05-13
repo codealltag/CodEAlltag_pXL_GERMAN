@@ -1,0 +1,12 @@
+In neuer RS ist ein Hund, der mit einem Ball spielt, entweder ein
+ballspielender Hund oder ein Ball spielender Hund (� 36 Amtl.
+Regelung).
+
+Ein Hund, der *einen* Ball spielt, ist immer nur ein "einen Ball
+spielender Hund". Wenn das "einen" fehlt, denkt man es sich dazu. Und
+weil man es sich dazudenken kann, wird aus dem Ganzen anstatt einer
+Zusammensetzung eine auseinander zu schreibende syntaktische Fügung.
+
+Analog: 
+Zusammensetzung: der blutsaugende Vampir - der Blut saugende Vampir
+Syntaktische Fügung: der *ihr* Blut saugende Vampir

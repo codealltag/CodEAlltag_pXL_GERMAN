@@ -1,0 +1,18 @@
+In binären Systemen fester Länge setzt man bei signierten ganzen Zahlen 
+das höchste Bit auf 0 für positiv und 1 für negativ, so dass bei der 
+Addition der negativen und der positiven Zahl 0 herauskommt, wenn man 
+den Übertrag des Vorzeichenbits wegwirft.
+
+Ebenso ist das Setzen des höchsten Bits im Zeichenbyte ein einfaches 
+Verfahren, Groß- und Kleinschreibung zu kodieren.
+
+Das alles natürlich aus Sicht von ASCII-Englisch-Entwicklern, Leuten, 
+die irgendwie übersehen hatten, dass es außer Englisch, FORTRAN und 
+COBOL auch noch andere Sprachen und Schriften gab, und die sich noch 
+nicht vorstellen konnten, dass Speicherbedarf, Zeit und 
+Übertragungsgeschwindigkeit eines Tages keine Rolle mehr, Kodierungs-, 
+Darstellungvielfalt und Datensicherheit die zentrale Rolle spielen würden.
+
+-- 
+
+Thorsten Tillmans

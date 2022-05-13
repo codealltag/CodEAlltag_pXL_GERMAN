@@ -1,0 +1,17 @@
+So unmittelbar untereinander schaut das natürlich blöd aus. 
+
+Aber Eingabefelder für numerische Werte mit zwei Pfeilchen daneben sind
+seit mindestens 10 Jahren üblich, und wenn Du ein Feld vor Dir siehst:
+
+                /\
+    Wert: [123]
+                \/
+
+auf welchen der beiden Pfeile würdest Du drücken, um den Wert auf 124 zu
+ändern?
+
+	hp
+
+
+-- 
+   _  | Charly U. Ingenhoff    | Deprecating human carelessness and

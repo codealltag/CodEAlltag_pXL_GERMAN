@@ -1,0 +1,7 @@
+Das tut der PDF Printer auch. Und zwar aus *jedem* Windows-Programm heraus,
+dass über den Standarddialog druckt.
+
+Alleine deswegen oOO zu verwenden, ist an den Haaren herbeigezogen.
+
+-- 
+Space - The final frontier

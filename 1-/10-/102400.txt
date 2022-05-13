@@ -1,0 +1,18 @@
+* Wolfram Cloots:
+
+
+Da fehlt für mein Gefühl allerdings etwas wichtiges. Der Satz "Man kann
+nicht nicht handeln" handelt nicht von Menschen, die potentiell zeit
+ihres Lebens keine einzige Handlung vollziehen - das wäre absurd. Die
+Zeit wird hier impliziert, und die würde ich beim Versuch, die Semantik
+zu formalisieren, explizit machen. Also z.B.:
+
+  Es gilt nicht:
+  ( Es gibt einen Menschen M, so daß gilt:
+    ( Es gibt einen Zeitpunkt T, so daß gilt:
+      ( Es gilt nicht:
+        ( M handelt zum Zeitpunkt T. ))))
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

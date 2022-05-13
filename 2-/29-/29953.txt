@@ -1,0 +1,11 @@
+"Borg" ist einerseits ein Spezialfall, weil die Mitglieder der Borg nur
+begrenzte Individualität haben. Solange sie verbunden sind, sind sie
+eigentlich nur "einer der Borg".
+
+Zum anderen, das wurde schon gesagt, gibt es ein paar Völkernamen, bei
+denen kein separater Plural gebildet wird, z.B. "die Khmer", "die
+Hmong", "die Karen" etc.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Helmuth Miebach, comp.lang.python

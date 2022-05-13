@@ -1,0 +1,9 @@
+Carsten Wasserbäch:
+
+
+Doch, sind sie. Nennt sich OCR.
+
+
+Captchas zeigen Zeichen deshalb sehr verzerrt, in unterschiedlicher
+Helligkeit, und oft teilweise "ausradiert", durchgestrichen, u.�.
+Eben um automatische Erkennung mittels OCR zu verhindern.

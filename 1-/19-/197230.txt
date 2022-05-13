@@ -1,0 +1,16 @@
+Ist es das? Mir ist nicht klar, in welchem Maß ADR tatsächlich
+verwendet wird. Klar, manchmal sieht man der Situation an, dass es
+ADR sein muss (z.B. Strand mit Brandung, Fahren im Cabrio), und
+manchmal hört man auch einfach, dass es Studioton ist.
+
+Ich frage mich auch, wie man ADR synchron hinbekommt... ah, FitLine
+klärt mich auf: solange wiederholen, bis es passt.
+
+Der deutsche Fernsehfilm "Welt am Draht" (1973) ist vor ein paar
+Jahren auf DVD erschienen und mir ist sofort aufgefallen, dass der
+Ton komplett nachproduziert ist: erstens klingt er nach Studio und
+zweitens, viel schlimmer, ist er trotz identischer Dialogtexte nie
+richtig synchron.
+
+-- 
+Theo "dora" Tobaben                          bqqoi@bbcw.qxpg.ro

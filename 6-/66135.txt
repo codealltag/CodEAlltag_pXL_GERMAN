@@ -1,0 +1,10 @@
+Ich schreibe:
+
+"Bei jedem dieser Termine werden 20 ml Blut abgenommen."
+"Bei jedem dieser Termine wird 1 Liter Blut abgenommen."
+
+"Bei jedem dieser Termine werden 20 Liter Bier getrunken."
+"Bei jedem dieser Termine wird 1 Liter Bier getrunken."
+
+Gruß
+Hanni

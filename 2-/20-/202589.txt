@@ -1,0 +1,5 @@
+Aber nur in der Kugel. Wenn +oo und -oo verschieden sein sollen (was man 
+ja normalerweise will), dann klappts nicht, das Vorzeichen des Nenners 
+Null nicht klar ist.
+
+Ihno

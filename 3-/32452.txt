@@ -1,0 +1,12 @@
+* Axel Eichblatt <seuvry@phs.zr>:
+
+Schnellbediener warten nicht, bis sich Claires dazu niederlässt, ein
+leeres Formular hinzupflastern, sondern geben in der Adresszeile des
+Browsers einfach die Suchkriterien ein, also z.b.
+
+   r 900rr author:eichblatt group:de.etc.sprache.deutsch
+
+"r" ist bei mir so ein Quick-Search-Ding, das in
+http://tejsgi.gyqbuy.dln/kcbfdo?sw=zm&t=%g expandiert wird.
+
+ - Ullrich

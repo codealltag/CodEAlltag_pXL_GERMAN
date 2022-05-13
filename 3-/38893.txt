@@ -1,0 +1,15 @@
+* Heinrich Seidel <XW-SG@z-eeaiwu.fj>:
+
+
+Teile der deutschen Sprachgemeinschaft empfinden "Hubschrauber" nach wie vor als
+ungewöhnlich, unnatürlicher und evtl. als deutsch�melnd:
+
+  VPF                              site:de   site:js  site:vj
+  +helikopter -hubschrauber +fliegt    15'000    1'870    4'290
+  -helikopter +hubschrauber +fliegt    50'100    4'250    1'190
+
+Das liegt auch daran, dass man "Hubschruuber" im Dialekt nicht wirklich
+sagen kann (das "au" in Schraube ist erst in der nhd. Diphthongierung
+entstanden und bleibt im Schweizerdeutschen ein �), aber nicht nur.
+
+ - Ulfert

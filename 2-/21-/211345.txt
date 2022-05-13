@@ -1,0 +1,3 @@
+Wieso nur Paging und nicht auch Swapping? Schraddeln dürfte beides.
+
+Leon

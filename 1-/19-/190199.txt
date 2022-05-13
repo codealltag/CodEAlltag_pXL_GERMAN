@@ -1,0 +1,21 @@
+Vielleicht. Das Regel, dass für Entlehnungen ein deutsches Genus gebildet
+wird, indem das Genus eines vorhandenen Synonyms übernommen wird, kann
+durchaus in Einzelfällen zutreffen, aber das lässt sich nicht überprüfen, weil
+es zu viele Synonyme gibt, so dass sich fast jedes Genus *so* begründen lässt:
+
+der Brief => der E-Mail
+die Mitteilung => die E-Mail
+das Schreiben => das E-Mail
+
+der Locator, der Netzort => der URL
+die (Netz-)Adresse => die URL
+das Netzdomizil => das URL
+
+Ich halte diese Regel sowieso für nachrangig gegenüber der Form des Worts
+("die Garage", weil im Deutschen Wörter auf -e fast alle feminin sind, wenn
+sie nicht wohldefinierten Klassen angehören, die anderes Genus verlangen) und
+gegenüber offensichtlich verwandten Wörtern ("das Date" (Stelldichein, nicht
+die dort anzutreffende Person) wegen "das Datum").
+
+-- 
+Otmar Opgenvorth

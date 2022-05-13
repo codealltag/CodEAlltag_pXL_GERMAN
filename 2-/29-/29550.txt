@@ -1,0 +1,14 @@
+Oh.
+Also, es geht eigentlich (bei meinem Beispiel) um umkehrbare Schritte in 
+einer Softwarebedienung einer Hardware.
+Manche Schritte sind nicht umkehrbar, sondern müssen erst als 
+Schrittfolge getätigt werden (genau, wie in Deinem Beispiel), im Ganzen 
+sind sie wohl dann doch umkehrbar.
+
+Aaaber: Das mit der Schweiz macht mich nun hellhörig, denn ein 
+vergleichbares Produkt wurde auch für einen schweizer Kunden realisiert.
+
+Vielleicht kommt der Ausdruck ja daher und ich tue meinen Kollegen 
+insofern Unrecht.
+
+Viele Größe von Henry

@@ -1,0 +1,20 @@
+Jeanette Jurich:
+[...]
+
+Ist doch in Ordnung, so.
+
+In der Anwendung, die ich aktuell entwickle, spielen Rufnamen keine 
+Rolle. In einer anderen, für eine niederländische 'Volkshochschule', 
+ist er aber wichtig (es wird ja automatisch geduzt!). Dort sind dann 
+die 'echten' Vornamen nicht gewünscht, sondern nur Initialen. Und so 
+lautet die Eingabe dort:
+
+
+Titel    Initialen  Rufname     Präfix  Nachname(n)   Titel
+
+....und selbstverständlich Geschlecht, Geburtsdatum, Muttersprache und 
+Zahlungsangaben.
+
+
+-- 
+Manuel

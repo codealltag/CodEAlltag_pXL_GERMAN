@@ -1,0 +1,45 @@
+Modelle pflegen zu vereinfachen und von Details, und zwar auch von 
+wichtigen Details, zu abstrahieren. Über die Frage zu streiten, ab welchem 
+Maß der Vereinfachung ein Modell falsch oder irreführend ist, erscheint 
+mir müßig.
+
+In meinem letzten Beitrag ging es mir um zwei Dinge, für die beidesmal 
+eine Analogie zu Zoologie und Botanik besteht:
+
+1. Egal, ob die Taxonomie von Anfang an als genetische Abstammung 
+verstanden wurde: wenn -- und das ist sowohl in der Biologie wie in der 
+Linguistik der Fall -- *auch* eine genetische Abstammung postuliert wird 
+und diese dann weitgehend mit der vorhandenen, möglicherweise nach anderen 
+Kriterien festgelegten Taxonomie zusammenpasst, wird man 
+selbstverständlich die Taxonomie abändern, wenn es neue Erkenntnisse über 
+die genetische Abstammung gibt.
+
+2. Manche Anwendungen der Taxonomie erfordern die Baumstruktur, z.B. ein 
+Lehrbuch, in dem jeder betrachtete Gegenstand an genau eine Stelle 
+hingehört. Die Abstammung von Sprachen (in dem Sinne, dass eine der 
+Elternsprachen eine wesentlich wichtigere Rolle hat als die anderen, was 
+in *wenigen* Einzelfällen, z.B. Mbugu, auch mal nicht weiterführen kann) 
+gibt eine praktsch verwertbare Taxonomie her. *Das* ist kein Fehler und 
+keine Ungenauigkeit -- der Fehler besteht nur darin, diese Abstammung so 
+misszuverstehen, als wären andere Einflüsse als die der Elternsprache 
+unbeachtlich. Das ist aber gar nicht gemeint.
+
+Ich fange an, mich zu wiederholen: wer aus einem Modell herausliest, was 
+nicht drinsteckt, darf den Fehler, den er macht, nicht dem Modell 
+anlasten.
+
+
+Kann sein. Aber egal: man hat sie als unverzichtbar gelernt, deswegen aber 
+doch nicht die Taxonomie ändern müssen.
+
+
+Das Bild vom Baum kann man auch so interpretieren, aber diese 
+Interpretation ist so einseitig, dass man sie besser einfach falsch nennt. 
+Trotzdem zeigt der Baum doch *eine* Relation korrekt an, und diese ist zur 
+Bildung einer sinnvollen Taxonomie geeignet. Zur Erklärung aller 
+wesentlichen Ursachen für die Herausbildung von Sprachen ist sie freilich 
+ungeeignet, aber das behauptet ja auch niemand, der dieses Bild heute 
+verwendet.
+
+-- 
+Jean-Pierre Gerhäusser

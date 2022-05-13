@@ -1,0 +1,13 @@
+Ein passender Titel.
+
+
+Ah, Bullshitbingo die 793ste:
+
+Noch schlimmer als das Produkt ist die "Produktion". Wir haben einen
+Testserver und einen Produktionsserver (Genaugenommen, haben wir jeweils
+mehrere, aber das ist hier irrelevant). Der Produktionsserver produziert
+aber auch nix außer Abwärme. Gemeint ist, dass das der Server ist, der
+das Service den Usern zur Verfügung stellt. Wie nennt man sowas kurz,
+prägnant und unter Vermeidung von aufgerollten Zehennägeln?
+
+	hp

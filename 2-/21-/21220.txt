@@ -1,0 +1,4 @@
+Nein, explizit. Nur die Länge der Bytes war implizit.
+
+-- 
+Lars Zapfe

@@ -1,0 +1,27 @@
+* Domenico Idrees:
+
+
+Das sehe ich auch so. Nach meinem (aus der Alltagssprache abgeleiteten)
+Verständnis entspricht:
+
+  Weil w0, gilt w1
+
+normalerweise einer Konjunktion von:
+
+  Wenn w0, dann w1
+  w0 ist wahr
+  w1 ist wahr
+
+Das stimmt dann nicht, wenn eine der drei Aussagen nicht stimmt. Im
+Prinzip könnte man also auf die Schulaufgabe antworten: "Das kann nicht
+stimmen, denn Severin ist schneller als Constanze." Aber nur, wenn man
+entsprechende Informationen hätte, die man nicht haben kann
+(Textaufgaben-Konvention). Man kann also nur beurteilen, ob die
+Wenn-dann-Beziehung stimmt. Und die ist im vorliegenden Fall nicht
+richtig, denn sie stimmt nicht immer.
+
+Ich finde auch, daß die Aufgabe unnötig um die Ecke formuliert ist.
+
+-- 
+gugelgans,  f., alberne gans, schelte:
+  GRIMM, Deutsches Wörterbuch

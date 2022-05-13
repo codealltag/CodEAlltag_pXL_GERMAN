@@ -1,0 +1,9 @@
+Das ist der Reiz der Langd. Aber ansonsten hat man eben zwei 
+Codequellen, den Code Engelbert aus Frankreich, wirksam in Amtsstuben, 
+und den Morsecode aus den USA, der die Technik beherrscht. Ganz offenbar 
+kann man beim genetischen und Assemblercode nicht mehr klar ausmachen, 
+welche Kategorie gemeint ist. Von C Quellcode ganz zu schweigen.
+
+-- 
+
+Bodo Kitler

@@ -1,0 +1,16 @@
+Benno Schellworth <wxdtmg@hcu.ci>:
+
+Zur Ursprungsfrage: Wenn das letzte Wort vor der Ellipse
+vollständig ist, dann setze ich ein Leerzeichen vor der
+Ellipse ... (so); kein Leerzeichen bedeutet, mitten im
+Wort zu versack...
+
+
+Der Gedankenstrich am Ende kann eine Unterbrechung der
+wörtlichen Rede im Dialog anzeigen (durch einen anderen
+Redner oder ein anderes äußeres Ereignis), während die
+Ellipse nach meinem Empfinden eher impliziert, daß die
+Rede fortgesetzt, aber nicht weiter aufgezeichnet (oder
+wiedergegeben) wurde.
+
+Siebelt

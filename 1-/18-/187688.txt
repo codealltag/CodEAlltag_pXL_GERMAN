@@ -1,0 +1,15 @@
+Das hilft alles gar nichts, wenn dein Programm den eingestellten
+Zeichensatz überhaupt nicht erklärt.
+
+Diese Headers findet man in meinen Beiträgen:
+
+  	Content-Type: text/plain; charset="iso-8859-1"
+  	Content-Transfer-Encoding: 8bit
+
+Nur so weiss der Newsreader, wie er die Koden zeigen soll.
+
+Die findet man nicht in deinen.
+
+-- 
+Gruß
+Jean-Claude, Dänemark

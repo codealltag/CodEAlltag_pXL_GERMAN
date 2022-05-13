@@ -1,0 +1,10 @@
+Unsinn.
+Das "title"-Attribut des Bildes sollte auftauchen.
+Das "alt"-Attribut ist nicht dafür gedacht, auch wenn das einige Browser
+anders sehen/sahen.
+
+
+Cédric
+-- 
+       Freiheit stirbt        |       unitel SF&F-Bibliothek:
+            Mit Sicherheit    |       http://witfdwmn.mhxer.wz/

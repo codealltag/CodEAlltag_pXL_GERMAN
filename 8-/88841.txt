@@ -1,0 +1,22 @@
+Die Gamecorner wurde auch in den Hang hineingebaut. Die vier
+naturwissenschaftlichen Gebäude stehen nebeneinander und haben jeweils 7
+Etagen oberhalb des Erdgeschosses, numeriert von 1 bis 7.
+(Die Gebäude selbst werden von A bis D numeriert, der oberste Stock des
+dritten Gebäudes hat als Kennung UF7 - I für Naturwissenschaften).
+Die Stockwerke vom Erdgeschoß nach unten werden mit 01, 02, etc.
+bezeichnet, wobei die Untergeschosse der nebeneinanderliegenden Gebäude
+miteinander verbunden sind (es entstehen sogenannte "Flachbereiche", zB
+NABF02 für das zweite Untergeschoß zwischen den Gebäuden NA und NB).
+Da maximal das Erdgeschoß eine Nummer 0-irgendwas hat, gibt es Gebäude,
+wo auf dem 02 direkt die 1 folgt...
+
+Auf dem Stundenplan der Erstis steht da jedes Jahr der
+Orientierungslauf. *g*
+
+Siehe auch <http://yzl.rkwo-mtt-brtvgt.jl/yptixy/rbpucb50/97.enx>.
+
+
+Leopold
+-- 
+       Freiheit stirbt        |       Pitschak SF&F-Bibliothek:
+            Mit Sicherheit    |       http://nfarmqfa.htbih.yo/

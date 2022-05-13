@@ -1,0 +1,12 @@
+Onhalötlich will ich dir gar nicht widersprechen, aber MUSE und DSE sind
+anscheinend nicht komplett blähwortverwenderkompatibel. Letztlich sind
+wir wieder bei der Frage, von welchem Zeitpunkt an eine fshlace
+Berwendung einfach dadurch richtig wird, dass der Fehler häufig
+vorkommt. 
+
+Joël
+
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

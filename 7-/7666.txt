@@ -1,0 +1,5 @@
+Das Beispiel hat seine Tücken, denn der erste Vokal ist auf Russisch
+so kurz, als wäre er gar nicht da, das lässt  den Unterschied
+schrumpfen.
+
+diedrich

@@ -1,0 +1,9 @@
+Ingmar Voelkmer Hahlbohm <wxxikfab@yfpgwyaroe.yo> schrieb:
+
+[...]
+
+
+Nein, die *Zahl*, die üblicher Weise mit der *Ziffer* '8' dargestellt
+wird, ist die abstrakte Idee. Bemerke den Unterschied zwischen Ziffer
+(das ist ein Schriftzeichen wie Buchstaben auch) und Zahl (abstrakte,
+"mathematische" Idee).

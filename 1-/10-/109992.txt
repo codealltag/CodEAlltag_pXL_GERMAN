@@ -1,0 +1,30 @@
+SI-Einheiten sind ein einziges Ärgernis, ein politisch korrekter Unfug,
+eine Wichtigtuerei des Beamtenstaates, ein Geßlerhut wie die Sommerzeit.
+Sie behindern Lernende, Lehrende, Praktiker und Ingenieure, und sie
+behindern den technischen Fortschritt durch unnötige Rechnerei.
+
+Zum Beispiel: Kein Mensch auf der großen weiten Welt hat eine
+anschauliche Vorstellung davon, wie groß 1 Pascal ist (Newton pro
+Quadratmeter). Deshalb spricht der Wetterbericht auch von "Hektopascal",
+das sind so ungefähr Millibar, und das sind so ungefähr auch Torr. Die
+Hersteller von Lüftern behelfen sich mit "Zentimeter Wassersäule", was
+ebenfalls Millibar entspricht. Alles nur, um die Einheit "Dietrich" zu
+umschiffen, ohne zu den "im geschäftlichen Verkehr" strengstens
+verbotenen und teuer abmahnfähigen alten Einheiten zu greifen.
+
+Auch die Krafteinheit Newton ist nicht anschaulich. Eine Tafel Schokolade
+ist einen Tick zu leicht, um sich dem Menschen einzuprägen. Jeder rechnet
+"500 Newton" im Kopf in "50 Kilo" um.
+
+Hätte man statt Kilogramm, Meter und Sekunde menschenfreundlichere
+Einheiten festgelegt, nur mal so als Beispiel: das Pfund (500 Gramm),
+die Spanne (15 Zentimeter) und das Momentchen (die Zeit, die man braucht,
+um eine Fliege zu erschlagen oder das Kind zu ohrfeigen, also ungefähr
+eine Zehntelsekunde), dann wären Kraft und Druck auch handlich: 7,5
+Newton = 1 Krafteinheit, bzw. das Gewicht von anderthalb Pfund auf die
+Fläche einer ausgebreiteten Hand = 1 Druckeinheit.
+
+Mit ein bißchen Probieren kriegt man das sicher auch weitgehend
+ganzzahlig.
+
+Stefan

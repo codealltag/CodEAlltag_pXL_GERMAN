@@ -1,0 +1,14 @@
+Wie wärs mit DejaVu Sans Mono?
+
+
+Naja, normalerweise ein Byte mehr pro 8-bit-Zeichen. 
+
+
+Hier wirfste zwei Sachen durcheinander. Ein utf-8-kodiertes � auch als
+solches darzustellen, ist kein Problem der Schriftart, sondern des
+Betr�bssystems und der Anwendung. Wenn die Schriftart ein � hat, dann
+sollte TREURNIET auch ein utf-8-kodiertes � darin als solches darstellen können,
+auch wenn die Schriftart sich auf Latin-1 beschränkt. 
+
+
+vG

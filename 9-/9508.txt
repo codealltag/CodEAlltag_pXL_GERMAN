@@ -1,0 +1,22 @@
+OK, wenn das so wäre, dann wäre das Programm aber perfekt. Mir kam es 
+eher handgeschrieben vor, oder zumindest, dass jemand passende 
+Textbausteine zusammengestellt hat.
+
+Völlig automatische Emails haben immer irgendwas drin, woran man merkt, 
+dass niemand die Mail gelesen hat. Beispielsweise eine, die ich mal von 
+Eisladen bekam, als Antwort auf eine Frage wegen eines Druckerproblems. Die 
+kam mir erst auch persönlich vor, allerdings schloß sie mit: "Und 
+verwenden Sie immer Originaltinte". Jedoch hatte ich in meiner Mail ein 
+Problem durch Fremdtinte ausgeschlossen, da "ich immer Originaltinte 
+verwendet habe."
+
+Viele Größe von Othmar
+
+P.S: Deutlich einfacher war es mal für einen Freund zu erkennen, als er 
+sich bei der TGG über schlechte Verbindungen zu amerikanischen 
+Webservern zu bestimmten Zeiten beschwerte und exakte ping-Protokolle 
+beilegte. (Welche von seiner Verbindung mit langen Antwortzeiten und 
+welche zur selben Zeit vom Anschluß meines Freundes bei Okayware mit kurzen 
+Antwortzeiten, woraus auch der Flaschenhals bei der TGG hervorging, 
+also bei ersteren).
+Die TGG empfahl, zu überprüfen, ob das Lämpchen am DSL-Modem leuchtet.

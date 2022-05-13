@@ -1,0 +1,7 @@
+Stephan Rathgen tat kund:
+
+
+Gibt es immer noch kein System, mit dem man die
+Beschleunugungskräfte im Simulator auf den Fahrer
+übertragen kann? Irgendwas, das ihn nach vorne oder
+zur Seite drückt?

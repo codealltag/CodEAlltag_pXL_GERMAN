@@ -1,0 +1,17 @@
+Gute Idee, funktioniert aber in Dialog nicht, das zählt die Korrektur
+anscheinend nicht als einzelnen Schritt, sondern macht auch den
+Leerschritt gleichzeitig rückgängig. Somit steht der Cursor dann wieder
+im Wort "HErr", und beim Verlassen desselben wird die Korrektur erneut
+ausgeführt.
+
+Jetzt habe ich noch festgestellt, daß das Wort in Anführungszeichen
+nicht mehr nachträglich korrigiert wird, wenn es erst mal so und mit
+folgendem Leerschritt dasteht. Aber beim ersten Eintippen schon, hilft
+also wenig. Wenn man's öfter braucht, sollte man es als Makro speichern
+;-).
+
+Mal probieren - das klappt HErr lich.
+
+-- 
+die gugelm�nner schleppen leichen, kranke LILIENCRON
+  GRIMM, Deutsches Wörterbuch

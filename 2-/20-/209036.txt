@@ -1,0 +1,16 @@
+Am 01.08.2012 22:11, schrieb Eberhard Benjamin:
+...
+
+
+Das ist für mich die beste Wahl und ein Musterbeispiel dafür,
+wann man ein ; nehmen kann oder soll.
+
+Setzt man anstelle des ; einen Punkt, dann stehen die Sätze
+leblos nebeneinander.
+
+Schreibt man
+"Die Buchstaben sind Zeichen ("d"as A ist beispielsweise ein Zeichen).",
+dann wird die Bedeutung der zusätzlichen Erklärung herabgesetzt.
+
+Gruß
+W.I.

@@ -1,0 +1,10 @@
+Am Wed, 24 Feb 2010 09:00:42 -0500 schrieb Philipp Vögerl:
+
+
+Sicher sind solche Fehler verbreitet. In dem speziellen Fall wollte ich
+"einmal mehr" schreiben, das dann aber in "ein weiteres Mal" ändern, wobei
+"mehr" stehenblieb. Es ist ein Flüchtigkeitsfehler, und ich bin mir sicher,
+dass ich das vermeiden kann, wenn ich mir etwas mehr Zeit lasse.
+
+Gruß
+Gilles.

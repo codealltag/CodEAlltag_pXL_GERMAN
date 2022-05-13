@@ -1,0 +1,36 @@
+Ja, solche Beispiele meinte ich. Im letzten Beispiel ist es zwar auch ohne 
+eine angenommene Sonderregel für Kasusersatz logisch: Ich wasche die 
+Haare, und wem tue ich das? Mir. Ich hätte jemande*m* auch eine Tür 
+öffnen, ein Lied singen oder sonstwas tun können, was meist ohne 
+Dativobjekt auskommt.
+
+Man kann nun Dativobjekte als etwas Eigenständiges betrachten (das Objekt 
+steht im Dativ, wenn es Nutznießer oder Opfer der Handlung ist) oder nur 
+als Ersatz für das Akkusativobjekt (das Objekt steht im Dativ, wenn der 
+Platz des Akkusativobjekts schon verbraucht ist). Auf die meisten 
+Satzkonstruktionen passen beide Betrachtungsweisen. Nur Verben 
+ausschließlich mit Dativ (folgen, helfen) und doppelte Akkusative passen 
+nicht ins zweite Schema.
+
+Das Beispiel in Zeidel Buch habe ich nach längerem Suchen gefunden. Es 
+ist aus dem Türkischen und bezieht sich auf kausative Verben, die im 
+Türkischen regelmäßig gebildet werden. Wenn das nicht-kausative Verb ein 
+Akkusativobjekt hat, ist beim kausativen Verb der Akkusativ schon 
+verbraucht:
+
+  deutsch:  Er trinkt. Ich tränke ihn.
+            Er trinkt Milch. Ich tränke ihn *mit* Milch. 
+
+Akkusativ besetzt: Ausweichen auf präpositionales Objekt.
+
+  türkisch (übersetzt): Er trinkt. Ich tränke ihn.
+            Er trinkt Milch. Ich tränke *ihm* Milch.
+
+Akkusativ besetzt: Ausweichen auf Dativ.
+
+Dann folgt ein noch komplexeres Beispiel, wo dieser Dativ auch noch 
+besetzt ist und auch die Türken auf eine Präposition (im Türkischen dann 
+Postposition) ausweichen müssen.
+
+-- 
+Valerius Bünte

@@ -1,0 +1,11 @@
+Am Thu, 3 Jun 2011 12:42:45 +0100 schrieb Luc Jünemann:
+
+
+Bei der ersten Variante hast Du aber das Problem, das ein nicht
+unerheblicher Teil der Benutzer Probleme hat, zwischen dem "-" und dem "_"
+zu unterscheiden ("Wie bekommt man denn diesen komischen Strich da unten
+hin?").
+
+Größe,
+
+Markus

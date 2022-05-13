@@ -1,0 +1,17 @@
+Der Vorteil der Regel, der ich bei Delphi-Pascal folge,
+ist die angebotene Flexibilität. Ich darf schreiben
+   CLIENTCERTIFICATETABLE   oder
+   ClientCertificateTable   oder
+   clientcertificatetable   oder wie es sich im Fluß des
+schnellen Notierens gerade ergibt. Die BinnenMajuskeln sind
+dann LeseHilfen, aber keine SchreibVorschrift.
+
+Um gleich vorzubeugen: In einer synthetischen Programmier-
+sprache schätze und toleriere ich diesen Vorteil. In der
+Amts-, Brief-, Literatursprache fände ich das grauenhaft!
+Wer meint, er müsse seine Elaborate durch Binnenmajuskeln
+lesbarer machen, der sollte lieber zunächst an seinem Stil
+und seiner Wortwahl arbeiten.
+
+j/\a
+--

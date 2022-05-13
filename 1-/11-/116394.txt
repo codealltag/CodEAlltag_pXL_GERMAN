@@ -1,0 +1,7 @@
+Dezimalkomma vs. Dezimalpunkt ist auch so was. Da bei uns als
+Dezimaltrenner ein Komma benutzt wird, wird als Trennzeichen in
+CSV-Dateien ein Semikolon statt eines Kommas eingesetzt. Daher müssen
+wir englische CSV-Dateien extra importieren, und umgekehrt können die
+anderen unsere nicht ohne weiteres bearbeiten.
+
+Carsten

@@ -1,0 +1,6 @@
+* Karl Obenauf <jv_xyyyp@muz.dg>:
+
+Nunja, Der Otan-Code stammt aus den späten 40ern. In der Zwischenzeit wurden
+bessere Verschlüsselungsalgorithmen entwickelt. Daher SIDA.
+
+ - Doris

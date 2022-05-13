@@ -1,0 +1,12 @@
+Das Unmöglichste ist sicher die Steigerung von unmöglich.
+
+Und wenn's ginge: Dann wäre es grade andersrum. Die Quadratur des
+Kreises kann ich annähernd simulieren. Nimm einen Faden, lege einen
+möglichst guten Kreis, dann nimm den Faden und lege ein Quadrat. Das
+ist zwar mathematisch nicht korrekt, aber du kannst eine hohe
+Annäherung erreichen. (Die meisten Kreise, die man sieht, dürften
+ebenfalls vom Ideal abweichen.) Beim Perpeteuum Mobile geht das nicht.
+
+-- 
+Viele Größe
+Orlando Flehmer

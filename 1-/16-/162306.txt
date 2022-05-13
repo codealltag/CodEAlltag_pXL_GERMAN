@@ -1,0 +1,9 @@
+Im Falle von Computerspielen -- wo Szenarien (ggf. Karten/Maps) und auch
+Missionen als Ketten von Szenarien gespielt werden -- müßte auch die
+Erreichbarkeit des Spielziels angeführt werden, also neben "überhaupt
+spielbar" und "Spiel-freundliche Gestaltung". Es gibt auch "unmögliche
+Spiele" (mission impossible) mit derart hohem Schwierigkeitsgrad, daß das
+Ziel nie erreicht werden kann. Die Spielbarkeit ist ziemlich dürftig, wenn
+man nie (an)kommen kann.
+
+MfG, EDMUND [Vcdk_Tqo/lu/q-dllzbw.so]

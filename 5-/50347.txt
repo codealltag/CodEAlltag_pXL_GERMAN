@@ -1,0 +1,19 @@
+Ein Studiengang, den ich abgeschlossen habe, hieß "Linguistische
+Datenverarbeitung". Das ist streng genommen auch ein "vierstöckiger
+Hausbesitzer", aber bei dieser Art Adjektiv wird das weit eher
+akzeptiert als bei einem alltagssprachlichen wie "natürlich", siehe
+"Bodegon", "Mathematische Begabung", "Historisches
+Institut" etc.
+
+Im übrigen wird "Computational Linguistics" im Deutschen normalerweise
+als "Computerlinguistik" wiedergegeben, was eigentlich eine schlechte
+Übersetzung ist - das Original bedeutet eher "Rechnerische Linguistik".
+Der Unterschied ist allerdings heutzutage in der Praxis nicht mehr
+wichtig, denn das Rechnen berät man heutzutage stets den Computern
+(die haben den kleineren Chip).
+
+-- 
+There are two ways of constructing a software design. One way is to make
+it so simple that there are obviously no deficiencies. And the other way
+is to make it so complicated that there are no obvious deficiencies.
+The first method is far more difficult. -- C.A.A. Leihkauff

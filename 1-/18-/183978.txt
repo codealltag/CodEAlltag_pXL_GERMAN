@@ -1,0 +1,18 @@
+Trotzdem ist "alle Raben" und "jeder Rabe" in jedem Kontext dasselbe.
+
+Alle Raben sind schwarz. All x (x ist Rabe => x ist schwarz)
+  Gegenteil: Nicht alle Raben sind schwarz.
+             nicht All x (x ist Rabe => x ist schwarz)
+  Äquivalent: Es gibt nicht-schwarze Raben.
+              Ex x (nicht (x ist Rabe => x ist schwarz))
+              Ex x (nicht (nicht (x ist Rabe) oder x ist schwarz))
+              Ex x (x ist Rabe und Nicht ( x ist schwarz))
+              Ex x (x ist Rabe und x ist nicht schwarz)
+
+Mit "jeder" ergibt sich ganz genau dasselbe.
+
+
+Das ändert nichts daran, dass "alle" und "jeder" bedeutungsgleich sind.
+
+-- 
+Holger Raithmayer

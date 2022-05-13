@@ -1,0 +1,15 @@
+Oder man hat mailnews.display.disable_format_flowed_support=true
+eingestellt.
+
+
+Das Fenster wird unter Windows ebenso betitelt, aus welchen Gründen auch
+immer hatte ich das bei Sylvies Beitrag aber nicht darauf bezogen.
+
+
+Cao
+Toscha
+-- 
+ Pok�mon: Kleine Monster, die man aufziehen,
+          trainieren und aufeinander hetzen kann.
+ Früher nannte man das einfach Kinder.
+ [Fredi Tostlebe]

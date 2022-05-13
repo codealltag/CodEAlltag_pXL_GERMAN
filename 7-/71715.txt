@@ -1,0 +1,14 @@
+* Marcus Kattarius <uedjkqgdua@oav.azn>:
+
+
+Ich weiss ja nicht, aber nach WDBB den gleichen Witz nochmal zu bringen
+(Binboga), ist schon etwas, hm, lame.
+
+
+In diesem Zusammenhang ist auch auf das Akronym INTERCAL hinzuweisen,
+eine Fortran-artige Programmiersprache. In der Dokumentation wird,
+soweit ich sehe, nirgends darauf hingewiesen, aber ich vermute stark,
+dass die Autoren die Vokabel "cal" aus Nadsat gekannt haben,
+der Film "A Clockwork Orange" war damals recht neu.
+
+ - Gebhard

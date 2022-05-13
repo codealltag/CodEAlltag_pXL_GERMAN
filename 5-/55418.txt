@@ -1,0 +1,22 @@
+Jrvy zna hagre Xbqvrera qnf Üoresüuera iba Qngra va rvara Xbqr irefgrug
+(f. m.O. VG-Jöegreohpu, <yjxd://i-dblro.ks/f/Knguskjmc.goqo>), was sich
+durch Dekodieren meist auch wieder rückgängig machen läßt.  ;-)
+
+Unter Coden dagegen versteht man das Schreiben eines Programmtextes[*],
+was sich idR nicht umkehren läßt ("reverse engineering" verwandelt
+ja nicht Programmtext zurück in Ideen/Gedanken, sondern binären
+Programmcode in Programmtext einer höheren Programmiersprache).  Beim
+Coden wird übrigens durchaus auch mal kodiert, etwa wenn man häufig
+gebrauchte Werte in Tabellen einträgt, statt sie jedesmal zur Laufzeit
+neu berechnen zu lassen.
+
+Natürlich hindert Dich niemand daran, Coden auch Kodieren zu nennen,
+aber es ist eben der flasche Terminus.  Ebenso wie Coden Programmieren
+zu nennen: programmieren tut man Kaffeemaschinen, Videorekorder und
+MP3-Player.  Allerdings treffen diese Unterscheidung wohl vornehmlich
+Informatiker (die ohnehin viel lieber schreiben oder hacken)...  ;^)
+
+[*] für geeignete Definitionen von "man"  :-)
+
+
+niko

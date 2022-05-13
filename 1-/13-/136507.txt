@@ -1,0 +1,16 @@
+Eben. Die Temperatur ist nur eine Eigenschaft des Klimas, sie ist nicht
+das Klima selbst. Das Klima ist daher kein Skalar, und man kann nicht
+sagen, "das Klima wird höher" (bzw. sprachlich schöner "das Klima
+steigt"). Man kann nur sagen "die Durchschnittstemperatur des Klimas
+steigt", das aber unterscheidet sich sich sprachlich und logisch nicht
+wesentlich von "die Durchschnittstemperatur der Erde steigt", und daher
+würde ich das in beiden Fällen zu "X wird wärmer" verkürzen.
+
+
+<korithenkack>
+  Nur die Erdoberfläche und die Troposphäre. über die Temperatur des
+  großen Rests der Erde trifft man keine Aussage, wenn man vom Klima
+  redet.
+</korithenkack>
+
+	hp

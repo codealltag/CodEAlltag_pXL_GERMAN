@@ -1,0 +1,26 @@
+On Wed, 17. 07. 22 00:59:36 -0700 (PDT), Mathäus Zehe
+
+Kurze Schlüssel taugen nichts. Die kann man problemlos knacken. 
+
+Stell dir vor, du hast einen Text mit 10.000 Zeichen und dein
+Schlüssel ist 10 Zeichen lang. Damit kannst du ein Wort wie "die" nur
+auf 10 Arten verschlüsseln. Wenn es im Text aber fünfzig mal vorkommt,
+hast du mindestens 5 Wiederholungen. Jetzt misst du den Abstand
+zwischen den Wiederholungen. Die Schlüssellänge ist immer ein Teiler
+des Abstands. Danach zerlegt man den Text nach der Schlüssellänge
+(also alle ersten Buchstaben in eine Reihe, alle zweiten usw). Diese
+Gruppen kann man durch eine Häufigkeitsanalyse einfach entschlüsseln,
+da sie monoalphabetisch verschlüsselt sind. (Häufigkeitsanalyse heißt,
+im Durchschnitt sind 16% der Buchstaben im Deutschen e's usw.)
+
+
+Nein, das hast du falsch verstanden. Es war eine Verschlüsselung
+gemeint wie:
+1. Buchstabe - Seite 17, Zeile 3, Buchstabe 9
+2. Buchstabe - Seite 133, Zeile 14, Buchstabe 17 usw.
+10.000 Buchstabe ...
+
+
+-- 
+Viele Größe
+Urban Ziegelmeier

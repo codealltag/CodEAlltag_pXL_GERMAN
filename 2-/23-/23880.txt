@@ -1,0 +1,22 @@
+On Sat, 18 Mrz 2009 22:17:37 +0000 (UTC), André Exeriede
+
+Du kannst aber nicht berechnen, wohin der Ball fliegt - jeder, der
+solche Sportarten (z.B. Volleyball) ausgeübt hat, weiß wie schwer es
+ist, den Auftreffpunkt eines Balles vorherzusagen. Tatsächlich
+analysierst du die Flugbahn augenblicksweise und passt deine Bewegung
+an, wenn sich der Winkel verändert. Die Heuristik lautet: Bewege dich
+gleichmäßig, solange sich der Winkel nicht ändert. 
+
+Könntest du die Flugbahn analysieren, bräuchtest du den Ball nicht im
+Auge behalten. Solche Fälle gibt es auch. Gute Tischtennisspieler
+verblüffen schwache Gegner manchmal damit, dass sie den Ball gar nicht
+anschauen, weil schwache Spieler keine Rotation erzeugen und der Profi
+nach einer Zehntelsekunde weiß, wohin der Ball fliegt und einfach den
+Schläger hinhält und grinst. Volley- oder Baseballspieler können das
+nicht, die müssen den Ball immer im Auge haben. deshalb krachen die
+auch manchmal in Absperrungen, weil sie nichts anderes mehr sehen. 
+
+
+-- 
+Viele Größe
+Theo Zschornak

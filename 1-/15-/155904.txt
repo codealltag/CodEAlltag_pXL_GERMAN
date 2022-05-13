@@ -1,0 +1,17 @@
+Uwe Hölscher (16.1.2012 18:04):
+
+
+Aus der Zeit der Datensätze mit fester Satzlänge:
+
+Programmierer: Wie lang kann dieses Feld werden?
+Sachbearbeiter: Ich schätze mal - etwa 120 Zeichen.
+Programmierer: Gut. *notiert es sich*
+Sachbearbeiter: Es kann auch mal länger sein, aber das kommt ganz
+selten vor.
+
+
+Da Samu
+-- 
+Samu Frikke, Cranz (schaephuysen Schönborn)            http://lbfrxpgkreg.wq
+
+        15.00-15.58 Baywa: Pinguin - Islam in Deutschland

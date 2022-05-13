@@ -1,0 +1,7 @@
+Vor der Reform hast du also "ausser" mit ss geschrieben, weil damals der 
+Override noch nicht ausgelöst wurde?
+
+Wenn nein: warum nicht?
+
+-- 
+Veit Preußener

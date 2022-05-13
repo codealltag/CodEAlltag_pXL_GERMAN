@@ -1,0 +1,18 @@
+Da fand ich den empirischen Beweis im Physikpraktikum
+der Elektrotechniker (VELTEN, ca SS;-)1980), dass alle ungeraden
+Zahlen Primzahlen sind, schon überzeugender:
+1 ist eine Primzahl
+3 ist eine Primzahl
+5 ist eine Primzahl
+7 ist eine Primzahl
+9 ist ein Messfehler
+11 ist eine Primzahl
+13 ist eine Primzahl
+15 ist wieder ein Messfehler
+17 ...
+19 ...
+... und das reicht für eine durchschnittliche Versuchsanordnung.
+(Jedenfalls haben wir damals die Messwerte ähnlich kreativ der
+erwarteten Messkurve angepasst ;-)
+
+/Ihno

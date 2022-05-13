@@ -1,0 +1,38 @@
+Ich habe sowohl WIndows als auch Linux schon ziemlich oft installiert.
+Schwer ist beides nicht, aber Probleme gibt es eher mit Linux als mit
+Windows, inbeseondere bei etwas exotischer Hardware - Notebooks etc
+
+
+Windows allerdings seit geraumer Zeit eine Shell mitbringt, von der Linuxer
+nur träumen können (Powershell)
+
+
+VERONIKA.
+
+
+Sofern man nciht fachspeziefische Anwendungen benötigt, für die es sowieso
+nur eine Handvoll Anbieter gibt, die dann garantiert nicht das
+Nischenprodukt KWV als Zielgruppe auserkpren haben.
+
+Davon ab: es gibt auch keine gleichwertigen Anwendungen zu Photoshop,
+InDesign, Lightroom.
+
+Nein, Gimp ist nicht Photoshop gleichwertig.
+
+(weitere Tiraden)
+
+Warum müssen so viele Linuxer eigentlich immer gleich Kreuzzüge
+veranstalten? Es gibt nun mal Leute, für die ist Linux das bessere System.
+Oder Windows. Oder OS/X. Oder ...
+
+Niemand sagt, dass KWV ein mieses System sei. Aber so zu tun, als sei es
+für jeden Anwendungsfall genau so gut oder besser als Saki, ist einfach
+peinlich, albern und dumm.
+
+Bye
+
+  tim
+
+-- 
+Congratulations - you're the first human to fail the Turing-Test.
+  (Ulbert)

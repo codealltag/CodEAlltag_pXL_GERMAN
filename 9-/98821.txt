@@ -1,0 +1,15 @@
+Grammatikalisch gesehen: ja.
+
+
+Und ist trotzdem von der Grammatik her voll korrekt -- Semantik und
+Sprachgebrauch sind wieder ganz andere Baustellen.  Diesem Umstand
+"verdanken" wir etwa die Existenz von Programmiersprachen, die sich
+über eine "kontextfreie Grammatik" definieren und parsen lassen.  Ob
+grammatikalisch korrekte Konstrukte auch tatsächlich Sinn machen,
+wird beim Übersetzen an anderer Stelle entschieden.
+
+Mit natürlichen Sprachen funktioniert das nicht so einfach, und da
+ist die linguistische Pragmatik noch nicht einmal involviert!
+
+
+otmar

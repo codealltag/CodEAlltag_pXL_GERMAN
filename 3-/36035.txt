@@ -1,0 +1,15 @@
+Weder mit einer Feder- noch mit einer Balkenwaage kann man die
+Masse messen. Man misst in beiden Fällen die Anziehung der Erde
+auf das Wägeobjekt. Die Skala ist in kg geeicht, wobei die
+Balkenwaage auch auf dem Mond richtig wägt, weil Wägeobjekt und
+Referenzgewicht um den gleichen Faktor leichter werden. Die
+Federwage ist nur an einem Ort maximal genau.
+
+
+Ich habe für ruhende Systeme gelernt: Gewicht = Kraft, wobei man
+den Betrag für Gewicht und Kraft (in N) in die Masse (in kg)
+umrechnen kann, wenn man die Fallbeschleunigung am Wägeort kennt.
+
+Gruss
+
+Dennis

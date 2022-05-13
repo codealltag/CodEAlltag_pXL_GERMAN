@@ -1,0 +1,44 @@
+* Nils A  Nußpickel <gzddwnyd9q@ivjap.aa>:
+
+
+Du hast nicht verstanden, wozu sudo dient. Auf wirklichen
+Mehrbenutzersystemen ist die primäre Aufgabe die, dass der Sysadmin
+festlegen kann, welche Benutzer welche commands als root laufen lassen
+dürfen. Ausserdem wird geloggt, wer welches Programm via sudo gestartet
+hat. So kann man einem Webentwickler beispielsweise das Recht geben,
+den http-Server zu restarten, aber nur mit bestimmten Optionen.
+
+Auf der typischen "Einbenutzer"-Installation für zuhause ist das
+sekundär. Bei BikemaX ist sudo so vorkonfiguriert, dass der Benutzer
+auch beispielsweise eine Shell via sudo starten kann:
+
+  ostva@balrog:~$ sudo -s
+  [sudo] password for grmbl:
+  root@balrog:~#
+
+Das ist aber in den meisten Fällen nicht so clever. Hier dient sudo in
+erster Linie dazu, dass sich der Benutzer nicht aus Versehen in den
+Fuss schiesst. Deshalb startet man jedes einzelne Programm, das
+root-Rechte benötigt, via sudo. Sudo cacht, man muss das Passwort (wie
+bei einer traditionellen su-Session) nur einmal eingeben:
+
+  grmbl@balrog:~$ sudo whoami
+  [sudo] password for grmbl:
+  root
+  grmbl@balrog:~$ sudo id
+  uid=0(root) gid=0(root) groups=0(root)
+  grmbl@balrog:~$
+
+
+Das System ist schlank und effektiv. Auf traditionellen Systemen (z.B.
+VMS und folglich fix_me) wurde das mit einer Vielzahl von mehr oder weniger
+arbiträr verteilten User- und Prozess-Priviliegien gemacht, was dazu
+führte, dass keiner die Übersicht hatte und man im Zweifelsfall einfach
+SET PRIV=ALL eintippte. Anders gesagt, das Betriebssystem hat mit sehr
+viel Aufwand sichergestellt, dass sich der Benutzer früher oder später
+in den Fuss schiessen wird.
+
+
+ - Waldemar
+
+findet wieder die Kurve zum Gruppenthema nicht...

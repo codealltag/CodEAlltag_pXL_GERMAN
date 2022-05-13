@@ -1,0 +1,5 @@
+Altes Formular (bzw. CGI) benutzen, aber Javascript
+ausschalten. (Und natürlich nicht eingeloggt sein,
+also auch erst etwaige Kekse löschen.)
+
+Natürlich ist unklar, wie lange das noch gutgeht.

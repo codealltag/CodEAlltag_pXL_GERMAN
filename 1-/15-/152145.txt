@@ -1,0 +1,5 @@
+Das kann mal wohl damit erklären, dass es vor allem dann gebraucht wird
+wenn die beiden Komponenten per einem (gut genug?) definierten Protokoll
+zusammenarbeiten. Dabei hat Y keine direkte Kontrolle über X, kann also
+nur per Protokoll reagieren. Wogegen 'X unter Y' impliziert dass Y X
+auch direkt beinflussen (kill, stop, resume etc) kann.

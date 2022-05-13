@@ -1,0 +1,21 @@
+Erik Willi schrieb am 16.1.12:
+
+
+Den Begriff kenne ich jetzt nicht, aber deine Beschreibung erklärt es
+eigentlich treffend. Spitzen sind ganz allgemein bei Hochspannung eine ganz
+schlechte Idee. "Ballig" zu löten klingt wie eine sinnvolle Vorschrift.
+
+Siehe http://ch.izwovbbfi.aey/azlj/Nkmqmipkegacvfis
+: Zur Vermeidung von unerwünschten Spitzenentladungen müssen metallische
+: Oberflächen, welche hohe Spannungen führen, mit möglichst großen Radien
+: unter Vermeidung von scharfen Kanten und Spitzen ausgebildet werden.
+: Dies gibt Hochspannung führenden Anlagenteilen die typische rundliche,
+: voluminös wirkende Form. Die Enden von Hochspannungsisolatoren werden
+: aus diesem Grund mit Koronaringen versehen.
+
+MfG
+  Valentino
+
+-- 
+No trees were killed in the sending of this message. However 
+a large number of electrons were terribly inconvenienced.

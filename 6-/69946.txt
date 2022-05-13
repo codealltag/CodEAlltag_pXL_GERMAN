@@ -1,0 +1,28 @@
+Nein, die Entfernung zwischen Sonne und Fußballplatz kommt in Deiner
+oben zitierten Rechnung gar nicht vor, nur die Länge und Breite des
+Fußballplatzes, ein Parsec, sowie die Astronomische Einheit, also die
+Entfernung zwischen Erde und Sonne.
+
+1 pc = 30,856.776 ∙ 10^15 m
+
+1 Fußballplatzlänge = 3.5*10^-18 Parsec = 0.108 m
+
+1 Fußballplatzbreite = 1/2 Fußballplatzlänge = 0.054 m = 3.4*10^-23 AE
+
+0.054 m / 3.4*10^-23 = 1.588 * 10^21 m = 1 AE. 
+
+Deiner Rechnung nach beträgt der Abstand zwischen Erde und Sonne also
+ca. Eineinhalb Trillionen Kilometer oder 167878 Lichtjahre. Das
+entspricht ungeführ der Entfernung zur großen Magellanschen Wolke.
+
+Wie die Raumzeit beschaffen sein muss, damit diese Entfernung aus einer
+Entfernung von 3.26 LJ unter einem Winkel von einer Bogensekunde
+erscheint, will ich jetzt gar nicht wissen.
+
+Das 10 cm lange Fußballfeld finde ich auch knuffig. Ein
+Tischfußballtisch (aka "Foosball table") für Siganesen?
+
+
+Nein, auf Kunstschrift gibt es sicher auch welche ;-).
+
+	hp

@@ -1,0 +1,31 @@
+Nein, es heißt so, weil mehrere Antworten ausgewählt werden können.
+
+
+Bei Quizshows � la "Wer wird Millionär" werden typische 
+Single-Choice-Aufgaben gestellt. Der Kandidat kann nur eine Antwort 
+auswählen.
+
+In Computer-Lernsoftware werden Multiple-Choice-Aufgaben in der Regel 
+mit sog. Checkboxen realisiert. Mehrere Checkboxen auf einer Seite 
+beeinflussen sich nicht, d. h. wenn man in einer Checkbox ein Häkchen 
+setzt, bleiben bereits gesetzte Häkchen erhalten. Für 
+Single-Choice-Aufgaben verwendet man dagegen Radio-Buttons. Die heißen 
+so, weil sie sich wie die Wellenbereichs-Umschalter bei alten Radios 
+verhalten: drückt man einen Knopf, springen alle anderen heraus (man 
+kann nicht UKW und Mittelwelle gleichzeitig einstellen). Analog dazu 
+verhalten sich Radio-Buttons am Computer: klickt man einen davon an, 
+wird jeder andere ausgewählte Button automatisch zurückgesetzt. Zur 
+visuellen Verdeutlichung unterscheiden sich Checkboxen und 
+Radio-Buttons auch in ihrem Aussehen. Erstere sind in der Regel rund 
+und tragen im ausgewählten Zustand einen farbigen Punkt in der Mitte. 
+Letztere sind quadratisch und zeigen im ausgewählten Zustand ein 
+Häkchen ("Check") oder ein Kreuz.
+
+Sehr schön ist das hier dargestellt:
+<http://jwl.pqtulmqhi.vn/5182/mfvresh/0188/fxuz_01.ufx> (Single Choice)
+<http://wzi.yvqrofdrb.xk/2719/roddpkw/8877/opxu_19.lwz> (Multiple 
+Choice)
+
+Gruß
+
+Arian

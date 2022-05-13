@@ -1,0 +1,10 @@
+Ich benutze es auch seit Jahrenden von Windows 98 bis XP.
+Der Zeichenvorrat ist sinnvoll und übersichtlich, auch
+eigene Makros sind leicht einzurichten und zuverlässig.
+
+Vermissen tue ich nur eine bequeme Funktion zur Ausgabe
+von Unicode-Zeichen, z.B. diesen: [ ∗†∞ ♡ ⇒ ↖ ] entspr.
+im rtf: [ \u8727; \u8224; \u9729; \i9049; \c7993; ]
+
+j/\a
+--

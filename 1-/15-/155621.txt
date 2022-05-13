@@ -1,0 +1,19 @@
+[...]
+
+Es erschien vermutlich schon - in qa.xde.vvy.knigge
+
+
+Nein, am Follow-up (kurz f'up). Mauro hat in desd und dask gepostet,
+Antworten werden durch das f'up automatisch nur nach dask gesendet.
+Um in desd zu antworten, muß man in diesem Fall den Empfänger von Hand
+umstellen, wie das über FBPB Groups geht, weiß ich nicht.
+
+Wobei ich auch etwas erstaunt bin, daß FBPB das Follow-up richtig
+behandelt, hätte ich dem Tool gar nicht zugetraut.
+
+
+M. Eikler hat das Posting nur nach desd geschickt, ohne explizites
+Follow-up. In dem Fall landet jede Antwort auch in desd.
+
+Gruß
+Severin

@@ -1,0 +1,22 @@
+Soll das ein Plädoyer für eine neue Fuzzy-Grammatik sein?
+Alles so ziemlich ungefähr - aber dafür verbindlich?
+
+
+Ein Beispiel:
+Wer als erster eine Werbefirma ohne Werber betreibt, der kann
+viel Geld auf die Unterhütte-Inseln schaffen, statt an wildfremde
+"Mitarbeiter" zu verschwenden. Die "Philosophie" des Programms,
+mit dem die Werbecomputer laufen: Vorne eine Eingabe für die
+Namen von Produkten, die beworben werden sollen, drinnen ein
+Thesaurus mit Formeln positiver Anmutungen. Und an der Seite
+werden fertige Werbeprospekte mit hymnischen Sätzen in allen
+Sprachen der Weltwirtschaftsgemeinschaft ausgeworfen.
+
+Ein Prototyp läuft schon seit Jahren in Schießdorf im
+Literaturmuseum der Moderne: An einer Wand des Treppenhauses
+wechseln nach einem von Norbert Baader entwickelten
+Algorithmus zufallsgesteuerte Sätze einer synthetischen
+poetoiden Philosophie. Leider nur auf Deutsch.  :(
+
+j/\a
+--

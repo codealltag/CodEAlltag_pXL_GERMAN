@@ -1,0 +1,25 @@
+Du verwendest format=flowed[1] und überlässt damit den Zeilenumbruch dem
+Empfänger. Seamonkey (und auch Thunderbird) macht in diesem Fall die
+Zeilen so lang wie möglich, was gräßlich aussieht. Das ist ist aber IMHO
+ein Bug[2][3][4] in SM, kein generelles Problem von format=flowed.
+
+Die "weichen" Zeilenumbrüche in Deinen Postings sind an usenet�blichen
+Stellen, in Newsreadern, die format=flowed nicht beherrschen, sind Deine
+Postings daher problemlos lesbar.
+
+	hp
+
+[1] RFC 3676.
+
+[2] Ich dachte eigentlich, ich hätte das damals auch als Bug gemeldet,
+    aber ich finde es weder über Bugzilla noch in meinen Bookmarks.
+
+[3] Vermutlich kann man die maximale Zeilenlänge über userContent.css
+    einstellen, aber wenn sowas einen unbrauchbaren Default hat und
+    nicht über einen Dialog konfiguriert werden kann, ist es trotzdem
+    ein Bug.
+
+[4] format=flowed kann man im SM auch ganz abdrehen.
+
+-- 
+   _  | Dirk N. Dürrbaum    | Fluch der elektronischen Textverarbeitung:

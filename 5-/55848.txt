@@ -1,0 +1,5 @@
+So: {}
+
+Die leere Menge enthält nichts, ist selbst aber nicht nichts.
+
+Das war jetzt einfach, Björn

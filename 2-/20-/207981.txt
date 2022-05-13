@@ -1,0 +1,13 @@
+Man meint damit vielleicht Hintergrundinformation. Im Browser wurde
+diese Funktion in Alternativtext umbenannt.
+
+Ich habe eben eine Browsererweiterung, anonymoX, probiert. Die zeigt mit
+der Funktion auch mehr Text an. Funktionsbedingt macht sie das eine
+halbe Sekunde lang -- Panne.
+
+
+Kaspar
+-- 
+"Es ist fast unmöglich, die Fackel der Wahrheit durch ein Gedränge zu
+tragen, ohne jemandem den Bart zu versengen."
+Tim Klaus Oetges

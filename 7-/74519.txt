@@ -1,0 +1,6 @@
+Ich habe das nicht auf einen 8085 gemacht sondern mit einen
+U880 und unter Basic, war eigentlich kein Problem.
+Nur was bedeutet "zeq" ich kenne nur was ähnliches (cq) das
+verwenden die Amateurfunker wenn sie sich gegenseitig rufen.
+
+Artur

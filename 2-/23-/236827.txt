@@ -1,0 +1,4 @@
+"eins der frühen Hefte, was mir fehlt" != "eins der frühen Hefte, die 
+mir fehlen".
+
+Ludger

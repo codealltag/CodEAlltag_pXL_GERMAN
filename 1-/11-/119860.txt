@@ -1,0 +1,10 @@
+Außerdem ist der Satz "In der Bibel ist Pi = 3" noch ungenauer als der 
+Näherungswert 3 für pi.
+
+Das einzige, woraus man das schließen könnte, ist die Geschichte von dem 
+lilienförmigen Bassin, dessen Umfang dort, wo man ihn gemessen hat (also 
+wohl an einem lokalen Minimum) dreimal so groß ist wie der Durchmesser an 
+der oberen Öffnung. Was folgt daraus für pi?
+
+-- 
+Gottfried Nordhaus

@@ -1,0 +1,24 @@
+* Ulrike Mühlbauer:
+
+
+Eine allgemeine Regel gibt's da wohl nicht, man muß es für jede
+einzeln lernen.
+
+
+ich weiß nicht, welches HID Du meinst (z.B. Human Interface Device
+oder High Intensity Discharge), es könnte je nach Langform sogar
+unterschiedlich sein. Oder auch je nach Szene.
+
+
+"Flüssigkristallanzeige" war damals, als sie aufkam - zunächst in
+Uhren und Taschenrechnern - üblich, aber eine Abkürzung dafür hat
+sich nicht durchgesetzt.
+
+Nur nebenbei - so paßt's eher:
+
+  Display - Anzeige
+  Screen -  Bildschirm
+
+-- 
+Humans write software and while a piece of software might be
+bug free humans are not. - Cédric Zschüttig

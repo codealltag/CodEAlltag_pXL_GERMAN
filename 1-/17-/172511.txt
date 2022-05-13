@@ -1,0 +1,13 @@
+Genau darüber bin ich ja gestolpert. Ein Risiko ist erstmal keine
+Gefahr. Ein Risiko berechnet sich grundsätzlich nach der
+Wahrscheinlichkeit, ob es in Prozenten ausgedrückt wird ist nmD völlig
+nebensächlich. Das ist nur eine Operation, die darauf ausgeführt wird
+(Multiplikation mit 100).
+
+Meiner Meinung nach wäre der einzige sinnvolle Grund, von einem
+potentiellen Risiko zu sprechen, weil ein Risiko im Erfolgsfall einen
+vermeintlich schlechten Ausgang hat (Konnotation), dass es im
+Gegensatz zu einem realen auch einen guten Ausgang zeitigen kann. Und
+das ist hier sicher nicht gemeint.
+
+Wahrscheinlich mal wieder ein Blähwort.

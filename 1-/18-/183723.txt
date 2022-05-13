@@ -1,0 +1,15 @@
+* Karl Frischke:
+
+
+Das mag in einer bestimmten Organisation als Richtlinie gelten.
+Als "industry best practice" gilt wohl eher, daß alles kommentiert
+sein sollte, ob es nun einer bestimmten Person "selber
+verständlich" erscheint oder nicht, weil dieses "selber
+verständlich" sehr subjektiv ist. Erfahrungsgemäß ist sogar für
+dieselbe Person das, was vor vier Wochen "selber verständlich"
+war, gelegentlich völlig kryptisch (wenn man mal das Konzept einer
+"selben Person" durch die Zeit hinweg stillschweigend akzeptiert).
+
+-- 
+Give a man a fish and you feed him for a day; teach him to use
+the 'Net and he won't bother you for weeks.

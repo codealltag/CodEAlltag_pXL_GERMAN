@@ -1,0 +1,29 @@
+Darf ich mich einmal mit einer Verständnisfrage einmischen?
+
+Das gälte doch so nur für die _absolute_ Volatilität (und da wäre es 
+dann recht trivial)? Was aber die relative Volatilität betrifft, kann 
+ich es mir kaum vorstellen.
+
+Nehmen wir einmal den Kurs einer Währung als Beispiel: Wenn der Kurs des 
+Dollars gegenüber dem Euro (relativ) stärker schwankte, dann ginge dies 
+nur, der Kurs des Dollar auch anstiege?
+
+Es ist doch aber für die Bestimmung der _relativen_ Volatilität egal, ob 
+wir nun z. B. angeben, ein Dollar habe einen Preis von 0,80 Euro, oder 
+aber ob wir es andersherum ausdrücken und sagen, ein Euro habe einen 
+Preis von 1,25 Dollar.
+
+Dann aber wären beide denkbaren einander widersprechenden 
+Preisentwicklungen eine Voraussetzung für steigende Volatilität. Das 
+kann doch so nicht sein.
+
+Es mag ja vielleicht sein, dass Währungskurse hier anderen 
+Gesetzmäßigkeiten folgen als Aktienkurse, Immobilienpreise, Rohstoffe 
+oder was auch immer.
+
+Aber auch hier ist doch die Wahl der Sichtweise eher willkürlich. Wenn 
+der Dollarpreis für Schweinehälften steigt, dann sinkt der Wert des 
+Dollars, ausgedrückt in Kilogramm Schweinefleisch etc.
+
+
+Tschüs, Berend

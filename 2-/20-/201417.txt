@@ -1,0 +1,16 @@
+Nach "Guten Tag" gehört ein Komma hin.
+
+Weiters würde es den Augen weniger weh tun, wenn Du einen Font verwenden
+würdest, in dem U+201c die im Deutschen übliche Form 66 hat.
+
+Und 
+
+
+Tatsächlich? Welche Norm schreibt das vor? (Und wem schreibt sie das
+vor?)
+
+	hp
+
+
+-- 
+   _  | Urban V. Schäftlein    | Deprecating human carelessness and

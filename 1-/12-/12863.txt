@@ -1,0 +1,9 @@
+Faustregel:
+   Praeteritum (Imperfekt) = "Erzählzeit":
+     Vergangenes ohne unmittelbare Wirkung auf die
+     Erzähl-Gegenwart abgeschlossen.
+   Perfekt = "Berichtzeit".
+     Vergangenes in der Erzählzeit unmittelbar nachwirkend.
+
+j/\a
+--

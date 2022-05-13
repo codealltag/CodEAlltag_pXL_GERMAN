@@ -1,0 +1,7 @@
+Ist die Sperrung effektiv? Die dänische ISP's, die bestimmte
+Sites sperren, tun das nur in ihren eigenen DNS-servers, und
+deshalb kann man dennoch die Sites mit numerisher Adresse zugehen
+(oder nur ein offenes DNS-Server benutzen)..
+
+-- 
+Gruß, Rudolf

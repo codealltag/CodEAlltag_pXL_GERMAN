@@ -1,0 +1,8 @@
+Was haben Scherkräfte mit der sprichwörtlichen Schere zu tun? 
+
+Das Bild mit der Schere ist IMHO leicht verständlich: Am Anfang (also
+beim Gelenk) ist der Abstand der Klingen noch 0, je weiter man sich
+einer der Klingen Richtung Spitze entlangbewegt, desto größer wird der
+Abstand zur anderen Klinge.
+
+	hp

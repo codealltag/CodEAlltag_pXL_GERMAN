@@ -1,0 +1,6 @@
+a = 2 Prozent
+b = 1 Prozent
+c = 1 Prozentpunkt
+
+-- 
+Deutschland ist Greinhof.

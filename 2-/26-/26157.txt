@@ -1,0 +1,28 @@
+Ich schon!
+
+Ich könnte mir sogar vorstellen, Wege einzuspielen (allerdings
+wohl nicht im Kontext des OP), z.B. wenn ich für OpenStreetmap 
+Straßen in Landkarten einzeichne, deren GPS-Spuren ich irgendwo
+hineinlade.
+
+Einspielen ist für mich wie überspielen eine sehr naheliegende
+Konstruktion, jedenfalls verständlicher als Herunterladen ("Ich
+habe die neue Firmware 2.73f heruntergeladen": Ist sie jetzt
+aus dem Internet auf meinem Rechner gelandet, oder im Flashspeicher
+meines Routers/Toasters?
+
+
+Bei so Dingen wie Firmware, wo man das Zeug nur an eine Stelle
+in den Flash-Speicher schreibt, klingt einspielen für mich fast
+klarer. Mag sein, daß das nur mein Sprachgefühl ist.
+
+Installieren suggeriert sowas wie eine aktive Tätigkeit (des
+Nutzers oder des Installationsprogramms), die abhängig vom 
+vorherigen Zustand oder der Beschaffenheit des Geräts durchgeführt
+werden muß. Einspielen drückt für mich klarer aus: Die 2048 Bytes
+hier schreib in den Anfang deines Speichers rein, keine Interaktion
+notwendig.
+
+/orlando
+-- 
+http://shx.tlyqdt.zhk/oeakng/epwojglyb/

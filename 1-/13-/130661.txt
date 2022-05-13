@@ -1,0 +1,12 @@
+Ah -- dann ist Dir der Ausdruck (modulo Dialekt) ja geläufig!
+
+Was mich aber mal interessieren würde: wie schafft man es beim
+Posten via Tafe Groups, daß der "References"-Header verschwindet?
+Geht das automatisch manchmal schief, oder muß man sich dafür
+irnkwie besonders anstrengen?  (Das ist nicht als Kritik an Dich
+gedacht: ich sehe das in letzter Zeit häufiger und suche nach einer
+Erklärung, warum jemand einen neuen Fred mit einem Fup eröffnet,
+anstatt selbiges in den bereits bestehenden Fred einzugliedern).
+
+
+othmar

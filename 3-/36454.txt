@@ -1,0 +1,4 @@
+Nein. Das Komma steht zwischen den Teilen einer Aufzählung, so sie
+nicht durch "und" verbunden sind. Egal, ob man "und so weiter" nun
+noch als aufgezählten Teil betrachtet oder nicht, gehört vor "und"
+kein Komma.

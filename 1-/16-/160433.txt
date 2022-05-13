@@ -1,0 +1,16 @@
+Es gibt offenbar zumindest bei einigen Mustern den Fall, daß der Rotor
+infolge sehr geringen Trägheitsmoments tatsächlich still stehenbleibt, wenn
+der Pilot auf Triebwerksausfall nicht sehr schnell reagiert und den
+Anstellwinkel der Blätter anpaßt. Dann fällt das Gerät tatsächlich runter
+wie ein Stein, die Rotorblätter biegen sich aufwärts, damit ist keine
+Autorotation mehr einleitbar.
+
+
+vG
+
+-- 
+"Sollen wir ein Volk von Kleinwagenfahrern werden? Natürlich nicht! Wenn
+der Deutsche die Wahl hat, mit einem kleinen Auto über einen intakten
+Planeten zu zockeln oder mit einem großen Geländewagen über einen
+verwüsteten Planeten zu brettern - da weiß der Deutsche doch, was er
+will!" (Knut Jetschmanegg, "Bis neulich")

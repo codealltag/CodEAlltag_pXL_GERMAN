@@ -1,0 +1,15 @@
+Kommt drauf an. Wenn man z.B. für eine Vigenère-Verschlüsselung einen
+Schlüssel verwendet, der nicht repetiert, also ausreichend lang ist, um ohne
+Wieder-von-vorn-Anfangen den gesamten Klartext zu verschlüsseln, ist keine
+Brute-Force-Attacke mehr möglich. Man kann dann mit beliebigen Schlüsseln
+beliebige Klartexte erzeugen. Nur woher weiß man, daß man den richtigen
+hat? 
+
+
+vG
+
+-- 
+"1,5 Milliarden DM damals für die DDR. Da sind die noch mal 6 Jahre lang
+mit ausgekommen. Mit 17 Millionen Insassen. Da können Sie mal sehen, wie
+ordentlich die da gewirtschaftet haben: das reicht bei der gassenbauer
+keine zwei Tage!" (Georg Clostermeyer, "Bis neulich")

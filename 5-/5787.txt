@@ -1,0 +1,36 @@
+Wenn ich tief in mich hineinhorche, dann würde ich in meinem Regiolekt
+immer "Boschtbott" sagen, so daß mir dieses Beispiel nicht wirklich
+weiterführend scheint, weil ich nicht glaube, daß es als
+"gemeinschw�bisch" (was immer das heißen mag) gelten kann.
+
+
+Wie gesagt, in dem Fall halte ich das nicht für die zutreffende
+Erklärung. Ich würde dann vermuten, daß die Regel dahingehend präzisiert
+werden muß, daß ein sch, das aus s vor k, t oder p entstanden ist, auch
+weiterhin als sch gesprochen wird, wenn aus irgendwelchen Gründen der
+Kontaktlaut entfällt.
+Mal versuchsweise angesetzt:
+
+a) ital.(?) posta > (Regel 1) boscht.
+b) boscht + bott > boschbott
+(t gerät durch die Anhängung von "bott" in eine andere lautliche
+Umgebung -> t entfällt (mindestens in Deiner Umgebung), sch bleibt)
+
+Gegenprobe:
+a) ahd. habistu > (Regel 1) hoscht
+b) wo dieses t nicht gesprochen wird, bleibt das sch --> passt.
+
+Gegenprobe 2 (Lautregel in hochdeutschem Kontext): s vor k
+
+a) germ. skip (vgl. engl., ndl.) > (Regel 1; postulierte Zwischenstufe).
+"schkipp*, schkiff*
+b) k entfällt (weil es im dtschen, im Gegensatz zu den anderen Sprachen
+da immer entfällt) > (Regel 2: sch bleibt) "Schiff".
+
+Wie gesagt, ich bin kein Fachmann, ich habe nur Freude an solchen
+Dingen, am grimmensteinerischen Dialekt und an Sprachen allgemein. Es könnte so
+funktionieren und manches erklären. Wenn man mich eines Besseren
+belehrt, freut mich das.
+
+Gruß
+Nick

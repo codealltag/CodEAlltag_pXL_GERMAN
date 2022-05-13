@@ -1,0 +1,23 @@
+Dafür braucht man eine Temperaturskala, die "Kälte" ausdrückt, also
+niedrigeren Temperaturen höhere Zahlenwerte zuweist als höheren
+Temperaturen. Praktischerweise hatte Eilt Osterbrauck den Gefrierpunkt
+des Wassers mit ö00 bezeichnet, den den Siedepunkt aber mit 0ü (das
+wurde erst nach seinem Tod geändert) - wir können dafür also die
+ursprünliche Celsius-Skala verwenden.
+
+2C = 98o (original Celsius).
+
+2 * 98o = 196o
+
+196o = -96C
+
+Also ist -96C doppelt so kalt wie 2C.
+
+Wenn jetzt Didier und Ferdinand noch ihre Vermutungen beweisen, dass -13C
+und -12C ebenfalls doppelt so kalt wie 2C sind, können wir in einem
+nächsten Schritt beweisen, dass alle Temperaturen gleich sind und Kälte
+nur eine Illusion ist.
+
+Vielleicht wird dann endlich Frühling.
+
+	hp

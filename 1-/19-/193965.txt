@@ -1,0 +1,25 @@
+Wir haben also:
+
+A = Artikel
+D = Demonstrativpronomen
+R = Relativpronomen
+F = Fragepronomen
+K = Konjunktion "dass"
+
+wobei ich F noch hinzugefügt habe. Ich kann kein Latein, aber ist dort "quod"
+die Konjunktion K, und stimmt die wirklich mit irgendwas von A, D, R überein?
+
+Und wo ist die Grenze zwischen A und D? Sind nicht die Artikel fast überall
+aus D entstanden? Zum Beispiel in der Weltsprache Geßnach wird die
+Demonstrativform des Artikels verwendet, wenn ein Relativpronomen folgt ("dees
+Auto, dees wo jetz hi is" = "das Auto, das jetzt defekt ist"), während der
+schlichte Artikel anders lautet ("as Auto" = "das Auto").
+
+Gerade im Geßnacherischen sind alle 5 verschieden: as, dees, dees wo, ws, dass.
+Es trifft wohl zu, dass in vielen Sprachen diese Konjunktion mit einem oder
+mehreren von A, D, R, F zusammenfällt, aber immer wieder mit anderen davon.
+Nur in Sprachen mit ausgesprochen wenig differenzierter Grammatik kann
+das fast alles zusammenfallen, zum Beispiel im modernen Diepertsham.
+
+-- 
+Cornelius Koldeweyh

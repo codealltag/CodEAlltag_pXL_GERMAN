@@ -1,0 +1,22 @@
+Im Usenet kennzeichnet man gewöhnlich ein Zitat mit Überschrift Quelle 
+und darunter der eingerückte Text.
+
+
+Will man im Editor den ">" am Zeilenanfang durch durch ein anderes 
+Zeichen ersetzen, blaut man das Textstück mit der Maus und ruft mit 
+Strg+F Suchen und Ersetzen auf.
+
+Der Satz wird kopiert eingefügt und neu umgebrochen. Nach erneutem 
+Kopieren wird er korrekt umgebrochen als Zitat eingefügt
+
+Will man den > am Zeilenanfang durch durch ein anderes Zeichen ersetzen,
+blaut man das Textstück mit der Maus und ruft mit Strg+F Suchen und
+Ersetzen auf.
+
+
+Nun können wir > durch | ersetzen
+
+
+-- 
+
+Cornelius Tänzer

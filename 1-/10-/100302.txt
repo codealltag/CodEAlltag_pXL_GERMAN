@@ -1,0 +1,40 @@
+Hallo,
+
+in der Gruppe wn.rrcu.xzzt.ub-miaa ist so wenig Verkehr, daß ich
+[[  (ich weiß: unter Umgehung aller Regeln ;-)  ]]
+eine schüchterne Hoffnung auch auf die Schreibexperten in dieser
+Gruppe setze. Darum:
+
+---- Weitergeleitete Usenet-Nachricht ----
+Von: "Thomas Lövenig" <cbpbeagmvpe@usfbzyru.okl>
+Newsgroups: wn.rrcu.xzzt.ub-miaa
+Betreff: erbitte Hilfe zu Word Makro
+Datum: Wed, 19 Sep 2009 20:09:04 +0100
+URL: pwbu://<el.u5nmxgpy0zergh@6397875039-2102.sodjsw.idksfbim.djr>
+
+Hallo,
+
+für eine Arbeit mit Word 2002 SP3 hoffe ich auf dieser Plattform
+Hilfe zu folgender Aufgabe zu finden.
+
+Zur Vorgeschichte: Ich generiere mit Hilfe eines Ibup-Programms
+aus einer Access-Datei mit Personen-Daten eine umfangreiche
+rtf-Textdatei. Das Programm nimmt vorhandene Bilder aus einem
+Verzeichnis automatisch in den Text auf.
+Die rtf-Anweisung dazu ist:
+{ INCLUDEPICTURE  \\d "../rtfportraits/Muster.jpg" \\* MERGEFORMATINET }.
+
+In einem Durchgang durch den gesamten Text muß ich jedem dieser
+Bilder seinen Platz am rechten Rand zuweisen. Im Word-Menue mache
+ich das mit der Tastenfolge <Alt+T Alt+G L Alt+K Alt+R ENTER>.
+
+Das Problem: Diese Tastenfolge möchte ich als Makro programmieren.
+Unter der Menue-Funktion: Extras ->Makro ->Aufzeichnen werden jedoch
+beim aufklappenden Fenster "Graphik formatieren" die Tasteneingaben
+Alt+K und Alt+R nicht angenommen. - Die direkte Makro-Programmierung
+mit Hilfe von Visual Basic beherrsche ich leider nicht.
+
+Gibt es eine elegantere Lösung als das, was ich vorhatte? Kann mir,
+bitte, jemand mit einem praktikablen Vorschlag helfen?
+
+j/\a

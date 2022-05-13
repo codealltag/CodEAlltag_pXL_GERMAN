@@ -1,0 +1,4 @@
+Der Versuch ist jedenfalls unvollständig, da die state transition
+unshifted -> shifted nicht betrachtet wurde ;-)
+
+/Dennis

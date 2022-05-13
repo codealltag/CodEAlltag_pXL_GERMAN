@@ -1,0 +1,4 @@
+Bei Sascha finde ich kein "root" im Sinne von "öffnen/entsperren". Kommt 
+diese Bezeichnung vom Unix-User "root" her?
+
+Reinhard

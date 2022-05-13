@@ -1,0 +1,41 @@
+Dass dann VSO draus wird, hat Una *nicht* geschrieben. Vielmehr hat 
+sie geschrieben, dass das Verb an zweiter Stelle steht, was VSO 
+gerade ausschließt. Die tatsächliche Formel wäre X1 V X2 ... Xn P mit
+
+X1 ... Xn Satzglieder, die nicht zum Prädikat gehören
+V         flektiertes (finites) Verb
+P         alles zum Prädikat gehörige außer V
+
+Die Xi haben eine Standardreihenfolge. Man wählt ein beliebiges davon aus, 
+um ihm die Position X1 zu geben, am häufigsten das bisherige Thema. Die 
+anderen werden aber in ihrer Reihenfolge belassen, wenn man nichts 
+besonderes betonen will, ungefähr so:
+
+   1. langes oder kurzes Subjekt
+   2. kurzes Akkusativobjekt
+   3. kurzes Dativobjekt
+   4. nebensächliches Zeitabverbial (z.B. "dann")
+   5. langes Subjekt
+   6. ernstgemeintes Zeitadverbial (wann?)
+   7. Ortsadverbial statisch (wo?)
+   8. Motivadverbial (warum?)
+   9. Adverbial der Art und Weise (wie?)
+  10. langes Dativobjekt
+  11. langes Akkusativobjekt
+  12. Genitivobjekt
+  13. Richtungsadverbial (woher? wohin?)
+
+Betont wird durch eine andere Reihenfolge *dort*, aber nicht durch Auswahl 
+von X1. Na gut, ein wenig betont oder genauer unbetont man da schon; das 
+gilt aber fürs Subjekt nicht weniger als für andere Satzglieder. Das 
+Subjekt als X1 als normal zu bezeichnen und die mindestens ebenso häufigen 
+als unnormal, ist rein willkürlich. Gut, zum Thread zurück: Objekte sind 
+eher selten, was aber nur daran liegt, dass sie seltener als anderes 
+bereits vor dem Satz das Thema sind. Aber dann rücken sie auch gern vor: 
+"Wie gehts deinem Bruder? -- Den habe ich schon lange nicht mehr gesehen."
+
+VSO gibts übrigens bei Hauptsätzen auch, nämlich in Witzen. Die haben ihre 
+eigene Syntax: "Kommt ein Pferd in die Bar. Fragt der Wirt ..."
+
+-- 
+Hilmar Preißler

@@ -1,0 +1,9 @@
+Scheinproblem! Null mal Beliebig gibt immer Null. (Ersetze
+Beliebig z.B. durch 19%)
+
+Die Erfindung der Null ist eine der grössten Errungenschaften der
+Mathematik.
+
+Gruss
+
+Jonathan

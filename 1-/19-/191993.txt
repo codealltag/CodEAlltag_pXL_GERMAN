@@ -1,0 +1,12 @@
+Evelin Dommermuth (16.05.2011 19:42):
+
+
+Was soll man mit Vorkommen sonst machen?
+
+
+Da Giorgio
+-- 
+Giorgio Bickhard, Zeuzleben (bei Jersleben)            http://ffgkndzxjwk.pi
+    gibt es irgendwo eine Liste von Servern mit dazugehöriger IP ?
+ Ich möchte mir einen DNS einrichten und bräuchte dazu noch ein host-
+       file. (Klaas Hatje, ez.kbcg.vnuufrmv.akmj, 19.05.2001)

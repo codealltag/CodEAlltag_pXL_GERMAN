@@ -1,0 +1,10 @@
+On Sun, 4 Mai 2010 15:25:06 +0200, "Robin . K u s m i e r z"
+
+Das war ein Beispiel aus meiner täglichen beruflichen Praxis.
+Wenn mich einer der Autoren fragt, wie schreibt man das,
+sage ich ihm, das schreibt man überhaupt nicht,
+und erkläre ihm, wie man das auflöst. Ist aber zwecklos.
+Im konkreten Fall war es sogar
+eine 30 000 Umdrehungen mal Minute hoch minus 1 Spindel.
+Wenn das 5 mal in einem Manuskript vorkommt,
+wird nichts mehr korrigiert. Ist einach unökonomisch.

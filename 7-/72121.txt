@@ -1,0 +1,51 @@
+Kein besonders gutes Beispiel.
+
+
+Die Tabelle muss man aber auch erst berechnen, und der Aufwand, den
+Wert, der in das n'te Element der Tabelle kommt, ist genau gleich dem,
+n! zu berechnen. Wenn man also nur n! braucht, macht das keinen
+Unterschied. Erst wenn ich mehr als einen Wert berechnen muss (was
+zugegebenermaßen meistens der Fall sein wird) erspart man sich
+Rechenleistung, erkauft das allerdings mit Speicherverbrauch - das nennt
+man einen time/space tradeoff (auch so ein Begriff, für den man eine
+deutsche Übersetzung zwar jederzeit finden könnte, die dann aber niemand
+auf Anhieb verstehen würde).
+
+Interessanterweise wird dieser Algorithmus erst mit einer Tabelle in
+rekursiver Form eleganter. Ohne sehe ich zwischen
+
+   function fakultaet (n) {
+     	if (n==1) return n
+     	return n * fakultaet(n-1) # korrigiert
+   }
+
+und 
+
+   function fakultaet (n) {
+	f = 1;
+	for i (1 .. n) {
+	    f *= i
+	}
+	return f;
+   }
+
+nicht viel Unterschied.
+
+Aber
+
+   function fakultaet (n) {
+       static fakultaet_von = [1];
+
+     	unless (defined fakultaet_von[n]) {
+	    fakultaet_von[n] = n * fakultaet(n-1);
+	}
+	return fakultaet_von[n];
+   }
+
+hat was.
+
+
+Ja, Rekursive Algorithmen passen am besten auf rekursive
+Datenstrukturen. Bäume sind da ein klassisches Beispiel.
+
+	hp

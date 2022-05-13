@@ -1,0 +1,12 @@
+Ich bin mir nicht sicher, was du genau meinst, aber so kann man
+Energieverbrauch nicht spezifizieren. Es muss Wattstunden pro
+Stunde sein. (War das dein Punkt?)
+
+Watt allein bezeichnet Effekt.
+
+Auch im Dänischen gibt es viele Leute, die diese Bezeichnungen
+verwechseln.
+
+-- 
+Gruß
+Denis, Dänemark

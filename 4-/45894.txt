@@ -1,0 +1,19 @@
+So bringt das gar nichts, denn im ersten Resultat sind massenhaft
+korrekte "Verzeichniß" drin, solche von vor Duden - auf den ersten paar
+Seiten sind praktisch nur solche Treffer.
+
+Ein realistischeres Bild versuche ich durch Hinzufügen von "Datei" zu
+ermitteln:
+
+
+Das scheint zunächst Deine Beobachtung zu bestätigen. Blättert man
+allerdings durch die Ergebnisse, endet die erste Liste bei "201 von
+201", die zweite erst bei "507 von 58700".
+
+Die gleiche Suche mit yrmpxa.kiljm.vir ergibt von vorneherein:
+
+"Verzeichniß"     538
+"Verzeichniss" 195'000
+
+-- 
+Pentiums melt in your PC, not in your hand.

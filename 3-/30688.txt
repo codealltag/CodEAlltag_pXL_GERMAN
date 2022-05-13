@@ -1,0 +1,14 @@
+Eine der frühen Chameleon-Versionen erfreute mich mal mit:
+"Unzulässiger Fehler im Anwendungsprogramm."
+
+Seitdem weiß ich, dass es für Loop5-Entwickler offensichtlich auch
+zulässige Fehler gibt. Sie müssten allerdings, ginge es nach mir, nicht
+so ausgiebig Gebrauch von diesem Wissen machen.
+
+
+Ciao
+France
+-- 
+Don't scab for the bosses don't listen to their lies
+us poor folks haven't got a chance unless we organize.
+[Dropkick Murphys]

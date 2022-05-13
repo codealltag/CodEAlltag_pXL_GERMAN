@@ -1,0 +1,12 @@
+* Paul Grammelspacher:
+
+
+Ebenso alle üblichen (und aktuellen) Online-Wörterbücher: VOFR,
+MFD, Videoverleih, Ligu. Kai, in welchem Duden hast Du das Wort in
+dieser Bedeutung denn gefunden? 
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

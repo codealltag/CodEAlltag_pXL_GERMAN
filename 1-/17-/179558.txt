@@ -1,0 +1,24 @@
+Wörter haben immer nur im Kontext einen Sinn.
+
+
+Sie werden aber getrennt verwendet. (Fast) niemand schreibt "der Streit
+war programmiert", fast alle schreiben "der Streit war vorprogrammiert".
+Umgekehrt werden Computer "programmiert" und nicht "vorprogrammiert". Es
+ist mäßig darüber zu streiten, ob die beiden Wörter "eigentlich" das
+gleiche bedeuten - ihr Anwendungsbereich unterscheidet sich.
+
+
+Aber ein Mangel an NME-Fundstellen reicht um zu belegen, dass eine
+bestimmte Formulierung unidiomatisch ist.
+
+
+Ein Autor wird die Formulierung "der Streit war programmiert" meiden,
+weil sie schlicht unidiomatisch ist (< 30 Fundstellen in NME) und
+daher keine Bedeutung hat. Der Leser wird entweder annehmen, dass sich
+der Autor geirrt hat und "der Streit war vorprogrammiert" gemeint hat,
+oder er wird annehmen, dass der Autor absichtlich eine sehr
+ungewöhnliche Formulierung gewählt hat, und versuchen zu ergründen, was
+damit denn gemeint sein könnte (ein paar Ideen, was das bedeuten könnte,
+wurden ja hier in diesem Thread kundgetan).
+
+	hp

@@ -1,0 +1,55 @@
+[Fup2 in passendere Newsgroup]
+
+
+Ein von einem Array abgeleiteter Pointer darf auf ein Element eines
+Arrays zeigen oder unmittelbar dahinter (im letzteren Fall darf er nicht
+mehr dereferenziert werden).  Jeder andere Wert führt zu undefiniertem
+Verhalten.
+
+Nehmen wir an, trimspaces würde so aufgerufen:
+
+char b[20] = "";
+trimspaces(b);
+
+dann zeigt beim Aufruf str auf den Anfang von b, und am Beginn der
+Schleife auch pos. Das erste, was die Schleife macht, ist (pos-1) zu
+berechnen, also die Adresse des nicht-existenten chars vor b. Somit ist
+das Verhalten undefiniert.
+
+Dass der Code sich Mühe gibt, den berechneten Wert nicht zu verwenden,
+ändert daran theoretisch nichts. Es reicht, dass der Wert berechnet
+wird, um undefiniertes Verhalten auszulösen. In dem Fall muss man nicht
+einmal Nasend�monen bemühen: Eine Implementation, die bei Underflow eine
+Exception auslöst, ist leicht vorstellbar.
+
+In der Praxis ist mir noch keine C-Implementation untergekommen, die den
+Fehler nicht stillschweigend ignorieren würde, während mir der sehr
+ähnliche Code 
+    while( --pos >= str && *pos == ' ' )*pos = 0; }
+schon einmal um die Ohren geflogen ist[1] (jaja, der gute alte 8086).
+
+Als minimalen Bugfix würde ich 
+
+void trimspaces(char * const str)
+{
+    char * pos = str + strlen(str);
+    while( pos > str) {
+	--pos;
+	if (*pos != ' ') break;
+	*pos = '\0'; 
+    }
+}
+
+vorschlagen. 
+
+Interessanterweise erzeugt gcc 4.4.5 (i686) daraus genau den gleichen
+Code: Die fehlerhafte Adressberechnung in Deinem Beispiel wird als
+unnötig erkannt und wegoptimiert. Da das Verhalten undefiniert ist, darf
+der Compiler das natürlich, aber verlassen kann man sich darauf nicht.
+
+	hp
+
+[1] Nicht genau dieser Code, aber er enthielt den gleichen Fehler.
+
+-- 
+   _  | Diedrich J. Jacobfeuerborn    | Deprecating human carelessness and

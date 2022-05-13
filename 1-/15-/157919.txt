@@ -1,0 +1,24 @@
+Das wären ja immer noch 10^49 sinnvolle Sätze.
+
+Was lernt uns das? Dass Argumentieren mit großen Zahlen, die sich aus der 
+Kombinatorik ergeben, praktisch immer Unfug ergibt. Egal, ob man die 
+Unberechenbarkeit von Medikamenten-Wechselwirkungen aus der Anzahl der 
+möglichen Kombinationen von zugelassenen Medikamenten berechnen will oder 
+sonstwas. So kommt quantitativ nichts heraus.
+
+Klar, dass Hunde differenzierter riechen können, ergibt sich qualitativ 
+schon, und dass die 220 einzeln differenzierten Gerüche in der Kombination 
+etwas ergeben, was für den Menschen nicht vorstellbar ist, auch. Aber die 
+Zahlen, die man so berechnen kann, sind völlig bar jeder Bedeutung, weil 
+man, wie ich gezeigt habe, leicht ebenso bedeutungslose andere Zahlen 
+berechnen kann.
+
+Insbesondere kann sich unter großen Zehnerpotenzen niemand irgendetwas 
+vorstellen, nicht mal Mathematiker, die dort nicht die üblichen 
+Rechenfehler machen. Dass 10^54 nicht ein wenig mehr als 10^49 ist, 
+sondern hunderttausendmal so viel, und nicht ungefähr gut doppelt so viel 
+wie 10^27, sondern 1000000000000000000000000000mal so viel, muss in 
+manches Hirn auch erst mühsam rein.
+
+-- 
+Ivo Impler

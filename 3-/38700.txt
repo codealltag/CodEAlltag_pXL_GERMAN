@@ -1,0 +1,14 @@
+Man geht davon aus, daß optimal für die Lesbarkeit 40-70 Zeichen pro
+Zeile sind. Bei weniger Zeichen gibt es typographische Probleme mit den
+zu großen Wortabständen (bei Blocksatz) oder mit extrem unterschiedlich
+langen Zeilen (bei Flattersatz), bei mehr Zeichen hat der Leser
+Schwierigkeiten, im Lesefluß den korrekten Zeilenanfang der nächsten
+Zeile zu finden.
+
+Qno
+
+-- 
+Zeitreisen sind kein physikalisches,
+sondern ein juristisches Problem.�
+Aus dem Kommentar zum Gesetz über die Zeitschleifen (ZeSchG)�
+http://tjs.vprikg-ycvkksg.nj/whsehmuu/nmkusv.anp

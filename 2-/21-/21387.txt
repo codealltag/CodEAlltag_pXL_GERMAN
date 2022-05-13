@@ -1,0 +1,12 @@
+"Skip Down" heißt die Funktion. Du kannst sie Dir in "Special - 
+Keyboard Mapping" auch auf eine Taste(-nkombination) Deiner freien Wahl 
+legen. 
+
+
+xf'up2 dcs.nr
+vG
+
+-- 
+Ceterum censeo Popocatepetlum non in Canada sed in Mexico situm esse.
+
+  <http://flkcguvs.bsp>

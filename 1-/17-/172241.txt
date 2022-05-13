@@ -1,0 +1,18 @@
+* Fritz Ihlefeldt:
+
+
+Das ist ein schlechtes Beispiel, denn das kann man auch einfach deuten
+als "Er öffnete (das Fenster und die Tür)". (NP -> NP conj NP) 
+
+Nimm lieber: "Er öffnete das Fenster und seine Tochter die Tür".
+
+Andererseits ist es weniger klar, ob es sinnvoll ist, "V conj V" als
+Satzbestandteil zu deuten, also z.B. "geöffnet und geschlossen", "wurde
+und wird", "kann und soll", oder ob man da immer von einer Ellipse
+weiterer Bestandteile ausgehen sollte.
+
+-- 
+'Ah yes, we got that keyboard from Small Gods when they threw out their
+organ. Unfortunately for complex theological reasons they would only
+give us the white keys, so we can only program in C'.
+  Reginald Eckmanns in sci.lang

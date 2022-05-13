@@ -1,0 +1,13 @@
+Welcher von beiden?
+
+
+"Wenn x geschieht, ist y programmiert" würde für mich bedeuten, "wenn x 
+geschieht, dann läuft y wie in einem Computerprogramm ab". "wenn x 
+geschieht, ist y vorprogrammiert" dagegen bedeutet für mich: "wenn x 
+geschieht, dann geschieht zwangsläufig auch y, wie als Ergebnis einer 
+Programmierung".
+
+Der Unterschied liegt im Aspekt. "Programmiert" richtet den Fokus auf 
+den Ablauf von y, "Vorprogrammiert" nur auf dessen Eintreten.
+
+Massimo

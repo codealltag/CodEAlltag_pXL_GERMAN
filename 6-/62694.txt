@@ -1,0 +1,5 @@
+Peter Oeder:
+
+
+'grau' ist Merkmal/Wert von Farbe
+'graue Farbe' ist Merkmal/Wert von Erscheinungsform

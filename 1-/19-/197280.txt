@@ -1,0 +1,20 @@
+* Ottmar Nahs:
+
+
+Habe ich jetzt mal probiert - und es geschah nicht. Als
+Rechtshänder habe ich die Maus 90 Grad gegen den Uhrzeigersinn
+gedreht (normalerweise ist sie um 30-45 Grad gedreht), und als ich
+anfing, sie nach oben zu verschieben, ging auch der Mauszeiger
+nach oben. Schlauer Maustreiber, dachte ich, wie kann der das?
+Offenbar habe ich aber völlig unbewußt die Schiebebewegung so
+korrigiert, daß der Mauszeiger senkrecht nach oben lief; was "nach
+oben schieben" bedeutet, habe ich anhand des Mauszeigers
+eingestellt, nicht am Verhältnis der Maus zum Tisch, und mir war
+gar nicht bewußt, daß meine Hand tatsächlich nach links schob.
+
+Das wurde mir erst klar, als ich die Maus mal probeweise umgekehrt
+gedreht habe. So kann man natürlich nicht ohne weiteres die
+Schwierigkeiten anderer nachzuvollziehen.
+
+-- 
+Press any key to continue or any other key to quit.

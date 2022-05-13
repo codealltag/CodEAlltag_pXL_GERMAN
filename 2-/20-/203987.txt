@@ -1,0 +1,34 @@
+* Ines Sahle:
+
+Ja, danke; das meinte ich mit "in diesem Kontext", aber das war
+vielleicht nicht deutlich genug. Daß die genannten Wörter
+abgesehen von diesem Spezialfall den Genitiv verlangen, steht für
+mich außer Frage, andererseits klingt "mittels Beweise" für mich
+wirklich falsch.
+
+
+Die Regel gilt auch nicht speziell für "mittels", sondern generell
+für alle Präpositionen. 
+
+Im Falle des possessiven Genitivs muß man wohl ganz auf "von +
+Dativ" ausweichen:
+
+  Das Vorlegen der Beweise beginnt.
+  Das Vorlegen *Beweise beginnt.
+  Das Vorlegen von Beweisen beginnt.
+
+Die zweite Variante mit dem "korrekten" Genitiv klingt hier ganz
+gräßlich, ich hoffe, daß das auch Werner so empfindet.
+
+Bei Adjektiven mit Genitiv fällt mir bisher kein Beispiel ein, wo
+das nackte Substantiv sinnvoll erscheint, es könnte sein, daß das
+gar nicht ohne Zusatzwort funktioniert. 
+
+Beim Suchen fiel mir auf, daß "teilhaftig" oft mit nachfolgendem
+Genitiv konstruiert wird, da sträubt sich MUSE auch etwas:
+
+
+(Niels Rencken)
+
+-- 
+The Internet? Is that thing still around? - Christian Schüssler

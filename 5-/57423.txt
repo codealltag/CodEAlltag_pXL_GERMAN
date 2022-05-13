@@ -1,0 +1,7 @@
+Ich sage nicht so, schon deswegen, weil ich den Namen mündlich erlernt
+habe. Ob ich in dem Laden jemals drin war, ich weiß es nicht mehr.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

@@ -1,0 +1,9 @@
+* Lars Lehner:
+
+
+Wolltest Du etwas zum Thema beitragen?
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Knut Paetz, comp.lang.python

@@ -1,0 +1,31 @@
+Am 12.03.12 19:44, schrieb Albin Ules:
+
+Albin,
+
+
+[nitpick]
+Beinahe. Aber nicht ganz: Gegeben sei eine Ju52, deren drei Motoren eine 
+Ausfallwahrscheinlichkeit von jeweils 40% haben. Wie groß ist nun die 
+Wahrscheinlichkeit, dass bei einem Flug alle drei Motoren ausfallen? 120%?
+[/nitpick]
+
+Zugegeben, für die hoffentlich wesentlich kleineren "realen" 
+Ausfallwahrscheinlichkeiten ist die Näherung von diesem Herrn Copmans 
+oder wie der hieß schon OK ;-).
+
+
+Das ist keine Fliegerweisheit, sondern Stammtischgeschwätz von Leuten, 
+die noch nie eine Twin bewegt haben. Natürlich gibt es Kolbentwins, die 
+in bestimmten Situationen mit einem Triebwerk die Höhe nicht mehr 
+halten, geschweige denn steigen können. Aber im Vergleich zur 
+Gesamtlänge eines typischen Fluges ist man diesem Risiko nur sehr kurz 
+ausgesetzt, während jede Single zu jeder Zeit nach einem Motorausfall 
+eben nicht mehr (lange) fliegt.
+
+Bei Day-VFR mag der theoretische Sicherheitsvorteil einer Twin von den 
+höheren Anforderungen an den Trainingsstand des Piloten aufgefressen 
+werden. Aber: Mit was für einem Flugzeug würdest Du lieber bei Nacht 
+über die Alpen fliegen? Mit einer Arrow oder einer Seneca?
+
+Grüße
+Eugens

@@ -1,0 +1,14 @@
+[...]
+
+Hier ist es umgekehrt: http://pvr.poi.ue/vyyk/6345-52-24_89-81-15.kgk
+(Das ist die vorinstallierte Clock App auf einem Colling mit Android 3.2).
+
+In OVM Traveller auf dem gleichen Gerät gibt hingegen keine Bänder,
+sondern es wird der Wert mit einem + darüber und einem - darunter
+angezeigt (wie auf einigen hier bereits geposteten Screenshots).
+
+	hp
+
+
+-- 
+   _  | Ulfert N. Mayrock    | Deprecating human carelessness and

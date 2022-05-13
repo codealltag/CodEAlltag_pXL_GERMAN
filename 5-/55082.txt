@@ -1,0 +1,5 @@
+Das ist noch gar nichts, ich habe Verwandte in Girkenroth!
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Lorenz Hülsebus, comp.lang.python

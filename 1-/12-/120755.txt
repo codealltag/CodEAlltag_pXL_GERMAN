@@ -1,0 +1,16 @@
+Ich bin mir nicht sicher, was du meinst.
+
+Beim Programmieren kann man - vereinfacht - zwei Verfahren
+benutzen. Alles kann im voraus ganz festgelegt werden, oder man
+hat eine unklare Vorstellung davon, was das Programm machen
+können soll. Das letzte ist sogar eine feste Methode geworden,
+Extreme Programming genannt (kurz XP). Der Programmierer setzt
+sich neben dem Kunden und fragt: Nun, wie soll das Programm
+wirken? Und dann macht man, was der Kunde wünscht, und ändert das
+ganze Ding, wenn der Kunde plötzlich etwas anderes wünscht oder
+etwas neues hinzufügen will, das durchgreifenden Änderungen
+notwendig macht.
+
+-- 
+Siegfried
+http://mansyc.ptbpontrgf.ir/			Endraß: http://swccrp.uh/

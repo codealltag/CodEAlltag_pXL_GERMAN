@@ -1,0 +1,4 @@
+Mir ist noch nicht ganz klar, wie du mit 
+(Längeneinheit/Längeneinheit)/Zeiteinheit auf eine Geschwindigkeit kommst.
+
+Ivan

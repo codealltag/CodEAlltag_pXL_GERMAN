@@ -1,0 +1,28 @@
+Dazu fehlt m.E. eine winzige Komponente: Der Schlüssel.
+
+
+Das mag intuitiv so sein, wenn der Klartext kurz genug ist. 
+Allerdings wird der Nachweis, daß dem tatsächlich so ist, schwierig.
+
+
+Sinn der Sache ist eigentlich, mit genügend kleiner Unsicherheit 
+festzustellen, daß ein Text nicht manipuliert wurde.
+
+
+Ist halt nur ein klein wenig aufwendig.
+
+Probier das mal mit dem local-part meiner Mailadresse. Der Klartext 
+ist auch nicht besonders lang.
+
+
+Es ist deutlich weniger aufwendig, einfach alle Klartexte zu 
+"chiffrieren" und deren Hashes zu speichern. Effizient gemacht nennt 
+man das dann Rainbow-Table, aber warum das für beliebig lange Texte 
+nicht praktikabel ist, überlaß ich mal Deiner Phantasie. 
+
+Ich überlege auch gerade, wieviel Speicher man bräuchte, um 2**160 
+Klartexte zu speichern. Und über die Möglichkeit, den Klartext zu 
+salzen, haben wir noch gar nicht gesprochen... ;-)
+
+
+Vinzent.

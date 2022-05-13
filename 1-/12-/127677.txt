@@ -1,0 +1,10 @@
+Die klassische Übung für Lateinschüler: dekliniere genus, numerus, und 
+casus.
+
+genus, generis, neutrum
+numerus, numeri, masculinum
+casus, casus, masculinum
+
+Leider kein Femininum dabei.
+
+Werner

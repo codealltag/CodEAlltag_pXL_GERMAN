@@ -1,0 +1,17 @@
+Leon Verbert tat kund:
+
+
+Natürlich nicht.
+
+
+Klar. Mit einer primitiven Version eines
+solchen Programmes habe ich selber schon
+gearbeitet. Das konsistente Vokabular ist
+allerdings Fluch und Segen: Man sieht es
+an den zuweilen grauenhaften Übersetzungen
+von Atuf-Programmen, deren Erzeuger
+das Wort "Synonym" offenbar nicht kennen.
+Ich habe schon Fehlermeldungen vom Compiler
+anhand der Fehlernummer gegoogelt,
+weil ich die deutsche Version nicht verstand -
+die englische sofort.

@@ -1,0 +1,5 @@
+Kilo , Nano etc werden quasi als Funktion und nicht als Operator
+benutzt. Kilo ist nicht kommmutativ. Ein km² sind 1000000 m² und nicht
+1000.
+Gibt es Kiloquadratmeter (1000 m²=√(1000000·m⁴)) oder ähnliches
+eigentlich in der Umgangssprache?

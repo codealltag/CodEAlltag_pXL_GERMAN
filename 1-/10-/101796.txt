@@ -1,0 +1,9 @@
+* Sandro Piegler:
+
+
+Das kommt mir unidiomatisch vor. Das dagegen normal:
+
+
+-- 
+GUGEL,  f., m., kapuze, mlat. cuculla, cucullus, ahd. cucalun cucullam
+  GRIMM, Deutsches Wörterbuch

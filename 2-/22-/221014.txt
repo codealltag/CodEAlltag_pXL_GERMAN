@@ -1,0 +1,17 @@
+* Mike Klaproth:
+
+
+üblicherweise werden Komposita halt nicht von der Imperativform
+abgeleitet, schon gar nicht von der speziellen mit -e (die
+üblichere ohne -e dagegen stimmt oft mit dem Stamm überein, der
+meistens als Kompositionsform dient). 
+
+Wenn man betonen will, daß man einen Imperativ meint, müßte man
+m.E. sowas schreiben wie:
+
+  Die "Singe!"-Bewegung
+
+-- 
+XML combines all the inefficiency of text-based formats with most
+of the unreadability of binary formats.
+  Olaf Goegel, comp.lang.python

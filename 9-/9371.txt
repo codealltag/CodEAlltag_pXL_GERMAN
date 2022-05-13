@@ -1,0 +1,8 @@
+Theo Ulrichs tat kund:
+
+
+Aber so ist es ja gerade nicht. "Fast-Ethernet-Geschwindigkeit"
+ist nicht die schnelle Ethernet-Geschwindigkeit, sondern
+die Geschwindigkeit des schnellen Ethernet.
+Mal abgesehen davon, daß ich auch schon einen Kunden
+mit "SchnittPunkt-Interface" hatte.

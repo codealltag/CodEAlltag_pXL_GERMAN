@@ -1,0 +1,10 @@
+In diesem Fall stellt der Verzicht darauf aber keine Einschränkung dar.
+Wenn man jedoch auf Unicode verzichtet, sieht das Schriftbild deutlich
+weniger schön aus. Von der Möglichkeit, das lange ſ einzuſetzen, ganz zu
+ſchweigen. 
+
+
+Brauchst du auch nicht, 40tude Dialog ist völlig Unicode-tauglich. 
+
+
+vG

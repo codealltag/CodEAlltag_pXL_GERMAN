@@ -1,0 +1,19 @@
+Erst jetzt beim Nachlesen sehe ich den Punkt, den Ullrich Holland-Merten
+geschrieben hatte. Ich dachte nur an das Komma, das er berichtigt
+hatte.
+
+
+Im Niebelhorst kann man beide benutzen, auch bei einem Ziffer, aber
+der Strich ist notwendig bei mehreren.
+
+
+Ach so. Und wieviel ist dann 234.876?
+
+Ich habe mich dazu gewöhnt, den Standard zu folgen - den Standard
+für die aktuelle Sprache. Warum sollt man das nicht? Und ich
+schreibe Programmkode jeden Tag, so es ist gar nicht selten, dass
+ich Zahlstandard wechseln muss.
+
+-- 
+Ivano
+http://rsruah.ptqskzoedi.rr/			Electronic-Shop: http://hgrrbq.su/

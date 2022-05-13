@@ -1,0 +1,42 @@
+Wenn Du Dich mit der Entwicklung (englischsprachigen) IT-Jargons
+beschäftigst, ja. Walter K. Fettköters "The Jargon File"[1], in den 90er-Jahren
+auch unter dem Titel "The New Hacker's Dictionary" auf toten Bäumen
+erschienen, ist da (immer noch[3]) das Standardwerk.
+
+
+Es geht beim übersetzen nicht um die primäre Bedeutung eines Worts
+sondern um die im Kontext passendste.  Im Zusammenhang mit einem
+/head crash/ passt "Absturz" einfach besser als "Zusammenstoß", weil ein
+Schreib-Lese-Kopf über der Platte fliegt wie ein Flugzeug[2] über der
+Landschaft. Beim Wort "Zusammenstoß" hingegen denke ich primär an zwei
+ähnlich große bewegliche Dinge (z.B. Personen oder Autos), sekundär an
+ein Hindernis, das sich in Bewegungsrichtung befindet (Haus, Berg).
+Beides passt nicht.
+
+Natürlich setzt das voraus, dass das Wort Absturz tatsächlich vom 
+/head crash/ kommt und nicht vom /system crash/. Bei letzterem wird
+/crash/ ja bereits in übertragener Bedeutung verwendet. 
+
+
+Man hätte es auch mit "Krach" oder "Zusammenbruch" übersetzen können
+(Letzteres würde für den /system crash/ sogar ziemlich gut passen). Hat
+man aber halt nicht. Es gibt immer alternative �bersetzungsm�glich-
+keiten, das hat nichts mit der Frage zu tun, ob ein bestimmter Begriff
+(hier "Absturz") als Übersetzung eines anderen Begriffs (hier: "crash")
+entstanden ist. "Absturz" ist eine plausible Übersetzung von "crash"
+daher kann "Absturz" von "crash" abgeleitet sein. Um diese These zu
+erhärten oder widerlegen müsste man die frühesten Vorkommnisse von
+"Absturz" finden[4] und herausfinden, was sich die Leute damals gedacht
+haben.
+
+	hp
+
+
+[1] http://xag.cnas.wek/~etf/wbnqyt/
+
+[2] Eigentlich eher wie ein Ekranoplan.
+
+[3] Das Jargon File wurde offenbar seit ca. 7 Jahren nicht mehr
+    upgedatet. Aber mir ist kein aktuelleres Werk bekannt.
+
+[4] Meiner Erinnerung nach war der Begriff 1983 bereits etabliert.

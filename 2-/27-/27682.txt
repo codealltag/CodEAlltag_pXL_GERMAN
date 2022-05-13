@@ -1,0 +1,15 @@
+"Mause" ist aber gar keine Flexionsform von "Maus", insbesondere nicht die 
+Pluralform.
+
+
+Eben nicht. Es gibt eine Reihe von Fugenendungen (wenn man, wie es auch 
+bei der Silbentrennung geschieht, die Fuge zum voranstehenden Wort zählt) 
+und eine Reihe von Flexionsendungen. Die Endungen in beiden Klassen sind 
+ziemlich dieselben, aber die Fugenendungen eines Wortes sind keine 
+Teilmenge der Flexionsendungen. "Mause", "Heizungs", "Liebes" sind keine 
+flektierten Formen. Nur wenn man das Genus außer acht lässt, kommt man dem 
+schon nahe: Neutra "Maus", "Heizung" und "Liebe" hätten solche 
+Flexionsformen haben können.
+
+-- 
+Daniel Elsbecker

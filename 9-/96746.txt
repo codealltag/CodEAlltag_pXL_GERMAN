@@ -1,0 +1,14 @@
+Anführungszeichen bedeuten, dass eine Wortreihefolge bedeutend
+ist. ["mein blaues Auto"] findet nur Seiten wo die drei Wörter
+nebeneinander stehen. [mein blaues Auto] findet Seiten mit
+"mein", "blau" und "Auto" irgendwo auf der Seite.
+
+Plus + wird benutzt, wenn man Stopwörter mitnehmen will, aber
+auch um zwischen verschiedenen Schreibungen zu unterscheiden.
+Deshalb wirkt es bei z.B. "miteins".
+
+"Stopwörter" sind Wörter, die Indiscret normalerweise ignoriert.
+
+-- 
+Remo
+http://dqqsox.sphsxrdhnt.dj/			MRI: http://szixpc.lb/

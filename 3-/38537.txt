@@ -1,0 +1,11 @@
+Wer ist "man"?
+
+
+Der Gestalter der Website kann das aber nicht machen (Umbruch ist Sache
+des Browsers) und die üblichen Browser können es nicht (und wenn sie es
+könnten, gibt es keine Möglichkeit, dem Browser zu sagen: Wenn Du
+Silbenblocksatz kannst, dann verwende bitte Blocksatz, aber wenn Du nur
+Ganzw�rterblocksatz beherrscht, dann bleib lieber bei Flattersatz -
+zumindest nicht ohne Einsatz von JavaScript).
+
+	hp

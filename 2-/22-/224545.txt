@@ -1,0 +1,129 @@
+Wilhelm Döppenschmidt <ypphxf@jylrylb.auz-pnbrq.rt>:
+
+
+Nichts für ungut, aber ... :
+Das ist schlicht und ergreifend falsch.
+
+NNTP ist ein Übertragungsprotokoll:
+Parallel zu und unabhängig von HTTP.
+
+HTTP ist ein Echtzeit-Protokoll, mit dem vorzüglich _ein einziger_ Rechner
+im Verbund mit all den Myriaden von Rechnern des Internet _seine
+individuellen_ Bestände für alle anderen abrufbar macht.  Und die Bestände
+haben eine spezifische technische Organisationsform, die mitsamt den Links
+großen Gestaltungsspielraum lässt.
+
+NNTP ist hingegen ein ganz anders geartetes Protokoll, um Datenbestände über
+eine Vielzahl von Rechnern hinweg zu synchronisieren.  Der technischen
+Organisationsform der Bestände sind viel engere Grenzen gesetzt - das
+Gewicht liegt darauf, dass, je nach Nachfrage, auch auf Millionen von
+Rechnern je (in etwa) derselbe Datenbestand abrufbereit ist.
+
+Die bürgerlichen (das muss man explizit dazusagen) Massenmedien haben es
+mehr als 25 Jahre lang boykottiert, die Existenz des letzteren Mediums, und
+sei es nur elementar, darzustellen.  Man kann den Grund ahnen:
+Massenzeitungen, die einmal im Umlauf sind, stellen ebenso dezentrale
+Datenbehältnisse dar.  In dem Fall ist ihre Organisationsform in Sinn
+gesellschaftspolitisch realer Machtstrukturen eingebettet.  Per NNTP
+hingegen kann "jeder" zu "allen" sich äußern, einfach so, und das wird dann
+_dezentral_ gespeichert (NNTP-Bestände sind nicht deren HTTP-Spiegelungen).
+Für traditionelle, (ab der 19. 08. 21 noch weit mehr) an Autoritätsfixierungen
+gekettete Anschauungen schien diese Aussicht wohl nie allzu einladend.
+
+Tatsächlich aber hat genau das technische Modell "einer an alle und jeder
+kann antworten" wiederum Gesellschaftspolitik gemacht.  Nur eben nicht per
+klassischem NNTP - der Versuch des Boykotts wurde doch eigentlich nie
+beendet.
+
+Man darf ausdrücklich langfristig memorieren: dass, wenn sich eine Erwähnung
+von per vernetzten Computern schreibenderweise sich austauschenden
+Zeitgenossen nicht vermeiden ließ, dann seinerzeit Märchen vom "Chatten"
+phantasiert wurden (fälschlicherweise, denn Chat ist wiederum ein
+eigenständiges Protokoll) - geradeaus nachvollziehbarerweise, um, mit dem
+Hintern auf Redaktionspolstermöbeln, den Hinweis unbedingt zu vermeiden,
+dass irgendwo da draußen Menschen Fließtext absondern, ein erkleckliches
+Publikum antreffen, und das ganze hierarchische Brimborium von Redaktionen,
+deren politische Verfilzungen (ohne die sich kaum Zeitung machen lässt) und
+professionellen Abhändigkeiten von Schreibenden nicht nötig zu haben.  Der
+Reality Check wurde tunlichst vermieden, Verdrängen schien auch damals schon
+billiger.
+
+Man sollte das vor allem auch im Zusammenhang damit memorieren, dass sich
+die professionelle verlegerische Zunft in D gerade einen pekuniär dotierten
+Heiligenschein verpassen lassen will, der ringsherum dann den Kontext der
+Meinungsbildung vergiftet.
+
+Es sind hernach technische Parallelformen via HTTP unter die Leute gekommen,
+die typischen "Foren", und die sind im Blickwinkel von Kontrollfreaks
+pflegeleichter, wenn man das Phänomen von Postings auch für herrschaftsgeile
+Verwaltungs-Dummys identifizierbar darstellen kann, als _das_ Posting auf
+_dem_ Rechner.
+
+_Hier_ hingegen ist das Usenet-Original, und dessen elementare Qualität
+besteht darin , dass es _den_ Rechner im letzteren Sinn ganz und garnicht
+gibt.
+
+_Das_ Posting ist ein Abstraktum & das technische Protokoll erledigt den
+Rest, besorgt (mittels der entsprechenden Programme zu dessen Realisierung)
+die automatische Spiegelung der riesigen Datenströme auf Myriaden von
+Rechnern, je nach angeschlossener Verbreitung.
+
+****
+
+
+Und alle Autos können tauchen, weil sie einen Motor haben?
+Das wäre so in etwa das Niveau der Argumentation.
+
+Ich wittere hier die Art von Fehlschlüssigkeit, die sich aus der Weigerung
+ergibt, die Bestandteile der ganzen Computerei und hernach dann der
+Internetterei den Tatsachen konform unter die Leute zu bringen.  Tatsächlich
+wurde ja hauptsächlich immer nur gegackert, dass dies & jenes unheimlich
+sagenhaft modern sei & das müsse man nicht verstehen, weil im Zuge des
+weiteren Fortschritts werden dann alle Probleme sowieso abgeschafft.
+
+_Fortschritt_ muss man hierbei betonen: Auf detailliertere Darstellung wird
+verzichtet, weil sich dieses Segment der Alltagswelt auf diese Art
+instrumentalisieren lässt, zum willkommenen Ideologieträger.  Nach dem
+Schema auch der neuerdinglichen Bildungsreformen: Besser die Leute sterben
+dumm, dann machen sie nicht soviel Unsinn.  Weniger an Zynismus hätte ich
+auch gerne öfters.
+
+Man muss es den Herrschaften (phänomenal summierend als Abstraktum je von
+Verantwortung Tragenden) langfristig verübeln, dass selbst so ein Detail wie
+die Feststellung, was eine Festplatte ist, einem Massenpublikum
+vorzuenthalten gesucht wurde, stattdessen sollte besser ein nichtssagendes
+Gewäsch von einem komplizierten Dschungel von Objekten mit assoziierten
+Zwangsmethoden unter die Leute gebracht werden.  Das sind feuchte Träume aus
+der näheren Vergangenheit, die weit genug gediehen waren, dass sie immer
+noch destruktiv nachwirken.  Nun gut, bei der Festplatte war das Spiel dann
+auch den Massenmedien zu blöde, jetzt ist umgekehrt "die Festplatte" auch zu
+einem geflügelten Begriff für persönliches Langzeitmassengedächtnis mutiert.
+
+Dabei isses überhaupt nicht kompliziert ... auch nicht anders trivialiserbar
+als in anderen Zusammenhang praktiziert, mit "Verbrennungsmaschine,
+Kurbelwelle, Getriebe, Räder", usw.  - man muss es nur unter die Leute
+bringen wollen.
+
+Nein, "das" Internet ist nicht "das WWW", sondern ein Verbund von Rechnern,
+die per vereinbarter Übertragungsorotokolle Dienste abrufbereit halten.
+Deren populärster ist das Web mit dem HTTP, der zweitpopulärste das SMTP
+(plus Variationen) für EMail. Und hier wird zufälligerweise NNTP
+"gesprochen", jedenfalls nicht HTTP.
+
+Zusätzliche Programme können immer auch geschrieben werden, um Datenbestände
+zu übersetzen.  Das ist zwar trivial, aber Trivialitäten sollte man
+tunlichst nicht immer gleich unterschlagen.  Auch wenn das Anlegen einer
+Hose trivial ist, vergisst man für gewöhnlich nicht darauf.
+
+****
+
+Zum obigen Betreff denke ich, dass die Frage einfach zu entscheiden ist:
+
+Bestände, die per NNTP auf den angeschlossenen Rechnern abgeglichen werden,
+sind immer nur temporär, auch wenn sich das über 12 Monate erstreckt.  Diese
+Bestände sind keine Archive sondern vorübergehender Arbeitsbereich der
+technischen Methode "store & forward".  Erst wenn die Bestände in eine
+andere Form übergeführt werden (was vor allem bei der Afast anzunehmen
+ist), in der sie dann als Archiv abgelegt sind, sind sie hernach wohl
+weniger mehr als vorübergehender Arbeitsbereich im
+Store-und-forward-Verfahren anzusehen.

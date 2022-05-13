@@ -1,0 +1,9 @@
+Wenn die Maus nicht (genau) senkrecht zur Monitorebene verschoben wird,
+dann tritt dieser Effekt auf.
+
+Die Teilnehmer sollten mit den Schultern parallel zum Monitor sitzen,
+Arm, Hand und Maus auf einer (gedachten) Linie liegen und die
+Bewegung gerade und rechtwinklig zum Bildschirm ausgeführt werden.
+
+Gruß
+Alfons

@@ -1,0 +1,8 @@
+Ich sehe keinen Grund, es als zur kyrillischen Schrift zugehörig zu 
+betrachten. Es gehört zu den "letterlike symbols" 
+http://mzpunzt.cxj/enozgc/ATD/N6541.pno und an denen ist nicht 
+Kyrillisches. Wenn die Fa. Bogie's es in Windows-1251 reinpackt und in 
+Windows-1252 nicht, dann ist das deren Privatvergnügen.
+
+-- 
+Otmar Kuhle

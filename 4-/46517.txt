@@ -1,0 +1,13 @@
+Tja, wieso dann "Speis"? Eine Bezeichnung als Scherz am
+Rande des Baustellenbetriebs?
+
+Hm, also:
+
+dirt=3DDreck/Kot/Kehrricht
+muck=3DDreck/Fraß/Schweinefraß
+jam=3DMarmelade/Konfitüre
+pudding=3DNachspeise/Nachtisch/Pudding
+
+wird Mörtel im Englischen auf Baustellen auch genannt?
+Na gut.
+T.M.

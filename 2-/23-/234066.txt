@@ -1,0 +1,9 @@
+* Jean-Claude Langewiesche:
+
+
+Wenn man so Großes vorhat, bringt das auch mit sich, daß man dann 
+mit 000, 001, ... anfängt. Dann ist die elfte Null schnell 
+erreicht.
+
+-- 
+*Multitasking* /v./ Screwing up several things at once

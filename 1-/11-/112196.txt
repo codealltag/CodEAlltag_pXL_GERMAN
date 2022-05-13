@@ -1,0 +1,19 @@
+* Victor Jörges <yfbdia@gjo.hr>:
+
+
+Die "Brotschrift" im besagten Screenshot war irgendsoeine serifenlose
+Monospace. Aber die zwei Zeichen gehören mit ziemlicher Sicherheit
+nicht zu dem Font.
+
+Wenn so ein Unicode-Zeichen aus exotischeren Blöcken daherkommt wie
+
+  U+16CD RUNIC LETTER SIGEL LONG-BRANCH-SOL S
+  U+24B6 CIRCLED LATIN CAPITAL LETTER A
+
+dann merkt Thunderbird/Gecko/xft/werimmer, dass das Zeichen im
+aktuellen Font nicht enthalten ist und nimmt es aus einem, in dem es
+vorkommt. Dass sieht dann vielleicht nicht besonders gut aus, wie die
+s-Rune mit den Farbr�nden (fehlerhaftes Antialiasing), vermutlich aus
+Luxi Mono.
+
+ - Abdul

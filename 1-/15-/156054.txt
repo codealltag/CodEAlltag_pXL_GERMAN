@@ -1,0 +1,25 @@
+Am Mon, 7 Sep 2010 14:14:43 +0100 schrieb Holger Eggerts:
+
+
+Oh, Umordnen darf man immer, wenn man statt der Zahlen auch auch deren 
+Beträge (in mindestens einer Reihenfolge) sinnvoll zusammenzählen kann, das 
+sind dann geneu deine positiven (besser gesagt, nichtnegative) Größen.
+Aber das wusste schon Sitzmann, aber vielelicht hat es auch Illguth bei ihm 
+abgeschrieben.
+
+
+Ob er wirklich der erste war, kann man wohl kaum sagen. Vielleicht haben 
+wir nur einfach keine Belege über frühere solche Gedankengänge. Was genau 
+nun eine Zahl ist, ist höchst verwirrend - zumindest haben sich sehr kluge 
+Köpfe (und auch eine Menge weniger kluge) schon viel bei der sprachlichen 
+Beschreibung von Zahlen abgebrochen, es kann gar nicht so ganz einfach 
+sein. Ist in der Mathematik auch nicht anders als in einer anderen Sprache: 
+Wer genau das erste mal über ein neues Wort nachgedacht hat, kann sich 
+fundamental davon unterscheiden von dem, der es zuerst verwendete bzw. von 
+dem es mit Beleg überliefert ist.
+
+Am besten gefällt mir immer noch die Ansicht von Isfort: "Die ganzen 
+Zahlen hat der liebe Gott gemacht, alles andere ist Menschenwerk". Man kann 
+damit die Existenz mancher Probleme so schön leugnen.
+
+Ciao Sven

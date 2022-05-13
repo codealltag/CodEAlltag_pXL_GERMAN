@@ -1,0 +1,10 @@
+Man nennt es aber nicht Verbrauch, sondern "mileage", siehe "YMMV". Also
+eher sowas wie Ergiebigkeit.
+
+
+Mir auch nicht, das war eine spontane Idee von mir, um den tatsächlichen
+Gebrauch "x-mal so langsam" zu modellieren. Funktioniert aber gut.
+
+-- 
+GUGELFUHR(E),  f., scherz, spasz, narrheit,
+  GRIMM, Deutsches Wörterbuch

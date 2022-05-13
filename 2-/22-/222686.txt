@@ -1,0 +1,17 @@
+Geht mir auch so.
+
+
+Das reicht nicht, wenn Du die Mailadresse dann trotzdem unverschlüsselt 
+im Quellcode einer anderen Seite hinterlegst, weil sie nach der 
+Zeichenstruktur von Mailadressen suchen.
+Ich habe mit der Variante von Rüdiger sehr gute Erfahrungen gemacht.
+
+Und mir scheint auch, dass über die usenet-Beiträge nicht mehr so viel 
+Spam kommt wie früher.
+
+Die meisten Werbemails bekomme ich, weil ich irgendwann mal vergessen 
+habe, irgendwo beim Bestellen das "Ich bin einverstanden, dass Sie mir 
+Werbung schicken und meine MAiladresse an sämtliche passende und 
+unpassende andere Firmen weitergeben" wegzuicksen.
+
+uwe

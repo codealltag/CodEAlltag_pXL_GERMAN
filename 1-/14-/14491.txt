@@ -1,0 +1,19 @@
+Genau das tut er aber nicht. Er rät nur zufällig richtig.
+
+
+Meiner ist, aus /für mich/ guten Gründen, anders konfiguriert. Deswegen
+'rät' er bei einer fehlenden Zeichensatzdeklaration UTF-8. Was auch
+überhaupt kein Problem darstellt, denn *richtige* Newsreader(tm)
+deklarieren Sonderzeichen schließlich.
+
+
+Ich fürchte, ja.
+
+
+Ciao
+Monica
+-- 
+ Another place - another train
+ Another bottle in the brain
+ Another girl - another fight, another drive all night.
+ [Beasty Boys]

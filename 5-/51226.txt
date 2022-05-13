@@ -1,0 +1,11 @@
+Leopold Erdelt (in de.etc.sprache.deutsch):
+
+
+Kommt halt immer drauf an, was man will. Ob eine Platte zuläuft, das
+interessiert ggf. jede Minute, und das macht eben das Monitoring.
+(Überwachung würde ich auf deutsch sagen). Im Zuge dieser Überwachung
+fallen halt als Abfallprodukt die Messdaten ab, die dann gesammelt und zu
+Reports verarbeitet werden. Die werdeb dann wieder im Hinblick auf
+langfristige Fragestellungen ausgewertet.
+
+Erwin

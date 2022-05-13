@@ -1,0 +1,16 @@
+Doch.
+
+
+Und genau das ist gemeint.
+
+
+Man kann auch (200*8-100)/100 schreiben, aber 15 ist dennoch
+zweistellig (in Base Zehn).
+
+
+Und wieso ist das anders als die Ziffern? 8 ist nicht das Ziffer
+an sich, sondern nur eine Darstellung davon. Das Ziffer 8 ist
+eine abstrakte Idee.
+
+-- 
+Gruß, Carlos

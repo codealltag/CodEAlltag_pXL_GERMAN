@@ -1,0 +1,9 @@
+Philipp Flaßhaar tat kund:
+
+
+Nein. Die Passante hat ausdrücklich _keinen_
+Punkt mit dem Kreis gemeinsam, die Tangente
+hat genau einen, die Sekante zwei. Ob eine Tangente
+als "entartete Sekante" anzusehen ist, weiß ich
+nicht, aber zwischen 0 und 1 bestehen doch
+gewisse Unterschiede.

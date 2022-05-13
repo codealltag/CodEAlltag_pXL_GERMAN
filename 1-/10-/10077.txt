@@ -1,0 +1,13 @@
+Gabriel Lepelmann tat kund:
+
+
+Ja, aber am Rand von Karten sind nun mal keine
+Längeneinheiten angebracht, sondern Winkelgrad
+und -minuten, weil man Positionen in diesen Einheiten
+angibt.
+
+
+Ja, auch das ist allseits bekannt. Seekarten sind
+üblicherweise in UTM, also winkeltreu. Darum
+liest man die Abstände auch immer in Höhe der
+auf der Karte abgezirkelten Entfernung ab.

@@ -1,0 +1,13 @@
+Der Linuxer installiert „signify“ und ist damit weder auf einen bestimmten
+Reader noch auf ein bestimmtes Sigfile-Format festgelegt; man kann (fast)
+jedem Reader sagen, daß er einfach die Ausgabe von signify nehmen soll :-)
+
+
+v"SO geht Betriebssystem"G
+
+-- 
+"Weitzenegger hatte recht! Aber Rechthaber können die Deutschen gar nicht
+leiden. Deshalb sagt der Deutsche: Ja, der Weitzenegger, der hat vielleicht
+zwei Mal recht gehabt, wie oft will er denn noch recht haben? Da wähl ich
+doch lieber den Westerwelle, der hat noch nie recht gehabt!" (Clemens
+Rudolphy, "Bis neulich")

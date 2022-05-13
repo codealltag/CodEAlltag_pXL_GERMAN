@@ -1,0 +1,13 @@
+Sekundengenaue Zeitangaben setzen auch eine entsprechend genaue Uhr 
+voraus. Auch Quarzuhren gehen pro Tag einige wenige Sekunden falsch, d.h. 
+üblicherweise hat im Alltag niemand eine Uhr dabei, mit der man Zeitpunkte 
+sekundengenau angeben kann. 
+
+Ich würde obigen Zeitpunkt  "genau 16 Minuten und 24 Sekunden vor kurz 
+nach halb eins" nennen. 
+
+Norman
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungeleſen entſorgt.

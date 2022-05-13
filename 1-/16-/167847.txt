@@ -1,0 +1,13 @@
+Von indischen Geschäftspartnern habe ich mal eine
+interessante Begriffserklärung gehört:
+"Verantwortung tragen heißt nicht mehr nachfragen."
+Wir wollten sie vertraglich verpflichten, die Verantwortung
+für ein outgesourctes SW-Paket nach einem Jahr Einarbeitung
+zu übernehmen. Sie weigerten sich und verlangten 13 Monate.
+Und nach 13 Monaten kamen keine Fragen mehr. Nur noch
+funktionierende Releases.
+
+Habe ich danach leider nie wieder erlebt, aber EiNMAL
+hat's funktioniert ;-)
+
+/Oscar

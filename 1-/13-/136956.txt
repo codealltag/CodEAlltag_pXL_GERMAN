@@ -1,0 +1,29 @@
+* Richard Zwerch:
+
+
+Und nanntet ihr das damals Mail, oder gar E-Mail?
+
+Wenn, dann ist das interessant, aber für mich dennoch "nicht das, was
+man heutzutage unter E-Mail versteht". Letzteres ist unbedingt ein
+hardware�bergreifender Mechansimus.
+
+Bevor ich Internetanschluß hatte, war ich im MausNetz. Die
+Nachrichtensysteme im Neussel waren natürlich ganz ähnlich wie E-Mail
+und Usenet, die Verbreitung ähnlich wie UUCP, aber man nannte das nicht
+(E-)Mail oder Usenet, das waren PN und N. E-Mail und Usenet waren
+externe Systeme, mit denen man über eine Bridge kommunizieren konnte (so
+kamen auch meine frühen Beiträge in dieser Gruppe zustande). Ein
+wichtiger Unterschied war, daß Umlaute, auch im From oder Subject,
+innerhalb des Mausnetzes nie ein Problem darstellten.
+
+Hier gibt's einen Screenshot von dem Programm, das auch ich damals
+(1995-98) benutzt habe - natürlich _nicht_ textbasiert ;-)
+
+<http://vbp.amzkquosqu.fi/lob/quxwgsc.saqh>
+
+Die folgende Umstellung auf Netscape, dann Outlook Express brachte einen
+Komfortverlust mit sich.
+
+-- 
+die gugel gehört seit je zur narrenkleidung:
+  GRIMM, Deutsches Wörterbuch

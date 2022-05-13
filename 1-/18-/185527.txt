@@ -1,0 +1,9 @@
+Am Wed, 30. 03. 22 13:44:26 -0400 schrieb Hansjörg Perius:
+
+
+Ich habe auf den JM-Seiten keine Scripte erlaubt, aber bei der
+manuellen Auswahl werden nur Bücher aus der gewählten Zeitspanne angezeigt.
+Leider habe ich keine Ahnung, warum es bei mir funktioniert.
+
+Gruß
+Sebastian.

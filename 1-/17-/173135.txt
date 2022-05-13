@@ -1,0 +1,35 @@
+Richtig, man sollte bei der geometrischen Brownschen Bewegung vom 
+Quotienten von Volatilität und Mittelwert reden, um von der 
+systeminhärenten Volatilität zu reden, das tut aber niemand, den ich kenne.
+
+In Gleichgewichtsm�rkten sind bei maximal chaotischen positiven 
+Prozessen Mittelwert und Standardabweichung gleich (zB Exponential- und 
+Poissonverteilungen von Kontoständen, Reichtum, Millionären und 
+Einkommen). Der Mechanismus dieser Gleichgewichtseinstellung ist im 
+wesentlichen der 2. Hauptsatz der Thermodynamik, auf Spiele angewendet, 
+der Zustand stellt sich durch Gewinnmitnahmen so ein, bis er es nicht 
+mehr gestattet, das Kasino oder den Markt zu schlagen.
+
+
+Vorsicht mit dieser Art von Kurven. In realistischen Samples von vielen 
+gleichartig verteilten Kurven lassen sich an einzelnen Kurven diese 
+Größen nie trennen oder erkennen.
+
+
+Die Reaktion der Marktteilnehmer bestimmt offenbar die Prozessdaten und 
+sonst nichts. Für die Psychologie der Anleger existieren aber keinerlei 
+mathematische Modelle, wie uns die Unfähigkeit zur Wahl- und 
+Kursprognose ständig vor Augen führt.
+
+Das Hauptproblem für den Modellstatistiker besteht tatsächlich darin, 
+dass kurzfristig bei Zeitprozessen die Standardabweichung mit sqrt(Zeit) 
+skaliert und den langfristigen Trend der Drift, linear in der Zeit, in 
+den Einzelkurven völlig überdeckt.
+
+Bei 2% /jahr Drift und 30% Standardabweichung/sqrt(jahr) hat man eben im 
+Modell der Brownschen Bewegung auf die Woche umgerechnet 2/50%=0.04% 
+/woche  Drift und 30/7%= 7% /sqrt(woche) Standardabweichung.
+
+-- 
+
+Valentino Jonassohn

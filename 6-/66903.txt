@@ -1,0 +1,42 @@
+["Followup-To:" nach de.sci.mathematik gesetzt.]
+
+Das berechnet ja auch was anderes, nämlich
+
+(2*2+2)/2-2
+
+Ein ordentlicher Compiler würde obigen Ausdruck zu folgendem Syntaxbaum
+verwursten (dazu ist er da):
+
+        sub
+        / \
+       /   \
+      add   2
+      / \
+     /   \
+    mul  div
+    / \  / \
+    2 2  2  2
+
+Man kann annehmen, dass die x86-Assembler-Entsprechung dieses Baumes
+wohl die folgende wäre:
+
+mov eax, 2
+mov ebx, 2
+imul eax, ebx ;Ergebnis in eax
+mov eax, ebx
+mov ax, 2
+mov bl, 2
+idiv bl ; Ergebnis in al
+and eax, FFh ;Ergebnis vergrößern auf eax
+add eax, ebx
+sub eax, 2
+
+
+Per Followup-To bereinigt.
+
+Tschö,
+Pascal
+-- 
+GUI - ein Hintergrundbild und zwölf XTerms
+
+vim -c "exec \"norm iwHFG#NABGURE#IVZ#UNPXRE\"|%s/#/ /g|norm g??g~~"

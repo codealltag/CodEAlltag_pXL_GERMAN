@@ -1,0 +1,37 @@
+Und was sind das für Gegenstände? Sind es Äpfel, Bonbons oder 
+Kuchenstücke, die man verteilt, dann ist es fast ganz genauso wie früher, 
+als es für Grundschüler keine Mengen mit Elementen gab. Geht es aber um 
+Mengen, dann sollten es schon *verschiedene* Gegenstände sein, weil sonst 
+die Schnittmengen nicht leer sind. Korrekt wäre es, zwischen einem Apfel 
+und einem *Exemplar* (Vorkommen, engl. instance, occurrence) eines Apfels 
+zu unterscheiden: man hat dann nach dem Aufteilen mehrere Mengen, die alle 
+Äpfel enthalten und insoweit gleich sind, sich aber darin unterscheiden, 
+dass sie verschiedene Exemplare von Äpfeln enthalten.
+
+Das ist für Grundschüler völlig unanschaulicher und unverdaulicher Mist. 
+Deswegen: Wird geteilt, dann Dinge, die es mehrfach gleich geben kann wie 
+Äpfel, Bonbons oder Kuchenstücke, schon wegen der Gerechtigkeit bei der 
+Aufteilung, an die appelliert wird, und da lässt man den Begriff Menge 
+außen vor, weil eine Menge nicht dasselbe Element mehr als einmal 
+enthalten kann. Werden aber Mengen betrachtet, dann Dinge, die es jeweils 
+nur einmal gibt wie Zahlen, Punkte oder auch konkrete Menschen. Also: die 
+Schüler einer Klasse in drei Mannschaften zu teilen, ist problemlos, weil 
+man von jeden sagen kann, in welcher oder in welchen Mannschaften er 
+gelandet ist, aber einen Korb Äpfel so aufzuteilen erfordert Abstraktion, 
+weil die Äpfel "gleich" sind, ohne im mathematischen Sinne gleich zu sein: 
+zwei gleiche Äpfel können nicht in zwei disjunkten Mengen liegen.
+
+Die Mengenlehre ist prima und, wenn es sein muss und man sie vermitteln 
+kann, auch grundschulgeeignet. Sie aber für etwas zu verwenden, für das 
+sie nicht taugt, insbesondere das Rechnen mit natürlichen Zahlen, ist ein 
+didaktisches Verbrechen.
+
+Natürlich kann man mit Mächtigkeiten Zahlenrechnen, indem man cartesische 
+Produkte bildet: Hat A die Mächtigkeit a und B die Mächtigkeit b, dann hat 
+A{0}uB{1} die Mächtigkeit a+b und AB die Mächtigkeit ab. Aber das ist 
+viel zu aufwendig, und wer den Aufwand sparen will, der versiebt genau die 
+begriffliche Klarheit, um derentwillen man die Mengenlehre ja einführen 
+wollte.
+
+-- 
+Leon Cores

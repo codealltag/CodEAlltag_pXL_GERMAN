@@ -1,0 +1,8 @@
+Bitte den komplette Absatz noch mal durchlesen!  Was nützt ein
+korrekt dekodiertes "zeq", wenn man nicht weiß, was es bedeutet?
+Und ob Dein 8085 mit unsauberen TTL-Signalen klargekommen wäre?
+Y30 benutzte fast immer Frequenzen, die tageszeitlich extrem
+ungünstig waren -- mehr als qsa 1-2 war da seltenst drin.
+
+
+elias

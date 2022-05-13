@@ -1,0 +1,11 @@
+Werden wohl 10 gewesen sein, 12 wäre doch zu heftig. (Das 
+Tsunami-Weihnachtsbeben war 9,5) Ich erkläre mir das Ganze so, dass 
+zunächst der praktisch nicht übersteigbare Wert von 10 vereinfachend als 
+Obergrenze der Skala angegeben wurde (so dass sich der Hörer/Leser unter 
+einer Zahlenangabe was vorstellen konnte), und später diese Angabe durch 
+das korrekte, aber praktisch funktionslose "nach oben offen" ersetzt wurde.
+
+An sich ist natürlich die Angabe der Skalengröße sinnvoll; allerdings 
+ist die Skala logarithmisch, und da ist man sowieso desorientiert.
+
+Josef

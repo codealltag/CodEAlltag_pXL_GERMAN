@@ -1,0 +1,10 @@
+Soviele Worte...  Junkersmitteldeich-Variante (kompletter Alltagsdialog):
+
+   < "Gutt!  Unn selwer?"
+   < "Ei, dann..."
+   < "Allemol!"
+
+Prompt "alles geschwätzt"!  :-)
+
+
+willibald

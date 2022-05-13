@@ -1,0 +1,10 @@
+Ich war mir bei "Karibu" und "Wapiti" nicht sicher. Den Wörterbüchern
+zufolge ist es "der Wapiti" und "der oder das Karibu".
+
+Beide sind denkbar ungeeignet zum Anhängen eines "-in".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Ugos will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Peter Jancke

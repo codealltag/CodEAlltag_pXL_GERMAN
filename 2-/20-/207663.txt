@@ -1,0 +1,19 @@
+"Sollte" *so* aussehen:
+
+Mit Deinem Zeilenumbruch hast Du noch immer große Schwierigkeiten?
+Dabei ist es bei Thunderbird ziemlich einfach:
+Unter Extras, Einstellungen, Erweitert, Allgemein, "Konfiguration
+bearbeiten" - ist eigentlich/Standard/default ;-) auf 72 eingestellt.
+DAS kannst Du überprüfen, in dem Du oben in das Feld eingibst:
+mailnews.wraplength
+
+Versuch es doch noch einmal, Dein abgehacktes Schreiben und die
+Trennungen tun dem Auge weh und hemmen den Lesefluss - so man Dich denn
+lesen will ;-)
+
+Zu Deinem o.a. Text selbst möchte ich mich lieber nicht äußern, denn Du
+meinst Dich selbst und allein dass, was Du "dialektischen Prozess"
+nennst, wird heute als "Logik" bezeichnet und damit hast Du es nicht so. ;-)
+
+
+Nadia

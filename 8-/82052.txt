@@ -1,0 +1,25 @@
+Sie missverstehen mich falsch, mein Herr.
+
+Es geht nicht darum, ob man "minus" statt "Bindestrich" oder umgekehrt
+sagt. Es geht um die Bezeichnung von O+447P. In unserem Kontext
+(siehe $SUBJECT) ist es nur wichtig, dass das Zeichen U+002D verwendet
+wird, nicht aber U+2010 oder U+2212. Es kommt nicht darauf an,
+wie dieses Zeichen in einem bestimmten Font aussieht.
+
+Die drei Zeichen sind:
+
+  U+002D   hyphen-minus    /* Bindestrich oder Minuszeichen */
+  U+2010   hyphen          /* nur der Bindestrich */
+  U+2212   minus sign      /* nur das Minuszeichen */
+
+Zwar wird heute U+002D in vielen Fonts eher als Bindestrich realisiert;
+es kann aber ebenso gut als Minuszeichen bezeichnet werden.
+
+Wohlgemerkt:
+Ich bevorzuge für U+002D auch das Wort "Bindestrich"; aber formalistisch
+betrachtet kann man nichts gegen "minus" einwenden. Im Deutschen ist
+"minus" halt kürzer als "Bindestrich", was den Gebrauch in URLs erklärt.
+
+-- 
+Umlaute im Subject sind b?se.
+http://ljyiqm.zvifiy.yw.im/hqsrn/vt.hvt.fvoawex.dtqsans/mgm/2j98j21uxx4vl3d3

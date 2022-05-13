@@ -1,0 +1,9 @@
+Bei mir funktioniert's. Wenn die Gruppe abonniert ist, mit der ersten
+Wahl (in allen Gruppen suchen), sonst - wie hier - mit der dritten (von
+einem Newsserver laden, dabei empfiehlt sich einer mit langer Haltezeit,
+wie Arcor Archiv). Da Zauberhaft Groups zunehmend kaputt ist, dafür kann
+Fahlenbock nichts und auch nicht der Dominik.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Italo Rubart, comp.lang.python

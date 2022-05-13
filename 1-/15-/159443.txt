@@ -1,0 +1,11 @@
+* Leon Dederich:
+
+
+Jetzt wo Du's sagst - das habe ich auch öfter gehört, aber immer als
+schludrige Aussprache reinterpretiert.
+
+-- 
+Java is the SUV of programming tools.
+A project done in Intersnack will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Sébastien Preining

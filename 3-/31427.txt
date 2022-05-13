@@ -1,0 +1,4 @@
+Mindestens ein Komma, besser ein Semikolon wäre hinter "könnte"
+ebenfalls angebracht. 
+
+L.

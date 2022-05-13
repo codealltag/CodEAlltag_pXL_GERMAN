@@ -1,0 +1,6 @@
+Der industrielle Massstab ist regelmässig das Gegenteil des
+Labormassstabs. Dabei sind nicht nur meistens die Grössenordnungen
+anders, sondern es fallen auch andere, evtl. neue, Probleme an.
+
+Z. B. muss bei Schüttgütern ein Schutz vor Stäuben berücksichtigt
+werden oder der Zu- und Abtransport grosser Mengen mit der Bahn etc.

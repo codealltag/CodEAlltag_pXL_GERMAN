@@ -1,0 +1,16 @@
+Und man muss ausführlich dokumentieren / kommentieren.
+Da ist es eben einfach manchmal besser und vor allem billiger, 
+gleich eine "selbsterklärende" Formulierung zu wählen, als
+mit Eleganz zu glänzen.
+Jedenfalls in der kommerziellen Programmierung.
+(Mal abgesehen davon, dass der Compiler eine "transparente"
+Formulierung möglicherweise besser optimieren kann als eine
+komplexe.)
+
+Und im privaten Bereich ist es ebenso - wie oft habe ich mich
+schon gefragt, was ich mir bei einem bestimmten Statement wohl
+gedacht habe. So nach 10 Jahren hat man die Tricks eben
+vergessen, und übrig bleibt ein Programm, das man nicht mehr
+verändern kann, sondern dann sicherheitshalber neu schreibt.
+
+/Maik

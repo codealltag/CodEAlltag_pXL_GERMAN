@@ -1,0 +1,14 @@
+Es war an Brüche gedacht, deren Zähler ganzzahlig ist -- wie man das 
+meistens meint, wenn von Brüchen die Rede ist. Und da ist 1 kein möglicher 
+Nenner für einem Bruch wie 5/6, sondern nur die Vielfachen von 6. Und wenn 
+man zwei Brüche addieren will, braucht man einen gemeinsamen Nenner, d.h. 
+ein gemeinsames Vielfaches der Nenner der beiden Brüche. Und meist nimmt 
+man den kleinsten.
+
+Ich sehe überhaupt nichts Problematisches am Ausdruck "kleinster 
+gemeinsamer Nenner" vom Standpunkt der Mathematik aus. Nur hat das wenig 
+mit der Metapher zu tun, die etwa besagt "erbärmlicher Kompromiss 
+zwischen unvereinbaren Ansichten, aber beser als gar keiner".
+
+-- 
+Niels Ekman

@@ -1,0 +1,45 @@
+... aber nur in dem Satzteil, wo das "es" steht; im anderen steht immer 
+die 3. Person, die aber in Singular oder Plural:
+
+  Du bist (2sg) es, der krank ist (3sg)
+  Ihr seid (2pl) es, die krank sind (3pl)
+
+Im Französischen ist es fast umgekehrt, bis auf die Numerus-Anpassung:
+
+  C'est (3sg) toi qui es (2sg) malade.
+  C'est (3sg) vous qui tes (2pl) malades.
+
+Mit Numerus-Anpassung, also genau umgekehrt wie im Deutschen, kommts
+anscheinend auch ab und zu vor:
+
+  Ce sont (3pl) vous qui tes (2pl) malades.
+
+Im ganz formalen Englisch ist es eigentlich wie im Französischen:
+
+  It is (3sg) I who am (1sg) ...
+  It is (3sg) you who are (2sg) ...
+  It is (3sg) he who is (3sg) ...
+  It is (3sg) we who are (1pl) ...
+  It is (3sg) you who are (2pl) ...
+  It is (3sg) they who are (3pl) ...
+
+aber die in der Umgangssprache einzig normale Ersetzung durch den Akkusativ
+bringt die dritte Person desselben Numerus mit sich:
+
+  It is (3sg) me who is (3sg) ...
+  It is (3sg) you who is (3sg) ...
+  It is (3sg) him who is (3sg) ...
+  It is (3sg) us who are (3pl) ...
+  It is (3sg) you who are (3pl) ...
+  It is (3sg) them who are (3pl) ...
+
+
+Ich denke, es stehen keine "Auffassungen" dahinter, sondern einfach
+grammatikalische Eigentümlichkeiten. Im Deutschen haben Pronomina die
+Eigenschaft, im Satz nach vorne zu wandern, Substantive nach hinten. Das gilt
+auch bei solchen Sätzen: "ich bin es" mit dem Subjekt vorn, aber "es ist mein
+Bruder" mit dem Subjekt hinten, "ich bin das / das bin ich" mit beiden
+Möglichkeiten.
+
+-- 
+Patrice Jörss

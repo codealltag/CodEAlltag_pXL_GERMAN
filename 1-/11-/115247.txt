@@ -1,0 +1,14 @@
+Nicht alles ist eine Maßeinheit, wo eine Zahl davorstehen kann. Die 
+Abgrenzung ist aber nicht einfach. Ich versuchs mal: etwas ist eine 
+Maßeinheit, wenn
+
+ - *anderes* damit gemessen wird ("5 Meter Stoff, 5 Liter Milch, 5 Mass 
+   Bier") oder
+
+ - es als Ergebnis einer Messung auftritt ("die Länge/Dauer/Energie 
+   beträgt 5 Meter/Jahre/Joule", "der Preis beträgt 5 Mark/Euro/Pfund")
+
+Damit würde ich Bytes und Jahre gelten lassen, die anderen kaum.
+
+-- 
+Siegfried Ansell

@@ -1,0 +1,50 @@
+da zur zeit mal wieder vieles ware-mäßig im umbruch begriffen ist, hier 
+ein erfahrungsbericht der letzten 48 stunden.
+
+nach hinge-kleben und schalenreparatur notebook mit 500er platte und 4GB 
+aufgerüstet und alte platte in ein externes usb-gehäuse für 12ö gesteckt.
+
+windows 7 64bit aufgespielt, erstmalig kann man bei der firma von 
+problemloser installation ohne die treiber-cd der Hersteller reden.
+
+der zugriff über windows explorer auf das persönliche Oldiges-profil 
+für mail und news auf der usb platte im verzeichnis
+
+F:\Benutzer\mich
+
+muß als administrator erzwungen werden.
+
+die beseitigung der sicherheitskennungen auf der externen platte dauert 
+ca 1-2h.
+
+wie sich später herausstellt, ist de.sprache.deutsch mit 80000 dateien 
+und der verschlagwortung für die windows-suche in der datenbank schuld 
+an der misere. die aufnahme in die indizierung für die 
+windows-suchfunktionen kann man im Oldiges-men extras/einstellungen 
+abstellen.
+
+also im nächsten versuch vor ausbau der platte alle newsgruppen 
+abbestellen und den profil-ordner auf der externen usb-platte
+
+F:\Benutzer\<mich>\AppData\Roaming\Thunderbird\Profiles\<xxxxxx>.default\News
+
+physikalisch komplett löschen.
+
+
+dann kopiert man den Oldiges-ordner komplett von der usb-platte in
+
+F:\Benutzer\<mich>\AppData\Roaming
+
+und gibt bei der neueinrichtung von Oldiges den ordner in den 
+einstellungen an, wenn er nicht automatisch eingebunden wird.
+
+gute gelegenheit, auf der webseite des mailproviders die neuen 
+serverzugangsdaten zu checken, sie stellen im moment wohl auf neue 
+mailserver mit sicherer authentifizierung um.
+
+gute ratschläge sind wie immer kostenlos, umsonst und ohne jegliche 
+garantie.
+
+-- 
+
+Ernest Hilwig

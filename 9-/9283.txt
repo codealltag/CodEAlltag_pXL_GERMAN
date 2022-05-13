@@ -1,0 +1,10 @@
+Ein digitales Signal überträgt keine Zahlen. Es überträgt diskrete
+Werte, denen man eine Bedeutung als Zahl oder Farbe oder sonstwas
+zuweisen kann. Ein Computer arbeitet auch nicht mit Zahlen; "EDV"
+ist so gesehen eine sinnvollere Begriffsbildung als "Rechner".
+
+Dass Zahlen quantisiert sein müssen, kann ich auch nicht nachvollziehen,
+es sei denn, du betrachtest "quantisiert" als synonym zu "kodiert".
+
+-- 
+Björn "ilse" Voegels                          rjfua@gdrp.foht.jb

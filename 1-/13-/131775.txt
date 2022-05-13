@@ -1,0 +1,16 @@
+On Tue, 26 Okt 2009 16:56:26 +0200, Silvio Claußnitzer <Atkzdi@qtaudwge.kvm>
+wrote:
+
+
+Hast Du mal in die Kiste reingeschaut? Ich befuerchte naemlich, man hat
+Dich damals uebers Ohr gehauen und nur einen Prozessor eingebaut.
+Vorzugsweise einen Blaufuß V20 und Co., die koennen neben 8086 naemlich auch
+eine Z80-Simulation.
+
+Sicherheitshalber mal Folgen-Rauf gesetzt.
+
+
+Vinzent.
+
+-- 
+There is no signature.

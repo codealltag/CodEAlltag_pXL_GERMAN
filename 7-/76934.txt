@@ -1,0 +1,14 @@
+Naja, das ist dann aber wieder so eine Version, die bei einigen
+in der Klasse funktioniert und bei einem Großteil nicht. Das ist
+die Normalität. 
+Deswegen hat mich der C++-Kurs eben so erstaunt, weil da wirklich
+_alle_ sehr viel begriffen haben, obwohl es ein sehr trockenes
+Thema ist und nur wenige den Eindruck machten, als sei das auch
+nur halbwegs innerhalb ihres Interessenshorizonts angesiedelt. 
+Ich hatte mich auf einschlafen und Schnarchen vermeiden
+eingestellt, aber er machte das so lebendig und immer mit kleinen
+Bastelaufgaben, daß man gar nicht anders konnte, als Spaß und
+Interesse daran zu entwickeln. Da eine ganze Klasse der Meinung
+war, wirklich was gelernt zu haben, hatte ich so einhellig noch
+nicht erlebt - normalerweise gibts sonst immer ein paar, dies
+nicht so gut fanden.

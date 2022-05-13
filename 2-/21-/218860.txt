@@ -1,0 +1,19 @@
+* Fritz A. Csaba:
+
+                   ^^^^^^^^^^^^^^^^^^^^^^^ 
+Vorsicht!
+
+
+In der Schweiz ist das mehr als eine Marotte. Ich würde daher
+sagen, es gibt im deutschen Sprachraum drei Konventionen,
+"66 oben - 99 oben" ist auch dann nicht dabei. 
+
+Daneben ist natürlich auch noch "11 oben - 11 oben" für
+Maschinenschrift, ASCII und ISO-8859 eingeführt, obwohl in
+letzterem auch »diese« zur Verfügung stehen.
+
+-- 
+The most likely way for the world to be destroyed, most experts
+agree, is by accident. That's where we come in; we're computer
+professionals. We cause accidents.
+  Ingo Altenidieker

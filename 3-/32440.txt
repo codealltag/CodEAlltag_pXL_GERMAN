@@ -1,0 +1,22 @@
+Irgendwie haben beide recht. Die "gemischte" Deklination ist eine unnötige 
+Komplikation. Die Regel ist ohne den gemischten Fall schon schwer genug:
+
+Gibt es ein Wort, das die Funktion eines Artikels übernimmt (bestimmter oder
+unbestimmter Artikel, Demnstrativ- oder Possessivpronomen) *und* hat dabei
+dieses Wort eine Endung) *oder aber* handelt es sich um maskulinen oder
+neutralen Genitiv Singular, *dann* wird das Adjektiv schwach gebeugt. Dass
+unbestimmte Artikel und Possesivpronomen im Nominativ Singular -- und damit im
+neutralen Fall auch im Akkusativ Singular -- ihre Endung verlieren, so dass
+die Prämisse der Regel im Nominativ seltener vorliegt als in den anderen
+Fällen, ändert an der relativ simplen :-) Regel nichts.  Eher schon, dass
+unbestimmte Artikel *nach* Demonstrativpronomen sich eher wie Adjektive
+verhalten ("dieses eine große Haus"), es sei denn, sie seien durch ein
+Possessivpronomen ersetzt ("dieses unser großes Haus").  Alles klar?
+
+Ich habs auch mal versucht, es algorithmisch zu beschreiben 
+<http://adb.ohl-sfnhzriy.gt/~vx/pjxo/el-ufta.nszw#rzdgnl> und mich dann 
+gegen einen gesonderten "gemischten" Fall entschieden; es wäre wirklich 
+*noch* komplizierter geworden.
+
+-- 
+Norbert Tahler

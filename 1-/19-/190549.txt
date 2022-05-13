@@ -1,0 +1,23 @@
+* Ulrich Maeusel:
+
+[...]
+
+Es ging mir um die Verwechslungsgefahr von /caff�latte/ und
+/latte�macchiato/.
+
+Nach meinem Verständnis gilt im Englischen: 
+
+  latte           = caff latte
+  latte macchiato = latte macchiato
+
+Im Deutschen soll aber gelten:
+  latte           = latte macchiato
+
+Also was ist dann mit:
+  ???             = caff latte
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

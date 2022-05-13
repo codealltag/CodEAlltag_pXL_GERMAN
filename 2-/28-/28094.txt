@@ -1,0 +1,121 @@
+Am Wed, 28. 04. 22 17:57:57 +0200 schrieb Heinz Obermann:
+
+
+Und solange man es nicht genauer weiß, sollte man sinnvollerweise von der
+konservativsten Theorie ausgehen, jener, die am wenigsten Voraussetzungen
+nötig hat.
+
+Now reaches it but.
+
+Diejenigen, die meinen Sermon über Promille und Trinkmengen schon x-mal
+gelesen haben, bitte ich um Entschuldigung, sie brauchen nicht weiter zu
+lesen, sie versäumen nichts, es kommt danach nichts mehr.
+
+Nach der sogenannten WIDMARK-Formel
+			      Alkoholmenge in Gramm
+  Alkoholgehalt in Promille = -----------------------------------------
+			      Körpergewicht in kg x 0,7
+errechnet sich für eine Person von durchschnittlichem Körpergewicht (75 kg)
+pro Standardglas (8 g reiner Alkohol) eine BAK von ca. 0,15 Promille.
+Wenn man die obige Faustformel auf größere Mengen Alkohol anwenden will,
+muß man natürlich berücksichtigen, daß der Alkoholabbau bereits beginnt,
+wenn der erste Tropfen Alkohol in der Leber ankommt. Noch während ich
+trinke, ist der Abbau in vollem Gange. Man rechnet in den frommen
+Alkoholbroschüren gemeinhin mit einem Abbaufaktor von 0,1 Promille pro
+Stunde. Dieser Wert erscheint allerdings für eine trainierte, aber noch
+nicht kaputt gemachte Leber als sehr niedrig.
+Wenn ein der Trunkenheitsfahrt Beschuldigter nicht auf frischer Tat ertappt
+und aus dem Auto gezerrt wird, sondern erst mit Verzögerung festgenommen
+werden kann, besteht meist der Verdacht auf Nachtrunk. In diesem Falle läßt
+die Polizei zwei Blutproben im Abstand von 20 bis 30 Minuten machen. Schaut
+man sich die Blutentnahmeprotokolle an, so ist der zweite Meßwert meistens
+um ca. 0,1 Promille niedriger als der erste. Auf die volle Stunde
+hochgerechnet läßt sich daraus leicht ein Alkoholabbau von 0,2 bis 0,3
+Promille errechnen. 
+Bleiben wir aber bei der vorsichtigen Rechnung und nehmen wir, um die Sache
+nicht noch komplizierter zu gestalten, als Faustformel 0,1 Promille für das
+Standardglas an, den Abbau schon eingerechnet. Dabei ist ein in
+Gesellschaft übliches Trinktempo vorausgesetzt.
+Das heißt, für 2,0 Promille braucht nach der WIDMARK-Formel ein normal
+gebauter Mann, der nicht gar zu hastig trinkt, immerhin 20 Gläser Bier à
+0,25 l, entsprechend 10 Halbe-Krüge Bier oder 8 Viertelgläser Wein (knapp
+drei Flaschen Wein á 0,7 l) oder 20 Schnäpse à 0,02 l (gut eine halbe
+Flasche Schnaps).
+Und selbst das ist letztlich pure Theorie. Was in der einfachen
+WIDMARK-Formel nämlich noch nicht vorkommt, ist das sogenannte
+Resorptionsdefizit. Darunter versteht man das Phänomen, daß ein gar nicht
+mal so kleiner Teil des getrunkenen Alkohols unverarbeitet durch den Körper
+wieder ausgeschieden wird, also nicht in den Blutkreislauf übergeht. Dieses
+Resorptionsdefizit ist individuell sehr verschieden, liegt zwischen 5
+Prozent und immerhin 45 Prozent. Ein Resorptionsdefizit von 45 Prozent
+heißt: knapp die Hälfte des überhaupt getrunkenen Alkohols rauscht
+unverarbeitet in die Blase und von dort ins Wirtshausurinal.
+So wie es beim Essen gute und schlechte Futterverwerter gibt, gibt es auch
+beim Trinken Menschen, die den genossenen Alkohol aufsaugen wie ein
+Schwamm, während andere einen erheblichen Teil durchlaufen lassen.
+Das heißt, die WIDMARK-Formel beschreibt die maximale Obergrenze für die
+BAK. Der wahre Wert liegt in der Regel erheblich niedriger, das heißt, um
+zwei Promille zu erreichen, sind eher deutlich mehr Gläser Alkohol nötig,
+als oben dargestellt.
+
+Im Rahmen ihrer Öffentlichkeitsarbeit veranstalten
+Atellier gerne sog. "Trinkversuche".
+Es werden Rechtsanwälte, Verwaltungsbeamte, Journalisten etc., kurz: Leute,
+die entweder berufsmäßig mit Alkohol am Steuer zu tun haben oder eine große
+Wirkung nach außen garantieren, eingeladen. Die Gäste bekommen alkoholische
+Getränke serviert. Der Unterschied zu einem normalen Gelage besteht
+lediglich darin, daß jemand (einer, der nüchtern bleiben muß) den Konsum
+der einzelnen Gäste festhält, sich auch Notizen über die Veränderung des
+Verhaltens der einzelnen Testteilnehmer macht. Zu Beginn, am Ende und in
+gewissen Zeitabständen dazwischen werden mit einem Alkotestgerät die
+Promille gemessen.
+Vor einigen Jahren konsumierte bei solch einem Trinkversuch ein 84 kg
+schwerer Mann im Verlaufe von vier Stunden 6 Glas Bier (á 0,5 l) und vier
+Gläser Schnaps (á 2 cl). Als Faustregel läßt sich sagen daß vier
+Standardgläser Schnaps dem Alkoholgehalt von einem Liter Bier entsprechen.
+Unser "Trinker für die Wissenschaft" hatte also im Verlaufe von vier
+Stunden den Alkoholgehalt von 8 Glas Bier - entsprechend vier Liter -
+konsumiert. Wie dies nach acht Bier nicht weiter verwunderlich sein dürfte,
+hatte er ganz erhebliche Probleme mit seiner Standfestigkeit, geschweige
+seinem Gehvermögen, die Aussprache war schwer beeinträchtigt, kurz: Der
+Mann war betrunken und alles in allem von jeder Fahrtüchtigkeit weit
+entfernt.
+Gemessen wurden bei diesem Mann 0,79 Promille.
+
+In Nachschulungskursen für alkoholauffällige Kraftfahrer bediene ich mich
+gerne dieser Geschichte. Erzähle ich sie in der ersten Sitzung, bei der man
+eben dabei ist, sich kennenzulernen und Vertrauen zueinander zu fassen,
+dann ist die Reaktion fast immer demonstratives Erstaunen und fassungslose
+Ungläubigkeit: "Das gibt es nicht, das glaub ich nicht. Ich habe doch
+damals - bei meiner eigenen Trunkenheitsfahrt - nur so wenig Bier und doch
+so viel Promille gehabt!"
+In der dritten, vierten Sitzung, wenn die Leute aufgetaut sind und
+aufgehört haben, sich vor mir als Kursmoderator zu fürchten, hört sich dann
+alles ganz anders an. Da erzählt dir dann einer, er habe sich damals bei
+der MPU gar nicht getraut, seine wahre Trinkmenge anzugeben. Von vier Bier
+habe er gesprochen und der Psychologe habe bloß müde gelächelt. Jetzt könne
+er es ja sagen, es seien acht Bier gewesen, mindestens. Gemessen habe man
+seinerzeit bei ihm 0,82 Promille. Und ein 90 kg schwerer Bauarbeiter
+erzählt, er habe sich mal in anderthalb Stunden „sechs Hoibe einegschteßn“
+(sechs halbe Liter Bier getrunken). Auf der Heimfahrt sei er in eine
+Alkoholkontrolle geraten. Er sei sich sicher gewesen, daß jetzt der
+Führerschein weg sei und habe den Polizisten seine sechs Bier vor der Fahrt
+gestanden. Gemessen habe man dann bei ihm lächerliche 0,3 Promille und
+jeder, einschließlich der Polizisten, habe gedacht, der Alkomat wäre hin.
+In einem anderen Kurs erzählt ein kleiner, drahtiger Mann von ganz bestimmt
+weniger als 70 kg, er habe bei seinem ersten Delikt 2,2 Promille gehabt. Er
+könne sich noch gut dran erinnern, daß er vor dem Fahren einen Kasten Bier
+und eine Flasche Jack Daniels (American Whiskey) getrunken habe.
+Gehen Sie davon aus, daß bei einem Mann von 80 kg ein Kasten Bier (20
+Flaschen á 0,5 Liter) nötig ist, um ihn auf zwei Promille zu bringen.
+Eher mehr als weniger.
+
+Ciao
+Heinz 
+-- 
+Guten Rat, Kritik betreffend
+Laß nicht zu, daß sie dich loben. / Wer dich lobt, darf dich auch tadeln. /
+Und du mußt dann sein Geseires / auch noch durch Verständnis adeln.
+KNUT HEINIGK
+<http://eqovtvqdbfrdovlxe.hkuhndng.cwp/> <www.tvpiafv-lxfh.ss/vrshtxtg>
+<www.cuq-ltnwg.kf> <www.iyyknernpbcvs.xt> <www.qmckkkx-dmmu.oz>

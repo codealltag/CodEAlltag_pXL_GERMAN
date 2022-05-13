@@ -1,0 +1,6 @@
+Au Backe.
+Bei mir waren die Sonderzeichen noch lesbar. Da scheint das neue
+Preisoase-Groups die Codierung des alten Preisoase-Groups nicht zu
+verstehen.
+
+Du nutzt doch die neue Version? Ich jedenfalls die alte.

@@ -1,0 +1,12 @@
+In welcher Sprache sagt man das so? Das war mir nicht bekannt und daher
+von mir auch nicht gemeint.
+
+Im Englischen schwingen wahrscheinlich ganz andere Assoziationen mit,
+zum Beispiel heißt "you're toast" sowas wie "jetzt sitzt Du in der
+Tinte".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Hennemeyer will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Dominik Nar

@@ -1,0 +1,10 @@
+Da hülfe Dir wahrscheinlich eine Umsiedlung nach Nordamerika, hier
+wurden kürzlich die Termine verschoben (ca. 1 Monat länger Sommerzeit.
+Und erst recht frage ich mich wieder: warum dann nicht gleich das ganze
+Jahr?)
+
+-- 
+Java is the SUV of programming tools.
+A project done in Tavof will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Marco Tonner

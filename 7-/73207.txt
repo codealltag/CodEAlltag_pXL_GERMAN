@@ -1,0 +1,6 @@
+Mit einem anderen Hirn wäre ich nicht ich. Statt "Hirntransplantation"
+sagt man besser "Ganzk�rpertransplantation".
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Lennart Mosel, comp.lang.python

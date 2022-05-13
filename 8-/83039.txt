@@ -1,0 +1,30 @@
+Das geht schon: im Konfigurationsdialog (Einstellungen->KNode
+einrichten) unter "Artikelversand" den Reiter "Einstellungen"
+wählen; dort kann man dann Zeichensatz und Kodierung für
+ausgehende Artikel wählen, und auch, ob beim Antworten der
+hier eingestellte Zeichensatz, oder der des Originalpostings
+verwendet werden soll [1].
+
+Für eingehende Artikel ist für den Zeichensatz normalerweise
+"Automatisch" eingestellt.  Das läßt sich ändern, indem man
+in der "Vorspannanzeige" (dem Fenster, in dem Artikelinhalte
+angezeigt werden) per Rechtsklick den gewünschten Zeichensatz
+über den entsprechenden Menüpunkt auswählt.
+
+
+Geht auch: Rechtsklick auf die gewünschte Gruppe in der
+Gruppenansicht, und den Menüpunkt "Gruppen-Einstellungen"
+wählen.  Dort läßt sich dann im Reiter "Allgemein" ein eigener
+Zeichensatz für die gewählte Gruppe angeben.
+
+
+Wenn's grafisch sein soll, ja.  Textbasiert ist tin sicher das
+Maß aller Reader.  :-)
+
+[1] Nur, damit das nicht wieder mistverstanden wird: "reparieren"
+    lassen sich damit Schrottpostings ohne Zeichensatzangabe
+    natürlich nicht, und Linux kennt auch bei Weitem nicht alle
+    CWAG-Zeichensätze, die möglicherweise vom OP benutzt wurden.
+
+
+onno

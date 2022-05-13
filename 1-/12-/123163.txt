@@ -1,0 +1,14 @@
+Weil "Boolean" ja *noch* 'n Tick a) richtiger b) aufgebrezelter ist
+
+
+Nein. *Ob* Strom fließt (oder nicht) zeigt dir jede Glühbirne oder
+sonst ein Gerät _an_.
+Die Strom*stärke* kann man messen: mit einem Ampöremeter.
+
+
+Mir fällt keiner ein.
+
+
+Wie Noah schon schreibt: Gemessen wird, wie hoch die Latte liegt.
+Danach geht's dann auf gut Boolesch weiter: Latte gerissen -
+true/false.

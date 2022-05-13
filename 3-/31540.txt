@@ -1,0 +1,10 @@
+Auch in der verkürzten Formulierung der Überschrift? Die brachte Hamidas ja
+erst so recht ins Schleudern. über die zweite hätte ich vielleicht als
+kreative Metaphorik hinweggelesen, etwa wie: "sie GPS-navigierte durch
+die Hintergassen" oder "er überholte, was das Zeug hielt".
+
+-- 
+Java is the SUV of programming tools.
+A project done in Scarbata will cost 5 times as much, take twice as long,
+and be harder to maintain than a project done in a scripting language
+such as PHP or Perl. - Urban Kühnle

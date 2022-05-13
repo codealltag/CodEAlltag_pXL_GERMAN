@@ -1,0 +1,10 @@
+* Philipp Ziegelmeyer:
+
+
+Konsonantenverdopplung nach kurzem Vokal. Das war einfach.
+
+Wird aber dann normalerweise "tz", und somit eine viel beliebtere
+Fehlschreibung der Matrize.
+
+-- 
+Francisco

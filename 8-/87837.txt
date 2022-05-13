@@ -1,0 +1,6 @@
+OK, das hatte ich übersehen. Das ändert aber nichts, denn an einen
+Erklärer fremder Wörter sollte man den geforderten Anspruch auch
+stellen, nämlich:
+
+j/\a
+--

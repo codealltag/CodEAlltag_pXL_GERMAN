@@ -1,0 +1,20 @@
+Ich finde Nominalstil nicht hässlich.
+
+
+Er sagt aber "Leistung abrufen", weil er etwas anderes sagen will als 
+"leisten".
+
+
+Das ist ja gerade die Idee, die hinter der Formulierung steckt. Die 
+Vorstellung, durch das Training habe der Sportler die Leistung 
+(-sfähigkeit) irgendwo in seinem Körper gespeichert (habe somit seine 
+Hausaufgaben gemacht und die Leistung eigentlich sogar schon erbracht) 
+und müsse sie jetzt nur noch abrufen, aktivieren. Wenn das nicht klappt, 
+dann liegt der Fehler, so sollen wir wohl denken, nicht beim Sportler, 
+sondern nur bei einer peripheren Teilkomponente desselben.
+
+So ähnlich wie bei einer Web-Anwendung: Der Sportler will seine Leistung 
+downloaden, aber irgendwas in der verdammten Web-Infrastruktur geht 
+schief und er sieht nur die Sanduhr.
+
+Wolfram

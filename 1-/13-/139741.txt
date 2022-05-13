@@ -1,0 +1,23 @@
+Das "a" ist im ersten Fall kurz, im zweiten lang; es ist also
+kein Minimalpaar.
+
+Das "o" ist im ersten Fall kurz und offen (IPA: /ɔ/ ), im zweiten lang 
+und geschlossen (IPA: /o:/ ). Es sind also ganz unterschiedliche
+Phoneme => kein Minimalpaar.
+
+Viktoria gesprochen Vanessa, auch kein Minimalpaar.
+
+
+Alle drei Beispiele sind zudem konstruiert und würden niemals verwendet
+werden. Ich kenne nur ein Wort im Deutschen, bei dem auf [aou] ein
+regelgerechtes [ç] folgt: "Frauchen", Diminutiv von Frau. Wird
+verwendet als Analogon zu "Herrchen" und meint die Besitzerin eines
+Haustieres, meist eines Hundes oder einer Katze.
+
+"Frauchen", mit [ç], hört man oft, es wird tatsächlich verwendet.
+Leider gibt es das Wort "Frauchen" mit [x] nicht, aber es gibt
+Fauchen ( engl: to growl in a guttural fashion). Fast schon ein
+Minimalpaar.
+
+Gruss
+Oswald

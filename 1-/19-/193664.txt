@@ -1,0 +1,17 @@
+Kommt aufs Publikum an. Wenn die in der Schule Mathematik gehabt haben, 
+unterliegen sie meist trotzdem den folgenden populären Irrtümern:
+
+ - Mathematik hat immer was mit Zahlen zu tun.
+
+ - Mathematik untersucht vorgegebene Strukturen (z.B. reelle Zahlen und
+   Funktionen darin oder den Euklidischen Raum), so wie Biologen vorgegebene
+   Tiere und Pflanzen untersuchen und sich nicht neue ausdenken.
+
+ - Es kommt auf die Ergebnisse an (die dann im Bronstein stehen); Beweise sind
+   zusätzliche Verzierungen für Mathe-Esoteriker. 
+
+Das sollte man ein wenig zurechtrücken. Dem Irrtum, Mathematik wäre für nichts
+gut, begegnet man seltener.
+
+-- 
+Philippe Bardowieck

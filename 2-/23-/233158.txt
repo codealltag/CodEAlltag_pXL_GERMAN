@@ -1,0 +1,4 @@
+Früher sagte man mal "E pluribus Unix". Lange her - heute müsste man den
+Spruch wohl umdrehen.
+
+/Remmer

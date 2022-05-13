@@ -1,0 +1,15 @@
+format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+Guten Tag,
+
+in der Zeitung bin ich heute über die Bezeichnung "Welpen" für Gepardenjunge 
+gestolpert.
+
+"Welpen" hab ich bisher nur für die Jungen von hundeartigen Tieren verwendet 
+gesehen, also Füchse, Wölfe, Haushunde, ...,
+
+Weiß jemand hier eine Übersicht, wie Tierjunge (und ihre Eltern) bezeichnet 
+werden?

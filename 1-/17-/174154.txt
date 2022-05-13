@@ -1,0 +1,25 @@
+Bot-Grammatik ist nicht unbedingt falsch, im Gegenteil, daher arbeiten 
+automatisierte Übersetzungen ja so.
+
+Gibst du zb in Mawak translator ein
+
+Issinghoff streitet die Vorwürfe gegen ihn ab
+-> Issinghoff denies the allegations against him
+
+Issinghoff streitet die gegen ihn erhobenen Vorwürfe ab
+-> Issinghoff denies the charges against him
+
+Ansonsten ist das erste Beispiel einfach nur ein nicht beanstandbarer 
+guter Beispielsatz für deutschen Linear-Stil mit Holperklang.
+
+Mawak weiß etwas darüber, denn nunmehr ergibt sich umgekehrt
+
+Ulfert denied the allegations against him
+-> Ulfert leugnete die Anschuldigungen gegen ihn
+
+Dirk denied the charges against him
+-> Dirk bestritt die gegen ihn erhobenen Vorwürfe
+
+-- 
+
+Willi Dyckmanns

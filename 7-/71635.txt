@@ -1,0 +1,29 @@
+Das ist zwar interessant, aber auch trivial, denn genau um diese Erkenntnis
+geht's ja bei der Aufgabe :-) 
+
+Wenn ich den Umfang eines Kreises um 3,1415926535897932384626433... [1]
+Meter (Zoll, Lichtjahre) vergrößere, dann vergrößere ich seinen Durchmesser
+um 1 Meter (Zoll, Lichtjahr). Ganz egal, ob der Kreis vorher ein Ängström
+oder eine Million nautische Meilen als Umfang hat. 
+
+d1 = U / pi          # d1: Durchmesser des Ausgangskreises
+d2 = (U + x) / pi    # d2: Durchmesser des um x verlängerten Kreises
+
+d2-d1 = ((U + x) / pi) - (U / pi)
+      = ((U / pi) + (x / pi)) - (U / pi)
+      = (U / pi) + (x / pi) - (U / pi)
+      = x / pi
+
+Der ursprüngliche Umfang U fällt raus. Damit ist bewiesen, daß das für jeden
+beliebigen Kreis gilt. 
+
+
+vG
+
+[1] Genauer hab ich's noch nie gebraucht, also auch nicht gelernt. 
+
+-- 
+    "Man könnte ihn höchstens fragen, was das für eine blöde Idee war,
+           am Rand des Haifischbeckens Nasenbluten zu kriegen."
+      (Nino Lenhard über einen Anf�ngerthread in de.rec.musik.machen)
+-- <http://lohnvhdd.mdz> -- Ein Pinguin für jeden: <http://hxkdyu.uzn/> --

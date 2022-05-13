@@ -1,0 +1,18 @@
+Der Denkfehler liegt darin, dass Geschwindigkeit als Ableitung
+des Weges nach der Zeit mit Metern und Sekunden physikalisch
+nichts mehr zu tun hat. Das Mass der Geschwindigkeit ist immer
+m/s. Stattdessen könnte man auch die neue Einheit "Achilles"
+einführen (1 Achilles = 10 m/s). "Beilemann lief die 100 Meter mit
+1,1 Achilles".
+
+
+Es geht um Nanoröhren als Datenspeicher ("Bits auf der
+Ueberholspur".) Da sich kein Mensch Nanometer oder Nanosekunden
+vorstellen kann, ist die Masseinheit nm/ns unanschaulich. Erst
+wenn man sie durch n kürzt, kann man sich das Tempo vorstellen.
+Noch anschaulicher wäre "bit/s" gewesen. Das ist auch am
+interessantesten.
+
+Gruss
+
+Vittorio

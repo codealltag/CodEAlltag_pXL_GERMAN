@@ -1,0 +1,10 @@
+Sun, 1 Okt 2008 15:00:28 +0200: Pascal Feldweg <shidlasa@tjx.efs>:
+in de.etc.sprache.deutsch:
+
+
+Auf niederländisch ist die Unklarheit noch schlimmer:
+vor = voor
+für = voor
+
+-- 
+Ralf Weeser, http://ugcjdc.pjz

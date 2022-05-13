@@ -1,0 +1,15 @@
+Das Partizip II ist auch nicht auf Vorzeitigkeit festgelegt:
+
+  Gesungen klingt das Gedicht besser.
+
+Das klingt nicht besser, nachdem es fertig gesungen ist (analog zur
+"geschlossenen Tür"), sondern während es gesungen wird. Hier ist vom
+Partizip II einzig der passivische Aspekt wirksam.
+
+Partizip I ist also tendenziell gleichzeitig und aktiv, Partizip II ist
+tendenziell vorzeitig und passiv, in Zweifelsfällen gibt es aber
+unterschiedliche Lösungen.
+
+-- 
+gugelgesang,  m., m�nchsgesang, pejorativ
+  GRIMM, Deutsches Wörterbuch

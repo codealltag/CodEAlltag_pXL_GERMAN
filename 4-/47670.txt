@@ -1,0 +1,34 @@
+Klar. Und ab morgen sagen wir zum Koch Zubereiter. Geschlechtsgerecht
+werden dann aus bisherigen Köchinnen die Zubereiterinnen.
+
+@Martin:
+Drei Varianten sind möglich (Stil lasse ich außen vor):
+
+1) Wir sind ein Restaurant mit Sitz in Unterstillern am nördlichen Rand des 
+Ruhrgebiets und kochen seit vielen Jahren tolle Gerichte.
+"am nördlichen Rand des Ruhrgebiets" ist hier ein Lokalattribut (*) zu
+"Unterstillern", ein Lokalattribut, das in sich das Attribut "des
+Ruhrgebiets" enthält (Attribut zu "Rand"). So gesehen ist das ganze
+Ding *ein* Satzglied, innerhalb dessen keine Kommas stehen.
+
+2) Wir sind ein Restaurant mit Sitz in Unterstillern, am nördlichen Rand des
+Ruhrgebiets, und kochen seit vielen Jahren tolle Gerichte.
+Hier ist die Erweiterung als Beisatz aufgefaßt, der zwischen Kommas
+stehen muß.
+
+3) Wir sind ein Restaurant mit Sitz in Unterstillern, am nördlichen Rand des
+Ruhrgebiets und kochen seit vielen Jahren tolle Gerichte.
+Wenn man es als Aufzählung versteht, wäre es richtig, da nach dem
+letzten Glied einer Aufzählung kein Komma steht. Gegen diese
+Auffassung spricht allerdings implizit die amtliche Regel � 77, Abs.
+3: Bei mehrteiligen Orts-, Wohnungs-, Zeit- und Literaturangaben ohne
+(!) Präposition kann das schließende Komma weggelassen werden. Etwa:
+Ottmar Ander, Ettischleben, Lourdesstraße 94 (,) hat diese Annonce
+aufgegeben. Der Haken: "am nördlichen Rand" ist präpositional (am = an
+dem).
+
+Ich würde daher 1) oder 2) vorziehen. Diese beiden Versionen sind
+wasserdicht. Bei Variante 3) könnte es Diskussionen mit akademischen
+Gästen geben, je nach dem, wie die das interpretieren.
+
+(*) Hier durchaus doppelsinnig. :)

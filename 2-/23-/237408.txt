@@ -1,0 +1,11 @@
+Die Einzelheiten hab ich vergessen. Typischerweise fehlte bei NUA X das 
+tolle Feature von NUA Y.
+
+
+Ich nehm ihn ja auch. Ein paar Sachen hätte ich gerne: vor allem mark 
+subthread read, und start thread on subject change.
+
+
+Mal gucken.
+
+Lennart

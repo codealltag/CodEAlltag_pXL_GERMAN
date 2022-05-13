@@ -1,0 +1,20 @@
+Die Wirkungsgrade beider Antriebstechniken sind mir durchaus vertraut.
+Der Trugschluss liegt möglicherweise darin, dass du anzunehmen scheinst,
+er beschriebe im Falle des Verbrennungsmotors den Verlust zwischen
+Nennleistung und auf der Straße 'ankommender' Leistung. Die  von dir
+angegebenen Werte passen aber für den Ottomotor nur für den Wirkungsgrad
+der Verbrennung, der Verlust im Antriebsstrang selbst wird mit 'nur'
+etwa 15 - 17 % der Nennleistung beziffert. Anders gesagt, von den 200 PS
+kommen etwa 165 - 170 PS an der Straße an.
+
+Die angegebene Wirkungsgrade lassen dabei offensichtlich
+unberücksichtigt, dass auch einem Elektromotor nur etwa 35 - 40 % der
+eingesetzten Primärenergie für den Vortrieb verbleiben.
+
+
+Ciao
+Isa
+-- 
+ Bildung ist das, was die meisten empfangen,
+ viele weitergeben und die wenigsten haben.
+ [Albrecht Gruehn]

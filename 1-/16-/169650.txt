@@ -1,0 +1,13 @@
+* Charly Hübbertz':
+
+
+Er sollte am besten beides kennen, denn je nach Standort bestehen die
+Hersteller auf der einen oder anderen Schreibweise (im wesentlichen:
+Schottland & Kanada: Whisky, Irland & USA: Whiskey). 
+
+Den Whessky darf man vorläufig außer Acht lassen.
+
+-- 
+Bug:  An elusive creature living in a program that makes it incorrect.
+      The activity of "debugging," or removing bugs from a program, ends
+      when people get tired of doing it, not when the bugs are removed.

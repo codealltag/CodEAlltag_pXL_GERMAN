@@ -1,0 +1,14 @@
+Im hier gebrauchten übertragenden Sinn ist die _Geschwindigkeit_ einer 
+beliebigen Größe ihre erste Ableitung nach der Zeit, die 
+_Beschleunigung_ ihre zweite Ableitung nach der Zeit. Die 
+_Verlangsamung_ ist die *negative* zweite Ableitung, also einfach die 
+Beschleunigung mal minus eins.
+
+Die Größe, um die es hier nun geht, ist selbst eine Beschleunigung einer 
+anderen Größe. Und die Verlangsamung der Beschleunigung ist minus die 
+vierte Ableitung der anderen Größe, natürlich.
+
+Ich finde die Formulierung "Verlangsamung der Beschleunigung" 
+anschaulich und würde sie genau so verwenden.
+
+Udo

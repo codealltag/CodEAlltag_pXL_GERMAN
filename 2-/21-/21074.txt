@@ -1,0 +1,4 @@
+Man kann es freilich auch rekursiv einsetzen - dann genügt ein 
+fünfstrahliger Stern, dessen Sternfu�note besagt, daß es ein 
+siebenstrahliger ist. Wobei diese Sternfu�note natürlich auch 
+wieder mit einem nur fn<DISCONNECTED>

@@ -1,0 +1,11 @@
+Und KNode kann nicht für verschiedene Ordner jeweils andere Codierungen
+verwalten? Die dann naheliegende Frage, warum dann KNode, stelle ich
+jetzt bewusst nicht.
+
+
+Ciao
+Ella
+-- 
+ Der Sport ist dazu da, dass man gesünder stirbt,
+ und nicht dazu, dass man länger lebt.
+ [Karsten Landvogt]

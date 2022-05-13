@@ -1,0 +1,22 @@
+* Josef Arno:
+
+
+Das ist eine FAQ, ich fasse mal kurz zusammen.
+
+"Hochdeutsch" hat drei Bedeutungen:
+
+1.) Ober- und mitteldeutsche Dialekte, im Gegensatz zum
+Niederdeutsch. Im Alltag selten verwendete Bedeutung.
+2.) Deutsche Standardsprache, im Gegensatz zu Dialekt.
+3.) Eine gewählte Ausdrucksweise, im Gegensatz zur Umgangssprache.
+
+Ich vermute, der Bernhardiner beschwert sich darüber, daß die
+Nachrichtensprecher nicht Hochdeutsch(3) sprechen. Du weist darauf
+hin, daß es dennoch Hochdeutsch(2) sei, das wird ihn wohl nicht
+beruhigen.
+
+-- 
+Bug:
+An elusive creature living in a program that makes it incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

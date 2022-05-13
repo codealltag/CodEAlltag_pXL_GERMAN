@@ -1,0 +1,25 @@
+Das ist Neundörfer, nicht Duden, also unerheblich.
+
+Das Problem ist das der grammatischen Kongruenz von Subjekt und
+Prädikat. Die zugehörige Duden-Regel lautet:
+
+Bei mehrteiligem Subjekt mit unterschiedlicher grammatischer Person
+steht das Finitum im Plural; dabei geht 1. Person vor 2. Person, 2.
+Person vor 3. Person:
+
+1. P. + 3. P. / 2. P. --> 1. Person Plural
+ich (wir) + er (sie) / du (ihr) --> (= wir) haben uns darüber gefreut.
+
+2. P. + 3. P. --> 2. Person Plural
+du (ihr) + er (sie) --> (= ihr) habt euch darüber gefreut.
+
+Also:
+Wenn du und deine Freunde (= ihr) ihn so ermuntert ...
+
+Allerdings: Keine Regel ohne Ausnahme. 
+Steht im Subjekt eine 2. und 3. Person dann wird das Finitum *oft
+nicht* in die 2. Person, sondern in die 3. Person Plural gesetzt.
+
+Nach Duden ist daher beides richtig:
+Wenn du und deine Freunde (= ihr) ihn so ermuntert ...
+Wenn du und deine Freunde (= sie) ihn so ermuntern ...

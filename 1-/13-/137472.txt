@@ -1,0 +1,27 @@
+Bevor ich den Kontext gelesen hatte, dachte ich erst, damit sei ein
+Anagramm aus "Beispiel" und "Mischfrau" gemeint.  Und in der Tat:
+daraus entstehen unerwartete, exzellente Ergebnisse:
+
+   -- Schabe fiel im Sirup
+   -- Baches lief im Sirup
+   -- Basischer Leim Pfui!
+   --   Fischleim-Arie: Pubs!
+   -- Bach-Corinne Erika im Plus
+   --   Bachufer: Sie im Slip
+   --   Such Riefe im Slip ab
+   --   Bach: Efeu im Slip, Sir
+   --   Im Beischlaf: Sie pur
+   --   Im Beischlaf: Er Leo
+   -- Erbaulich fies: MIPS!
+   --   Maisbrei-Fluse-Chip!
+   --   Fließei-Rumba-Chip!
+   --   Milbe-Aufreiß-Chip!
+   --   Reib-am-Füßli-Chip!
+   -- US-Armee Ship FCB LII
+   --   MBAS-Reim spie: Hilf ab!
+   -- Abscheu im Frisoer!
+   -- Schmuser-Alibi: Fiep!
+   -- ...
+
+
+noah

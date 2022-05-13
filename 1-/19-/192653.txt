@@ -1,0 +1,13 @@
+Herbert Unterwurzacher:
+
+Letzteres ist übrigens meistens bei Quick&Dirty-Programmen zu finden. Ist=
+ halt etwas leichter zu schreiben als ein Interrupt. Würde aber ein Handy=
+ per Polling darauf warten, das der Benutzer endlich mal wieder eine Taste =
+drückt, wäre der Akku bald leer.=20
+
+Somit ist Polling beim Programmieren eher negativ belegt, und man hört =
+öfter in der Kaffeeküche Sachen wie: "Na, pollst Du immer noch, oder ha=
+st Du die Routine endlich umgeschrieben?"
+
+Viele Grüße
+Igor

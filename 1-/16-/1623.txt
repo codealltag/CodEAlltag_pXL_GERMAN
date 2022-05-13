@@ -1,0 +1,34 @@
+On 5 Jul., 19:10, Wolfram Tzschieter <n...@wrepifq.pep> wrote:
+=2E..
+
+Es handelt sich zunächst um ein Prädikatsnomen. Dies enthält einen
+doppelten Nominativ.
+Der Baum ist eine Eiche.
+Er ist eine Eiche .
+Sie ist eine Eiche.
+Es ist eine Eiche.
+
+Während die ersten beiden Personalpronomen - er, der Baum, sie, die
+Eiche - einen direkten Bezug beziehen, ist "es" das vorläufige
+Subjekt, das im weiteren Verlauf genauer benannt wird.wie etwa hier:
+Dies ist das Problem =3D Es ist dies das Problem.
+Hier ist das Pronomen es eine Art Pseudoaktant, ein formales Subjekt
+=2E
+In bestimmten Satzformen muss das Vorfeld immer von einem Satzglied
+besetzt sein. Wenn aus Gründen der Gewichtung kein richtiges Satzglied
+infrage kommt, springt das Pronomen es ein. Es ist dann eine Art
+Platzhalter im Vorfeld. Es verschwindet, sobald ein anderes Satzglied
+an seine Stelle tritt.
+z. B..
+Es traten zwei Personen ein.
+Zwei Personen traten ein.
+Dies Form tritt auch bei unpersönlichen Sätzen auf, also solchen,die
+gar kein Subjekt enthalten:
+Es wurde eifrig diskutiert.
+Eifrig wurde diskutiert.
+
+Der unterschiedliche Einsatz ist eine Stil- und Gewichtungsfrage.
+vgl. Efoga GK3265
+
+Gruß,
+Esther

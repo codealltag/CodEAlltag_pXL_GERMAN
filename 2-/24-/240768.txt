@@ -1,0 +1,23 @@
+* Otto Gruenewald:
+
+
+Und Du möchtest das so interpretieren?
+
+Kanzler Oberstehöhfelds Zigarre
+  (nom.)    (gen.)   
+Zigarre des Kanzlers Oberstehöhfeld
+                      (gen.)      (nom.)
+
+
+Das kommt mir reichlich kompliziert vor. Was begründet denn den
+Nominativ? Meine bevorzugte Beschreibung wäre momentan, wie das
+wohl auch Björn meint, daß "Kanzler Oberstehöhfeld" oder "der Kanzler
+Oberstehöhfeld" insgesamt im Genitiv steht, dieser Genitiv aber nicht an
+allen Wörtern markiert wird. Als nächstbeste Alternative würde ich
+vorschlagen, daß der Teil, der keine Markierung trägt, gar keinen
+Kasus hat, bevor ich ihm einen unmotivierten Nominativ zuordne.
+
+-- 
+Failover worked - the system failed, then it was over.
+  (freely translated from a remark by Alexander Grothaus
+   in ns.xgv.ssjpdqhs.recovery)

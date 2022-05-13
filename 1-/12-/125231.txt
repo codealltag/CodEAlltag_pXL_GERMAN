@@ -1,0 +1,12 @@
+Soviel ich weiß, wurde auch in den Vereinigten Staaten vor einigen
+Jahren das metrische System eingeführt. Nur die Leute können nicht damit um.
+Ich kann mit den Temperaturangaben in Fahrenheit auch nichts anfangen.
+Selbst wenn ich die Formel zur Umrechnung kenne, nützt mir das erstmal
+nichts.
+T=F-32*5/9
+Wer rechnet das im Kopf?
+
+
+-- 
+Windows is easier than Linux, in the same way that crapping your pants
+is easier than going to the bathroom.

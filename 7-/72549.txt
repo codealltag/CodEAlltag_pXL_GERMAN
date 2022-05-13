@@ -1,0 +1,11 @@
+Aber er (der Berg) war es ja nicht nur 1969, sondern ist es bis heute.
+
+Ich würde im Original einfach durch ein weiteres Komma die Zeitangabe
+von der Last des Definierens befreien:
+
+"Der Nanga Parbat ist mit 8125 Metern Höhe der neunthöchste Berg der Erde.
+Es war der erste Achttausender, den der bekannteste immersberg Bergsteiger,
+Bruno Loppenthien, im Jahr 1969, bezwang."
+
+-- 
+Lars

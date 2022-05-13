@@ -1,0 +1,30 @@
+Mir kam es nur auf die Reihenfolge der Satzglieder an. Dass eine
+Verbzweitstellung kein VSO ergeben kann, ist mir schon klar.
+
+
+   In dem Fall gehst du also nicht von einer festen Reihenfolge der
+Satzkonstituenten aus? Trotzdem, der Ansatz gefällt mir.
+Aus welcher Grammatik hast du diese Darstellung? Hast du eine
+Referenz?
+
+Wenn man den Gedanken weiterentwickelt, dann haben Nebensätze die Form:
+
+X1...Xn P V    mit X1 als nebensatzeinleitenden Relativpronomen oder
+                einer Konjunktion.
+
+Und Wünsche, Fragen und Befehle die Form:
+
+V X1 ... Xn P
+
+Das finite Verb tritt an drei deutlich verschiedenen Punkten auf.
+
+
+Wie du schon schreibst, die ebenso häufigen können nur im
+Textzusammenhang diese Stellung bekommen, niemals im alleinstehenden
+Satz. Und das ist schon ein qualitativer Unterschied.
+
+
+Ja, das hatten wir unlängst hier. Wie Mehmet schreibt: eine Ellipse.
+
+Gruss
+Angelo

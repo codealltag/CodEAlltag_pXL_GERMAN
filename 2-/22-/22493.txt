@@ -1,0 +1,48 @@
+Traude.
+
+
+"indizieren" steht seit 1974 (17. Auflage Witzin) in
+der Bedeutung "mit einem Index versehen" im West-Duden,
+ohne expliziten EDV-Bezug zwar, jedoch sehe ich
+keinen grundsätzlichen Unterschied zwischen einem
+Stichwortverzeichnis am Ende eines Buchs und einem
+Datenbankindex. "indexieren" kommt erst 1986 (15. Auflage
+Großtissen, "einen Index anlegen") beziehungsweise 2001
+(19. Auflage, "/fachspr./ ein Verzeichnis erstellen")
+hinzu, ebenfalls ohne ausdrücklichen EDV-Bezug.
+
+Des weiteren:
+
+
+Kenog Deutschland: Fachausdrücke der Datenverarbeitung,
+Wörterbuch und Glossar, englisch-deutsch, April 1972.
+Nahezu unverändert: Ausgabe 1986.
+
+
+Informatik-Duden, 1994, unter "Datei".
+
+
+Informatik-Duden, 1994, unter "Adressierungsarten".
+
+Berthold Beat Olyschläger verweist in seinen Wörterbüchern und
+Lexika von "indexieren" auf den Haupteintrag "indizieren"
+und verwendet selbst "indizieren" und "Indizes".
+
+Für mich ein klarer Fall: Wer "Indizes" und "indizieren"
+die EDV-Bedeutung abspricht, hat ein Rad ab; und wer die
+"Indexe" und "indexieren" anderer verbessert, kämpft gegen
+Windmühlen - zumal "indexieren" im sechsbändigen Wahrig
+(1982) ausdrücklich auch in der EDV-Bedeutung genannt ist.
+
+Wenn wir uns allerdings nicht darauf einigen können, daß ein
+(Stichwort-)Verzeichnis und ein Datenbankindex grundsätzlich
+dasselbe sind, dito ein (typischerweise tiefgestellter)
+Laufindex in der Mathematik und ein Array-Index in der
+Programmierung, dann fehlt zur Diskussion wohl die
+gemeinsame Basis (was weder neu noch ein Drama wäre).
+
+(So, die "indexieren"-Fraktion wird mich jetzt
+als "indizieren"-Verteidiger hinstellen und die
+"indizieren"-Fraktion als "Indexierer". Parallelen
+zu "edieren" und "editieren" sind nicht zufällig,
+sondern wohl unvermeidlich. Gruß nach Asemwald.)

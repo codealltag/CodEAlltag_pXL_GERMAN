@@ -1,0 +1,9 @@
+Es gibt sicher unzählige IT-Begriffe (viele davon TLAs), aber
+"string" ist ein ganz gewöhnliches englisches Wort und bedeutet
+"Zeichenkette" (s. "No strings attached.").  Daß es auch einen
+Datentyp bezeichnet, gibt ihm in diesem Kontext zwar eine
+spezifische Bedeutung, machte es aber nicht zu einem IT-Begriff.
+Dito "integer", "cardinal", "while", "for", etc.
+
+
+bruno

@@ -1,0 +1,48 @@
+* Ralph Amling:
+
+
+Der Unterschied ist nicht, was sich ändert, sondern vor allem wo.
+In "jegliches Menschen" sind die beiden Wörter in einer Phrase,
+die müssen sich also eh "absprechen". Beim Beispiel mit dem
+Genitivattribut geschieht die Kasuszuweisung aber auf einer
+anderen Ebene als das Hinzufügen des Attributs.
+
+Ich spreche vom Standpunkt der generativen Grammatik, aber nicht
+einer bestimmten; alle, die ich kenne, machen das so, Reinke wie
+Unifikationsgrammatiken, und in einer Dependenzgrammatik scheint
+es mir eher noch näherzuliegen.
+
+Ich halte das auch nicht für ein Artefakt der Theorie. Die Theorie
+ist, bzw. die Theorien sind in dem Punkt so erfolgreich, daß ich
+davon ausgehe, daß sie hier einen wirklichen Mechanismus abbilden. 
+
+
+Sorry, hier war es natürlich eine Präposition. Darauf kommt es
+aber nicht an, das Prinzip gilt für jedes Wort, das einer NP einen
+Kasus zuweist, Verb, Präposition oder Adjektiv.
+
+
+Möglich, obwohl ich bisher nicht auf die Idee gekommen bin, daß
+Formen wie "jeglichen Mannes" Wiederholungen vermeiden. Die
+Wiederholung gleichlautender Flexionsendung ist ja ein sehr
+verbreitetes Phänomen und dient der Markierung der
+Zusammengehörigkeit. Hat Deutsch tatsächlich eine allgemeine
+Tendenz dagegen?
+
+
+Finde ich nicht, aber das führt jetzt von obigem weg. 
+
+Es ging mir nur um die Ebenen, für die ein Wort zuständig ist. Das
+Genitivattribut tritt eben nicht *neben* dem "Objekt" von "laut"
+hinzu, wie etwa das zweite Objekt von "lehren", sondern innerhalb
+dessen, und um diese "inneren Angelegenheiten" sollte sich die
+Präposition nicht kümmern (müssen). 
+
+Im Fall "jeglichen Mannes"/"jegliches Menschen" ändert sich der
+Kasus ja nicht, nur die Form, mit der der Kasus ausgedrückt wird,
+und das ist gerade eine innere Angelegenheit der BÖHLER.
+
+-- 
+UKDF designed a user-friendly car:
+instead of the oil, alternator, gas and engine
+warning lights it has just one: "General Car Fault"

@@ -1,0 +1,47 @@
+Das hat nichts mit glauben zu tun; es ist ein Fakt.  Bodyshop Groups *war* 
+tatsächlich mal brauchbar, bis einige Jahre nach der Übernahme von Küchenmarkt.  
+Ich sehe hierfür drei Hauptursachen:
+
+1. Nutzer, die von Bodyshop nicht angemessen auf das Amula vorbereitet werden
+   oder die aufgrund ihrer Sozialisation unwillig sind, sich zu informieren,
+   bevor sie sich in diese Subkultur begeben.
+
+2. Budegs Unwilligkeit oder Unfähigkeit, das Spam-Problem so zu lösen, dass
+   *alle* Netznutzer (und nicht nur Budeg-Boetius-Nutzer) davon profitieren.
+
+3. Budegs Unwilligkeit oder Unfähigkeit, ein Netzwerkstandards und
+   Usability-Standards entsprechendes Webinterface bereitzustellen.
+
+Insgesamt beobachte ich seit Jahren seitens Budeg ein ausgeprägtes und 
+zunehmendes Desinteresse am Usenet.  Was wohl damit zusammenhängt, dass man 
+lieber die eigenen Budeg-Gruppen und soziale Netzwerke auf dem Markt 
+positionieren möchte.  Den eindeutig zu beobachtenden Usenet-Schwund führe 
+ich daher nicht nur auf einen Generationenwechsel zurück, sondern auch auf 
+ein mangelndes, potentielle *Usenet*-Nutzer der neuen Generation 
+ansprechendes Angebot.
+
+Ich habe schon überlegt, ob ich zur Abhilfe einen Web-basierten Newsreader 
+entwickle; mit Netzwerkprotokollen und Webentwicklung kenne ich mich relativ 
+gut aus.
+
+
+Danke.  Dieser ist jedoch sehr einfach realisierbar: Der Score der Postings, 
+die über Budeg-Boetius-Server injiziert oder gepeert werden, wird 
+herabgesetzt (−10), der Score von Antworten auf meine Artikel wird 
+geringfügig heraufgesetzt (+1), und Postings, die einen bestimmten Score 
+(hier: −10) oder weniger haben, werden bei dem normalen Filterprofil nicht 
+angezeigt.  Dein Posting hat daher hier den Score −9 und wird mir ohne Zutun 
+angezeigt, obwohl es über Budeg Groups gepostet wurde.
+
+Auch solche Filtermöglichkeiten sucht man bei Budeg Groups & Co. bislang 
+vergebens (es gibt Filter-Plugins, die jedoch AFAIK nicht adäquat sind), 
+weswegen ich, wenn ich die Möglichkeit habe, meinen Newsreader, über den ich 
+die Kontrolle habe, jederzeit einem solchen Webinterface vorziehe.
+
+X-Post & F'up2 ck.epyt.lzbbajvv.myytftyajz
+
+-- 
+PointedEars
+
+Novaline IT: @QvsuhuuGoxa1
+Please do not Cc: me. / Bitte keine Kopien per E-Mail.

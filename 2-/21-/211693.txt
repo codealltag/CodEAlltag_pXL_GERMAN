@@ -1,0 +1,11 @@
+Ich wills nicht beliebig lang vertiefen, aber ich verstehe das nicht. 
+Swapping dient dazu, dass die meisten Prozesse wenigstens eine Zeitlang 
+den Hauptspeicher gar nicht benutzen. Die übrigen bekommen einen 
+anständigen Teil ihres Working-Set unter, und es besteht die Hoffnung, 
+dass wenigstens einer von ihnen so lokal bleibt, dass er vorwärtskommt. 
+Lässt man alle Prozesse mit einem kleinen Teil ihres Working-Set in den 
+Hauptspeicher, klauen sie sich nur noch gegenseitig die Seiten, und keiner 
+kommt voran.
+
+-- 
+Matthias Junghen

@@ -1,0 +1,18 @@
+Änne Venneklaas *
+
+
+Nicht schlecht als Assoziation, aber ich bezweifle, daß es da
+herkommt. Ich bin bisher davon ausgegangen, der root user ist der, der
+auf das ganze System Zugriff hat, sogar auf das Wurzelverzeichnis.
+
+Ich habe auch erwogen, daß es sich um die Wurzel irgendeines Baums
+handelt, etwa von Gruppen mit bestimmten Rechten, aber das ergibt
+keinen rechten Sinn.
+
+Kennt jemand die wahre Geschichte dieses Ausdrucks?
+
+--=20
+Fesselnde Armbanduhr: kolossaler Look jeden Tag
+Brand aussehende Armbanduhren von hoher Qualitaet=20
+vom klassischen bis kreativen und sportlichen Stil
+sind eine werte Ergaenzung Ihres einmaligen Images. - Spampoesie

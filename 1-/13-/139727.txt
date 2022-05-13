@@ -1,0 +1,15 @@
+Das ist ja auch die Standardeinstellung in TB. Die lässt sich ändern,
+wenn einem daran gelegen sein sollte, die Newsgroups-Namen in voller
+Länge zu sehen:
+user_pref("mail.server.default.abbreviate", false);
+
+
+Aber /irgendwann/ wird der Name im From: länger als das Fenster am
+Schirm. Ich denek, darum geht es Noah.
+
+
+Ciao
+Margarethe
+-- 
+ First Guy (proudly): "My wife's an angel!"
+ Second Guy: "You're lucky, mine's still alive."

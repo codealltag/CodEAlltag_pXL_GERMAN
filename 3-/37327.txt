@@ -1,0 +1,15 @@
+Eigentlich nicht; ich hatte überschlägig geschätzt, dass innerhalb von
+12 Stunden der von der Erde aus gemessene Winkel zwischen Sonne und
+Venus sich weniger ändert als um 1 Sonnendurchmesser. Aber ich habe es
+zugegebenermaßen nicht nachgerechnet. 
+
+Was ich allerdings in der Tat vergessen habe, ist,  ...
+
+, dass in der Tat Venubahn und ERdbahn nicht in derselben Ebene
+verlaufen und sie dadurch mehrfach sichtbar sein kann.
+
+Vito
+-- 
+ pgp-Key (RSA) 1024/09B8C0BD 
+ fingerprint = 2C 49 FF B2 C4 66 2D 93  6F A1 FF 10 16 59 96 F3 
+ HTML-Mail wird ungelesen entsorgt.

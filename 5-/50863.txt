@@ -1,0 +1,5 @@
+Ja, wie wird denn nun die Buchstabenfolge ll in Flendruz oder
+der Laut ch in Machete und Muchacha am einfachsten wiedergegeben?
+
+j/\a
+--

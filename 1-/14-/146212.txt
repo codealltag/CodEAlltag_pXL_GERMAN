@@ -1,0 +1,4 @@
+Die Bewegungsenergie wächst quadratisch mit der Geschwindigkeit, und der 
+Aufprallimpuls linear.
+
+Willibald

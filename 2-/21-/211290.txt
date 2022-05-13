@@ -1,0 +1,13 @@
+* Nicolas Caspary:
+
+
+Dann hat man ein Prinzip verstanden, aber nicht das der
+Durchkopplung. 
+
+Ich merke mir das einfach so, daß der Bindestrich stärker bindet
+als Getrenntschreibung, und Zusammenschreibung stärker als
+Bindestrich. Ein "Hartz IV-Empfänger" hat also die gleiche
+logische Struktur wie ein "Hartz-Vierempf�nger".
+
+-- 
+Benedikt

@@ -1,0 +1,5 @@
+Berend Füssmann tat kund:
+
+
+Dann sollte man doch nach der "Brute Force"-Methode
+den Schlüssel durch Ausprobieren finden können.

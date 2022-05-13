@@ -1,0 +1,5 @@
+Dafür stehst Du jetzt eine Stunde im linken Winkel!
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Dirk Ungerbühler, comp.lang.python

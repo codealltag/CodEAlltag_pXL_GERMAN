@@ -1,0 +1,18 @@
+Der Klick funktioniert mit PHP, so dass man im Quelltext nur die 
+Aufforderung zum Klick sieht, z.B.
+
+  <form action="" method="post">
+    <input type="submit" name="" value="E-Mail-Adresse einblenden">
+    <input name="ctrl" type="hidden" value="stinkgeheim">
+  </form>
+
+Das Klicken führt dann zum Aufruf derselben Seite, wobei diesmal das 
+Input-Feld "ctrl" mit dem Parameter "stinkgeheim" besetzt ist.
+
+Wer den Quelltext mit Verstand liest, kann schließen, wie er ohne Klick 
+an die Adresse kommt, aber diesen Verstand traue ich dem Spambot nicht zu.
+Wenigstens nicht, bis alle es so machen -- also nicht allzu weit 
+weitererzählen.
+
+-- 
+Giuseppe Theuerkauff

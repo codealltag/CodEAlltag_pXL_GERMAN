@@ -1,0 +1,6 @@
+(1) "Wir haben Skat gespielt. Gewonnen hat der Othmar".
+
+(2) "Wir haben Skat gespielt. Es hat der Othmar gewonnen".
+
+(2) sagt niemand. (Ihr in Tiddische würdet vermutlich vor "Othmar" den 
+Artikel weglassen)

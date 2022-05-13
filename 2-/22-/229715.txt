@@ -1,0 +1,33 @@
+Das Stichwort ist "obligatorisch". Es ist in dem WP-Artikel einerseits 
+unter "Tilgung" und andererseits unter "Ellipse" behandelt. Im Satz
+
+  Ich halte meiner Frau die Tür auf.
+
+kann ich aufs Dativobjekt verzichten und der Satz bleibt vollständig, dagegen
+nicht aufs Akkusativobjekt.
+
+  Ich zeige den Kindern die Tiere.
+  Ich gebe den Kindern Käsebrote.
+
+ist es ähnlich, aber man kann darüber streiten, ob die Sätze ohne Dativobjekt
+schon Ellipsen sind oder nicht. Ich würde sagen, beim ersten ist es
+Ansichtssache und beim zweiten ist das Dativobjekt obligatorisch.
+
+Im selben Sinne halte ich "ich kam" oder "ich liebte" eher für Ellipsen als
+für vollständige Sätze. Ebenso fehlt bei "er folgte", "er ähnelte",
+"er bedurfte" oder "er gedachte" ein obligatorisches Objekt, diesmal im Dativ
+oder Genitiv.
+
+
+Nein. Es ist aber in der Mathematik üblich, von den n Argumenten einer
+n-stelligen Funktion oder Relation zu sprechen.
+
+Meiner Ansicht nach kann man den Argumentcharakter nicht von der Anbindung
+mittels Kasus abhängig machen. Es kann genausogut eine Anbindung über eine
+Präposition sein (oder in anderen Sprachen über die Verbform oder nur über die
+Satzstellung), und auch dort gibt es obligatorische Argumente:
+
+  stellen (was? wohin?), interessieren (wen? wofür?)
+
+-- 
+Winfried Dwelk

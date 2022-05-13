@@ -1,0 +1,19 @@
+* Gerhard Leonhard Tempelhahn:
+
+
+Natürlich, die sind ja per se Zeiger auf ein Individuum, und
+machen sonst weiter keine Aussage über die Person. Dagegen
+charakterisieren die anderen Aussagen das Individuum, und die
+Probleme ergeben sich, wenn diese Charakterisierung nicht
+durchgehend zutrifft. 
+
+Man kann aber nur im Einzelfall entscheiden, ob die Aussage allzu
+mißverständlich ist oder nicht, vollständige Eindeutigkeit ist ja
+weder möglich noch nötig ("Man muß nur in Sprache ausdrücken, was
+nicht ohnehin schon klar ist").
+
+-- 
+Bug:  An elusive creature living in a program that makes it
+incorrect.
+The activity of "debugging," or removing bugs from a program, ends
+when people get tired of doing it, not when the bugs are removed.

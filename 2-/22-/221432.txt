@@ -1,0 +1,19 @@
+Ich habe gelernt (und vergessen wo), dass man keine falschen Beispiele 
+bringen soll, also nicht
+
+  "Author" ist falsch geschrieben.
+
+sondern
+
+  "Autor" schreibt man richtig ohne "th".
+
+Was man sieht, prägt sich ein, auch wenn dabeisteht, dass es falsch ist.
+
+Für komplexe Dinge gilt das weniger. Eine naheliegende, aber falsche 
+Vorgehensweise muss man manchmal beschreiben, um zu erklären, warum sie 
+falsch ist. Aber auch da muss man drauf achten, dass möglichst wenig die 
+Gefahr besteht, dass der Leser sie zuerst lernt und sie dann wieder 
+verlernen muss.
+
+-- 
+Harm Ahrend

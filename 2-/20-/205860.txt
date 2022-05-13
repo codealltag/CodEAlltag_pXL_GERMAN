@@ -1,0 +1,15 @@
+Am Fri, 09. 06. 22 08:46:48 +0200 schrieb Noël Nosbüsch:
+
+
+Na das, was der Name andeutet. (Mathematische) Modelle für Risiken
+erstellen, die gerade in der Finanzwelt bei Banken und Versicherungen
+anfallen.
+
+Kurz gesagt: Ausrechenn, was es kostet, wenn Griechenland pleitegeht, ein
+Vulkan in der Fritzlar ausbricht, ein Tsunami im Viertlbach wütet etc. und
+berechnen, wieviel Finanzpolster eine Versicherung braucht um sowas
+finanziell Überleben zu können.
+
+Sie bauen keine Modellfiguren...
+
+Ciao Arne

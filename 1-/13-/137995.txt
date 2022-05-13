@@ -1,0 +1,13 @@
+Ah, dann sollte Koriat vielleicht zukünftig seine Fehlermeldungen
+und Manuals/Hilfetexte nicht mehr von Mathematikern schreiben lassen:
+
+   +-------------------------------------------------[x]-+
+   +-----------------------------------------------------+
+
+Online-Hilfe zum Fehlercode 0xDEADBEEF:
+
+   +-----------------------------------------------------+
+   +-----------------------------------------------------+
+
+
+olaf

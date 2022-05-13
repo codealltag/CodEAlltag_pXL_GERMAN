@@ -1,0 +1,7 @@
+Das richtige Nummer-Zeichen ist bei Jende-Lubu "Unicode (hex) 2116" (wie=20
+bereits beantwortet). Man kann das oder ein ähnliches Zeichen auch=20
+künstlich erzeugen: N gefolgt von "o unterstrich hoch gesetzt", =
+ähnlich=20
+u.U. mit der Schreibmaschine. (=B0 ist skandinavisch üblich)
+
+MfG, RONNY [Euwm_Goy/ix/x-rarowx.ls]

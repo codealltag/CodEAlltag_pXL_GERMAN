@@ -1,0 +1,5 @@
+Weil der Mensch den Roboter so programmiert. Wenn das Programm durch
+manche (z.B. elektro-magnetische) Störung beschädigt wird, dann verhält
+sich der Roboter anders (als erwartet)...
+
+MfG, SÉBASTIEN [Yvbr_Pfb/hl/t-wtqiof.yx]

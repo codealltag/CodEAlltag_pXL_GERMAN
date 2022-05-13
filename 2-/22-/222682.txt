@@ -1,0 +1,28 @@
+Mit "logisch" meint man hier "regelmäßig", und zwar *einfachen* Regeln
+gehorchend. Eine Regel mitsamt allen in ihr enthaltenen Sonderregeln ist immer
+noch eine Regel, und ihre Einhaltung eine Regelmäßigkeit. Und sogar Zufall
+könnte eine Regel sein, wenn etwa im Duden stünde, die Adjektivendung sei
+durch Würfeln zu ermitteln.
+
+Die "if-then-else-Logiker" möchte ich hier insoweit in Schutz nehmen, als sie
+mit ihren "if-then-else"n die Sonderregeln und Ausnahmen sichtbar machen.
+Viele Grammatikregeln sehen so aus:
+
+  if Fall1 then Regel1 elsif Fall2 then Regel2 ... else Regelx
+
+wobei die Regelx viel öfter zur Anwendung kommt als jede der vorhergehenden,
+die man "Ausnahmen" nennt, wenn sie so selten vorkommen, dass man sie
+abschließend aufzählen kann, sonst "Sonderregeln".
+
+Der Spruch, Sprache sei nicht immer ganz logisch, ist also sehr oft so
+gemeint, dass natürliche Sprache -- nur um die geht es -- sehr viel mehr
+Sonderregeln und Ausnahmen enthält als der "if-then-else-Logiker" sie
+eingebaut hätte, hätte man ihn die Sprache entwerfen lassen. Unterschiedliche
+Sprachen haben da auch unterschiedlich komplexe Sonderregeln; Plansprachen wie
+Esperanto versuchen, sie möglichst weitgehend zu vermeiden.
+
+Ich habe jedenfalls jedes Mal viel gelernt, wenn ich versucht habe,
+Grammatikregeln in if-then-else-Form umzuschreiben.
+
+-- 
+Erich Tewesmeier

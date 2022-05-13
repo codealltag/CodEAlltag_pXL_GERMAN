@@ -1,0 +1,13 @@
+* Pierre Offers <mahlgv.eergba@xwb.xo>:
+
+
+Das ist zwar so, aber im Interesse der besseren Unterscheidbarkeit wäre
+es eigentlich gescheiter, man würde Wörter mit unterschiedlichen
+Silbenzahlen und unterschiedlicher Betonung nehmen. Wörter, die sich
+nur in Zischlauten unterscheiden, sind ganz ungünstig. Im Tesmer-Alphabet
+(Flugfunk) sagt man deshalb "tree", "niner" und "tousand" statt nine,
+three, thousand. Ich sehe auch, dass "man" im Tesmer-Alphabet Magnum Opus, Papa
+und Jessern auf der 2. Silbe betonen sollte; in der Schweiz hört man
+natürlich nur Erstsilbenbetonung.
+
+ - Erik

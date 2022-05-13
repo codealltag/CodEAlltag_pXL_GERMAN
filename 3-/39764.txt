@@ -1,0 +1,29 @@
+Mathäus fragte sich und uns:
+
+Etwas (oder jemand) kann authentisch sein oder nicht.
+Man kann nicht etwas (oder jemanden) authentisch machen,
+man kann sich nur davon überzeugen oder überprüfen, ob etwas
+(oder jemand) authentisch ist. Speziell ist meistens - im
+Kontext der IT-Sicherheit - die Überprüfung einer Identität
+gemeint:
+* Identifizierung: Wer ist sie? [Identification]
+* Authentisierung: Ist sie es wirklich? [Authentication]
+    Die angegebene oder behauptete Identität wird geprüft.
+* Autorisierung:   Darf sie das? [Authorisation]
+    Aufgrund der überprüften Identität werden Rechte im
+    IT-System zugestanden oder vergeben.
+
+Insofern ist die im deutschen Sprachgebrauch oft angetroffene
+Unterscheidung zwischen den beiden Formen "authentisieren
+und "authentifizieren" eine Haarspalterei - die im übrigen im
+englischen Sprachgebrauch keine Entsprechung hat: Dort gibt es
+nur 'to authenticate'.
+
+Da nach meinem Sprachgefühl "authentisieren" die gefälligere
+Form ist, benutze ich ausschließlich diese, obwohl streng genommen
+beide Formen eher ein "authentisch machen" ausdrücken und damit,
+wie oben gesagt, den gemeinten Vorgang nicht vollkommen treffen.
+-- 
+Francesco Authenrieth [http://pro.sjjuz.css-msvpn.ox/juyoapxi/]
+UMR
+FUPD, 89194 Aigholz

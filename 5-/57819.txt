@@ -1,0 +1,14 @@
+Guten Tag
+
+In alt.usage.englisch wird eben diskutiert was "Quersumme" heisst
+im Englischen ("die einfache Quersumme" und "die 
+reduzierte Quersumme"). Es ist schon beantwortet worden ("digit
+sum", d. "tv�rsum"), aber eine Nebenfrage ist aufgetauscht.
+
+Kann "Quersumme" auch eine andere Bedeutung haben? Es handelt
+sich um ein "accounting term", der im Englischen "cross foot"
+oder nur "foot" heisst. Diese Summe wird durch Addierung der
+Zahlen in einer Kolonne berechnet.
+
+-- 
+Gruß, Norbert

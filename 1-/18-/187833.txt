@@ -1,0 +1,14 @@
+Die obere Zeile ist Algol 60 und Pascal, die untere ist Algol 68.
+
+Das Konstrukt in C ist das von Algol 60, nur dass statt begin/end {} 
+geschrieben wird.
+
+In Fortran 77 hat man dann die Konstruktion von Algol 68 übernommen, 
+allerdings mit endif statt fi.
+
+
+Nein, es ist nicht gut, wenn es eine Variable ist, die unterwegs beliebig 
+geändert werden kann.
+
+-- 
+Orlando Mibus

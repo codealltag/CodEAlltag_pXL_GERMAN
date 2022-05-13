@@ -1,0 +1,8 @@
+* Thorsten Wittgraebe Ambrosch:
+
+
+Es war nicht eine Liste mit Übersetzungen, es waren zwei
+alphabetische Listen.
+
+-- 
+WinErr 008: Erroneous error. Nothing is wrong.

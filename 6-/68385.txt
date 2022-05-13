@@ -1,0 +1,36 @@
+Ich denke, das ist wohl unstrittig. Für mich ist die einzig interessante
+Frage, ob diese Bedeutzung auf dem Umweg über eine "Fehlübersetzung" aus
+dem Englischen entstanden ist:
+
+Variante a: Übersetzer liest im Programm oder in der Doku "menu", 
+übersetzt mit "Menü", fertig ist die deutsche Ausgabe des Konzepts,
+ohne den Kozeptionellen Hintergrund, warum der englischsprachige
+Erfinder des Dings "menu" gewählt hat, zu verstehen. Also
+ein Übersetzungsfehler: Der englischsprachige Erfinder des
+"menu" stellt sich als Metapher eine Speisekarte vor, auf
+der man dem Kellner etwas zeigt, der deutschsprachige Übersetzer
+stellt sich das Tagesgericht in seinem Wirtshaus vor, wie 
+es auf dem Tisch steht[1]
+
+Variante b: Der Übersetzer wählt das deutsche "Menü",
+weil er eine Speisekarte auch "Menü" nennt. Kein 
+Übersetzungsfehler, beide stellen sich als Metapher für
+das Element in der Benutzerschnittstelle eine Speisekarte
+vor. Allenfalls eine etwas ungewöhnliche Wortwahl.
+
+Variante c: Das Element eines Benutzerinterfaces, mit dem wir 
+aus einer Liste etwas auswählen, hat gar nichts mit einer Speisekarte,
+sondern mit einem Tagesgericht/einer spezifischen Speisenfolge
+zu tun, bzw. die Metapher wurde daraus gebildet. Also hätte
+sich schon der englischsprachige Erfinder des Dings eine
+Speisenfolge vorgestellt.
+
+Für mich ist rein subjektiv die Variante a) die plausibelste,
+obwohl ich keine "Beweise" dafür angeben kann.
+
+/dario -- ich unterstelle mal, daß der Begriff aus dem Englischen
+          kommt, natürlich könnte man auch darüber streiten.
+
+[1] Auf leeren Magen sollte man vielleicht nicht übersetzen ;)
+-- 
+http://pam.btwnnw.axj/olvyev/wobbvhbeh/

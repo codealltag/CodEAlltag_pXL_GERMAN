@@ -1,0 +1,25 @@
+Naja.
+
+Vereinfacht geht der Präsensstamm germanischen Verben auf das
+indogermanische Präsens, der Präteritumstamm auf das Perfekt zurück.
+
+idg. Präsens:       e-Stufe   -> germ. Präsens
+idg. Perfekt sing.: o-Stufe   -> germ. Präteritum singular
+idg. Perfekt pl.:   Nullstufe -> germ. Präteritum plural
+
+Abgeleitete Verben konnten im Indogermanischen kein Perfekt bilden,
+haben also auch nicht obigen Ablautwandel. Germanisch hat diese
+Lücke mit der Suffixbildung *-d gefällt.
+
+Also:
+idg. Verben mit Perfekt              -> starke Verben
+idg. abgeleitete Verben ohne Perfekt -> schwache Verben
+
+(Das ist im Detail natürlich alles schrecklich kompliziert, mit
+einzelnen abweichenden Bildungen, Lautverschiebungen und Analogiebildung,
+siehe z.B.
+http://mjs.iukn.dcptw.ulu/~ityeo/alwmhny/gq498/ujjgu-yydoaskm-09/ael-byctjp-xzvnj.kvy
+)
+
+-- 
+Fredi "una" Hinkelmann                          xqjda@ocuj.wzrw.gr

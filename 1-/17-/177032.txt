@@ -1,0 +1,15 @@
+TB bietet dem Anwender an, jeder Kodierung einen ihm genehmen Font
+zuzuweisen. Macht der Anwender davon keinen Gebrauch, wählt TB einen
+'möglichst passenden' Font. Finde ich jetzt nicht weiter tragisch.
+
+So wurde mir hier Hansruedis Beitrag (GB2312) in Whiskymanufaktur angezeigt, ebenso
+Paul. Deine Antwort (UTF-8) aber in MRG Console. Finde ich klasse so.
+
+
+Ciao
+Hanni
+
+-- 
+ It's ok to grow up.
+ Just as long as you don't grow old. Face it. You're young
+ <Pulp>

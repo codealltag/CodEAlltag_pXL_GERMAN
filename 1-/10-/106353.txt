@@ -1,0 +1,14 @@
+Das 'Auslagern von Diensten', was ich persönlich für eine eher unscharfe
+Übersetzung von 'Business Process Outsourcing' halte, wenn dann
+tendierte ich eher zu 'Auslagerung von Geschäftsprozessen' oder, es muss
+ja Deutsch sein, 'Auslagerung von Geschäftsvorfällen', mag ja noch
+angehen. Aber ein 'Data Warehouse' ist deutlich mehr als eine Datenbank
+und das 'Supply Chain Management' spielt sich keineswegs nur im Einkauf ab.
+
+
+Ciao
+Odile
+-- 
+ wir halten uns an regeln
+ wenn man uns regeln lässt
+ [FLAXXXs: Haifisch]

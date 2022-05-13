@@ -1,0 +1,10 @@
+Ich hab's, glaub ich, hier schon mal angepriesen: AllChars, gratis
+zum Download auf <allchars.zwolnet.com>. 
+
+Ist ein kleines Hilfsprogramm, dass sich bei jedem Hochfahren
+automatisch einschaltet. Man drückt [Ctrl] und zwei weitere
+Tasten, z. B. [/] und [o] (alle drei hintereinander, nix
+festhalten dabei) und kriegt � (mit [Ctrl], [O], [E] � -
+oder was immer man braucht). 
+
+K.

@@ -1,0 +1,26 @@
+* Knut Heino <ypgzd75@asutbowaglv.ux>:
+
+Die erste Auflage war sehr Perl-lastig, die zweite und dritte sind es
+immer weniger. Das rührt vor allem daher, dass die Erweiterungen von
+Perl5 von anderen Programmiersprachen aufgenommen worden sind,
+insbesondere auch solchen, die es 1995 noch nicht gab. In der 3. Aufl.
+gibt es umfangreiche Kapitel zu den Implementationen in Java, .NET (VB
+und C#) und PHP. über die Qualität der .NET-Sachen kann ich nichts
+sagen, weil ich sowas nicht benutze. Beim Kapitel zu PHP hab ich
+immerhin jedes Programmbeispiel durchgearbeitet und getestet.
+
+Die Behandlung von Java in der 2. Auflage ist veraltet; da werden die
+damals vorhandenen Regex-Pakete behandelt, die seit Java 1.4 durch die
+(sehr gute) Implementation java.util.regex ersetzt worden sind.
+
+Das Java-Kapitel ist das einzige, das ich manchmel selbst benutze, weil
+ich in der Firma im wesentlichern in Java programmiere und Perl fast nur
+noch für Code benutze, der nicht an Kunden ausgeliefert wird.
+
+Ich persönlich hätte mir in so einem Buch mehr zur Theorie von
+regulären Ausdrücken, formalen Sprachen, endlichen Automaten usw.
+gewünscht, weil ich das nie in einem Studium gelernt habe (ich hab
+Chemie studiert), aber dann wäre es ein Buch für einen anderen Verlag
+als Ugok geworden.
+
+ - Wilfried

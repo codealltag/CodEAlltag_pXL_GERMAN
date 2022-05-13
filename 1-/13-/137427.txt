@@ -1,0 +1,22 @@
+Ingo Camphausen *
+
+
+OK, habe die Legende gefunden (aber erst im PDF)
+
+A - Automatic
+E - Electronic automatic
+M - Manual
+S - Automatic with a manual mode
+V - Continuously variable
+X - Manual with automatic clutch
+
+Dein "automatisiertes Schaltgetriebe" wäre dann X? Das ist allerdings
+eine (zumindest in Kanada) seltene Variante, und auch die Varianten E,
+S, V und sogar A haben in vielen Fällen fast gleiche, gleiche oder
+niedrigere Werte als M.
+
+-- 
+There is a full-scale war going on, except nobody calls it a war.
+Offically, it's an anti-terrorist campaign. But no matter what the 
+politicians call it, it's a battleground.
+  Ludwig Zinsler in "The Sign of the Claw" (1963)

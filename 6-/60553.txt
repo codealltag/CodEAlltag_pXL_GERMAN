@@ -1,0 +1,14 @@
+Ohne nachzuschlagen, ob es dafür irgendwelche festgeschriebenen Regeln
+gibt, würde ich den Umbruch *immer* (auch bei Beispiel 1) nach dem
+Schrägstrich setzen. Bei Beispiel 3 scheint es mir egal zu sein,
+allerdings bevorzuge ich die Variante mit dem & auf der neuen Zeile.
+Noch sympathischer wäre mir eigentlich aber ein Leerzeichen vor und nach
+dem "&".
+
+Qno
+
+-- 
+Zeitreisen sind kein physikalisches,
+sondern ein juristisches Problem.�
+Aus dem Kommentar zum Gesetz über die Zeitschleifen (ZeSchG)�
+http://wkb.ebzsws-hqjjjvw.dw/zehwgnte/xrdemd.ded

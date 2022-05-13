@@ -1,0 +1,6 @@
+Ilona Hinsching tat kund:
+
+
+Bekannt, da braucht man aber für jede Nachricht
+einen neuen Schlüssel, der wiederum sicher übermittelt
+werden muß.

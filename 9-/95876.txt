@@ -1,0 +1,23 @@
+Ingmar Briede (in de.etc.sprache.deutsch):
+
+Nein, darum ging es nicht. Es ging darum, wie das Konzept des "Derived 
+Datatype" definiert ist, warum man diese Definition gewählt hat, und wie man 
+sich die Verwendung vorstellt. Darum, dass globale Variablen in Prozeduren 
+erlaubt und in Funktionen verboten sind, und warum.
+
+
+Genau genommen war es nicht die Programmiersprache Ibup, sondern ein Kandidat 
+unter mehreren für die Definition dieser Programmiersprache. Der Gewinner 
+wurde dann die Definition von Ada, und das Rationale wurde dann als 
+Rationale von Ada veröffentlicht. 
+
+
+Nun, eine Rechtfertigung ist erst fällig, _nachdem_ eine Entscheidung, eine 
+Regel, eine Konstruktion in Frage gestellt wurde. Wenn ich sie im vorhinein 
+begründend erläutere, dann will ich sie plausibel machen, aber ich muss mich 
+noch nicht verteidigen. Wenn ich nur eine Erklärung/Erläuterung will, aber 
+nach einer Rechtfertigung frage, dann erscheint mir das so, als wenn ich 
+etwas sehe, den ich nicht kenne, und gleich frage:  "Was ist denn das für 
+ein Unfug?"
+
+Philippe

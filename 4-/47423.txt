@@ -1,0 +1,25 @@
+Aha, dein Musikschwerpunkt liegt also nicht auf den 80ern.
+
+
+Ja, das sind wohl mehr so die Modeerscheinungen, die großen,
+drangeklemmten Xe.
+
+
+Ich dachte jetzt, daß man vielleicht eine Variable n und eine N
+hat, und die muß man ja unterscheiden können. Wenn einem die
+kleingeschriebenen Variablen ausgehen, fängt man gern mit
+Großbuchstaben an. Solange man nicht mit "case-insensitive"
+(Gro�KleinEgal) gequält wird.
+Der Fall "große Variablen" sollte aber auf alle Fälle von
+vornherein abbildbar sein, der kommt vor, wenn auch nicht so oft.
+
+
+Da bin ich mir nicht so 100%ig sicher, wenn ich an den Obus
+denke. Vielleicht schreiben die ständig mit T-Trägern Arbeitenden
+ja auch Träger, weil es ihnen so vertraut ist. Aber wie gesagt,
+die Art der anderen Aussprache des ersten Buchstabens ist mE das
+schlagende Argument für die Abtrennung - [tetrEg@, nicht ttrEg@,
+aber beides mal: obus]
+
+
+"Halte es einfach, aber nicht einfacher, als es geht".

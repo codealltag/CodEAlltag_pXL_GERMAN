@@ -1,0 +1,13 @@
+[...]
+
+Es ging im OP um die 'Aussprache' einer URL. Die werden m.W. im
+Ascii-Zeichensatz geschrieben. Völlig ohne Kodierung[1].
+
+
+Ciao
+Juliana
+
+[1] Punycode u.�. mal außen vorlassend.
+-- 
+ Katja rode on my motorbike directly back of me.
+ I hit a bump at 65, and rode on ruthlessly.

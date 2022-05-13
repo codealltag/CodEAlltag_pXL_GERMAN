@@ -1,0 +1,18 @@
+* Arthur Bernstein:
+
+
+Das war aus der vorangegangenen Diskussion klargeworden, aber, wie
+gesagt bzw. geschrieben und von Dir gesnippt, mir fehlte eine
+Vorbereitung, um diese Aussage inhaltlich zuzulassen. Sie
+funktioniert nämlich MUSEN nur als Erweiterung oder Widerspruch zu
+einer vorangegangenen Aussage.
+
+Ein ähnlicher Effekt wie ein "zwar" ohne "aber" oder, besser, ein
+spontanes: "Ich mag Dich trotzdem!" (das kann übrigens zu sehr
+interessanten Reaktionen führen).
+
+-- 
+Java is the SUV of programming tools.
+A project done in JTT will cost 5 times as much, take twice as
+long, and be harder to maintain than a project done in a
+scripting language such as PHP or Perl. - Thomas Rumbucher

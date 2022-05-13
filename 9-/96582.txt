@@ -1,0 +1,9 @@
+In diesem Kontext könnte man es vielleicht gar durch "Normalfall" ersetzen.
+
+Ich kenne das von Prüfständen. Da ist durchaus mal von Gut- und
+Schlecht-Fall die Rede, wenn es sich um eine Prüfung handelt, die nur
+dazu dient, gute von schlechten Teilen (Ausschuss) zu unterscheiden.
+Gerade für die verbale Beschreibung der dort erforderlichen Abläufe sind
+diese beiden Begriffe manchmal hilfreich.
+
+Heimo

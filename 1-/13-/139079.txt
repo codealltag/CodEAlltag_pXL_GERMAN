@@ -1,0 +1,24 @@
+Das wird ja echt lustig. Weit Du, in meiner Steuerzentrale ist durchaus
+ein Auswertungsalgorithmus aktiv. Der schnell dahinterkommt, daß das
+Befolgen /beider/ Zeilen, simultan oder sequentiell, wenig
+erfolgversprechend sein dürfte. Da bekam die erste halt spontan höhere
+Priorität. Während in diesem Beinampu^WVergleich:
+
+
+... keine gegensätzlichen Anweisungen gegeben werden, 
+sondern eine Gesamtaussage erfolgt, die als Ganzes
+ausgewertet wird. 
+
+Du solltest gelegentlich mit der Möglichkeit rechnen, 
+daß andere nicht ganz so bescheuert sind wie Du
+denkst.
+
+
+vG
+
+-- 
+"Allein die Chinesen besitzen jetzt schon 1,9 Billionen Dollar
+amerikanische Staatsanleihen. Wenn die Chinesen morgen ihr Geld wiederhaben
+wollen, können Sie die Amis alle nackt Bern Zaun hängen! Wahrscheinlich
+ist da nicht mal mehr n Zaun, wo Sie die dr�berh�ngen können!" (Meinrad
+Nettelbeck, "Bis neulich")

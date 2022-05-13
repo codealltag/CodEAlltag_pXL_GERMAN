@@ -1,0 +1,24 @@
+Wer ist wir? Wie auch immer, aus meiner Sicht lief
+die (nicht besonders fruchtbare =:-)) Diskussion über
+dieses Teilthema so:
+JP: Anekdote über einen unterlassenen Regentanz.
+LF: Aufforderung, Korrelation und Kausalität zu unterscheiden.
+INSA: Anmerkung, daß es bereits an der Korrelation mangele.
+LF: Nein, Korrelation = 100% vorhanden.
+JP: Falsch, da statistische Insignifikanz.
+
+
+Doch, hatte ich. Und damit wären wir tatsächlich wieder beim Thema
+der Gruppe. Wenn ich sage, es existiere eine Korrelation zwischen 
+zwei meßbaren Größen (1. Anzahl der Regentänze in der Mittagspause, 
+2. Regenmenge am Nachmittag), dann impliziere ich damit, daß diese
+Korrelation statistisch signifikant ist. Denn ohne diese Signifikanz
+ergibt der Begriff der "Korrelation" keinen Sinn, da er dann einfach
+eine etwas hochgestochene Formulierung für die zufällige Tatsache, daß zwei
+Dinge zur selben Zeit oder kurz nacheinander geschehen sind, darstellt.
+
+Ich hatte den Eindruck, daß dies implizit in "Korrelation" auch in
+der Standardsprache ausgedrückt wird. Täuscht mich da mein Sprachgefühl?
+
+Gruß
+Christof

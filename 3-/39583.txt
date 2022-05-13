@@ -1,0 +1,25 @@
+Peinlich ist allenfalls die Vorstellung, dass jedes Wort einer Sprache immer
+durch genau ein Wort einer anderen Sprache wiedergegeben werden kann oder
+sollte. Das gilt *natürlich* bei der Ersetzung von Fremdw�rern auch nicht.
+
+Wie ich schon schrieb, ist es nicht nötig, dass das ersetzende Wort genau 
+dasselbe Bedeutungsspektrum wie das ersetzte hat. Es genügt, wenn in den 
+Zusammenhängen, in denen die Ersetzung stattfindet, das ersetzende Wort 
+nur die entsprechende Bedeutung hat.
+
+Beispielsweise ersetze ich ziemlich regelmäßig das Wort "Adresse" durch
+"Anschrift", aber nur, wenn eine Wohn- oder Postadresse gemeint ist, nicht
+aber bei einer E-Mail-, Speicher- oder IP-Adresse. Dass "Anschrift" nicht den
+gesamten Bedeutungsbereich von "Adresse" wiedergibt (und erst recht nicht den
+von englisch "address", was auch "Rede" heißen kann), stört mich nicht,
+sondern ist nachgerade der Grund für die Ersetzung: mir ist das Wort "Adresse"
+zu ungenau und verwechslungsgef�hrdet -- "Anschrift" ist eindeutig.
+
+"Display" dann und nur dann durch "Anzeige" zu ersetzen, wenn es sich um eine
+Anzeige handelt, wäre ein Gewinn an Präzision. Dass "Anzeige" in anderen
+Zusammenhängen auch "Strafanzeige", Zeitungsannonce", "Benachrichtigung" oder
+"Signal" bedeuten kann, wofür "display" jeweils nicht passt, macht diesen
+Gebrauch von "Anzeige" passender, nicht peinlicher.
+
+-- 
+Pascal Dänzer

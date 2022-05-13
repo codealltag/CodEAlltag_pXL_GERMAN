@@ -1,0 +1,15 @@
+Kilo, Hekto, Mega, Giga werden als sprachliche Vorsilbe auch in 
+hergebrachten Grundeinheiten verwendet. So ist Kilogramm und nicht Gramm 
+die SI-Einheit, Zentimeter, Kilometer, Hektopascal, Megaparsec und  MeV, 
+Gigabyte und Nanosekunde Nebeneinheiten des täglichen Größenwahns in 
+bestimmten Fachgebieten.
+
+Die multiplikative Vorsilbe wird also als an die Grundeinheit gebunden 
+betrachtet nicht als numerischer Faktor behandelt.
+
+Wer Potenzen an Einheiten liest oder schreibt, muss schon in etwa 
+wissen, was da gemeint ist.
+
+-- 
+
+Stefan Molitoris

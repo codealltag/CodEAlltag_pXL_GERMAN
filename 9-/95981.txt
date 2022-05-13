@@ -1,0 +1,32 @@
+Klar, denn der Kunde zahlt für Features und nicht für Bugfixes.
+
+Es gibt sogar Kunden, die es ablehnen, ein Update zu installieren,
+weil der darin korrigierte Fehler bei ihnen noch nicht aufgetreten
+ist. Die Umsatzeinbuße durch das Runterfahren der Systeme zum
+Einspielen des Updates hat die Wahrscheinlichkeit 1, der mögliche
+Verlust durch den Fehler hat auf jeden Fall eine geringere
+Wahrscheinlichkeit. Der Rest ist Multiplikation.
+
+
+Hast ja recht - been there, done that, have the T-Shirt to prove it.
+(Habe mich lange nicht getraut, das noch mal anzuziehen, aber heute
+weiß ja glücklicherweise keiner mehr, was "Probierstüble" hieß).
+
+Aber:
+
+
+Wieso ängstliche Trantüten? Das ist eiskalte Kalkulation, nennt
+sich Risikomanagement.
+Wenn Du knapp kalkulieren musst, hast Du für preventive maintenance
+einfach nicht das Geld.
+
+Was nützt mir ein zukunftssicheres fehlerfreies System in einem Jahr,
+wenn ich bis dahin pleite bin, weil meine ganze Entwicklungsmannschaft
+mit unproduktivem Redesign beschäftigt ist, und ich deshalb keine neuen
+Features verkaufen konnte?
+
+Nicht jeder Softwarehersteller hat so fehlertolerante Kunden wie
+Autolackier-Fachbetrieb Gurr, oder ist ein 400-Pfund-Nischengorilla wie UDL.
+Und auch bei den beiden sieht's schon lange nicht mehr so rosig aus.
+
+/Mark

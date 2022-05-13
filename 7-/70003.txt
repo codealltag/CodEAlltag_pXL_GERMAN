@@ -1,0 +1,49 @@
+Eigentlich ist der nicht interessant, denn er ist kein physikalisches
+Objekt. Genausogut kannst Du mit einem Laser auf den Mond leuchten und
+die Geschwindigkeit des Leuchtpunkts berechnen, wenn Du mit dem Laser
+wackelst.
+
+Aber auf die Gefahr hin, dass Du jetzt wieder jubilierst, weil Du mich
+durch Posten von offensichtlichem Unsinn zu mitternächtlichen
+Trigonometrieübungen gebracht hast:
+
+
+Nein, genau dort tut er das nicht. Es ist leicht zu sehen, dass der
+Schnittpunkt sich bei konstanter Winkelgeschwindigkeit umso schneller
+bewegt, je schleifender der Schnitt ist, also je geringer der
+Öffnungswinkel, also je weiter der Schnittpunkt von der Achse entfernt
+ist.
+
+Konkret nehme ich an, dass die beiden Klingen der Schere dreieckig und
+symmetrisch sind. dann sei:
+
+l die Länge der Klinge (gemessen von der Achse bis zur Spitze)
+b die halbe Breite der Klinge an der Achse,
+α der halbe Öffnungswinkel
+β = atan(b / l) der halbe Winkel an der Spitze der Klinge,
+o = l * sin α  die halbe Öffnung an der Spitze
+und schließlich
+sz = l cos α - o / tan(α + β) der Abstand des Schnittpunkts von der Achse
+
+Bei l = 10, b = 1 (entspricht ziemlich exakt der Schere, die auf meinem
+Schreibtisch liegt, außer, dass die leicht gekrümmte Klingen hat) und
+der angenommenen Winkelgeschwindigkeit von π/4 rad/s (Der
+Gesamtöffnungswinkel von 45° lässt sich also in 0.5 Sekunden schließen),
+ergeben sich somit in Abhängigkeit vom Öffnungswinkel folgende
+Abstände und Geschwindikeiten des Schittpunkts:
+
+α (rad)    sz (cm)   v (cm/s)
+  0.40000   2.07674   2.98172
+  0.30000   2.55719   4.74251
+  0.20000   3.37068   8.53918
+  0.10000   5.01671  19.37263
+  0.01000   9.09134  64.25974
+  0.00100   9.90100  76.22611
+  0.00000  10.00000  77.75833
+
+Wie man sieht, nimmt die Geschwindigkeit tatsächlich immer mehr zu, je
+weiter der Schnittpunkt von der Achse entfernt ist. In die Nähe der
+Lichtgeschwindigkeit kommt er aber bei weitem nicht, das ist nicht mal
+gemütliches Fußgängertempo.
+
+	hp

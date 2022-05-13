@@ -1,0 +1,6 @@
+Zur Vermeidung von Rekursion muss der erste Satz ja
+bedeutungsfrei sein!
+
+Gruss
+
+Benedikt

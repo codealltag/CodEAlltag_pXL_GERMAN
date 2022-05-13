@@ -1,0 +1,8 @@
+Selbstverständlich kann man das: die Quersumme von 8 ist =3D 8.
+
+Isabelle muss jetzt zur Strafe die Quersummen von 1 bis 9 angeben,
+ohne die 8.
+
+Gruss
+
+Ivo

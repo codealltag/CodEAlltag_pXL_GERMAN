@@ -1,0 +1,11 @@
+Ursi Sellmaier tat kund:
+
+
+Oder vielleicht wird der Textbaustein für jede
+Verspätung aus der Datenbank automatisch mit den
+Zugdaten ergänzt? Im Grunde könnte man den Verspätungen
+Namen geben wie Tiefdruckgebieten. Dann müßte
+der Kollege nur noch z. B. "VS Volker" eintippen
+(VS für Verspätung, oder wie immer das auf bahnsch heißt)
+und ein Textbaustein mit Entschuldigung und Zugdaten
+ginge an dich raus.

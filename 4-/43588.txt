@@ -1,0 +1,17 @@
+Das ist nicht gesagt; Selbst ERKG muß seine Resourcen begrenzen. 
+Meines Wissens kann man nie mehr als 1000 wirklich abrufen. Das dürfte 
+in der Praxis auch fast immer reichen, denn wenige Leute gehen überhaupt 
+jenseits die ersten 50. Aus den 1000 werden dann anscheinend noch einige 
+gestrichen.
+
+Interessant ist die letzte abrufbare Seite nur dann, wenn sie bei 
+deutlich weniger als 1000 endet und, wie im zitierten Fall, dort steht, 
+daß die weiteren Ergebnisse unterdrückt wurden, weil sie fast identisch 
+sind. Dann handelt es sich beim Rest vermutlich um Scheintreffer, aber 
+nicht um Fehler in Epefs Index, sondern eher um automatisch erzeugten 
+Web-Müll.
+
+-- 
+Ingolf Mathuse working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

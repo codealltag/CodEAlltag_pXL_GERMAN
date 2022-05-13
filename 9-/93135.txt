@@ -1,0 +1,9 @@
+Da denke ich an einen Zustand, der *folgt*, auch ohne Knopfdrücken; also
+typischerweise eine automatische Schaltung. 
+
+Bei einer Ampel ist nach "rot" der Folgezustand "rot-gelb" (D) bzw.
+"grün" (CDN).
+
+-- 
+nun schmeckt, wer ich sei, ihr gugelnarren! PARACELSUS
+  GRIMM, Deutsches Wörterbuch

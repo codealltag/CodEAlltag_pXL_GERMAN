@@ -1,0 +1,47 @@
+Im Usenet? Doch, das kann man ziemlich sicher ausschließen. Der letzte
+7-Bit-Server, der für de.*` relevant war, wurde vor ziemlich genau 20
+Jahren upgegradet (Es gab danach noch ein paar Unes-Hosts, aber da
+war nicht "7-Bit" das Problem, sondern die nicht-reversible
+Konvertierung in EBCDIC und zurück. Und auch die sind mindestens seit 15
+Jahren Geschichte).
+
+Das Argument würde außerdem genauso auf 8-Bit-Zeichensätze wie auf
+Unicode zutreffen, und ich stelle fest, dass Du Dich nicht scheust, ein
+"ß" zu verwenden.
+
+
+Richtig, aber irrelevant.
+
+
+Ebenfalls richtig, wobei die Usenet-Konventionen (Unterstreichen,
+ASCII-Art, Zeilenbreite von ca. 70 Zeichen) stark für eine
+Festbreitenschrift sprechen. 
+
+
+Zumindest ist der Unterschied mit freiem Auge kaum erkennbar.
+Typographisch korrekte Gedankenstriche zu verwenden, sehe ich daher als
+wenig sinnvoll an. Andererseit schadet es auch nicht, also wenn wer
+will, soll er es tun.
+
+Typographische Anführungszeichen hingegen unterscheiden sich auch in
+einer Fixbreitenschrift deutlich von „"“.
+
+
+Kommt darauf an. In desd sehe ich tatsächlich keinen großen Nutzen in
+der Verwendung von typographischen Anführungszeichen. Das Double-Quote
+ist genauso lesbar und (marginal) leichter zu tippen. In Programmier-
+Newsgroups hingegen tendiere ich dazu, die ASCII-Quotes „"“, „'“ und „`“
+für Programmcode zu reservieren und im Text typographische
+Anführungszeichen zu verwenden, um Verwechslungen zu vermeiden.
+
+
+Und somit hat es wahrscheinlich nichts mit Unicode zu tun. 
+(Wahrscheinlich mit einem fehlenden oder kaputten Content-Type Header).
+
+	hp
+
+[1] Ich bin mit dem Wort Zitat hier nicht zufrieden, aber mir fällt kein
+    besseres ein.
+
+-- 
+   _  | Eilt N. Ran    | Fluch der elektronischen Textverarbeitung:

@@ -1,0 +1,8 @@
+Die oben verlinkte Erklärung richtet sich an Leute, die schon wissen,
+wie "foo" und "bar" benutzt werden, aber sich fragen, wo die herkommen.
+Das ist also ein Eintrag aus dem etymologischen Wörterbuch der
+Informatik, nicht aus dem Bedeutungswörterbuch.
+
+-- 
+Q: What do computer engineers use for birth control?
+A: Their personalities.

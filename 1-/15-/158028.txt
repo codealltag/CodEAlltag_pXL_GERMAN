@@ -1,0 +1,26 @@
+Benutzerkennung und Kennwort empfinde ich ziemlich eindeutig
+zuordenbar. ;)
+
+Aber eigentlich muß man sich nur fragen, ob eine Losung damals
+Authentifizierung oder Autorisierung war. Da sie nicht den "Nutzer"
+selbst identifiziert, sondern nur seine Berechtigung, bin ich
+geneigt, sie als Passwort anzusehen. 100%ig eindeutig ist das nicht,
+zugegeben.
+
+Wenn man nun noch solche Dinge wie Role-Accounts ("root", "administrator")
+betrachtet, so dienen diese doch ausschließlich der Autorisierung, nicht
+der Authentifizierung.
+
+
+1977.
+
+
+Quelle: Die Unausprechliche.
+
+
+Vinzent.
+
+-- 
+A C program is like a fast dance on a newly waxed dance floor by people carrying
+razors.
+           --  Ivo Golfingers

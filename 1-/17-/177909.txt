@@ -1,0 +1,13 @@
+Bei mir steht bei allen Sprachen (dass die mit Zeichenkodierungen 
+korrespondieren sollen, ist auch eine Indirektion, von der man erstmal 
+wissen muss) Sans Serif / serif / sans-serif / monospace.
+
+
+Bei mir ist es halt auch so ein chinesischer Font, und zwar ein extrem 
+hässlicher. Beispielsweise sind die Anführungszeichen um "lesbar" total 
+verschwommen.
+
+Auch der Font, der früher für die osteuropäische Zeichenkodierung 
+(iso-8859-2?) automatisch ausgewählt wurde, war hässlich.
+
+Gruß Arian

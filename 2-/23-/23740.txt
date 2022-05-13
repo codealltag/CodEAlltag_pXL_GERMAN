@@ -1,0 +1,11 @@
+Und da steht ja auch, daß diese Software, die Sub-Versionen von
+Quellcode verwalten kann, eine gewisse Subversion darstellt. Gemeint
+ist, daß das bisher übliche Programm (CVS), inzwischen etwas in die
+Jahre gekommen, etwas subversiv abgelöst werden soll. Schreiber dieses
+ist wohl eher konterrevolutionär.
+
+
+Das natürlich.
+
+Viele Größe
+Carlos

@@ -1,0 +1,28 @@
+Das kann ich lediglich für bestimmte interaktive VHLLs einigermaßen
+nachvollziehen, aber selbst da bin ich mir nicht sicher, ob das dem
+enspricht, was Dir hier vorschwebt, denn i.a. hat ein Programm, das
+gerade geändert wird, den Zustand "inaktiv".
+
+Wenn ich Jean-Claude richtig verstanden habe, meinte er damit nicht
+"Debugging", sondern eine ganz bestimmte Entwicklungsweise, die
+als XP ("Extreme Programming") bekannt ist: Entwickler und Kunde
+sitzen quasi zusammen und bilden eine "Feedback-Schleife":
+
+   1. Entwickler zeigt dem Kunden, /was/ momentan /wie/ geht
+   2. Kunde schaut sich das an
+   3a. Kunde ist happy -> weiter mit 6.
+   3b. Kunde hat Änderungswünsche, diskutiert sie mit Entwickler
+   4. Entwickler programmiert diese Änderungen "live"
+   5. zurück zu 1.
+   6. nächstes Problem bearbeiten, oder was auch immer...
+
+
+Abgesehen davon, daß ich in diesem Fahrzeug nicht den Insassen
+spielen möchte, muß das "steuernde" Programm sehr wohl dazu in
+der Lage sein, auf neue Situationen zu reagieren -- zumindest
+im normalen Straßenverkehr; ein Gefährt automatisch von A nach
+B zu kutschieren, ist bei "Rohrpost" und Großlagerverwaltung
+schließlich schon sehr lange üblich, incl. Kollisionsvermeidung.
+
+
+ewald

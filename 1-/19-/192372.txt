@@ -1,0 +1,26 @@
+* Berend Clute:
+
+
+Richtig.
+
+
+Aber das alltagssprachliche Äquivalent einer Menge.
+
+
+Das war selbstverständlich keine Definition - so funktionieren
+biologische Definitionen nicht, in der Biologie wird das
+allenfalls ein Indiz sein. Daher gehe ich mal davon aus, daß Du
+mir da nur ein symbolisches gerupftes Huhn über die Mauer geworfen
+hast. Ich gebe zu bedenken:
+
+  Wenn man in der Alltagssprache sagt Katzen haben einziehbare
+  Krallen, dann bedeutet dies nicht unbedingt Alle Katzen haben 
+  einziehbare Krallen im quantorenlogischen Sinne, es kann auch 
+  bedeuten Die typische Katze hat einziehbare Krallen.�, also 
+  Die meisten Katzen haben einziehbare Krallen.�, es kann aber 
+  Ausnahmen geben.
+
+
+-- 
+Spell checker (n.) One who gives examinations on witchcraft.
+  Otto Craatz in sci.lang

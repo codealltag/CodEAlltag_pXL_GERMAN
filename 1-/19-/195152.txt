@@ -1,0 +1,8 @@
+Wenn’s denn eine ist. Ohne „http://“ ist es nur ein Name, kein Locator.
+Auch wenn die meisten Webbrowser, denen man so was vorwirft[1], es
+toleranterweise als URL auffassen.  
+
+
+vG, jetzt dem URL fussmarsch://bett.schlafecke.wohnung folgend
+
+[1] projektiv, nicht akkusativ.

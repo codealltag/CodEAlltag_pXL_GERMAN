@@ -1,0 +1,23 @@
+Abstand bezieht sich auf zwei Punkte.
+Man legt gedanklich eine Gerade durch diese zwei Punkte und die Länge 
+des Abschnittes zwischen diesen beiden Punkten heißt Abstand (der beiden 
+Punkte).
+
+Die Erde ist nun kein Punkt, sondern in etwa eine Kugel, genau wie die 
+Sonne. Deswegen muß man angeben, welchen Punkt man meint.
+(Der Erdmittelpunkt scheint mir eine sinnvolle Wahl zu sein.)
+
+Abstand braucht kein weiteres Attribut (wie 'Erd-') wenn man einfach 
+'Länge' meint (bzw. Distanz in Metern). Man könnte aber auch andere 
+Arten von Distanzen meinen, wobei dann sinnvoll wäre, diesen näher zu 
+umschreiben.
+
+Dein Sprachkonstrukt mit 'Erdabstand' scheint aber zu meinen 'Abstand 
+der Erde von ...'.
+
+Beim Abstand kann man aber nicht den Ausgangspunkt als Attribut nehmen, 
+sondern nur den Endpunkt, (etwa: "Mondabstand von der Erde"), wenn man 
+das schon so ausdrücken will, da der Referenzpunkt eher der Standort des 
+Beobachters wäre und der hat keinen Abstand zu sich selber.
+
+MASSIMO

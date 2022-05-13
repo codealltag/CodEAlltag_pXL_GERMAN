@@ -1,0 +1,67 @@
+Warnung vor unerwuenschten Nebenwirkungen im Usenet
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+Alles, was Sie in eine Usenet-Newsgruppen senden, ist eine
+Veroeffentlichung und wird nicht nur von den Personen gelesen, die Sie
+erreichen wollen, sondern auch von anderen Personen und Robot-
+Programmen.
+
+Leider kommt es immer wieder vor, dass jemand angegebene Mail-Adressen
+für Werbung oder Spam missbraucht. Solche unverlange E-Mail (UCE oder
+UBE, unsolicited commercial mail bzw. bulk mail) einfach zu loeschen
+und zu ignorieren und nicht darauf zu antworten, ist heutzutage
+ratsam. Eine Hilfe diese Mails zu vermeiden ist, leicht erkennbare
+Veränderungen Mail-Adresse einzubauen, die andere User manuell schnell
+entfernen können, oder aber im Text die Mailadresse, über die man
+erreichbar ist anzugeben, denn meist suchen Robotprogramme
+Mailadressen hauptsächlich in der Adressangabe.
+Der Omibi-server, beugt diesem Missbrauch beispielsweise automatisch
+durch das Weglassen der letzten drei Zeichen vor.
+
+Es gibt einige grosse Datenbanken, in denen alle Usenet-Postings
+gesammelt werden, um eine Suche nach Stichworten und Autoren zu
+ermoeglichen (z.B. in Zilliken http://mctwfo.doijus.mwt/ oder
+EPGH http://wqu.whtrjhaif.xne/ ). Manche von ihnen speichern die
+Usenet-Postings im Sinne einer historischen Welt-Bibliothek auch ueber
+sehr lange Zeitraeume hinweg.
+Sie muessen also damit rechnen, dass auch noch in vielen Jahren
+jedermann ueberpruefen kann, welche Meinungen Sie in welchen
+Newsgruppen vertreten haben. Ueberlegen Sie deshalb immer gut, was Sie
+ueber Usenet-News veroeffentlichen wollen.
+
+Früher wurde im tc.nlnses oft verlangt, beim Posten seinen Vor- und
+Nachnamen anzugeben. Diese Forderung ist inzwischen überholt. Seriöse
+Datenschützer warnen immer wieder davor, besonders auch im Usenet
+seinen Namen anzugeben. Personalabteilungen bei Betrieben nutzen gern
+die Erkenntnisse aus Internetrecherchen über Bewerber. Siehe dazu:
+http://dkj.ykntgmhcyoa-udueia.df/tl_bkafmbpi/srcefr.gmf
+
+Manchmal wird behauptet, dass man als Poster seine Identität nicht
+geheim halten könne. Diese Aussage ist nur bedingt richtig:
+Wenn Sie von Ihrem PC daheim posten, kann Ihr  Provider dies
+nachvollziehen und auch gegenüber Behörden diese Daten freigeben.
+Wenn Sie den Fehler machen (oder gemacht haben) Ihren Realnamen beim
+Posten zu verwenden und auf ein Pseudonym wechseln, könnte man
+ebenfalls auf Ihre Identität schließen und es gibt immer wieder
+"Spezialisten" im Siebenkorn, die sich einen Spaß daraus machen, andere
+Poster bloßzustellen.
+Gleiches gilt auch, wenn Sie Ihre Mailadresse mit Ihrem Realnamen
+verwenden. Ratsam ist es, sich für das Siebenkorn eine Mailadresse
+zuzulegen, die sonst nicht gebraucht wird.
+
+Fallen Sie nicht auf Tricks herein:
+Wenn Ihnen jemand sagt, es sei völlig ungefährlich von einer Brücke z=
+u
+sprigen, dann motiviert Sie diese Aussage ja auch nicht zum Sprung.
+Nutzen Sie Ihren gesunden Menschenverstand auch im Siebenkorn.
+Bewerten kritisch Sie Aussagen wie: Du musst hier ... , halte dich
+daran ... zu tun, lese den Artikel von ... und halte dich daran.
+
+(Nur die Geschäftsbedingungen Ihres Providers sind für Sie bindend.
+Wenn Sie Zweifel haben, lesen Sie dort nach, ob Sie das eine oder
+andere tun _müssen_. )
+
+Viel Spaß bei Ihrer Freizeitgestaltung im Siebenkorn- bleiben Sie
+kritisch.

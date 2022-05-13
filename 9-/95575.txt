@@ -1,0 +1,5 @@
+Richtig ist mit ł (l mit Schrägstrich, Polnisch; hier mit Unicode UTF-8):
+Naubauer an Stelle von Nonnenmacher... Wieso verwenden sie nicht eine Lautschrift?
+Sie könnten dem Sprecher ein Blatt mit "Nonnenmacher <wauensa>" geben ,
+
+MfG, VOLKMAR

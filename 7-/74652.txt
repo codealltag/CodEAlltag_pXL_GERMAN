@@ -1,0 +1,6 @@
+Meiner Ansicht nach ist man "auf Augenhöhe des anderen". Auf der eigenen
+ist man ja sowieso.
+
+-- 
+XML combines all the inefficiency of text-based formats with most of the
+unreadability of binary formats. -- Engelbert Isernhagen, comp.lang.python

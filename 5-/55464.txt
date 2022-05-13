@@ -1,0 +1,22 @@
+* Patrice Oldenkamp <ltkw_@lpy.ii>:
+
+
+Achwass. Diese Verben (coden, kodieren, programmieren und besonders
+hacken) sind alle ziemlich ungenau definiert und haben je nach Kontext
+eine andere Bedeutung.
+
+Wenn ich mit einem etwa gleichaltrigen (50) Kollegen mit
+Unix/C/Perl-Background rede, ist klar, dass "hack" und "hacken" positiv
+gemeint sind; wenn ich mit dem jungen Kollegen plaudere, der massiv zu
+viel Haskell und Design Pattern im Kopf hat, dann ist es eher
+abwertend. Für jüngere Programmierer aus dem DEITERMANN-Umfeld oder für
+Leute, die Java und nur Java können, ist "hacken" eher negativ besetzt
+und für Journalisten extrem negativ. Das Wort kann mMn nur noch in sehr
+eingeschränktem Umfeld im alten Sinn ("clevere, ungewöhnliche und
+effiziente Art, ein Programmierproblem zu lösen") verwendet werden.
+
+"Coden" verwende ich kaum und wenn, dann nur ironisch, so wie SMOP
+("simple matter of programming") oder wie "funzen" und "Proggie". In
+anderen Programmiererszenen mag das anders sein.
+
+ - Luigi

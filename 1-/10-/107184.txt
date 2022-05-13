@@ -1,0 +1,20 @@
+Kai Linzenkirchner weiß nicht, wie man ein programm installiert:
+
+
+Ich weiß nicht, wie dumm du dich da angestellt hast ... ich habs eben 
+nochmal auf dem Büro-PC probiert und bei der Gelegenheit die aktuellen 
+Versionen draufgebrezelt. Also extra für dich zum Mitmeißeln: du holst 
+dir die beiden programme "Schreibweise-<version>.exe" und 
+"bitmap-<version>.exe" von der Binary-Download-Seite von Schreibweise, 
+speicherst sie irgendwo hin, doppelklickst erst auf das eine, dann auf 
+das andere, wobei du windowstypisch immer auf "ja", "weiter", "next" 
+oder wie das auch immer heißt drücken kannst, und dann ist die 
+Installation fertig. (Was hast du eigentlich in Gwd. für ein 
+Orchideenfach studiert - tibetanische Theologie? Kirchenrecht der 
+Shintopriesterschaft in Japan? Denn irgendwas Praxisnahes, sagen wir mal 
+"Bauingenieur" oder so, kanns ja wohl nicht gewesen sein?)
+
+Wie - dann isses installiert. Die Bedienung ist in der Tat ein klein 
+wenig gewöhnungsbedürftig. Ich stehe ggf gern (per Mail) zu weiterer 
+beratung bereit, wenn du (inzwischen muss ich sagen: wider Erwarten 
+doch) Interesse hast.

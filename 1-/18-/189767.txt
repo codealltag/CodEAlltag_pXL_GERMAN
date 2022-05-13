@@ -1,0 +1,7 @@
+* Luca Altmeier:
+
+
+Stimmt, in dem Fall bleibt ohne Zusatztools wohl nur charmap.
+
+-- 
+Strykowski--the original point and click interface

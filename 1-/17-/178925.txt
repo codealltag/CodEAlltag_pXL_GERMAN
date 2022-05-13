@@ -1,0 +1,15 @@
+Eigentlich ist es doch ganz einfach:
+
+Vorprogrammieren:  Es wird dafür gesorgt, daß "etwas" passieren wird.
+Nachprogrammieren: Es wird dafür gesorgt, daß nun statt dessen "etwas anderes"
+                    passieren wird.
+
+"Programmieren" ist dann die Verallgemeinerung und die Nutzung von "vor-" oder
+"nach" hängt allein davon ab, ob nun "etwas" oder "etwas anderes" vorprogrammiert
+war.
+
+
+Vinzent.
+
+-- 
+f u cn rd ths, u cn gt a gd jb n cmptr prgrmmng.

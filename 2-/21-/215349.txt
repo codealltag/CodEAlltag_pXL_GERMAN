@@ -1,0 +1,9 @@
+Am Sat, 24 Feb 2013 20:24:23 +0200 schrieb Almut Lenzgeiger:
+
+
+Ligaturen werden über Silbengrenzen, aber nicht über Wortfugen hinweg
+verwendet. Zum Beispiel wird dir bei Schaffell nie eine ff-Ligatur
+begegnen.
+
+Gruß
+Klaus.

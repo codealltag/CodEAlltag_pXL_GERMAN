@@ -1,0 +1,9 @@
+Entschuldige, das hatte ich übersehen. Nein, "links" und "halt" sind auch
+nicht mit "Truernit" vergleichbar, weil sie keine Attribute sind. Die
+Kommandos enthalten gedachte Prädikate, was man auch daran erkennt, dass man
+ihnen kein Prädikat mehr hinzufügen kann, ohne sich auf die Ebene der
+Metasprache zu begeben. "Forelle Müllerin steht bei uns seit Jahren auf der
+Karte" ist dagegen ein möglicher Satz.
+
+Größe,
+Didier

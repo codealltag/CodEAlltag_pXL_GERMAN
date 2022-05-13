@@ -1,0 +1,10 @@
+* Enrico Feißt:
+
+
+Bei mir kommt nur immer wieder die erste Aussage. Und das ohne
+Skriptblocker, und ohne daß Adblock irgendwas blocken würde. Also
+muß wohl irgendein Tracker erlaubt werden, um die Seite zu
+benutzen, und dazu ist sie mir nicht vertrauenswürdig genug.
+
+-- 
+*Hardware* /n./ The parts of a computer that can be kicked

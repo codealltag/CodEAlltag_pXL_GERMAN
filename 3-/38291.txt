@@ -1,0 +1,19 @@
+* Hilmar Funcken <zs@igqbmsp.wpz>:
+
+Nunja, die haben natürlich alle ein Quarzwerk, und das Signal von DCF77
+wird aus Stromspargr�nden nur ab und zu verwendet, um die Quarzuhr
+nachzustellen.
+
+Schwingquarze gibt es in verschiedenen Toleranzklassen. Bei teureren Uhren
+werden typischerweise gute eingesetzt, aber beim Reisewecker für
+4,95 EUR und bei Rechnern wird gern gespart. Die Real-Time-Clocks bei PCs
+gehen oft mehere Sekunden pro Tag fehl.
+
+Eine andere Möglichkeit für genaue Zeit über Funk ist GPS. Die
+GPS-Empfänger brauchen allerdings deutlich mehr Strom, als man in einer
+Armbanduhr zur Verfügung hat, aber nachdem ja nun schon jedes zweite
+teurere Mobiltelefon sowas hat, ist eigentlich anzunehmen, dass dort
+diese GPS-Zeit verwendet wird. Aber auch in Mobiltelefonen werden die
+GPS-Empfänger nur dann aktiviert, wenn sie benötigt werden.
+
+ - Orlando

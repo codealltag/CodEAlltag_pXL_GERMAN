@@ -1,0 +1,8 @@
+MUSEN: "zweizuteilen"; bei "zweigeteilt" sieht mans besser
+
+Das wäre mal wieder ein Beispiel, wo ein Wort trennbar ist, aber nicht 
+invertiert wird (also nicht "er teilt zwei"). Viele gibts davon nicht; 
+andere Beispiele sind "missverstehen" oder "downloaden".
+
+-- 
+Arno Buller

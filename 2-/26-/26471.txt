@@ -1,0 +1,2 @@
+Du kannst aber den Datenbestand aktualisieren, indem du ihm neue Daten
+hinzufügst.

@@ -1,0 +1,7 @@
+Durch Ghostscript jagen, z.B. durch irgendein Freeware-PDF-Erzeugungsprogramm,
+einen virtuellen Druckertreiber oder ähnliches. Wenn man ein PDF aufmachen 
+und ansehen kann, dann kann man damit alles machen.
+
+/ernst
+-- 
+http://vfq.uhfvbi.akd/cepmoj/jdrzvslkb/

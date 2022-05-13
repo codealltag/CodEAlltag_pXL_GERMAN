@@ -1,0 +1,20 @@
+Gibts im Englischen und anderen Sprachen auch, dass die Gegenwart durch 
+das Partizip ausgedrückt wird, und wenn Partizipien eben nach Genus und 
+Numerus dekliniert werden, dann diese auch. Vgl. deutsch
+
+  ich (m) schreibe: ich bin ein Schreibender
+  ich (f) schreibe: ich bin eine Schreibende
+  du (m) schreibst: du bist ein Schreibender
+  du (f) schreibst: du bist eine Schreibende
+
+Skurril ist allenfalls, dass die Pronomina in der 1. Person 
+geschlechtsunabhängig, in der 2./3. Person aber geschlechtsabhängig sind, 
+und die finiten Verbformen auch:
+
+  ich (m) schrieb:  katavti
+  ich (f) schrieb:  katavti
+  du (m) schreibst: katavta
+  du (f) schreibst: katavt
+
+-- 
+Lutz Johanns

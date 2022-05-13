@@ -1,0 +1,12 @@
+Die Grundlagen dessen, was an der Uni "Lineare Algebra" heißt, werden
+an Schulen meist unter dem Namen "analytische Geometrie" gelehrt.
+Klingt zwar komisch, ist aber so.
+
+Raum -> Geometrie
+von der Vorstellung lösen -> analytisch
+keine Vorstellung mehr vom Raum -> Algebra
+
+oder so ähnlich... oder vielleicht auch nicht? :-)
+
+Gruß
+Karlheinz

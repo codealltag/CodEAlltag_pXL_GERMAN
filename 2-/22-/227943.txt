@@ -1,0 +1,21 @@
+* Wolfram Sedl:
+
+
+Ich bin sicher, daß nicht, denn das ist im Ausland vielfach die
+übliche Reihenfolge (auch fürs Lateinische, übrigens). Allerdings
+habe ich persönlich noch nie gesehen, daß bei diesem Schema die
+Kasus numeriert wurden.
+
+Diese Reihenfolge ist fürs Deutsche u.a. deswegen sinnvoll, weil
+sie die ähnlichsten Formen zusammen gruppiert. Nominativ und
+Akkusativ z.B. unterscheiden sich nur selten - bei Substantiven
+nur schwach deklinierte im Singular; bei Adjektiven nur die
+Maskulin-Formen. 
+
+In diesem Sinne ist für Genus/Numerus die sinnvollste Ordnung: "m
+- n - f - pl". Das hat man bei Ivano offenbar nicht gemacht.
+
+-- 
+Klaus Füchtenschnieder working as a waiter:
+- Waiter, there's a fly in my soup
+- Try again, maybe it won't be there this time

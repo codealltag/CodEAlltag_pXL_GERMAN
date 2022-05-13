@@ -1,0 +1,25 @@
+Klare Antwort: ja. *Hier* sollte er es tun.
+
+Wenn ich mich beschwere, daß ich Deine Umlaute im Text nicht lesen kann, 
+obwohl sie korrekt codiert sind, kannst Du zu Recht sagen, ich möge mir 
+einen besseren Newsreader zulegen oder einen anderen Server suchen oder 
+eben nicht meckern.
+
+Umlaute im Subject kommen aber bei mir falsch an, obwohl ich einen 
+ordentlichen Newsreader und einen ordentlichen Server habe, weil sie von 
+  irgendwem Vorposter mangels brauchbarem Newsreader oder Server 
+verhunzt wurden und es für alle folgenden auch verhunzt bleiben.
+
+Ich sehe vier Möglichkeiten:
+- man verbietet allen ohne deutschf�hige Newsreader/Server am Usenet 
+teilzunehmen.
+- jeder, der auf ein verhunztes-Subject-Posting antwortet, ersetzt die 
+kaputten Buchstaben händisch
+- man läßt alles laufen und zerhackt einen Thread in diverse 
+unterschiedlich ?ISO-8859-1?Q?Re:_=EF=BF1/2_st-Subthreads
+- man verzichtet von vornherein auf Umlaute im Header.
+
+Welche der vier Methoden Du bevorzugst, ist Deine Sache. Ich favorisiere 
+ganz klar die letzte.
+
+-kut

@@ -1,0 +1,5 @@
+Da es mit Thunderbird richtig aussieht (mit einer Fixbreitenschrift),
+ist die Vermutung, dass es an format=flowed liegt, jedenfalls nicht von
+der Hand zu weisen.
+
+	hp

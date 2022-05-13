@@ -1,0 +1,13 @@
+* Christof Neunheuser:
+
+
+Das geht hier auch, sogar in ISO-8859-1: z.B. so. Das nbsp ist eins der
+wenigen Zeichen, dessen ISO-Code ich im Kopf habe. In Unicode stehen
+sogar verschieden große Leerräume zur Verfügung. 
+
+Ich finde das aber in Festbreitenschrift häßlich. Der Abstand ist
+immerhin größer als ein Zeichen, weil das "." bereits viel Leerraum
+enthält - für mein Gefühl genug, um als schmaler Leerraum zu genügen.
+
+-- 
+The Internet? Is that thing still around? - Paul Weckebrod

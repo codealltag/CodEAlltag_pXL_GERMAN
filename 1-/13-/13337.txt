@@ -1,0 +1,10 @@
+Stimmt, schlechtes Beispiel. Also:
+
+  In einem Walde lebte ein Mann, der hatte drei Söhne ...
+  In einem Wald hat * ein Mann gelebt, der hat drei Söhne gehabt ...
+
+* hier würde ich "einmal" einsetzen, damit es erträglich wird. Beim
+Präteritum braucht man das nicht, da ist das schon inbegriffen.
+
+-- 
+Friedhelm H.

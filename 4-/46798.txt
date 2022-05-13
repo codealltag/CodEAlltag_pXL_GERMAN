@@ -1,0 +1,13 @@
+Auf nichtdeutschen Tastaturen ist � im allgemeinen nicht vorhanden. 
+Daher verschwindet es allmählich auch auf deutsch aus der 
+wissenschaftlichen Literatur, obwohl C eigentlich für Coulomb reserviert 
+war. Das ist aber korrekt durch As zu ersetzen. ähnliches gilt für 
+Fahrenheit und Farad.
+
+Da Grade im allgemeinen nicht objektiv reproduzierbare oder theoretisch 
+unverstandene Einheiten kennzeichnen, kann man bei C und F, die driekt 
+auf Kelvin bezogen sind, getrost drauf verzichten.
+
+-- 
+
+Carl Passmann

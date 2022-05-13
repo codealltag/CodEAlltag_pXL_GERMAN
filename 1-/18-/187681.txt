@@ -1,0 +1,18 @@
+Ja, keinen kyrillischen Zeichensatz. Ich habe die MS-OE-Einstellungen
+erneut durchgecheckt: Da stand MIME -- OK! -- und "Westeuropäisch
+(Windows)",  jetzt doch "Westeuropäisch (ISO)" genommen. "Lateinisch 9
+(ISO)" gibt es eigentlich auch...
+Test-Zeichenkette: äüöß
+
+Bei all denen hyperklugen ;-) Ratschlägen fällt auch auf: "Klaus" sagt
+einem, wie man Threads praktisch speichern kann. An "Thread speichern
+als..." hat man nicht gedacht. Warum sollte ein Anwender nicht eine Datei
+"Gänsefüßchengeste.DBX" erzeugen und mit MS-OE öffnen und korrekt anzeigen
+können?! Bei Käslädle-Groups kann ein Thread mit Baumstruktur in einer
+HTML-Seite angezeigt werden.
+
+MS-OE kann z.B. Nachrichten oder eMails nur einzeln speichern, ich benutze
+ein Extraprogramm, um mehrere Objekte auf einmal einzeln zu speichern. DBFA
+macht zwar gute Produkte, berät aber das Feld weiteren Entwicklern.
+
+MfG, DENIS [Kifw_Wyb/cn/k-cfgfjw.ye]

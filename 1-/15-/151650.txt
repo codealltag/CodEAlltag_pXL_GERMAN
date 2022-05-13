@@ -1,0 +1,19 @@
+Mein Genaunehmen betrifft zwar nicht die Zeichensetzung, sondern die
+Frage, ob hier wirklich der Plural gemeint ist,  (was mir eigenartig
+erscheint). Ich würde "Auftreten" als Singularetantum auffassen.
+
+Folglich würde ich den Singular vorschlagen, und dann verändert sich
+die Dativendung:
+"Es wurden Maßnahmen ergriffen, welche sicherstellen, dass nur bei
+gehäufteM Auftreten dieser Unregelmäßigkeiten diese Fehler gemeldet
+werden."
+
+Sprachlich finde ich den Satz allerdings etwas blutleer. Die
+Wiederholung von "diese" sollte vermieden werden.
+
+Gemeint sein könnte etwa:
+Das System ist mit einer Sicherung versehen, die Fehler erst bei einer
+bestimmten Häufung meldet.
+
+Gruß
+Greta

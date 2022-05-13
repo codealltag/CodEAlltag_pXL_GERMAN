@@ -1,0 +1,20 @@
+Bei GDI-Druckern (proprietäre Windows-Lösung) muß man Glück haben,
+ansonsten: Drucker anschließen, fertig.  In manchen Fällen gibt es
+auch CUPS/lpr-Treiber vom Anbieter, die man zuerst herunterladen
+und installieren muß.  Völlig unproblematisch sind i.a. Netzwerk-
+Drucker mit Ethernet-Anschluß und Postscript-Emulation.
+
+Aber klar: nicht jedes Peripheriegerät läuft auch unter Linux[1];
+man sollte sich also schon vor dem Kauf informieren.  Wenn man
+neue Reifen für sein Auto kauft, kann man schließlich auch nicht
+alles nehmen, was aus schwarzem Gummi ist und in der Mitte ein
+Loch hat.
+
+[1] Zur Not kann man evtl. Windows parallel zu Linux installieren
+    (z.B. mit VirtualBox), den Drucker unter Windows installieren
+    und als Netzwerkdrucker einrichten; von Linux aus kann man ihn
+    dann über Samba ansprechen (probiert habe ich das noch nicht,
+    aber prinzipiell sollte das möglich sein).
+
+
+artur
